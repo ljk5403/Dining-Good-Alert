@@ -17,7 +17,7 @@ dinning_hall_tuple = ('rhetas-market', 'lizs-market', 'gordon-avenue-market', 'f
 #meals_tuple = ('breakfast', 'lunch', 'dinner')
 meals_tuple = ('lunch', 'dinner')
 
-T0_good_dish_list = ['Shrimp', 'Tuna', 'Salmon', 'Cod', 'Tilapia', 'lamb', 'curry', 'beef']
+T0_good_dish_list = ['Shrimp', 'Tuna', 'Salmon', 'Cod', 'Tilapia', 'lamb', 'curry', 'beef', 'pork', 'fish']
 
 
 
@@ -27,7 +27,7 @@ def xprint(message):
 
 def get_dinning_hall_url(dinning_hall : str, meal : str, date : datetime):
     url_base = "https://wisc-housingdining.api.nutrislice.com/menu/api/weeks/school/"
-    url = "https://wisc-housingdining.api.nutrislice.com/menu/api/weeks/school/rhetas-market/menu-type/dinner/2024/04/25/"
+    #url_example = "https://wisc-housingdining.api.nutrislice.com/menu/api/weeks/school/rhetas-market/menu-type/dinner/2024/04/25/"
     if dinning_hall not in dinning_hall_tuple:
         #xprint("Not correct meal! aborting")
         raise ValueError("results: meal must be one of: ", dinning_hall_tuple)
@@ -80,9 +80,10 @@ def find_good_dishes(dish_list, menu_dict):
             good_dishes_menu[dish] = (a,b)
     return good_dishes_menu
 
-def find_good_dishes_someday_somewhere_somemeal(dish_list, date_str, dinning_hall, meal):
+def find_good_dishes_someday_somewhere_somemeal(dish_list, date, dinning_hall, meal):
     #format date in correct form: datetime
-    date = datetime.strptime(date_str, '%Y-%m-%d')
+    if not isinstance(date, datetime):
+        date = datetime.strptime(date_str, '%Y-%m-%d')
     target_url = get_dinning_hall_url(dinning_hall, meal, date)
     raw_data=get_menu_raw(target_url)
     menu_dict = get_menu_dict(raw_data, date)
@@ -106,6 +107,18 @@ def summary_of_good_meal(date, meal):
     return summary
 
 
+# Write summary of meals to file
+def summary_generator():
+    today = datetime.now()
+    for meal in meals_tuple:
+        with open(meal+".md", 'w') as f:
+            print("Update at: "+today.strftime('%Y-%m-%d %H:%M:%S'), file=f)
+            pprint.pprint(summary_of_good_meal(today, meal), f)
+        print("Successfully updated "+meal+".md")
+
+
+# TODO: github workflow automate
+# TODO: telegram bot auto push?
 
 
 
