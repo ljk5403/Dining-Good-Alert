@@ -28,5 +28,6 @@ jobs:
         run: |
           git config --global user.email "ljk5403@outlook.com"
           git config --global user.name "AutoUpdater"
+          git add --all
           git commit -m "Updated menu." || exit 0  # Exit gracefully if no changes
           git push
