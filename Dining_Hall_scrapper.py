@@ -1,12 +1,13 @@
 import requests
 from bs4 import BeautifulSoup
-import re
+#import re
 import time
-from datetime import datetime
-import pytz
-import telegram
-import asyncio
+from datetime import datetime, timedelta
+#import pytz
+#import telegram
+#import asyncio
 import os, sys
+import shutil
 import json
 import pprint
 
@@ -17,7 +18,7 @@ dinning_hall_tuple = ('rhetas-market', 'lizs-market', 'gordon-avenue-market', 'f
 #meals_tuple = ('breakfast', 'lunch', 'dinner')
 meals_tuple = ('lunch', 'dinner')
 
-T0_good_dish_list = ['Shrimp', 'Tuna', 'Salmon', 'Cod', 'Tilapia', 'lamb', 'curry', 'beef', 'pork', 'fish']
+T0_good_dish_list = ['Shrimp', 'Tuna', 'Salmon', 'Cod', 'Tilapia', 'lamb', 'beef', 'pork', 'fish', 'curry']
 
 
 
@@ -35,6 +36,10 @@ def get_dinning_hall_url(dinning_hall : str, meal : str, date : datetime):
         raise ValueError("results: meal must be one of: ", meals_tuple)
     return url_base+dinning_hall+"/menu-type/"+meal+"/"+date.strftime('%Y/%m/%d')
 
+
+def get_menu_url_for_human_read(dinning_hall, meal, date):
+    url_base = "https://wisc-housingdining.nutrislice.com/menu/"
+    return url_base+dinning_hall+"/"+meal+"/"+date.strftime('%Y-%m-%d')
 
 
 
@@ -113,19 +118,48 @@ def summary_generator():
     for meal in meals_tuple:
         with open(meal+".md", 'w') as f:
             print("Update at: "+today.strftime('%Y-%m-%d %H:%M:%S'), file=f)
-            pprint.pprint(summary_of_good_meal(today, meal), f)
+            summary = summary_of_good_meal(today, meal)
+            for dhall, dishes in summary.items():
+                menu_link = get_menu_url_for_human_read(dhall, meal, today)
+                print("["+dhall+"]"+"("+menu_link+")", file=f)
+                pprint.pprint(dishes, f)
+            print("", file = f)
+            print("**For each keyword, the first [] includes dishes that contain it in their names, the second [] includes dishes in their discription. Enjoy!**", file=f)
         print("Successfully updated "+meal+".md")
 
 
 # TODO: github workflow automate
+# Done: better .md: include hyperlink to menu, and some explaination
 # TODO: telegram bot auto push?
 
+def old_menu_archiver():
+    for meal in meals_tuple:
+        source_file = meal + '.md'
+        if os.path.exists(source_file):
+            yesterday = datetime.now() - timedelta(days=1)
+            destination_directory = 'archive'
+            new_file_name = yesterday.strftime('%Y-%m-%d') + "_" + source_file
+            destination_file_path = os.path.join(destination_directory, new_file_name)
+            shutil.move(source_file, destination_file_path)
+        else:
+            print("Not found: " + source_file)
 
 
+def github_autoUpdater():
+    old_menu_archiver()
+    for _ in range (3):
+        try:
+            summary_generator()
+        except:
+            print("Error, will retry in 5 seconds...")
+            time.sleep(5)
+            continue
+        else:
+            break
 
 if __name__ == '__main__':
     #raw_test()
-    today = datetime.now()
+    print("")
 
 
 def raw_test3():
