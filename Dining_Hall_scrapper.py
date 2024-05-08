@@ -1,11 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
-#import re
 import time
 from datetime import datetime, timedelta
-#import pytz
 #import telegram
-#import asyncio
 import os, sys
 import shutil
 import json
@@ -111,6 +108,18 @@ def summary_of_good_meal(date, meal):
         summary[dinning_hall] = find_good_dishes_someday_somewhere_somemeal(T0_good_dish_list, date, dinning_hall, meal)
     return summary
 
+# for Markdown
+def add_spaces_to_file(file_path):
+    # Read the original file and collect lines
+    with open(file_path, 'r') as file:
+        lines = file.readlines()
+
+    # Add two spaces at the beginning of each line
+    modified_lines = [line.rstrip('\n') + '  \n' for line in lines]
+
+    # Write the modified lines back to the same file
+    with open(file_path, 'w') as file:
+        file.writelines(modified_lines)
 
 # Write summary of meals to file
 def summary_generator():
@@ -125,6 +134,7 @@ def summary_generator():
                 pprint.pprint(dishes, f)
             print("", file = f)
             print("**For each keyword, the first [] includes dishes that contain it in their names, the second [] includes dishes in their discription. Enjoy!**", file=f)
+        add_spaces_to_file(meal+".md")
         print("Successfully updated "+meal+".md")
 
 
