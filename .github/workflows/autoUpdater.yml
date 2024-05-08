@@ -25,9 +25,4 @@ jobs:
           python -c 'import Dining_Hall_scrapper; Dining_Hall_scrapper.github_autoUpdater()'
 
       - name: Commit and push if changes
-        run: |
-          git config --global user.email "ljk5403@outlook.com"
-          git config --global user.name "AutoUpdater"
-          git add --all
-          git commit -m "Updated menu." || exit 0  # Exit gracefully if no changes
-          git push
+        uses: stefanzweifel/git-auto-commit-action@v5
