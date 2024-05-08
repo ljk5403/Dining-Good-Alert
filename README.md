@@ -2,8 +2,7 @@
 
 Auto update every day on 8 AM.
 
+## [Lunch](lunch.md)
 
-[Lunch](lunch.md)
-
-[Dinner](Dinner.md)
+## [Dinner](dinner.md)
 
