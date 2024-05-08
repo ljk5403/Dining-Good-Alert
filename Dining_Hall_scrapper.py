@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import time
 from datetime import datetime, timedelta
+from zoneinfo import ZoneInfo
 #import telegram
 import os, sys
 import shutil
@@ -9,7 +10,7 @@ import json
 import pprint
 
 
-
+zone = ZoneInfo("America/Chicago")
 
 dinning_hall_tuple = ('rhetas-market', 'lizs-market', 'gordon-avenue-market', 'four-lakes-market', 'carsons-market', 'lowell-market')
 #meals_tuple = ('breakfast', 'lunch', 'dinner')
@@ -123,7 +124,7 @@ def add_spaces_to_file(file_path):
 
 # Write summary of meals to file
 def summary_generator():
-    today = datetime.now()
+    today = datetime.now(zone)
     for meal in meals_tuple:
         with open(meal+".md", 'w') as f:
             print("Update at: "+today.strftime('%Y-%m-%d %H:%M:%S'), file=f)
@@ -146,7 +147,7 @@ def old_menu_archiver():
     for meal in meals_tuple:
         source_file = meal + '.md'
         if os.path.exists(source_file):
-            yesterday = datetime.now() - timedelta(days=1)
+            yesterday = datetime.now(zone) - timedelta(days=1)
             destination_directory = 'archive'
             new_file_name = yesterday.strftime('%Y-%m-%d') + "_" + source_file
             destination_file_path = os.path.join(destination_directory, new_file_name)
