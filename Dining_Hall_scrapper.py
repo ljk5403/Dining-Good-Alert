@@ -127,7 +127,7 @@ def summary_generator():
     today = datetime.now(zone)
     for meal in meals_tuple:
         with open(meal+".md", 'w') as f:
-            print("Update at: "+today.strftime('%Y-%m-%d %H:%M:%S'), file=f)
+            print("Updated at: "+today.strftime('%Y-%m-%d %H:%M:%S'), file=f)
             summary = summary_of_good_meal(today, meal)
             for dhall, dishes in summary.items():
                 menu_link = get_menu_url_for_human_read(dhall, meal, today)
