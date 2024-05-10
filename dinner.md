@@ -1,50 +1,32 @@
-Updated at: 2024-05-09 10:33:12  
-[rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-05-09)  
-{'beef': (['Beef Meatballs'],  
-          ['Tamarind Glazed Pork Chops',  
-           'Bacon Cheeseburger',  
-           'Soup Cream of Potato w/ Bacon']),  
- 'pork': (['Tamarind Glazed Pork Chops'],  
-          ['Pizza Slice Sausage', 'Soup Cream of Potato w/ Bacon'])}  
-[lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-05-09)  
-{'Salmon': (['Salmon Philly Roll (FujiSan)'], []),  
- 'Tuna': (['Spicy Tuna Roll (FujiSan)', 'Tuna Salad'], []),  
- 'beef': ([],  
-          ['Kafta - Testing 2023',  
-           'Country Fried Steak',  
-           'Soup Cream of Potato w/ Bacon']),  
- 'fish': ([], ['Spicy Tuna Roll (FujiSan)']),  
- 'pork': ([], ['Soup Cream of Potato w/ Bacon'])}  
-[gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-05-09)  
-{'Shrimp': (['Coconut Shrimp', 'Pizza Slice Shrimp Pesto'], []),  
- 'beef': (['Beef Meatballs', 'Beef Taco Meat'],  
-          ['Italian Meat Sauce',  
-           'Pepperoni Pizza Slice',  
-           'Soup Cream of Potato w/ Bacon']),  
- 'curry': ([], ['Coconut Vegetable Stew']),  
- 'pork': (['Pork Carnita'], ['Soup Cream of Potato w/ Bacon'])}  
-[four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-05-09)  
-{'beef': (['Italian Beef Sandwich',  
-           'Beef Taco Meat',  
-           'Beef, Chicken & Tofu Medley Stir Fry'],  
-          ['Reuben',  
-           'Mediterranean Nachos',  
-           'Mediterranean Rice Bowl',  
-           'BYO Mediterranean Sandwich',  
-           'Soup Cream of Potato w/ Bacon']),  
- 'pork': ([], ['Soup Cream of Potato w/ Bacon'])}  
-[carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-05-09)  
-{'beef': (['Beef Taco Meat'],  
-          ['Pizza Slice Meat Lovers w/ Bacon',  
-           'Soup Cream of Potato w/ Bacon']),  
- 'curry': (['Coconut Thai Curry Mahi Mahi'], []),  
- 'fish': ([], ['Coconut Thai Curry Mahi Mahi']),  
- 'pork': ([],  
-          ['Pizza Slice Sausage',  
-           'Pizza Slice Meat Lovers w/ Bacon',  
-           'Soup Cream of Potato w/ Bacon'])}  
-[lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2024-05-09)  
-{'beef': ([], ['BYO Mediterranean Sandwich', 'Soup Cream of Potato w/ Bacon']),  
- 'pork': ([], ['Soup Cream of Potato w/ Bacon'])}  
+Updated at: 2024-05-10 03:11:06  
+[rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-05-10)  
+{'Cod': ([], ['Fish Tacos', 'Soup Clam Chowder']),  
+ 'Salmon': (['Grilled Chipotle Salmon'], []),  
+ 'beef': (['Beef Barbacoa', 'Beef Taco Meat'], ['Pepperoni Pizza Slice']),  
+ 'fish': (['Fish Tacos'], ['Grilled Chipotle Salmon']),  
+ 'pork': (['Pork Sausage Links'], ['Soup Clam Chowder'])}  
+[lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-05-10)  
+{'Tuna': (['Tuna Salad'], [])}  
+[gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-05-10)  
+{'Cod': (['Cod Nuggets'], ['Soup Clam Chowder']),  
+ 'Tuna': (['Lemon Pepper Tuna Salad'], []),  
+ 'beef': (['Beef Meatballs', 'Beef Taco Meat'], ['Vegan Taco Filling']),  
+ 'fish': ([], ['Tempura Roll (FujiSan)']),  
+ 'pork': (['Pork Chop Adobo (1)', 'Italian Pork Sausage'],  
+          ['Pizza Slice Sausage', 'Soup Clam Chowder'])}  
+[four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-05-10)  
+{'Cod': (['Miso Cod'], ['Soup Clam Chowder']),  
+ 'Shrimp': (['Sauteed Shrimp'], []),  
+ 'beef': (['Beef Meatballs', 'Beef Taco Meat'], ['Vegan Taco Filling']),  
+ 'fish': ([], ['Miso Cod', 'Vietnamese Pork with Rice']),  
+ 'pork': (['Vietnamese Pork with Rice'], ['Soup Clam Chowder'])}  
+[carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-05-10)  
+{}  
+[lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2024-05-10)  
+{'Cod': ([], ['Soup Clam Chowder']),  
+ 'Salmon': (['Island Spiced Salmon'], []),  
+ 'beef': ([], ["Lowell's OrderIt"]),  
+ 'fish': ([], ['Island Spiced Salmon']),  
+ 'pork': ([], ['Soup Clam Chowder', "Lowell's OrderIt"])}  
   
 **For each keyword, the first [] includes dishes that contain it in their names, the second [] includes dishes in their discription. Enjoy!**  
