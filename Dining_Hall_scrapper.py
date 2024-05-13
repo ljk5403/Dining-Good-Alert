@@ -16,7 +16,7 @@ dinning_hall_tuple = ('rhetas-market', 'lizs-market', 'gordon-avenue-market', 'f
 #meals_tuple = ('breakfast', 'lunch', 'dinner')
 meals_tuple = ('lunch', 'dinner')
 
-T0_good_dish_list = ['Shrimp', 'Tuna', 'Salmon', 'Cod', 'Tilapia', 'lamb', 'beef', 'pork', 'fish', 'curry']
+T0_good_dish_list = ['Shrimp', 'Tuna', 'Salmon', 'Cod', 'Tilapia', 'fish', 'lamb', 'beef', 'pork', 'chicken', 'curry']
 
 
 
