@@ -1,50 +1,34 @@
-Updated at: 2024-05-13 13:14:07  
-[rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-05-13)  
+Updated at: 2024-05-14 03:12:14  
+[rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-05-14)  
 {}  
-[lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-05-13)  
+[lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-05-14)  
 {}  
-[gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-05-13)  
-{'Cod': (['Basket Vegan Cod Beer Battered'], []),  
- 'Salmon': (['Baked Salmon with Mustard Sauce'], []),  
- 'beef': (['Beef Stew w/ Buttermilk Biscuit',  
+[gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-05-14)  
+{'beef': (['Texas BBQ Sliced Beef Brisket',  
            'Beef Meatballs',  
-           'Beef Taco Meat'],  
-          ["Gordon's OrderIt", 'Pizza Slice Deluxe', 'Grilled Cheeseburger']),  
- 'chicken': (['Lemon Pepper Chicken Salad',  
-              'Chicken Tinga',  
-              'Chicken Noodle Soup'],  
-             ["Gordon's OrderIt",  
-              'Beef Meatballs',  
-              'Pizza Slice Deluxe',  
-              'Great Greens']),  
- 'fish': ([],  
-          ['Baked Salmon with Mustard Sauce',  
-           'Basket Vegan Cod Beer Battered']),  
- 'pork': (['Italian Pork Sausage'], ["Gordon's OrderIt", 'Pizza Slice Deluxe'])}  
-[four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-05-13)  
-{}  
-[carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2024-05-13)  
-{'beef': ([], ['Pepperoni Pizza Slice', 'Pizza Slice Deluxe', 'Deli']),  
- 'chicken': (['Chicken Quesadilla',  
-              'Chicken Noodle Soup',  
-              'Chicken Sausage Patties'],  
-             ['Pepperoni Pizza Slice',  
-              'Pizza Slice Deluxe',  
-              'Pork Miso w/Yakisoba Noodles',  
-              'Great Greens']),  
- 'curry': (['Vegan Coconut Cauliflower Curry Soup'], []),  
- 'pork': (['Pork Miso w/Yakisoba Noodles', 'Pork Bratwurst Sandwich'],  
-          ['Pizza Slice Deluxe', 'Deli', 'Canadian Bacon'])}  
-[lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-05-13)  
-{'Cod': ([], ['Petite Fish Sandwich']),  
- 'beef': (['Beef Meatballs', 'Roast Beef', 'Pork & Beef Hard Salami'], []),  
- 'chicken': (['Popcorn Chicken',  
-              'Chicken Noodle Soup',  
-              'Diced Chicken',  
-              'Jamaican Jerk Chicken'],  
+           'Roast Beef',  
+           'Pork & Beef Hard Salami',  
+           'Beef Taco Meat',  
+           'Soup -  Chili Beef & Bean'],  
+          ['Italian Meat Sauce', 'Spicy Steak Fajita']),  
+ 'chicken': (['Giardiniera Chicken',  
+              'Chicken Sausage Patties',  
+              'Diced Chicken'],  
              ['Beef Meatballs', 'Great Greens']),  
- 'curry': (['Vegan Coconut Cauliflower Curry Soup'], []),  
- 'fish': (['Vegan Fish Sandwich', 'Petite Fish Sandwich'], []),  
- 'pork': (['Pork & Beef Hard Salami'], ['Smoked Ham', 'Bacon'])}  
+ 'pork': (['Pork & Beef Hard Salami', 'Pork Bratwurst Sandwich'],  
+          ['Pizza Slice Sausage', 'Smoked Ham'])}  
+[four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-05-14)  
+{}  
+[carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2024-05-14)  
+{}  
+[lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-05-14)  
+{'beef': (['Soup -  Chili Beef & Bean'],  
+          ['BYO Mediterranean Sandwich', "Lowell's OrderIt"]),  
+ 'chicken': (['Diced Chicken', 'Bourbon Chicken'],  
+             ['BYO Mediterranean Sandwich',  
+              'Great Greens',  
+              "Lowell's OrderIt"]),  
+ 'curry': (['Curry Cauliflower & Butternut Squash'], []),  
+ 'pork': (['Apricot Glazed Pork'], ["Lowell's OrderIt"])}  
   
 **For each keyword, the first [] includes dishes that contain it in their names, the second [] includes dishes in their discription. Enjoy!**  
