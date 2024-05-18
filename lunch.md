@@ -1,33 +1,37 @@
-Updated at: 2024-05-17 03:11:09  
-[rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-05-17)  
+Updated at: 2024-05-18 03:10:11  
+[rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-05-18)  
 {}  
-[lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-05-17)  
+[lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-05-18)  
 {}  
-[gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-05-17)  
-{'Cod': (['Fried Cod Basket'], ['Soup Clam Chowder']),  
- 'Shrimp': (['Sauteed Shrimp'], []),  
- 'beef': (['Beef Meatballs',  
+[gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-05-18)  
+{'beef': (['Beef Gravy',  
            'Roast Beef',  
            'Pork & Beef Hard Salami',  
+           'Lamb & Beef Gyro Sandwich',  
            'Beef Taco Meat'],  
-          ['Pepperoni Pizza Slice', 'Pizza Sliced Smoked Brisket & Tots']),  
- 'chicken': (['Chicken Piece Seasoned Baked',  
-              'Chicken Sausage Patties',  
-              'Tandoori Chicken',  
-              'Chicken Tinga'],  
-             ['Beef Meatballs', 'Pepperoni Pizza Slice', 'Great Greens']),  
- 'pork': (['Pork & Beef Hard Salami'], ['Smoked Ham', 'Soup Clam Chowder'])}  
-[four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-05-17)  
+          ['Burnt Ends',  
+           'Pepperoni Pizza Slice',  
+           'Gluten Free Pork Pepperoni Pizza',  
+           'Soup Italian Wedding']),  
+ 'chicken': (['Lemon Pepper Chicken Salad',  
+              'Spicy Fajita Chicken',  
+              'Diced Chicken'],  
+             ['Pepperoni Pizza Slice',  
+              'Gluten Free Pork Pepperoni Pizza',  
+              'Great Greens',  
+              'Soup Italian Wedding']),  
+ 'fish': ([], ['Tempura Roll (FujiSan)']),  
+ 'lamb': (['Lamb & Beef Gyro Sandwich'], []),  
+ 'pork': (['Pork Frittata Trattoria',  
+           'Gluten Free Pork Pepperoni Pizza',  
+           'Pork & Beef Hard Salami',  
+           'Pork Sausage Patties'],  
+          ['Pizza Slice Sausage', 'Smoked Ham', 'Bacon'])}  
+[four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-05-18)  
 {}  
-[carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2024-05-17)  
+[carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2024-05-18)  
 {}  
-[lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-05-17)  
-{'Cod': (['Miso Cod'], ['Soup Clam Chowder']),  
- 'beef': (['Plant-Based Beef Lo Mein'], ["Lowell's OrderIt"]),  
- 'chicken': (['Diced Chicken'], ['Great Greens', "Lowell's OrderIt"]),  
- 'curry': (['Coconut Tofu w/Red Curry Sauce', 'Black Eyed Pea Curry w/ Rice'],  
-           []),  
- 'fish': ([], ['Miso Cod']),  
- 'pork': ([], ['Soup Clam Chowder', "Lowell's OrderIt"])}  
+[lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-05-18)  
+{'chicken': (['Diced Chicken'], [])}  
   
 **For each keyword, the first [] includes dishes that contain it in their names, the second [] includes dishes in their discription. Enjoy!**  
