@@ -1,31 +1,58 @@
-Updated at: 2024-06-02 03:09:48  
-[rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-06-02)  
-{}  
-[lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-06-02)  
-{}  
-[gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-06-02)  
-{'Tilapia': (['Lemon Bake Tilapia'], []),  
- 'beef': (['Beef Tortellini and Sauce', 'Beef Barbacoa', 'Beef Taco Meat'],  
-          ['Pepperoni Pizza Slice']),  
- 'chicken': (['Soup Cream of Chicken & Wild Rice',  
-              'Diced Chicken',  
-              'Crispy Buffalo Chicken Sandwich'],  
+Updated at: 2024-06-03 03:12:20  
+[rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-06-03)  
+{'beef': (['Beef Masaman Thai Curry', 'Beef Taco Meat'],  
+          ['Pepperoni Pizza Slice', 'Deli']),  
+ 'chicken': (['Diced Chicken Breast',  
+              'Lemon Pepper Chicken Salad',  
+              'Kung Pao Chicken',  
+              'Plant Based Protein Chicken Taco Filling',  
+              'Chicken Tinga',  
+              'Chicken Noodle Soup'],  
              ['Pepperoni Pizza Slice', 'Great Greens']),  
- 'pork': ([], ['Pizza Slice Sausage'])}  
-[four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-06-02)  
-{'Cod': (['Caribbean Cod'], []),  
- 'Tuna': (['Tuna Salad Sandwich'], []),  
- 'beef': (['Island Spiced Beef Steak',  
-           'Beef Gravy',  
-           'Beef Barbacoa',  
-           'Beef Taco Meat'],  
-          ['Grilled Cheeseburger']),  
- 'chicken': (['Chicken Breast Strips', 'Soup Cream of Chicken & Wild Rice'],  
-             ['Great Greens']),  
- 'curry': ([], ['Coconut Vegetable Stew'])}  
-[carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-06-02)  
+ 'curry': (['Beef Masaman Thai Curry',  
+            'Thai Veggie Meatballs w/ Green Curry',  
+            'Currywurst',  
+            'Vegan Currywurst - Testing 2023',  
+            'Vegan Coconut Cauliflower Curry Soup'],  
+           []),  
+ 'fish': ([], ['Beef Masaman Thai Curry', 'Kung Pao Chicken']),  
+ 'pork': (['Pork Belly Char Sui', 'Pork Carnita'], ['Deli', 'Currywurst'])}  
+[lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-06-03)  
 {}  
-[lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2024-06-02)  
+[gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-06-03)  
+{'Tuna': (['Lemon Pepper Tuna Salad'], []),  
+ 'beef': (['Beef Meatballs', 'Beef Taco Meat'],  
+          ['Pepperoni Pizza Slice',  
+           'Gluten Free Pork Pepperoni Pizza',  
+           'Vegan Taco Filling',  
+           'Bacon Cheeseburger']),  
+ 'chicken': (['Kung Pao Chicken',  
+              'Plant-Based Chicken Lo Mein',  
+              'Chicken Tinga',  
+              'Chicken Noodle Soup'],  
+             ['Gnocchi w/ Pork Chorizo Sauce',  
+              'Beef Meatballs',  
+              'Pepperoni Pizza Slice',  
+              'Gluten Free Pork Pepperoni Pizza',  
+              'Great Greens']),  
+ 'fish': ([], ['Kung Pao Chicken']),  
+ 'pork': (['Gnocchi w/ Pork Chorizo Sauce',  
+           'Italian Pork Sausage',  
+           'Gluten Free Pork Pepperoni Pizza',  
+           'Pork Sausage Patties'],  
+          [])}  
+[four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-06-03)  
+{'beef': (['Beef Taco Meat'],  
+          ['Banh Mi Hot Dog', 'Burnt Ends', 'Vegan Taco Filling']),  
+ 'chicken': (['Lemon Pepper Chicken Salad',  
+              'Chicken Tinga',  
+              'Chicken Noodle Soup'],  
+             ['Great Greens']),  
+ 'curry': (['Vegan Coconut Cauliflower Curry Soup'], []),  
+ 'pork': ([], ['Andouille Sausage'])}  
+[carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-06-03)  
+{}  
+[lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2024-06-03)  
 {}  
   
 **For each keyword, the first [] includes dishes that contain it in their names, the second [] includes dishes in their discription. Enjoy!**  
