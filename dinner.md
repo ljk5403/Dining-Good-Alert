@@ -1,61 +1,44 @@
-Updated at: 2024-06-11 03:12:13  
-[rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-06-11)  
-{'beef': (['Beef Masaman Thai Curry',  
-           'Beef Meatballs',  
-           'Sliced BBQ Beef Brisket Sandwich',  
-           'Soup -  Chili Beef & Bean'],  
-          ['Cocktail Wieners & BBQ Sauce']),  
- 'chicken': (['Plant Based Chicken Strips',  
-              'Lemon Pepper Chicken Salad',  
-              'Sumac Chicken'],  
-             ['Beef Meatballs',  
-              'Cocktail Wieners & BBQ Sauce',  
-              'Great Greens']),  
- 'curry': (['Beef Masaman Thai Curry', 'Thai Veggie Meatballs w/ Green Curry'],  
-           []),  
- 'fish': ([], ['Beef Masaman Thai Curry']),  
- 'pork': (['Pork Belly Char Sui'],  
-          ['Pizza Slice Hawaiian', 'Cocktail Wieners & BBQ Sauce'])}  
-[lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-06-11)  
-{'beef': (['Beef Meatballs', 'Soup -  Chili Beef & Bean'], []),  
- 'chicken': (['Huli Huli Chicken', 'Lemon Pepper Chicken Salad'],  
-             ['Beef Meatballs', 'Station Recipe - Liz - Great Greens'])}  
-[gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-06-11)  
-{'Salmon': (['Hoisin BBQ Glazed Salmon'], []),  
- 'beef': (['Beef Tri Tip Carved w/ Chimichurri',  
-           'Beef Meatballs',  
-           'Roast Beef',  
-           'Pork & Beef Hard Salami',  
-           'Beef Vindaloo',  
-           'Beef Taco Meat',  
-           'Soup -  Chili Beef & Bean',  
-           'BBQ Beef Brisket Sandwich'],  
-          ['Italian Meat Sauce', 'Pepperoni Pizza Slice']),  
- 'chicken': (['Giardiniera Chicken',  
-              'Chicken Bacon Ranch Pizza Slice',  
-              'Spicy Fajita Chicken',  
+Updated at: 2024-06-12 03:11:20  
+[rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-06-12)  
+{'Tilapia': (['Island Spiced Tilapia'], []),  
+ 'Tuna': (['Lemon Pepper Tuna Salad'], []),  
+ 'beef': (['Beef Barbacoa', 'Beef Taco Meat'],  
+          ['Pizza Slice Meat Lovers w/ Bacon', 'Vegan Taco Filling']),  
+ 'chicken': (['Chicken Drummies',  
+              'Plant-Based Chicken Nuggets (6)',  
+              'Tandoori Chicken',  
               'Diced Chicken'],  
-             ['Beef Meatballs', 'Pepperoni Pizza Slice', 'Great Greens']),  
- 'fish': ([], ['Hoisin BBQ Glazed Salmon']),  
- 'pork': (['Green Beans w/ Pork Bacon', 'Pork & Beef Hard Salami'],  
-          ['Smoked Ham'])}  
-[four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-06-11)  
-{'Tuna': (['Tuna Salad Sandwich'], []),  
- 'beef': (['Beef Taco Meat', 'Soup -  Chili Beef & Bean'],  
-          ['Grilled Cheeseburger',  
-           'Mediterranean Nachos',  
-           'Mediterranean Rice Bowl',  
-           'BYO Mediterranean Sandwich']),  
- 'chicken': (['Taco Chicken'],  
-             ['Mediterranean Nachos',  
-              'Mediterranean Rice Bowl',  
-              'BYO Mediterranean Sandwich',  
-              'Great Greens']),  
- 'curry': (['Curry Cauliflower & Butternut Squash'], []),  
- 'pork': (['BBQ Pork Chop'], [])}  
-[carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-06-11)  
+             ['Pizza Slice Meat Lovers w/ Bacon', 'Great Greens']),  
+ 'pork': (['Island Spiced Pork w/ Pineapple Salsa', 'Pork Italian Sausage'],  
+          ['Pizza Slice Meat Lovers w/ Bacon'])}  
+[lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-06-12)  
+{'chicken': (['Greek Lemon Chicken w/ Rice', 'Lemon Pepper Chicken Salad'],  
+             ['Station Recipe - Liz - Great Greens']),  
+ 'pork': (['Baked Pork Ham'], [])}  
+[gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-06-12)  
+{'beef': (['Beef Meatballs', 'Beef Barbacoa', 'Beef Taco Meat'], []),  
+ 'chicken': (['Chicken Drumstick BBQ Glazed',  
+              'Chicken Pot Pie w/Biscuit',  
+              'Pizza Slice BBQ Chicken & Bacon',  
+              'Lemon Pepper Chicken Salad',  
+              'Greek Lemon Chicken',  
+              'Chicken Noodle Soup',  
+              'Diced Chicken'],  
+             ['Beef Meatballs', 'Great Greens']),  
+ 'pork': (['Italian Pork Sausage'], ['Pizza Slice Sausage'])}  
+[four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-06-12)  
+{'Salmon': (['Grilled Sesame Ginger Salmon'], []),  
+ 'Tuna': (['Tuna Salad Sandwich'], []),  
+ 'beef': (['Beef Bombay Curry w/Basmati Rice',  
+           'Beef Barbacoa',  
+           'Beef Taco Meat'],  
+          []),  
+ 'chicken': (['Crispy Chicken Sandwich'], ['Great Greens']),  
+ 'curry': (['Beef Bombay Curry w/Basmati Rice', 'Indian Vegetable Curry'], []),  
+ 'fish': ([], ['Grilled Sesame Ginger Salmon'])}  
+[carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-06-12)  
 {}  
-[lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2024-06-11)  
+[lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2024-06-12)  
 {}  
   
 **For each keyword, the first [] includes dishes that contain it in their names, the second [] includes dishes in their discription. Enjoy!**  
