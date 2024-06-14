@@ -1,56 +1,52 @@
-Updated at: 2024-06-13 03:11:35  
-[rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-06-13)  
-{'Cod': (['Mediterranean Baked Cod'], []),  
- 'beef': (['Beef Meatballs'], ['Soup Cream of Potato w/ Bacon']),  
- 'chicken': (['Chicken Breast w/Red Pepper Cream',  
-              'Plant Based Chicken Strips',  
-              'Pizza Slice BBQ Chicken & Bacon',  
-              'Lemon Pepper Chicken Salad',  
-              'Chicken Fajita Torta (Half)'],  
-             ['Beef Meatballs',  
-              'Great Greens',  
-              'Soup Cream of Potato w/ Bacon']),  
- 'curry': (['Indian Vegetable Curry'], ['Lamb Vindaloo']),  
- 'lamb': (['Lamb Vindaloo'], []),  
- 'pork': ([], ['Soup Cream of Potato w/ Bacon'])}  
-[lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-06-13)  
+Updated at: 2024-06-14 03:11:00  
+[rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-06-14)  
+{'Cod': ([], ['Soup Clam Chowder']),  
+ 'Shrimp': (['Sweet & Sour Shrimp', 'Guajillo Shrimp'], []),  
+ 'Tilapia': (['Blackened Tilapia'], []),  
+ 'Tuna': (['Lemon Pepper Tuna Salad'], []),  
+ 'beef': (['Beef Taco Meat'], ['Burnt Ends', 'Pepperoni Pizza Slice']),  
+ 'chicken': (['Diced Chicken Breast',  
+              'Crispy Chicken Sandwich',  
+              'VN Sand Chicken Paradise',  
+              'Diced Chicken'],  
+             ['Pepperoni Pizza Slice', 'Great Greens']),  
+ 'curry': (['Coconut Tofu w/Red Curry Sauce'], []),  
+ 'pork': ([], ['Soup Clam Chowder'])}  
+[lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-06-14)  
 {'Tuna': (['Tuna Salad'], []),  
- 'beef': (['Beef Taco Mac & Cheese'], ['Soup Cream of Potato w/ Bacon']),  
- 'chicken': ([],  
-             ['Station Recipe - Liz - Great Greens',  
-              'Soup Cream of Potato w/ Bacon']),  
- 'fish': (['Vegan Fish Sandwich'], []),  
- 'pork': ([], ['Soup Cream of Potato w/ Bacon'])}  
-[gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-06-13)  
-{'Tuna': (['Lemon Pepper Tuna Salad'], []),  
+ 'beef': (['Sand Beef Philly Cheesesteak (CN)',  
+           'Plant-Based Beef & Broccoli Stir Fry'],  
+          []),  
+ 'chicken': (['Sand Chicken Buffalo on Pretzel Bun (CN)',  
+              'Chicken Dumpling Soup'],  
+             ['Station Recipe - Liz - Great Greens'])}  
+[gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-06-14)  
+{'Cod': ([], ['Soup Clam Chowder']),  
+ 'Shrimp': (['Sauteed Shrimp'], []),  
  'beef': (['Beef Meatballs', 'Beef Taco Meat'],  
-          ['Rosemary Cabernet Flank Steak',  
-           'Pepperoni Pizza Slice',  
-           'Soup Italian Wedding']),  
- 'chicken': (['Giardiniera Chicken', 'Diced Chicken', 'Chicken Banh Mi'],  
-             ['Beef Meatballs',  
-              'Pepperoni Pizza Slice',  
+          ['Vegan Taco Filling', 'Spicy Steak Fajita', 'Baked Corn Dog']),  
+ 'chicken': (['Pizza Slice Chicken Sriracha', 'Chicken Curry', 'Diced Chicken'],  
+             ['French Market Pork Jambalaya',  
+              'Beef Meatballs',  
               'Great Greens',  
-              'Soup Italian Wedding']),  
- 'curry': (['Green Curry Tofu & Vegetables'], []),  
- 'fish': ([], ['Vietnamese Pork with Rice']),  
- 'pork': (['Sri Lanka Deviled Pork',  
-           'Vietnamese Pork with Rice',  
-           'Pork Carnita',  
-           'Pork Sausage Patties'],  
-          [])}  
-[four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-06-13)  
-{'Tuna': (['Tuna Salad Sandwich'], []),  
- 'beef': (['Beef Taco Meat'], ['Soup Cream of Potato w/ Bacon']),  
- 'chicken': (['Chicken Bruschetta Sandwich',  
-              'Jamaican Jerk Chicken',  
-              'Plant Based Protein Chicken Taco Filling'],  
-             ['Great Greens', 'Soup Cream of Potato w/ Bacon']),  
- 'pork': (['Pork Carnita'],  
-          ['Pizza Slice Sausage', 'Soup Cream of Potato w/ Bacon'])}  
-[carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-06-13)  
+              'Baked Corn Dog']),  
+ 'curry': (['Chicken Curry', 'Garbanzo Bean Curry'], []),  
+ 'pork': (['French Market Pork Jambalaya'],  
+          ['Pizza Slice Sausage', 'Soup Clam Chowder', 'Baked Corn Dog'])}  
+[four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-06-14)  
+{'Cod': ([], ['Soup Clam Chowder']),  
+ 'Shrimp': (['Sauteed Shrimp'], ['Drunken Noodles']),  
+ 'Tuna': (['Tuna Salad Sandwich'], []),  
+ 'beef': (['Beef Taco Meat'],  
+          ['Fired Up Burger',  
+           'Plant-Based Pepper Steak Stir Fry',  
+           'Vegan Taco Filling']),  
+ 'chicken': (['Sweet & Spicy Orange Chicken'], ['Great Greens']),  
+ 'fish': (['Vegan Fish Sandwich'], ['Drunken Noodles']),  
+ 'pork': ([], ['Soup Clam Chowder'])}  
+[carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-06-14)  
 {}  
-[lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2024-06-13)  
+[lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2024-06-14)  
 {}  
   
 **For each keyword, the first [] includes dishes that contain it in their names, the second [] includes dishes in their discription. Enjoy!**  
