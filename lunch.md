@@ -1,63 +1,70 @@
-Updated at: 2024-06-20 03:12:19  
-[rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-06-20)  
-{'Shrimp': (['Shrimp & Pork Jambalaya'], []),  
- 'Tuna': (['Lemon Pepper Tuna Salad'], []),  
- 'beef': ([],  
-          ['Pepperoni Pizza Slice',  
-           'Grilled Cheeseburger',  
-           'Build Your Own Mediterranean Bar',  
-           'Soup Cream of Potato w/ Bacon']),  
- 'chicken': (['Madras Chicken w/Basmati Rice', 'Plant Based Chicken Strips'],  
-             ['Shrimp & Pork Jambalaya',  
-              'Pepperoni Pizza Slice',  
-              'Build Your Own Mediterranean Bar',  
-              'Great Greens',  
-              'Soup Cream of Potato w/ Bacon']),  
- 'curry': ([], ['Vegetable Korma', 'Madras Chicken w/Basmati Rice']),  
- 'pork': (['Shrimp & Pork Jambalaya', 'Italian Pork Sausage'],  
-          ['Soup Cream of Potato w/ Bacon'])}  
-[lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-06-20)  
-{'Tuna': (['Tuna Salad'], []),  
- 'beef': (['Beef Taco Meat'], ['Soup Cream of Potato w/ Bacon']),  
- 'chicken': (['Chicken Tinga'], ['Soup Cream of Potato w/ Bacon']),  
- 'pork': ([], ['Soup Cream of Potato w/ Bacon'])}  
-[gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-06-20)  
-{'Tuna': (['Lemon Pepper Tuna Salad'], []),  
+Updated at: 2024-06-21 03:11:56  
+[rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-06-21)  
+{'Cod': (['Miso Cod'], ['Soup Clam Chowder']),  
+ 'Shrimp': (['Pizza Slice Shrimp Pesto',  
+             'Brazillian Shrimp in Coconut Sauce',  
+             'Chipotle Shrimp'],  
+            []),  
+ 'beef': (['Beef Taco Meat'], []),  
+ 'chicken': (['Chicken Drumstick Gochujang Glazed',  
+              'Lemon Pepper Chicken Salad',  
+              'Chicken Tinga',  
+              'Diced Chicken Breast'],  
+             ['Great Greens']),  
+ 'fish': ([], ['Miso Cod']),  
+ 'pork': (['Pork Bratwurst Sandwich'],  
+          ['Pizza Slice Sausage & Mushroom', 'Soup Clam Chowder'])}  
+[lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-06-21)  
+{'Salmon': (['Salmon w/ Vegetables'], []),  
+ 'Tuna': (['Tuna Salad'], []),  
+ 'chicken': (['Chicken Dumpling Soup'], []),  
+ 'fish': ([], ['Salmon w/ Vegetables']),  
+ 'pork': (['Pork Bratwurst Sandwich'], [])}  
+[gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-06-21)  
+{'Cod': (['Basque Style Cod'], ['Soup Clam Chowder']),  
+ 'Shrimp': (['Sauteed Shrimp'], []),  
  'beef': (['Beef Meatballs',  
            'Roast Beef',  
            'Pork & Beef Hard Salami',  
            'Beef Taco Meat'],  
-          ['BYO Bar - Mac & Cheese',  
-           'Pepperoni Pizza Slice',  
-           'Soup Italian Wedding']),  
- 'chicken': (['Giardiniera Chicken', 'Baked BBQ Chicken', 'Diced Chicken'],  
-             ['BYO Bar - Mac & Cheese',  
-              'Beef Meatballs',  
-              'Pepperoni Pizza Slice',  
-              'Great Greens',  
-              'Soup Italian Wedding']),  
- 'curry': (['Vegan Curry Stew'], []),  
- 'pork': (['Pork & Beef Hard Salami', 'Pork Sausage Patty', 'Pork Carnita'],  
-          ['BYO Bar - Mac & Cheese',  
-           'Pizza Slice Sausage & Mushroom',  
+          ['Vegan Taco Filling', 'Spicy Steak Fajita']),  
+ 'chicken': (['Brazilian Chicken w/ Salsa Vinaigrette',  
+              'Pizza Slice Chicken Cordon Bleu',  
+              'Chicken Sausage Patty',  
+              'Butter Chicken',  
+              'Diced Chicken'],  
+             ['Beef Meatballs', 'Great Greens']),  
+ 'curry': (['Coconut Tofu w/Red Curry Sauce'], []),  
+ 'pork': (['Pork & Beef Hard Salami', 'Pulled Pork Sandwich with Maw Maw Slaw'],  
+          ['Pizza Slice Sausage',  
+           'Pizza Slice Chicken Cordon Bleu',  
            'Smoked Ham',  
-           'Bacon'])}  
-[four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-06-20)  
-{'beef': (['Beef Taco Meat'],  
-          ['Grilled Flank Steak',  
-           'Grilled Cuban Sandwich',  
-           'Soup Cream of Potato w/ Bacon']),  
- 'chicken': (['Italian Chicken',  
-              'Lemon Pepper Chicken Salad',  
-              'Plant-Based Chicken Taco Filling'],  
-             ['Great Greens', 'Soup Cream of Potato w/ Bacon']),  
- 'pork': (['Pork Carnita'],  
-          ['Grilled Cuban Sandwich', 'Soup Cream of Potato w/ Bacon'])}  
-[carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2024-06-20)  
+           'Soup Clam Chowder'])}  
+[four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-06-21)  
+{'Cod': ([], ['Soup Clam Chowder']),  
+ 'Salmon': (['Blackened Salmon'], []),  
+ 'Shrimp': (['Sauteed Shrimp'], []),  
+ 'beef': (['Beef Taco Meat'],  
+          ['Mediterranean Nachos',  
+           'Mediterranean Rice Bowl',  
+           'BYO Mediterranean Sandwich',  
+           'Vegan Taco Filling']),  
+ 'chicken': (['Plant-Based Chicken & Dumplings',  
+              'Grilled Chicken Sandwich',  
+              'Lemon Pepper Chicken Salad'],  
+             ['Mediterranean Nachos',  
+              'Mediterranean Rice Bowl',  
+              'BYO Mediterranean Sandwich',  
+              'Great Greens']),  
+ 'fish': (['Vegan Fish Sandwich'], ['Blackened Salmon']),  
+ 'pork': ([], ['Soup Clam Chowder'])}  
+[carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2024-06-21)  
 {}  
-[lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-06-20)  
-{'beef': (['Texas BBQ Sliced Beef Brisket'], []),  
- 'chicken': (['Diced Chicken Breast'], ['Great Greens']),  
- 'pork': (['Italian Pork Sausage'], [])}  
+[lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-06-21)  
+{'Cod': ([], ['Soup Clam Chowder']),  
+ 'Salmon': (['Island Spiced Salmon'], []),  
+ 'chicken': (['Plant-Based Chicken & Dumplings'], ['Great Greens']),  
+ 'fish': ([], ['Island Spiced Salmon']),  
+ 'pork': ([], ['Soup Clam Chowder'])}  
   
 **For each keyword, the first [] includes dishes that contain it in their names, the second [] includes dishes in their discription. Enjoy!**  
