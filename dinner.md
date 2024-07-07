@@ -1,39 +1,33 @@
-Updated at: 2024-07-06 03:11:43  
-[rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-07-06)  
+Updated at: 2024-07-07 03:10:37  
+[rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-07-07)  
 {}  
-[lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-07-06)  
+[lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-07-07)  
+{'beef': (['Beef Steak Tandoori Braised (CN)'], []),  
+ 'chicken': (['Soup Cream of Chicken & Wild Rice',  
+              'Lemon Pepper Chicken Salad'],  
+             []),  
+ 'pork': (['BBQ Pork Chop'], [])}  
+[gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-07-07)  
+{'beef': (['Beef Barbacoa', 'Beef Taco Meat'], ['Pepperoni Pizza Slice']),  
+ 'chicken': (['Chicken Pot Pie w/Biscuit',  
+              'Diced Chicken',  
+              'Soup Cream of Chicken & Wild Rice',  
+              'Crispy Chicken Sandwich'],  
+             ['Pepperoni Pizza Slice', 'Great Greens']),  
+ 'pork': (['Boneless Baked Pork Ham'], ['Pizza Slice Sausage'])}  
+[four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-07-07)  
+{'Salmon': (['Tuscan Butter Salmon'], []),  
+ 'beef': (['Beef Barbacoa', 'Beef Taco Meat'],  
+          ['Spicy Italian Meatball Sandwich']),  
+ 'chicken': (['Lemon Pepper Chicken Salad',  
+              'Chicken Breast Strips',  
+              'Soup Cream of Chicken & Wild Rice'],  
+             ['Spicy Italian Meatball Sandwich', 'Great Greens']),  
+ 'curry': ([], ['Citrus Couscous (VN) (AYCTE)']),  
+ 'fish': ([], ['Tuscan Butter Salmon'])}  
+[carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-07-07)  
 {}  
-[gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-07-06)  
-{'beef': (['Beef Taco Meat'],  
-          ['Pepperoni Pizza Slice',  
-           'Gluten Free Pork Pepperoni Pizza',  
-           'Grilled Cheeseburger']),  
- 'chicken': (['Chicken Gravy',  
-              'Chicken Jollof Rice (Contains Pork)',  
-              'Lemon Pepper Chicken Salad',  
-              'Chicken Noodle Soup',  
-              'Diced Chicken'],  
-             ['Pepperoni Pizza Slice',  
-              'Gluten Free Pork Pepperoni Pizza',  
-              'Pollo Con Pico',  
-              'Great Greens']),  
- 'curry': (['Vegan Coconut Cauliflower Curry Soup'], []),  
- 'pork': (['Herb Crusted Pork Loin',  
-           'BBQ Pork Chop',  
-           'Chicken Jollof Rice (Contains Pork)',  
-           'Gluten Free Pork Pepperoni Pizza'],  
-          ['Pizza Slice Sausage'])}  
-[four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-07-06)  
-{'beef': (['Beef Taco Meat'],  
-          ['BYO Bar - Mac & Cheese', 'Soup Italian Wedding']),  
- 'chicken': (['Lemon Pepper Chicken Salad', 'Spicy Chicken Fajita'],  
-             ['BYO Bar - Mac & Cheese',  
-              'Great Greens',  
-              'Soup Italian Wedding']),  
- 'pork': (['Pork Bratwurst Sandwich'], ['BYO Bar - Mac & Cheese'])}  
-[carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-07-06)  
-{}  
-[lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2024-07-06)  
+[lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2024-07-07)  
 {}  
   
 **For each keyword, the first [] includes dishes that contain it in their names, the second [] includes dishes in their discription. Enjoy!**  
