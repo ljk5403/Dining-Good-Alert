@@ -1,58 +1,47 @@
-Updated at: 2024-07-15 03:12:19  
-[rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-07-15)  
-{'beef': (['Texas BBQ Sliced Beef Brisket', 'Beef Taco Meat'], ['Deli']),  
- 'chicken': (['Lemon Pepper Chicken Salad',  
-              'Plant Based Protein Chicken Taco Filling',  
-              'Chicken Tinga',  
-              'Chicken Noodle Soup',  
-              'Plant Based Chicken Strips'],  
+Updated at: 2024-07-16 03:12:51  
+[rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-07-16)  
+{'Shrimp': (['Shrimp De Jonge'], []),  
+ 'Tuna': (['Lemon Pepper Tuna Salad'], []),  
+ 'beef': (['Soup -  Chili Beef & Bean'], ['Deli']),  
+ 'chicken': (['Chicken Quarter Caribbean Jerk',  
+              'Chicken Korma',  
+              'Sumac Chicken',  
+              'Diced Chicken Breast'],  
              ['Great Greens']),  
- 'curry': (['Vegan Coconut Cauliflower Curry Soup'], []),  
- 'pork': (['BBQ Pork Sandwich',  
-           'Imperial Pork Stir Fry',  
-           'Pork Carnita',  
-           'Italian Pork Sausage'],  
-          ['Pizza Slice Sausage', 'Deli'])}  
-[lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-07-15)  
-{'chicken': (['Chicken Parmigiana', 'Chicken Noodle Soup'], []),  
- 'curry': ([], ['Curried Pumpkin Soup']),  
- 'fish': ([], ['Thai BBQ Pork Ribs', 'Curried Pumpkin Soup']),  
- 'pork': (['Thai BBQ Pork Ribs'], [])}  
-[gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-07-15)  
-{'Tuna': (['Lemon Pepper Tuna Salad'], []),  
- 'beef': (['Beef Meatballs',  
-           'Beef Bombay Curry w/Basmati Rice',  
-           'Beef Taco Meat'],  
-          ['Grilled Flank Steak',  
-           'Pepperoni Pizza Slice',  
-           'Gluten Free Pepperoni Pizza Quarter',  
-           'Vegan Taco Filling']),  
- 'chicken': (['Honey Lime Chicken Breast',  
-              'Chicken Tenders Breaded',  
-              'Plant-Based Chicken Nuggets (6)',  
-              'Chicken Tinga',  
-              'Chicken Noodle Soup',  
+ 'curry': ([], ['Chicken Korma', 'Vegetable Korma']),  
+ 'pork': ([], ['Deli'])}  
+[lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-07-16)  
+{'Cod': (['Lemon Pepper Cod Fillet'], []),  
+ 'beef': (['Soup -  Chili Beef & Bean'], []),  
+ 'chicken': (["General Tso's Chicken"], [])}  
+[gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-07-16)  
+{'Cod': ([], ['Petite Fish Sandwich']),  
+ 'beef': (['Beef Meatballs', 'Beef Taco Meat', 'Soup -  Chili Beef & Bean'],  
+          ['Pepperoni Pizza Slice', 'Spicy Steak Fajita']),  
+ 'chicken': (['Plant-Based Chicken Etouffee',  
+              'Bourbon Chicken',  
+              'Mediterranean Chicken',  
+              'Chicken Sausage Patties',  
+              'Plant Based Sesame Chicken (AYCTE) (VN)',  
+              'Sesame Chicken',  
               'Diced Chicken'],  
-             ['Beef Meatballs',  
-              'Pepperoni Pizza Slice',  
-              'Gluten Free Pepperoni Pizza Quarter',  
-              'Great Greens']),  
- 'curry': (['Beef Bombay Curry w/Basmati Rice'], ['Chana Saag w/ Tofu']),  
- 'pork': (['Italian Pork Sausage', 'Pork Sausage Patties'],  
-          ['Pizza Slice Sausage'])}  
-[four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-07-15)  
-{'beef': (['Beef Taco Meat'], ['BBQ Brisket Sandwich', 'Vegan Taco Filling']),  
- 'chicken': (['Buffalo Chicken Wrap',  
-              'Plant Based Chicken Strips',  
+             ['Beef Meatballs', 'Pepperoni Pizza Slice', 'Great Greens']),  
+ 'fish': (['Petite Fish Sandwich', 'Vegan Fish Sandwich'], []),  
+ 'pork': (['BBQ Pork Chop'], ['Pizza Slice Sausage'])}  
+[four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-07-16)  
+{'beef': (['Lamb & Beef Gyro Sandwich',  
+           'Beef Taco Meat',  
+           'Soup -  Chili Beef & Bean'],  
+          []),  
+ 'chicken': (['Plant Based Sweet & Sour Chicken',  
               'Lemon Pepper Chicken Salad',  
-              'Chicken Tinga',  
-              'Chicken Noodle Soup'],  
-             ['Chorizo Sauce', 'Great Greens']),  
- 'curry': (['Vegan Coconut Cauliflower Curry Soup'], []),  
- 'pork': (['Italian Pork Sausage'], ['Chorizo Sauce'])}  
-[carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2024-07-15)  
+              'Taco Chicken'],  
+             ['Apple Cider Braised Pork', 'Great Greens']),  
+ 'lamb': (['Lamb & Beef Gyro Sandwich'], []),  
+ 'pork': (['Apple Cider Braised Pork', 'Imperial Pork Stir Fry'], [])}  
+[carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2024-07-16)  
 {}  
-[lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-07-15)  
+[lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-07-16)  
 {}  
   
 **For each keyword, the first [] includes dishes that contain it in their names, the second [] includes dishes in their discription. Enjoy!**  
