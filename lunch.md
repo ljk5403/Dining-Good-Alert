@@ -1,41 +1,34 @@
-Updated at: 2024-07-26 03:11:22  
-[rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-07-26)  
+Updated at: 2024-07-27 03:10:28  
+[rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-07-27)  
 {}  
-[lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-07-26)  
+[lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-07-27)  
 {}  
-[gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-07-26)  
-{'Cod': (['Fried Cod Basket'], ['Soup Clam Chowder']),  
- 'Shrimp': (['Sauteed Shrimp'], []),  
- 'beef': (['Beef Meatballs', 'Beef Taco Meat'],  
-          ['Pepperoni Pizza Slice',  
-           'Vegan Taco Filling',  
-           'Spicy Steak Fajita']),  
- 'chicken': (['Chicken Piece Seasoned Baked',  
-              'Tandoori Chicken',  
+[gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-07-27)  
+{'beef': (['Beef Gravy', 'Beef Taco Meat'],  
+          ['Burnt Ends',  
+           'Pepperoni Pizza Slice',  
+           'Gluten Free Pepperoni Pizza Quarter']),  
+ 'chicken': (['Lemon Pepper Chicken Salad',  
+              'Chicken Tinga',  
+              'Chicken Noodle Soup',  
               'Diced Chicken'],  
-             ['Beef Meatballs', 'Pepperoni Pizza Slice', 'Great Greens']),  
- 'pork': ([], ['Pizza Slice Sausage', 'Soup Clam Chowder'])}  
-[four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-07-26)  
-{'Cod': ([], ['Soup Clam Chowder']),  
- 'Shrimp': (['Sauteed Shrimp'], []),  
- 'Tuna': (['Tuna Salad Sandwich'], []),  
- 'beef': (['Beef Taco Meat'],  
-          ['Mushroom Swiss Burger',  
-           'Mediterranean Nachos',  
-           'Mediterranean Rice Bowl',  
-           'BYO Mediterranean Sandwich',  
-           'Vegan Taco Filling']),  
- 'chicken': ([],  
-             ['Mediterranean Nachos',  
-              'Mediterranean Rice Bowl',  
-              'BYO Mediterranean Sandwich',  
+             ['Pepperoni Pizza Slice',  
+              'Gluten Free Pepperoni Pizza Quarter',  
               'Great Greens']),  
- 'curry': (['Coconut Thai Curry Mahi Mahi'], []),  
- 'fish': ([], ['Coconut Thai Curry Mahi Mahi']),  
- 'pork': ([], ['Soup Clam Chowder'])}  
-[carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2024-07-26)  
+ 'curry': (['Vegan Coconut Cauliflower Curry Soup'], []),  
+ 'fish': ([], ['Tempura Roll (FujiSan)']),  
+ 'pork': (['Pork Frittata Trattoria', 'Carolina BBQ Pork Sandwich'],  
+          ['Pizza Slice Sausage'])}  
+[four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-07-27)  
+{'Tuna': (['Tuna Salad Sandwich'], []),  
+ 'beef': (['Beef Taco Meat'],  
+          ['Chicago-Style Hot Dog', 'Soup Italian Wedding']),  
+ 'chicken': (['Spicy Chicken Fajita'],  
+             ['Great Greens', 'Soup Italian Wedding']),  
+ 'pork': (['Appetizer -  Fried Pork Potstickers'], [])}  
+[carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2024-07-27)  
 {}  
-[lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-07-26)  
+[lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-07-27)  
 {}  
   
 **For each keyword, the first [] includes dishes that contain it in their names, the second [] includes dishes in their discription. Enjoy!**  
