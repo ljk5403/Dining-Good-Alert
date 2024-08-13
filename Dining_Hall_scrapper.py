@@ -86,7 +86,7 @@ def find_good_dishes(dish_list, menu_dict):
 def find_good_dishes_someday_somewhere_somemeal(dish_list, date, dinning_hall, meal):
     #format date in correct form: datetime
     if not isinstance(date, datetime):
-        date = datetime.strptime(date_str, '%Y-%m-%d')
+        date = datetime.strptime(date, '%Y-%m-%d')
     target_url = get_dinning_hall_url(dinning_hall, meal, date)
     raw_data=get_menu_raw(target_url)
     menu_dict = get_menu_dict(raw_data, date)
@@ -123,11 +123,13 @@ def add_spaces_to_file(file_path):
         file.writelines(modified_lines)
 
 # Write summary of meals to file
-def summary_generator(date : datetime = None):
+def summary_generator(date : datetime = None, reldate : str =None):
     if date is None :
         date = datetime.now(zone)
+        reldate="today"
     for meal in meals_tuple:
-        with open(meal+".md", 'w') as f:
+        filename = reldate + "_" + meal+".md"
+        with open(filename, 'w') as f:
             print("# "+date.strftime('%Y-%m-%d') + " " + meal, file=f)
             print("*THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*", file=f)
             print("Updated at: "+date.strftime('%Y-%m-%d %H:%M:%S'), file=f)
@@ -138,8 +140,8 @@ def summary_generator(date : datetime = None):
                 pprint.pprint(dishes, f)
             print("", file = f)
             print("**For each keyword, the first [] includes dishes that contain it in their names, the second [] includes dishes in their discription. Enjoy!**", file=f)
-        add_spaces_to_file(meal+".md")
-        print("Successfully updated "+meal+".md")
+        add_spaces_to_file(filename)
+        print("Successfully updated " + filename)
 
 
 # TODO: github workflow automate
@@ -148,7 +150,7 @@ def summary_generator(date : datetime = None):
 
 def old_menu_archiver():
     for meal in meals_tuple:
-        source_file = meal + '.md'
+        source_file = "today_" + meal + '.md'
         if os.path.exists(source_file):
             yesterday = datetime.now(zone) - timedelta(days=1)
             destination_directory = 'archive'
@@ -164,6 +166,9 @@ def github_autoUpdater():
     for _ in range (3):
         try:
             summary_generator()
+            now = datetime.now()
+            summary_generator(now + timedelta(days=1), "tomorrow")
+            summary_generator(now + timedelta(days=2), "overmorrow")           
         except:
             print("Error, will retry in 5 seconds...")
             time.sleep(5)
@@ -180,6 +185,7 @@ if __name__ == '__main__':
 # Below are tests
 
 def raw_test3():
+    today = datetime.now()
     summary = summary_of_good_dishes(today)
     pprint.pprint(json.dumps(summary, indent=4, sort_keys=True), compact=True)
     #find_good_dishes_someday_somewhere_somemeal(T0_good_dish_list, today, "rhetas-market", "dinner")
