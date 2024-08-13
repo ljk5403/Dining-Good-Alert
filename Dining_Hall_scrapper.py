@@ -123,14 +123,17 @@ def add_spaces_to_file(file_path):
         file.writelines(modified_lines)
 
 # Write summary of meals to file
-def summary_generator():
-    today = datetime.now(zone)
+def summary_generator(date : datetime = None):
+    if date is None :
+        date = datetime.now(zone)
     for meal in meals_tuple:
         with open(meal+".md", 'w') as f:
-            print("Updated at: "+today.strftime('%Y-%m-%d %H:%M:%S'), file=f)
-            summary = summary_of_good_meal(today, meal)
+            print("# "+date.strftime('%Y-%m-%d') + " " + meal, file=f)
+            print("*THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*", file=f)
+            print("Updated at: "+date.strftime('%Y-%m-%d %H:%M:%S'), file=f)
+            summary = summary_of_good_meal(date, meal)
             for dhall, dishes in summary.items():
-                menu_link = get_menu_url_for_human_read(dhall, meal, today)
+                menu_link = get_menu_url_for_human_read(dhall, meal, date)
                 print("["+dhall+"]"+"("+menu_link+")", file=f)
                 pprint.pprint(dishes, f)
             print("", file = f)
@@ -172,6 +175,9 @@ if __name__ == '__main__':
     #raw_test()
     print("")
 
+
+
+# Below are tests
 
 def raw_test3():
     summary = summary_of_good_dishes(today)

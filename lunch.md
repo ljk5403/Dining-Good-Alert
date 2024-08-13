@@ -1,4 +1,6 @@
-Updated at: 2024-08-13 03:11:52  
+# 2024-08-13 lunch  
+*THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO! *  
+Updated at: 2024-08-13 13:19:17  
 [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-08-13)  
 {}  
 [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-08-13)  
@@ -13,7 +15,7 @@ Updated at: 2024-08-13 03:11:52
               'Plant Based Sesame Chicken (AYCTE) (VN)',  
               'Sesame Chicken',  
               'Diced Chicken'],  
-             ['Beef Meatballs', 'Pepperoni Pizza Slice', 'Great Greens']),  
+             ['Beef Meatballs', 'Pepperoni Pizza Slice']),  
  'fish': (['Petite Fish Sandwich', 'Vegan Fish Sandwich'], []),  
  'pork': (['BBQ Pork Chop'], ['Pizza Slice Sausage'])}  
 [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-08-13)  
