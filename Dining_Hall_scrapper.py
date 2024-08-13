@@ -132,12 +132,16 @@ def summary_generator(date : datetime = None, reldate : str =None):
         with open(filename, 'w') as f:
             print("# "+date.strftime('%Y-%m-%d') + " " + meal, file=f)
             print("*THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*", file=f)
-            print("Updated at: "+datetime.now().strftime('%Y-%m-%d %H:%M:%S'), file=f)
+            print("Updated at: "+datetime.now(zone).strftime('%Y-%m-%d %H:%M:%S'), file=f)
             summary = summary_of_good_meal(date, meal)
             for dhall, dishes in summary.items():
                 menu_link = get_menu_url_for_human_read(dhall, meal, date)
-                print("["+dhall+"]"+"("+menu_link+")", file=f)
-                pprint.pprint(dishes, f)
+                print("## ["+dhall+"]"+"("+menu_link+")", file=f)
+                #pprint.pprint(dishes, f)
+                for keyword, dish_list in dishes.items() :
+                    print("**" + keyword + "**", file=f)
+                    print("In name: "+", ".join(str(x) for x in dish_list[0]), file = f)
+                    print("In description: "+", ".join(str(x) for x in dish_list[1]), file = f)
             print("", file = f)
             print("**For each keyword, the first [] includes dishes that contain it in their names, the second [] includes dishes in their discription. Enjoy!**", file=f)
         add_spaces_to_file(filename)
@@ -166,7 +170,7 @@ def github_autoUpdater():
     for _ in range (3):
         try:
             summary_generator()
-            now = datetime.now()
+            now = datetime.now(zone)
             summary_generator(now + timedelta(days=1), "tomorrow")
             summary_generator(now + timedelta(days=2), "overmorrow")           
         except:
@@ -185,7 +189,7 @@ if __name__ == '__main__':
 # Below are tests
 
 def raw_test3():
-    today = datetime.now()
+    today = datetime.now(zone)
     summary = summary_of_good_dishes(today)
     pprint.pprint(json.dumps(summary, indent=4, sort_keys=True), compact=True)
     #find_good_dishes_someday_somewhere_somemeal(T0_good_dish_list, today, "rhetas-market", "dinner")
@@ -193,7 +197,7 @@ def raw_test3():
 
 
 def raw_test2():
-    today = datetime.now()
+    today = datetime.now(zone)
     target_url = get_dinning_hall_url("rhetas-market", "dinner", today)
     raw_data=get_menu_raw(target_url)
     menu_dict = get_menu_dict(raw_data, today)

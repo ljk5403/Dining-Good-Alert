@@ -4,7 +4,7 @@ name: 'autoUpdater'
 on:
   push:
   schedule:
-    - cron: '0 * * * *' # update every hour
+    - cron: '10 * * * *' # update every hour at :10
 
 jobs:
   updater:
@@ -33,4 +33,4 @@ jobs:
       - name: Commit and push if changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: Daily Update
+          commit_message: Hourly Update
