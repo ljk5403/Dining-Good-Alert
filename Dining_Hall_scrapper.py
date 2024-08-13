@@ -140,16 +140,20 @@ def summary_generator(date : datetime = None, reldate : str =None):
                 #pprint.pprint(dishes, f)
                 for keyword, dish_list in dishes.items() :
                     print("**" + keyword + "**", file=f)
-                    print("In name: "+" || ".join(str(x) for x in dish_list[0]), file = f)
-                    print("In description: "+" || ".join(str(x) for x in dish_list[1]), file = f)
+                    print("In name: ", file = f)
+                    print_as_list_in_md(dish_list[0], f)
+                    print("In description: ", file = f) 
+                    print_as_list_in_md(dish_list[1], f)
             print("", file = f)
             print("**For each keyword, the first [] includes dishes that contain it in their names, the second [] includes dishes in their discription. Enjoy!**", file=f)
         add_spaces_to_file(filename)
         print("Successfully updated " + filename)
 
+def print_as_list_in_md(my_list:list, my_file):
+    for item in my_list:
+        print(f" - {item}", file=my_file)
+        print("", file=my_file  )
 
-# TODO: github workflow automate
-# Done: better .md: include hyperlink to menu, and some explaination
 # TODO: telegram bot auto push?
 
 def old_menu_archiver():
