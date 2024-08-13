@@ -132,7 +132,7 @@ def summary_generator(date : datetime = None, reldate : str =None):
         with open(filename, 'w') as f:
             print("# "+date.strftime('%Y-%m-%d') + " " + meal, file=f)
             print("*THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*", file=f)
-            print("Updated at: "+date.strftime('%Y-%m-%d %H:%M:%S'), file=f)
+            print("Updated at: "+datetime.now().strftime('%Y-%m-%d %H:%M:%S'), file=f)
             summary = summary_of_good_meal(date, meal)
             for dhall, dishes in summary.items():
                 menu_link = get_menu_url_for_human_read(dhall, meal, date)
