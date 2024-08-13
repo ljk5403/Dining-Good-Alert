@@ -140,8 +140,8 @@ def summary_generator(date : datetime = None, reldate : str =None):
                 #pprint.pprint(dishes, f)
                 for keyword, dish_list in dishes.items() :
                     print("**" + keyword + "**", file=f)
-                    print("In name: "+", ".join(str(x) for x in dish_list[0]), file = f)
-                    print("In description: "+", ".join(str(x) for x in dish_list[1]), file = f)
+                    print("In name: "+" || ".join(str(x) for x in dish_list[0]), file = f)
+                    print("In description: "+" || ".join(str(x) for x in dish_list[1]), file = f)
             print("", file = f)
             print("**For each keyword, the first [] includes dishes that contain it in their names, the second [] includes dishes in their discription. Enjoy!**", file=f)
         add_spaces_to_file(filename)
