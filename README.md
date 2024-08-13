@@ -1,6 +1,6 @@
 # Dinning Good Food Alert for UW-Madison
 
-Auto update every day on 8 AM.
+Automatically updated every hour.
 
 ## [Today's Lunch](today_lunch.md)
 

@@ -4,7 +4,7 @@ name: 'autoUpdater'
 on:
   push:
   schedule:
-    - cron: '0 8 * * *' # UTC 8:00 = UTC-5 3:00
+    - cron: '0 * * * *' # update every hour
 
 jobs:
   updater:
