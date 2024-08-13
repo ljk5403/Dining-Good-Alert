@@ -152,7 +152,7 @@ def summary_generator(date : datetime = None, reldate : str =None):
 def print_as_list_in_md(my_list:list, my_file):
     for item in my_list:
         print(f" - {item}", file=my_file)
-        print("", file=my_file  )
+    print("", file=my_file  )
 
 # TODO: telegram bot auto push?
 
