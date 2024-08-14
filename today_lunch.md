@@ -1,85 +1,67 @@
-# 2024-08-13 lunch  
+# 2024-08-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-13 23:27:46  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-08-13)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-08-13)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-08-13)  
-**Cod**  
+Updated at: 2024-08-14 00:27:18  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-08-14)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-08-14)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-08-14)  
+**Tilapia**  
 In name:   
-  
-In description:   
- - Petite Fish Sandwich  
-  
-**fish**  
-In name:   
- - Petite Fish Sandwich  
- - Vegan Fish Sandwich  
+ - Tilapia Veracruz  
   
 In description:   
   
 **beef**  
 In name:   
  - Beef Meatballs  
+ - Shredded Beef Bulgogi Nachos  
+ - Beef Barbacoa  
  - Beef Taco Meat  
- - Soup -  Chili Beef & Bean  
   
 In description:   
+ - Italian Meat Sauce  
  - Pepperoni Pizza Slice  
- - Spicy Steak Fajita  
+ - Grilled Cheeseburger  
   
 **pork**  
 In name:   
- - BBQ Pork Chop  
+ - Italian Pork Sausage  
+ - Gluten Free Pork Sausage Pizza Quarter  
   
 In description:   
  - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
- - Plant-Based Chicken Etouffee  
- - Bourbon Chicken  
- - Mediterranean Chicken  
- - Plant Based Sesame Chicken (AYCTE) (VN)  
- - Sesame Chicken  
+ - Broasted Chicken 2 pc  
+ - Chicken Gravy  
+ - Lemon Pepper Chicken Salad  
+ - Chicken Noodle Soup  
  - Diced Chicken  
   
 In description:   
  - Beef Meatballs  
  - Pepperoni Pizza Slice  
+ - Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-08-13)  
-**lamb**  
-In name:   
- - Lamb & Beef Gyro Sandwich  
-  
-In description:   
-  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-08-14)  
 **beef**  
 In name:   
- - Lamb & Beef Gyro Sandwich  
+ - Beef Barbacoa  
  - Beef Taco Meat  
- - Soup -  Chili Beef & Bean  
-  
-In description:   
-  
-**pork**  
-In name:   
- - Apple Cider Braised Pork  
- - Imperial Pork Stir Fry  
   
 In description:   
   
 **chicken**  
 In name:   
- - Plant Based Sweet & Sour Chicken  
+ - Chicken Pot Pie w/ Biscuit  
+ - Plant-Based Chicken Nuggets (8)  
+ - Chicken Wings Boneless Plain  
  - Lemon Pepper Chicken Salad  
- - Taco Chicken  
   
 In description:   
- - Apple Cider Braised Pork  
  - Great Greens  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2024-08-13)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-08-13)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2024-08-14)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-08-14)  
   
 **For each keyword, the first [] includes dishes that contain it in their names, the second [] includes dishes in their discription. Enjoy!**  
