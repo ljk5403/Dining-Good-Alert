@@ -1,6 +1,6 @@
 # 2024-08-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-14 04:25:21  
+Updated at: 2024-08-14 05:29:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-08-14)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-08-14)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-08-14)  
@@ -28,7 +28,6 @@ In description:
 In name:   
  - Chicken Drummies  
  - Lemon Pepper Chicken Salad  
- - General Tso's Chicken  
  - Chicken Noodle Soup  
  - Diced Chicken  
   
