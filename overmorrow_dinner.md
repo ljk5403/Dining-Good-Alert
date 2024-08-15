@@ -1,6 +1,6 @@
 # 2024-08-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-14 22:31:29  
+Updated at: 2024-08-14 23:28:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-08-16)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-08-16)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-08-16)  
