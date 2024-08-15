@@ -1,6 +1,6 @@
 # 2024-08-15 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-15 06:20:30  
+Updated at: 2024-08-15 07:44:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-08-15)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-08-15)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-08-15)  
@@ -22,6 +22,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Italian Sausage  
  - Pork Carnita  
   
 In description:   
@@ -30,7 +31,6 @@ In description:
   
 **chicken**  
 In name:   
- - Mediterranean Chicken  
  - Sweet & Sour Chicken  
  - Plant Based Sweet & Sour Chicken  
  - Diced Chicken  
