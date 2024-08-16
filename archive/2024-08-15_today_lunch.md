@@ -1,6 +1,6 @@
 # 2024-08-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-16 12:25:18  
+Updated at: 2024-08-16 13:30:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-08-16)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-08-16)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-08-16)  
@@ -59,12 +59,6 @@ In name:
   
 In description:   
   
-**Salmon**  
-In name:   
- - Blackened Salmon  
-  
-In description:   
-  
 **Cod**  
 In name:   
   
@@ -76,7 +70,6 @@ In name:
  - Vegan Fish Sandwich  
   
 In description:   
- - Blackened Salmon  
   
 **beef**  
 In name:   
@@ -96,6 +89,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Smoked Chicken Drumstick  
  - Plant-Based Chicken & Dumplings  
  - Grilled Chicken Sandwich  
  - Lemon Pepper Chicken Salad  
