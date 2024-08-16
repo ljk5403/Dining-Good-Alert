@@ -1,70 +1,67 @@
-# 2024-08-17 lunch  
+# 2024-08-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-15 23:27:54  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-08-17)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-08-17)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-08-17)  
-**curry**  
+Updated at: 2024-08-16 00:26:59  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-08-18)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-08-18)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-08-18)  
+**Shrimp**  
 In name:   
- - Vegan Coconut Cauliflower Curry Soup  
+ - Coconut Shrimp  
   
 In description:   
   
 **beef**  
 In name:   
- - Beef Flank Steak  
- - Beef Tri Tip Carved w/ Chimichurri  
+ - Beef Barbacoa  
  - Beef Taco Meat  
   
 In description:   
  - Pepperoni Pizza Slice  
- - Pepperoni Pizza Quarter  
   
 **pork**  
 In name:   
+ - Pork Miso w/Yakisoba Noodles  
   
 In description:   
  - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
- - Chicken Drumstick Gochujang Glazed  
- - Lemon Pepper Chicken Salad  
- - Crispy Buffalo Chicken Sandwich  
- - Chicken Tinga  
- - Chicken Noodle Soup  
+ - Grilled Chicken Sandwich  
+ - Soup Cream of Chicken & Wild Rice  
  - Diced Chicken  
   
 In description:   
+ - Pork Miso w/Yakisoba Noodles  
  - Pepperoni Pizza Slice  
- - Pepperoni Pizza Quarter  
  - Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-08-17)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-08-18)  
 **beef**  
 In name:   
+ - Beef Barbacoa  
  - Beef Taco Meat  
   
 In description:   
- - Philly Cheesesteak Sandwich  
- - Soup Italian Wedding  
+ - Corn Dog  
   
 **pork**  
 In name:   
- - Appetizer -  Fried Pork Potstickers  
   
 In description:   
+ - Corn Dog  
   
 **chicken**  
 In name:   
+ - Tikka Masala Chicken  
  - Lemon Pepper Chicken Salad  
- - Spicy Chicken Fajita  
+ - Soup Cream of Chicken & Wild Rice  
   
 In description:   
+ - Corn Dog  
  - Great Greens  
- - Soup Italian Wedding  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2024-08-17)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-08-17)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2024-08-18)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-08-18)  
   
 **For each keyword, the first [] includes dishes that contain it in their names, the second [] includes dishes in their discription. Enjoy!**  
