@@ -1,6 +1,6 @@
 # 2024-08-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-16 15:25:32  
+Updated at: 2024-08-16 16:22:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-08-16)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-08-16)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-08-16)  
@@ -26,6 +26,7 @@ In name:
   
 In description:   
  - Basket Vegan Cod Beer Battered  
+ - Veggie Meatballs (Veg)  
  - Classic Seafood Stir Fry  
   
 **beef**  
