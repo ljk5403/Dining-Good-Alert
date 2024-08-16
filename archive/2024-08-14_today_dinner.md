@@ -1,6 +1,6 @@
 # 2024-08-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-15 17:27:27  
+Updated at: 2024-08-15 20:38:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-08-15)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-08-15)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-08-15)  
@@ -15,6 +15,18 @@ In name:
   
 In description:   
  - Vietnamese Pork with Rice  
+  
+**curry**  
+In name:   
+ - Green Curry Tofu & Vegetables  
+  
+In description:   
+  
+**corn bake**  
+In name:   
+ - Sweet Corn Bake (Veg)  
+  
+In description:   
   
 **beef**  
 In name:   
@@ -46,12 +58,6 @@ In description:
  - Pepperoni Pizza Slice  
  - Great Greens  
  - Soup Italian Wedding  
-  
-**curry**  
-In name:   
- - Green Curry Tofu & Vegetables  
-  
-In description:   
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-08-15)  
 **beef**  
