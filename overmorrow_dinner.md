@@ -1,73 +1,77 @@
-# 2024-08-18 dinner  
+# 2024-08-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-16 23:29:18  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-08-18)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-08-18)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-08-18)  
+Updated at: 2024-08-17 00:27:24  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-08-19)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-08-19)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-08-19)  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad  
+  
+In description:   
+  
 **beef**  
 In name:   
- - Beef Barbacoa  
+ - Beef Meatballs  
  - Beef Taco Meat  
   
 In description:   
  - Pepperoni Pizza Slice  
+ - Vegan Taco Filling  
+ - Cowboy Burger  
   
 **pork**  
 In name:   
- - Boneless Baked Pork Ham  
+ - Pork Loin Spicy Greenbush  
+ - Italian Pork Sausage  
   
 In description:   
  - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
- - Chicken Pot Pie w/Biscuit  
- - Soup Cream of Chicken & Wild Rice  
- - Diced Chicken  
- - Crispy Chicken Sandwich  
+ - Grilled Chicken Fillet  
+ - Chicken Gravy  
+ - Chicken Tinga  
+ - Chicken Noodle Soup  
   
 In description:   
+ - Beef Meatballs  
  - Pepperoni Pizza Slice  
  - Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-08-18)  
-**Salmon**  
-In name:   
- - Tuscan Butter Salmon  
-  
-In description:   
-  
-**fish**  
-In name:   
-  
-In description:   
- - Tuscan Butter Salmon  
-  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-08-19)  
 **curry**  
 In name:   
+ - Seitan & Coconut Thai Curry  
+ - Vegan Coconut Cauliflower Curry Soup  
   
 In description:   
- - Citrus Couscous (VN) (AYCTE)  
   
 **beef**  
 In name:   
- - Beef Barbacoa  
+ - Big Texan Beef Sandwich (Half)  
  - Beef Taco Meat  
   
 In description:   
- - Spicy Italian Meatball Sandwich  
+ - Vegan Taco Filling  
+  
+**pork**  
+In name:   
+ - Pork Adobo  
+  
+In description:   
   
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
- - Diced Chicken  
- - Soup Cream of Chicken & Wild Rice  
+ - Chicken Tinga  
+ - Chicken Noodle Soup  
   
 In description:   
- - Spicy Italian Meatball Sandwich  
  - Great Greens  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-08-18)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2024-08-18)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-08-19)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2024-08-19)  
   
 **For each keyword, the first [] includes dishes that contain it in their names, the second [] includes dishes in their discription. Enjoy!**  
