@@ -1,97 +1,72 @@
-# 2024-08-16 dinner  
+# 2024-08-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-16 23:29:12  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-08-16)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-08-16)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-08-16)  
-**Shrimp**  
+Updated at: 2024-08-17 00:27:19  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-08-17)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-08-17)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-08-17)  
+**curry**  
 In name:   
- - Sauteed Shrimp  
- - Chipotle Shrimp  
- - Shrimp Po-Boy Sandwich  
+ - Vegan Coconut Cauliflower Curry Soup  
   
 In description:   
- - Classic Seafood Stir Fry  
-  
-**Cod**  
-In name:   
- - Basket Beer Battered Cod  
- - Basket Vegan Cod Beer Battered  
-  
-In description:   
- - Soup Clam Chowder  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Basket Vegan Cod Beer Battered  
- - Veggie Meatballs (Veg)  
- - Classic Seafood Stir Fry  
   
 **beef**  
 In name:   
- - Beef Meatballs  
  - Beef Taco Meat  
   
 In description:   
  - Pepperoni Pizza Slice  
- - Vegan Taco Filling  
+ - Pepperoni Pizza Quarter  
+ - Grilled Cheeseburger  
   
 **pork**  
 In name:   
+ - Herb Crusted Pork Loin  
   
 In description:   
  - Pizza Slice Sausage  
- - Soup Clam Chowder  
   
 **chicken**  
 In name:   
- - Chicken Drumstick Teriyaki Glazed  
+ - Chicken Tenders Breaded  
+ - Chicken Gravy  
+ - Lemon Pepper Chicken Salad  
+ - Chicken Noodle Soup  
  - Diced Chicken  
   
 In description:   
- - Beef Meatballs  
  - Pepperoni Pizza Slice  
+ - Pepperoni Pizza Quarter  
+ - Pollo Con Pico  
  - Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-08-16)  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp  
-  
-In description:   
-  
-**Cod**  
-In name:   
-  
-In description:   
- - Soup Clam Chowder  
-  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-08-17)  
 **beef**  
 In name:   
  - Beef Taco Meat  
   
 In description:   
- - Grilled Steak Hero  
- - Plant-Based Pepper Steak Stir Fry  
- - Vegan Taco Filling  
+ - BYO Bar - Mac & Cheese  
+ - Soup Italian Wedding  
   
 **pork**  
 In name:   
+ - Pork Bratwurst Sandwich  
   
 In description:   
- - Soup Clam Chowder  
+ - BYO Bar - Mac & Cheese  
   
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
- - Sweet & Spicy Orange Chicken  
+ - Spicy Chicken Fajita  
   
 In description:   
+ - BYO Bar - Mac & Cheese  
  - Great Greens  
+ - Soup Italian Wedding  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-08-16)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2024-08-16)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-08-17)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2024-08-17)  
   
 **For each keyword, the first [] includes dishes that contain it in their names, the second [] includes dishes in their discription. Enjoy!**  
