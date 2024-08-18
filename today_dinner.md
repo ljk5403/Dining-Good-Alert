@@ -1,68 +1,73 @@
-# 2024-08-17 dinner  
+# 2024-08-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-17 23:28:53  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-08-17)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-08-17)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-08-17)  
-**curry**  
-In name:   
- - Vegan Coconut Cauliflower Curry Soup  
-  
-In description:   
-  
+Updated at: 2024-08-18 00:26:50  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-08-18)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-08-18)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-08-18)  
 **beef**  
 In name:   
-  
-In description:   
- - Pepperoni Pizza Slice  
- - Burnt Ends  
- - Grilled Cheeseburger  
-  
-**pork**  
-In name:   
- - Herb Crusted Pork Loin  
-  
-In description:   
-  
-**chicken**  
-In name:   
- - Chicken Tenders Breaded  
- - Chicken Gravy  
- - Lemon Pepper Chicken Salad  
- - Chicken Noodle Soup  
- - Diced Chicken  
-  
-In description:   
- - Pepperoni Pizza Slice  
- - Great Greens  
-  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-08-17)  
-**beef**  
-In name:   
+ - Beef Barbacoa  
  - Beef Taco Meat  
   
 In description:   
- - BYO Bar - Mac & Cheese  
- - Soup Italian Wedding  
+ - Pepperoni Pizza Slice  
   
 **pork**  
 In name:   
- - Pork Bratwurst Sandwich  
+ - Boneless Baked Pork Ham  
   
 In description:   
- - BYO Bar - Mac & Cheese  
+ - Pizza Slice Sausage  
+  
+**chicken**  
+In name:   
+ - Chicken Pot Pie w/Biscuit  
+ - Soup Cream of Chicken & Wild Rice  
+ - Diced Chicken  
+ - Crispy Chicken Sandwich  
+  
+In description:   
+ - Pepperoni Pizza Slice  
+ - Great Greens  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-08-18)  
+**Salmon**  
+In name:   
+ - Tuscan Butter Salmon  
+  
+In description:   
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Tuscan Butter Salmon  
+  
+**curry**  
+In name:   
+  
+In description:   
+ - Citrus Couscous (VN) (AYCTE)  
+  
+**beef**  
+In name:   
+ - Beef Barbacoa  
+ - Beef Taco Meat  
+  
+In description:   
+ - Spicy Italian Meatball Sandwich  
   
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
- - Spicy Chicken Fajita  
+ - Diced Chicken  
+ - Soup Cream of Chicken & Wild Rice  
   
 In description:   
- - BYO Bar - Mac & Cheese  
+ - Spicy Italian Meatball Sandwich  
  - Great Greens  
- - Soup Italian Wedding  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-08-17)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2024-08-17)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-08-18)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2024-08-18)  
   
 **For each keyword, the first [] includes dishes that contain it in their names, the second [] includes dishes in their discription. Enjoy!**  
