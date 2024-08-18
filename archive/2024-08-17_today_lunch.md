@@ -1,6 +1,6 @@
 # 2024-08-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-18 07:43:13  
+Updated at: 2024-08-18 08:24:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-08-18)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-08-18)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-08-18)  
@@ -27,6 +27,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Broasted Chicken 2 pc  
  - Grilled Chicken Sandwich  
  - Soup Cream of Chicken & Wild Rice  
  - Diced Chicken  
