@@ -1,6 +1,6 @@
 # 2024-08-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-19 15:24:32  
+Updated at: 2024-08-19 16:24:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-08-19)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-08-19)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-08-19)  
@@ -16,9 +16,10 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Rosemary Cabernet Flank Steak  
+ - Grilled Flank Steak  
  - Pepperoni Pizza Slice  
  - Vegan Taco Filling  
+ - Italian Meatball Sandwich  
   
 **pork**  
 In name:   
@@ -29,8 +30,9 @@ In description:
   
 **chicken**  
 In name:   
- - Grilled Chicken Fillet  
+ - Blackened Chicken Breast  
  - Chicken Gravy  
+ - General Tso's Chicken  
  - Chicken Tinga  
  - Chicken Noodle Soup  
   
@@ -38,6 +40,7 @@ In description:
  - Beef Meatballs  
  - Pepperoni Pizza Slice  
  - Great Greens  
+ - Italian Meatball Sandwich  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-08-19)  
 **curry**  
@@ -53,6 +56,7 @@ In name:
  - Beef Taco Meat  
   
 In description:   
+ - Build Your Own Maki Mono Bar  
  - Vegan Taco Filling  
   
 **pork**  
@@ -68,6 +72,7 @@ In name:
  - Chicken Noodle Soup  
   
 In description:   
+ - Build Your Own Maki Mono Bar  
  - Great Greens  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-08-19)  
