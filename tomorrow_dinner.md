@@ -1,53 +1,37 @@
-# 2024-08-20 dinner  
+# 2024-08-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-19 23:32:11  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-08-20)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-08-20)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-08-20)  
-**Salmon**  
+Updated at: 2024-08-20 00:26:45  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-08-21)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-08-21)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-08-21)  
+**Shrimp**  
 In name:   
- - Hoisin BBQ Glazed Salmon  
+ - Sweet & Sour Shrimp  
   
 In description:   
-  
-**Cod**  
-In name:   
-  
-In description:   
- - Petite Fish Sandwich  
-  
-**fish**  
-In name:   
- - Petite Fish Sandwich  
- - Vegan Fish Sandwich  
-  
-In description:   
- - Hoisin BBQ Glazed Salmon  
   
 **beef**  
 In name:   
- - Beef Tri Tip Carved w/ Chimichurri  
  - Beef Meatballs  
+ - Beef Barbacoa  
  - Beef Taco Meat  
- - Soup -  Chili Beef & Bean  
   
 In description:   
- - Italian Meat Sauce  
  - Pepperoni Pizza Slice  
   
 **pork**  
 In name:   
- - Green Beans w/ Pork Bacon  
- - Pork Carnita  
+ - Italian Pork Sausage  
+ - Gluten Free Pork Sausage Pizza Quarter  
   
 In description:   
  - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
- - Giardiniera Chicken  
- - Sesame Chicken  
- - Plant Based Sesame Chicken (AYCTE) (VN)  
+ - Chicken Pot Pie w/Biscuit  
+ - Lemon Pepper Chicken Salad  
+ - Chicken Noodle Soup  
  - Diced Chicken  
   
 In description:   
@@ -55,47 +39,48 @@ In description:
  - Pepperoni Pizza Slice  
  - Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-08-20)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-08-21)  
 **Tuna**  
 In name:   
  - Tuna Salad Sandwich  
   
 In description:   
   
+**Salmon**  
+In name:   
+ - Grilled Sesame Ginger Salmon  
+  
+In description:   
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Grilled Sesame Ginger Salmon  
+  
 **curry**  
 In name:   
- - Curry Cauliflower & Butternut Squash  
+ - Beef Bombay Curry  
+ - Indian Vegetable Curry  
   
 In description:   
   
 **beef**  
 In name:   
+ - Beef Bombay Curry  
+ - Beef Barbacoa  
  - Beef Taco Meat  
- - Soup -  Chili Beef & Bean  
-  
-In description:   
- - Grilled Cheeseburger  
- - Mediterranean Nachos  
- - Mediterranean Rice Bowl  
- - BYO Mediterranean Sandwich  
-  
-**pork**  
-In name:   
- - BBQ Pork Chop  
   
 In description:   
   
 **chicken**  
 In name:   
- - Taco Chicken  
+ - Crispy Chicken Sandwich  
   
 In description:   
- - Mediterranean Nachos  
- - Mediterranean Rice Bowl  
- - BYO Mediterranean Sandwich  
  - Great Greens  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-08-20)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2024-08-20)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-08-21)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2024-08-21)  
   
 **For each keyword, the first [] includes dishes that contain it in their names, the second [] includes dishes in their discription. Enjoy!**  
