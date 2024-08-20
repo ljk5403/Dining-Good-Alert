@@ -1,12 +1,11 @@
 # 2024-08-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-20 13:30:43  
+Updated at: 2024-08-20 14:19:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-08-20)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-08-20)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-08-20)  
 **beef**  
 In name:   
- - Texas BBQ Sliced Beef Brisket  
  - Beef Meatballs  
  - Beef Broccoli Stir Fry w/Teriyaki Sauce  
  - Plant-Based Beef & Broccoli Stir Fry  
@@ -14,6 +13,7 @@ In name:
  - Soup -  Chili Beef & Bean  
   
 In description:   
+ - Grilled Flank Steak  
  - Italian Meat Sauce  
  - Pepperoni Pizza Slice  
   
