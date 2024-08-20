@@ -1,6 +1,6 @@
 # 2024-08-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-19 18:24:17  
+Updated at: 2024-08-19 20:41:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-08-19)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-08-19)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-08-19)  
@@ -16,13 +16,13 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Grilled Flank Steak  
  - Pepperoni Pizza Slice  
  - Vegan Taco Filling  
  - Italian Meatball Sandwich  
   
 **pork**  
 In name:   
+ - BBQ Pork Chop  
  - Italian Pork Sausage  
   
 In description:   
