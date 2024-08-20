@@ -1,6 +1,6 @@
 # 2024-08-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-20 11:29:10  
+Updated at: 2024-08-20 12:25:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-08-20)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-08-20)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-08-20)  
@@ -46,12 +46,6 @@ In name:
  - Beef French Dip Sandwich  
  - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
-  
-In description:   
-  
-**pork**  
-In name:   
- - Pork & Broccoli Stir Fry  
   
 In description:   
   
