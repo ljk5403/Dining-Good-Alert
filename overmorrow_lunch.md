@@ -1,14 +1,21 @@
-# 2024-08-22 lunch  
+# 2024-08-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-20 23:28:55  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-08-22)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-08-22)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-08-22)  
-**Tuna**  
+Updated at: 2024-08-21 00:26:47  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-08-23)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-08-23)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-08-23)  
+**Shrimp**  
 In name:   
- - Lemon Pepper Tuna Salad  
+ - Sauteed Shrimp  
   
 In description:   
+  
+**Cod**  
+In name:   
+ - Fried Cod Basket  
+  
+In description:   
+ - Soup Clam Chowder  
   
 **beef**  
 In name:   
@@ -17,34 +24,56 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice  
- - Soup Italian Wedding  
+ - Vegan Taco Filling  
+ - Spicy Steak Fajita  
   
 **pork**  
 In name:   
- - Pork Carnita  
   
 In description:   
  - Pizza Slice Sausage  
+ - Soup Clam Chowder  
   
 **chicken**  
 In name:   
- - Chicken Wings Bone-In Plain  
- - Chicken Wings Boneless Plain  
- - Plant-Based Chicken Nuggets (6)  
- - Mediterranean Chicken  
- - Shoyu Chicken  
+ - Chicken Piece Seasoned Baked  
+ - Chicken Gravy  
+ - Tandoori Chicken  
  - Diced Chicken  
   
 In description:   
  - Beef Meatballs  
  - Pepperoni Pizza Slice  
  - Great Greens  
- - Soup Italian Wedding  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-08-22)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-08-23)  
+**Shrimp**  
+In name:   
+ - Sauteed Shrimp  
+  
+In description:   
+  
 **Tuna**  
 In name:   
  - Tuna Salad Sandwich  
+  
+In description:   
+  
+**Cod**  
+In name:   
+  
+In description:   
+ - Soup Clam Chowder  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Coconut Thai Curry Mahi Mahi  
+  
+**curry**  
+In name:   
+ - Coconut Thai Curry Mahi Mahi  
   
 In description:   
   
@@ -53,26 +82,28 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Swiss Steak w/Brown Gravy  
- - Soup Cream of Potato w/ Bacon  
+ - Mushroom Swiss Burger  
+ - Mediterranean Nachos  
+ - Mediterranean Rice Bowl  
+ - BYO Mediterranean Sandwich  
+ - Vegan Taco Filling  
   
 **pork**  
 In name:   
- - Pork Bratwurst Sandwich  
- - Pork Carnita  
   
 In description:   
- - Soup Cream of Potato w/ Bacon  
+ - Soup Clam Chowder  
   
 **chicken**  
 In name:   
- - Plant-Based Chicken Taco Filling  
   
 In description:   
+ - Mediterranean Nachos  
+ - Mediterranean Rice Bowl  
+ - BYO Mediterranean Sandwich  
  - Great Greens  
- - Soup Cream of Potato w/ Bacon  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2024-08-22)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-08-22)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2024-08-23)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-08-23)  
   
 **For each keyword, the first [] includes dishes that contain it in their names, the second [] includes dishes in their discription. Enjoy!**  
