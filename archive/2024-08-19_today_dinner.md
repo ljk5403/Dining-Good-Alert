@@ -1,6 +1,6 @@
 # 2024-08-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-20 18:24:18  
+Updated at: 2024-08-20 20:41:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-08-20)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-08-20)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-08-20)  
@@ -26,7 +26,6 @@ In description:
   
 **beef**  
 In name:   
- - Beef Tri Tip Carved w/ Chimichurri  
  - Beef Meatballs  
  - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
