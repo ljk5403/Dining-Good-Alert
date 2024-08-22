@@ -1,6 +1,6 @@
 # 2024-08-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-22 15:25:29  
+Updated at: 2024-08-22 16:25:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-08-22)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-08-22)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-08-22)  
@@ -30,6 +30,7 @@ In description:
 **pork**  
 In name:   
  - Sri Lanka Deviled Pork  
+ - Pork Italian Sausage  
  - Pork Carnita  
   
 In description:   
@@ -37,7 +38,6 @@ In description:
   
 **chicken**  
 In name:   
- - Mediterranean Chicken  
  - Diced Chicken  
  - Chicken Tenders Breaded  
  - Plant-Based Chicken Nuggets (6)  
