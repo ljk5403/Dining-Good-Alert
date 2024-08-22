@@ -1,6 +1,6 @@
 # 2024-08-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-21 18:22:41  
+Updated at: 2024-08-21 20:42:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-08-21)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-08-21)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-08-21)  
@@ -29,7 +29,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Pot Pie w/Biscuit  
+ - Chicken Drumstick Teriyaki Glazed  
  - Lemon Pepper Chicken Salad  
  - Chicken Noodle Soup  
  - Diced Chicken  
@@ -46,18 +46,6 @@ In name:
   
 In description:   
   
-**Salmon**  
-In name:   
- - Grilled Sesame Ginger Salmon  
-  
-In description:   
-  
-**fish**  
-In name:   
-  
-In description:   
- - Grilled Sesame Ginger Salmon  
-  
 **curry**  
 In name:   
  - Beef Bombay Curry  
@@ -70,6 +58,12 @@ In name:
  - Beef Bombay Curry  
  - Beef Barbacoa  
  - Beef Taco Meat  
+  
+In description:   
+  
+**pork**  
+In name:   
+ - Pork Adobo  
   
 In description:   
   
