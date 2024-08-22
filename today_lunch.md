@@ -1,6 +1,6 @@
 # 2024-08-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-22 10:27:43  
+Updated at: 2024-08-22 12:26:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-08-22)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-08-22)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-08-22)  
@@ -41,11 +41,18 @@ In description:
  - Soup Italian Wedding  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-08-22)  
+**Shrimp**  
+In name:   
+  
+In description:   
+ - Poke Bar  
+  
 **Tuna**  
 In name:   
  - Tuna Salad Sandwich  
   
 In description:   
+ - Poke Bar  
   
 **beef**  
 In name:   
