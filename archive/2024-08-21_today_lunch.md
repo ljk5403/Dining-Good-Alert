@@ -1,6 +1,6 @@
 # 2024-08-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-22 06:20:47  
+Updated at: 2024-08-22 07:44:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-08-22)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-08-22)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-08-22)  
@@ -21,6 +21,7 @@ In description:
   
 **pork**  
 In name:   
+ - Italian Pork Sausage  
  - Pork Carnita  
   
 In description:   
@@ -31,7 +32,6 @@ In name:
  - Chicken Wings Bone-In Plain  
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
- - Mediterranean Chicken  
  - Shoyu Chicken  
  - Diced Chicken  
   
