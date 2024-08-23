@@ -1,6 +1,6 @@
 # 2024-08-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-23 10:27:54  
+Updated at: 2024-08-23 11:31:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-08-23)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-08-23)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-08-23)  
@@ -12,10 +12,17 @@ In description:
   
 **Cod**  
 In name:   
- - Fried Cod Basket  
+ - Vegan Cod Battered Beer (2 pc)  
+ - Battered Cod  
   
 In description:   
  - Soup Clam Chowder  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Vegan Cod Battered Beer (2 pc)  
   
 **beef**  
 In name:   
