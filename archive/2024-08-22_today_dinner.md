@@ -1,6 +1,6 @@
 # 2024-08-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-23 14:19:13  
+Updated at: 2024-08-23 15:25:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-08-23)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-08-23)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-08-23)  
@@ -14,6 +14,12 @@ In description:
 **fish**  
 In name:   
  - Petite Fish Sandwich  
+  
+In description:   
+  
+**curry**  
+In name:   
+ - Coconut Tofu w/Red Curry Sauce  
   
 In description:   
   
@@ -38,7 +44,7 @@ In description:
   
 **chicken**  
 In name:   
- - Butter Chicken  
+ - Shoyu Chicken  
  - Diced Chicken  
   
 In description:   
