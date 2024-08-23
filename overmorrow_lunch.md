@@ -1,14 +1,106 @@
-# 2024-08-24 lunch  
+# 2024-08-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-22 23:28:30  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-08-24)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-08-24)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-08-24)  
-**fish**  
+Updated at: 2024-08-23 00:27:07  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-08-25)  
+**Tuna**  
 In name:   
+ - Lemon Pepper Tuna Salad  
   
 In description:   
- - Tempura Roll (FujiSan)  
+  
+**curry**  
+In name:   
+ - Squash Curry  
+  
+In description:   
+  
+**beef**  
+In name:   
+ - Beef Barbacoa  
+ - Beef Taco Meat  
+  
+In description:   
+ - Pepperoni Pizza Slice  
+ - Philly Cheesesteak Sandwich  
+ - Vegan Taco Filling  
+  
+**pork**  
+In name:   
+ - Pork Sausage Patty  
+  
+In description:   
+ - Egg, Sausage & Cheese English Muffin  
+  
+**chicken**  
+In name:   
+ - Honey Mustard Chicken & Vegetables  
+ - Fajita Chicken  
+  
+In description:   
+ - Pepperoni Pizza Slice  
+  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-08-25)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-08-25)  
+**fish**  
+In name:   
+ - Blackened Catfish  
+  
+In description:   
+  
+**beef**  
+In name:   
+ - Beef Barbacoa  
+ - Beef Taco Meat  
+  
+In description:   
+ - Pepperoni Pizza Slice  
+  
+**pork**  
+In name:   
+ - Boneless Baked Pork Ham  
+  
+In description:   
+ - Pizza Slice Sausage  
+  
+**chicken**  
+In name:   
+ - Grilled Chicken Sandwich  
+ - Soup Cream of Chicken & Wild Rice  
+ - Diced Chicken  
+  
+In description:   
+ - Pepperoni Pizza Slice  
+ - Great Greens  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-08-25)  
+**Tuna**  
+In name:   
+ - Tuna Salad Sandwich  
+  
+In description:   
+  
+**beef**  
+In name:   
+ - Beef Barbacoa  
+ - Beef Taco Meat  
+  
+In description:   
+  
+**chicken**  
+In name:   
+ - Crispy Chicken Sandwich  
+ - Tikka Masala Chicken  
+ - Soup Cream of Chicken & Wild Rice  
+  
+In description:   
+ - Great Greens  
+  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2024-08-25)  
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
+In description:   
   
 **curry**  
 In name:   
@@ -18,64 +110,30 @@ In description:
   
 **beef**  
 In name:   
- - Beef Gravy  
- - Beef Taco Meat  
   
 In description:   
- - Burnt Ends  
- - Pepperoni Pizza Slice  
- - Gluten Free Pepperoni Pizza Quarter  
+ - Pizza Slice Sausage & Pepperoni  
+ - Southwest Burger  
   
 **pork**  
 In name:   
- - Pork Frittata Trattoria  
- - Carolina BBQ Pork Sandwich  
+ - Island Spiced Pork w/ Pineapple Salsa  
+ - Pork Sausage Patty  
   
 In description:   
- - Pizza Slice Sausage  
+ - Pizza Slice Sausage & Pepperoni  
+ - Chicken Biscuit w/ Sausage Gravy  
   
 **chicken**  
 In name:   
- - Lemon Pepper Chicken Salad  
- - Chicken Tinga  
- - Chicken Noodle Soup  
- - Diced Chicken  
+ - Pizza Slice BBQ Chicken & Bacon  
+ - Dan Dan w/ Chicken  
+ - Chicken Biscuit w/ Sausage Gravy  
   
 In description:   
- - Pepperoni Pizza Slice  
- - Gluten Free Pepperoni Pizza Quarter  
+ - Pizza Slice Sausage & Pepperoni  
  - Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-08-24)  
-**Tuna**  
-In name:   
- - Tuna Salad Sandwich  
-  
-In description:   
-  
-**beef**  
-In name:   
- - Beef Taco Meat  
-  
-In description:   
- - Chicago-Style Hot Dog  
- - Soup Italian Wedding  
-  
-**pork**  
-In name:   
- - Appetizer -  Fried Pork Potstickers  
-  
-In description:   
-  
-**chicken**  
-In name:   
- - Spicy Chicken Fajita  
-  
-In description:   
- - Great Greens  
- - Soup Italian Wedding  
-  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2024-08-24)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-08-24)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-08-25)  
   
 **For each keyword, the first [] includes dishes that contain it in their names, the second [] includes dishes in their discription. Enjoy!**  
