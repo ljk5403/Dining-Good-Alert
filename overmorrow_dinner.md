@@ -1,6 +1,6 @@
 # 2024-08-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-23 22:26:01  
+Updated at: 2024-08-23 23:27:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-08-25)  
 **Tuna**  
 In name:   
@@ -52,6 +52,7 @@ In description:
 **beef**  
 In name:   
  - Beef Tortellini and Sauce  
+ - Beef Meatballs  
  - Beef Barbacoa  
  - Beef Taco Meat  
   
@@ -60,17 +61,21 @@ In description:
   
 **pork**  
 In name:   
+ - Italian Pork Sausage  
   
 In description:   
  - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
+ - Sweet & Sour Chicken  
+ - Plant Based Sweet & Sour Chicken  
  - Soup Cream of Chicken & Wild Rice  
  - Diced Chicken  
  - Crispy Buffalo Chicken Sandwich  
   
 In description:   
+ - Beef Meatballs  
  - Pepperoni Pizza Slice  
  - Great Greens  
   

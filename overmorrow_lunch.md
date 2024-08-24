@@ -1,6 +1,6 @@
 # 2024-08-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-23 22:25:59  
+Updated at: 2024-08-23 23:27:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-08-25)  
 **Tuna**  
 In name:   
@@ -49,6 +49,7 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Meatballs  
  - Beef Barbacoa  
  - Beef Taco Meat  
   
@@ -58,6 +59,7 @@ In description:
 **pork**  
 In name:   
  - Boneless Baked Pork Ham  
+ - Italian Pork Sausage  
   
 In description:   
  - Pizza Slice Sausage  
@@ -65,10 +67,13 @@ In description:
 **chicken**  
 In name:   
  - Grilled Chicken Sandwich  
+ - Sesame Chicken  
+ - Plant Based Sesame Chicken (AYCTE) (VN)  
  - Soup Cream of Chicken & Wild Rice  
  - Diced Chicken  
   
 In description:   
+ - Beef Meatballs  
  - Pepperoni Pizza Slice  
  - Great Greens  
   
