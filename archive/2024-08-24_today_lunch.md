@@ -1,16 +1,10 @@
 # 2024-08-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-25 11:28:44  
+Updated at: 2024-08-25 12:27:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-08-25)  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
-  
-In description:   
-  
-**curry**  
-In name:   
- - Squash Curry  
   
 In description:   
   
@@ -33,7 +27,6 @@ In description:
   
 **chicken**  
 In name:   
- - Honey Mustard Chicken & Vegetables  
  - Fajita Chicken  
   
 In description:   
