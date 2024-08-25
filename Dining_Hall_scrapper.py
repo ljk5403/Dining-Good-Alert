@@ -16,8 +16,10 @@ dinning_hall_tuple = ('rhetas-market', 'lizs-market', 'gordon-avenue-market', 'f
 #meals_tuple = ('breakfast', 'lunch', 'dinner')
 meals_tuple = ('lunch', 'dinner')
 
-T0_good_dish_list = ['Shrimp', 'Tuna', 'Salmon', 'Cod', 'Tilapia', 'fish', 'lamb', 'curry', 'corn bake', 'beef', 'pork', 'chicken']
+good_dish_category = ['Shrimp', 'Tuna', 'Salmon', 'Cod', 'Tilapia', 'fish', 'lamb', 'curry', 'beef', 'pork', 'chicken']
+good_dish_name = ['Drunken Noodles', 'Pepper, Onion, & Mushroom Saute', 'Poke Bar', 'corn bake', 'Chicken Drumstick Gochujang Glazed']
 
+T0_good_dish_list = good_dish_name + good_dish_category
 
 
 def xprint(message):
@@ -145,7 +147,6 @@ def summary_generator(date : datetime = None, reldate : str =None):
                     print("In description: ", file = f) 
                     print_as_list_in_md(dish_list[1], f)
             print("", file = f)
-            print("**For each keyword, the first [] includes dishes that contain it in their names, the second [] includes dishes in their discription. Enjoy!**", file=f)
         add_spaces_to_file(filename)
         print("Successfully updated " + filename)
 
