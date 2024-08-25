@@ -1,6 +1,6 @@
 # 2024-08-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-25 10:24:12  
+Updated at: 2024-08-25 11:28:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-08-25)  
 **Tuna**  
 In name:   
@@ -85,8 +85,16 @@ In name:
   
 In description:   
   
+**pork**  
+In name:   
+ - Quiche Pork Sausage & Cheddar  
+ - Pork Sausage Links  
+  
+In description:   
+  
 **chicken**  
 In name:   
+ - Chicken Sausage Patties  
  - Crispy Chicken Sandwich  
  - Tikka Masala Chicken  
  - Soup Cream of Chicken & Wild Rice  
