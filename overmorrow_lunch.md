@@ -1,6 +1,6 @@
 # 2024-08-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-25 10:24:31  
+Updated at: 2024-08-25 11:28:52  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-08-27)  
 **Tuna**  
 In name:   
@@ -134,7 +134,6 @@ In description:
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-08-27)  
 **beef**  
 In name:   
- - Beef Pita Kabaub  
  - Roast Beef  
  - Pork & Beef Hard Salami  
  - Beef Taco Meat  
@@ -158,7 +157,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Breast w/Red Pepper Cream  
  - Italian Chicken  
  - Diced Chicken  
  - Mediterranean Chicken  

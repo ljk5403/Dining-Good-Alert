@@ -1,6 +1,6 @@
 # 2024-08-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-25 09:24:05  
+Updated at: 2024-08-25 10:24:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-08-25)  
 **Tuna**  
 In name:   
@@ -41,12 +41,6 @@ In description:
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-08-25)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-08-25)  
-**fish**  
-In name:   
- - Blackened Catfish  
-  
-In description:   
-  
 **beef**  
 In name:   
  - Beef Meatballs  
@@ -66,6 +60,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Piece Seasoned Baked  
  - Grilled Chicken Sandwich  
  - Sesame Chicken  
  - Plant Based Sesame Chicken (AYCTE) (VN)  
