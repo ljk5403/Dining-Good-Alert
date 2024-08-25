@@ -1,6 +1,6 @@
 # 2024-08-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-25 15:27:15  
+Updated at: 2024-08-25 16:47:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-08-25)  
 **Tuna**  
 In name:   
@@ -136,4 +136,3 @@ In description:
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-08-25)  
   
-**For each keyword, the first [] includes dishes that contain it in their names, the second [] includes dishes in their discription. Enjoy!**  
