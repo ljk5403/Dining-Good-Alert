@@ -1,6 +1,6 @@
 # 2024-08-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-25 07:41:54  
+Updated at: 2024-08-25 08:24:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-08-25)  
 **Tuna**  
 In name:   
@@ -75,7 +75,6 @@ In name:
 In description:   
  - Beef Meatballs  
  - Pepperoni Pizza Slice  
- - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-08-25)  
 **Tuna**  
