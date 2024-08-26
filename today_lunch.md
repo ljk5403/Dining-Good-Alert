@@ -1,6 +1,6 @@
 # 2024-08-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-26 10:25:01  
+Updated at: 2024-08-26 11:31:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-08-26)  
 **beef**  
 In name:   
@@ -20,7 +20,6 @@ In description:
   
 **chicken**  
 In name:   
- - Pizza Slice Chicken Bacon Ranch  
  - Lemon Pepper Chicken Salad  
  - Chicken  
  - Chicken Tinga  
@@ -144,6 +143,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Tikka Masala Chicken  
  - Chicken Noodle Soup  
  - Diced Chicken  
@@ -213,6 +213,7 @@ In description:
 **pork**  
 In name:   
  - Italian Pork Sausage  
+ - Pork Italian Sausage  
   
 In description:   
   
