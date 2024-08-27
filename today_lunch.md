@@ -1,6 +1,6 @@
 # 2024-08-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-27 12:25:23  
+Updated at: 2024-08-27 13:31:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-08-27)  
 **Tuna**  
 In name:   
@@ -104,13 +104,13 @@ In description:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-08-27)  
 **beef**  
 In name:   
- - Beef Roast w/Mushroom Demi Glace  
  - Beef Meatballs  
  - Pizza Slice Italian Beef  
  - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
   
 In description:   
+ - Grilled Flank Steak  
  - Whiskey Peppercorn Chicken Breast  
  - Spicy Steak Fajita  
   
@@ -160,7 +160,6 @@ In description:
 In name:   
  - Chicken Breast w/Red Pepper Cream  
  - Italian Chicken  
- - Diced Chicken  
  - Mediterranean Chicken  
   
 In description:   
