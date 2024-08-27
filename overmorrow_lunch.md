@@ -1,6 +1,6 @@
 # 2024-08-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-26 20:43:32  
+Updated at: 2024-08-26 21:44:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-08-28)  
 **Cod**  
 In name:   
@@ -110,7 +110,6 @@ In name:
  - Chicken Gravy  
  - Lemon Pepper Chicken Salad  
  - Soup Chicken Tortilla  
- - Diced Chicken  
   
 In description:   
  - Beef Meatballs  
