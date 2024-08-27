@@ -1,6 +1,6 @@
 # 2024-08-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-27 14:19:37  
+Updated at: 2024-08-27 15:26:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-08-29)  
 **Tuna**  
 In name:   
@@ -86,6 +86,7 @@ In description:
 **beef**  
 In name:   
  - Beef Meatballs  
+ - Mediterranean Beef  
  - Beef Taco Meat  
   
 In description:   
