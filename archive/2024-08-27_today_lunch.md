@@ -1,6 +1,6 @@
 # 2024-08-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-28 07:46:44  
+Updated at: 2024-08-28 08:53:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-08-28)  
 **Cod**  
 In name:   
@@ -42,6 +42,12 @@ In name:
  - Tuna Salad  
   
 In description:   
+  
+**catfish**  
+In name:   
+  
+In description:   
+ - Indian Fish Curry  
   
 **fish**  
 In name:   
@@ -117,6 +123,12 @@ In description:
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-08-28)  
+**steak**  
+In name:   
+ - Ham Steak  
+  
+In description:   
+  
 **beef**  
 In name:   
  - Beef Meatballs  
@@ -156,6 +168,12 @@ In description:
  - BYO Mediterranean Sandwich  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2024-08-28)  
+**steak**  
+In name:   
+ - Pizza Slice Philly Cheesesteak  
+  
+In description:   
+  
 **Shrimp**  
 In name:   
   

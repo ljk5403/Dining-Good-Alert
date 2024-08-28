@@ -1,6 +1,6 @@
 # 2024-08-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-28 07:46:49  
+Updated at: 2024-08-28 08:53:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-08-28)  
 **Tilapia**  
 In name:   
@@ -159,6 +159,12 @@ In description:
  - BYO Mediterranean Sandwich  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-08-28)  
+**steak**  
+In name:   
+ - Pizza Slice Philly Cheesesteak  
+  
+In description:   
+  
 **Tuna**  
 In name:   
  - Tuna Salad  
