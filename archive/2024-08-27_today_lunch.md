@@ -1,6 +1,6 @@
 # 2024-08-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-28 12:25:38  
+Updated at: 2024-08-28 13:31:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-08-28)  
 **Cod**  
 In name:   
@@ -216,21 +216,15 @@ In description:
  - Great Greens  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-08-28)  
-**fish**  
+**Tilapia**  
 In name:   
+ - Baked Tilapia w/Dill Wine Sauce  
   
 In description:   
- - Vietnamese Pork with Rice  
   
 **beef**  
 In name:   
  - Beef Meatballs  
-  
-In description:   
-  
-**pork**  
-In name:   
- - Vietnamese Pork with Rice  
   
 In description:   
   
