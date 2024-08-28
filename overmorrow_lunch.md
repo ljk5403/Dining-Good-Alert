@@ -1,6 +1,6 @@
 # 2024-08-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-28 14:22:08  
+Updated at: 2024-08-28 15:25:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-08-30)  
 **steak**  
 In name:   
@@ -155,8 +155,6 @@ In description:
   
 **beef**  
 In name:   
- - Roast Beef  
- - Pork & Beef Hard Salami  
  - Beef Taco Meat  
  - Mediterranean Beef  
   
@@ -169,12 +167,9 @@ In description:
   
 **pork**  
 In name:   
- - Pork & Beef Hard Salami  
  - Pork Carnita  
   
 In description:   
- - Smoked Ham  
- - Bacon  
  - Soup Clam Chowder  
   
 **chicken**  

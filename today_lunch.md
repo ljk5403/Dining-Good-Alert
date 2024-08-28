@@ -1,6 +1,6 @@
 # 2024-08-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-28 14:21:49  
+Updated at: 2024-08-28 15:25:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-08-28)  
 **Cod**  
 In name:   
@@ -131,8 +131,6 @@ In description:
 **beef**  
 In name:   
  - Beef Meatballs  
- - Roast Beef  
- - Pork & Beef Hard Salami  
  - Mediterranean Beef  
   
 In description:   
@@ -143,12 +141,9 @@ In description:
   
 **pork**  
 In name:   
- - Pork & Beef Hard Salami  
   
 In description:   
- - Bacon  
  - Ham Steak  
- - Smoked Ham  
   
 **chicken**  
 In name:   
@@ -216,11 +211,17 @@ In description:
  - Great Greens  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-08-28)  
-**Tilapia**  
+**Salmon**  
 In name:   
- - Baked Tilapia w/Dill Wine Sauce  
+ - Island Spiced Salmon  
   
 In description:   
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Island Spiced Salmon  
   
 **beef**  
 In name:   
