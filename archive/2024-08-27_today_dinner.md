@@ -1,6 +1,6 @@
 # 2024-08-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-28 14:21:55  
+Updated at: 2024-08-28 15:25:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-08-28)  
 **Tilapia**  
 In name:   
@@ -121,8 +121,6 @@ In description:
   
 **beef**  
 In name:   
- - Roast Beef  
- - Pork & Beef Hard Salami  
  - Beef Meatballs  
  - Mediterranean Beef  
   
@@ -136,12 +134,9 @@ In description:
   
 **pork**  
 In name:   
- - Pork & Beef Hard Salami  
  - BBQ Pork Chop  
   
 In description:   
- - Smoked Ham  
- - Bacon  
   
 **chicken**  
 In name:   
