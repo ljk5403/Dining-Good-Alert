@@ -1,6 +1,6 @@
 # 2024-08-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-28 15:25:38  
+Updated at: 2024-08-28 16:23:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-08-28)  
 **Tilapia**  
 In name:   
@@ -228,6 +228,7 @@ In name:
  - Protein Plant Based Chicken Tender  
  - Diced Chicken Breast  
  - Soup Chicken Tortilla  
+ - Seasoned Baked Chicken Quarters  
   
 In description:   
  - Great Greens  
