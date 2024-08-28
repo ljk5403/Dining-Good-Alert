@@ -1,6 +1,6 @@
 # 2024-08-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-28 17:27:01  
+Updated at: 2024-08-28 18:24:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-08-28)  
 **Tilapia**  
 In name:   
@@ -95,10 +95,12 @@ In description:
  - Boeuf Bourguignon w/Bacon  
  - Italian Meat Sauce  
  - Pizza Slice Reuben  
+ - Pork Feijoada  
   
 **pork**  
 In name:   
  - Italian Pork Sausage  
+ - Pork Feijoada  
  - Pork Carnita  
   
 In description:   
