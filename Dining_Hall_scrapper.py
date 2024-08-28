@@ -16,8 +16,8 @@ dinning_hall_tuple = ('rhetas-market', 'lizs-market', 'gordon-avenue-market', 'f
 #meals_tuple = ('breakfast', 'lunch', 'dinner')
 meals_tuple = ('lunch', 'dinner')
 
-good_dish_category = ['Shrimp', 'Tuna', 'Salmon', 'Cod', 'Tilapia', 'fish', 'lamb', 'curry', 'beef', 'pork', 'chicken']
-good_dish_name = ['Drunken Noodles', 'Pepper, Onion, & Mushroom Saute', 'Poke Bar', 'corn bake', 'Chicken Drumstick Gochujang Glazed']
+good_dish_category = ['Shrimp', 'Cod', 'squid', 'octopus', 'Tuna', 'Salmon', 'catfish', 'Tilapia', 'fish', 'lamb', 'goat', 'curry', 'beef', 'pork', 'chicken']
+good_dish_name = ['Drunken Noodles', 'Pepper, Onion, & Mushroom Saute', 'Poke Bar', 'corn bake', 'Chicken Drumstick Gochujang Glazed', 'steak']
 
 T0_good_dish_list = good_dish_name + good_dish_category
 
