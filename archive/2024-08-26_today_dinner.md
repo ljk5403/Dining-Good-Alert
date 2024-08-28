@@ -1,6 +1,6 @@
 # 2024-08-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-27 17:29:08  
+Updated at: 2024-08-27 18:23:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-08-27)  
 **Tuna**  
 In name:   
@@ -109,7 +109,6 @@ In description:
   
 **beef**  
 In name:   
- - Beef Flank Steak  
  - Beef Meatballs  
  - Pizza Slice Italian Beef  
  - Beef Taco Meat  
