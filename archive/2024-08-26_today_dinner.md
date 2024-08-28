@@ -1,6 +1,6 @@
 # 2024-08-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-27 18:23:41  
+Updated at: 2024-08-27 20:44:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-08-27)  
 **Tuna**  
 In name:   
@@ -121,6 +121,7 @@ In description:
 **pork**  
 In name:   
  - BBQ Pork Chop  
+ - Pork Italian Sausage  
  - Carolina BBQ Pork Sandwich  
   
 In description:   
@@ -128,7 +129,6 @@ In description:
 **chicken**  
 In name:   
  - Mediterranean Chicken  
- - Greek Lemon Chicken w/ Rice  
  - Chicken Sausage Patties  
   
 In description:   
