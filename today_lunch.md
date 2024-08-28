@@ -1,6 +1,6 @@
 # 2024-08-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-28 10:26:16  
+Updated at: 2024-08-28 11:30:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-08-28)  
 **Cod**  
 In name:   
@@ -120,7 +120,6 @@ In name:
   
 In description:   
  - Beef Meatballs  
- - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-08-28)  
 **steak**  
@@ -167,12 +166,6 @@ In description:
  - BYO Mediterranean Sandwich  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2024-08-28)  
-**steak**  
-In name:   
- - Pizza Slice Philly Cheesesteak  
-  
-In description:   
-  
 **Shrimp**  
 In name:   
   
@@ -198,7 +191,7 @@ In name:
  - Sub - Korean Beef  
   
 In description:   
- - Pizza Slice Philly Cheesesteak  
+ - Pizza Slice Deluxe  
  - Build Your Own Carson's Korean Bulgogi  
  - Vegan Sloppy Joe  
  - Sloppy Joe  
@@ -209,6 +202,7 @@ In name:
   
 In description:   
  - Pizza Slice Sausage  
+ - Pizza Slice Deluxe  
   
 **chicken**  
 In name:   
@@ -217,6 +211,7 @@ In name:
  - Chicken Sausage Patty  
   
 In description:   
+ - Pizza Slice Deluxe  
  - Build Your Own Carson's Korean Bulgogi  
  - Great Greens  
   
@@ -243,7 +238,7 @@ In description:
 In name:   
  - Protein Plant Based Chicken Tender  
  - Diced Chicken Breast  
- - Soup Chicken Tortilla  
+ - Chicken Noodle Soup  
  - Seasoned Baked Chicken Quarters  
   
 In description:   
