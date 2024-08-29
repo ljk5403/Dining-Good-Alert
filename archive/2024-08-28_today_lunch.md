@@ -1,6 +1,6 @@
 # 2024-08-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-29 07:46:20  
+Updated at: 2024-08-29 08:28:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-08-29)  
 **Tuna**  
 In name:   
@@ -87,6 +87,7 @@ In description:
  - BYO Bar - Mac & Cheese  
  - Pizza Slice Sausage & Pepperoni  
  - Grilled Cheeseburger  
+ - BYO Bar - Mediterranean Gordon  
  - Soup Cream of Potato w/ Bacon  
   
 **pork**  
@@ -109,6 +110,7 @@ In description:
  - BYO Bar - Mac & Cheese  
  - Beef Meatballs  
  - Pizza Slice Sausage & Pepperoni  
+ - BYO Bar - Mediterranean Gordon  
  - Great Greens  
  - Soup Cream of Potato w/ Bacon  
   
