@@ -1,6 +1,6 @@
 # 2024-08-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-29 15:25:16  
+Updated at: 2024-08-29 16:23:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-08-29)  
 **Tuna**  
 In name:   
@@ -77,15 +77,10 @@ In name:
   
 In description:   
   
-**curry**  
-In name:   
- - Currywurst  
-  
-In description:   
-  
 **beef**  
 In name:   
  - Beef Meatballs  
+ - Mediterranean Beef  
  - Beef Taco Meat  
   
 In description:   
@@ -101,7 +96,6 @@ In name:
 In description:   
  - Pizza Slice Sausage & Pepperoni  
  - Soup Cream of Potato w/ Bacon  
- - Currywurst  
   
 **chicken**  
 In name:   
@@ -110,6 +104,7 @@ In name:
  - Pizza Slice Chicken Broccoli Alfredo  
  - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
+ - Crispy Chicken Sandwich  
   
 In description:   
  - Beef Meatballs  
@@ -182,6 +177,7 @@ In description:
 In name:   
  - Pizza Slice BBQ Pulled Pork  
  - Green Beans w/ Pork Bacon  
+ - Pork Belly for Street Taco - Carson  
   
 In description:   
  - Soup Cream of Potato w/ Bacon  
@@ -191,6 +187,7 @@ In name:
  - Chicken Tenders Breaded  
  - Plant-Based Chicken Tenders  
  - Chicken Dumpling Soup  
+ - Grilled Halal Chicken  
   
 In description:   
  - Great Greens  
@@ -213,9 +210,11 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Marsala  
  - Diced Chicken Breast  
  - Chicken Dumpling Soup  
  - Chicken Marsala Creamy w/Fettucine  
+ - Diced Chicken  
   
 In description:   
  - Beef Meatballs  

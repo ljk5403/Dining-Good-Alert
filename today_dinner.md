@@ -1,6 +1,6 @@
 # 2024-08-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-29 16:23:46  
+Updated at: 2024-08-29 17:28:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-08-29)  
 **Tuna**  
 In name:   
@@ -79,7 +79,6 @@ In description:
   
 **beef**  
 In name:   
- - Beef Meatballs  
  - Mediterranean Beef  
  - Beef Taco Meat  
   
@@ -91,6 +90,7 @@ In description:
 **pork**  
 In name:   
  - Herb Crusted Pork Loin  
+ - Italian Pork Sausage  
  - Pork Sausage Patties  
   
 In description:   
@@ -107,7 +107,6 @@ In name:
  - Crispy Chicken Sandwich  
   
 In description:   
- - Beef Meatballs  
  - Pizza Slice Sausage & Pepperoni  
  - BYO Bar - Mediterranean Gordon  
  - Great Greens  
