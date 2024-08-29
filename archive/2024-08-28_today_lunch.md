@@ -1,6 +1,6 @@
 # 2024-08-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-29 06:21:41  
+Updated at: 2024-08-29 07:46:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-08-29)  
 **Tuna**  
 In name:   
@@ -81,15 +81,12 @@ In description:
 **beef**  
 In name:   
  - Beef Meatballs  
- - Mediterranean Beef  
  - Beef Taco Meat  
   
 In description:   
  - BYO Bar - Mac & Cheese  
- - Cocktail Smokies  
  - Pizza Slice Sausage & Pepperoni  
  - Grilled Cheeseburger  
- - BYO Bar - Mediterranean Gordon  
  - Soup Cream of Potato w/ Bacon  
   
 **pork**  
@@ -98,25 +95,20 @@ In name:
   
 In description:   
  - BYO Bar - Mac & Cheese  
- - Cocktail Smokies  
  - Pizza Slice Sausage & Pepperoni  
  - Soup Cream of Potato w/ Bacon  
   
 **chicken**  
 In name:   
- - Popcorn Chicken  
  - Mediterranean Chicken  
  - Pizza Slice Chicken Broccoli Alfredo  
  - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
- - Diced Chicken  
   
 In description:   
  - BYO Bar - Mac & Cheese  
- - Cocktail Smokies  
  - Beef Meatballs  
  - Pizza Slice Sausage & Pepperoni  
- - BYO Bar - Mediterranean Gordon  
  - Great Greens  
  - Soup Cream of Potato w/ Bacon  
   
