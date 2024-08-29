@@ -1,251 +1,75 @@
-# 2024-08-30 dinner  
+# 2024-08-31 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-28 23:29:18  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-08-30)  
-**steak**  
+Updated at: 2024-08-29 00:28:17  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-08-31)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-08-31)  
+**beef**  
 In name:   
- - Pizza Slice Philly Cheesesteak  
+ - Beef Alicha  
   
 In description:   
   
-**Cod**  
+**chicken**  
 In name:   
-  
-In description:   
- - Soup Clam Chowder  
-  
-**Tilapia**  
-In name:   
- - Blackened Tilapia  
+ - Soup Cream of Chicken & Wild Rice  
+ - Lemon Pepper Chicken Salad  
   
 In description:   
   
-**fish**  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-08-31)  
+**Shrimp**  
 In name:   
+ - Shrimp Creole  
   
 In description:   
- - Bibimbap Bowl  
   
 **beef**  
 In name:   
- - Tamales Carne con Adobo (Beef)  
+ - Beef Meatballs  
+ - Beef Taco Meat  
   
 In description:   
- - Burnt Ends  
- - Pizza Slice Philly Cheesesteak  
- - Bibimbap Bowl  
- - Vegetarian Hot Tamale Pie  
+ - Pepperoni Pizza Slice  
+ - Chicago-Style Hot Dog  
   
 **pork**  
 In name:   
+ - Pork Sausage Patties  
   
 In description:   
  - Pizza Slice Sausage  
- - Quesadilla Andouille & Poblano  
- - Soup Clam Chowder  
   
 **chicken**  
 In name:   
- - Diced Chicken Breast  
+ - Breaded Chicken Parmigiana  
  - Lemon Pepper Chicken Salad  
-  
-In description:   
- - Tamales Carne con Adobo (Beef)  
- - Great Greens  
-  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-08-30)  
-**fish**  
-In name:   
-  
-In description:   
- - Beef Masaman Thai Curry  
-  
-**curry**  
-In name:   
- - Beef Masaman Thai Curry  
- - Coconut Tofu w/Red Curry Sauce  
-  
-In description:   
-  
-**beef**  
-In name:   
- - Beef Masaman Thai Curry  
-  
-In description:   
- - Station Recipe - Liz - Deli  AYCTE  
-  
-**pork**  
-In name:   
-  
-In description:   
- - Station Recipe - Liz - Deli  AYCTE  
-  
-**chicken**  
-In name:   
- - Doro Wat Chicken  
- - Chicken Sausage Patty  
- - Lemon Pepper Chicken Salad  
-  
-In description:   
-  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-08-30)  
-**corn bake**  
-In name:   
- - Sweet Corn Bake (Veg)  
-  
-In description:   
-  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp  
-  
-In description:   
-  
-**Cod**  
-In name:   
- - Lemon Pepper Cod Fillet  
- - Battered Cod Fillet Sandwich  
-  
-In description:   
- - Soup Clam Chowder  
-  
-**curry**  
-In name:   
- - Indian Curry Potatoes  
-  
-In description:   
-  
-**beef**  
-In name:   
- - Texas BBQ Sliced Beef Brisket  
- - Beef Meatballs  
- - Beef Barbacoa  
- - Beef Taco Meat  
-  
-In description:   
- - Vegan Taco Filling  
-  
-**pork**  
-In name:   
- - Pizza Slice BBQ Pulled Pork  
-  
-In description:   
- - Soup Clam Chowder  
-  
-**chicken**  
-In name:   
- - Tandoori Chicken  
- - Chicken Sausage Patties  
+ - Chicken Tinga  
+ - Soup Cream of Chicken & Wild Rice  
   
 In description:   
  - Beef Meatballs  
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-08-30)  
-**Drunken Noodles**  
-In name:   
- - Drunken Noodles  
-  
-In description:   
-  
-**steak**  
-In name:   
- - Country Fried Steak  
-  
-In description:   
-  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp  
-  
-In description:   
- - Drunken Noodles  
-  
-**Cod**  
-In name:   
-  
-In description:   
- - Soup Clam Chowder  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Drunken Noodles  
-  
-**lamb**  
-In name:   
- - Lamb Vindaloo  
-  
-In description:   
-  
-**curry**  
-In name:   
-  
-In description:   
- - Lamb Vindaloo  
-  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-08-31)  
 **beef**  
 In name:   
+ - Beef Meatballs  
  - Beef Taco Meat  
   
 In description:   
- - Country Fried Steak  
- - Pizza Slice Meat Lovers w/ Bacon  
- - Vegan Taco Filling  
- - Mediterranean Rice Bowl  
- - Mediterranean Nachos  
- - BYO Mediterranean Sandwich  
-  
-**pork**  
-In name:   
- - Pork Bratwurst Sandwich  
- - Pork Carnita  
-  
-In description:   
- - Pizza Slice Meat Lovers w/ Bacon  
- - Soup Clam Chowder  
   
 **chicken**  
 In name:   
- - Crispy Chicken Sandwich  
+ - Chicken Tenders Breaded  
+ - Plant-Based Chicken Nuggets (6)  
+ - Spicy Chicken Fajita  
+ - Soup Cream of Chicken & Wild Rice  
   
 In description:   
- - Pizza Slice Meat Lovers w/ Bacon  
+ - Beef Meatballs  
  - Station Recipe - Great Greens - FLM  
- - Mediterranean Rice Bowl  
- - Mediterranean Nachos  
- - BYO Mediterranean Sandwich  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-08-30)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2024-08-30)  
-**Cod**  
-In name:   
- - Baked Cod Fillet w/Butter & Lemon  
-  
-In description:   
- - Soup Clam Chowder  
-  
-**curry**  
-In name:   
- - Green Curry Tofu & Vegetables  
-  
-In description:   
-  
-**pork**  
-In name:   
- - Italian Pork Sausage  
- - Pork Miso w/Yakisoba Noodles  
-  
-In description:   
- - Soup Clam Chowder  
-  
-**chicken**  
-In name:   
- - Popcorn Chicken  
-  
-In description:   
- - Great Greens  
- - Pork Miso w/Yakisoba Noodles  
-  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-08-31)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2024-08-31)  
   
