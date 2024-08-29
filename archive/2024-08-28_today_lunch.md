@@ -1,6 +1,6 @@
 # 2024-08-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-29 10:27:00  
+Updated at: 2024-08-29 11:30:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-08-29)  
 **Tuna**  
 In name:   
@@ -88,7 +88,6 @@ In description:
  - Pizza Slice Sausage & Pepperoni  
  - Grilled Cheeseburger  
  - BYO Bar - Mediterranean Gordon  
- - Soup Cream of Potato w/ Bacon  
   
 **pork**  
 In name:   
@@ -97,7 +96,6 @@ In name:
 In description:   
  - BYO Bar - Mac & Cheese  
  - Pizza Slice Sausage & Pepperoni  
- - Soup Cream of Potato w/ Bacon  
   
 **chicken**  
 In name:   
@@ -105,6 +103,7 @@ In name:
  - Pizza Slice Chicken Broccoli Alfredo  
  - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
+ - Diced Chicken  
   
 In description:   
  - BYO Bar - Mac & Cheese  
@@ -112,7 +111,6 @@ In description:
  - Pizza Slice Sausage & Pepperoni  
  - BYO Bar - Mediterranean Gordon  
  - Great Greens  
- - Soup Cream of Potato w/ Bacon  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-08-29)  
 **fish**  
@@ -210,7 +208,7 @@ In description:
 **chicken**  
 In name:   
  - Tikka Masala Chicken  
- - Chicken Dumpling Soup  
+ - Soup Chicken Noodle  
   
 In description:   
  - Ancho Braised Pork  
@@ -223,22 +221,19 @@ In name:
  - Texas BBQ Sliced Beef Brisket  
   
 In description:   
- - Soup Cream of Potato w/ Bacon  
   
 **pork**  
 In name:   
  - Italian Pork Sausage  
   
 In description:   
- - Soup Cream of Potato w/ Bacon  
   
 **chicken**  
 In name:   
  - Diced Chicken Breast  
- - Chicken Dumpling Soup  
+ - Soup Chicken Tortilla  
   
 In description:   
  - Great Greens  
- - Soup Cream of Potato w/ Bacon  
   
   
