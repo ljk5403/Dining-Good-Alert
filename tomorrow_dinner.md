@@ -1,6 +1,6 @@
 # 2024-08-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-29 15:25:19  
+Updated at: 2024-08-29 16:24:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-08-30)  
 **steak**  
 In name:   
@@ -108,6 +108,12 @@ In name:
   
 In description:   
  - Soup Clam Chowder  
+  
+**curry**  
+In name:   
+ - Indian Curry Potatoes  
+  
+In description:   
   
 **beef**  
 In name:   
