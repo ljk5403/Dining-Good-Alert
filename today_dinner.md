@@ -1,6 +1,6 @@
 # 2024-08-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-29 14:20:44  
+Updated at: 2024-08-29 15:25:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-08-29)  
 **Tuna**  
 In name:   
@@ -119,12 +119,6 @@ In description:
  - Soup Cream of Potato w/ Bacon  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-08-29)  
-**fish**  
-In name:   
- - Cajun Fish Tacos  
-  
-In description:   
-  
 **curry**  
 In name:   
  - Thai Veggie Meatballs w/ Green Curry  
@@ -146,6 +140,7 @@ In description:
 **pork**  
 In name:   
  - New Orleans Turkey Melt w/ Pork  
+ - Smoked Pulled Pork  
   
 In description:   
  - Andouille Sausage  

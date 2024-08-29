@@ -1,6 +1,6 @@
 # 2024-08-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-29 13:31:51  
+Updated at: 2024-08-29 14:20:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-08-29)  
 **Tuna**  
 In name:   
@@ -220,21 +220,15 @@ In description:
  - Soup Cream of Potato w/ Bacon  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-08-29)  
+**lamb**  
+In name:   
+ - Leg of Lamb  
+  
+In description:   
+  
 **curry**  
 In name:   
  - Coconut Tofu w/Red Curry Sauce  
-  
-In description:   
-  
-**beef**  
-In name:   
- - Texas BBQ Sliced Beef Brisket  
-  
-In description:   
-  
-**pork**  
-In name:   
- - Italian Pork Sausage  
   
 In description:   
   
