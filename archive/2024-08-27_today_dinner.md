@@ -1,6 +1,6 @@
 # 2024-08-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-28 18:24:20  
+Updated at: 2024-08-28 20:45:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-08-28)  
 **Tilapia**  
 In name:   
@@ -70,7 +70,7 @@ In description:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-08-28)  
 **Shrimp**  
 In name:   
- - Shrimp Teriyaki Stir Fry  
+ - Redhook Ale Breaded Shrimp  
   
 In description:   
   
@@ -130,19 +130,19 @@ In description:
  - Grilled Cheeseburger  
  - Vegan Sloppy Joe  
  - Italian Meat Sauce  
+ - Boeuf Bourguignon w/Bacon  
  - Mediterranean Rice Bowl  
  - Mediterranean Nachos  
  - BYO Mediterranean Sandwich  
   
 **pork**  
 In name:   
- - BBQ Pork Chop  
+ - Smoked Pulled Pork Sandwich  
   
 In description:   
   
 **chicken**  
 In name:   
- - Chicken & Penne w/ Pesto Creme  
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
  - Soup Chicken Tortilla  

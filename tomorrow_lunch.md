@@ -1,6 +1,6 @@
 # 2024-08-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-28 20:45:11  
+Updated at: 2024-08-28 21:47:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-08-29)  
 **Tuna**  
 In name:   
@@ -138,7 +138,6 @@ In description:
 In name:   
  - Beef Masaman Thai Curry  
  - Beef Taco Meat  
- - Mediterranean Beef  
   
 In description:   
  - Soup Cream of Potato w/ Bacon  
@@ -160,7 +159,6 @@ In name:
  - Crispy Chicken Sandwich  
  - Chicken Tinga  
  - Chicken Dumpling Soup  
- - Mediterranean Chicken  
   
 In description:   
  - Station Recipe - Great Greens - FLM  

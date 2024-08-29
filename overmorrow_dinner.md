@@ -1,6 +1,6 @@
 # 2024-08-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-28 20:45:18  
+Updated at: 2024-08-28 21:47:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-08-30)  
 **steak**  
 In name:   
@@ -188,7 +188,6 @@ In description:
 **beef**  
 In name:   
  - Beef Taco Meat  
- - Mediterranean Beef  
   
 In description:   
  - Country Fried Steak  
@@ -210,7 +209,6 @@ In description:
 **chicken**  
 In name:   
  - Crispy Chicken Sandwich  
- - Mediterranean Chicken  
   
 In description:   
  - Pizza Slice Meat Lovers w/ Bacon  

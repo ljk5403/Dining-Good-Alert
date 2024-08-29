@@ -1,6 +1,6 @@
 # 2024-08-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-28 20:45:12  
+Updated at: 2024-08-28 21:47:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-08-29)  
 **Tuna**  
 In name:   
@@ -136,7 +136,6 @@ In description:
 In name:   
  - Beef Meatloaf  
  - Beef Taco Meat  
- - Mediterranean Beef  
   
 In description:   
  - Grilled Cheeseburger  
@@ -157,7 +156,6 @@ In description:
 In name:   
  - Baked BBQ Chicken Quarters  
  - Chicken Dumpling Soup  
- - Mediterranean Chicken  
   
 In description:   
  - Collard Greens w/Bacon  

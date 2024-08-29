@@ -1,6 +1,6 @@
 # 2024-08-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-28 20:45:14  
+Updated at: 2024-08-28 21:47:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-08-30)  
 **steak**  
 In name:   
@@ -156,7 +156,6 @@ In description:
 **beef**  
 In name:   
  - Beef Taco Meat  
- - Mediterranean Beef  
   
 In description:   
  - Grilled Cheeseburger  
@@ -176,7 +175,6 @@ In description:
 In name:   
  - Chicken Fajita Torta (Half)  
  - Pizza Slice BBQ Chicken & Bacon  
- - Mediterranean Chicken  
   
 In description:   
  - Station Recipe - Great Greens - FLM  
