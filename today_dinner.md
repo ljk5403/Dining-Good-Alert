@@ -1,6 +1,6 @@
 # 2024-08-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-30 16:24:26  
+Updated at: 2024-08-30 17:28:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-08-30)  
 **steak**  
 In name:   
@@ -237,7 +237,7 @@ In description:
   
 **chicken**  
 In name:   
- - Popcorn Chicken  
+ - Diced Chicken  
   
 In description:   
  - Great Greens  
