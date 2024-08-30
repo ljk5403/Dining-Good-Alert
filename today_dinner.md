@@ -1,6 +1,6 @@
 # 2024-08-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-29 18:23:56  
+Updated at: 2024-08-29 20:45:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-08-29)  
 **Tuna**  
 In name:   
@@ -74,6 +74,12 @@ In description:
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
+  
+In description:   
+  
+**curry**  
+In name:   
+ - Seitan & Coconut Thai Curry  
   
 In description:   
   
