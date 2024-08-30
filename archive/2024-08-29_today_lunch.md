@@ -1,243 +1,219 @@
-# 2024-08-29 lunch  
+# 2024-08-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-29 23:29:18  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-08-29)  
-**Tuna**  
+Updated at: 2024-08-30 00:28:05  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-08-30)  
+**steak**  
 In name:   
- - Lemon Pepper Tuna Salad  
+ - Pizza Slice Philly Cheesesteak  
   
 In description:   
   
-**fish**  
+**Cod**  
 In name:   
   
 In description:   
- - Tempura Roll (FujiSan)  
+ - Soup Clam Chowder  
   
 **beef**  
 In name:   
- - Beef Meatballs  
+ - Beef Taco Meat  
   
 In description:   
- - Pepperoni Pizza Slice  
- - Soup Cream of Potato w/ Bacon  
+ - Pizza Slice Philly Cheesesteak  
   
 **pork**  
 In name:   
- - Apple Cider Braised Pork  
+ - Pork Bratwurst Sandwich  
+ - Pork Miso w/Yakisoba Noodles  
+ - Pork Carnita  
   
 In description:   
- - Soup Cream of Potato w/ Bacon  
+ - Pizza Slice Sausage  
+ - Soup Clam Chowder  
   
 **chicken**  
 In name:   
- - Autumn Chicken  
- - Jerk Chicken Sandwich  
- - Chicken Dumpling Soup  
- - Plant Based Chicken Strips  
+ - Baked BBQ Chicken  
+ - Lemon Pepper Chicken Salad  
+ - Plant Based Protein Chicken Taco Filling  
+ - Fajita Chicken  
+ - Diced Chicken Breast  
   
 In description:   
- - Apple Cider Braised Pork  
- - Pepperoni Pizza Slice  
+ - Pork Miso w/Yakisoba Noodles  
  - Great Greens  
- - Soup Cream of Potato w/ Bacon  
- - Beef Meatballs  
   
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-08-29)  
-**beef**  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-08-30)  
+**Cod**  
 In name:   
+ - Battered Cod  
+ - Lemon Pepper Cod Fillet  
   
 In description:   
- - Soup Cream of Potato w/ Bacon  
+  
+**beef**  
+In name:   
+ - Beef Harissa w/Couscous  
+  
+In description:   
  - Station Recipe - Liz - Deli  AYCTE  
   
 **pork**  
 In name:   
- - Pork Sausage Country Gravy w/ Biscuit  
   
 In description:   
- - Soup Cream of Potato w/ Bacon  
  - Station Recipe - Liz - Deli  AYCTE  
   
 **chicken**  
 In name:   
- - Chicken Tenders Breaded  
- - Plant-Based Chicken Tenders  
- - Grilled BBQ Chicken Sandwich  
- - Chicken Dumpling Soup  
+ - Sumac Chicken  
+ - Plant Based Sweet & Sour Chicken  
  - Lemon Pepper Chicken Salad  
   
 In description:   
- - Pork Sausage Country Gravy w/ Biscuit  
- - Soup Cream of Potato w/ Bacon  
   
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-08-29)  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad  
-  
-In description:   
-  
-**beef**  
-In name:   
- - Beef Meatballs  
- - Beef Taco Meat  
-  
-In description:   
- - BYO Bar - Mac & Cheese  
- - Cocktail Smokies  
- - Pizza Slice Sausage & Pepperoni  
- - Grilled Cheeseburger  
- - BYO Bar - Mediterranean Gordon  
-  
-**pork**  
-In name:   
- - Pork Sausage Patties  
-  
-In description:   
- - BYO Bar - Mac & Cheese  
- - Cocktail Smokies  
- - Pizza Slice Sausage & Pepperoni  
-  
-**chicken**  
-In name:   
- - Popcorn Chicken  
- - Mediterranean Chicken  
- - Pizza Slice Chicken Broccoli Alfredo  
- - Spicy Fajita Chicken  
- - Diced Chicken  
- - Chicken Dumpling Soup  
-  
-In description:   
- - BYO Bar - Mac & Cheese  
- - Cocktail Smokies  
- - Beef Meatballs  
- - Pizza Slice Sausage & Pepperoni  
- - BYO Bar - Mediterranean Gordon  
- - Great Greens  
-  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-08-29)  
-**fish**  
-In name:   
-  
-In description:   
- - Thai BBQ Pork Ribs  
- - Beef Masaman Thai Curry  
-  
-**curry**  
-In name:   
- - Beef Masaman Thai Curry  
-  
-In description:   
-  
-**beef**  
-In name:   
- - Beef Masaman Thai Curry  
- - Beef Taco Meat  
-  
-In description:   
- - Soup Cream of Potato w/ Bacon  
- - Mediterranean Rice Bowl  
- - Mediterranean Nachos  
- - BYO Mediterranean Sandwich  
-  
-**pork**  
-In name:   
- - Thai BBQ Pork Ribs  
-  
-In description:   
- - Andouille Sausage  
- - Soup Cream of Potato w/ Bacon  
-  
-**chicken**  
-In name:   
- - Plant-Based Chicken Tenders  
- - Crispy Chicken Sandwich  
- - Chicken Tinga  
- - Chicken Dumpling Soup  
-  
-In description:   
- - Station Recipe - Great Greens - FLM  
- - Soup Cream of Potato w/ Bacon  
- - Mediterranean Rice Bowl  
- - Mediterranean Nachos  
- - BYO Mediterranean Sandwich  
-  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2024-08-29)  
-**steak**  
-In name:   
- - Ham Steak  
-  
-In description:   
-  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-08-30)  
 **Shrimp**  
 In name:   
- - Shrimp Po-Boy Sandwich  
+ - Sauteed Shrimp  
   
 In description:   
   
-**Tuna**  
+**Cod**  
 In name:   
- - Tuna Salad  
+ - Battered Cod  
+ - Vegan Cod Battered Beer (2 pc)  
   
 In description:   
+ - Soup Clam Chowder  
   
 **fish**  
 In name:   
- - Vegan Fish Sandwich  
   
 In description:   
+ - Vegan Cod Battered Beer (2 pc)  
   
 **curry**  
 In name:   
+ - Indian Curry Garbanzo Beans  
   
 In description:   
- - Chana Saag w/ Tofu  
+ - Navarathan Korma w/ Basmati Rice  
   
 **beef**  
 In name:   
+ - Beef Meatballs  
+ - Beef Barbacoa  
+ - Beef Taco Meat  
   
 In description:   
- - Soup Cream of Potato w/ Bacon  
+ - Vegan Taco Filling  
   
 **pork**  
 In name:   
  - Pizza Slice BBQ Pulled Pork  
- - Ancho Braised Pork  
   
 In description:   
- - Soup Cream of Potato w/ Bacon  
- - Ham Steak  
+ - Soup Clam Chowder  
   
 **chicken**  
 In name:   
- - Tikka Masala Chicken  
- - Soup Chicken Noodle  
+ - Chicken Piece Seasoned Baked  
+ - Chicken Sausage Patties  
+ - Chicken Supreme Sandwich w/ Bacon  
+ - Tandoori Chicken  
   
 In description:   
- - Ancho Braised Pork  
+ - Beef Meatballs  
  - Great Greens  
- - Soup Cream of Potato w/ Bacon  
   
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-08-29)  
-**lamb**  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-08-30)  
+**Shrimp**  
 In name:   
- - Leg of Lamb  
+ - Sauteed Shrimp  
   
 In description:   
   
-**curry**  
+**Cod**  
 In name:   
- - Coconut Tofu w/Red Curry Sauce  
   
 In description:   
+ - Soup Clam Chowder  
+  
+**Salmon**  
+In name:   
+ - Blackened Salmon  
+  
+In description:   
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Blackened Salmon  
+  
+**beef**  
+In name:   
+ - Beef Taco Meat  
+  
+In description:   
+ - Grilled Cheeseburger  
+ - Vegan Taco Filling  
+ - Mediterranean Rice Bowl  
+ - Mediterranean Nachos  
+ - BYO Mediterranean Sandwich  
+  
+**pork**  
+In name:   
+ - Pork Carnita  
+  
+In description:   
+ - Soup Clam Chowder  
   
 **chicken**  
 In name:   
- - Diced Chicken Breast  
- - Soup Chicken Tortilla  
+ - Chicken Fajita Torta (Half)  
+ - Pizza Slice BBQ Chicken & Bacon  
   
 In description:   
+ - Station Recipe - Great Greens - FLM  
+ - Mediterranean Rice Bowl  
+ - Mediterranean Nachos  
+ - BYO Mediterranean Sandwich  
+  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2024-08-30)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-08-30)  
+**Cod**  
+In name:   
+  
+In description:   
+ - Soup Clam Chowder  
+  
+**Tilapia**  
+In name:   
+ - Tilapia Chipotle Lime Crusted  
+  
+In description:   
+  
+**beef**  
+In name:   
+ - Beef Meatballs  
+  
+In description:   
+  
+**pork**  
+In name:   
+ - Cajun Rice w/ Pork & Black Eyed Peas  
+  
+In description:   
+ - Soup Clam Chowder  
+  
+**chicken**  
+In name:   
+ - Popcorn Chicken  
+  
+In description:   
+ - Beef Meatballs  
  - Great Greens  
   
   
