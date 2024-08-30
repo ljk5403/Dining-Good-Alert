@@ -1,6 +1,6 @@
 # 2024-08-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-30 14:19:22  
+Updated at: 2024-08-30 15:26:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-08-30)  
 **steak**  
 In name:   
@@ -89,12 +89,6 @@ In name:
 In description:   
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-08-30)  
-**corn bake**  
-In name:   
- - Sweet Corn Bake (Veg)  
-  
-In description:   
-  
 **Shrimp**  
 In name:   
  - Sauteed Shrimp  
@@ -104,10 +98,15 @@ In description:
 **Cod**  
 In name:   
  - Lemon Pepper Cod Fillet  
- - Battered Cod Fillet Sandwich  
   
 In description:   
  - Soup Clam Chowder  
+  
+**curry**  
+In name:   
+ - Currywurst  
+  
+In description:   
   
 **beef**  
 In name:   
@@ -125,10 +124,12 @@ In name:
   
 In description:   
  - Soup Clam Chowder  
+ - Currywurst  
   
 **chicken**  
 In name:   
- - Tandoori Chicken  
+ - Sweet & Sour Chicken  
+ - Plant Based Sweet & Sour Chicken  
  - Chicken Sausage Patties  
   
 In description:   
