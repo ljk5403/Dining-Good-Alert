@@ -1,6 +1,6 @@
 # 2024-08-31 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-31 08:25:35  
+Updated at: 2024-08-31 09:25:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-08-31)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-08-31)  
 **beef**  
@@ -61,7 +61,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Tenders Breaded  
+ - Chicken Wings Boneless (CN)  
  - Plant-Based Chicken Nuggets (6)  
  - Spicy Chicken Fajita  
  - Soup Cream of Chicken & Wild Rice  

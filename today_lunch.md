@@ -1,6 +1,6 @@
 # 2024-08-31 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-31 09:25:28  
+Updated at: 2024-08-31 10:26:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-08-31)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-08-31)  
 **chicken**  
@@ -61,6 +61,7 @@ In name:
   
 In description:   
  - Made to Order Breakfast Burrito  
+ - Andouille Sausage  
   
 **chicken**  
 In name:   
