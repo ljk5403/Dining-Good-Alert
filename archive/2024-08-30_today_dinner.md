@@ -1,6 +1,6 @@
 # 2024-08-31 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-31 15:25:29  
+Updated at: 2024-08-31 16:22:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-08-31)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-08-31)  
 **beef**  
@@ -39,6 +39,7 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice  
+ - Soup Italian Wedding  
  - Chicago-Style Hot Dog  
   
 **pork**  
@@ -53,12 +54,13 @@ In name:
  - Breaded Chicken Parmigiana  
  - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
- - Soup Cream of Chicken & Wild Rice  
+ - Diced Chicken  
   
 In description:   
  - Beef Meatballs  
  - Pepperoni Pizza Slice  
  - Great Greens  
+ - Soup Italian Wedding  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-08-31)  
 **beef**  
@@ -70,6 +72,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Chicken Wings Boneless (CN)  
  - Plant-Based Chicken Nuggets (6)  
  - Spicy Chicken Fajita  
