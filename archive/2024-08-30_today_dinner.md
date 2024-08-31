@@ -1,6 +1,6 @@
 # 2024-08-31 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-31 14:18:28  
+Updated at: 2024-08-31 15:25:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-08-31)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-08-31)  
 **beef**  
@@ -17,12 +17,6 @@ In name:
 In description:   
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-08-31)  
-**Shrimp**  
-In name:   
- - Shrimp Creole  
-  
-In description:   
-  
 **Cod**  
 In name:   
  - Fried Cod Basket  
@@ -39,6 +33,7 @@ In description:
   
 **beef**  
 In name:   
+ - Texas BBQ Sliced Beef Brisket  
  - Beef Meatballs  
  - Beef Taco Meat  
   
