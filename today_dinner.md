@@ -1,6 +1,6 @@
 # 2024-08-31 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-31 13:29:51  
+Updated at: 2024-08-31 14:18:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-08-31)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-08-31)  
 **beef**  
@@ -22,6 +22,20 @@ In name:
  - Shrimp Creole  
   
 In description:   
+  
+**Cod**  
+In name:   
+ - Fried Cod Basket  
+ - Cod Battered Beer (2 pc)  
+ - Vegan Cod Battered Beer (2 pc)  
+  
+In description:   
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Vegan Cod Battered Beer (2 pc)  
   
 **beef**  
 In name:   
