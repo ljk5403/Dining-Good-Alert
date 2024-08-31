@@ -1,6 +1,6 @@
 # 2024-09-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-31 06:21:39  
+Updated at: 2024-08-31 07:43:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-01)  
 **Tuna**  
 In name:   
@@ -69,6 +69,7 @@ In description:
 **chicken**  
 In name:   
  - Plant-Based Chicken Etouffee  
+ - Diced Chicken  
   
 In description:   
  - Tamales Carne con Adobo (Beef)  

@@ -1,6 +1,6 @@
 # 2024-09-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-31 06:21:40  
+Updated at: 2024-08-31 07:43:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-02)  
 **beef**  
 In name:   
@@ -118,6 +118,7 @@ In name:
  - Plant Based Sesame Chicken (AYCTE) (VN)  
  - Chicken Tinga  
  - Chicken Noodle Soup  
+ - Diced Chicken  
   
 In description:   
  - Gordon's OrderIt  
