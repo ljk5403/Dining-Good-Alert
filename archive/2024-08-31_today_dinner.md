@@ -1,39 +1,57 @@
-# 2024-08-31 dinner  
+# 2024-09-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-31 23:30:39  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-08-31)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-08-31)  
+Updated at: 2024-09-01 00:28:09  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-01)  
+**Cod**  
+In name:   
+ - Baked Cod Fillet w/Butter & Lemon  
+  
+In description:   
+  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad  
+  
+In description:   
+  
+**curry**  
+In name:   
+ - Curry Cauliflower & Butternut Squash  
+ - Vegan Coconut Cauliflower Curry Soup  
+  
+In description:   
+  
 **beef**  
 In name:   
- - Beef Alicha  
+ - Beef Barbacoa  
+ - Beef Taco Meat  
+  
+In description:   
+ - Pepperoni Pizza Slice  
+ - Vegan Taco Filling  
+  
+**pork**  
+In name:   
+ - Italian Pork Sausage  
+ - Sri Lanka Deviled Pork  
   
 In description:   
   
 **chicken**  
 In name:   
- - Soup Cream of Chicken & Wild Rice  
- - Lemon Pepper Chicken Salad  
+ - Chicken & Vegetables w/Dijon Vinaigrette  
+ - Crispy Buffalo Chicken Sandwich  
+ - Fajita Chicken  
   
 In description:   
+ - Pepperoni Pizza Slice  
+ - Great Greens  
   
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-08-31)  
-**Cod**  
-In name:   
- - Fried Cod Basket  
- - Cod Battered Beer (2 pc)  
- - Vegan Cod Battered Beer (2 pc)  
-  
-In description:   
-  
-**fish**  
-In name:   
-  
-In description:   
- - Vegan Cod Battered Beer (2 pc)  
-  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-09-01)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-09-01)  
 **curry**  
 In name:   
- - Currywurst  
+ - Vegan Coconut Cauliflower Curry Soup  
   
 In description:   
   
@@ -44,50 +62,108 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice  
- - Soup Italian Wedding  
- - Chicago-Style Hot Dog  
   
 **pork**  
 In name:   
- - Pork Sausage Patties  
+ - Biscuits & Pork Gravy  
+ - Pork Carnita  
   
 In description:   
- - Currywurst  
  - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
- - Breaded Chicken Parmigiana  
- - Lemon Pepper Chicken Salad  
- - Chicken Tinga  
  - Diced Chicken  
+ - Crispy Buffalo Chicken Sandwich  
   
 In description:   
  - Beef Meatballs  
  - Pepperoni Pizza Slice  
  - Great Greens  
- - Soup Italian Wedding  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-08-31)  
-**beef**  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-09-01)  
+**steak**  
 In name:   
- - Beef Meatballs  
- - Beef Taco Meat  
+ - Island Spiced Beef Steak  
   
 In description:   
   
+**Cod**  
+In name:   
+ - Caribbean Cod  
+  
+In description:   
+  
+**curry**  
+In name:   
+ - Vegan Coconut Cauliflower Curry Soup  
+  
+In description:   
+ - Chana Saag w/ Tofu  
+  
+**beef**  
+In name:   
+ - Beef Meatballs  
+ - Island Spiced Beef Steak  
+ - Beef Taco Meat  
+  
+In description:   
+ - Polish Combo Cheeseburger  
+ - Grilled Cheeseburger  
+  
+**pork**  
+In name:   
+ - Pork Carnita  
+  
+In description:   
+ - Polish Combo Cheeseburger  
+  
 **chicken**  
 In name:   
- - Lemon Pepper Chicken Salad  
- - Chicken Wings Boneless (CN)  
- - Plant-Based Chicken Nuggets (6)  
- - Chicken Tinga  
- - Soup Cream of Chicken & Wild Rice  
   
 In description:   
  - Beef Meatballs  
  - Station Recipe - Great Greens - FLM  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-08-31)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2024-08-31)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-09-01)  
+**Cod**  
+In name:   
+ - Fried Cod Basket  
+  
+In description:   
+  
+**curry**  
+In name:   
+ - Vegan Coconut Cauliflower Curry Soup  
+  
+In description:   
+  
+**beef**  
+In name:   
+ - Homemade Beef Lasagna  
+  
+In description:   
+ - Pizza Slice Sausage & Pepperoni  
+ - Cocktail Smokies  
+  
+**pork**  
+In name:   
+ - Pork Italian Sausage  
+  
+In description:   
+ - Pizza Slice Sausage & Pepperoni  
+ - Cocktail Smokies  
+  
+**chicken**  
+In name:   
+ - Pizza Slice Chicken Bacon Ranch  
+ - Lemon Pepper Chicken Salad  
+ - Popcorn Chicken  
+  
+In description:   
+ - Pizza Slice Sausage & Pepperoni  
+ - Great Greens  
+ - Cocktail Smokies  
+  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2024-09-01)  
   
