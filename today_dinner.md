@@ -1,6 +1,6 @@
 # 2024-09-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-01 15:25:16  
+Updated at: 2024-09-01 16:22:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-01)  
 **Cod**  
 In name:   
@@ -57,6 +57,8 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Tamale  
+ - Tamales Carne con Adobo (Beef)  
  - Beef Taco Meat  
   
 In description:   
@@ -66,6 +68,7 @@ In description:
 In name:   
  - Biscuits & Pork Gravy  
  - Pork Italian Sausage  
+ - Boneless Baked Pork Ham  
  - Pork Carnita  
   
 In description:   
@@ -78,6 +81,8 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice  
+ - Beef Tamale  
+ - Tamales Carne con Adobo (Beef)  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-09-01)  
@@ -107,7 +112,6 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Polish Combo Cheeseburger  
  - Grilled Cheeseburger  
   
 **pork**  
@@ -115,10 +119,10 @@ In name:
  - Pork Carnita  
   
 In description:   
- - Polish Combo Cheeseburger  
   
 **chicken**  
 In name:   
+ - Grilled Chicken Sandwich  
   
 In description:   
  - Beef Meatballs  
