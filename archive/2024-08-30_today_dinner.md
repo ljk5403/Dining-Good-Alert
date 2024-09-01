@@ -1,6 +1,6 @@
 # 2024-08-31 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-08-31 18:22:42  
+Updated at: 2024-08-31 20:59:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-08-31)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-08-31)  
 **beef**  
@@ -31,9 +31,14 @@ In name:
 In description:   
  - Vegan Cod Battered Beer (2 pc)  
   
+**curry**  
+In name:   
+ - Currywurst  
+  
+In description:   
+  
 **beef**  
 In name:   
- - Texas BBQ Sliced Beef Brisket  
  - Beef Meatballs  
  - Beef Taco Meat  
   
@@ -47,6 +52,7 @@ In name:
  - Pork Sausage Patties  
   
 In description:   
+ - Currywurst  
  - Pizza Slice Sausage  
   
 **chicken**  
@@ -75,7 +81,7 @@ In name:
  - Lemon Pepper Chicken Salad  
  - Chicken Wings Boneless (CN)  
  - Plant-Based Chicken Nuggets (6)  
- - Spicy Chicken Fajita  
+ - Chicken Tinga  
  - Soup Cream of Chicken & Wild Rice  
   
 In description:   
