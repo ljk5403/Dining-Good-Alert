@@ -1,6 +1,6 @@
 # 2024-09-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-01 10:25:11  
+Updated at: 2024-09-01 11:30:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-01)  
 **Tuna**  
 In name:   
@@ -51,7 +51,8 @@ In description:
 **beef**  
 In name:   
  - Tamales Carne con Adobo (Beef)  
- - Beef Meatballs  
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
  - Beef Taco Meat  
   
 In description:   
@@ -61,19 +62,22 @@ In description:
 **pork**  
 In name:   
  - Baked Pork Ham  
+ - Italian Pork Sausage  
+ - Pork & Beef Hard Salami  
  - Pork Carnita  
   
 In description:   
  - Pizza Slice Sausage  
+ - Smoked Ham  
   
 **chicken**  
 In name:   
  - Plant-Based Chicken Etouffee  
  - Diced Chicken  
+ - Lemon Pepper Chicken Salad  
   
 In description:   
  - Tamales Carne con Adobo (Beef)  
- - Beef Meatballs  
  - Pepperoni Pizza Slice  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-09-01)  

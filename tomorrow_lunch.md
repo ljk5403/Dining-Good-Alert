@@ -1,6 +1,6 @@
 # 2024-09-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-01 10:25:13  
+Updated at: 2024-09-01 11:30:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-02)  
 **beef**  
 In name:   
@@ -96,6 +96,8 @@ In description:
 In name:   
  - Beef Stew w/ Buttermilk Biscuit  
  - Beef Meatballs  
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
  - Beef Taco Meat  
   
 In description:   
@@ -107,10 +109,13 @@ In description:
 **pork**  
 In name:   
  - Italian Pork Sausage  
+ - Pork & Beef Hard Salami  
  - Pork Sausage Patties  
   
 In description:   
  - Gordon's OrderIt  
+ - Smoked Ham  
+ - Bacon  
   
 **chicken**  
 In name:   
