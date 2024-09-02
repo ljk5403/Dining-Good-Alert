@@ -1,6 +1,6 @@
 # 2024-09-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-02 09:27:08  
+Updated at: 2024-09-02 10:25:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-02)  
 **beef**  
 In name:   
@@ -156,6 +156,7 @@ In description:
 **chicken**  
 In name:   
  - Crispy Chicken Sandwich  
+ - Lemon Pepper Chicken Salad  
  - Butter Chicken  
  - Chicken Noodle Soup  
   
