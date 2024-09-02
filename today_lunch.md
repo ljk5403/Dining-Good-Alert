@@ -1,6 +1,6 @@
 # 2024-09-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-02 12:25:14  
+Updated at: 2024-09-02 13:31:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-02)  
 **beef**  
 In name:   
@@ -146,6 +146,12 @@ In name:
   
 In description:   
   
+**beef**  
+In name:   
+ - Beef Pita Kabaub  
+  
+In description:   
+  
 **pork**  
 In name:   
  - Appetizer -  Fried Pork Potstickers  
@@ -157,7 +163,6 @@ In description:
 In name:   
  - Crispy Chicken Sandwich  
  - Lemon Pepper Chicken Salad  
- - Butter Chicken  
  - Chicken Noodle Soup  
   
 In description:   
