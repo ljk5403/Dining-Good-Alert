@@ -1,6 +1,6 @@
 # 2024-09-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-02 16:22:27  
+Updated at: 2024-09-02 17:27:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-02)  
 **beef**  
 In name:   
@@ -166,6 +166,7 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice  
+ - Pizza Slice Meat Lovers w/Bacon  
  - Burnt Ends  
  - Carson's MTO Pasta Bar  
   
@@ -174,7 +175,7 @@ In name:
  - Thai BBQ Pork Ribs  
   
 In description:   
- - Pizza Slice Brat  
+ - Pizza Slice Meat Lovers w/Bacon  
  - Carson's MTO Pasta Bar  
  - Andouille Sausage  
   
@@ -187,6 +188,7 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice  
+ - Pizza Slice Meat Lovers w/Bacon  
  - Great Greens  
  - Carson's MTO Pasta Bar  
   
