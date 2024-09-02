@@ -1,6 +1,6 @@
 # 2024-09-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-02 10:25:46  
+Updated at: 2024-09-02 11:33:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-02)  
 **beef**  
 In name:   
@@ -174,6 +174,7 @@ In description:
 In name:   
   
 In description:   
+ - Pizza Slice Meat Lovers w/Bacon  
  - Pepperoni Pizza Slice  
   
 **pork**  
@@ -181,7 +182,7 @@ In name:
  - BBQ Pork Sandwich  
   
 In description:   
- - Pizza Slice Brat  
+ - Pizza Slice Meat Lovers w/Bacon  
  - Sausage & Cheese English Muffin  
   
 **chicken**  
@@ -192,6 +193,7 @@ In name:
  - Chicken Sausage Patty  
   
 In description:   
+ - Pizza Slice Meat Lovers w/Bacon  
  - Pepperoni Pizza Slice  
  - Great Greens  
   
