@@ -1,6 +1,6 @@
 # 2024-09-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-02 07:47:38  
+Updated at: 2024-09-02 08:28:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-02)  
 **beef**  
 In name:   
@@ -103,7 +103,6 @@ In name:
 In description:   
  - Gordon's OrderIt  
  - Pizza Slice Philly Cheesesteak  
- - Italian Meatball Sandwich  
  - Vegan Taco Filling  
   
 **pork**  
@@ -119,6 +118,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Crispy Chicken Sandwich  
  - Sesame Chicken  
  - Plant Based Sesame Chicken (AYCTE) (VN)  
  - Chicken Tinga  
@@ -128,7 +128,6 @@ In name:
 In description:   
  - Gordon's OrderIt  
  - Beef Meatballs  
- - Italian Meatball Sandwich  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-09-02)  
