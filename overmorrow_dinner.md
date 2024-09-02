@@ -1,6 +1,6 @@
 # 2024-09-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-01 18:23:04  
+Updated at: 2024-09-01 20:47:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-03)  
 **Tuna**  
 In name:   
@@ -162,7 +162,6 @@ In name:
  - Beef Harissa w/Couscous  
  - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
- - Protein - Beef Thinly Sliced  
   
 In description:   
   
@@ -175,7 +174,6 @@ In description:
 **chicken**  
 In name:   
  - Italian Chicken  
- - Protein - Chicken Thinly Sliced  
   
 In description:   
  - Cracker Crusted Cod w/ Lemon Sauce  
