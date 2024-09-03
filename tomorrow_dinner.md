@@ -1,6 +1,6 @@
 # 2024-09-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-03 07:47:04  
+Updated at: 2024-09-03 08:29:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-04)  
 **fish**  
 In name:   
@@ -107,7 +107,6 @@ In name:
  - Flatbread Pizza BBQ Chicken  
  - Lemon Pepper Chicken Salad  
  - Soup Chicken Tortilla  
- - Diced Chicken  
  - Chicken Tenders Breaded  
  - Plant-Based Chicken Nuggets (6)  
   

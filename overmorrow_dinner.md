@@ -1,6 +1,6 @@
 # 2024-09-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-03 07:47:14  
+Updated at: 2024-09-03 08:29:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-05)  
 **Cod**  
 In name:   
@@ -96,7 +96,6 @@ In description:
 In name:   
  - Beef Meatloaf  
  - Beef Meatballs  
- - Mediterranean Beef  
  - Beef Taco Meat  
   
 In description:   
@@ -120,7 +119,6 @@ In name:
  - Mediterranean Chicken  
  - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
- - Diced Chicken  
   
 In description:   
  - Beef Meatballs  
