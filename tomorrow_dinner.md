@@ -1,6 +1,6 @@
 # 2024-09-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-03 08:29:04  
+Updated at: 2024-09-03 09:28:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-04)  
 **fish**  
 In name:   
@@ -88,6 +88,8 @@ In description:
 **beef**  
 In name:   
  - Beef Meatballs  
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
  - Beef Stir Fry w/ Snow Peas  
  - Beef Taco Meat  
   
@@ -97,9 +99,11 @@ In description:
 **pork**  
 In name:   
  - Italian Pork Sausage  
+ - Pork & Beef Hard Salami  
  - Pork Carnita  
   
 In description:   
+ - Smoked Ham  
   
 **chicken**  
 In name:   
@@ -107,6 +111,7 @@ In name:
  - Flatbread Pizza BBQ Chicken  
  - Lemon Pepper Chicken Salad  
  - Soup Chicken Tortilla  
+ - Diced Chicken  
  - Chicken Tenders Breaded  
  - Plant-Based Chicken Nuggets (6)  
   

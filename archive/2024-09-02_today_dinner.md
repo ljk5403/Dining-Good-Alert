@@ -1,6 +1,6 @@
 # 2024-09-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-03 07:46:54  
+Updated at: 2024-09-03 08:28:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-03)  
 **Tuna**  
 In name:   
@@ -133,6 +133,7 @@ In description:
 **pork**  
 In name:   
  - Green Beans w/ Pork Bacon  
+ - Pork Bratwurst Sandwich  
   
 In description:   
   
@@ -142,7 +143,6 @@ In name:
  - Mediterranean Chicken  
  - Pizza Slice Chicken Sriracha  
  - Chicken Curry  
- - Diced Chicken  
  - Chicken Sausage Patties  
   
 In description:   
