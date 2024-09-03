@@ -1,6 +1,6 @@
 # 2024-09-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-03 16:24:20  
+Updated at: 2024-09-03 17:28:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-05)  
 **Cod**  
 In name:   
@@ -86,30 +86,85 @@ In description:
  - Soup Cream of Potato w/ Bacon  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-09-05)  
+**Shrimp**  
+In name:   
+ - Shrimp with Bell Peppers  
+  
+In description:   
+  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad  
+  
+In description:   
+  
 **beef**  
 In name:   
+ - Beef Meatloaf  
+ - Beef Meatballs  
  - Beef Taco Meat  
   
 In description:   
+ - Smoked Brisket & Tots Pizza Slice  
+ - BYO Bar - Mediterranean Gordon  
+ - Soup Cream of Potato w/ Bacon  
+ - Baked Corn Dog  
+  
+**pork**  
+In name:   
+ - Pork Sausage Patties  
+  
+In description:   
+ - Pizza Slice Sausage  
+ - Soup Cream of Potato w/ Bacon  
+ - Baked Corn Dog  
   
 **chicken**  
 In name:   
+ - Chicken Gravy  
+ - Mediterranean Chicken  
  - Spicy Fajita Chicken  
+ - Chicken Dumpling Soup  
+  
+In description:   
+ - Beef Meatballs  
+ - BYO Bar - Mediterranean Gordon  
+ - Great Greens  
+ - Soup Cream of Potato w/ Bacon  
+ - Baked Corn Dog  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-09-05)  
+**watermelon**  
+In name:   
+ - Watermelon Slices  
   
 In description:   
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-09-05)  
 **beef**  
 In name:   
  - 1849 BBQ Beef Brisket Sliders  
+ - Beef Taco Meat  
   
 In description:   
+ - Fired Up Burger  
+ - Soup Cream of Potato w/ Bacon  
   
 **pork**  
 In name:   
  - Jerk Pork Chop  
   
 In description:   
+ - Andouille Sausage  
+ - Soup Cream of Potato w/ Bacon  
+  
+**chicken**  
+In name:   
+ - Taco Chicken  
+ - Chicken Dumpling Soup  
+  
+In description:   
+ - Station Recipe - Great Greens - FLM  
+ - Soup Cream of Potato w/ Bacon  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-09-05)  
 **beef**  

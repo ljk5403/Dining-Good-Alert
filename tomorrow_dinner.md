@@ -1,6 +1,6 @@
 # 2024-09-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-03 16:24:18  
+Updated at: 2024-09-03 17:28:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-04)  
 **fish**  
 In name:   
@@ -77,19 +77,62 @@ In name:
 In description:   
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-09-04)  
-**beef**  
+**watermelon**  
 In name:   
- - Beef Taco Meat  
+ - Watermelon Slices  
   
 In description:   
   
+**Cod**  
+In name:   
+ - Miso Cod  
+  
+In description:   
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Miso Cod  
+ - California Roll  (FujiSan)  
+ - Tempura Roll (FujiSan)  
+  
+**beef**  
+In name:   
+ - Beef Meatballs  
+ - Beef Stir Fry w/ Snow Peas  
+ - Beef Taco Meat  
+  
+In description:   
+ - Italian Meat Sauce  
+  
 **pork**  
 In name:   
+ - Italian Pork Sausage  
  - Pork Carnita  
   
 In description:   
   
+**chicken**  
+In name:   
+ - Chicken Pot Pie w/Biscuit  
+ - Flatbread Pizza BBQ Chicken  
+ - Lemon Pepper Chicken Salad  
+ - Soup Chicken Tortilla  
+ - Chicken Tenders Breaded  
+ - Plant-Based Chicken Nuggets (6)  
+  
+In description:   
+ - Beef Meatballs  
+ - Great Greens  
+  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-09-04)  
+**watermelon**  
+In name:   
+ - Watermelon Slices  
+  
+In description:   
+  
 **Salmon**  
 In name:   
  - Grilled Sesame Ginger Salmon  
@@ -102,11 +145,29 @@ In name:
 In description:   
  - Grilled Sesame Ginger Salmon  
   
+**beef**  
+In name:   
+ - Beef Meatballs  
+  
+In description:   
+ - Italian Meat Sauce  
+  
+**pork**  
+In name:   
+ - BBQ Pork Sandwich  
+  
+In description:   
+  
 **chicken**  
 In name:   
  - Chicken Drumstick Teriyaki Glazed  
+ - Chicken Wings Bone-In Plain  
+ - Plant-Based Chicken Nuggets (6)  
+ - Soup Chicken Tortilla  
   
 In description:   
+ - Beef Meatballs  
+ - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-09-04)  
 **fish**  
