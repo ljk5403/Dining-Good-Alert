@@ -1,6 +1,6 @@
 # 2024-09-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-03 08:28:54  
+Updated at: 2024-09-03 09:51:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-03)  
 **Tuna**  
 In name:   
@@ -45,6 +45,12 @@ In description:
  - Great Greens  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-09-03)  
+**watermelon**  
+In name:   
+ - Melon Watermelon Whole Sliced  
+  
+In description:   
+  
 **Cod**  
 In name:   
   
@@ -94,63 +100,19 @@ In description:
  - Station Recipe - Liz - Great Greens  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-09-03)  
-**steak**  
-In name:   
- - Spicy Steak Fajita  
-  
-In description:   
-  
-**Tilapia**  
-In name:   
- - Baked Tilapia w/Dill Wine Sauce  
-  
-In description:   
-  
-**lamb**  
-In name:   
- - Lamb & Beef Gyro Sandwich  
-  
-In description:   
-  
-**curry**  
-In name:   
- - Chicken Curry  
- - Black Eyed Pea Curry w/ Rice  
-  
-In description:   
-  
-**beef**  
-In name:   
- - Beef Meatballs  
- - Beef Taco Meat  
- - Soup -  Chili Beef & Bean  
- - Lamb & Beef Gyro Sandwich  
-  
-In description:   
- - Pepperoni Pizza Slice  
- - Spicy Steak Fajita  
-  
 **pork**  
 In name:   
- - Green Beans w/ Pork Bacon  
  - Pork Bratwurst Sandwich  
   
 In description:   
   
-**chicken**  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-09-03)  
+**watermelon**  
 In name:   
- - Chicken Drumstick BBQ Glazed  
- - Mediterranean Chicken  
- - Pizza Slice Chicken Sriracha  
- - Chicken Curry  
- - Chicken Sausage Patties  
+ - Watermelon Slices  
   
 In description:   
- - Beef Meatballs  
- - Pepperoni Pizza Slice  
- - Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-09-03)  
 **Cod**  
 In name:   
  - Cracker Crusted Cod w/ Lemon Sauce  
