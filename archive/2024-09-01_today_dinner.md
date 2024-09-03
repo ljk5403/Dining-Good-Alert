@@ -1,6 +1,6 @@
 # 2024-09-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-02 18:25:20  
+Updated at: 2024-09-02 20:44:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-02)  
 **beef**  
 In name:   
@@ -97,16 +97,14 @@ In description:
   
 **pork**  
 In name:   
- - Pork Loin Spicy Greenbush  
+ - Biscuits & Pork Gravy  
  - Italian Pork Sausage  
  - Pork Sausage Patties  
   
 In description:   
- - Chicken Sausage Gumbo  
   
 **chicken**  
 In name:   
- - Chicken Sausage Gumbo  
  - Spicy Lo Mein w/Chicken  
  - Chicken Tinga  
  - Chicken Noodle Soup  
