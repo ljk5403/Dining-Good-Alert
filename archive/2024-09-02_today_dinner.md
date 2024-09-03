@@ -1,6 +1,6 @@
 # 2024-09-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-03 16:24:16  
+Updated at: 2024-09-03 17:28:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-03)  
 **Tuna**  
 In name:   
@@ -107,23 +107,11 @@ In name:
 In description:   
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-09-03)  
-**Cod**  
-In name:   
- - Cracker Crusted Cod w/ Lemon Sauce  
-  
-In description:   
-  
-**beef**  
-In name:   
- - Beef Harissa w/Couscous  
-  
-In description:   
-  
 **chicken**  
 In name:   
+ - Italian Chicken  
   
 In description:   
- - Cracker Crusted Cod w/ Lemon Sauce  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-09-03)  
 **Cod**  
