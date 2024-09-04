@@ -1,6 +1,6 @@
 # 2024-09-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-04 10:26:26  
+Updated at: 2024-09-04 11:31:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-04)  
 **beef**  
 In name:   
@@ -12,6 +12,7 @@ In description:
   
 **pork**  
 In name:   
+ - BBQ Pork Chop  
  - Pork Carnita  
  - Italian Pork Sausage  
   
@@ -78,12 +79,6 @@ In name:
 In description:   
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-09-04)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
-In description:   
-  
 **fish**  
 In name:   
   
@@ -121,7 +116,6 @@ In name:
 In description:   
  - Beef Meatballs  
  - Pepperoni Pizza Slice  
- - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-09-04)  
 **watermelon**  
@@ -208,6 +202,7 @@ In description:
 **chicken**  
 In name:   
  - General Tso's Chicken  
+ - Tikka Masala Chicken  
  - Soup Chicken Tortilla  
  - Breaded Chicken Parmigiana  
   
