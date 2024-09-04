@@ -1,6 +1,6 @@
 # 2024-09-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-04 14:19:56  
+Updated at: 2024-09-04 15:27:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-05)  
 **Tuna**  
 In name:   
@@ -247,7 +247,7 @@ In description:
 **chicken**  
 In name:   
  - Chicken Dumpling Soup  
- - Blackened Chicken  
+ - Blackened Chicken Breast  
   
 In description:   
  - Great Greens  

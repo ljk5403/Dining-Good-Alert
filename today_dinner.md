@@ -1,6 +1,6 @@
 # 2024-09-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-04 14:19:55  
+Updated at: 2024-09-04 15:27:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-04)  
 **fish**  
 In name:   
@@ -105,6 +105,7 @@ In name:
   
 In description:   
  - Italian Meat Sauce  
+ - Pepperoni Pizza Slice  
   
 **pork**  
 In name:   
@@ -116,7 +117,6 @@ In description:
 **chicken**  
 In name:   
  - Chicken Pot Pie w/Biscuit  
- - Flatbread Pizza BBQ Chicken  
  - Lemon Pepper Chicken Salad  
  - Soup Chicken Tortilla  
  - Chicken Tenders Breaded  
@@ -124,6 +124,7 @@ In name:
   
 In description:   
  - Beef Meatballs  
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-09-04)  
