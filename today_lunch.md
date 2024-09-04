@@ -1,6 +1,6 @@
 # 2024-09-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-04 08:29:46  
+Updated at: 2024-09-04 09:27:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-04)  
 **beef**  
 In name:   
@@ -98,6 +98,7 @@ In name:
   
 In description:   
  - Italian Meat Sauce  
+ - Pepperoni Pizza Slice  
   
 **pork**  
 In name:   
@@ -111,14 +112,15 @@ In name:
  - Broasted Chicken 2 pc  
  - Plant-Based Chicken & Dumplings  
  - Chicken Gravy  
- - Flatbread Pizza BBQ Chicken  
  - Lemon Pepper Chicken Salad  
  - Sweet & Sour Chicken  
  - Plant Based Sweet & Sour Chicken  
  - Soup Chicken Tortilla  
+ - Diced Chicken  
   
 In description:   
  - Beef Meatballs  
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-09-04)  

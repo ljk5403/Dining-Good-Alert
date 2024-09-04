@@ -1,6 +1,6 @@
 # 2024-09-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-04 08:29:51  
+Updated at: 2024-09-04 09:27:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-06)  
 **Chicken Drumstick Gochujang Glazed**  
 In name:   
@@ -160,6 +160,7 @@ In name:
  - Montreal Chicken  
  - Chicken Sausage Patties  
  - Butter Chicken  
+ - Diced Chicken  
   
 In description:   
  - Beef Meatballs  
