@@ -1,6 +1,6 @@
 # 2024-09-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-04 12:28:23  
+Updated at: 2024-09-04 13:30:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-04)  
 **beef**  
 In name:   
@@ -177,6 +177,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Quesadilla  
  - Lemon Pepper Chicken Salad  
  - Soup Chicken Tortilla  
  - Chicken Sausage Patty  
