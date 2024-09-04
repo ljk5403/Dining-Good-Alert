@@ -1,6 +1,6 @@
 # 2024-09-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-04 15:27:22  
+Updated at: 2024-09-04 16:23:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-04)  
 **fish**  
 In name:   
@@ -119,6 +119,7 @@ In name:
  - Chicken Pot Pie w/Biscuit  
  - Lemon Pepper Chicken Salad  
  - Soup Chicken Tortilla  
+ - Diced Chicken  
  - Chicken Tenders Breaded  
  - Plant-Based Chicken Nuggets (6)  
   
@@ -131,6 +132,12 @@ In description:
 **watermelon**  
 In name:   
  - Watermelon Slices  
+  
+In description:   
+  
+**Tuna**  
+In name:   
+ - Tuna Salad  
   
 In description:   
   
@@ -162,7 +169,7 @@ In description:
 **chicken**  
 In name:   
  - Chicken Drumstick Teriyaki Glazed  
- - Chicken Wings Bone-In Plain  
+ - Chicken Wings Bone-In Plain (Fried)  
  - Plant-Based Chicken Nuggets (6)  
  - Soup Chicken Tortilla  
   

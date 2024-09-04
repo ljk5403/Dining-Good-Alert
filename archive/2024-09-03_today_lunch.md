@@ -1,6 +1,6 @@
 # 2024-09-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-04 14:19:53  
+Updated at: 2024-09-04 15:27:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-04)  
 **beef**  
 In name:   
@@ -157,7 +157,7 @@ In description:
   
 **chicken**  
 In name:   
- - Blackened Chicken  
+ - Blackened Chicken Breast  
  - Chicken Wings Bone-In Plain  
  - Plant-Based Chicken Nuggets (6)  
  - Soup Chicken Tortilla  

@@ -1,6 +1,6 @@
 # 2024-09-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-04 15:27:28  
+Updated at: 2024-09-04 16:23:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-06)  
 **steak**  
 In name:   
@@ -151,6 +151,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Diced Chicken  
  - Chicken Sausage Patties  
   
 In description:   
