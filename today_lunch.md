@@ -1,6 +1,6 @@
 # 2024-09-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-05 10:10:31  
+Updated at: 2024-09-05 13:12:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-05)  
 **Tuna**  
 In name:   
@@ -124,13 +124,13 @@ In name:
  - Chicken Wings Boneless Plain  
  - Chicken Wings Bone-In Plain  
  - Plant-Based Chicken Nuggets (6)  
- - Spicy Fajita Chicken  
+ - Chicken Tinga  
  - Chicken Dumpling Soup  
+ - Diced Chicken  
   
 In description:   
  - Beef Meatballs  
  - BYO Bar - Mediterranean Gordon  
- - Great Greens  
  - Soup Cream of Potato w/ Bacon  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-09-05)  
@@ -143,6 +143,12 @@ In description:
 **steak**  
 In name:   
  - Swiss Steak w/Brown Gravy  
+  
+In description:   
+  
+**Tuna**  
+In name:   
+ - Tuna Salad  
   
 In description:   
   
