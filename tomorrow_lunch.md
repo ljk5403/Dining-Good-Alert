@@ -1,6 +1,6 @@
 # 2024-09-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-04 19:48:16  
+Updated at: 2024-09-04 22:11:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-05)  
 **Tuna**  
 In name:   
@@ -126,7 +126,6 @@ In name:
  - Mediterranean Chicken  
  - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
- - Diced Chicken  
   
 In description:   
  - Beef Meatballs  
@@ -247,7 +246,7 @@ In description:
 **chicken**  
 In name:   
  - Chicken Dumpling Soup  
- - Blackened Chicken Breast  
+ - Blackened Chicken  
   
 In description:   
  - Great Greens  
