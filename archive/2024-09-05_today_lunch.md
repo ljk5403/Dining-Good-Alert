@@ -1,10 +1,16 @@
 # 2024-09-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-06 10:11:17  
+Updated at: 2024-09-06 15:34:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-06)  
 **Chicken Drumstick Gochujang Glazed**  
 In name:   
  - Chicken Drumstick Gochujang Glazed  
+  
+In description:   
+  
+**clam**  
+In name:   
+ - Soup Clam Chowder  
   
 In description:   
   
@@ -100,6 +106,12 @@ In name:
 In description:   
  - Montreal Chicken  
   
+**clam**  
+In name:   
+ - Soup Clam Chowder  
+  
+In description:   
+  
 **Shrimp**  
 In name:   
  - Sauteed Shrimp  
@@ -125,44 +137,44 @@ In name:
   
 In description:   
   
-**curry**  
-In name:   
- - Squash Curry  
- - Beef Curry Stew  
-  
-In description:   
-  
 **beef**  
 In name:   
  - Beef Meatballs  
- - Beef Curry Stew  
  - Beef Barbacoa  
  - Beef Taco Meat  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Vegan Taco Filling  
   
 **pork**  
 In name:   
   
 In description:   
- - Pizza Slice Hawaiian  
  - Soup Clam Chowder  
   
 **chicken**  
 In name:   
  - Montreal Chicken  
  - Chicken Sausage Patties  
- - Butter Chicken  
+ - Sesame Chicken  
+ - Plant Based Sesame Chicken (AYCTE) (VN)  
  - Diced Chicken  
   
 In description:   
  - Beef Meatballs  
+ - Pepperoni Pizza Slice  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-09-06)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
+  
+In description:   
+  
+**clam**  
+In name:   
+ - Soup Clam Chowder  
   
 In description:   
   
@@ -213,6 +225,7 @@ In name:
  - Pork & Beef Hard Salami  
   
 In description:   
+ - Andouille Sausage  
  - Smoked Ham  
  - Bacon  
  - Soup Clam Chowder  
@@ -226,6 +239,12 @@ In description:
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2024-09-06)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-09-06)  
+**clam**  
+In name:   
+ - Soup Clam Chowder  
+  
+In description:   
+  
 **Cod**  
 In name:   
   
@@ -254,6 +273,7 @@ In description:
 **beef**  
 In name:   
  - Beef & Tater Tot Bake  
+ - Beef Sirloin Tips  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
@@ -267,6 +287,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Stir Fry  
   
 In description:   
  - Great Greens  

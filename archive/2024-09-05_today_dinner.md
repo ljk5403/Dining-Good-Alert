@@ -1,10 +1,16 @@
 # 2024-09-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-06 10:11:19  
+Updated at: 2024-09-06 15:34:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-06)  
 **steak**  
 In name:   
  - Fried Steak & Cheese Chimichanga  
+  
+In description:   
+  
+**clam**  
+In name:   
+ - Soup Clam Chowder  
   
 In description:   
   
@@ -99,6 +105,12 @@ In name:
   
 In description:   
   
+**clam**  
+In name:   
+ - Soup Clam Chowder  
+  
+In description:   
+  
 **Shrimp**  
 In name:   
  - Sauteed Shrimp  
@@ -128,7 +140,6 @@ In description:
 In name:   
  - Coconut Tofu w/Red Curry Sauce  
  - Beef Bombay Curry  
- - Indian Curry Potatoes  
   
 In description:   
   
@@ -164,6 +175,12 @@ In description:
 **watermelon**  
 In name:   
  - Watermelon Slices  
+  
+In description:   
+  
+**clam**  
+In name:   
+ - Soup Clam Chowder  
   
 In description:   
   
@@ -209,6 +226,12 @@ In description:
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-09-06)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2024-09-06)  
+**clam**  
+In name:   
+ - Soup Clam Chowder  
+  
+In description:   
+  
 **Cod**  
 In name:   
   
