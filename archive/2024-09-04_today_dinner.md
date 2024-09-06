@@ -1,6 +1,6 @@
 # 2024-09-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-05 16:09:51  
+Updated at: 2024-09-05 19:48:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-05)  
 **Cod**  
 In name:   
@@ -31,6 +31,7 @@ In name:
  - Beef Meatballs  
   
 In description:   
+ - Italian Meat Sauce  
  - Pepperoni Pizza Slice  
  - Soup Cream of Potato w/ Bacon  
   
@@ -86,12 +87,6 @@ In description:
  - Soup Cream of Potato w/ Bacon  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-09-05)  
-**Shrimp**  
-In name:   
- - Shrimp with Bell Peppers  
-  
-In description:   
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
@@ -102,6 +97,7 @@ In description:
 In name:   
  - Beef Meatloaf  
  - Beef Meatballs  
+ - Mediterranean Beef  
  - Beef Taco Meat  
   
 In description:   
@@ -123,6 +119,8 @@ In description:
 **chicken**  
 In name:   
  - Chicken Gravy  
+ - Chicken Wings Bone-In Plain  
+ - Mediterranean Chicken  
  - Chicken Tinga  
  - Chicken Dumpling Soup  
  - Diced Chicken  
@@ -158,7 +156,7 @@ In description:
 **pork**  
 In name:   
  - Pork Bratwurst Sandwich  
- - Jerk Pork Chop  
+ - BBQ Pork Chop  
   
 In description:   
  - Andouille Sausage  

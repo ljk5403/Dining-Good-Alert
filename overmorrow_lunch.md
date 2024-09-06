@@ -1,6 +1,6 @@
 # 2024-09-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-05 19:48:04  
+Updated at: 2024-09-05 22:12:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-07)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-09-07)  
 **watermelon**  
@@ -52,7 +52,6 @@ In name:
  - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
  - Soup Cream of Chicken & Wild Rice  
- - Diced Chicken  
   
 In description:   
  - Beef Meatballs  

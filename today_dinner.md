@@ -1,6 +1,6 @@
 # 2024-09-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-05 19:48:00  
+Updated at: 2024-09-05 22:12:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-05)  
 **Cod**  
 In name:   
@@ -122,7 +122,6 @@ In name:
  - Chicken Wings Bone-In Plain  
  - Mediterranean Chicken  
  - Chicken Tinga  
- - Chicken Dumpling Soup  
  - Diced Chicken  
   
 In description:   

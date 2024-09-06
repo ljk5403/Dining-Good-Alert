@@ -1,6 +1,6 @@
 # 2024-09-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-05 19:48:03  
+Updated at: 2024-09-05 22:12:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-06)  
 **steak**  
 In name:   
@@ -217,7 +217,6 @@ In description:
   
 **beef**  
 In name:   
- - Mediterranean Beef  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
@@ -232,7 +231,6 @@ In description:
   
 **chicken**  
 In name:   
- - Mediterranean Chicken  
   
 In description:   
  - Great Greens  
