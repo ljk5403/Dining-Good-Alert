@@ -1,6 +1,6 @@
 # 2024-09-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-06 07:18:40  
+Updated at: 2024-09-06 10:11:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-06)  
 **steak**  
 In name:   
@@ -179,6 +179,12 @@ In name:
   
 In description:   
  - Soup Clam Chowder  
+  
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
+In description:   
   
 **beef**  
 In name:   
