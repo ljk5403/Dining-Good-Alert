@@ -1,6 +1,6 @@
 # 2024-09-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-05 13:12:44  
+Updated at: 2024-09-05 16:09:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-05)  
 **Cod**  
 In name:   
@@ -112,6 +112,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Italian Sausage  
  - Pork Sausage Patties  
   
 In description:   
@@ -122,8 +123,7 @@ In description:
 **chicken**  
 In name:   
  - Chicken Gravy  
- - Mediterranean Chicken  
- - Spicy Fajita Chicken  
+ - Chicken Tinga  
  - Chicken Dumpling Soup  
  - Diced Chicken  
   
@@ -141,17 +141,23 @@ In name:
   
 In description:   
   
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
+In description:   
+  
 **beef**  
 In name:   
  - 1849 BBQ Beef Brisket Sliders  
  - Beef Taco Meat  
   
 In description:   
- - Fired Up Burger  
  - Soup Cream of Potato w/ Bacon  
   
 **pork**  
 In name:   
+ - Pork Bratwurst Sandwich  
  - Jerk Pork Chop  
   
 In description:   
