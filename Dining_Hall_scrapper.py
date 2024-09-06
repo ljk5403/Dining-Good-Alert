@@ -16,10 +16,11 @@ dinning_hall_tuple = ('rhetas-market', 'lizs-market', 'gordon-avenue-market', 'f
 #meals_tuple = ('breakfast', 'lunch', 'dinner')
 meals_tuple = ('lunch', 'dinner')
 
-good_dish_category = ['Shrimp', 'Cod', 'squid', 'octopus', 'Tuna', 'Salmon', 'catfish', 'Tilapia', 'fish', 'lamb', 'goat', 'curry', 'beef', 'pork', 'chicken']
-good_dish_name =['watermelon', 'Drunken Noodles', 'Pepper, Onion, & Mushroom Saute', 'Poke Bar', 'corn bake', 'Chicken Drumstick Gochujang Glazed', 'steak']
+good_dish_category = ['clam', 'Shrimp', 'Cod', 'squid', 'octopus', 'Tuna', 'Salmon', 'catfish', 'Tilapia', 'fish', 'lamb', 'goat', 'curry', 'beef', 'pork', 'chicken']
+good_dish_name_T0 =['watermelon', 'Drunken Noodles', 'Pepper, Onion, & Mushroom Saute', 'Poke Bar', 'corn bake', 'Chicken Drumstick Gochujang Glazed', 'steak']
+good_dish_name_T1 =['BBQ Pork Sandwich']
 
-T0_good_dish_list = good_dish_name + good_dish_category
+good_dish_list = good_dish_name_T0 + good_dish_name_T1 + good_dish_category
 
 
 def xprint(message):
@@ -100,7 +101,7 @@ def summary_of_good_dishes(date):
     for dinning_hall in dinning_hall_tuple:
         summary[dinning_hall]={}
         for meal in meals_tuple:
-            summary[dinning_hall][meal] = find_good_dishes_someday_somewhere_somemeal(T0_good_dish_list, date, dinning_hall, meal)
+            summary[dinning_hall][meal] = find_good_dishes_someday_somewhere_somemeal(good_dish_list, date, dinning_hall, meal)
     return summary
 
 
@@ -108,7 +109,7 @@ def summary_of_good_meal(date, meal):
     summary={}
     for dinning_hall in dinning_hall_tuple:
         summary[dinning_hall]={}
-        summary[dinning_hall] = find_good_dishes_someday_somewhere_somemeal(T0_good_dish_list, date, dinning_hall, meal)
+        summary[dinning_hall] = find_good_dishes_someday_somewhere_somemeal(good_dish_list, date, dinning_hall, meal)
     return summary
 
 # for Markdown
@@ -197,7 +198,7 @@ def raw_test3():
     today = datetime.now(zone)
     summary = summary_of_good_dishes(today)
     pprint.pprint(json.dumps(summary, indent=4, sort_keys=True), compact=True)
-    #find_good_dishes_someday_somewhere_somemeal(T0_good_dish_list, today, "rhetas-market", "dinner")
+    #find_good_dishes_someday_somewhere_somemeal(good_dish_list, today, "rhetas-market", "dinner")
 
 
 
@@ -208,7 +209,7 @@ def raw_test2():
     menu_dict = get_menu_dict(raw_data, today)
     type(menu_dict)
     #print(find_dish("Cheese Pizza", menu_dict))
-    print(find_good_dishes(T0_good_dish_list, menu_dict))
+    print(find_good_dishes(good_dish_list, menu_dict))
 
 
 
