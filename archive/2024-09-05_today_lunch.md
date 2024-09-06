@@ -1,6 +1,6 @@
 # 2024-09-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-06 07:18:39  
+Updated at: 2024-09-06 10:11:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-06)  
 **Chicken Drumstick Gochujang Glazed**  
 In name:   
@@ -178,6 +178,12 @@ In name:
 In description:   
  - Soup Clam Chowder  
   
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
+In description:   
+  
 **fish**  
 In name:   
   
@@ -192,7 +198,10 @@ In description:
   
 **beef**  
 In name:   
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
  - Beef Taco Meat  
+ - Beef Fajita  
   
 In description:   
  - Mushroom Swiss Burger  
@@ -201,8 +210,11 @@ In description:
 **pork**  
 In name:   
  - Chicken Grilled Cordon Bleu (Pork)  
+ - Pork & Beef Hard Salami  
   
 In description:   
+ - Smoked Ham  
+ - Bacon  
  - Soup Clam Chowder  
   
 **chicken**  
