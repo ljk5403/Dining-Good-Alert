@@ -1,16 +1,16 @@
 # 2024-09-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-06 16:09:17  
+Updated at: 2024-09-06 19:47:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-06)  
-**steak**  
-In name:   
- - Fried Steak & Cheese Chimichanga  
-  
-In description:   
-  
 **clam**  
 In name:   
  - Soup Clam Chowder  
+  
+In description:   
+  
+**Shrimp**  
+In name:   
+ - Chipotle Shrimp  
   
 In description:   
   
@@ -33,7 +33,6 @@ In name:
   
 In description:   
  - Pizza Slice Meat Lovers w/ Bacon  
- - Fried Steak & Cheese Chimichanga  
   
 **pork**  
 In name:   
@@ -52,6 +51,7 @@ In name:
  - Lemon Pepper Chicken Salad  
  - Crispy Chicken Sandwich  
  - VN Sand Chicken Paradise  
+ - Chicken Tinga  
   
 In description:   
  - Spicy Citrus Pork w/Black Beans & Rice  
@@ -139,14 +139,13 @@ In description:
 **curry**  
 In name:   
  - Coconut Tofu w/Red Curry Sauce  
- - Beef Bombay Curry  
+ - Indian Curry Potatoes  
   
 In description:   
   
 **beef**  
 In name:   
  - Beef Meatballs  
- - Beef Bombay Curry  
  - Beef Barbacoa  
  - Beef Taco Meat  
   
@@ -193,7 +192,6 @@ In description:
   
 **Cod**  
 In name:   
- - Baked Cod Fillet w/Butter & Lemon  
   
 In description:   
  - Soup Clam Chowder  
@@ -201,6 +199,18 @@ In description:
 **Tuna**  
 In name:   
  - Tuna Salad  
+  
+In description:   
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Coconut Thai Curry Mahi Mahi  
+  
+**curry**  
+In name:   
+ - Coconut Thai Curry Mahi Mahi  
   
 In description:   
   

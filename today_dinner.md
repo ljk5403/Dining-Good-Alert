@@ -1,6 +1,6 @@
 # 2024-09-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-06 19:47:07  
+Updated at: 2024-09-06 22:11:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-06)  
 **clam**  
 In name:   
@@ -114,12 +114,12 @@ In description:
 **Shrimp**  
 In name:   
  - Sauteed Shrimp  
- - Redhook Ale Shrimp Basket  
   
 In description:   
   
 **Cod**  
 In name:   
+ - Fried Cod Basket  
   
 In description:   
  - Soup Clam Chowder  
