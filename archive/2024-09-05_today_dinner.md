@@ -1,6 +1,6 @@
 # 2024-09-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-06 15:34:40  
+Updated at: 2024-09-06 16:09:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-06)  
 **steak**  
 In name:   
@@ -151,6 +151,7 @@ In name:
  - Beef Taco Meat  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Vegan Taco Filling  
   
 **pork**  
@@ -158,7 +159,6 @@ In name:
  - French Market Pork Jambalaya  
   
 In description:   
- - Pizza Slice Hawaiian  
  - Soup Clam Chowder  
   
 **chicken**  
@@ -169,6 +169,7 @@ In name:
 In description:   
  - French Market Pork Jambalaya  
  - Beef Meatballs  
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-09-06)  
@@ -206,6 +207,7 @@ In description:
 **beef**  
 In name:   
  - Beef Taco Meat  
+ - Beef Fajita Meat  
   
 In description:   
  - Vegan Taco Filling  
