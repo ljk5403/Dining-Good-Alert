@@ -1,6 +1,6 @@
 # 2024-09-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-08 10:10:21  
+Updated at: 2024-09-08 13:13:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-08)  
 **steak**  
 In name:   
@@ -87,6 +87,7 @@ In description:
 **chicken**  
 In name:   
  - Jollof Rice w/ Chicken  
+ - Chicken  
  - Grilled Chicken Sandwich  
  - Diced Chicken  
   
@@ -110,7 +111,6 @@ In description:
   
 **beef**  
 In name:   
- - Beef Meatballs  
  - Beef Taco Meat  
   
 In description:   
@@ -127,9 +127,9 @@ In description:
 In name:   
  - Chicken Sausage Patty  
  - Crispy Chicken Sandwich  
+ - Italian Chicken  
   
 In description:   
- - Beef Meatballs  
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2024-09-08)  
@@ -161,18 +161,17 @@ In description:
 **pork**  
 In name:   
  - Pork Adobo  
+ - Biscuits & Pork Gravy  
  - Pork Sausage Patty  
   
 In description:   
  - Pizza Slice Sausage & Pepperoni  
- - Chicken Biscuit w/ Sausage Gravy  
   
 **chicken**  
 In name:   
  - Jamaican Jerk Chicken  
  - Chicken Gravy  
  - Pizza Slice BBQ Chicken & Bacon  
- - Chicken Biscuit w/ Sausage Gravy  
   
 In description:   
  - Pizza Slice Sausage & Pepperoni  
