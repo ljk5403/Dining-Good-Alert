@@ -1,6 +1,6 @@
 # 2024-09-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-08 19:51:09  
+Updated at: 2024-09-08 22:13:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-09)  
 **curry**  
 In name:   
@@ -113,6 +113,7 @@ In description:
  - Pizza Slice - Bacon Cheeseburger  
  - Vegan Taco Filling  
  - Kimchee Reuben Sandwich  
+ - Italian Meatball Sandwich  
   
 **pork**  
 In name:   
@@ -132,6 +133,7 @@ In description:
  - Gordon's OrderIt  
  - Beef Meatballs  
  - Great Greens  
+ - Italian Meatball Sandwich  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-09-09)  
 **watermelon**  

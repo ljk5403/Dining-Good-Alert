@@ -1,6 +1,6 @@
 # 2024-09-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-08 19:51:08  
+Updated at: 2024-09-08 22:13:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-09)  
 **Shrimp**  
 In name:   
@@ -119,6 +119,7 @@ In description:
 **chicken**  
 In name:   
  - Tikka Masala Chicken  
+ - Chicken Tenders Breaded  
  - Sweet & Spicy Orange Chicken  
  - Chicken Tinga  
  - Chicken Noodle Soup  
