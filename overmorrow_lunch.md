@@ -1,6 +1,6 @@
 # 2024-09-11 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-09 13:13:40  
+Updated at: 2024-09-09 16:09:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-11)  
 **beef**  
 In name:   
@@ -116,7 +116,6 @@ In name:
  - Lemon Pepper Chicken Salad  
  - Marrakech Chicken Breast  
  - Soup Chicken Tortilla  
- - Diced Chicken  
   
 In description:   
  - Beef Meatballs  
@@ -225,7 +224,6 @@ In description:
   
 **beef**  
 In name:   
- - Beef Taco Meat  
  - Beef Stroganoff Creamy  
   
 In description:   

@@ -1,6 +1,6 @@
 # 2024-09-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-09 13:13:42  
+Updated at: 2024-09-09 16:10:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-11)  
 **Cod**  
 In name:   
@@ -152,6 +152,7 @@ In name:
  - Chicken Bacon Ranch Pizza Slice  
  - Lemon Pepper Chicken Salad  
  - Soup Chicken Tortilla  
+ - Diced Chicken  
   
 In description:   
  - Beef Meatballs  
@@ -234,7 +235,6 @@ In description:
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2024-09-11)  
 **beef**  
 In name:   
- - Beef Taco Meat  
  - Corned Beef  
   
 In description:   

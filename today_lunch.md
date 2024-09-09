@@ -1,6 +1,6 @@
 # 2024-09-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-09 13:13:30  
+Updated at: 2024-09-09 16:09:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-09)  
 **Shrimp**  
 In name:   
@@ -11,6 +11,7 @@ In description:
 **beef**  
 In name:   
  - Beef Sirloin Tips  
+ - Beef Hot Dog  
  - Beef Fajita Meat  
  - Beef Barbacoa  
  - Beef Taco Meat  
@@ -25,7 +26,6 @@ In name:
 In description:   
  - Pizza Slice Sausage  
  - Pizza Slice Deluxe  
- - Italian Sausage w/ Pepper & Onions  
   
 **chicken**  
 In name:   
@@ -120,7 +120,6 @@ In name:
  - Sweet & Spicy Orange Chicken  
  - Chicken Tinga  
  - Chicken Noodle Soup  
- - Diced Chicken  
   
 In description:   
  - Beef Meatballs  
@@ -216,7 +215,6 @@ In description:
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-09-09)  
 **beef**  
 In name:   
- - Beef Taco Meat  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
