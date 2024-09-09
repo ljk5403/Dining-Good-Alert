@@ -1,6 +1,6 @@
 # 2024-09-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-09 10:10:46  
+Updated at: 2024-09-09 13:13:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-09)  
 **Shrimp**  
 In name:   
@@ -104,19 +104,18 @@ In name:
   
 In description:   
  - Pizza Slice - Bacon Cheeseburger  
- - Reuben  
  - Vegan Taco Filling  
   
 **pork**  
 In name:   
  - Italian Pork Sausage  
- - Pork Sausage Patties  
   
 In description:   
   
 **chicken**  
 In name:   
  - Tikka Masala Chicken  
+ - Chicken Sausage Patties  
  - Chicken Tenders Breaded  
  - Sweet & Spicy Orange Chicken  
  - Chicken Tinga  
@@ -134,11 +133,11 @@ In name:
   
 In description:   
   
-**fish**  
+**Tuna**  
 In name:   
+ - Tuna Salad  
   
 In description:   
- - California Roll  (FujiSan)  
   
 **lamb**  
 In name:   

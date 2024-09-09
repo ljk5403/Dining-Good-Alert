@@ -1,6 +1,6 @@
 # 2024-09-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-09 10:11:01  
+Updated at: 2024-09-09 13:13:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-10)  
 **Tuna**  
 In name:   
@@ -125,7 +125,6 @@ In description:
 In name:   
  - Jamaican Jerk Chicken  
  - Mediterranean Chicken  
- - Diced Chicken  
  - Chicken Sausage Patties  
  - Chicken Cordon Bleu Sandwich (Pork)  
   

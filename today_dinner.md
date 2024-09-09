@@ -1,6 +1,6 @@
 # 2024-09-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-09 10:10:51  
+Updated at: 2024-09-09 13:13:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-09)  
 **curry**  
 In name:   
@@ -127,7 +127,6 @@ In description:
 In name:   
  - Chicken Tinga  
  - Chicken Noodle Soup  
- - Diced Chicken  
   
 In description:   
  - Gordon's OrderIt  
@@ -139,6 +138,12 @@ In description:
 **watermelon**  
 In name:   
  - Watermelon Slices  
+  
+In description:   
+  
+**Tuna**  
+In name:   
+ - Tuna Salad  
   
 In description:   
   
