@@ -1,6 +1,6 @@
 # 2024-09-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-08 16:09:13  
+Updated at: 2024-09-08 19:51:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-08)  
 **Tuna**  
 In name:   
@@ -63,6 +63,7 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice  
+ - Fired Up Burger  
   
 **pork**  
 In name:   
@@ -99,7 +100,6 @@ In description:
   
 **beef**  
 In name:   
- - Beef Meatballs  
  - Beef Bombay Curry  
  - Beef Taco Meat  
   
@@ -114,11 +114,11 @@ In description:
 **chicken**  
 In name:   
  - Crispy Chicken Sandwich  
+ - Italian Chicken  
  - Chicken Piece Seasoned Baked  
  - Chicken Gravy  
   
 In description:   
- - Beef Meatballs  
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-09-08)  
