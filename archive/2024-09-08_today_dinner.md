@@ -1,6 +1,6 @@
 # 2024-09-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-09 16:09:41  
+Updated at: 2024-09-09 19:49:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-09)  
 **curry**  
 In name:   
@@ -86,6 +86,18 @@ In description:
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
+  
+In description:   
+  
+**Tilapia**  
+In name:   
+ - Blackened Tilapia Tacos  
+  
+In description:   
+  
+**curry**  
+In name:   
+ - Thai Veggie Meatballs w/ Green Curry  
   
 In description:   
   

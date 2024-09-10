@@ -1,6 +1,6 @@
 # 2024-09-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-09 19:49:09  
+Updated at: 2024-09-09 22:12:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-09)  
 **curry**  
 In name:   
@@ -170,7 +170,7 @@ In description:
 **curry**  
 In name:   
  - Indian Fish Curry  
- - Black Eyed Pea Curry w/ Rice  
+ - Beet Curry  
   
 In description:   
   
