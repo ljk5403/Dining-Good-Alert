@@ -1,6 +1,6 @@
 # 2024-09-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-10 07:21:05  
+Updated at: 2024-09-10 10:10:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-10)  
 **Tuna**  
 In name:   
@@ -125,7 +125,6 @@ In description:
 In name:   
  - Jamaican Jerk Chicken  
  - Mediterranean Chicken  
- - Diced Chicken  
  - Chicken Sausage Patties  
  - Chicken Cordon Bleu Sandwich (Pork)  
   
@@ -143,6 +142,12 @@ In description:
 **Poke Bar**  
 In name:   
  - Build Your Own Poke Bar  
+  
+In description:   
+  
+**Tuna**  
+In name:   
+ - Tuna Salad  
   
 In description:   
   
