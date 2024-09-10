@@ -1,6 +1,6 @@
 # 2024-09-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-09 13:13:33  
+Updated at: 2024-09-09 16:09:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-09)  
 **curry**  
 In name:   
@@ -83,23 +83,11 @@ In name:
   
 In description:   
   
-**Shrimp**  
-In name:   
-  
-In description:   
- - Kimchee Reuben Sandwich  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
   
 In description:   
-  
-**fish**  
-In name:   
-  
-In description:   
- - Kimchee Reuben Sandwich  
   
 **beef**  
 In name:   
@@ -112,13 +100,12 @@ In description:
  - Gordon's OrderIt  
  - Pizza Slice - Bacon Cheeseburger  
  - Vegan Taco Filling  
- - Kimchee Reuben Sandwich  
- - Italian Meatball Sandwich  
   
 **pork**  
 In name:   
  - Italian Pork Sausage  
  - Pork Sausage Patties  
+ - Pork Bratwurst Sandwich  
   
 In description:   
  - Gordon's OrderIt  
@@ -127,12 +114,13 @@ In description:
 In name:   
  - Chicken Tinga  
  - Chicken Noodle Soup  
+ - Diced Chicken  
+ - Plant-Based Chicken Tenders  
   
 In description:   
  - Gordon's OrderIt  
  - Beef Meatballs  
  - Great Greens  
- - Italian Meatball Sandwich  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-09-09)  
 **watermelon**  
@@ -252,7 +240,6 @@ In description:
   
 **beef**  
 In name:   
- - Beef Taco Meat  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
