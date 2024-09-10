@@ -1,6 +1,6 @@
 # 2024-09-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-10 10:10:34  
+Updated at: 2024-09-10 13:13:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-10)  
 **Tuna**  
 In name:   
@@ -84,12 +84,6 @@ In description:
  - Station Recipe - Liz - Great Greens  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-09-10)  
-**steak**  
-In name:   
- - Spicy Steak Fajita  
-  
-In description:   
-  
 **clam**  
 In name:   
   
@@ -123,17 +117,17 @@ In name:
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
  - Southwest Burger  
- - Spicy Steak Fajita  
   
 **pork**  
 In name:   
+ - Pork Carnita  
   
 In description:   
  - Thin Crust Tavern Style Sausage Pizza  
   
 **chicken**  
 In name:   
- - Mediterranean Chicken  
+ - Giardiniera Chicken  
  - Chicken Sausage Patties  
   
 In description:   
@@ -160,9 +154,21 @@ In name:
   
 In description:   
   
-**Tilapia**  
+**catfish**  
 In name:   
- - Blackened Tilapia  
+  
+In description:   
+ - Indian Fish Curry  
+  
+**fish**  
+In name:   
+ - Indian Fish Curry  
+  
+In description:   
+  
+**curry**  
+In name:   
+ - Indian Fish Curry  
   
 In description:   
   
@@ -235,18 +241,17 @@ In description:
  - Great Greens  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-09-10)  
-**Cod**  
+**Salmon**  
 In name:   
+ - Masala Spiced Salmon  
   
 In description:   
- - Petite Fish Sandwich  
   
 **fish**  
 In name:   
- - Petite Fish Sandwich  
- - Vegan Fish Sandwich  
   
 In description:   
+ - Masala Spiced Salmon  
   
 **curry**  
 In name:   

@@ -1,6 +1,6 @@
 # 2024-09-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-10 13:13:52  
+Updated at: 2024-09-10 16:09:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-10)  
 **Tuna**  
 In name:   
@@ -93,12 +93,6 @@ In description:
  - Station Recipe - Liz - Great Greens  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-09-10)  
-**steak**  
-In name:   
- - Spicy Steak Fajita  
-  
-In description:   
-  
 **Shrimp**  
 In name:   
  - Chipotle Shrimp  
@@ -112,11 +106,11 @@ In name:
  - Soup -  Chili Beef & Bean  
   
 In description:   
- - Spicy Steak Fajita  
+ - Italian Meatball Sandwich  
   
 **pork**  
 In name:   
- - Chicken Cordon Bleu Sandwich (Pork)  
+ - Pork Carnita  
   
 In description:   
  - Pizza Slice Sausage  
@@ -124,13 +118,13 @@ In description:
 **chicken**  
 In name:   
  - Jamaican Jerk Chicken  
- - Mediterranean Chicken  
+ - Giardiniera Chicken  
  - Chicken Sausage Patties  
- - Chicken Cordon Bleu Sandwich (Pork)  
   
 In description:   
  - Beef Meatballs  
  - Great Greens  
+ - Italian Meatball Sandwich  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-09-10)  
 **watermelon**  
