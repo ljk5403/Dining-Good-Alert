@@ -1,6 +1,6 @@
 # 2024-09-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-10 07:21:00  
+Updated at: 2024-09-10 10:10:34  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-10)  
 **Tuna**  
 In name:   
@@ -86,7 +86,6 @@ In description:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-09-10)  
 **steak**  
 In name:   
- - Brazilian Flank Steak  
  - Spicy Steak Fajita  
   
 In description:   
@@ -109,12 +108,6 @@ In name:
 In description:   
  - Brazillian Fish Stew  
   
-**squid**  
-In name:   
-  
-In description:   
- - Fried Calamari  
-  
 **fish**  
 In name:   
  - Brazillian Fish Stew  
@@ -123,13 +116,12 @@ In description:
   
 **beef**  
 In name:   
- - Beef Gravy  
  - Beef Meatballs  
  - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
   
 In description:   
- - Brazilian Flank Steak  
+ - Thin Crust Tavern Style Pepperoni Pizza  
  - Southwest Burger  
  - Spicy Steak Fajita  
   
@@ -137,7 +129,7 @@ In description:
 In name:   
   
 In description:   
- - Pizza Slice Sausage  
+ - Thin Crust Tavern Style Sausage Pizza  
   
 **chicken**  
 In name:   
@@ -146,6 +138,7 @@ In name:
   
 In description:   
  - Beef Meatballs  
+ - Thin Crust Tavern Style Pepperoni Pizza  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-09-10)  
@@ -158,6 +151,12 @@ In description:
 **Poke Bar**  
 In name:   
  - Build Your Own Poke Bar  
+  
+In description:   
+  
+**Tuna**  
+In name:   
+ - Tuna Salad  
   
 In description:   
   
