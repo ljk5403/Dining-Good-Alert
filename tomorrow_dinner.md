@@ -1,6 +1,6 @@
 # 2024-09-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-10 16:09:47  
+Updated at: 2024-09-10 19:48:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-11)  
 **Cod**  
 In name:   
@@ -234,6 +234,7 @@ In description:
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2024-09-11)  
 **beef**  
 In name:   
+ - Beef Taco Meat  
  - Corned Beef  
   
 In description:   
@@ -248,6 +249,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Tinga  
  - Soup Chicken Tortilla  
  - Chicken Grilled Cordon Bleu (Pork)  
   

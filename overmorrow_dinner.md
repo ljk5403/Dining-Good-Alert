@@ -1,6 +1,6 @@
 # 2024-09-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-10 16:09:50  
+Updated at: 2024-09-10 19:48:52  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-12)  
 **Tuna**  
 In name:   
@@ -235,6 +235,7 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Taco Meat  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
@@ -250,6 +251,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Tinga  
  - Chicken Dumpling Soup  
  - Chicken Parmesan Sandwich  
   
