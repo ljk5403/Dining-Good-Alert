@@ -1,6 +1,6 @@
 # 2024-09-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-10 16:09:44  
+Updated at: 2024-09-10 19:48:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-10)  
 **Tuna**  
 In name:   
@@ -27,6 +27,7 @@ In name:
  - Soup -  Chili Beef & Bean  
   
 In description:   
+ - BYO Bar - Korean Bulgogi Top 9 Free  
  - Pepperoni Pizza Slice  
  - Baked Corn Dog  
   
@@ -43,6 +44,7 @@ In name:
  - Tandoori Chicken  
   
 In description:   
+ - BYO Bar - Korean Bulgogi Top 9 Free  
  - Beef Meatballs  
  - Pepperoni Pizza Slice  
  - Baked Corn Dog  
@@ -216,6 +218,7 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
   
 In description:   
@@ -229,6 +232,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Tinga  
  - Enchiladas Chicken  
   
 In description:   

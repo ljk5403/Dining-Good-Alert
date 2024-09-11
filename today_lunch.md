@@ -1,6 +1,6 @@
 # 2024-09-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-10 19:48:22  
+Updated at: 2024-09-10 22:11:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-10)  
 **Tuna**  
 In name:   
@@ -84,6 +84,12 @@ In description:
  - Station Recipe - Liz - Great Greens  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-09-10)  
+**steak**  
+In name:   
+ - Brazilian Flank Steak  
+  
+In description:   
+  
 **clam**  
 In name:   
   
@@ -102,6 +108,12 @@ In name:
 In description:   
  - Brazillian Fish Stew  
   
+**squid**  
+In name:   
+  
+In description:   
+ - Fried Calamari  
+  
 **fish**  
 In name:   
  - Brazillian Fish Stew  
@@ -110,11 +122,13 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Gravy  
  - Beef Meatballs  
  - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
   
 In description:   
+ - Brazilian Flank Steak  
  - Thin Crust Tavern Style Pepperoni Pizza  
  - Southwest Burger  
   
