@@ -1,9 +1,16 @@
 # 2024-09-11 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-11 10:11:34  
+Updated at: 2024-09-11 13:13:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-11)  
+**curry**  
+In name:   
+ - Beef Bombay Curry  
+  
+In description:   
+  
 **beef**  
 In name:   
+ - Beef Bombay Curry  
  - Beef Broccoli Stir Fry  
  - Beef Barbacoa  
  - Beef Taco Meat  
@@ -23,7 +30,6 @@ In description:
   
 **chicken**  
 In name:   
- - Teriyaki Chicken Fillet  
  - Lemon Pepper Chicken Salad  
  - Fajita Chicken  
  - Soup Chicken Tortilla  
@@ -80,15 +86,14 @@ In name:
   
 In description:   
   
-**catfish**  
+**Tilapia**  
 In name:   
- - Blackened Catfish  
+ - Blackened Tilapia  
   
 In description:   
   
 **fish**  
 In name:   
- - Blackened Catfish  
   
 In description:   
  - Tempura Roll (FujiSan)  
@@ -100,6 +105,7 @@ In name:
   
 In description:   
  - Italian Meat Sauce  
+ - Pepperoni Pizza Slice  
   
 **pork**  
 In name:   
@@ -116,9 +122,11 @@ In name:
  - Lemon Pepper Chicken Salad  
  - Marrakech Chicken Breast  
  - Soup Chicken Tortilla  
+ - Diced Chicken  
   
 In description:   
  - Beef Meatballs  
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-09-11)  
@@ -157,7 +165,7 @@ In description:
 **chicken**  
 In name:   
  - Chicken Pot Pie w/ Biscuit  
- - Chicken Wings Bone-In Plain  
+ - Chicken Wings Bone-In Plain (Fried)  
  - Plant-Based Chicken Nuggets (6)  
  - Soup Chicken Tortilla  
   
@@ -228,6 +236,18 @@ In name:
   
 In description:   
   
+**lamb**  
+In name:   
+ - Lamb Vindaloo  
+  
+In description:   
+  
+**curry**  
+In name:   
+  
+In description:   
+ - Lamb Vindaloo  
+  
 **beef**  
 In name:   
  - Beef Stroganoff Creamy  
@@ -243,7 +263,7 @@ In description:
   
 **chicken**  
 In name:   
- - Soup Chicken Tortilla  
+ - Chicken Dumpling Soup  
   
 In description:   
  - Great Greens  

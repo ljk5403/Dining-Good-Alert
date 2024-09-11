@@ -1,6 +1,6 @@
 # 2024-09-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-11 10:11:36  
+Updated at: 2024-09-11 13:13:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-11)  
 **Cod**  
 In name:   
@@ -186,7 +186,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Wings Bone-In Plain  
+ - Chicken Wings Bone-In Plain (Fried)  
  - Plant-Based Chicken Nuggets (6)  
  - Soup Chicken Tortilla  
   
