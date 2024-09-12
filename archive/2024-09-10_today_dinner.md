@@ -1,6 +1,6 @@
 # 2024-09-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-11 16:10:19  
+Updated at: 2024-09-11 19:48:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-11)  
 **Cod**  
 In name:   
@@ -28,7 +28,6 @@ In name:
  - Italian Pork Sausage  
   
 In description:   
- - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
@@ -115,9 +114,9 @@ In name:
   
 In description:   
   
-**steak**  
+**Tilapia**  
 In name:   
- - Country Fried Steak  
+ - Blackened Tilapia  
   
 In description:   
   
@@ -134,8 +133,8 @@ In name:
  - Beef French Dip Sandwich  
   
 In description:   
- - Country Fried Steak  
  - Italian Meat Sauce  
+ - Pepperoni Pizza Slice  
   
 **pork**  
 In name:   
@@ -145,16 +144,17 @@ In name:
  - Pork Carnita  
   
 In description:   
+ - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
  - Plant-Based Chicken & Gravy (VN)  
- - Chicken Bacon Ranch Pizza Slice  
  - Lemon Pepper Chicken Salad  
  - Soup Chicken Tortilla  
   
 In description:   
  - Beef Meatballs  
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-09-11)  
