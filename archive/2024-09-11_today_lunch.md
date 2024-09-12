@@ -1,6 +1,6 @@
 # 2024-09-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-12 10:10:30  
+Updated at: 2024-09-12 13:14:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-12)  
 **Cod**  
 In name:   
@@ -92,38 +92,38 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Chili w/ Beans  
  - Beef Meatballs  
+ - Mediterranean Beef  
  - Beef Taco Meat  
   
 In description:   
  - French Fry Bar  
- - Pepperoni Pizza Slice  
  - Pizza Slice Sausage & Pepperoni  
+ - Pepperoni Pizza Slice  
  - BYO Bar - Mediterranean Gordon  
- - Soup Cream of Potato w/ Bacon  
   
 **pork**  
 In name:   
  - Italian Pork Sausage  
  - Pork Sausage Patties  
+ - Pork Bratwurst Sandwich  
   
 In description:   
  - Pizza Slice Sausage & Pepperoni  
- - Soup Cream of Potato w/ Bacon  
   
 **chicken**  
 In name:   
- - Chicken Bruschetta Sandwich  
- - Spicy Fajita Chicken  
+ - Mediterranean Chicken  
+ - Chicken Tinga  
  - Chicken Dumpling Soup  
   
 In description:   
  - Beef Meatballs  
- - Pepperoni Pizza Slice  
  - Pizza Slice Sausage & Pepperoni  
+ - Pepperoni Pizza Slice  
  - BYO Bar - Mediterranean Gordon  
  - Great Greens  
- - Soup Cream of Potato w/ Bacon  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-09-12)  
 **watermelon**  
@@ -207,12 +207,12 @@ In name:
   
 In description:   
  - Soup Cream of Potato w/ Bacon  
+ - Grilled Hamburger  
   
 **pork**  
 In name:   
  - Pizza Slice BBQ Pulled Pork  
  - Herb Crusted Pork Loin  
- - Pork Bratwurst Sandwich  
   
 In description:   
  - Soup Cream of Potato w/ Bacon  
@@ -245,7 +245,6 @@ In name:
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
- - Soup Cream of Potato w/ Bacon  
   
 **pork**  
 In name:   
@@ -253,14 +252,12 @@ In name:
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
- - Soup Cream of Potato w/ Bacon  
   
 **chicken**  
 In name:   
- - Chicken Dumpling Soup  
+ - Soup Chicken Tortilla  
   
 In description:   
  - Great Greens  
- - Soup Cream of Potato w/ Bacon  
   
   
