@@ -1,6 +1,6 @@
 # 2024-09-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-12 07:19:15  
+Updated at: 2024-09-12 10:10:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-12)  
 **Cod**  
 In name:   
@@ -92,18 +92,19 @@ In description:
   
 **beef**  
 In name:   
- - Beef Chili w/ Beans  
  - Beef Meatballs  
  - Beef Taco Meat  
   
 In description:   
  - French Fry Bar  
+ - Pepperoni Pizza Slice  
  - Pizza Slice Sausage & Pepperoni  
  - BYO Bar - Mediterranean Gordon  
  - Soup Cream of Potato w/ Bacon  
   
 **pork**  
 In name:   
+ - Italian Pork Sausage  
  - Pork Sausage Patties  
   
 In description:   
@@ -112,14 +113,13 @@ In description:
   
 **chicken**  
 In name:   
- - Mediterranean Chicken  
  - Chicken Bruschetta Sandwich  
  - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
- - Diced Chicken  
   
 In description:   
  - Beef Meatballs  
+ - Pepperoni Pizza Slice  
  - Pizza Slice Sausage & Pepperoni  
  - BYO Bar - Mediterranean Gordon  
  - Great Greens  
@@ -141,6 +141,12 @@ In description:
 **steak**  
 In name:   
  - Grilled Flank Steak  
+  
+In description:   
+  
+**Tuna**  
+In name:   
+ - Tuna Salad  
   
 In description:   
   

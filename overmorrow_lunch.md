@@ -1,6 +1,6 @@
 # 2024-09-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-12 07:19:25  
+Updated at: 2024-09-12 10:10:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-14)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-09-14)  
 **watermelon**  
@@ -48,7 +48,6 @@ In name:
  - Crispy Buffalo Chicken Sandwich  
  - Chicken Tinga  
  - Soup Cream of Chicken & Wild Rice  
- - Diced Chicken  
   
 In description:   
  - Beef Meatballs  
