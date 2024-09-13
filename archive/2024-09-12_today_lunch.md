@@ -1,6 +1,6 @@
 # 2024-09-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-13 07:18:54  
+Updated at: 2024-09-13 10:10:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-13)  
 **steak**  
 In name:   
@@ -119,12 +119,6 @@ In name:
   
 In description:   
   
-**Shrimp**  
-In name:   
- - Sauteed Shrimp  
-  
-In description:   
-  
 **Cod**  
 In name:   
   
@@ -153,24 +147,26 @@ In name:
  - Beef Taco Meat  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Vegan Taco Filling  
   
 **pork**  
 In name:   
+ - Italian Pork Sausage  
   
 In description:   
- - Pizza Slice Chicken Cordon Bleu  
+ - Pizza Slice Sausage  
  - Soup Clam Chowder  
   
 **chicken**  
 In name:   
  - Honey Lime Chicken Breast  
- - Pizza Slice Chicken Cordon Bleu  
  - Chicken Sausage Patties  
  - Tikka Masala Chicken  
   
 In description:   
  - Beef Meatballs  
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-09-13)  
