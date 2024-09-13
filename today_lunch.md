@@ -1,6 +1,6 @@
 # 2024-09-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-13 13:13:52  
+Updated at: 2024-09-13 16:08:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-13)  
 **steak**  
 In name:   
@@ -162,7 +162,7 @@ In description:
 In name:   
  - Honey Lime Chicken Breast  
  - Chicken Sausage Patties  
- - Butter Chicken  
+ - Tikka Masala Chicken  
  - Diced Chicken  
   
 In description:   
@@ -247,6 +247,7 @@ In description:
   
 **Cod**  
 In name:   
+ - Lemon Pepper Cod Fillet  
   
 In description:   
  - Soup Clam Chowder  

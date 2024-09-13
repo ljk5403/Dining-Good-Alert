@@ -1,6 +1,6 @@
 # 2024-09-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-13 13:13:54  
+Updated at: 2024-09-13 16:08:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-13)  
 **steak**  
 In name:   
@@ -16,7 +16,6 @@ In description:
   
 **Cod**  
 In name:   
- - Battered Cod  
  - Cod Nuggets  
   
 In description:   
@@ -93,6 +92,12 @@ In name:
   
 In description:   
   
+**steak**  
+In name:   
+ - Tandoori Braised Beef Steak  
+  
+In description:   
+  
 **clam**  
 In name:   
  - Soup Clam Chowder  
@@ -119,9 +124,16 @@ In name:
   
 In description:   
   
+**curry**  
+In name:   
+ - Indian Curry Potatoes  
+  
+In description:   
+  
 **beef**  
 In name:   
  - Beef Meatballs  
+ - Tandoori Braised Beef Steak  
  - Beef Barbacoa  
  - Beef Taco Meat  
   
@@ -139,7 +151,6 @@ In description:
 In name:   
  - Brazilian Chicken w/ Salsa Vinaigrette  
  - Pizza Slice Chicken Cordon Bleu  
- - Tikka Masala Chicken  
  - Diced Chicken  
  - Chicken Sausage Patties  
   
@@ -179,15 +190,27 @@ In name:
 In description:   
  - Soup Clam Chowder  
   
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
+In description:   
+  
 **fish**  
 In name:   
  - Vegan Fish Sandwich  
   
 In description:   
   
+**curry**  
+In name:   
+ - Beef Bombay Curry  
+  
+In description:   
+  
 **beef**  
 In name:   
- - Unit Made Sauce - Beef Ragu (AYCTE)  
+ - Beef Bombay Curry  
  - Beef Taco Meat  
   
 In description:   
