@@ -1,6 +1,6 @@
 # 2024-09-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-12 16:09:44  
+Updated at: 2024-09-12 19:48:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-12)  
 **Tuna**  
 In name:   
@@ -101,6 +101,7 @@ In description:
 In name:   
  - Beef Meatballs  
  - Beef Taco Meat  
+ - Beef Chili  
   
 In description:   
  - Rosemary Cabernet Flank Steak  
@@ -111,6 +112,7 @@ In description:
   
 **pork**  
 In name:   
+ - Jerk Pork Chop  
  - Italian Pork Sausage  
  - Pork Sausage Patties  
   
@@ -121,10 +123,8 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken French  
- - Blackened Chicken  
  - Chicken Tinga  
- - Chicken Dumpling Soup  
+ - Diced Chicken  
   
 In description:   
  - Beef Meatballs  
@@ -144,6 +144,12 @@ In description:
 **Poke Bar**  
 In name:   
  - Build Your Own Poke Bar  
+  
+In description:   
+  
+**Tuna**  
+In name:   
+ - Tuna Salad  
   
 In description:   
   
@@ -237,6 +243,7 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Taco Meat  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
@@ -252,6 +259,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Tinga  
  - Chicken Dumpling Soup  
  - Chicken Parmesan Sandwich  
   
