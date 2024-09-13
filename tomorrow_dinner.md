@@ -1,6 +1,6 @@
 # 2024-09-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-12 16:09:50  
+Updated at: 2024-09-12 19:48:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-13)  
 **steak**  
 In name:   
@@ -140,6 +140,7 @@ In name:
  - Brazilian Chicken w/ Salsa Vinaigrette  
  - Pizza Slice Chicken Cordon Bleu  
  - Tikka Masala Chicken  
+ - Diced Chicken  
  - Chicken Sausage Patties  
   
 In description:   
@@ -223,6 +224,7 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Taco Meat  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
@@ -236,6 +238,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Tinga  
   
 In description:   
  - Great Greens  

@@ -1,6 +1,6 @@
 # 2024-09-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-12 13:14:53  
+Updated at: 2024-09-12 16:09:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-12)  
 **Tuna**  
 In name:   
@@ -105,11 +105,13 @@ In name:
 In description:   
  - Rosemary Cabernet Flank Steak  
  - Pizza Slice Sausage & Pepperoni  
+ - Pepperoni Pizza Slice  
  - BYO Bar - Mediterranean Gordon  
  - Soup Cream of Potato w/ Bacon  
   
 **pork**  
 In name:   
+ - Italian Pork Sausage  
  - Pork Sausage Patties  
   
 In description:   
@@ -120,13 +122,14 @@ In description:
 **chicken**  
 In name:   
  - Chicken French  
- - Mediterranean Chicken  
- - Spicy Fajita Chicken  
+ - Blackened Chicken  
+ - Chicken Tinga  
  - Chicken Dumpling Soup  
   
 In description:   
  - Beef Meatballs  
  - Pizza Slice Sausage & Pepperoni  
+ - Pepperoni Pizza Slice  
  - BYO Bar - Mediterranean Gordon  
  - Great Greens  
  - Soup Cream of Potato w/ Bacon  
