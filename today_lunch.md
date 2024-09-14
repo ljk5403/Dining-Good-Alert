@@ -1,6 +1,6 @@
 # 2024-09-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-14 04:10:07  
+Updated at: 2024-09-14 07:17:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-14)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-09-14)  
 **watermelon**  
@@ -27,7 +27,6 @@ In description:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-09-14)  
 **beef**  
 In name:   
- - Beef Tri Tip Carved w/ Chimichurri  
  - Beef Meatballs  
  - Beef Taco Meat  
   
