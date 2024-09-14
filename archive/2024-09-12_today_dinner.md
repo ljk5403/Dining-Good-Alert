@@ -1,6 +1,6 @@
 # 2024-09-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-13 16:08:56  
+Updated at: 2024-09-13 19:48:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-13)  
 **steak**  
 In name:   
@@ -35,6 +35,7 @@ In description:
   
 **pork**  
 In name:   
+ - Spicy ChilI Rice Pork Chops  
   
 In description:   
  - Pizza Slice Sausage  
@@ -42,7 +43,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Drumstick Teriyaki Glazed  
  - Diced Chicken Breast  
  - Lemon Pepper Chicken Salad  
  - Dan Dan w/ Chicken  
@@ -104,12 +104,6 @@ In name:
   
 In description:   
   
-**Shrimp**  
-In name:   
- - Sauteed Shrimp  
-  
-In description:   
-  
 **Cod**  
 In name:   
  - Caribbean Cod  
@@ -138,24 +132,26 @@ In name:
  - Beef Taco Meat  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Vegan Taco Filling  
   
 **pork**  
 In name:   
+ - Italian Pork Sausage  
   
 In description:   
- - Pizza Slice Chicken Cordon Bleu  
+ - Pizza Slice Sausage  
  - Soup Clam Chowder  
   
 **chicken**  
 In name:   
  - Brazilian Chicken w/ Salsa Vinaigrette  
- - Pizza Slice Chicken Cordon Bleu  
  - Diced Chicken  
  - Chicken Sausage Patties  
   
 In description:   
  - Beef Meatballs  
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-09-13)  
@@ -174,12 +170,6 @@ In description:
 **clam**  
 In name:   
  - Soup Clam Chowder  
-  
-In description:   
-  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp  
   
 In description:   
   
