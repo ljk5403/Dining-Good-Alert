@@ -1,6 +1,6 @@
 # 2024-09-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-14 10:09:39  
+Updated at: 2024-09-14 13:13:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-14)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-09-14)  
 **watermelon**  
@@ -74,6 +74,12 @@ In name:
   
 In description:   
  - Philly Cheesesteak Sandwich  
+  
+**pork**  
+In name:   
+  
+In description:   
+ - Made to Order Breakfast Burrito  
   
 **chicken**  
 In name:   
