@@ -1,6 +1,6 @@
 # 2024-09-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-14 16:09:10  
+Updated at: 2024-09-14 19:55:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-14)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-09-14)  
 **watermelon**  
@@ -24,18 +24,29 @@ In name:
 In description:   
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-09-14)  
+**steak**  
+In name:   
+ - Rosemary Cabernet Flank Steak  
+  
+In description:   
+  
+**Cod**  
+In name:   
+ - Lemon Pepper Cod Fillet  
+  
+In description:   
+  
 **beef**  
 In name:   
  - Beef Meatballs  
  - Beef Taco Meat  
- - Beef Hot Dog  
   
 In description:   
+ - Rosemary Cabernet Flank Steak  
  - Pepperoni Pizza Slice  
   
 **pork**  
 In name:   
- - Herb Crusted Pork Loin  
  - Pork Sausage Patties  
   
 In description:   
@@ -43,11 +54,11 @@ In description:
   
 **chicken**  
 In name:   
- - Cajun Chicken Pasta  
  - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
  - Soup Cream of Chicken & Wild Rice  
  - Diced Chicken  
+ - Crispy Chicken Sandwich  
   
 In description:   
  - Beef Meatballs  
@@ -70,7 +81,7 @@ In description:
   
 **chicken**  
 In name:   
- - Crispy Chicken Sandwich  
+ - Popcorn Chicken  
  - Plant-Based Chicken Tenders  
  - Fajita Chicken  
  - Soup Cream of Chicken & Wild Rice  
