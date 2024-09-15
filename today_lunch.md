@@ -1,6 +1,6 @@
 # 2024-09-15 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-15 13:13:39  
+Updated at: 2024-09-15 16:10:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-15)  
 **Tuna**  
 In name:   
@@ -41,12 +41,6 @@ In description:
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-09-15)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-09-15)  
-**steak**  
-In name:   
- - Plant-Based Pepper Steak Stir Fry  
-  
-In description:   
-  
 **Shrimp**  
 In name:   
  - Coconut Shrimp  
@@ -65,7 +59,6 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Plant-Based Pepper Steak Stir Fry  
  - Pepperoni Pizza Slice  
  - Fired Up Burger  
   
