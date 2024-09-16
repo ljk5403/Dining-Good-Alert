@@ -1,36 +1,47 @@
-# 2024-09-16 dinner  
+# 2024-09-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-15 22:18:58  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-16)  
+Updated at: 2024-09-16 01:15:45  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-17)  
+**Cod**  
+In name:   
+ - Greek Cod  
+  
+In description:   
+  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad  
+  
+In description:   
+  
+**curry**  
+In name:   
+ - Indian Curry Garbanzo Beans  
+ - Indian Curry Potatoes  
+  
+In description:   
+  
 **beef**  
 In name:   
- - Beef Fajita Meat  
+ - Beef Meatballs  
+ - Poutine w/Beef Gravy  
+ - Soup -  Chili Beef & Bean  
   
 In description:   
- - Sausage, Potatoes, & Peppers  
- - Italian Meat Sauce  
- - Chicago-Style Hot Dog  
-  
-**pork**  
-In name:   
- - Italian Pork Sausage  
- - Pork Chop Adobo (1)  
-  
-In description:   
- - Sausage, Potatoes, & Peppers  
- - Pizza Slice Sausage  
+ - Pepperoni Pizza Slice  
   
 **chicken**  
 In name:   
- - Chicken Drumstick BBQ Glazed  
- - Lemon Pepper Chicken Salad  
- - Chicken  
- - Chicken Noodle Soup  
+ - Chicken Fajita Meat  
+ - Plant Based Chicken Strips  
+ - Chicken Vindaloo - w/ Rice  
   
 In description:   
+ - Beef Meatballs  
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-09-16)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-09-17)  
 **watermelon**  
 In name:   
  - Melon Watermelon Whole Sliced  
@@ -43,77 +54,82 @@ In name:
   
 In description:   
   
-**Tilapia**  
+**Salmon**  
 In name:   
- - Tilapia Veracruz  
+ - Salmon Philly Roll (FujiSan)  
+ - Salmon Spicy Roll (FujiSan)  
   
 In description:   
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Salmon Spicy Roll (FujiSan)  
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs  
+ - Beef Broccoli Stir Fry  
+ - Plant-Based Beef & Broccoli Stir Fry  
+ - Soup -  Chili Beef & Bean  
   
 In description:   
-  
-**chicken**  
-In name:   
- - Plant-Based Chicken & Gravy (VN)  
- - Chicken Shawarma Sandwich  
- - Beef & Chicken Meatballs  
- - Chicken Noodle Soup  
-  
-In description:   
-  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-09-16)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
-In description:   
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad  
-  
-In description:   
-  
-**beef**  
-In name:   
- - Beef Swedish Meatballs  
- - Beef Meatballs  
- - Beef Broccoli Stir Fry w/Teriyaki Sauce  
- - Beef Taco Meat  
-  
-In description:   
- - Gordon's OrderIt  
- - Deli  
- - Vegan Taco Filling  
- - Blackened Hamburger  
- - Vegan Sloppy Joe  
+ - Pepperoni Pizza Slice  
+ - Station Recipe - Liz - Deli  AYCTE  
   
 **pork**  
 In name:   
- - Herb Crusted Pork Loin  
- - Italian Pork Sausage  
- - Pork Sausage Patties  
   
 In description:   
- - Gordon's OrderIt  
- - Deli  
+ - Station Recipe - Liz - Deli  AYCTE  
   
 **chicken**  
 In name:   
- - Pizza Slice Mediterranean Chicken  
- - Chicken Tinga  
- - Chicken Noodle Soup  
- - Diced Chicken  
   
 In description:   
- - Gordon's OrderIt  
+ - Pepperoni Pizza Slice  
+ - Station Recipe - Liz - Great Greens  
+  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-09-17)  
+**steak**  
+In name:   
+ - Spicy Steak Fajita  
+  
+In description:   
+ - Montreal Chicken  
+  
+**beef**  
+In name:   
+ - Corned Beef  
+ - Beef Gravy  
+ - Beef Meatballs  
+ - Plant-Based Beef & Broccoli Stir Fry  
+ - Beef Taco Meat  
+ - Soup -  Chili Beef & Bean  
+  
+In description:   
+ - Spicy Steak Fajita  
+  
+**pork**  
+In name:   
+  
+In description:   
+ - Pizza Slice Cubano  
+ - Pizza Slice Sausage  
+  
+**chicken**  
+In name:   
+ - Montreal Chicken  
+ - Mediterranean Chicken  
+ - Teriyaki Chicken Fillet  
+ - Chicken Sausage Patties  
+ - Crispy Chicken Sandwich  
+  
+In description:   
  - Beef Meatballs  
  - Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-09-16)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-09-17)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
@@ -126,6 +142,12 @@ In name:
 In description:   
  - Build Your Own Curry Bowl  
  - Sub - Sauce Masaman Thai Curry  
+  
+**lamb**  
+In name:   
+ - Smoked Leg of Lamb  
+  
+In description:   
   
 **curry**  
 In name:   
@@ -138,7 +160,9 @@ In description:
   
 **beef**  
 In name:   
+ - Beef & Tater Tot Bake  
  - Beef Taco Meat  
+ - Soup -  Chili Beef & Bean  
  - Beef Fajita Meat  
   
 In description:   
@@ -146,58 +170,66 @@ In description:
   
 **pork**  
 In name:   
- - Italian Pork Sausage  
+ - Ancho Braised Pork  
   
 In description:   
- - Hot Ham Sandwich  
   
 **chicken**  
 In name:   
- - Grilled Chicken Sandwich  
- - Chicken Drumstick BBQ Glazed  
- - Chicken Tinga  
- - Chicken Noodle Soup  
+ - Italian Chicken  
  - Boneless Skinless Chicken Thigh  
   
 In description:   
+ - Ancho Braised Pork  
  - Station Recipe - Great Greens - FLM  
  - Build Your Own Curry Bowl  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-09-16)  
-**beef**  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-09-17)  
+**Shrimp**  
 In name:   
- - Texas BBQ Sliced Beef Brisket  
- - Beef & Chicken Meatballs  
+ - GF & DF Shrimp Scampi w/Garlic/Parsley  
   
 In description:   
- - Pepperoni Pizza Slice  
- - Brazilian Pork Feijoada  
- - Carson's MTO Pasta Bar  
+  
+**lamb**  
+In name:   
+  
+In description:   
+ - Pizza Slice Gyro  
+  
+**curry**  
+In name:   
+ - Mixed Vegetable Curry  
+  
+In description:   
+  
+**beef**  
+In name:   
+ - Beef Bean & Carrot Stir Fry  
+ - Soup -  Chili Beef & Bean  
+ - Halal Beef Hamburger  
+  
+In description:   
+ - Pizza Slice Meat Lovers w/ Bacon  
+ - Pizza Slice Gyro  
   
 **pork**  
 In name:   
- - Brazilian Pork Feijoada  
   
 In description:   
- - Pizza Slice Brat  
- - Carson's MTO Pasta Bar  
- - Andouille Sausage  
+ - Pizza Slice Meat Lovers w/ Bacon  
   
 **chicken**  
 In name:   
- - Chicken Noodle Soup  
- - Beef & Chicken Meatballs  
- - Diced Chicken  
+ - Breaded Chicken Fillet  
   
 In description:   
- - Pepperoni Pizza Slice  
- - Great Greens  
- - Carson's MTO Pasta Bar  
+ - Pizza Slice Meat Lovers w/ Bacon  
   
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2024-09-16)  
-**Salmon**  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2024-09-17)  
+**steak**  
 In name:   
- - Hoisin BBQ Glazed Salmon  
+ - Country Fried Steak  
   
 In description:   
   
@@ -205,21 +237,24 @@ In description:
 In name:   
   
 In description:   
- - Hoisin BBQ Glazed Salmon  
+ - Duck Curry  
   
 **curry**  
 In name:   
- - Seitan & Coconut Thai Curry  
+ - Duck Curry  
+ - Garbanzo Bean Curry  
   
 In description:   
   
 **beef**  
 In name:   
  - Mediterranean Beef  
+ - Soup -  Chili Beef & Bean  
   
 In description:   
  - BYO Mediterranean Sandwich  
  - Station Recipe - Deli Lowell AYCTE  
+ - Country Fried Steak  
   
 **pork**  
 In name:   
@@ -230,8 +265,6 @@ In description:
 **chicken**  
 In name:   
  - Mediterranean Chicken  
- - Chicken Noodle Soup  
- - Sweet & Sour Chicken  
   
 In description:   
  - BYO Mediterranean Sandwich  
