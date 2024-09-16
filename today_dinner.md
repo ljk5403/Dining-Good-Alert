@@ -1,6 +1,6 @@
 # 2024-09-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-15 19:52:48  
+Updated at: 2024-09-15 22:18:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-15)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -127,7 +127,6 @@ In name:
  - Vegan Coconut Cauliflower Curry Soup  
   
 In description:   
- - Citrus Couscous (VN) (AYCTE)  
   
 **beef**  
 In name:   
@@ -136,19 +135,12 @@ In name:
   
 In description:   
   
-**pork**  
-In name:   
- - French Market Pork Jambalaya  
- - Pork Carnita  
-  
-In description:   
-  
 **chicken**  
 In name:   
+ - Diced Chicken  
   
 In description:   
  - Beef Meatballs  
- - French Market Pork Jambalaya  
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-09-15)  
