@@ -1,10 +1,9 @@
 # 2024-09-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-16 13:13:17  
+Updated at: 2024-09-16 19:40:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-18)  
 **beef**  
 In name:   
- - Beef Fajita Meat  
   
 In description:   
  - Sliced Kielbasa  
@@ -22,7 +21,6 @@ In name:
  - Chicken Parmigiana  
  - Pizza Slice BBQ Chicken & Bacon  
  - Lemon Pepper Chicken Salad  
- - Chicken  
  - Chicken Mole w/ Rice  
  - Soup Chicken Tortilla  
   

@@ -1,12 +1,10 @@
 # 2024-09-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-16 10:11:12  
+Updated at: 2024-09-16 13:13:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-16)  
 **beef**  
 In name:   
- - Texas BBQ Sliced Beef Brisket  
  - Beef Broccoli Stir Fry  
- - Beef Fajita Meat  
  - Beef Barbacoa  
  - Beef Taco Meat  
   
@@ -24,7 +22,6 @@ In description:
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
- - Chicken  
  - Chicken Tinga  
  - Chicken Noodle Soup  
   
@@ -165,7 +162,6 @@ In description:
   
 **beef**  
 In name:   
- - Beef Stroganoff Creamy  
  - Beef Taco Meat  
  - Beef Fajita Meat  
   
@@ -181,6 +177,8 @@ In description:
   
 **chicken**  
 In name:   
+ - Protein Plant Based Chicken Tender  
+ - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
  - Chicken Noodle Soup  
  - Boneless Skinless Chicken Thigh  
@@ -236,14 +234,15 @@ In description:
 **beef**  
 In name:   
  - Mediterranean Beef  
+ - Beef Stroganoff Creamy  
   
 In description:   
  - BYO Mediterranean Sandwich  
  - Station Recipe - Deli Lowell AYCTE  
+ - Pizza Slice - Bacon Cheeseburger  
   
 **pork**  
 In name:   
- - Pizza Slice BBQ Pulled Pork  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  

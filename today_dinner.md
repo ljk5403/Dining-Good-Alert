@@ -1,10 +1,9 @@
 # 2024-09-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-16 13:13:07  
+Updated at: 2024-09-16 19:40:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-16)  
 **beef**  
 In name:   
- - Beef Fajita Meat  
   
 In description:   
  - Sausage, Potatoes, & Peppers  
@@ -24,7 +23,6 @@ In description:
 In name:   
  - Chicken Drumstick BBQ Glazed  
  - Lemon Pepper Chicken Salad  
- - Chicken  
  - Chicken Noodle Soup  
   
 In description:   
@@ -77,9 +75,14 @@ In name:
   
 In description:   
   
+**Tilapia**  
+In name:   
+ - Blackened Tilapia  
+  
+In description:   
+  
 **beef**  
 In name:   
- - Beef Swedish Meatballs  
  - Beef Meatballs  
  - Beef Broccoli Stir Fry w/Teriyaki Sauce  
  - Beef Taco Meat  
@@ -89,24 +92,22 @@ In description:
  - Deli  
  - Vegan Taco Filling  
  - Blackened Hamburger  
- - Vegan Sloppy Joe  
   
 **pork**  
 In name:   
- - Herb Crusted Pork Loin  
  - Italian Pork Sausage  
  - Pork Sausage Patties  
   
 In description:   
  - Gordon's OrderIt  
+ - Pizza Slice Sausage  
  - Deli  
   
 **chicken**  
 In name:   
- - Pizza Slice Mediterranean Chicken  
+ - Crispy Buffalo Chicken Sandwich  
  - Chicken Tinga  
  - Chicken Noodle Soup  
- - Diced Chicken  
   
 In description:   
  - Gordon's OrderIt  
@@ -122,6 +123,7 @@ In description:
   
 **fish**  
 In name:   
+ - Vegan Fish Sandwich  
   
 In description:   
  - Build Your Own Curry Bowl  
