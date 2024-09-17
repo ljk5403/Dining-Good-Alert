@@ -1,6 +1,6 @@
 # 2024-09-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-17 13:14:11  
+Updated at: 2024-09-17 16:10:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-17)  
 **Cod**  
 In name:   
@@ -103,7 +103,7 @@ In name:
  - Corned Beef  
  - Beef Gravy  
  - Beef Meatballs  
- - Plant-Based Beef & Broccoli Stir Fry  
+ - Beef Broccoli Stir Fry w/Teriyaki Sauce  
  - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
   
@@ -121,7 +121,6 @@ In description:
 In name:   
  - Montreal Chicken  
  - Mediterranean Chicken  
- - Teriyaki Chicken Fillet  
  - Chicken Sausage Patties  
  - Crispy Chicken Sandwich  
   
@@ -221,7 +220,6 @@ In description:
   
 **chicken**  
 In name:   
- - Breaded Chicken Fillet  
   
 In description:   
  - Pizza Slice Meat Lovers w/ Bacon  
