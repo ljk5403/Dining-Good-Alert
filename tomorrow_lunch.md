@@ -1,6 +1,6 @@
 # 2024-09-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-17 19:49:01  
+Updated at: 2024-09-17 22:12:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-18)  
 **beef**  
 In name:   
@@ -140,6 +140,7 @@ In name:
   
 In description:   
  - Masala Spiced Salmon  
+ - Tempura Roll (FujiSan)  
  - Build Your Own Curry Bowl  
  - Sub - Sauce Masaman Thai Curry  
   
