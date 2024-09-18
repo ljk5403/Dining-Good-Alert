@@ -1,6 +1,6 @@
 # 2024-09-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-18 10:11:28  
+Updated at: 2024-09-18 13:13:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-18)  
 **beef**  
 In name:   
@@ -23,6 +23,7 @@ In name:
  - Chicken Pot Pie w/Biscuit  
  - Pizza Slice BBQ Chicken & Bacon  
  - Lemon Pepper Chicken Salad  
+ - Chicken Stir-Fry Coconut Lime(AYCTE)(CN)  
  - Fajita Chicken  
  - Soup Chicken Tortilla  
   
@@ -91,8 +92,8 @@ In name:
   
 In description:   
  - Italian Meat Sauce  
- - Pepperoni Pizza Slice  
  - Pizza Slice Meat Lovers w/ Bacon  
+ - Hamburger  
   
 **pork**  
 In name:   
@@ -101,6 +102,7 @@ In name:
  - Pork Carnita  
   
 In description:   
+ - Pizza Slice Sausage  
  - Pizza Slice Meat Lovers w/ Bacon  
   
 **chicken**  
@@ -113,7 +115,6 @@ In name:
   
 In description:   
  - Beef Meatballs  
- - Pepperoni Pizza Slice  
  - Pizza Slice Meat Lovers w/ Bacon  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-09-18)  
@@ -153,7 +154,8 @@ In description:
 **chicken**  
 In name:   
  - Tikka Masala Chicken w/ Rice  
- - Chicken Wings Bone-In Plain  
+ - Lemon Pepper Chicken Salad  
+ - Chicken Wings Bone-In Plain (Fried)  
  - Plant-Based Chicken Nuggets (6)  
  - Soup Chicken Tortilla  
   
@@ -180,6 +182,18 @@ In description:
  - Great Greens  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-09-18)  
+**fish**  
+In name:   
+  
+In description:   
+ - Duck Curry  
+  
+**curry**  
+In name:   
+ - Duck Curry  
+  
+In description:   
+  
 **beef**  
 In name:   
  - Mediterranean Beef  
