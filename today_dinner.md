@@ -1,6 +1,6 @@
 # 2024-09-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-17 16:10:02  
+Updated at: 2024-09-17 19:48:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-17)  
 **Cod**  
 In name:   
@@ -96,7 +96,12 @@ In name:
  - Spicy Steak Fajita  
   
 In description:   
- - Montreal Chicken  
+  
+**Tilapia**  
+In name:   
+ - Lemon Bake Tilapia  
+  
+In description:   
   
 **beef**  
 In name:   
@@ -112,6 +117,7 @@ In description:
   
 **pork**  
 In name:   
+ - Italian Pork Sausage  
   
 In description:   
  - Pizza Slice Cubano  
@@ -119,8 +125,6 @@ In description:
   
 **chicken**  
 In name:   
- - Montreal Chicken  
- - Mediterranean Chicken  
  - Chicken Sausage Patties  
  - Crispy Chicken Sandwich  
   
@@ -135,18 +139,18 @@ In name:
   
 In description:   
   
+**steak**  
+In name:   
+ - Spicy Steak Fajita  
+  
+In description:   
+  
 **fish**  
 In name:   
   
 In description:   
  - Build Your Own Curry Bowl  
  - Sub - Sauce Masaman Thai Curry  
-  
-**lamb**  
-In name:   
- - Smoked Leg of Lamb  
-  
-In description:   
   
 **curry**  
 In name:   
@@ -160,16 +164,16 @@ In description:
 **beef**  
 In name:   
  - Beef & Tater Tot Bake  
- - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
  - Beef Fajita Meat  
   
 In description:   
+ - Spicy Steak Fajita  
  - Build Your Own Curry Bowl  
   
 **pork**  
 In name:   
- - Ancho Braised Pork  
+ - Pork Carnita  
   
 In description:   
   
@@ -179,7 +183,6 @@ In name:
  - Boneless Skinless Chicken Thigh  
   
 In description:   
- - Ancho Braised Pork  
  - Station Recipe - Great Greens - FLM  
  - Build Your Own Curry Bowl  
   
