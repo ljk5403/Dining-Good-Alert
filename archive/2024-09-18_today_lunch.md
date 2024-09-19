@@ -1,6 +1,6 @@
 # 2024-09-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-19 10:11:05  
+Updated at: 2024-09-19 13:13:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-19)  
 **Tuna**  
 In name:   
@@ -103,7 +103,6 @@ In description:
 **pork**  
 In name:   
  - Baked Pork Chops w/Dressing  
- - Pork Gravy with Vegetables  
   
 In description:   
  - Pizza Slice Deluxe  
@@ -111,7 +110,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Baked  (1 piece)  
+ - Chicken Gravy  
  - Giardiniera Chicken  
  - Chicken Dumpling Soup  
  - Diced Chicken  
@@ -168,6 +167,7 @@ In description:
 In name:   
  - Jamaican Jerk Chicken Drumstick  
  - Plant-Based Chicken Tenders  
+ - Lemon Pepper Chicken Salad  
  - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
  - Boneless Skinless Chicken Thigh  
@@ -208,7 +208,7 @@ In description:
   
 **chicken**  
 In name:   
- - Butter Chicken  
+ - Mediterranean Chicken  
  - Chicken Dumpling Soup  
   
 In description:   
