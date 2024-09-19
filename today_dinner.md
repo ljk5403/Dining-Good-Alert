@@ -1,6 +1,6 @@
 # 2024-09-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-18 16:09:50  
+Updated at: 2024-09-18 19:50:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-18)  
 **beef**  
 In name:   
@@ -74,6 +74,12 @@ In name:
   
 In description:   
   
+**steak**  
+In name:   
+ - Grilled Flank Steak  
+  
+In description:   
+  
 **Cod**  
 In name:   
  - Basque Style Cod  
@@ -94,6 +100,7 @@ In name:
  - Beef Taco Meat  
   
 In description:   
+ - Grilled Flank Steak  
  - Italian Meat Sauce  
  - Pepperoni Pizza Slice  
  - Pizza Slice Meat Lovers w/ Bacon  
@@ -109,7 +116,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Drummies  
  - Lemon Pepper Chicken Salad  
  - Soup Chicken Tortilla  
   

@@ -1,6 +1,6 @@
 # 2024-09-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-18 13:13:48  
+Updated at: 2024-09-18 16:09:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-18)  
 **beef**  
 In name:   
@@ -141,6 +141,7 @@ In description:
   
 **curry**  
 In name:   
+ - Vegan Curry Stew  
  - Build Your Own Curry Bowl  
  - Sub - Base Curry Red  
  - Green Curry Sauce  
@@ -151,7 +152,6 @@ In description:
 **beef**  
 In name:   
  - Beef Meatballs  
- - Beef Taco Meat  
  - Beef Fajita Meat  
   
 In description:   
@@ -166,8 +166,9 @@ In description:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Huli Huli Chicken  
- - Chicken Wings Bone-In Plain  
+ - Chicken Wings Bone-In Plain (Fried)  
  - Plant-Based Chicken Nuggets (6)  
  - Soup Chicken Tortilla  
  - Boneless Skinless Chicken Thigh  
