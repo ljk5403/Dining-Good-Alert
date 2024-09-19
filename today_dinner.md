@@ -1,6 +1,6 @@
 # 2024-09-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-18 19:50:12  
+Updated at: 2024-09-18 22:13:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-18)  
 **beef**  
 In name:   
@@ -132,9 +132,9 @@ In name:
   
 In description:   
   
-**Tilapia**  
+**Cod**  
 In name:   
- - Tilapia Chipotle Lime Crusted  
+ - Baked Cod Fillet w/Butter & Lemon  
   
 In description:   
   
@@ -157,18 +157,13 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Hot Dog  
  - Beef Meatballs  
  - Beef Fajita Meat  
   
 In description:   
  - Italian Meat Sauce  
  - Build Your Own Curry Bowl  
-  
-**pork**  
-In name:   
- - Pork Bratwurst Sandwich  
-  
-In description:   
   
 **chicken**  
 In name:   
