@@ -1,6 +1,6 @@
 # 2024-09-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-20 10:10:56  
+Updated at: 2024-09-20 13:13:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-20)  
 **clam**  
 In name:   
@@ -104,7 +104,7 @@ In description:
   
 **curry**  
 In name:   
- - Seitan & Coconut Thai Curry  
+ - Coconut Tofu w/Red Curry Sauce  
  - Indian Curry Garbanzo Beans  
  - Indian Curry Potatoes  
   
@@ -136,7 +136,7 @@ In description:
 In name:   
  - Breaded Chicken Tenders  
  - Chicken Sausage Patties  
- - Butter Chicken  
+ - Tandoori Chicken  
  - Diced Chicken  
   
 In description:   
@@ -197,6 +197,7 @@ In description:
 **chicken**  
 In name:   
  - Chipotle BBQ Chicken Sandwich  
+ - Lemon Pepper Chicken Salad  
   
 In description:   
  - Station Recipe - Great Greens - FLM  
@@ -225,6 +226,7 @@ In description:
 **curry**  
 In name:   
  - Coconut Tofu w/Red Curry Sauce  
+ - Garbanzo Bean Curry  
   
 In description:   
   

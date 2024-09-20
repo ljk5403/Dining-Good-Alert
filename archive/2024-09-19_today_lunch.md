@@ -1,6 +1,6 @@
 # 2024-09-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-20 07:19:42  
+Updated at: 2024-09-20 10:10:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-20)  
 **clam**  
 In name:   
@@ -98,22 +98,9 @@ In description:
   
 **Cod**  
 In name:   
- - Beer Battered Cod  
   
 In description:   
  - Soup Clam Chowder  
-  
-**lamb**  
-In name:   
-  
-In description:   
- - Pizza Slice Gyro  
-  
-**goat**  
-In name:   
- - Mushroom Spinach Goat Cheese FB Pizza  
-  
-In description:   
   
 **curry**  
 In name:   
@@ -132,25 +119,30 @@ In name:
   
 In description:   
  - Burnt Ends  
- - Pizza Slice Gyro  
+ - Italian Meat Sauce  
+ - Pepperoni Pizza Slice  
+ - Italian Meatball Sandwich  
  - Vegan Taco Filling  
   
 **pork**  
 In name:   
+ - Pork Italian Sausage  
   
 In description:   
+ - Pizza Slice Sausage  
  - Soup Clam Chowder  
   
 **chicken**  
 In name:   
+ - Breaded Chicken Tenders  
  - Chicken Sausage Patties  
- - Chicken Tenders Breaded  
- - Plant-Based Chicken Nuggets (6)  
  - Butter Chicken  
  - Diced Chicken  
   
 In description:   
  - Beef Meatballs  
+ - Pepperoni Pizza Slice  
+ - Italian Meatball Sandwich  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-09-20)  

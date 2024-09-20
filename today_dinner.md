@@ -1,6 +1,6 @@
 # 2024-09-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-20 10:10:58  
+Updated at: 2024-09-20 13:13:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-20)  
 **clam**  
 In name:   
@@ -28,10 +28,16 @@ In name:
 In description:   
  - Grilled Chipotle Salmon  
   
+**beef**  
+In name:   
+ - Beef Taco Meat  
+  
+In description:   
+  
 **pork**  
 In name:   
  - Pork Sausage Patty  
- - Pork Sausage Chorizo Frozen  
+ - Pork Carnita  
   
 In description:   
  - Pizza Slice Sausage  
@@ -42,6 +48,7 @@ In description:
 In name:   
  - Diced Chicken Breast  
  - Lemon Pepper Chicken Salad  
+ - Fajita Chicken  
   
 In description:   
  - Great Greens  
