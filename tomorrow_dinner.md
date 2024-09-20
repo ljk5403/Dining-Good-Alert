@@ -1,6 +1,6 @@
 # 2024-09-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-19 19:50:16  
+Updated at: 2024-09-19 22:13:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-20)  
 **clam**  
 In name:   
@@ -196,6 +196,7 @@ In description:
   
 **pork**  
 In name:   
+ - Italian Pork Sausage  
   
 In description:   
  - Soup Clam Chowder  

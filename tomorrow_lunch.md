@@ -1,6 +1,6 @@
 # 2024-09-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-19 19:50:14  
+Updated at: 2024-09-19 22:13:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-20)  
 **clam**  
 In name:   
@@ -197,6 +197,7 @@ In description:
 **pork**  
 In name:   
  - Vietnamese Pork with Rice  
+ - Italian Pork Sausage  
   
 In description:   
  - Soup Clam Chowder  
