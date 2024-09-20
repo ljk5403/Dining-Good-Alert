@@ -1,6 +1,6 @@
 # 2024-09-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-19 13:13:38  
+Updated at: 2024-09-19 16:10:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-19)  
 **Shrimp**  
 In name:   
@@ -133,7 +133,6 @@ In description:
 **pork**  
 In name:   
  - Pork Sausage Patties  
- - New Orleans Turkey Melt w/ Pork  
   
 In description:   
  - Pizza Slice Deluxe  
@@ -144,7 +143,7 @@ In name:
  - Shoyu Chicken  
  - Giardiniera Chicken  
  - Mediterranean Chicken  
- - Spicy Fajita Chicken  
+ - Chicken Tinga  
  - Chicken Dumpling Soup  
   
 In description:   

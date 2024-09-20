@@ -1,6 +1,6 @@
 # 2024-09-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-19 16:10:02  
+Updated at: 2024-09-19 19:50:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-19)  
 **Shrimp**  
 In name:   
@@ -129,6 +129,7 @@ In description:
  - Pizza Slice Deluxe  
  - BYO Bar - Mediterranean Gordon  
  - Soup Cream of Potato w/ Bacon  
+ - Grilled Cheeseburger  
   
 **pork**  
 In name:   
@@ -217,6 +218,7 @@ In description:
   
 **beef**  
 In name:   
+ - BBQ Beef Brisket Platter  
   
 In description:   
  - Pizza Slice Cheeseburger  

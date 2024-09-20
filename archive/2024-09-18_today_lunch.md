@@ -1,6 +1,6 @@
 # 2024-09-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-19 13:13:35  
+Updated at: 2024-09-19 16:09:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-19)  
 **Tuna**  
 In name:   
@@ -93,6 +93,7 @@ In description:
 **beef**  
 In name:   
  - Beef Meatballs  
+ - Beef Taco Meat  
   
 In description:   
  - Pizza Slice Deluxe  
@@ -103,6 +104,7 @@ In description:
 **pork**  
 In name:   
  - Baked Pork Chops w/Dressing  
+ - Pork Sausage Patties  
   
 In description:   
  - Pizza Slice Deluxe  
@@ -112,6 +114,7 @@ In description:
 In name:   
  - Chicken Gravy  
  - Giardiniera Chicken  
+ - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
  - Diced Chicken  
   
