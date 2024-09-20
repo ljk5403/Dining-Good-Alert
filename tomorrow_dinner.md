@@ -1,6 +1,6 @@
 # 2024-09-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-20 13:13:55  
+Updated at: 2024-09-20 16:10:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-21)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-09-21)  
 **watermelon**  
@@ -38,7 +38,6 @@ In name:
  - Pork Sausage Patties  
   
 In description:   
- - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
@@ -67,6 +66,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Popcorn Chicken  
  - Plant-Based Chicken Nuggets (6)  
  - Fajita Chicken  
