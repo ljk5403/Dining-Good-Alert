@@ -1,6 +1,6 @@
 # 2024-09-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-21 07:17:30  
+Updated at: 2024-09-21 10:11:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-21)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-09-21)  
 **watermelon**  
@@ -28,7 +28,6 @@ In description:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-09-21)  
 **beef**  
 In name:   
- - Beef Meatballs  
  - BBQ Beef Brisket Sandwich  
  - Beef Taco Meat  
   
@@ -51,7 +50,6 @@ In name:
  - Diced Chicken  
   
 In description:   
- - Beef Meatballs  
  - Pepperoni Pizza Slice  
  - Great Greens  
   
