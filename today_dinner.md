@@ -1,6 +1,6 @@
 # 2024-09-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-20 16:10:06  
+Updated at: 2024-09-20 19:48:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-20)  
 **clam**  
 In name:   
@@ -15,18 +15,11 @@ In description:
  - Fish Tacos  
  - Soup Clam Chowder  
   
-**Salmon**  
-In name:   
- - Grilled Chipotle Salmon  
-  
-In description:   
-  
 **fish**  
 In name:   
  - Fish Tacos  
   
 In description:   
- - Grilled Chipotle Salmon  
   
 **beef**  
 In name:   
@@ -46,6 +39,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Breast w/Balsamic BBQ Sauce  
  - Diced Chicken Breast  
  - Lemon Pepper Chicken Salad  
  - Fajita Chicken  
@@ -101,7 +95,6 @@ In description:
 **Shrimp**  
 In name:   
  - Sauteed Shrimp  
- - Shrimp Po-Boy Sandwich  
   
 In description:   
   
@@ -147,6 +140,7 @@ In name:
  - Huli Huli Chicken  
  - Tandoori Chicken  
  - Chicken Sausage Patties  
+ - Breaded Chicken Tenders  
   
 In description:   
  - Beef Meatballs  
