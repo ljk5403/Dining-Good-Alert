@@ -1,6 +1,6 @@
 # 2024-09-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-21 19:55:18  
+Updated at: 2024-09-21 22:17:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-21)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-09-21)  
 **watermelon**  
@@ -27,6 +27,7 @@ In description:
 In name:   
  - Beef Mediterranean  
  - Beef Taco Meat  
+ - Beef Barbacoa  
   
 In description:   
  - Pepperoni Pizza Slice  
@@ -43,7 +44,6 @@ In description:
 In name:   
  - Chicken Mediterranean (AYCTE)  
  - Lemon Pepper Chicken Salad  
- - Chicken Tinga  
  - Soup Cream of Chicken & Wild Rice  
   
 In description:   

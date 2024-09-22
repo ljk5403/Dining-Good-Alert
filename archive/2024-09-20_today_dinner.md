@@ -1,6 +1,6 @@
 # 2024-09-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-21 16:08:46  
+Updated at: 2024-09-21 19:55:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-21)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-09-21)  
 **watermelon**  
@@ -25,6 +25,7 @@ In description:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-09-21)  
 **beef**  
 In name:   
+ - Beef Mediterranean  
  - Beef Taco Meat  
   
 In description:   
@@ -33,7 +34,6 @@ In description:
   
 **pork**  
 In name:   
- - Coffee Crusted Pork Loin  
  - Pork Sausage Patties  
   
 In description:   
@@ -41,6 +41,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Mediterranean (AYCTE)  
  - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
  - Soup Cream of Chicken & Wild Rice  
