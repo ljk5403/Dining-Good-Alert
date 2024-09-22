@@ -1,6 +1,6 @@
 # 2024-09-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-22 10:09:24  
+Updated at: 2024-09-22 13:12:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-22)  
 **steak**  
 In name:   
@@ -56,6 +56,12 @@ In name:
   
 In description:   
   
+**curry**  
+In name:   
+ - Soup Coconut Curry Cauliflower  
+  
+In description:   
+  
 **beef**  
 In name:   
  - Beef Goulash w/Egg Noodles  
@@ -77,7 +83,6 @@ In description:
 In name:   
  - Chicken Grilled Cordon Bleu (Pork)  
  - Giardiniera Chicken  
- - Lemon Chicken Rice Soup  
  - Diced Chicken  
   
 In description:   
@@ -124,6 +129,12 @@ In description:
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2024-09-22)  
+**curry**  
+In name:   
+ - Soup Coconut Curry Cauliflower  
+  
+In description:   
+  
 **beef**  
 In name:   
   
@@ -144,6 +155,7 @@ In description:
 In name:   
  - Pizza Slice BBQ Chicken & Bacon  
  - Dan Dan w/ Chicken  
+ - Chicken Noodle Soup  
  - Chicken Biscuit w/ Sausage Gravy  
   
 In description:   
