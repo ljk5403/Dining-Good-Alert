@@ -1,6 +1,6 @@
 # 2024-09-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-23 13:13:59  
+Updated at: 2024-09-23 16:09:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-23)  
 **beef**  
 In name:   
@@ -97,7 +97,6 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Gordon's OrderIt  
  - Vegan Taco Filling  
  - Mushroom Swiss Burger  
   
@@ -107,7 +106,6 @@ In name:
  - Pork Sausage Patties  
   
 In description:   
- - Gordon's OrderIt  
  - Pizza Slice Sausage  
   
 **chicken**  
@@ -118,7 +116,6 @@ In name:
  - Chicken Noodle Soup  
   
 In description:   
- - Gordon's OrderIt  
  - Beef Meatballs  
  - Great Greens  
   
@@ -129,9 +126,9 @@ In name:
   
 In description:   
   
-**Shrimp**  
+**Tuna**  
 In name:   
- - Shrimp Curry  
+ - Tuna Salad  
   
 In description:   
   
@@ -142,15 +139,11 @@ In name:
 In description:   
  - California Roll  (FujiSan)  
   
-**curry**  
-In name:   
- - Shrimp Curry  
-  
-In description:   
-  
 **beef**  
 In name:   
  - Barbacoa Beef w/Mango Habanero Sandwich  
+ - Beef Taco Meat  
+ - Beef Barbacoa  
   
 In description:   
  - German Plate  
@@ -166,6 +159,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Taco Chicken  
  - Chicken Noodle Soup  
   
 In description:   
