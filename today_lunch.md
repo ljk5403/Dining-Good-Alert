@@ -1,6 +1,6 @@
 # 2024-09-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-23 10:11:19  
+Updated at: 2024-09-23 13:13:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-23)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -70,12 +70,6 @@ In name:
 In description:   
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-09-23)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
-In description:   
-  
 **Shrimp**  
 In name:   
  - Redhook Ale Breaded Shrimp  
@@ -143,11 +137,11 @@ In name:
   
 In description:   
   
-**fish**  
+**Tuna**  
 In name:   
+ - Tuna Salad  
   
 In description:   
- - California Roll  (FujiSan)  
   
 **beef**  
 In name:   
@@ -163,7 +157,7 @@ In description:
   
 **chicken**  
 In name:   
- - Tikka Masala Chicken  
+ - Butter Chicken  
  - Chicken Noodle Soup  
   
 In description:   
@@ -178,7 +172,7 @@ In description:
   
 **Salmon**  
 In name:   
- - Hoisin BBQ Glazed Salmon  
+ - Blackened Salmon  
   
 In description:   
   
@@ -186,7 +180,13 @@ In description:
 In name:   
   
 In description:   
- - Hoisin BBQ Glazed Salmon  
+ - Blackened Salmon  
+  
+**curry**  
+In name:   
+ - Soup Coconut Curry Cauliflower  
+  
+In description:   
   
 **beef**  
 In name:   
@@ -206,7 +206,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Noodle Soup  
  - Chicken Sausage Patty  
   
 In description:   
