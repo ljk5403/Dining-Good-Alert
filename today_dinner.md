@@ -1,6 +1,6 @@
 # 2024-09-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-23 16:09:59  
+Updated at: 2024-09-23 19:51:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-23)  
 **beef**  
 In name:   
@@ -84,14 +84,27 @@ In name:
   
 In description:   
   
+**fish**  
+In name:   
+  
+In description:   
+ - Beef Curry Masaman Thai  
+  
 **lamb**  
 In name:   
  - Moroccan Style Lamb Stuffed Peppers  
   
 In description:   
   
+**curry**  
+In name:   
+ - Beef Curry Masaman Thai  
+  
+In description:   
+  
 **beef**  
 In name:   
+ - Beef Curry Masaman Thai  
  - Beef Meatballs  
  - Beef Fajita Meat  
  - Beef Taco Meat  
