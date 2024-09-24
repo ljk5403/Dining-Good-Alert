@@ -1,6 +1,6 @@
 # 2024-09-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-24 10:11:16  
+Updated at: 2024-09-24 13:14:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-24)  
 **Tuna**  
 In name:   
@@ -156,6 +156,12 @@ In name:
   
 In description:   
   
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
+In description:   
+  
 **beef**  
 In name:   
  - Beef Pita Kabaub  
@@ -207,7 +213,6 @@ In description:
 **pork**  
 In name:   
  - Pork Sausage Links  
- - Pork Bratwurst Sandwich  
   
 In description:   
  - Pizza Slice Meat Lovers w/ Bacon  
