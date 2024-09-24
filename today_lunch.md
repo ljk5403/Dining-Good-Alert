@@ -1,6 +1,6 @@
 # 2024-09-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-24 07:20:11  
+Updated at: 2024-09-24 10:11:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-24)  
 **Tuna**  
 In name:   
@@ -108,24 +108,18 @@ In description:
  - Station Recipe - Liz - Great Greens  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-09-24)  
+**Poke Bar**  
+In name:   
+ - Build Your Own Poke Bar  
+  
+In description:   
+  
 **steak**  
 In name:   
  - Spicy Steak Fajita  
   
 In description:   
  - Pizza Slice Italian Beef  
-  
-**Shrimp**  
-In name:   
- - Steamed Shrimp  
-  
-In description:   
-  
-**Tuna**  
-In name:   
- - Tuna  
-  
-In description:   
   
 **beef**  
 In name:   
