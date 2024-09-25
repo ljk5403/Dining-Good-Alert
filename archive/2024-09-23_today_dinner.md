@@ -1,6 +1,6 @@
 # 2024-09-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-24 16:09:42  
+Updated at: 2024-09-24 19:52:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-24)  
 **Tuna**  
 In name:   
@@ -108,12 +108,6 @@ In name:
 In description:   
  - Pizza Slice Italian Beef  
   
-**BBQ Pork Sandwich**  
-In name:   
- - Carolina BBQ Pork Sandwich  
-  
-In description:   
-  
 **Shrimp**  
 In name:   
  - Steamed Shrimp  
@@ -146,15 +140,15 @@ In description:
   
 **pork**  
 In name:   
- - BBQ Pork Chop  
- - Carolina BBQ Pork Sandwich  
+ - Italian Pork Sausage  
   
 In description:   
   
 **chicken**  
 In name:   
- - Mediterranean Chicken  
+ - Chicken Breast w/Red Pepper Cream  
  - Chicken Sausage Patties  
+ - Crispy Chicken Sandwich  
   
 In description:   
  - Beef Meatballs  

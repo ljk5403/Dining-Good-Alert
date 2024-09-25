@@ -1,6 +1,6 @@
 # 2024-09-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-24 19:52:32  
+Updated at: 2024-09-24 22:18:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-25)  
 **Cod**  
 In name:   
@@ -178,6 +178,8 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Wings Boneless Plain  
+ - Plant-Based Chicken Nuggets (6)  
  - Soup Chicken Tortilla  
   
 In description:   
