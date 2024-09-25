@@ -1,6 +1,6 @@
 # 2024-09-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-25 04:11:34  
+Updated at: 2024-09-25 07:20:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-25)  
 **Cod**  
 In name:   
@@ -96,12 +96,6 @@ In name:
 In description:   
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-09-25)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
-In description:   
-  
 **Shrimp**  
 In name:   
  - Sweet & Sour Shrimp  
@@ -144,7 +138,6 @@ In name:
 In description:   
  - Beef Meatballs  
  - Pepperoni Pizza Slice  
- - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-09-25)  
 **watermelon**  
