@@ -1,6 +1,6 @@
 # 2024-09-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-25 13:14:07  
+Updated at: 2024-09-25 16:10:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-25)  
 **Cod**  
 In name:   
@@ -227,7 +227,7 @@ In description:
   
 **pork**  
 In name:   
- - Ancho Braised Pork  
+ - Roasted Pork Loin  
   
 In description:   
  - Pizza Slice Sausage  
@@ -239,7 +239,6 @@ In name:
  - Chicken Sausage Patty  
   
 In description:   
- - Ancho Braised Pork  
  - Build Your Own Carson's Korean Bulgogi  
  - Great Greens  
   
@@ -269,7 +268,7 @@ In name:
  - Plant Based Chicken Strips  
  - Diced Chicken Breast  
  - Soup Chicken Tortilla  
- - Seasoned Baked Chicken Quarters  
+ - Jamaican Jerk Chicken  
  - Dan Dan w/ Chicken  
   
 In description:   

@@ -1,6 +1,6 @@
 # 2024-09-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-25 13:14:09  
+Updated at: 2024-09-25 16:10:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-25)  
 **Tilapia**  
 In name:   
@@ -88,7 +88,7 @@ In description:
   
 **beef**  
 In name:   
- - ZZBeef Boeuf Bourguignon (AYCTE)9/24  
+ - Beef Stew w/ Buttermilk Biscuit  
  - Beef Meatballs  
  - Beef Taco Meat  
   
@@ -108,6 +108,7 @@ In name:
  - Lemon Pepper Chicken Salad  
  - General Tso's Chicken  
  - Soup Chicken Tortilla  
+ - Diced Chicken  
   
 In description:   
  - Beef Meatballs  
@@ -227,6 +228,7 @@ In name:
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
+ - Pepperoni Pizza Slice  
   
 **pork**  
 In name:   
@@ -244,5 +246,6 @@ In name:
   
 In description:   
  - Great Greens  
+ - Pepperoni Pizza Slice  
   
   
