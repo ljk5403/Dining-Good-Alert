@@ -1,6 +1,6 @@
 # 2024-09-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-25 10:11:03  
+Updated at: 2024-09-25 13:14:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-25)  
 **Cod**  
 In name:   
@@ -266,10 +266,11 @@ In description:
   
 **chicken**  
 In name:   
- - Protein Plant Based Chicken Tender  
+ - Plant Based Chicken Strips  
  - Diced Chicken Breast  
  - Soup Chicken Tortilla  
  - Seasoned Baked Chicken Quarters  
+ - Dan Dan w/ Chicken  
   
 In description:   
  - Beef Meatballs  

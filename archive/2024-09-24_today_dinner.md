@@ -1,6 +1,6 @@
 # 2024-09-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-25 07:20:20  
+Updated at: 2024-09-25 10:11:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-25)  
 **Tilapia**  
 In name:   
@@ -118,6 +118,12 @@ In description:
 **watermelon**  
 In name:   
  - Watermelon Slices  
+  
+In description:   
+  
+**Tuna**  
+In name:   
+ - Tuna Salad  
   
 In description:   
   
