@@ -1,6 +1,6 @@
 # 2024-09-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-24 13:14:36  
+Updated at: 2024-09-24 16:09:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-24)  
 **Tuna**  
 In name:   
@@ -42,7 +42,7 @@ In description:
 In name:   
  - Popcorn Chicken  
  - Plant Based Chicken Strips  
- - Butter Chicken  
+ - Tikka Masala Chicken  
  - Chicken Moroccan Saute Platter  
   
 In description:   
@@ -173,6 +173,12 @@ In name:
   
 In description:   
   
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
+In description:   
+  
 **lamb**  
 In name:   
  - Lamb & Beef Gyro Sandwich  
@@ -273,6 +279,7 @@ In description:
   
 **pork**  
 In name:   
+ - Baked Rigatoni w/ Pork Italian Sausage  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
