@@ -1,6 +1,6 @@
 # 2024-09-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-25 07:20:17  
+Updated at: 2024-09-25 10:11:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-25)  
 **Cod**  
 In name:   
@@ -149,6 +149,12 @@ In description:
 **steak**  
 In name:   
  - Ham Steak  
+  
+In description:   
+  
+**Tuna**  
+In name:   
+ - Tuna Salad  
   
 In description:   
   
