@@ -1,6 +1,6 @@
 # 2024-09-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-26 10:11:04  
+Updated at: 2024-09-26 13:13:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-26)  
 **Tuna**  
 In name:   
@@ -117,7 +117,6 @@ In name:
  - Popcorn Chicken  
  - Giardiniera Chicken  
  - Pizza Slice Chicken Broccoli Alfredo  
- - Mediterranean Chicken  
  - Chicken Tinga  
  - Chicken Dumpling Soup  
  - Diced Chicken  
@@ -229,7 +228,7 @@ In description:
   
 **chicken**  
 In name:   
- - Tikka Masala Chicken  
+ - Chicken Vindaloo  
  - Chicken Dumpling Soup  
   
 In description:   

@@ -1,6 +1,6 @@
 # 2024-09-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-26 07:20:33  
+Updated at: 2024-09-26 10:11:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-26)  
 **Tuna**  
 In name:   
@@ -98,18 +98,17 @@ In name:
   
 In description:   
  - BYO Bar - Mac & Cheese  
- - Cocktail Smokies  
  - Pizza Slice Sausage & Pepperoni  
  - Grilled Cheeseburger  
  - Soup Cream of Potato w/ Bacon  
   
 **pork**  
 In name:   
+ - Pork Italian Sausage  
  - Pork Sausage Patties  
   
 In description:   
  - BYO Bar - Mac & Cheese  
- - Cocktail Smokies  
  - Pizza Slice Sausage & Pepperoni  
  - Soup Cream of Potato w/ Bacon  
   
@@ -119,13 +118,12 @@ In name:
  - Giardiniera Chicken  
  - Pizza Slice Chicken Broccoli Alfredo  
  - Mediterranean Chicken  
- - Spicy Fajita Chicken  
+ - Chicken Tinga  
  - Chicken Dumpling Soup  
  - Diced Chicken  
   
 In description:   
  - BYO Bar - Mac & Cheese  
- - Cocktail Smokies  
  - Beef Meatballs  
  - Pizza Slice Sausage & Pepperoni  
  - Great Greens  
