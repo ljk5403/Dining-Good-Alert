@@ -1,6 +1,6 @@
 # 2024-09-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-25 16:10:10  
+Updated at: 2024-09-25 19:51:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-25)  
 **Tilapia**  
 In name:   
@@ -106,7 +106,6 @@ In description:
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
- - General Tso's Chicken  
  - Soup Chicken Tortilla  
  - Diced Chicken  
   
