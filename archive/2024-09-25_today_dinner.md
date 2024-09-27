@@ -1,6 +1,6 @@
 # 2024-09-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-26 16:09:34  
+Updated at: 2024-09-26 19:51:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-26)  
 **Tuna**  
 In name:   
@@ -155,7 +155,6 @@ In description:
 **beef**  
 In name:   
  - Beef Meatloaf  
- - Beef Taco Meat  
   
 In description:   
  - Soup Cream of Potato w/ Bacon  
@@ -174,6 +173,7 @@ In description:
 **chicken**  
 In name:   
  - Baked BBQ Chicken Quarters  
+ - Chicken Tinga  
  - Chicken Dumpling Soup  
   
 In description:   
