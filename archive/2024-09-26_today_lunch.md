@@ -1,6 +1,6 @@
 # 2024-09-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-27 07:20:08  
+Updated at: 2024-09-27 10:10:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-27)  
 **steak**  
 In name:   
@@ -145,7 +145,6 @@ In name:
  - Chicken Sausage Patties  
  - Grilled BBQ Chicken Sandwich  
  - Tandoori Chicken  
- - Diced Chicken  
   
 In description:   
  - Beef Meatballs  
@@ -175,6 +174,12 @@ In name:
   
 In description:   
  - Soup Clam Chowder  
+  
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
+In description:   
   
 **Salmon**  
 In name:   

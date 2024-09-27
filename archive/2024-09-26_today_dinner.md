@@ -1,6 +1,6 @@
 # 2024-09-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-27 07:20:10  
+Updated at: 2024-09-27 10:11:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-27)  
 **steak**  
 In name:   
@@ -154,7 +154,6 @@ In description:
 In name:   
  - Chicken Stir-Fry Coconut Lime  
  - Tandoori Chicken  
- - Diced Chicken  
  - Chicken Sausage Patties  
   
 In description:   
@@ -192,6 +191,12 @@ In name:
   
 In description:   
  - Soup Clam Chowder  
+  
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
+In description:   
   
 **fish**  
 In name:   
