@@ -1,6 +1,6 @@
 # 2024-09-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-27 07:20:15  
+Updated at: 2024-09-27 10:11:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-29)  
 **Cod**  
 In name:   
@@ -75,7 +75,6 @@ In description:
 In name:   
  - Giardiniera Chicken  
  - Lemon Chicken Rice Soup  
- - Diced Chicken  
  - Crispy Buffalo Chicken Sandwich  
   
 In description:   

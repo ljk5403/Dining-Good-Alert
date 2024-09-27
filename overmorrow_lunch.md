@@ -1,6 +1,6 @@
 # 2024-09-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-27 07:20:14  
+Updated at: 2024-09-27 10:11:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-29)  
 **Tuna**  
 In name:   
@@ -71,7 +71,6 @@ In name:
  - Plant-Based Chicken Etouffee  
  - Giardiniera Chicken  
  - Lemon Chicken Rice Soup  
- - Diced Chicken  
   
 In description:   
  - Beef Meatballs  
