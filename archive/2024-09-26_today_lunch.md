@@ -1,6 +1,6 @@
 # 2024-09-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-27 10:10:59  
+Updated at: 2024-09-27 13:14:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-27)  
 **steak**  
 In name:   
@@ -144,7 +144,7 @@ In name:
  - Chicken Piece Seasoned Baked  
  - Chicken Sausage Patties  
  - Grilled BBQ Chicken Sandwich  
- - Tandoori Chicken  
+ - Butter Chicken  
   
 In description:   
  - Beef Meatballs  
@@ -241,6 +241,7 @@ In description:
 **Tilapia**  
 In name:   
  - Tilapia Chipotle Lime Crusted  
+ - Baked Tilapia w/Dill Wine Sauce  
   
 In description:   
   
