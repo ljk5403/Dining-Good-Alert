@@ -1,270 +1,84 @@
-# 2024-09-27 lunch  
+# 2024-09-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-27 22:15:05  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-27)  
-**steak**  
-In name:   
- - Pizza Slice Philly Cheesesteak  
-  
-In description:   
-  
-**clam**  
-In name:   
- - Soup Clam Chowder  
-  
-In description:   
-  
-**Cod**  
-In name:   
-  
-In description:   
- - Soup Clam Chowder  
-  
-**beef**  
-In name:   
- - Beef Taco Meat  
-  
-In description:   
- - Pizza Slice Philly Cheesesteak  
-  
-**pork**  
-In name:   
- - Pork Bratwurst Sandwich  
- - Pork Miso w/Yakisoba Noodles  
- - Pork Carnita  
-  
-In description:   
- - Pizza Slice Sausage  
- - Soup Clam Chowder  
-  
-**chicken**  
-In name:   
- - Baked BBQ Chicken  
- - Lemon Pepper Chicken Salad  
- - Plant Based Protein Chicken Taco Filling  
- - Fajita Chicken  
- - Diced Chicken Breast  
-  
-In description:   
- - Pork Miso w/Yakisoba Noodles  
- - Great Greens  
-  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-09-27)  
+Updated at: 2024-09-28 01:13:38  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-28)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-09-28)  
 **watermelon**  
 In name:   
  - Melon Watermelon Whole Sliced  
   
 In description:   
   
-**Cod**  
-In name:   
- - Battered Cod  
- - Lemon Pepper Cod Fillet  
-  
-In description:   
-  
-**beef**  
-In name:   
- - Beef Harissa w/Couscous  
-  
-In description:   
- - Station Recipe - Liz - Deli  AYCTE  
-  
-**pork**  
-In name:   
-  
-In description:   
- - Station Recipe - Liz - Deli  AYCTE  
-  
 **chicken**  
 In name:   
- - Sumac Chicken  
- - Plant Based Sweet & Sour Chicken  
+ - Chicken Sausage Patty  
+ - Soup Cream of Chicken & Wild Rice  
  - Lemon Pepper Chicken Salad  
   
 In description:   
   
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-09-27)  
-**watermelon**  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-09-28)  
+**lamb**  
 In name:   
- - Watermelon Slices  
-  
-In description:   
-  
-**clam**  
-In name:   
- - Soup Clam Chowder  
-  
-In description:   
-  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp  
-  
-In description:   
-  
-**Cod**  
-In name:   
- - Vegan Cod Battered (2 pc)  
- - Battered Cod  
-  
-In description:   
- - Soup Clam Chowder  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Vegan Cod Battered (2 pc)  
-  
-**curry**  
-In name:   
- - Curry Cauliflower & Butternut Squash  
+ - Lamb & Beef Gyro Sandwich  
   
 In description:   
   
 **beef**  
 In name:   
  - Beef Meatballs  
- - Beef Barbacoa  
+ - Lamb & Beef Gyro Sandwich  
  - Beef Taco Meat  
   
 In description:   
- - Hamburger  
- - Vegan Taco Filling  
+ - Pepperoni Pizza Slice  
   
 **pork**  
 In name:   
- - Pizza Slice BBQ Pulled Pork  
+ - Roasted Pork Loin  
+ - Italian Pork Sausage  
+ - Pork Sausage Patties  
   
 In description:   
- - Soup Clam Chowder  
+ - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
- - Chicken Piece Seasoned Baked  
- - Chicken Sausage Patties  
- - Butter Chicken  
+ - Chicken Biryani  
+ - Chicken Tenders Breaded  
+ - Lemon Pepper Chicken Salad  
+ - Chicken Tinga  
+ - Soup Cream of Chicken & Wild Rice  
   
 In description:   
  - Beef Meatballs  
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-09-27)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-09-28)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
   
 In description:   
   
-**clam**  
-In name:   
- - Soup Clam Chowder  
-  
-In description:   
-  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp  
-  
-In description:   
-  
-**Cod**  
-In name:   
-  
-In description:   
- - Soup Clam Chowder  
-  
-**Tuna**  
-In name:   
- - Tuna Salad  
-  
-In description:   
-  
-**Salmon**  
-In name:   
- - Blackened Salmon  
-  
-In description:   
-  
-**fish**  
-In name:   
-  
-In description:   
- - Blackened Salmon  
-  
 **beef**  
 In name:   
+ - Beef Meatballs  
+ - Beef Taco Meat  
   
 In description:   
- - Mediterranean Rice Bowl  
- - Mediterranean Nachos  
- - BYO Mediterranean Sandwich  
-  
-**pork**  
-In name:   
-  
-In description:   
- - Soup Clam Chowder  
+ - Grilled Cheeseburger  
   
 **chicken**  
 In name:   
- - Chicken Fajita Torta (Half)  
- - Pizza Slice BBQ Chicken & Bacon  
+ - Fajita Chicken  
+ - Soup Cream of Chicken & Wild Rice  
   
 In description:   
+ - Beef Meatballs  
  - Station Recipe - Great Greens - FLM  
- - Mediterranean Rice Bowl  
- - Mediterranean Nachos  
- - BYO Mediterranean Sandwich  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2024-09-27)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-09-27)  
-**clam**  
-In name:   
- - Soup Clam Chowder  
-  
-In description:   
-  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp  
-  
-In description:   
-  
-**Cod**  
-In name:   
-  
-In description:   
- - Soup Clam Chowder  
-  
-**Tilapia**  
-In name:   
- - Tilapia Chipotle Lime Crusted  
- - Baked Tilapia w/Dill Wine Sauce  
-  
-In description:   
-  
-**beef**  
-In name:   
- - Beef Meatballs  
-  
-In description:   
- - Station Recipe - Deli Lowell AYCTE  
-  
-**pork**  
-In name:   
- - Cajun Rice w/ Pork & Black Eyed Peas  
-  
-In description:   
- - Station Recipe - Deli Lowell AYCTE  
- - Soup Clam Chowder  
-  
-**chicken**  
-In name:   
-  
-In description:   
- - Beef Meatballs  
- - Great Greens  
-  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2024-09-28)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-09-28)  
   
