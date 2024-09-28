@@ -1,6 +1,6 @@
 # 2024-09-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-27 13:14:11  
+Updated at: 2024-09-27 16:09:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-27)  
 **steak**  
 In name:   
@@ -130,6 +130,7 @@ In name:
  - Beef Taco Meat  
   
 In description:   
+ - Hamburger  
  - Vegan Taco Filling  
   
 **pork**  
@@ -143,7 +144,6 @@ In description:
 In name:   
  - Chicken Piece Seasoned Baked  
  - Chicken Sausage Patties  
- - Grilled BBQ Chicken Sandwich  
  - Butter Chicken  
   
 In description:   
