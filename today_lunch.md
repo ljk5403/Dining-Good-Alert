@@ -1,6 +1,6 @@
 # 2024-09-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-29 10:10:58  
+Updated at: 2024-09-29 13:13:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-29)  
 **Tuna**  
 In name:   
@@ -52,7 +52,6 @@ In description:
 In name:   
  - Beef Gravy  
  - Beef Meatballs  
- - Halal Beef Hamburger  
  - Beef Taco Meat  
   
 In description:   
@@ -71,7 +70,7 @@ In description:
 In name:   
  - Plant-Based Chicken Etouffee  
  - Giardiniera Chicken  
- - Lemon Chicken Rice Soup  
+ - Chicken Tenders Breaded  
  - Diced Chicken  
   
 In description:   
@@ -110,6 +109,25 @@ In description:
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2024-09-29)  
+**Salmon**  
+In name:   
+ - Blackened Salmon  
+  
+In description:   
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Blackened Salmon  
+ - Curried Pumpkin Soup  
+  
+**curry**  
+In name:   
+  
+In description:   
+ - Curried Pumpkin Soup  
+  
 **beef**  
 In name:   
   
@@ -128,11 +146,9 @@ In description:
   
 **chicken**  
 In name:   
- - Baked Chicken (2 piece)  
  - Chicken Gravy  
  - Pizza Slice Chicken Bacon Ranch  
  - Lemon Pepper Chicken Salad  
- - Lemon Chicken Rice Soup  
  - Chicken Biscuit w/ Sausage Gravy  
   
 In description:   

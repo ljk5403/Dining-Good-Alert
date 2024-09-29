@@ -1,6 +1,6 @@
 # 2024-09-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-29 07:18:22  
+Updated at: 2024-09-29 10:10:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-29)  
 **Tuna**  
 In name:   
@@ -38,7 +38,7 @@ In description:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-09-29)  
 **steak**  
 In name:   
- - Grilled Flank Steak  
+ - Country Fried Steak  
   
 In description:   
   
@@ -50,12 +50,13 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Gravy  
  - Beef Meatballs  
  - Halal Beef Hamburger  
  - Beef Taco Meat  
   
 In description:   
- - Grilled Flank Steak  
+ - Country Fried Steak  
  - Pepperoni Pizza Slice  
   
 **pork**  
