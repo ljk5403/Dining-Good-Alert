@@ -1,6 +1,6 @@
 # 2024-09-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-29 13:13:17  
+Updated at: 2024-09-29 16:09:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-29)  
 **Cod**  
 In name:   
@@ -26,6 +26,7 @@ In name:
  - Beef Taco Meat  
   
 In description:   
+ - Italian Meat Sauce  
  - Pepperoni Pizza Slice  
  - Vegan Taco Filling  
   
@@ -89,12 +90,6 @@ In name:
   
 In description:   
   
-**steak**  
-In name:   
- - Island Spiced Beef Steak  
-  
-In description:   
-  
 **Cod**  
 In name:   
  - Caribbean Cod  
@@ -103,28 +98,27 @@ In description:
   
 **curry**  
 In name:   
+ - Curry Cauliflower & Butternut Squash  
   
 In description:   
- - Chana Saag w/ Tofu  
   
 **beef**  
 In name:   
  - Beef Meatballs  
- - Island Spiced Beef Steak  
  - Beef Taco Meat  
   
 In description:   
- - Polish Combo Cheeseburger  
+ - Grilled Cheeseburger  
   
 **pork**  
 In name:   
  - Pork Carnita  
   
 In description:   
- - Polish Combo Cheeseburger  
   
 **chicken**  
 In name:   
+ - Seasoned Baked Chicken Quarters  
  - Lemon Chicken Rice Soup  
   
 In description:   
