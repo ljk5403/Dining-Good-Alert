@@ -1,6 +1,6 @@
 # 2024-09-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-28 16:09:45  
+Updated at: 2024-09-28 19:56:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-28)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-09-28)  
 **watermelon**  
@@ -29,6 +29,12 @@ In name:
   
 In description:   
   
+**curry**  
+In name:   
+ - Currywurst  
+  
+In description:   
+  
 **beef**  
 In name:   
  - Beef Meatballs  
@@ -36,7 +42,6 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice  
- - Chicago-Style Hot Dog  
   
 **pork**  
 In name:   
@@ -45,6 +50,7 @@ In name:
   
 In description:   
  - Pizza Slice Sausage  
+ - Currywurst  
   
 **chicken**  
 In name:   
