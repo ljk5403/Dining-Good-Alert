@@ -1,6 +1,6 @@
 # 2024-10-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-29 04:11:47  
+Updated at: 2024-09-29 07:18:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-01)  
 **Tuna**  
 In name:   
@@ -159,6 +159,7 @@ In name:
  - Pizza Slice Chicken Sriracha  
  - Chicken Sausage Patties  
  - Jerk Chicken Sandwich  
+ - Diced Chicken  
   
 In description:   
  - Beef Meatballs  
