@@ -1,6 +1,6 @@
 # 2024-10-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-30 10:11:55  
+Updated at: 2024-09-30 13:14:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-01)  
 **Tuna**  
 In name:   
@@ -118,20 +118,25 @@ In description:
   
 **Shrimp**  
 In name:   
+ - Shrimp  
   
 In description:   
  - Global Curry Bowl  
   
 **fish**  
 In name:   
+ - Fish Sauce  
   
 In description:   
  - Global Curry Bowl  
+ - Sub - Sauce Masaman Thai Curry  
   
 **curry**  
 In name:   
  - Global Curry Bowl  
- - Build Your Own Curry Bowl  
+ - Sub - Base Curry Yellow  
+ - Sub - Base Curry Red  
+ - Sub - Sauce Masaman Thai Curry  
   
 In description:   
   
@@ -139,6 +144,7 @@ In description:
 In name:   
  - Texas BBQ Sliced Beef Brisket  
  - Beef Meatballs  
+ - Beef Fajita Meat  
  - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
   
@@ -159,6 +165,7 @@ In name:
  - Pizza Slice Chicken Sriracha  
  - Chicken Sausage Patties  
  - Jerk Chicken Sandwich  
+ - Chicken  
  - Diced Chicken  
   
 In description:   

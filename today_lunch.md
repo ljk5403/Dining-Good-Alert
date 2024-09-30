@@ -1,15 +1,10 @@
 # 2024-09-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-30 10:11:45  
+Updated at: 2024-09-30 13:14:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-30)  
-**BBQ Pork Sandwich**  
-In name:   
- - BBQ Pork Sandwich  
-  
-In description:   
-  
 **beef**  
 In name:   
+ - Barbacoa Beef w/Mango Habanero Sandwich  
  - Beef Taco Meat  
   
 In description:   
@@ -18,7 +13,6 @@ In description:
 **pork**  
 In name:   
  - Pizza Slice BBQ Pulled Pork  
- - BBQ Pork Sandwich  
  - Pork Carnita  
  - Italian Pork Sausage  
   
@@ -113,6 +107,7 @@ In description:
 In name:   
  - Beef Stew w/ Buttermilk Biscuit  
  - Beef Meatballs  
+ - Beef Fajita Meat  
  - Beef Taco Meat  
   
 In description:   
@@ -129,6 +124,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken  
  - Chicken Tinga  
  - Chicken Noodle Soup  
  - Diced Chicken  
@@ -142,6 +138,12 @@ In description:
 **watermelon**  
 In name:   
  - Watermelon Slices  
+  
+In description:   
+  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad  
   
 In description:   
   
@@ -229,6 +231,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Miso w/Yakisoba Noodles  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
@@ -239,6 +242,7 @@ In name:
  - Chicken Piccata  
   
 In description:   
+ - Pork Miso w/Yakisoba Noodles  
  - Great Greens  
   
   
