@@ -1,6 +1,6 @@
 # 2024-09-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-29 16:09:06  
+Updated at: 2024-09-29 19:53:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-29)  
 **Cod**  
 In name:   
@@ -66,6 +66,7 @@ In description:
   
 **pork**  
 In name:   
+ - Roasted Pork Loin  
  - Biscuits & Pork Gravy  
  - Pork Carnita  
   
