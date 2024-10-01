@@ -1,6 +1,6 @@
 # 2024-09-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-30 13:14:07  
+Updated at: 2024-09-30 16:10:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-09-30)  
 **beef**  
 In name:   
@@ -222,7 +222,7 @@ In description:
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-09-30)  
 **beef**  
 In name:   
- - Beef Broccoli Stir Fry  
+ - Beef & Chicken Meatballs  
  - Beef Sirloin Tips  
  - "Beef" Goulash (VN)  
   
@@ -238,8 +238,9 @@ In description:
   
 **chicken**  
 In name:   
+ - Beef & Chicken Meatballs  
  - Chicken Noodle Soup  
- - Chicken Piccata  
+ - Chicken Strawberry Balsamic  
   
 In description:   
  - Pork Miso w/Yakisoba Noodles  

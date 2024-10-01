@@ -1,6 +1,6 @@
 # 2024-09-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-09-30 13:14:09  
+Updated at: 2024-09-30 16:10:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-09-30)  
 **beef**  
 In name:   
@@ -102,7 +102,6 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Gordon's OrderIt  
  - Pizza Slice Philly Cheesesteak  
  - Vegan Taco Filling  
  - Cowboy Burger  
@@ -114,7 +113,6 @@ In name:
  - Pork Sausage Patties  
   
 In description:   
- - Gordon's OrderIt  
  - Chicken Sausage Gumbo  
   
 **chicken**  
@@ -125,7 +123,6 @@ In name:
  - Chicken Noodle Soup  
   
 In description:   
- - Gordon's OrderIt  
  - Beef Meatballs  
  - Great Greens  
   
@@ -133,6 +130,12 @@ In description:
 **watermelon**  
 In name:   
  - Watermelon Slices  
+  
+In description:   
+  
+**steak**  
+In name:   
+ - Island Spiced Beef Steak  
   
 In description:   
   
@@ -149,6 +152,12 @@ In name:
   
 In description:   
   
+**beef**  
+In name:   
+ - Island Spiced Beef Steak  
+  
+In description:   
+  
 **pork**  
 In name:   
  - Italian Pork Sausage  
@@ -158,8 +167,8 @@ In description:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Crispy Chicken Sandwich  
- - Irish Roast Chicken w/Leeks and Bacon  
  - Chicken Curry  
  - Chicken Noodle Soup  
   
