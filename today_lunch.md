@@ -1,6 +1,6 @@
 # 2024-10-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-01 10:11:05  
+Updated at: 2024-10-01 13:14:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-01)  
 **Tuna**  
 In name:   
@@ -112,25 +112,20 @@ In description:
   
 **Shrimp**  
 In name:   
- - Shrimp  
   
 In description:   
  - Global Curry Bowl  
   
 **fish**  
 In name:   
- - Fish Sauce  
   
 In description:   
  - Global Curry Bowl  
- - Sub - Sauce Masaman Thai Curry  
   
 **curry**  
 In name:   
  - Global Curry Bowl  
- - Sub - Base Curry Yellow  
- - Sub - Base Curry Red  
- - Sub - Sauce Masaman Thai Curry  
+ - Build Your Own Curry Bowl  
   
 In description:   
   
@@ -138,7 +133,6 @@ In description:
 In name:   
  - Texas BBQ Sliced Beef Brisket  
  - Beef Meatballs  
- - Beef Fajita Meat  
  - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
   
@@ -159,8 +153,6 @@ In name:
  - Pizza Slice Chicken Sriracha  
  - Chicken Sausage Patties  
  - Jerk Chicken Sandwich  
- - Chicken  
- - Diced Chicken  
   
 In description:   
  - Beef Meatballs  
@@ -195,6 +187,7 @@ In description:
 In name:   
  - Brazilian Chicken w/ Salsa Vinaigrette  
  - Italian Chicken  
+ - Lemon Pepper Chicken Salad  
  - Protein - Chicken Thinly Sliced  
   
 In description:   
@@ -213,7 +206,6 @@ In name:
  - Lamb & Beef Gyro Sandwich  
   
 In description:   
- - Pizza Slice Gyro  
   
 **curry**  
 In name:   
@@ -228,7 +220,7 @@ In name:
   
 In description:   
  - Pizza Slice Meat Lovers w/ Bacon  
- - Pizza Slice Gyro  
+ - Pepperoni Pizza Slice  
   
 **pork**  
 In name:   
@@ -246,6 +238,7 @@ In name:
   
 In description:   
  - Pizza Slice Meat Lovers w/ Bacon  
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-10-01)  
@@ -259,6 +252,7 @@ In description:
   
 **pork**  
 In name:   
+ - Stir Fry Vietnamese Pork w/rice (CN)  
  - Island Spiced Pork Loin wPineapple Salsa  
   
 In description:   

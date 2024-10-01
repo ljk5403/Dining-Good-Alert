@@ -1,6 +1,6 @@
 # 2024-10-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-01 10:11:07  
+Updated at: 2024-10-01 13:14:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-01)  
 **Tuna**  
 In name:   
@@ -19,6 +19,7 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Taco Meat  
  - Beef Meatballs  
  - Sliced BBQ Beef Brisket Sandwich  
  - Soup -  Chili Beef & Bean  
@@ -35,6 +36,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Gravy  
  - Plant Based Chicken Strips  
  - Chicken Korma  
  - Chicken Souvlaki  

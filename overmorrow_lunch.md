@@ -1,6 +1,6 @@
 # 2024-10-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-01 10:11:14  
+Updated at: 2024-10-01 13:14:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-03)  
 **Tuna**  
 In name:   
@@ -99,16 +99,9 @@ In name:
   
 In description:   
   
-**fish**  
-In name:   
- - Fish Sauce  
-  
-In description:   
-  
 **beef**  
 In name:   
  - Beef Meatballs  
- - Protein - Beef Thinly Sliced  
  - Beef Taco Meat  
   
 In description:   
@@ -130,10 +123,8 @@ In name:
  - Chicken Wings Bone-In Plain  
  - Plant-Based Chicken Nuggets (6)  
  - Giardiniera Chicken  
- - Protein - Chicken Thinly Sliced  
  - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
- - Diced Chicken  
   
 In description:   
  - Beef Meatballs  

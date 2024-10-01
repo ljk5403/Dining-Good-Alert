@@ -1,6 +1,6 @@
 # 2024-10-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-01 07:20:50  
+Updated at: 2024-10-01 10:11:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-01)  
 **Tuna**  
 In name:   
@@ -104,12 +104,6 @@ In description:
  - Station Recipe - Liz - Great Greens  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-10-01)  
-**corn bake**  
-In name:   
- - Sweet Corn Bake (Veg)  
-  
-In description:   
-  
 **steak**  
 In name:   
  - Spicy Steak Fajita  

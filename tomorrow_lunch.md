@@ -1,6 +1,6 @@
 # 2024-10-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-01 10:11:10  
+Updated at: 2024-10-01 13:14:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-02)  
 **beef**  
 In name:   
@@ -115,7 +115,6 @@ In name:
  - Sweet & Sour Chicken  
  - Plant Based Sweet & Sour Chicken  
  - Soup Chicken Tortilla  
- - Diced Chicken  
   
 In description:   
  - Beef Meatballs  
