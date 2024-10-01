@@ -1,6 +1,6 @@
 # 2024-10-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-01 13:14:19  
+Updated at: 2024-10-01 16:11:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-01)  
 **Tuna**  
 In name:   
@@ -138,6 +138,7 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice  
+ - Grilled Hamburger  
  - Global Curry Bowl  
  - Spicy Steak Fajita  
   
@@ -152,7 +153,6 @@ In name:
  - Mediterranean Chicken  
  - Pizza Slice Chicken Sriracha  
  - Chicken Sausage Patties  
- - Jerk Chicken Sandwich  
   
 In description:   
  - Beef Meatballs  
