@@ -1,6 +1,6 @@
 # 2024-10-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-02 10:11:20  
+Updated at: 2024-10-02 13:15:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-02)  
 **beef**  
 In name:   
@@ -23,6 +23,7 @@ In name:
  - Chicken Breast w/Balsamic BBQ Sauce  
  - Pizza Slice BBQ Chicken & Bacon  
  - Lemon Pepper Chicken Salad  
+ - Chicken Teriyaki Stir Fry  
  - Fajita Chicken  
  - Soup Chicken Tortilla  
   
@@ -156,6 +157,7 @@ In description:
 **chicken**  
 In name:   
  - Blackened Chicken  
+ - Lemon Pepper Chicken Salad  
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
  - Soup Chicken Tortilla  
