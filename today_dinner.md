@@ -1,6 +1,6 @@
 # 2024-10-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-01 16:11:03  
+Updated at: 2024-10-01 19:51:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-01)  
 **Tuna**  
 In name:   
@@ -19,7 +19,6 @@ In description:
   
 **beef**  
 In name:   
- - Beef Taco Meat  
  - Beef Meatballs  
  - Sliced BBQ Beef Brisket Sandwich  
  - Soup -  Chili Beef & Bean  
@@ -36,7 +35,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Gravy  
  - Plant Based Chicken Strips  
  - Chicken Korma  
  - Chicken Souvlaki  
@@ -110,7 +108,7 @@ In description:
   
 **Shrimp**  
 In name:   
- - Shrimp  
+ - Fried Popcorn Shrimp  
   
 In description:   
   
@@ -120,34 +118,17 @@ In name:
   
 In description:   
   
-**fish**  
-In name:   
- - Fish Sauce  
-  
-In description:   
- - Sub - Sauce Masaman Thai Curry  
-  
-**lamb**  
-In name:   
- - Lamb & Beef Gyro Sandwich  
-  
-In description:   
-  
 **curry**  
 In name:   
- - Sub - Base Curry Yellow  
- - Sub - Base Curry Red  
- - Sub - Sauce Masaman Thai Curry  
+ - Build Your Own Curry Bowl  
   
 In description:   
   
 **beef**  
 In name:   
  - Beef Meatballs  
- - Beef Fajita Meat  
  - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
- - Lamb & Beef Gyro Sandwich  
   
 In description:   
  - Pepperoni Pizza Slice  
@@ -155,16 +136,15 @@ In description:
   
 **pork**  
 In name:   
+ - BBQ Pork Chop  
  - Green Beans w/ Pork Bacon  
   
 In description:   
   
 **chicken**  
 In name:   
- - Chicken Drumstick BBQ Glazed  
  - Mediterranean Chicken  
  - Pizza Slice Chicken Sriracha  
- - Chicken  
  - Chicken Sausage Patties  
   
 In description:   
@@ -194,20 +174,15 @@ In name:
   
 In description:   
   
-**pork**  
-In name:   
- - Ancho Braised Pork  
-  
-In description:   
-  
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Italian Chicken  
+ - Diced Chicken  
  - Protein - Chicken Thinly Sliced  
   
 In description:   
  - Cracker Crusted Cod w/ Lemon Sauce  
- - Ancho Braised Pork  
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-10-01)  
@@ -275,6 +250,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Diced Chicken  
   
 In description:   
  - Great Greens  

@@ -1,6 +1,6 @@
 # 2024-10-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-01 16:11:06  
+Updated at: 2024-10-01 19:51:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-02)  
 **fish**  
 In name:   
@@ -234,6 +234,7 @@ In description:
 In name:   
  - Chicken Teriyaki Stir Fry  
  - Soup Chicken Tortilla  
+ - Diced Chicken  
  - Wisconsin Harvest Chicken Breast  
   
 In description:   
