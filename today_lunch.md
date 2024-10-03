@@ -1,6 +1,6 @@
 # 2024-10-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-03 10:11:17  
+Updated at: 2024-10-03 13:14:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-03)  
 **Tuna**  
 In name:   
@@ -93,15 +93,28 @@ In description:
  - Soup Cream of Potato w/ Bacon  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-10-03)  
+**clam**  
+In name:   
+ - Clam Strips  
+  
+In description:   
+  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
   
 In description:   
   
+**fish**  
+In name:   
+ - Fish Sauce  
+  
+In description:   
+  
 **beef**  
 In name:   
  - Beef Meatballs  
+ - Protein - Beef Thinly Sliced  
  - Beef Taco Meat  
   
 In description:   
@@ -123,6 +136,7 @@ In name:
  - Chicken Wings Bone-In Plain  
  - Plant-Based Chicken Nuggets (6)  
  - Giardiniera Chicken  
+ - Protein - Chicken Thinly Sliced  
  - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
   
@@ -164,6 +178,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Taco Chicken  
  - Chicken Dumpling Soup  
  - Protein - Chicken Thinly Sliced  

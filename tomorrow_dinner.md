@@ -1,6 +1,6 @@
 # 2024-10-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-03 10:11:23  
+Updated at: 2024-10-03 13:14:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-04)  
 **steak**  
 In name:   
@@ -128,6 +128,7 @@ In description:
 In name:   
  - Coconut Tofu w/Red Curry Sauce  
  - Beef Bombay Curry  
+ - Indian Curry Potatoes  
   
 In description:   
   
