@@ -1,6 +1,6 @@
 # 2024-10-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-02 13:15:19  
+Updated at: 2024-10-02 19:51:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-02)  
 **fish**  
 In name:   
@@ -76,17 +76,10 @@ In name:
 In description:   
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-10-02)  
-**Cod**  
-In name:   
- - Miso Cod  
-  
-In description:   
-  
 **fish**  
 In name:   
   
 In description:   
- - Miso Cod  
  - Tempura Roll (FujiSan)  
  - California Roll  (FujiSan)  
   
@@ -100,6 +93,7 @@ In description:
   
 **pork**  
 In name:   
+ - Island Spiced Pork w/ Pineapple Salsa  
  - Italian Pork Sausage  
  - Pork Carnita  
   
@@ -161,6 +155,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Chicken Drumstick Teriyaki Glazed  
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
