@@ -1,18 +1,22 @@
-# 2024-10-02 lunch  
+# 2024-10-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-02 19:51:38  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-02)  
+Updated at: 2024-10-02 19:51:43  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-02)  
+**fish**  
+In name:   
+  
+In description:   
+ - Filipino Barbecue - Pork  
+  
 **beef**  
 In name:   
- - Beef Taco Meat  
   
 In description:   
  - Italian Meat Sauce  
   
 **pork**  
 In name:   
- - BBQ Pork Chop  
- - Pork Carnita  
+ - Filipino Barbecue - Pork  
  - Italian Pork Sausage  
   
 In description:   
@@ -20,17 +24,16 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Breast w/Balsamic BBQ Sauce  
+ - Blackened Chicken with Orange Sauce  
  - Pizza Slice BBQ Chicken & Bacon  
  - Lemon Pepper Chicken Salad  
- - Chicken Teriyaki Stir Fry  
- - Fajita Chicken  
+ - Chicken Mole w/ Rice  
  - Soup Chicken Tortilla  
   
 In description:   
  - Great Greens  
   
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-10-02)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-10-02)  
 **watermelon**  
 In name:   
  - Melon Watermelon Whole Sliced  
@@ -43,53 +46,42 @@ In name:
   
 In description:   
   
-**fish**  
-In name:   
-  
-In description:   
- - Thai BBQ Pork Ribs  
-  
 **curry**  
 In name:   
  - Indian Curry Potatoes  
   
 In description:   
- - Pakora Sauce  
   
 **beef**  
 In name:   
- - Beef Vindaloo  
   
 In description:   
+ - Kielbasa with Pierogis  
  - Station Recipe - Liz - Deli  AYCTE  
   
 **pork**  
 In name:   
- - Thai BBQ Pork Ribs  
   
 In description:   
+ - Kielbasa with Pierogis  
  - Station Recipe - Liz - Deli  AYCTE  
   
 **chicken**  
 In name:   
- - Chicken Biryani  
+ - Chicken Drumstick BBQ Glazed  
+ - Plant-Based Chicken Tenders  
+ - Tandoori Chicken  
  - Soup Chicken Tortilla  
   
 In description:   
   
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-10-02)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
-In description:   
-  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-10-02)  
 **fish**  
 In name:   
   
 In description:   
- - California Roll  (FujiSan)  
  - Tempura Roll (FujiSan)  
+ - California Roll  (FujiSan)  
   
 **beef**  
 In name:   
@@ -109,36 +101,43 @@ In description:
   
 **chicken**  
 In name:   
- - Broasted Chicken 2 pc  
- - Chicken Gravy  
+ - Chicken Pot Pie w/Biscuit  
  - Flatbread Pizza BBQ Chicken  
  - Lemon Pepper Chicken Salad  
- - Sweet & Sour Chicken  
- - Plant Based Sweet & Sour Chicken  
+ - Sesame Chicken  
+ - Plant Based Sesame Chicken (AYCTE) (VN)  
  - Soup Chicken Tortilla  
+ - Chicken Tenders Breaded  
+ - Plant-Based Chicken Nuggets (6)  
   
 In description:   
  - Beef Meatballs  
  - Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-10-02)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-10-02)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
   
 In description:   
   
-**catfish**  
+**BBQ Pork Sandwich**  
 In name:   
- - Panfried Southern Catfish  
+ - BBQ Pork Sandwich  
+  
+In description:   
+  
+**Salmon**  
+In name:   
+ - Grilled Sesame Ginger Salmon  
   
 In description:   
   
 **fish**  
 In name:   
- - Panfried Southern Catfish  
   
 In description:   
+ - Grilled Sesame Ginger Salmon  
   
 **beef**  
 In name:   
@@ -150,14 +149,14 @@ In description:
   
 **pork**  
 In name:   
+ - BBQ Pork Sandwich  
   
 In description:   
- - Grilled Ham & Swiss Sandwich  
   
 **chicken**  
 In name:   
- - Blackened Chicken  
  - Lemon Pepper Chicken Salad  
+ - Chicken Drumstick Teriyaki Glazed  
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
  - Soup Chicken Tortilla  
@@ -167,10 +166,28 @@ In description:
  - Beef Meatballs  
  - Station Recipe - Great Greens - FLM  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2024-10-02)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-10-02)  
+**fish**  
+In name:   
+ - Fish Sauce  
+  
+In description:   
+ - Coconut Thai Curry Mahi Mahi  
+  
+**curry**  
+In name:   
+ - Coconut Thai Curry Mahi Mahi  
+  
+In description:   
+  
+**beef**  
+In name:   
+ - Sliced Beef  
+  
+In description:   
+  
 **pork**  
 In name:   
- - Pork Chop Adobo (1)  
   
 In description:   
  - Pizza Slice Sausage  
@@ -179,35 +196,43 @@ In description:
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
+ - Chicken Pot Pie w/Biscuit  
+ - Plant-Based Chicken & Gravy (VN)  
  - Soup Chicken Tortilla  
- - Chicken Sausage Patty  
- - Crispy Chicken Sandwich  
+ - Sliced Chicken  
   
 In description:   
  - Great Greens  
   
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-10-02)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2024-10-02)  
+**curry**  
+In name:   
+ - Thai Veggie Meatballs w/ Green Curry  
+  
+In description:   
+ - Citrus Couscous  
+  
 **beef**  
 In name:   
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
- - Thin Crust Tavern Style Pepperoni Pizza  
   
 **pork**  
 In name:   
+ - Boneless Baked Pork Ham  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
   
 **chicken**  
 In name:   
- - General Tso's Chicken  
+ - Chicken Teriyaki Stir Fry  
  - Soup Chicken Tortilla  
- - Breaded Chicken Parmigiana  
+ - Diced Chicken  
+ - Wisconsin Harvest Chicken Breast  
   
 In description:   
  - Great Greens  
- - Thin Crust Tavern Style Pepperoni Pizza  
   
   
