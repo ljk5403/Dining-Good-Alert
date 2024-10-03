@@ -1,6 +1,6 @@
 # 2024-10-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-03 13:14:20  
+Updated at: 2024-10-03 16:09:52  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-03)  
 **Tuna**  
 In name:   
@@ -242,6 +242,12 @@ In name:
   
 In description:   
   
+**curry**  
+In name:   
+  
+In description:   
+ - Chicken Tikka Masala  
+  
 **beef**  
 In name:   
   
@@ -260,7 +266,7 @@ In description:
 **chicken**  
 In name:   
  - Chicken Dumpling Soup  
- - Blackened Chicken  
+ - Chicken Tikka Masala  
   
 In description:   
  - Great Greens  

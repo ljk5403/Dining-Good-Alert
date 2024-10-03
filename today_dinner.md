@@ -1,6 +1,6 @@
 # 2024-10-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-03 13:14:22  
+Updated at: 2024-10-03 16:09:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-03)  
 **Cod**  
 In name:   
@@ -148,7 +148,7 @@ In description:
   
 **beef**  
 In name:   
- - 1849 BBQ Beef Brisket Sliders  
+ - BBQ Beef Brisket Platter  
  - Beef Taco Meat  
  - Protein - Beef Thinly Sliced  
   
@@ -166,6 +166,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Taco Chicken  
  - Chicken Dumpling Soup  
  - Protein - Chicken Thinly Sliced  
