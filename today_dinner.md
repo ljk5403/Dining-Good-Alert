@@ -1,6 +1,6 @@
 # 2024-10-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-04 13:14:17  
+Updated at: 2024-10-04 16:09:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-04)  
 **steak**  
 In name:   
@@ -40,7 +40,6 @@ In name:
  - Spicy Citrus Pork w/Black Beans & Rice  
   
 In description:   
- - Chorizo Sauce  
  - Pizza Slice Sausage  
  - Pizza Slice Meat Lovers w/ Bacon  
  - Soup Clam Chowder  
@@ -55,7 +54,6 @@ In name:
   
 In description:   
  - Spicy Citrus Pork w/Black Beans & Rice  
- - Chorizo Sauce  
  - Pizza Slice Meat Lovers w/ Bacon  
  - Great Greens  
   
@@ -105,6 +103,12 @@ In name:
   
 In description:   
   
+**steak**  
+In name:   
+ - Beef Steak Tandoori Braised (CN)  
+  
+In description:   
+  
 **clam**  
 In name:   
  - Soup Clam Chowder  
@@ -127,7 +131,6 @@ In description:
 **curry**  
 In name:   
  - Coconut Tofu w/Red Curry Sauce  
- - Beef Bombay Curry  
  - Indian Curry Potatoes  
   
 In description:   
@@ -135,7 +138,7 @@ In description:
 **beef**  
 In name:   
  - Beef Meatballs  
- - Beef Bombay Curry  
+ - Beef Steak Tandoori Braised (CN)  
  - Beef Barbacoa  
  - Beef Taco Meat  
   
