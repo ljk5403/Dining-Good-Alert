@@ -1,6 +1,6 @@
 # 2024-10-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-04 10:11:17  
+Updated at: 2024-10-04 13:14:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-04)  
 **Chicken Drumstick Gochujang Glazed**  
 In name:   
@@ -148,7 +148,6 @@ In name:
  - Indian Vegetable Curry  
  - Coconut Tofu w/Red Curry Sauce  
  - Beef Bombay Curry  
- - Indian Curry Potatoes  
   
 In description:   
   
@@ -266,9 +265,11 @@ In description:
   
 **curry**  
 In name:   
+ - Vegan Curry Stew  
   
 In description:   
  - Chana Saag w/ Tofu  
+ - Chicken Tikka Masala  
   
 **beef**  
 In name:   
@@ -286,6 +287,8 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Stir Fry  
+ - Chicken Tikka Masala  
   
 In description:   
  - Great Greens  
