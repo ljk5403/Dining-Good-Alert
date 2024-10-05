@@ -1,6 +1,6 @@
 # 2024-10-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-04 16:09:57  
+Updated at: 2024-10-04 19:51:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-04)  
 **steak**  
 In name:   
@@ -128,6 +128,18 @@ In name:
 In description:   
  - Soup Clam Chowder  
   
+**catfish**  
+In name:   
+ - Blackened Catfish  
+  
+In description:   
+  
+**fish**  
+In name:   
+ - Blackened Catfish  
+  
+In description:   
+  
 **curry**  
 In name:   
  - Coconut Tofu w/Red Curry Sauce  
@@ -148,7 +160,6 @@ In description:
 **pork**  
 In name:   
  - French Market Pork Jambalaya  
- - Coffee Crusted Pork Loin  
   
 In description:   
  - Pizza Slice Hawaiian  
