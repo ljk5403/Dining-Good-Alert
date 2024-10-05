@@ -1,6 +1,6 @@
 # 2024-10-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-05 10:10:24  
+Updated at: 2024-10-05 13:12:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-05)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-10-05)  
 **watermelon**  
@@ -33,6 +33,12 @@ In description:
 **Tilapia**  
 In name:   
  - Tilapia Veracruz  
+  
+In description:   
+  
+**curry**  
+In name:   
+ - Thai Veggie Meatballs w/ Green Curry  
   
 In description:   
   

@@ -1,6 +1,6 @@
 # 2024-10-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-05 13:12:44  
+Updated at: 2024-10-05 16:08:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-06)  
 **steak**  
 In name:   
@@ -83,6 +83,7 @@ In name:
  - Giardiniera Chicken  
  - Grilled Chicken Sandwich  
  - Lemon Chicken Rice Soup  
+ - Diced Chicken  
   
 In description:   
  - Beef Meatballs  
