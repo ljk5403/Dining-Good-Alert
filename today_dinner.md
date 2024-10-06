@@ -1,6 +1,6 @@
 # 2024-10-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-06 13:12:48  
+Updated at: 2024-10-06 16:09:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-06)  
 **Tuna**  
 In name:   
@@ -46,7 +46,6 @@ In description:
   
 **beef**  
 In name:   
- - Beef Tortellini and Sauce  
  - Beef Meatballs  
  - Beef Taco Meat  
   
@@ -78,6 +77,12 @@ In name:
   
 In description:   
   
+**Cod**  
+In name:   
+ - Baked Cod Fillet w/Butter & Lemon  
+  
+In description:   
+  
 **curry**  
 In name:   
  - Beef Bombay Curry  
@@ -102,7 +107,6 @@ In description:
 **chicken**  
 In name:   
  - Crispy Chicken Sandwich  
- - Chicken Piece Seasoned Baked  
  - Chicken Gravy  
  - Lemon Chicken Rice Soup  
   
