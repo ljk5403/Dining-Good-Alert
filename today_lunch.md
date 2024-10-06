@@ -1,6 +1,6 @@
 # 2024-10-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-06 10:10:22  
+Updated at: 2024-10-06 13:12:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-06)  
 **steak**  
 In name:   
@@ -106,7 +106,6 @@ In description:
   
 **pork**  
 In name:   
- - Quiche Pork Sausage & Cheddar  
  - Pork Sausage Links  
  - Pork Carnita  
   
@@ -129,11 +128,25 @@ In name:
   
 In description:   
   
+**Salmon**  
+In name:   
+ - Island Spiced Salmon  
+  
+In description:   
+  
 **fish**  
 In name:   
   
 In description:   
+ - Island Spiced Salmon  
  - Shrimp & Krab Salad  
+ - Curried Pumpkin Soup  
+  
+**curry**  
+In name:   
+  
+In description:   
+ - Curried Pumpkin Soup  
   
 **beef**  
 In name:   
@@ -153,10 +166,8 @@ In description:
   
 **chicken**  
 In name:   
- - Jamaican Jerk Chicken  
  - Chicken Gravy  
  - Pizza Slice BBQ Chicken & Bacon  
- - Lemon Chicken Rice Soup  
  - Chicken Biscuit w/ Sausage Gravy  
   
 In description:   
