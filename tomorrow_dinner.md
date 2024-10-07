@@ -1,6 +1,6 @@
 # 2024-10-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-07 13:14:31  
+Updated at: 2024-10-07 16:10:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-08)  
 **Tuna**  
 In name:   
@@ -208,6 +208,7 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
   
 In description:   
@@ -223,6 +224,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Tinga  
  - Chicken Grilled Cordon Bleu (Pork)  
   
 In description:   
