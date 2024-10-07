@@ -1,6 +1,6 @@
 # 2024-10-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-06 16:09:24  
+Updated at: 2024-10-06 19:53:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-06)  
 **Tuna**  
 In name:   
@@ -54,7 +54,7 @@ In description:
   
 **pork**  
 In name:   
- - Pork Loin Apricot Glazed  
+ - French Market Pork Jambalaya  
  - Pork Carnita  
   
 In description:   
@@ -64,8 +64,10 @@ In description:
 In name:   
  - Giardiniera Chicken  
  - Lemon Chicken Rice Soup  
+ - Breaded Chicken Tenders  
   
 In description:   
+ - French Market Pork Jambalaya  
  - Beef Meatballs  
  - Pepperoni Pizza Slice  
  - Great Greens  
