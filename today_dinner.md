@@ -1,6 +1,6 @@
 # 2024-10-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-07 10:11:50  
+Updated at: 2024-10-07 13:14:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-07)  
 **beef**  
 In name:   
@@ -97,7 +97,6 @@ In description:
 In name:   
  - Traditional Beef Shepard's Pie  
  - Beef Meatballs  
- - Beef Fajita Meat  
  - Beef Taco Meat  
   
 In description:   
@@ -116,7 +115,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken  
  - Chicken Tinga  
  - Chicken Noodle Soup  
   
@@ -245,9 +243,7 @@ In description:
 **chicken**  
 In name:   
  - Taco Chicken  
- - Chicken Tinga  
  - Chicken Noodle Soup  
- - Diced Chicken  
  - Sweet & Spicy Orange Chicken  
   
 In description:   

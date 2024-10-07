@@ -1,6 +1,6 @@
 # 2024-10-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-07 10:11:55  
+Updated at: 2024-10-07 13:14:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-09)  
 **Cod**  
 In name:   
@@ -118,15 +118,8 @@ In name:
   
 In description:   
   
-**Shrimp**  
-In name:   
- - Shrimp  
-  
-In description:   
-  
 **fish**  
 In name:   
- - Seafood Crawfish Etouffee  
   
 In description:   
  - Tempura Roll (FujiSan)  
@@ -145,7 +138,6 @@ In description:
 In name:   
  - Roasted Pork Loin  
  - Italian Pork Sausage  
- - Andouille Pork Sausage  
  - Pork Carnita  
   
 In description:   
@@ -155,12 +147,10 @@ In name:
  - Plant-Based Chicken & Gravy (VN)  
  - Chicken Bacon Ranch Pizza Slice  
  - Lemon Pepper Chicken Salad  
- - Diced Chicken  
  - Soup Chicken Tortilla  
   
 In description:   
  - Beef Meatballs  
- - Seafood Crawfish Etouffee  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-10-09)  

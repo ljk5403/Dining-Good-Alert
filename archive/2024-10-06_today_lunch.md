@@ -1,6 +1,6 @@
 # 2024-10-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-07 07:21:00  
+Updated at: 2024-10-07 10:11:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-07)  
 **Shrimp**  
 In name:   
@@ -104,6 +104,7 @@ In name:
  - Beef Taco Meat  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Pizza Slice - Bacon Cheeseburger  
  - Grilled Cheeseburger  
  - Vegan Taco Filling  
@@ -124,6 +125,7 @@ In name:
   
 In description:   
  - Beef Meatballs  
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-10-07)  
@@ -205,7 +207,7 @@ In description:
 **chicken**  
 In name:   
  - Spicy Lo Mein w/Chicken  
- - Chicken Noodle Soup  
+ - Soup Lemony Chicken with Rice  
  - Chicken Sausage Patty  
   
 In description:   

@@ -1,6 +1,6 @@
 # 2024-10-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-07 10:11:53  
+Updated at: 2024-10-07 13:14:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-08)  
 **Tuna**  
 In name:   
@@ -102,7 +102,6 @@ In description:
 **beef**  
 In name:   
  - Beef Meatballs  
- - Mediterranean Beef  
  - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
   
@@ -120,7 +119,6 @@ In description:
 In name:   
  - Jamaican Jerk Chicken  
  - Chicken Mediterranean (AYCTE)  
- - Mediterranean Chicken  
  - Chicken Sausage Patties  
  - Chicken Cordon Bleu Sandwich (Pork)  
   
@@ -210,7 +208,6 @@ In description:
   
 **beef**  
 In name:   
- - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
   
 In description:   
@@ -226,7 +223,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Tinga  
  - Chicken Grilled Cordon Bleu (Pork)  
   
 In description:   

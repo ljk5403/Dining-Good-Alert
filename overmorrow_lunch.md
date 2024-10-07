@@ -1,6 +1,6 @@
 # 2024-10-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-07 10:11:54  
+Updated at: 2024-10-07 13:14:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-09)  
 **beef**  
 In name:   
@@ -110,7 +110,6 @@ In name:
  - Sesame Chicken  
  - Plant Based Sesame Chicken (AYCTE) (VN)  
  - Soup Chicken Tortilla  
- - Diced Chicken  
   
 In description:   
  - Beef Meatballs  

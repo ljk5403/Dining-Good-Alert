@@ -1,6 +1,6 @@
 # 2024-10-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-07 10:11:51  
+Updated at: 2024-10-07 13:14:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-08)  
 **Tuna**  
 In name:   
@@ -103,7 +103,6 @@ In description:
 In name:   
  - Beef Gravy  
  - Beef Meatballs  
- - Mediterranean Beef  
  - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
   
@@ -122,7 +121,6 @@ In description:
 In name:   
  - Mediterranean Chicken  
  - Chicken Sausage Patties  
- - Diced Chicken  
   
 In description:   
  - Beef Meatballs  
