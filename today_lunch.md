@@ -1,6 +1,6 @@
 # 2024-10-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-08 07:20:24  
+Updated at: 2024-10-08 10:11:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-08)  
 **Tuna**  
 In name:   
@@ -109,6 +109,7 @@ In name:
 In description:   
  - Brazilian Flank Steak  
  - Southwest Burger  
+ - Build Your Own Grain Bar  
  - Spicy Steak Fajita  
   
 **pork**  
@@ -124,6 +125,7 @@ In name:
   
 In description:   
  - Beef Meatballs  
+ - Build Your Own Grain Bar  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-10-08)  
@@ -136,6 +138,12 @@ In description:
 **Poke Bar**  
 In name:   
  - Build Your Own Poke Bar  
+  
+In description:   
+  
+**Tuna**  
+In name:   
+ - Tuna Salad  
   
 In description:   
   

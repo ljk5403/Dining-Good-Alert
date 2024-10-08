@@ -1,6 +1,6 @@
 # 2024-10-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-08 07:20:29  
+Updated at: 2024-10-08 10:11:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-08)  
 **Tuna**  
 In name:   
@@ -106,6 +106,7 @@ In name:
  - Soup -  Chili Beef & Bean  
   
 In description:   
+ - Build Your Own Grain Bar  
  - Spicy Steak Fajita  
   
 **pork**  
@@ -124,6 +125,7 @@ In name:
   
 In description:   
  - Beef Meatballs  
+ - Build Your Own Grain Bar  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-10-08)  
