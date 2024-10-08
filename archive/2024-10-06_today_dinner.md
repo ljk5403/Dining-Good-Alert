@@ -1,6 +1,6 @@
 # 2024-10-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-07 13:14:29  
+Updated at: 2024-10-07 16:10:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-07)  
 **beef**  
 In name:   
@@ -75,11 +75,12 @@ In name:
   
 In description:   
   
-**Shrimp**  
+**Cod**  
 In name:   
+ - Fried Cod Basket  
+ - Basket Vegan Cod Beer Battered  
   
 In description:   
- - Kimchee Reuben Sandwich  
   
 **Tuna**  
 In name:   
@@ -91,7 +92,7 @@ In description:
 In name:   
   
 In description:   
- - Kimchee Reuben Sandwich  
+ - Basket Vegan Cod Beer Battered  
   
 **beef**  
 In name:   
@@ -103,7 +104,6 @@ In description:
  - Gordon's OrderIt  
  - Pizza Slice - Bacon Cheeseburger  
  - Vegan Taco Filling  
- - Kimchee Reuben Sandwich  
   
 **pork**  
 In name:   
@@ -127,6 +127,12 @@ In description:
 **watermelon**  
 In name:   
  - Watermelon Slices  
+  
+In description:   
+  
+**Tuna**  
+In name:   
+ - Tuna Salad  
   
 In description:   
   
@@ -243,6 +249,7 @@ In description:
 **chicken**  
 In name:   
  - Taco Chicken  
+ - Chicken Tinga  
  - Chicken Noodle Soup  
  - Sweet & Spicy Orange Chicken  
   

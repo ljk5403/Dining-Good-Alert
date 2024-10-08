@@ -1,6 +1,6 @@
 # 2024-10-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-07 16:10:29  
+Updated at: 2024-10-07 19:51:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-07)  
 **beef**  
 In name:   
@@ -75,9 +75,14 @@ In name:
   
 In description:   
   
+**Shrimp**  
+In name:   
+ - Redhook Ale Breaded Shrimp  
+  
+In description:   
+  
 **Cod**  
 In name:   
- - Fried Cod Basket  
  - Basket Vegan Cod Beer Battered  
   
 In description:   
@@ -150,12 +155,19 @@ In description:
  - Coconut Thai Curry Mahi Mahi  
  - California Roll  (FujiSan)  
   
+**lamb**  
+In name:   
+ - Lamb Vindaloo  
+  
+In description:   
+  
 **curry**  
 In name:   
  - Black Eyed Pea Curry w/ Rice  
  - Coconut Thai Curry Mahi Mahi  
   
 In description:   
+ - Lamb Vindaloo  
   
 **beef**  
 In name:   
