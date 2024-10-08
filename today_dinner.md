@@ -1,6 +1,6 @@
 # 2024-10-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-07 19:51:40  
+Updated at: 2024-10-07 22:18:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-07)  
 **beef**  
 In name:   
@@ -102,6 +102,7 @@ In description:
 **beef**  
 In name:   
  - Traditional Beef Shepard's Pie  
+ - Beef Meatloaf  
  - Beef Meatballs  
  - Beef Taco Meat  
   

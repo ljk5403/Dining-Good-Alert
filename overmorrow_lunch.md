@@ -1,6 +1,6 @@
 # 2024-10-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-07 19:51:54  
+Updated at: 2024-10-07 22:19:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-09)  
 **beef**  
 In name:   
@@ -210,12 +210,6 @@ In description:
  - Great Greens  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-10-09)  
-**Tilapia**  
-In name:   
- - Baked Tilapia w/Dill Wine Sauce  
-  
-In description:   
-  
 **beef**  
 In name:   
  - Beef Taco Meat  
