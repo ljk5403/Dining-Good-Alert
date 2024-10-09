@@ -1,6 +1,6 @@
 # 2024-10-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-09 10:10:30  
+Updated at: 2024-10-09 13:13:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-09)  
 **beef**  
 In name:   
@@ -128,6 +128,12 @@ In name:
   
 In description:   
   
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
+In description:   
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
@@ -168,23 +174,17 @@ In description:
  - Build Your Own Carson's Korean Bulgogi  
  - Kimchee  
   
-**Salmon**  
-In name:   
- - Ginger Glazed Salmon  
-  
-In description:   
-  
 **fish**  
 In name:   
   
 In description:   
- - Ginger Glazed Salmon  
  - Shrimp & Krab Salad  
  - Build Your Own Carson's Korean Bulgogi  
  - Kimchee  
   
 **beef**  
 In name:   
+ - Beef Tortellini and Sauce  
  - Sub - Korean Beef  
   
 In description:   
