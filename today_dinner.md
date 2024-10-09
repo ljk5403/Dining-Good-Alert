@@ -1,6 +1,6 @@
 # 2024-10-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-09 13:13:42  
+Updated at: 2024-10-09 16:09:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-09)  
 **Cod**  
 In name:   
@@ -164,6 +164,12 @@ In description:
 **Poke Bar**  
 In name:   
  - Build Your Own Poke Bar  
+  
+In description:   
+  
+**Tuna**  
+In name:   
+ - Tuna Salad  
   
 In description:   
   
