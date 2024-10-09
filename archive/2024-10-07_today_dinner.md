@@ -1,6 +1,6 @@
 # 2024-10-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-08 13:14:28  
+Updated at: 2024-10-08 16:10:34  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-08)  
 **Tuna**  
 In name:   
@@ -99,19 +99,32 @@ In name:
   
 In description:   
   
+**Shrimp**  
+In name:   
+  
+In description:   
+ - Kimchee Reuben Sandwich  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Kimchee Reuben Sandwich  
+  
 **beef**  
 In name:   
  - Beef Meatballs  
+ - Beef Fajita Meat  
  - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
   
 In description:   
  - Build Your Own Grain Bar  
  - Spicy Steak Fajita  
+ - Kimchee Reuben Sandwich  
   
 **pork**  
 In name:   
- - Chicken Cordon Bleu Sandwich (Pork)  
   
 In description:   
  - Pizza Slice Sausage  
@@ -120,8 +133,8 @@ In description:
 In name:   
  - Jamaican Jerk Chicken  
  - Chicken Mediterranean (AYCTE)  
+ - Chicken  
  - Chicken Sausage Patties  
- - Chicken Cordon Bleu Sandwich (Pork)  
   
 In description:   
  - Beef Meatballs  

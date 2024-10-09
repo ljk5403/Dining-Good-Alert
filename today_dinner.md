@@ -1,6 +1,6 @@
 # 2024-10-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-08 16:10:34  
+Updated at: 2024-10-08 19:51:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-08)  
 **Tuna**  
 In name:   
@@ -111,6 +111,12 @@ In name:
 In description:   
  - Kimchee Reuben Sandwich  
   
+**curry**  
+In name:   
+  
+In description:   
+ - Chicken Tikka Masala  
+  
 **beef**  
 In name:   
  - Beef Meatballs  
@@ -131,7 +137,7 @@ In description:
   
 **chicken**  
 In name:   
- - Jamaican Jerk Chicken  
+ - Chicken Tikka Masala  
  - Chicken Mediterranean (AYCTE)  
  - Chicken  
  - Chicken Sausage Patties  
@@ -163,15 +169,8 @@ In name:
 In description:   
  - Burnt Ends  
   
-**pork**  
-In name:   
- - Pork Carnita  
-  
-In description:   
-  
 **chicken**  
 In name:   
- - Italian Chicken  
  - Greek Chicken  
  - Chicken Gravy  
   
