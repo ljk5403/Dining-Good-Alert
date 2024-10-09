@@ -1,6 +1,6 @@
 # 2024-10-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-08 19:51:36  
+Updated at: 2024-10-08 22:17:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-10)  
 **Tuna**  
 In name:   
@@ -23,7 +23,7 @@ In description:
   
 **beef**  
 In name:   
- - Beef Meatballs  
+ - Beef & Chicken Meatballs  
   
 In description:   
  - Burnt Ends  
@@ -42,12 +42,12 @@ In description:
 **chicken**  
 In name:   
  - Chicken Drumstick BBQ Glazed  
+ - Beef & Chicken Meatballs  
  - Plant Based Chicken Strips  
  - Chicken Mediterranean (AYCTE)  
  - Chicken Dumpling Soup  
   
 In description:   
- - Beef Meatballs  
  - Chorizo Sauce  
  - Pepperoni Pizza Slice  
  - Great Greens  
@@ -107,7 +107,7 @@ In description:
   
 **beef**  
 In name:   
- - Beef Meatballs  
+ - Beef & Chicken Meatballs  
  - Mediterranean Beef  
  - Beef Taco Meat  
   
@@ -128,12 +128,12 @@ In description:
 **chicken**  
 In name:   
  - Blackened Chicken  
+ - Beef & Chicken Meatballs  
  - Mediterranean Chicken  
  - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
   
 In description:   
- - Beef Meatballs  
  - Pizza Slice Sausage & Pepperoni  
  - Great Greens  
  - Soup Cream of Potato w/ Bacon  

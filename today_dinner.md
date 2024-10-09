@@ -1,6 +1,6 @@
 # 2024-10-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-08 19:51:25  
+Updated at: 2024-10-08 22:16:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-08)  
 **Tuna**  
 In name:   
@@ -23,7 +23,7 @@ In description:
 **beef**  
 In name:   
  - Sub - Korean Beef Top 9 Free  
- - Beef Meatballs  
+ - Beef & Chicken Meatballs  
  - Soup -  Chili Beef & Bean  
   
 In description:   
@@ -39,11 +39,11 @@ In description:
 **chicken**  
 In name:   
  - Sub - Korean Chicken Top 9 Free  
+ - Beef & Chicken Meatballs  
  - Plant Based Chicken Strips  
  - Tandoori Chicken  
   
 In description:   
- - Beef Meatballs  
  - Pepperoni Pizza Slice  
  - Baked Corn Dog  
  - Great Greens  
@@ -119,7 +119,7 @@ In description:
   
 **beef**  
 In name:   
- - Beef Meatballs  
+ - Beef & Chicken Meatballs  
  - Beef Fajita Meat  
  - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
@@ -138,12 +138,12 @@ In description:
 **chicken**  
 In name:   
  - Chicken Tikka Masala  
+ - Beef & Chicken Meatballs  
  - Chicken Mediterranean (AYCTE)  
  - Chicken  
  - Chicken Sausage Patties  
   
 In description:   
- - Beef Meatballs  
  - Build Your Own Grain Bar  
  - Great Greens  
   
@@ -163,16 +163,23 @@ In description:
 **beef**  
 In name:   
  - Big Texan Beef Sandwich (Half)  
- - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
   
 In description:   
  - Burnt Ends  
   
+**pork**  
+In name:   
+ - Jerk Pork Chop  
+ - Pork Carnita  
+  
+In description:   
+ - Andouille Sausage  
+  
 **chicken**  
 In name:   
- - Greek Chicken  
  - Chicken Gravy  
+ - Chicken Fajita  
   
 In description:   
  - Station Recipe - Great Greens - FLM  

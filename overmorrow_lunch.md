@@ -1,6 +1,6 @@
 # 2024-10-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-08 19:51:34  
+Updated at: 2024-10-08 22:17:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-10)  
 **Cod**  
 In name:   
@@ -22,7 +22,7 @@ In description:
   
 **beef**  
 In name:   
- - Beef Meatballs  
+ - Beef & Chicken Meatballs  
   
 In description:   
  - Pepperoni Pizza Slice  
@@ -40,13 +40,13 @@ In description:
 **chicken**  
 In name:   
  - Chicken Dumpling Soup  
+ - Beef & Chicken Meatballs  
  - Plant Based Chicken Strips  
   
 In description:   
  - Pepperoni Pizza Slice  
  - Great Greens  
  - Soup Cream of Potato w/ Bacon  
- - Beef Meatballs  
  - Chorizo Sauce  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-10-10)  
@@ -94,7 +94,7 @@ In description:
 **beef**  
 In name:   
  - Beef Chili w/ Beans  
- - Beef Meatballs  
+ - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
 In description:   
@@ -112,13 +112,13 @@ In description:
   
 **chicken**  
 In name:   
+ - Beef & Chicken Meatballs  
  - Mediterranean Chicken  
  - Chicken Bruschetta Sandwich  
  - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
   
 In description:   
- - Beef Meatballs  
  - Pizza Slice Sausage & Pepperoni  
  - Great Greens  
  - Soup Cream of Potato w/ Bacon  

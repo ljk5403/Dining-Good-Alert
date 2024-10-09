@@ -1,6 +1,6 @@
 # 2024-10-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-08 19:51:31  
+Updated at: 2024-10-08 22:16:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-09)  
 **Cod**  
 In name:   
@@ -126,7 +126,7 @@ In description:
   
 **beef**  
 In name:   
- - Beef Meatballs  
+ - Beef & Chicken Meatballs  
  - Beef Taco Meat  
  - Beef French Dip Sandwich  
   
@@ -145,12 +145,13 @@ In description:
 **chicken**  
 In name:   
  - Plant-Based Chicken & Gravy (VN)  
+ - Beef & Chicken Meatballs  
  - Chicken Bacon Ranch Pizza Slice  
  - Lemon Pepper Chicken Salad  
+ - Sweet & Sour Chicken  
  - Soup Chicken Tortilla  
   
 In description:   
- - Beef Meatballs  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-10-09)  
@@ -168,7 +169,7 @@ In description:
   
 **beef**  
 In name:   
- - Beef Meatballs  
+ - Beef & Chicken Meatballs  
   
 In description:   
  - Blackened Hamburger  
@@ -176,12 +177,12 @@ In description:
   
 **chicken**  
 In name:   
+ - Beef & Chicken Meatballs  
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
  - Soup Chicken Tortilla  
   
 In description:   
- - Beef Meatballs  
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-10-09)  

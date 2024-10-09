@@ -1,6 +1,6 @@
 # 2024-10-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-08 19:51:22  
+Updated at: 2024-10-08 22:16:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-08)  
 **Tuna**  
 In name:   
@@ -19,7 +19,7 @@ In description:
 In name:   
  - Beef Bombay Curry  
  - Soup -  Chili Beef & Bean  
- - Beef Meatballs  
+ - Beef & Chicken Meatballs  
   
 In description:   
  - Pepperoni Pizza Slice  
@@ -29,12 +29,12 @@ In name:
  - Chicken Biryani  
  - Chicken Parmesan Sandwich  
  - Tandoori Chicken  
+ - Beef & Chicken Meatballs  
  - Plant Based Chicken Strips  
   
 In description:   
  - Pepperoni Pizza Slice  
  - Great Greens  
- - Beef Meatballs  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-10-08)  
 **watermelon**  
@@ -102,7 +102,7 @@ In description:
 **beef**  
 In name:   
  - Beef Gravy  
- - Beef Meatballs  
+ - Beef & Chicken Meatballs  
  - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
   
@@ -121,10 +121,10 @@ In description:
 **chicken**  
 In name:   
  - Mediterranean Chicken  
+ - Beef & Chicken Meatballs  
  - Chicken Sausage Patties  
   
 In description:   
- - Beef Meatballs  
  - Build Your Own Grain Bar  
  - Great Greens  
   
