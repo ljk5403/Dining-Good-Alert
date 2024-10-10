@@ -1,6 +1,6 @@
 # 2024-10-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-10 10:11:15  
+Updated at: 2024-10-10 13:14:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-10)  
 **Cod**  
 In name:   
@@ -93,7 +93,6 @@ In description:
   
 **beef**  
 In name:   
- - Beef Chili w/ Beans  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
