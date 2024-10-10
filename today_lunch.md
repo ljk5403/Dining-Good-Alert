@@ -1,6 +1,6 @@
 # 2024-10-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-10 07:20:07  
+Updated at: 2024-10-10 10:11:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-10)  
 **Cod**  
 In name:   
@@ -113,7 +113,7 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
- - Mediterranean Chicken  
+ - Giardiniera Chicken  
  - Chicken Bruschetta Sandwich  
  - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
