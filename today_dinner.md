@@ -1,13 +1,7 @@
 # 2024-10-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-11 07:20:05  
+Updated at: 2024-10-11 10:10:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-11)  
-**steak**  
-In name:   
- - Pizza Slice Philly Cheesesteak  
-  
-In description:   
-  
 **clam**  
 In name:   
  - Soup Clam Chowder  
@@ -32,7 +26,6 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Pizza Slice Philly Cheesesteak  
   
 **pork**  
 In name:   
