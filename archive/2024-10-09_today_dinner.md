@@ -1,6 +1,6 @@
 # 2024-10-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-10 16:10:54  
+Updated at: 2024-10-10 19:51:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-10)  
 **Tuna**  
 In name:   
@@ -144,9 +144,15 @@ In name:
   
 In description:   
   
-**Poke Bar**  
+**Shrimp**  
 In name:   
- - Build Your Own Poke Bar  
+ - Steamed Shrimp  
+  
+In description:   
+  
+**Tuna**  
+In name:   
+ - Tuna  
   
 In description:   
   
