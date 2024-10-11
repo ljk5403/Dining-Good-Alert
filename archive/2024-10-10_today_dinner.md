@@ -1,6 +1,6 @@
 # 2024-10-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-11 10:10:58  
+Updated at: 2024-10-11 13:14:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-11)  
 **clam**  
 In name:   
@@ -112,6 +112,12 @@ In name:
  - Vegan Fish Sandwich  
   
 In description:   
+  
+**curry**  
+In name:   
+  
+In description:   
+ - Tofu & Vegetable Tikka Masala  
   
 **beef**  
 In name:   

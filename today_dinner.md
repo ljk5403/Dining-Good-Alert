@@ -1,6 +1,6 @@
 # 2024-10-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-11 13:14:06  
+Updated at: 2024-10-11 16:16:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-11)  
 **clam**  
 In name:   
@@ -201,7 +201,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Coq Au Vin Blanc w/Bacon  
+ - Baked Chicken (2 piece)  
   
 In description:   
  - Station Recipe - Great Greens - FLM  
@@ -219,12 +219,6 @@ In name:
   
 In description:   
  - Soup Clam Chowder  
-  
-**fish**  
-In name:   
- - Cajun Fish Tacos  
-  
-In description:   
   
 **beef**  
 In name:   
