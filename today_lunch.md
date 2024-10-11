@@ -1,6 +1,6 @@
 # 2024-10-11 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-11 10:10:55  
+Updated at: 2024-10-11 13:14:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-11)  
 **clam**  
 In name:   
@@ -137,6 +137,7 @@ In name:
  - Mixed Vegetable Curry  
   
 In description:   
+ - Tofu & Vegetable Tikka Masala  
   
 **beef**  
 In name:   
@@ -161,6 +162,7 @@ In name:
  - Beef & Chicken Meatballs  
  - Chicken Sausage Patties  
  - Tikka Masala Chicken  
+ - Diced Chicken  
   
 In description:   
  - Pepperoni Pizza Slice  
