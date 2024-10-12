@@ -1,6 +1,6 @@
 # 2024-10-11 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-11 13:14:01  
+Updated at: 2024-10-11 16:16:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-11)  
 **clam**  
 In name:   
@@ -221,7 +221,7 @@ In description:
   
 **pork**  
 In name:   
- - Smoked Pulled Pork Sandwich  
+ - Pork Loin Spicy Greenbush  
   
 In description:   
  - Soup Clam Chowder  
