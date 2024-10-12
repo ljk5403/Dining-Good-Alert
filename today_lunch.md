@@ -1,6 +1,6 @@
 # 2024-10-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-12 13:12:45  
+Updated at: 2024-10-12 16:11:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-12)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-10-12)  
 **watermelon**  
@@ -62,22 +62,16 @@ In name:
   
 In description:   
   
-**steak**  
-In name:   
- - Philly Cheesesteak Sandwich  
-  
-In description:   
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
 In description:   
- - Philly Cheesesteak Sandwich  
   
 **chicken**  
 In name:   
+ - Crispy Chicken Sandwich  
  - Beef & Chicken Meatballs  
  - Fajita Chicken  
  - Soup Cream of Chicken & Wild Rice  
