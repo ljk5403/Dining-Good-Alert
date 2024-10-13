@@ -1,6 +1,6 @@
 # 2024-10-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-12 16:11:37  
+Updated at: 2024-10-12 19:55:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-14)  
 **beef**  
 In name:   
@@ -102,6 +102,7 @@ In name:
  - Pizza Slice Mediterranean Chicken  
  - Chicken Tinga  
  - Chicken Noodle Soup  
+ - Diced Chicken  
   
 In description:   
  - Gordon's OrderIt  

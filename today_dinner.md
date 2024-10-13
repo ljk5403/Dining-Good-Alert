@@ -1,6 +1,6 @@
 # 2024-10-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-12 16:11:30  
+Updated at: 2024-10-12 19:55:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-12)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-10-12)  
 **watermelon**  
@@ -29,6 +29,12 @@ In name:
 In description:   
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-10-12)  
+**Tilapia**  
+In name:   
+ - Island Spiced Tilapia  
+  
+In description:   
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
@@ -49,11 +55,11 @@ In description:
   
 **chicken**  
 In name:   
- - Cajun Chicken Pasta  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
- - Soup Cream of Chicken & Wild Rice  
+ - Chicken Noodle Soup  
+ - Diced Chicken  
   
 In description:   
  - Pepperoni Pizza Slice  
