@@ -1,6 +1,6 @@
 # 2024-10-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-13 10:10:32  
+Updated at: 2024-10-13 13:13:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-13)  
 **Tuna**  
 In name:   
@@ -51,7 +51,7 @@ In description:
  - Pork Feijoada  
  - Plant-Based Pepper Steak Stir Fry  
  - Pepperoni Pizza Slice  
- - Fired Up Burger  
+ - Grilled Cheeseburger  
   
 **pork**  
 In name:   
