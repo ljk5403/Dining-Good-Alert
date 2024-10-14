@@ -1,6 +1,6 @@
 # 2024-10-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-14 10:11:22  
+Updated at: 2024-10-14 13:14:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-14)  
 **beef**  
 In name:   
@@ -147,21 +147,11 @@ In name:
 In description:   
  - California Roll  (FujiSan)  
  - Tempura Roll (FujiSan)  
- - Sub - Sauce Masaman Thai Curry  
-  
-**curry**  
-In name:   
- - Sub - Base Curry Red  
- - Green Curry Sauce  
- - Sub - Sauce Masaman Thai Curry  
-  
-In description:   
   
 **beef**  
 In name:   
  - Beef Stroganoff Creamy  
  - Beef Taco Meat  
- - Beef Fajita Meat  
   
 In description:   
  - Pork Bratwurst Sandwich  
@@ -178,7 +168,6 @@ In name:
  - Chicken Drumstick BBQ Glazed  
  - Chicken Tinga  
  - Chicken Noodle Soup  
- - Boneless Skinless Chicken Thigh  
   
 In description:   
  - Station Recipe - Great Greens - FLM  
@@ -214,7 +203,7 @@ In description:
 **chicken**  
 In name:   
  - Chicken Tinga & Scallion Quesadilla  
- - Chicken Noodle Soup  
+ - Lemon Chicken Rice Soup  
  - Chicken Sausage Patty  
   
 In description:   
@@ -225,6 +214,7 @@ In description:
 **Cod**  
 In name:   
  - Fried Cod Basket  
+ - Lemon Pepper Cod Fillet  
   
 In description:   
   
@@ -247,6 +237,7 @@ In description:
 In name:   
  - Mediterranean Chicken  
  - Chicken Noodle Soup  
+ - Braised Chicken Legs W/ Tomato Split Pea  
   
 In description:   
  - BYO Mediterranean Sandwich  

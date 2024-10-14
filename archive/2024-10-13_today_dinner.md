@@ -1,6 +1,6 @@
 # 2024-10-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-14 07:20:55  
+Updated at: 2024-10-14 10:11:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-14)  
 **beef**  
 In name:   
@@ -142,12 +142,10 @@ In name:
  - Italian Pork Sausage  
   
 In description:   
- - Hot Ham Sandwich  
   
 **chicken**  
 In name:   
  - Grilled Chicken Sandwich  
- - Chicken Drumstick BBQ Glazed  
  - Chicken Tinga  
  - Chicken Noodle Soup  
  - Boneless Skinless Chicken Thigh  
