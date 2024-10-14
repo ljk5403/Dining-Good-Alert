@@ -1,6 +1,6 @@
 # 2024-10-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-13 13:13:16  
+Updated at: 2024-10-13 16:10:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-13)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -113,11 +113,11 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Hot Dog  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
 In description:   
- - Grilled Cheeseburger  
   
 **pork**  
 In name:   
