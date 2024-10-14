@@ -1,6 +1,6 @@
 # 2024-10-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-13 19:53:37  
+Updated at: 2024-10-13 22:20:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-13)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -81,7 +81,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Pot Pie w/Biscuit  
+ - Chicken Drumstick BBQ Glazed  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Lemon Chicken Rice Soup  
@@ -119,10 +119,10 @@ In description:
 **beef**  
 In name:   
  - Beef Hot Dog  
+ - Beef Meatballs  
  - Beef Taco Meat  
   
 In description:   
- - Sliced Kielbasa  
   
 **pork**  
 In name:   
@@ -130,13 +130,13 @@ In name:
  - Pork Carnita  
   
 In description:   
- - Sliced Kielbasa  
   
 **chicken**  
 In name:   
  - Lemon Chicken Rice Soup  
   
 In description:   
+ - Beef Meatballs  
  - French Market Pork Jambalaya  
  - Station Recipe - Great Greens - FLM  
   

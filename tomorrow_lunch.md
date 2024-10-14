@@ -1,6 +1,6 @@
 # 2024-10-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-13 19:53:39  
+Updated at: 2024-10-13 22:20:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-14)  
 **beef**  
 In name:   
@@ -145,6 +145,8 @@ In description:
 In name:   
   
 In description:   
+ - California Roll  (FujiSan)  
+ - Tempura Roll (FujiSan)  
  - Sub - Sauce Masaman Thai Curry  
   
 **curry**  
@@ -173,6 +175,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Drumstick BBQ Glazed  
  - Chicken Tinga  
  - Chicken Noodle Soup  
  - Boneless Skinless Chicken Thigh  

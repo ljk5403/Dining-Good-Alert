@@ -1,6 +1,6 @@
 # 2024-10-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-13 16:10:31  
+Updated at: 2024-10-13 19:53:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-13)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -58,6 +58,12 @@ In name:
   
 In description:   
   
+**Cod**  
+In name:   
+ - Lemon Pepper Cod Fillet  
+  
+In description:   
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
@@ -68,7 +74,6 @@ In description:
   
 **pork**  
 In name:   
- - Boneless Baked Pork Ham  
  - Pork Carnita  
   
 In description:   
@@ -114,10 +119,10 @@ In description:
 **beef**  
 In name:   
  - Beef Hot Dog  
- - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
 In description:   
+ - Sliced Kielbasa  
   
 **pork**  
 In name:   
@@ -125,10 +130,10 @@ In name:
  - Pork Carnita  
   
 In description:   
+ - Sliced Kielbasa  
   
 **chicken**  
 In name:   
- - Beef & Chicken Meatballs  
  - Lemon Chicken Rice Soup  
   
 In description:   
