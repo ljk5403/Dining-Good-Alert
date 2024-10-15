@@ -1,6 +1,6 @@
 # 2024-10-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-15 13:14:38  
+Updated at: 2024-10-15 16:10:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-17)  
 **Chicken Drummies**  
 In name:   
@@ -150,7 +150,6 @@ In name:
  - Giardiniera Chicken  
  - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
- - Diced Chicken  
   
 In description:   
  - Pizza Slice Deluxe  
@@ -164,17 +163,9 @@ In name:
   
 In description:   
   
-**fish**  
-In name:   
-  
-In description:   
- - Sub - Sauce Masaman Thai Curry  
-  
 **curry**  
 In name:   
- - Sub - Base Curry Red  
- - Green Curry Sauce  
- - Sub - Sauce Masaman Thai Curry  
+ - Build Your Own Curry Bowl - Four Lakes  
   
 In description:   
   
@@ -182,7 +173,6 @@ In description:
 In name:   
  - Beef Tri Tip Carved w/ Chimichurri  
  - Beef Taco Meat  
- - Beef Fajita Meat  
   
 In description:   
  - Grilled Cheeseburger  
@@ -200,7 +190,6 @@ In description:
 In name:   
  - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
- - Boneless Skinless Chicken Thigh  
   
 In description:   
  - Apple Cider Braised Pork  

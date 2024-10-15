@@ -1,6 +1,6 @@
 # 2024-10-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-15 13:14:36  
+Updated at: 2024-10-15 16:10:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-17)  
 **Tuna**  
 In name:   
@@ -117,7 +117,6 @@ In name:
  - Giardiniera Chicken  
  - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
- - Diced Chicken  
   
 In description:   
  - Pizza Slice Deluxe  
@@ -131,17 +130,9 @@ In name:
   
 In description:   
   
-**fish**  
-In name:   
-  
-In description:   
- - Sub - Sauce Masaman Thai Curry  
-  
 **curry**  
 In name:   
- - Sub - Base Curry Red  
- - Green Curry Sauce  
- - Sub - Sauce Masaman Thai Curry  
+ - Build Your Own Curry Bowl - Four Lakes  
   
 In description:   
   
@@ -149,7 +140,6 @@ In description:
 In name:   
  - Italian Beef Sandwich  
  - Beef Taco Meat  
- - Beef Fajita Meat  
   
 In description:   
  - Reuben  
@@ -168,7 +158,6 @@ In name:
  - Plant-Based Chicken Tenders  
  - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
- - Boneless Skinless Chicken Thigh  
   
 In description:   
  - Station Recipe - Great Greens - FLM  

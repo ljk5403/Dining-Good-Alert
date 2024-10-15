@@ -1,6 +1,6 @@
 # 2024-10-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-15 13:14:34  
+Updated at: 2024-10-15 16:10:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-16)  
 **beef**  
 In name:   
@@ -122,7 +122,6 @@ In name:
  - Lemon Pepper Chicken Salad  
  - General Tso's Chicken  
  - Soup Chicken Tortilla  
- - Diced Chicken  
   
 In description:   
  - Pepperoni Pizza Slice  
@@ -147,14 +146,11 @@ In name:
   
 In description:   
  - Masala Spiced Salmon  
- - Sub - Sauce Masaman Thai Curry  
   
 **curry**  
 In name:   
  - Vegan Curry Stew  
- - Sub - Base Curry Red  
- - Green Curry Sauce  
- - Sub - Sauce Masaman Thai Curry  
+ - Build Your Own Curry Bowl - Four Lakes  
   
 In description:   
   
@@ -162,7 +158,6 @@ In description:
 In name:   
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
- - Beef Fajita Meat  
   
 In description:   
  - Italian Meat Sauce  
@@ -174,7 +169,6 @@ In name:
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
  - Soup Chicken Tortilla  
- - Boneless Skinless Chicken Thigh  
   
 In description:   
  - Station Recipe - Great Greens - FLM  
