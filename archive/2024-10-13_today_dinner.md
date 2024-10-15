@@ -1,6 +1,6 @@
 # 2024-10-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-14 13:14:20  
+Updated at: 2024-10-14 16:10:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-14)  
 **beef**  
 In name:   
@@ -23,6 +23,7 @@ In description:
 In name:   
  - Chicken Drumstick BBQ Glazed  
  - Lemon Pepper Chicken Salad  
+ - Chicken Teriyaki Stir Fry  
  - Chicken Noodle Soup  
   
 In description:   
@@ -69,6 +70,12 @@ In name:
   
 In description:   
   
+**squid**  
+In name:   
+  
+In description:   
+ - Fried Calamari  
+  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
@@ -89,7 +96,6 @@ In description:
   
 **pork**  
 In name:   
- - Herb Crusted Pork Loin  
  - Italian Pork Sausage  
  - Pork Sausage Patties  
   

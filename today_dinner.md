@@ -1,6 +1,6 @@
 # 2024-10-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-14 16:10:00  
+Updated at: 2024-10-14 19:52:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-14)  
 **beef**  
 In name:   
@@ -126,20 +126,11 @@ In name:
   
 In description:   
  - Tempura Roll (FujiSan)  
- - Sub - Sauce Masaman Thai Curry  
-  
-**curry**  
-In name:   
- - Sub - Base Curry Red  
- - Green Curry Sauce  
- - Sub - Sauce Masaman Thai Curry  
-  
-In description:   
   
 **beef**  
 In name:   
+ - Beef Hot Dog  
  - Beef Taco Meat  
- - Beef Fajita Meat  
   
 In description:   
   
@@ -151,10 +142,8 @@ In description:
   
 **chicken**  
 In name:   
- - Grilled Chicken Sandwich  
  - Chicken Tinga  
  - Chicken Noodle Soup  
- - Boneless Skinless Chicken Thigh  
   
 In description:   
  - Station Recipe - Great Greens - FLM  
