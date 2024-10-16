@@ -1,6 +1,6 @@
 # 2024-10-15 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-15 13:14:30  
+Updated at: 2024-10-15 16:10:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-15)  
 **Tuna**  
 In name:   
@@ -131,7 +131,7 @@ In description:
 In name:   
  - Beef Sirloin Tips  
  - Beef & Chicken Meatballs  
- - Beef Bulgogi Bao Bun  
+ - Sub - Beef Korean BBQ (Bulgogi]  
  - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
   
@@ -152,7 +152,6 @@ In name:
  - Beef & Chicken Meatballs  
  - Mediterranean Chicken  
  - Chicken Sausage Patties  
- - Diced Chicken  
   
 In description:   
  - Great Greens  
@@ -164,17 +163,9 @@ In name:
   
 In description:   
   
-**fish**  
-In name:   
-  
-In description:   
- - Sub - Sauce Masaman Thai Curry  
-  
 **curry**  
 In name:   
- - Sub - Base Curry Red  
- - Green Curry Sauce  
- - Sub - Sauce Masaman Thai Curry  
+ - Build Your Own Curry Bowl - Four Lakes  
   
 In description:   
  - Vegetable & Tofu Madras w/Basmati Rice  
@@ -183,7 +174,6 @@ In description:
 In name:   
  - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
- - Beef Fajita Meat  
   
 In description:   
  - Grilled Cheeseburger  
@@ -198,7 +188,6 @@ In description:
 **chicken**  
 In name:   
  - Italian Chicken  
- - Boneless Skinless Chicken Thigh  
   
 In description:   
  - Ancho Braised Pork  

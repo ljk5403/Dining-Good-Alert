@@ -1,6 +1,6 @@
 # 2024-10-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-15 16:10:18  
+Updated at: 2024-10-15 19:52:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-17)  
 **Chicken Drummies**  
 In name:   
@@ -250,6 +250,7 @@ In description:
 In name:   
  - Mediterranean Chicken  
  - Chicken Dumpling Soup  
+ - Diced Chicken  
  - Chicken Sausage Patty  
   
 In description:   

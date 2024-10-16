@@ -1,6 +1,6 @@
 # 2024-10-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-15 13:14:32  
+Updated at: 2024-10-15 16:10:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-15)  
 **Cod**  
 In name:   
@@ -103,7 +103,7 @@ In name:
  - Corned Beef  
  - Beef Gravy  
  - Beef & Chicken Meatballs  
- - Beef Bulgogi Bao Bun  
+ - Sub - Beef Korean BBQ (Bulgogi]  
  - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
   
@@ -122,7 +122,6 @@ In name:
  - Montreal Chicken  
  - Beef & Chicken Meatballs  
  - Mediterranean Chicken  
- - Diced Chicken  
  - Chicken Sausage Patties  
  - Crispy Chicken Sandwich  
   
@@ -136,12 +135,6 @@ In name:
   
 In description:   
   
-**fish**  
-In name:   
-  
-In description:   
- - Sub - Sauce Masaman Thai Curry  
-  
 **lamb**  
 In name:   
  - Smoked Leg of Lamb  
@@ -150,9 +143,7 @@ In description:
   
 **curry**  
 In name:   
- - Sub - Base Curry Red  
- - Green Curry Sauce  
- - Sub - Sauce Masaman Thai Curry  
+ - Build Your Own Curry Bowl - Four Lakes  
   
 In description:   
   
@@ -161,7 +152,6 @@ In name:
  - Beef & Tater Tot Bake  
  - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
- - Beef Fajita Meat  
   
 In description:   
   
@@ -174,7 +164,6 @@ In description:
 **chicken**  
 In name:   
  - Italian Chicken  
- - Boneless Skinless Chicken Thigh  
   
 In description:   
  - Ancho Braised Pork  
