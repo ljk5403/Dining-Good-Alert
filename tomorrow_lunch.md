@@ -1,6 +1,6 @@
 # 2024-10-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-17 10:10:22  
+Updated at: 2024-10-17 13:13:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-18)  
 **clam**  
 In name:   
@@ -140,7 +140,6 @@ In name:
  - Chicken Tenders Breaded  
  - Plant-Based Chicken Nuggets (6)  
  - Butter Chicken  
- - Diced Chicken  
   
 In description:   
  - Great Greens  

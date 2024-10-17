@@ -1,6 +1,6 @@
 # 2024-10-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-17 10:10:20  
+Updated at: 2024-10-17 13:13:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-17)  
 **Tuna**  
 In name:   
@@ -84,6 +84,12 @@ In description:
  - Soup Cream of Potato w/ Bacon  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-10-17)  
+**steak**  
+In name:   
+ - Country Fried Steak  
+  
+In description:   
+  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
@@ -96,6 +102,7 @@ In name:
  - Beef Taco Meat  
   
 In description:   
+ - Country Fried Steak  
  - Pizza Slice Deluxe  
  - Mushroom Swiss Burger  
  - Soup Cream of Potato w/ Bacon  
@@ -112,12 +119,10 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Baked  (1 piece)  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
- - Diced Chicken  
   
 In description:   
  - Pizza Slice Deluxe  
@@ -181,7 +186,6 @@ In description:
 In name:   
   
 In description:   
- - Pizza Slice Cheeseburger  
  - Soup Cream of Potato w/ Bacon  
   
 **pork**  
