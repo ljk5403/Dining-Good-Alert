@@ -1,6 +1,6 @@
 # 2024-10-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-16 19:52:02  
+Updated at: 2024-10-16 22:17:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-17)  
 **Tuna**  
 In name:   
@@ -191,7 +191,7 @@ In name:
 In description:   
  - Soup Cream of Potato w/ Bacon  
  - Ham Steak  
- - ZZSand Artisan Flatbrea Ham & Swiss10/24  
+ - Sand Artisan Flatbrea Ham & Swiss  
   
 **chicken**  
 In name:   

@@ -1,6 +1,6 @@
 # 2024-10-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-16 19:52:07  
+Updated at: 2024-10-16 22:17:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-17)  
 **Chicken Drummies**  
 In name:   
@@ -42,7 +42,7 @@ In description:
   
 **chicken**  
 In name:   
- - Bourbon Chicken  
+ - Maple Cider Chicken  
  - Beef & Chicken Meatballs  
  - Plant Based Chicken Strips  
  - Pizza Slice Chicken Broccoli Alfredo  

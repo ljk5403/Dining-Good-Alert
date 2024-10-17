@@ -1,6 +1,6 @@
 # 2024-10-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-16 16:10:37  
+Updated at: 2024-10-16 19:51:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-16)  
 **beef**  
 In name:   
@@ -96,7 +96,6 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Beef Taco Meat  
   
 In description:   
  - Italian Meat Sauce  
@@ -119,6 +118,7 @@ In name:
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Plant Based Sweet & Sour Chicken  
+ - Chicken Tinga  
  - Soup Chicken Tortilla  
   
 In description:   
