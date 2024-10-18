@@ -1,6 +1,6 @@
 # 2024-10-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-17 19:52:03  
+Updated at: 2024-10-17 22:18:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-18)  
 **clam**  
 In name:   
@@ -127,6 +127,7 @@ In name:
  - Indian Curry Garbanzo Beans  
   
 In description:   
+ - Navarathan Korma w/ Basmati Rice  
   
 **beef**  
 In name:   
@@ -184,6 +185,13 @@ In name:
   
 In description:   
  - California Roll  (FujiSan)  
+ - Build Your Own Curry Bowl  
+  
+**curry**  
+In name:   
+ - Build Your Own Curry Bowl  
+  
+In description:   
   
 **beef**  
 In name:   
@@ -192,9 +200,11 @@ In name:
 In description:   
  - Chicago-Style Hot Dog  
  - Vegan Taco Filling  
+ - Build Your Own Curry Bowl  
   
 **pork**  
 In name:   
+ - Italian Pork Sausage  
   
 In description:   
  - Soup Clam Chowder  
@@ -204,6 +214,7 @@ In name:
   
 In description:   
  - Station Recipe - Great Greens - FLM  
+ - Build Your Own Curry Bowl  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-10-18)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2024-10-18)  

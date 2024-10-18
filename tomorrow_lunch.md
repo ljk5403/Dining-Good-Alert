@@ -1,6 +1,6 @@
 # 2024-10-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-17 19:52:01  
+Updated at: 2024-10-17 22:18:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-18)  
 **clam**  
 In name:   
@@ -177,6 +177,13 @@ In description:
  - Vietnamese Pork with Rice  
  - Miso Cod  
  - California Roll  (FujiSan)  
+ - Build Your Own Curry Bowl  
+  
+**curry**  
+In name:   
+ - Build Your Own Curry Bowl  
+  
+In description:   
   
 **beef**  
 In name:   
@@ -184,10 +191,12 @@ In name:
   
 In description:   
  - Vegan Taco Filling  
+ - Build Your Own Curry Bowl  
   
 **pork**  
 In name:   
  - Vietnamese Pork with Rice  
+ - Italian Pork Sausage  
   
 In description:   
  - Soup Clam Chowder  
@@ -198,6 +207,7 @@ In name:
   
 In description:   
  - Station Recipe - Great Greens - FLM  
+ - Build Your Own Curry Bowl  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2024-10-18)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-10-18)  
