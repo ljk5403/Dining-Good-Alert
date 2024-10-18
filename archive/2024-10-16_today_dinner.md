@@ -1,6 +1,6 @@
 # 2024-10-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-17 13:13:38  
+Updated at: 2024-10-17 16:10:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-17)  
 **Chicken Drummies**  
 In name:   
@@ -188,7 +188,7 @@ In description:
   
 **chicken**  
 In name:   
- - Spicy Fajita Chicken  
+ - Taco Chicken  
  - Chicken Dumpling Soup  
   
 In description:   
@@ -250,6 +250,7 @@ In description:
 In name:   
  - Mediterranean Chicken  
  - Chicken Dumpling Soup  
+ - Diced Chicken  
  - Chicken Sausage Patty  
   
 In description:   
