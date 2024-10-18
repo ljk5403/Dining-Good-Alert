@@ -1,6 +1,6 @@
 # 2024-10-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-18 07:20:03  
+Updated at: 2024-10-18 10:11:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-18)  
 **clam**  
 In name:   
@@ -97,18 +97,6 @@ In name:
 In description:   
  - Soup Clam Chowder  
   
-**lamb**  
-In name:   
-  
-In description:   
- - Pizza Slice Gyro  
-  
-**goat**  
-In name:   
- - Mushroom Spinach Goat Cheese FB Pizza  
-  
-In description:   
-  
 **curry**  
 In name:   
  - Indian Curry Garbanzo Beans  
@@ -124,13 +112,14 @@ In name:
   
 In description:   
  - Burnt Ends  
- - Pizza Slice Gyro  
+ - Pepperoni Pizza Slice  
  - Vegan Taco Filling  
   
 **pork**  
 In name:   
   
 In description:   
+ - Pizza Slice Sausage  
  - Soup Clam Chowder  
   
 **chicken**  
@@ -142,6 +131,7 @@ In name:
  - Butter Chicken  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-10-18)  
