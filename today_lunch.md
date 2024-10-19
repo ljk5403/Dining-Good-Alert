@@ -1,6 +1,6 @@
 # 2024-10-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-19 13:13:05  
+Updated at: 2024-10-19 16:10:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-19)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-10-19)  
 **watermelon**  
@@ -32,10 +32,15 @@ In name:
 In description:   
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-10-19)  
+**BBQ Pork Sandwich**  
+In name:   
+ - BBQ Pork Sandwich  
+  
+In description:   
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - BBQ Beef Brisket Sandwich  
  - Beef Taco Meat  
   
 In description:   
@@ -45,6 +50,7 @@ In description:
 In name:   
  - Italian Pork Sausage  
  - Pork Sausage Patties  
+ - BBQ Pork Sandwich  
   
 In description:   
  - Pizza Slice Sausage  

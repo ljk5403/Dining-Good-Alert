@@ -1,6 +1,6 @@
 # 2024-10-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-19 13:13:06  
+Updated at: 2024-10-19 16:10:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-19)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-10-19)  
 **watermelon**  
@@ -23,6 +23,12 @@ In name:
 In description:   
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-10-19)  
+**curry**  
+In name:   
+ - Vegan Curry Stew  
+  
+In description:   
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
