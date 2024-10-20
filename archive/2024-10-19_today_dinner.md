@@ -1,6 +1,6 @@
 # 2024-10-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-20 10:09:32  
+Updated at: 2024-10-20 13:13:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-20)  
 **Tuna**  
 In name:   
@@ -11,6 +11,12 @@ In description:
 **lamb**  
 In name:   
  - Lamb & Beef Gyro Sandwich  
+  
+In description:   
+  
+**curry**  
+In name:   
+ - Soup Coconut Curry Cauliflower  
   
 In description:   
   
@@ -37,7 +43,6 @@ In name:
  - Sweet & Sour Chicken  
  - Plant Based Sweet & Sour Chicken  
  - Fajita Chicken  
- - Lemon Chicken Rice Soup  
   
 In description:   
  - Pepperoni Pizza Slice  
@@ -59,6 +64,7 @@ In name:
 In description:   
  - Italian Meat Sauce  
  - Pepperoni Pizza Slice  
+ - Soup Italian Wedding  
   
 **pork**  
 In name:   
@@ -72,11 +78,12 @@ In name:
  - Chicken Vera Cruz  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
- - Lemon Chicken Rice Soup  
+ - Diced Chicken  
   
 In description:   
  - Pepperoni Pizza Slice  
  - Great Greens  
+ - Soup Italian Wedding  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-10-20)  
 **watermelon**  
