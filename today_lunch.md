@@ -1,6 +1,6 @@
 # 2024-10-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-20 07:19:40  
+Updated at: 2024-10-20 10:09:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-20)  
 **steak**  
 In name:   
@@ -63,6 +63,7 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice  
+ - Soup Italian Wedding  
   
 **pork**  
 In name:   
@@ -77,11 +78,12 @@ In name:
  - Chicken Grilled Cordon Bleu (Pork)  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
- - Lemon Chicken Rice Soup  
+ - Diced Chicken  
   
 In description:   
  - Pepperoni Pizza Slice  
  - Great Greens  
+ - Soup Italian Wedding  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-10-20)  
 **watermelon**  
