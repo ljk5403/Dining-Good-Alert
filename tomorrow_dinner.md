@@ -1,6 +1,6 @@
 # 2024-10-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-20 10:09:36  
+Updated at: 2024-10-20 13:13:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-21)  
 **beef**  
 In name:   
@@ -125,6 +125,7 @@ In name:
  - Chicken  
  - Chicken Tinga  
  - Chicken Noodle Soup  
+ - Diced Chicken  
   
 In description:   
  - Gordon's OrderIt  

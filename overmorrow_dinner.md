@@ -1,6 +1,6 @@
 # 2024-10-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-20 10:09:40  
+Updated at: 2024-10-20 13:13:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-22)  
 **Tuna**  
 In name:   
@@ -154,6 +154,7 @@ In description:
 In name:   
  - Mediterranean Chicken  
  - Beef & Chicken Meatballs  
+ - Diced Chicken  
  - Chicken Sausage Patties  
   
 In description:   

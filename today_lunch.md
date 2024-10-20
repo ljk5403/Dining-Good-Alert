@@ -1,6 +1,6 @@
 # 2024-10-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-20 10:09:30  
+Updated at: 2024-10-20 13:13:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-20)  
 **steak**  
 In name:   
@@ -18,6 +18,7 @@ In description:
 In name:   
  - Squash Curry  
  - Curry Squash  
+ - Soup Coconut Curry Cauliflower  
   
 In description:   
   
@@ -41,7 +42,6 @@ In description:
 In name:   
  - Honey Mustard Chicken & Vegetables  
  - Fajita Chicken  
- - Lemon Chicken Rice Soup  
   
 In description:   
  - Pepperoni Pizza Slice  
@@ -144,6 +144,7 @@ In description:
 In name:   
  - Pizza Slice BBQ Chicken & Bacon  
  - Dan Dan w/ Chicken  
+ - Chicken Noodle Soup  
  - Chicken Biscuit w/ Sausage Gravy  
   
 In description:   
