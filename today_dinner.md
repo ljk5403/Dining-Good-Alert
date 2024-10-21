@@ -1,6 +1,6 @@
 # 2024-10-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-20 19:54:03  
+Updated at: 2024-10-20 22:20:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-20)  
 **Tuna**  
 In name:   
@@ -108,16 +108,11 @@ In name:
 In description:   
  - Rosemary Cabernet Flank Steak  
   
-**pork**  
-In name:   
- - Pork Carnita  
-  
-In description:   
-  
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
  - Chicken Pot Pie w/Biscuit  
+ - Diced Chicken  
  - Lemon Chicken Rice Soup  
   
 In description:   
