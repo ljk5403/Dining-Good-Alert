@@ -1,6 +1,6 @@
 # 2024-10-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-21 13:14:50  
+Updated at: 2024-10-21 16:10:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-21)  
 **beef**  
 In name:   
@@ -112,6 +112,7 @@ In description:
 **pork**  
 In name:   
  - Italian Pork Sausage  
+ - Pork Carnita  
  - Pork Sausage Patties  
   
 In description:   
@@ -123,7 +124,6 @@ In name:
  - Greek Chicken  
  - Beef & Chicken Meatballs  
  - Chicken  
- - Chicken Tinga  
  - Chicken Noodle Soup  
  - Diced Chicken  
   
@@ -163,12 +163,11 @@ In name:
   
 In description:   
  - German Plate  
- - Porkloin Fritter Plate  
   
 **pork**  
 In name:   
  - Italian Pork Sausage  
- - Porkloin Fritter Plate  
+ - Apple Cider Braised Pork  
   
 In description:   
  - German Plate  
@@ -178,6 +177,7 @@ In name:
  - Chicken Noodle Soup  
   
 In description:   
+ - Apple Cider Braised Pork  
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-10-21)  

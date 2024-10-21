@@ -1,6 +1,6 @@
 # 2024-10-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-21 10:12:13  
+Updated at: 2024-10-21 13:14:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-21)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -145,6 +145,12 @@ In name:
   
 In description:   
   
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
+In description:   
+  
 **fish**  
 In name:   
   
@@ -197,6 +203,12 @@ In name:
 In description:   
  - Hoisin BBQ Glazed Salmon  
   
+**curry**  
+In name:   
+ - Soup Coconut Curry Cauliflower  
+  
+In description:   
+  
 **beef**  
 In name:   
  - Beef Quesadilla  
@@ -215,13 +227,12 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Noodle Soup  
+ - Soup Lemony Chicken with Rice  
  - Chicken Sausage Patty  
   
 In description:   
  - Pepperoni Pizza Slice  
  - Pizza Slice Deluxe  
- - Great Greens  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-10-21)  
 **Cod**  
