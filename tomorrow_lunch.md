@@ -1,6 +1,6 @@
 # 2024-10-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-21 19:52:49  
+Updated at: 2024-10-21 22:17:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-22)  
 **Tuna**  
 In name:   
@@ -17,7 +17,6 @@ In description:
 **curry**  
 In name:   
  - Indian Vegetable Curry  
- - Curry Potatoes  
   
 In description:   
   
@@ -181,6 +180,7 @@ In name:
  - Italian Chicken  
   
 In description:   
+ - BYO - MTO Breakfast Sandwich - Four Lake  
  - Mediterranean Rice Bowl  
  - Mediterranean Nachos  
  - BYO Mediterranean Sandwich  

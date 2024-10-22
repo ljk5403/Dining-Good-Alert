@@ -1,6 +1,6 @@
 # 2024-10-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-21 16:10:12  
+Updated at: 2024-10-21 19:52:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-21)  
 **beef**  
 In name:   
@@ -86,6 +86,12 @@ In name:
   
 In description:   
   
+**Cod**  
+In name:   
+ - Basket Beer Battered Cod  
+  
+In description:   
+  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
@@ -106,8 +112,8 @@ In name:
   
 In description:   
  - Gordon's OrderIt  
+ - Burnt Ends  
  - Vegan Taco Filling  
- - Mushroom Swiss Burger  
   
 **pork**  
 In name:   
@@ -121,7 +127,6 @@ In description:
   
 **chicken**  
 In name:   
- - Greek Chicken  
  - Beef & Chicken Meatballs  
  - Chicken  
  - Chicken Noodle Soup  
@@ -135,6 +140,12 @@ In description:
 **watermelon**  
 In name:   
  - Watermelon Slices  
+  
+In description:   
+  
+**steak**  
+In name:   
+ - Rosemary Cabernet Flank Steak  
   
 In description:   
   
@@ -162,22 +173,19 @@ In name:
  - Barbacoa Beef w/Mango Habanero Sandwich  
   
 In description:   
- - German Plate  
+ - Rosemary Cabernet Flank Steak  
   
 **pork**  
 In name:   
  - Italian Pork Sausage  
- - Apple Cider Braised Pork  
   
 In description:   
- - German Plate  
   
 **chicken**  
 In name:   
  - Chicken Noodle Soup  
   
 In description:   
- - Apple Cider Braised Pork  
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-10-21)  
