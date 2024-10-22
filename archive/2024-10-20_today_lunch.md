@@ -1,6 +1,6 @@
 # 2024-10-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-21 13:14:47  
+Updated at: 2024-10-21 16:10:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-21)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -185,23 +185,17 @@ In description:
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2024-10-21)  
+**squid**  
+In name:   
+  
+In description:   
+ - Fried Calamari  
+  
 **Tuna**  
 In name:   
  - Tuna Salad  
   
 In description:   
-  
-**Salmon**  
-In name:   
- - Hoisin BBQ Glazed Salmon  
-  
-In description:   
-  
-**fish**  
-In name:   
-  
-In description:   
- - Hoisin BBQ Glazed Salmon  
   
 **curry**  
 In name:   
