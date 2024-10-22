@@ -1,6 +1,6 @@
 # 2024-10-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-22 07:20:58  
+Updated at: 2024-10-22 10:11:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-22)  
 **Tuna**  
 In name:   
@@ -63,25 +63,11 @@ In name:
   
 In description:   
   
-**Salmon**  
-In name:   
- - Salmon Philly Roll (FujiSan)  
- - Salmon Spicy Roll (FujiSan)  
-  
-In description:   
-  
-**fish**  
-In name:   
-  
-In description:   
- - Salmon Spicy Roll (FujiSan)  
-  
 **beef**  
 In name:   
  - Soup -  Chili Beef & Bean  
   
 In description:   
- - Grilled Cheeseburger  
  - Station Recipe - Liz - Deli  AYCTE  
   
 **pork**  
@@ -93,13 +79,17 @@ In description:
 **chicken**  
 In name:   
  - Huli Huli Chicken  
- - Crispy Chicken Sandwich  
- - Grilled Chicken Sandwich  
   
 In description:   
  - Station Recipe - Liz - Great Greens  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-10-22)  
+**Poke Bar**  
+In name:   
+ - Build Your Own Poke Bar  
+  
+In description:   
+  
 **steak**  
 In name:   
  - Spicy Steak Fajita  
@@ -115,7 +105,6 @@ In description:
   
 **Shrimp**  
 In name:   
- - Steamed Shrimp  
   
 In description:   
  - Cioppino  
@@ -125,12 +114,6 @@ In name:
   
 In description:   
  - Cioppino  
-  
-**Tuna**  
-In name:   
- - Tuna  
-  
-In description:   
   
 **beef**  
 In name:   
@@ -154,7 +137,6 @@ In description:
 In name:   
  - Mediterranean Chicken  
  - Beef & Chicken Meatballs  
- - Diced Chicken  
  - Chicken Sausage Patties  
   
 In description:   

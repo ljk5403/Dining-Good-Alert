@@ -1,6 +1,6 @@
 # 2024-10-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-22 10:11:36  
+Updated at: 2024-10-22 13:14:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-22)  
 **Tuna**  
 In name:   
@@ -262,7 +262,6 @@ In description:
 In name:   
  - Beef & Chicken Meatballs  
  - Diced Chicken Breast  
- - Diced Chicken  
  - Chicken Strawberry Balsamic  
   
 In description:   
