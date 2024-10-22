@@ -1,6 +1,6 @@
 # 2024-10-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-22 10:11:35  
+Updated at: 2024-10-22 13:14:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-22)  
 **Tuna**  
 In name:   
@@ -221,7 +221,6 @@ In name:
   
 In description:   
  - Pizza Slice Meat Lovers w/ Bacon  
- - Great Greens  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-10-22)  
 **beef**  
@@ -235,6 +234,7 @@ In description:
   
 **pork**  
 In name:   
+ - Baked Rigatoni w/ Pork Italian Sausage  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
@@ -243,7 +243,6 @@ In description:
 In name:   
  - Beef & Chicken Meatballs  
  - Diced Chicken Breast  
- - Diced Chicken  
  - Grilled Chicken Sandwich  
   
 In description:   

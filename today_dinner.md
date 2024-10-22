@@ -1,6 +1,6 @@
 # 2024-10-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-22 13:14:41  
+Updated at: 2024-10-22 16:10:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-22)  
 **Tuna**  
 In name:   
@@ -99,7 +99,7 @@ In description:
   
 **BBQ Pork Sandwich**  
 In name:   
- - Carolina BBQ Pork Sandwich  
+ - BBQ Pork Sandwich  
   
 In description:   
   
@@ -124,12 +124,11 @@ In name:
   
 In description:   
  - Spicy Steak Fajita  
- - Vegan Sloppy Joe  
   
 **pork**  
 In name:   
  - BBQ Pork Chop  
- - Carolina BBQ Pork Sandwich  
+ - BBQ Pork Sandwich  
   
 In description:   
   
@@ -152,6 +151,12 @@ In description:
 **steak**  
 In name:   
  - Spicy Steak Fajita  
+  
+In description:   
+  
+**Tuna**  
+In name:   
+ - Tuna Salad  
   
 In description:   
   

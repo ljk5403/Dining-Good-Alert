@@ -1,6 +1,6 @@
 # 2024-10-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-22 13:14:44  
+Updated at: 2024-10-22 16:10:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-23)  
 **Tilapia**  
 In name:   
@@ -128,44 +128,14 @@ In name:
   
 In description:   
   
-**curry**  
-In name:   
- - Curry Cauliflower & Butternut Squash  
-  
-In description:   
-  
-**beef**  
-In name:   
- - Beef & Chicken Meatballs  
-  
-In description:   
- - Grilled Cheeseburger  
- - Vegan Sloppy Joe  
- - Italian Meat Sauce  
- - Mediterranean Rice Bowl  
- - Mediterranean Nachos  
- - BYO Mediterranean Sandwich  
-  
-**pork**  
-In name:   
- - BBQ Pork Chop  
-  
-In description:   
-  
 **chicken**  
 In name:   
- - Beef & Chicken Meatballs  
- - Chicken & Penne w/ Pesto Creme  
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
  - Soup Chicken Tortilla  
   
 In description:   
- - BYO - MTO Breakfast Sandwich - Four Lake  
  - Station Recipe - Great Greens - FLM  
- - Mediterranean Rice Bowl  
- - Mediterranean Nachos  
- - BYO Mediterranean Sandwich  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-10-23)  
 **steak**  
