@@ -1,6 +1,6 @@
 # 2024-10-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-22 16:10:04  
+Updated at: 2024-10-22 19:51:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-23)  
 **Tilapia**  
 In name:   
@@ -122,21 +122,6 @@ In description:
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-10-23)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
-In description:   
-  
-**chicken**  
-In name:   
- - Chicken Wings Boneless Plain  
- - Plant-Based Chicken Nuggets (6)  
- - Soup Chicken Tortilla  
-  
-In description:   
- - Station Recipe - Great Greens - FLM  
-  
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-10-23)  
 **steak**  
 In name:   
