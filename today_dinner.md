@@ -1,6 +1,6 @@
 # 2024-10-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-22 19:51:43  
+Updated at: 2024-10-22 22:17:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-22)  
 **Tuna**  
 In name:   
@@ -63,11 +63,25 @@ In name:
   
 In description:   
   
+**Salmon**  
+In name:   
+ - Salmon Philly Roll (FujiSan)  
+ - Salmon Spicy Roll (FujiSan)  
+  
+In description:   
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Salmon Spicy Roll (FujiSan)  
+  
 **beef**  
 In name:   
  - Soup -  Chili Beef & Bean  
   
 In description:   
+ - Grilled Cheeseburger  
  - Station Recipe - Liz - Deli  AYCTE  
   
 **pork**  
@@ -79,6 +93,8 @@ In description:
 **chicken**  
 In name:   
  - Huli Huli Chicken  
+ - Crispy Chicken Sandwich  
+ - Grilled Chicken Sandwich  
   
 In description:   
  - Station Recipe - Liz - Great Greens  
@@ -96,12 +112,6 @@ In name:
   
 In description:   
  - Pizza Slice Italian Beef  
-  
-**BBQ Pork Sandwich**  
-In name:   
- - BBQ Pork Sandwich  
-  
-In description:   
   
 **Shrimp**  
 In name:   
@@ -124,11 +134,12 @@ In name:
   
 In description:   
  - Spicy Steak Fajita  
+ - Pork Bratwurst Sandwich  
   
 **pork**  
 In name:   
  - BBQ Pork Chop  
- - BBQ Pork Sandwich  
+ - Pork Bratwurst Sandwich  
   
 In description:   
   
