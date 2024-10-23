@@ -1,6 +1,6 @@
 # 2024-10-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-23 10:11:24  
+Updated at: 2024-10-23 13:14:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-23)  
 **Cod**  
 In name:   
@@ -137,6 +137,7 @@ In name:
  - Plant Based Sweet & Sour Chicken  
  - Sweet & Sour Chicken  
  - Soup Chicken Tortilla  
+ - Diced Chicken  
   
 In description:   
  - Pepperoni Pizza Slice  
@@ -242,21 +243,28 @@ In description:
  - Great Greens  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-10-23)  
+**Salmon**  
+In name:   
+ - Island Spiced Salmon  
+  
+In description:   
+  
 **fish**  
 In name:   
   
 In description:   
  - Vietnamese Pork with Rice  
+ - Island Spiced Salmon  
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
   
 **pork**  
 In name:   
+ - Italian Pork Sausage  
  - Vietnamese Pork with Rice  
   
 In description:   
@@ -265,7 +273,6 @@ In description:
 **chicken**  
 In name:   
  - Protein Plant Based Chicken Tender  
- - Beef & Chicken Meatballs  
  - Diced Chicken Breast  
  - Soup Chicken Tortilla  
  - Chicken Piece Seasoned Baked  
