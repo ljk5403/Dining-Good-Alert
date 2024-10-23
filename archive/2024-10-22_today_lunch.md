@@ -1,6 +1,6 @@
 # 2024-10-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-23 07:20:39  
+Updated at: 2024-10-23 10:11:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-23)  
 **Cod**  
 In name:   
@@ -101,12 +101,6 @@ In description:
 **watermelon**  
 In name:   
  - Watermelon Slices  
-  
-In description:   
-  
-**Shrimp**  
-In name:   
- - Sweet & Sour Shrimp  
   
 In description:   
   
