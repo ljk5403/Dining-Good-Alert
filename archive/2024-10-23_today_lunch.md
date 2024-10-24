@@ -1,6 +1,6 @@
 # 2024-10-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-24 10:11:34  
+Updated at: 2024-10-24 13:14:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-24)  
 **Tuna**  
 In name:   
@@ -102,6 +102,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Italian Sausage  
  - Pork Sausage Patties  
   
 In description:   
@@ -110,6 +111,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Popcorn Chicken  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Pizza Slice Chicken Broccoli Alfredo  
@@ -132,7 +134,6 @@ In description:
 In name:   
   
 In description:   
- - Thai BBQ Pork Ribs  
  - Beef Masaman Thai Curry  
   
 **curry**  
@@ -147,6 +148,7 @@ In name:
  - Beef Taco Meat  
   
 In description:   
+ - Runza Casserole  
  - Soup Cream of Potato w/ Bacon  
  - Mediterranean Rice Bowl  
  - Mediterranean Nachos  
@@ -154,7 +156,6 @@ In description:
   
 **pork**  
 In name:   
- - Thai BBQ Pork Ribs  
   
 In description:   
  - Andouille Sausage  
