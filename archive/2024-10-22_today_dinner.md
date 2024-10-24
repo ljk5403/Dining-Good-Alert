@@ -1,6 +1,6 @@
 # 2024-10-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-23 16:10:22  
+Updated at: 2024-10-23 19:51:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-23)  
 **Tilapia**  
 In name:   
@@ -95,7 +95,7 @@ In description:
   
 **beef**  
 In name:   
- - Beef Stew w/ Buttermilk Biscuit  
+ - Beef Pot Roast  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   

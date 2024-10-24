@@ -1,6 +1,6 @@
 # 2024-10-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-23 19:52:04  
+Updated at: 2024-10-23 22:17:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-25)  
 **steak**  
 In name:   
@@ -148,7 +148,6 @@ In name:
  - Chicken Sausage Patties  
  - Grilled BBQ Chicken Sandwich  
  - Tandoori Chicken  
- - Diced Chicken  
   
 In description:   
  - Great Greens  
