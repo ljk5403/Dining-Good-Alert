@@ -1,6 +1,6 @@
 # 2024-10-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-24 16:10:44  
+Updated at: 2024-10-24 19:52:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-24)  
 **Tuna**  
 In name:   
@@ -103,6 +103,7 @@ In description:
 **pork**  
 In name:   
  - Herb Crusted Pork Loin  
+ - Pork Carnita  
  - Pork Sausage Patties  
   
 In description:   
@@ -116,7 +117,6 @@ In name:
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Pizza Slice Chicken Broccoli Alfredo  
- - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
   
 In description:   
