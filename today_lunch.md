@@ -1,6 +1,6 @@
 # 2024-10-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-27 07:18:39  
+Updated at: 2024-10-27 10:10:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-27)  
 **Tuna**  
 In name:   
@@ -36,12 +36,6 @@ In description:
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-10-27)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-10-27)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
-In description:   
-  
 **steak**  
 In name:   
  - Grilled Flank Steak  
@@ -56,11 +50,12 @@ In name:
 In description:   
  - Grilled Flank Steak  
  - Pepperoni Pizza Slice  
- - Patty Melt  
+ - Pork Bratwurst Sandwich  
   
 **pork**  
 In name:   
  - Boneless Baked Pork Ham  
+ - Pork Bratwurst Sandwich  
  - Pork Carnita  
   
 In description:   
@@ -70,12 +65,10 @@ In description:
 In name:   
  - Plant-Based Chicken Etouffee  
  - Beef & Chicken Meatballs  
- - Giardiniera Chicken  
  - Lemon Chicken Rice Soup  
   
 In description:   
  - Pepperoni Pizza Slice  
- - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-10-27)  
 **watermelon**  
