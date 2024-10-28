@@ -1,10 +1,11 @@
 # 2024-10-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-28 13:14:58  
+Updated at: 2024-10-28 16:10:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-28)  
 **beef**  
 In name:   
  - Southwestern Corned Beef Hash  
+ - Beef Taco Meat  
   
 In description:   
   
@@ -13,6 +14,7 @@ In name:
  - Biscuits & Pork Gravy  
  - Italian Pork Sausage  
  - Pizza Slice BBQ Pulled Pork  
+ - Pork Carnita  
   
 In description:   
  - Pizza Slice Sausage  
@@ -21,7 +23,7 @@ In description:
 In name:   
  - Lemon Pepper Chicken Salad  
  - Santa Fe Chicken Sandwich  
- - Arroz Con Pollo Chicken Thigh  
+ - Chicken Tinga  
  - Chicken Noodle Soup  
   
 In description:   
@@ -93,7 +95,6 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Gordon's OrderIt  
  - Pizza Slice Philly Cheesesteak  
  - Vegan Taco Filling  
  - Cowboy Burger  
@@ -105,7 +106,6 @@ In name:
  - Pork Sausage Patties  
   
 In description:   
- - Gordon's OrderIt  
  - Chicken Sausage Gumbo  
   
 **chicken**  
@@ -116,7 +116,6 @@ In name:
  - Chicken Noodle Soup  
   
 In description:   
- - Gordon's OrderIt  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-10-28)  

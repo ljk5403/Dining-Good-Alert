@@ -1,11 +1,10 @@
 # 2024-10-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-28 10:12:05  
+Updated at: 2024-10-28 13:14:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-28)  
 **beef**  
 In name:   
  - Southwestern Corned Beef Hash  
- - Beef Fajita Meat  
   
 In description:   
   
@@ -22,7 +21,6 @@ In description:
 In name:   
  - Lemon Pepper Chicken Salad  
  - Santa Fe Chicken Sandwich  
- - Chicken  
  - Arroz Con Pollo Chicken Thigh  
  - Chicken Noodle Soup  
   

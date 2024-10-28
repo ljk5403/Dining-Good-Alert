@@ -1,6 +1,6 @@
 # 2024-10-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-28 10:11:59  
+Updated at: 2024-10-28 13:14:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-28)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -10,7 +10,6 @@ In description:
   
 **beef**  
 In name:   
- - Beef Fajita Meat  
  - Beef Taco Meat  
   
 In description:   
@@ -31,10 +30,9 @@ In description:
 In name:   
  - Lemon Pepper Chicken Salad  
  - Chicken Teriyaki Stir Fry  
- - Chicken  
  - Chicken Tinga  
  - Plant Based Protein Chicken Taco Filling  
- - Chicken Noodle Soup  
+ - Soup Lemony Chicken with Rice  
   
 In description:   
  - Great Greens  
@@ -152,21 +150,21 @@ In name:
 In description:   
  - California Roll  (FujiSan)  
   
-**lamb**  
-In name:   
- - Herb Roasted Lamb  
-  
-In description:   
-  
 **curry**  
 In name:   
  - Vegetable Coconut Curry w/Rice  
   
 In description:   
+ - Chicken Tikka Masala  
+  
+**beef**  
+In name:   
+ - Beef Meatloaf  
+  
+In description:   
   
 **pork**  
 In name:   
- - Appetizer -  Fried Pork Potstickers  
  - Italian Pork Sausage  
   
 In description:   
@@ -174,7 +172,7 @@ In description:
 **chicken**  
 In name:   
  - Crispy Chicken Sandwich  
- - Butter Chicken  
+ - Chicken Tikka Masala  
  - Chicken Noodle Soup  
   
 In description:   
