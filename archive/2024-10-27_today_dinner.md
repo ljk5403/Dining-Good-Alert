@@ -1,6 +1,6 @@
 # 2024-10-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-28 07:21:16  
+Updated at: 2024-10-28 10:12:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-28)  
 **beef**  
 In name:   
@@ -92,7 +92,6 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Beef Fajita Meat  
  - Beef Taco Meat  
   
 In description:   
@@ -115,7 +114,6 @@ In description:
 In name:   
  - Chicken Sausage Gumbo  
  - Beef & Chicken Meatballs  
- - Chicken  
  - Chicken Tinga  
  - Chicken Noodle Soup  
   
