@@ -1,6 +1,6 @@
 # 2024-10-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-28 07:21:12  
+Updated at: 2024-10-28 10:11:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-28)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -115,7 +115,6 @@ In description:
 In name:   
  - Beef Stew w/ Buttermilk Biscuit  
  - Beef & Chicken Meatballs  
- - Beef Fajita Meat  
  - Beef Taco Meat  
   
 In description:   
@@ -133,7 +132,6 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
- - Chicken  
  - Chicken Tinga  
  - Chicken Noodle Soup  
   
