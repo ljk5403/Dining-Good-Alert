@@ -1,6 +1,6 @@
 # 2024-10-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-27 16:09:27  
+Updated at: 2024-10-27 19:54:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-27)  
 **Cod**  
 In name:   
@@ -55,6 +55,12 @@ In name:
   
 In description:   
   
+**corn bake**  
+In name:   
+ - Sweet Corn Bake  
+  
+In description:   
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
@@ -66,6 +72,7 @@ In description:
 **pork**  
 In name:   
  - Biscuits & Pork Gravy  
+ - Roasted Pork Loin  
  - Pork Carnita  
   
 In description:   
@@ -140,7 +147,6 @@ In description:
   
 **beef**  
 In name:   
- - Homemade Beef Lasagna  
   
 In description:   
  - Pizza Slice Sausage & Pepperoni  
@@ -155,6 +161,7 @@ In description:
 In name:   
  - Pizza Slice Chicken Bacon Ranch  
  - Lemon Pepper Chicken Salad  
+ - Seasoned Baked Chicken Quarters  
  - Lemon Chicken Rice Soup  
   
 In description:   
