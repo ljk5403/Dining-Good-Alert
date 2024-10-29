@@ -1,6 +1,6 @@
 # 2024-10-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-29 10:11:37  
+Updated at: 2024-10-29 13:14:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-29)  
 **Tuna**  
 In name:   
@@ -155,6 +155,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Plant-Based Chicken & Dumplings  
  - Mediterranean Chicken  
  - Beef & Chicken Meatballs  
  - Pizza Slice Chicken Sriracha  
@@ -241,6 +242,7 @@ In name:
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
  - Lemon Pepper Chicken Salad  
+ - Diced Chicken  
  - Plant Based Chicken Strips  
   
 In description:   

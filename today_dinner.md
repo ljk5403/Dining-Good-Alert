@@ -1,6 +1,6 @@
 # 2024-10-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-29 10:11:40  
+Updated at: 2024-10-29 13:14:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-29)  
 **Tuna**  
 In name:   
@@ -99,6 +99,12 @@ In description:
  - Station Recipe - Liz - Great Greens  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-10-29)  
+**Chicken Drummies**  
+In name:   
+ - Chicken Drummies  
+  
+In description:   
+  
 **steak**  
 In name:   
  - Spicy Steak Fajita  
@@ -142,7 +148,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Drumstick BBQ Glazed  
+ - Chicken Drummies  
  - Mediterranean Chicken  
  - Beef & Chicken Meatballs  
  - Pizza Slice Chicken Sriracha  

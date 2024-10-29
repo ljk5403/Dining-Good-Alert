@@ -1,6 +1,6 @@
 # 2024-10-31 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-29 10:11:47  
+Updated at: 2024-10-29 13:15:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-31)  
 **Tuna**  
 In name:   
@@ -224,6 +224,7 @@ In name:
  - Chicken Korma  
  - Lemon Pepper Chicken Salad  
  - Chicken Dumpling Soup  
+ - Diced Chicken  
   
 In description:   
  - Great Greens  
