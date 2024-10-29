@@ -1,6 +1,6 @@
 # 2024-10-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-29 07:21:08  
+Updated at: 2024-10-29 10:11:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-30)  
 **beef**  
 In name:   
@@ -170,6 +170,12 @@ In description:
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2024-10-30)  
+**beef**  
+In name:   
+ - Mediterranean Beef  
+  
+In description:   
+  
 **pork**  
 In name:   
  - Pork Chop Adobo (1)  
@@ -181,6 +187,7 @@ In description:
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
+ - Mediterranean Chicken  
  - Soup Chicken Tortilla  
  - Chicken Sausage Patty  
  - Crispy Chicken Sandwich  
