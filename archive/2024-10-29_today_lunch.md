@@ -1,6 +1,6 @@
 # 2024-10-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-30 07:21:04  
+Updated at: 2024-10-30 10:11:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-30)  
 **beef**  
 In name:   
@@ -108,13 +108,13 @@ In name:
  - Pork Carnita  
   
 In description:   
+ - Pizza Slice Hawaiian  
   
 **chicken**  
 In name:   
  - Broasted Chicken 2 pc  
  - Chicken Gravy  
  - Beef & Chicken Meatballs  
- - Flatbread Pizza BBQ Chicken  
  - Lemon Pepper Chicken Salad  
  - Sweet & Sour Chicken  
  - Plant Based Sweet & Sour Chicken  
