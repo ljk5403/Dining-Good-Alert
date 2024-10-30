@@ -1,237 +1,261 @@
-# 2024-10-31 dinner  
+# 2024-11-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-29 22:18:40  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-31)  
+Updated at: 2024-10-30 04:11:51  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-01)  
+**clam**  
+In name:   
+ - Soup Clam Chowder  
+  
+In description:   
+  
+**Shrimp**  
+In name:   
+ - Chipotle Shrimp  
+  
+In description:   
+  
 **Cod**  
 In name:   
- - Mediterranean Baked Cod  
   
 In description:   
+ - Soup Clam Chowder  
   
-**Tuna**  
+**curry**  
 In name:   
- - Lemon Pepper Tuna Salad  
+ - Chicken Curry  
+ - Garbanzo Bean Curry  
   
 In description:   
-  
-**Tilapia**  
-In name:   
- - Baked Tilapia w/Dill Wine Sauce  
-  
-In description:   
-  
-**fish**  
-In name:   
-  
-In description:   
- - Tempura Roll (FujiSan)  
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs  
+ - Beef Bulgogi Bao Bun  
+ - Beef Taco Meat  
   
 In description:   
- - Pepperoni Pizza Slice  
- - Soup Cream of Potato w/ Bacon  
- - BYO Bar - Mac & Cheese  
- - Baked Corn Dog  
- - Thin Crust Tavern Style Pepperoni Pizza  
+ - Pizza Slice Meat Lovers w/ Bacon  
   
 **pork**  
 In name:   
+ - Spicy Citrus Pork w/Black Beans & Rice  
   
 In description:   
- - Soup Cream of Potato w/ Bacon  
- - BYO Bar - Mac & Cheese  
- - Baked Corn Dog  
+ - Chorizo Sauce  
+ - Pizza Slice Sausage  
+ - Pizza Slice Meat Lovers w/ Bacon  
+ - Soup Clam Chowder  
   
 **chicken**  
 In name:   
- - Chicken Piece Seasoned Baked  
- - Beef & Chicken Meatballs  
- - Plant Based Chicken Strips  
- - Chicken Shawarma Sandwich  
- - Chicken Dumpling Soup  
- - Plant-Based Chicken Nuggets (6)  
+ - Chicken Curry  
+ - Diced Chicken Breast  
+ - Lemon Pepper Chicken Salad  
+ - Crispy Chicken Sandwich  
+ - VN Sand Chicken Paradise  
+ - Chicken Tinga  
   
 In description:   
- - Pepperoni Pizza Slice  
+ - Spicy Citrus Pork w/Black Beans & Rice  
+ - Chorizo Sauce  
+ - Pizza Slice Meat Lovers w/ Bacon  
  - Great Greens  
- - Soup Cream of Potato w/ Bacon  
- - BYO Bar - Mac & Cheese  
- - Baked Corn Dog  
- - Thin Crust Tavern Style Pepperoni Pizza  
   
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-10-31)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-11-01)  
 **watermelon**  
 In name:   
  - Melon Watermelon Whole Sliced  
   
 In description:   
   
-**beef**  
+**fish**  
 In name:   
- - Beef Broccoli Stir Fry w/Teriyaki Sauce  
+ - Vegan Fish Sandwich  
   
 In description:   
- - Soup Cream of Potato w/ Bacon  
+  
+**beef**  
+In name:   
+ - Halal Beef Hamburger  
+  
+In description:   
  - Station Recipe - Liz - Deli  AYCTE  
   
 **pork**  
 In name:   
- - Baked Rigatoni w/ Pork Italian Sausage  
   
 In description:   
- - Soup Cream of Potato w/ Bacon  
  - Station Recipe - Liz - Deli  AYCTE  
   
 **chicken**  
 In name:   
- - Santa Fe Chicken Sandwich  
- - Chicken Dumpling Soup  
+ - Chicken Honey Lime w/ rice  
  - Lemon Pepper Chicken Salad  
   
 In description:   
- - Soup Cream of Potato w/ Bacon  
   
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-10-31)  
-**Shrimp**  
-In name:   
- - Shrimp with Bell Peppers  
-  
-In description:   
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad  
-  
-In description:   
-  
-**beef**  
-In name:   
- - Beef Meatloaf  
- - Beef & Chicken Meatballs  
- - Beef Taco Meat  
-  
-In description:   
- - Smoked Brisket & Tots Pizza Slice  
- - Soup Cream of Potato w/ Bacon  
- - Baked Corn Dog  
-  
-**pork**  
-In name:   
- - Pork Sausage Patties  
-  
-In description:   
- - Pizza Slice Sausage  
- - Soup Cream of Potato w/ Bacon  
- - Baked Corn Dog  
-  
-**chicken**  
-In name:   
- - Chicken Gravy  
- - Beef & Chicken Meatballs  
- - Giardiniera Chicken  
- - Spicy Fajita Chicken  
- - Chicken Dumpling Soup  
-  
-In description:   
- - Great Greens  
- - Soup Cream of Potato w/ Bacon  
- - Baked Corn Dog  
-  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-10-31)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-11-01)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
   
 In description:   
   
-**beef**  
+**Pepper, Onion, & Mushroom Saute**  
 In name:   
- - 1849 BBQ Beef Brisket Sliders  
- - Beef Taco Meat  
- - Protein - Beef Thinly Sliced  
+ - Pepper, Onion, & Mushroom Saute  
   
 In description:   
- - Fired Up Burger  
- - Soup Cream of Potato w/ Bacon  
+  
+**clam**  
+In name:   
+ - Soup Clam Chowder  
+  
+In description:   
+  
+**Shrimp**  
+In name:   
+ - Sauteed Shrimp  
+ - Redhook Ale Shrimp Basket  
+  
+In description:   
+  
+**Cod**  
+In name:   
+  
+In description:   
+ - Soup Clam Chowder  
+  
+**curry**  
+In name:   
+ - Coconut Tofu w/Red Curry Sauce  
+ - Beef Bombay Curry  
+  
+In description:   
+  
+**beef**  
+In name:   
+ - Beef & Chicken Meatballs  
+ - Beef Bombay Curry  
+ - Beef Barbacoa  
+ - Beef Taco Meat  
+  
+In description:   
+ - Vegan Taco Filling  
   
 **pork**  
 In name:   
- - Jerk Pork Chop  
+ - French Market Pork Jambalaya  
+ - Coffee Crusted Pork Loin  
   
 In description:   
- - Andouille Sausage  
- - Soup Cream of Potato w/ Bacon  
+ - Pizza Slice Hawaiian  
+ - Soup Clam Chowder  
   
 **chicken**  
 In name:   
- - Taco Chicken  
- - Chicken Dumpling Soup  
- - Protein - Chicken Thinly Sliced  
+ - Beef & Chicken Meatballs  
+ - Chicken Sausage Patties  
   
 In description:   
- - BYO - MTO Breakfast Sandwich - Four Lake  
- - Station Recipe - Great Greens - FLM  
- - Soup Cream of Potato w/ Bacon  
+ - French Market Pork Jambalaya  
+ - Great Greens  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-10-31)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-11-01)  
+**watermelon**  
+In name:   
+ - Watermelon Slices  
+  
+In description:   
+  
+**clam**  
+In name:   
+ - Soup Clam Chowder  
+  
+In description:   
+  
+**Shrimp**  
+In name:   
+ - Sauteed Shrimp  
+  
+In description:   
+  
 **Cod**  
 In name:   
  - Baked Cod Fillet w/Butter & Lemon  
   
 In description:   
+ - Soup Clam Chowder  
   
 **beef**  
 In name:   
+ - Beef Taco Meat  
+ - Protein - Beef Thinly Sliced  
   
 In description:   
- - Pizza Slice Cheeseburger  
- - Soup Cream of Potato w/ Bacon  
+ - Vegan Taco Filling  
   
 **pork**  
 In name:   
- - Pizza Slice BBQ Pulled Pork  
+ - Smoked Pulled Pork Sandwich  
   
 In description:   
- - Soup Cream of Potato w/ Bacon  
+ - Soup Clam Chowder  
   
 **chicken**  
 In name:   
- - Lemon Pepper Chicken Salad  
- - Chicken Tenders Breaded  
- - Plant-Based Chicken Tenders  
- - Chicken Dumpling Soup  
+ - Grilled Chicken Sandwich  
+ - Giardiniera Chicken  
+ - Protein - Chicken Thinly Sliced  
   
 In description:   
- - Great Greens  
- - Soup Cream of Potato w/ Bacon  
+ - BYO - MTO Breakfast Sandwich - Four Lake  
+ - Station Recipe - Great Greens - FLM  
   
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2024-10-31)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-11-01)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2024-11-01)  
+**BBQ Pork Sandwich**  
+In name:   
+ - Carolina BBQ Pork Sandwich  
+  
+In description:   
+  
+**clam**  
+In name:   
+ - Soup Clam Chowder  
+  
+In description:   
+  
+**Cod**  
+In name:   
+  
+In description:   
+ - Soup Clam Chowder  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Crab Rangoon  
+  
 **beef**  
 In name:   
- - Beef Pot Roast  
+ - Beef Broccoli Stir Fry  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
- - Soup Cream of Potato w/ Bacon  
   
 **pork**  
 In name:   
- - Pork & Broccoli Stir Fry  
+ - Carolina BBQ Pork Sandwich  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
- - Soup Cream of Potato w/ Bacon  
+ - Soup Clam Chowder  
   
 **chicken**  
 In name:   
- - Chicken Dumpling Soup  
- - Chicken Piccata  
   
 In description:   
  - Great Greens  
- - Soup Cream of Potato w/ Bacon  
   
   
