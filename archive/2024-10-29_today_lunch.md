@@ -1,12 +1,10 @@
 # 2024-10-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-30 10:11:39  
+Updated at: 2024-10-30 13:15:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-30)  
 **beef**  
 In name:   
- - Beef Broccoli Stir Fry w/Teriyaki Sauce  
  - Plant-Based Beef & Broccoli Stir Fry  
- - Beef Fajita Meat  
  - Beef Taco Meat  
   
 In description:   
@@ -26,7 +24,6 @@ In name:
  - Chicken Breast w/Balsamic BBQ Sauce  
  - Pizza Slice BBQ Chicken & Bacon  
  - Lemon Pepper Chicken Salad  
- - Chicken  
  - Fajita Chicken  
  - Soup Chicken Tortilla  
   
@@ -197,12 +194,25 @@ In description:
  - Great Greens  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-10-30)  
-**beef**  
+**fish**  
 In name:   
   
 In description:   
+ - Beef Masaman Thai Curry  
+  
+**curry**  
+In name:   
+ - Beef Masaman Thai Curry  
+  
+In description:   
+  
+**beef**  
+In name:   
+ - Beef Masaman Thai Curry  
+  
+In description:   
  - Station Recipe - Deli Lowell AYCTE  
- - Thin Crust Tavern Style Pepperoni Pizza  
+ - Pepperoni Pizza Slice  
   
 **pork**  
 In name:   
@@ -218,6 +228,6 @@ In name:
   
 In description:   
  - Great Greens  
- - Thin Crust Tavern Style Pepperoni Pizza  
+ - Pepperoni Pizza Slice  
   
   

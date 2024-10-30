@@ -1,6 +1,6 @@
 # 2024-10-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-30 13:15:11  
+Updated at: 2024-10-30 16:10:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-30)  
 **beef**  
 In name:   
@@ -21,7 +21,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Breast w/Balsamic BBQ Sauce  
  - Pizza Slice BBQ Chicken & Bacon  
  - Lemon Pepper Chicken Salad  
  - Fajita Chicken  
