@@ -1,6 +1,6 @@
 # 2024-10-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-29 19:52:47  
+Updated at: 2024-10-29 22:18:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-29)  
 **Tuna**  
 In name:   
@@ -165,12 +165,6 @@ In name:
   
 In description:   
   
-**Cod**  
-In name:   
- - Cracker Crusted Cod w/ Lemon Sauce  
-  
-In description:   
-  
 **beef**  
 In name:   
  - Beef Harissa w/Couscous  
@@ -189,11 +183,11 @@ In description:
 **chicken**  
 In name:   
  - Italian Chicken  
+ - Seasoned Baked Chicken Quarters  
  - Protein - Chicken Thinly Sliced  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
- - Cracker Crusted Cod w/ Lemon Sauce  
  - Ancho Braised Pork  
  - Station Recipe - Great Greens - FLM  
   
