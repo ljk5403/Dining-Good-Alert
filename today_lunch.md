@@ -1,6 +1,6 @@
 # 2024-10-31 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-31 13:14:42  
+Updated at: 2024-10-31 16:10:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-31)  
 **Tuna**  
 In name:   
@@ -214,15 +214,9 @@ In description:
  - Great Greens  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-10-31)  
-**catfish**  
+**Cod**  
 In name:   
- - Panfried Southern Catfish  
-  
-In description:   
-  
-**fish**  
-In name:   
- - Panfried Southern Catfish  
+ - Lemon Pepper Cod Fillet  
   
 In description:   
   

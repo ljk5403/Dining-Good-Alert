@@ -1,6 +1,6 @@
 # 2024-10-31 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-31 13:14:48  
+Updated at: 2024-10-31 16:10:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-31)  
 **Cod**  
 In name:   
@@ -98,6 +98,7 @@ In description:
 **Shrimp**  
 In name:   
  - Shrimp with Bell Peppers  
+ - Redhook Ale Breaded Shrimp  
   
 In description:   
   
@@ -123,7 +124,6 @@ In name:
 In description:   
  - Smoked Brisket & Tots Pizza Slice  
  - Soup Cream of Potato w/ Bacon  
- - Baked Corn Dog  
   
 **pork**  
 In name:   
@@ -132,7 +132,6 @@ In name:
 In description:   
  - Pizza Slice Sausage  
  - Soup Cream of Potato w/ Bacon  
- - Baked Corn Dog  
   
 **chicken**  
 In name:   
@@ -146,7 +145,6 @@ In name:
 In description:   
  - Great Greens  
  - Soup Cream of Potato w/ Bacon  
- - Baked Corn Dog  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-10-31)  
 **watermelon**  
