@@ -1,6 +1,6 @@
 # 2024-11-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-31 10:11:37  
+Updated at: 2024-10-31 13:14:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-01)  
 **clam**  
 In name:   
@@ -129,6 +129,7 @@ In description:
 In name:   
  - Coconut Tofu w/Red Curry Sauce  
  - Beef Bombay Curry  
+ - Curry Potatoes  
   
 In description:   
   

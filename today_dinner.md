@@ -1,6 +1,6 @@
 # 2024-10-31 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-31 10:11:35  
+Updated at: 2024-10-31 13:14:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-31)  
 **Cod**  
 In name:   
@@ -107,10 +107,17 @@ In name:
   
 In description:   
   
+**fish**  
+In name:   
+ - Fish Sauce  
+  
+In description:   
+  
 **beef**  
 In name:   
  - Beef Meatloaf  
  - Beef & Chicken Meatballs  
+ - Protein - Beef Thinly Sliced  
  - Beef Taco Meat  
   
 In description:   
@@ -132,6 +139,7 @@ In name:
  - Chicken Gravy  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
+ - Protein - Chicken Thinly Sliced  
  - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
   
