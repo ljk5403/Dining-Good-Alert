@@ -1,6 +1,6 @@
 # 2024-10-31 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-31 04:11:43  
+Updated at: 2024-10-31 07:20:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-10-31)  
 **Tuna**  
 In name:   
@@ -183,48 +183,21 @@ In description:
  - Soup Cream of Potato w/ Bacon  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2024-10-31)  
-**steak**  
-In name:   
- - Brazilian Flank Steak  
- - Ham Steak  
-  
-In description:   
-  
-**curry**  
-In name:   
-  
-In description:   
- - Chicken Korma  
- - Navarathan Korma w/ Basmati Rice  
-  
 **beef**  
 In name:   
- - Roast Beef  
- - Pork & Beef Hard Salami  
   
 In description:   
- - Pizza Slice Cheeseburger  
- - Brazilian Flank Steak  
  - Soup Cream of Potato w/ Bacon  
   
 **pork**  
 In name:   
- - Pizza Slice BBQ Pulled Pork  
- - Pork & Beef Hard Salami  
   
 In description:   
- - Smoked Ham  
- - Bacon  
  - Soup Cream of Potato w/ Bacon  
- - Ham Steak  
- - Sand Artisan Flatbrea Ham & Swiss  
   
 **chicken**  
 In name:   
- - Chicken Korma  
- - Lemon Pepper Chicken Salad  
  - Chicken Dumpling Soup  
- - Diced Chicken  
   
 In description:   
  - Great Greens  
