@@ -1,6 +1,6 @@
 # 2024-10-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-30 13:15:14  
+Updated at: 2024-10-30 16:10:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-30)  
 **fish**  
 In name:   
@@ -100,12 +100,12 @@ In name:
  - Pork Carnita  
   
 In description:   
+ - Pizza Slice Hawaiian  
   
 **chicken**  
 In name:   
  - Chicken Pot Pie w/Biscuit  
  - Beef & Chicken Meatballs  
- - Flatbread Pizza BBQ Chicken  
  - Lemon Pepper Chicken Salad  
  - Sesame Chicken  
  - Plant Based Sesame Chicken (AYCTE) (VN)  
