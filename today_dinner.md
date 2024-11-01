@@ -1,6 +1,6 @@
 # 2024-11-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-01 13:14:33  
+Updated at: 2024-11-01 16:10:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-01)  
 **clam**  
 In name:   
@@ -192,6 +192,7 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Hot Dog  
  - Beef Taco Meat  
  - Protein - Beef Thinly Sliced  
   
@@ -207,7 +208,6 @@ In description:
   
 **chicken**  
 In name:   
- - Grilled Chicken Sandwich  
  - Giardiniera Chicken  
  - Protein - Chicken Thinly Sliced  
   
