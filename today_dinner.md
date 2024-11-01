@@ -1,22 +1,10 @@
 # 2024-10-31 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-31 16:10:58  
+Updated at: 2024-10-31 19:56:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-31)  
-**Cod**  
-In name:   
- - Mediterranean Baked Cod  
-  
-In description:   
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
-  
-In description:   
-  
-**Tilapia**  
-In name:   
- - Baked Tilapia w/Dill Wine Sauce  
   
 In description:   
   
@@ -31,36 +19,34 @@ In name:
  - Beef & Chicken Meatballs  
   
 In description:   
- - Pepperoni Pizza Slice  
- - Soup Cream of Potato w/ Bacon  
- - BYO Bar - Mac & Cheese  
- - Baked Corn Dog  
+ - Build Your Own Four Lakes Nacho Bar  
  - Thin Crust Tavern Style Pepperoni Pizza  
+ - Baked Corn Dog  
+ - BYO Bar - Mac & Cheese  
+ - Soup Cream of Potato w/ Bacon  
   
 **pork**  
 In name:   
   
 In description:   
- - Soup Cream of Potato w/ Bacon  
- - BYO Bar - Mac & Cheese  
  - Baked Corn Dog  
+ - BYO Bar - Mac & Cheese  
+ - Soup Cream of Potato w/ Bacon  
   
 **chicken**  
 In name:   
- - Chicken Piece Seasoned Baked  
  - Beef & Chicken Meatballs  
  - Plant Based Chicken Strips  
- - Chicken Shawarma Sandwich  
- - Chicken Dumpling Soup  
  - Plant-Based Chicken Nuggets (6)  
+ - Chicken Dumpling Soup  
   
 In description:   
- - Pepperoni Pizza Slice  
+ - Build Your Own Four Lakes Nacho Bar  
+ - Thin Crust Tavern Style Pepperoni Pizza  
+ - Baked Corn Dog  
+ - BYO Bar - Mac & Cheese  
  - Great Greens  
  - Soup Cream of Potato w/ Bacon  
- - BYO Bar - Mac & Cheese  
- - Baked Corn Dog  
- - Thin Crust Tavern Style Pepperoni Pizza  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-10-31)  
 **watermelon**  

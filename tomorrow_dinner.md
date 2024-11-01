@@ -1,6 +1,6 @@
 # 2024-11-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-31 16:11:01  
+Updated at: 2024-10-31 19:57:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-01)  
 **clam**  
 In name:   
@@ -115,7 +115,6 @@ In description:
 **Shrimp**  
 In name:   
  - Sauteed Shrimp  
- - Redhook Ale Shrimp Basket  
   
 In description:   
   
@@ -156,6 +155,7 @@ In description:
 In name:   
  - Beef & Chicken Meatballs  
  - Chicken Sausage Patties  
+ - Popcorn Chicken  
   
 In description:   
  - French Market Pork Jambalaya  
