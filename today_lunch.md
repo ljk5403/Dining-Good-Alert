@@ -1,6 +1,6 @@
 # 2024-11-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-01 07:20:14  
+Updated at: 2024-11-01 10:11:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-01)  
 **Chicken Drumstick Gochujang Glazed**  
 In name:   
@@ -210,7 +210,7 @@ In name:
  - Protein - Beef Thinly Sliced  
   
 In description:   
- - Mushroom Swiss Burger  
+ - Cheeseburger  
  - Vegan Taco Filling  
   
 **pork**  
@@ -223,6 +223,7 @@ In description:
 **chicken**  
 In name:   
  - Chicken Grilled Cordon Bleu (Pork)  
+ - Plant-Based Chicken Tenders  
  - Giardiniera Chicken  
  - Protein - Chicken Thinly Sliced  
   
