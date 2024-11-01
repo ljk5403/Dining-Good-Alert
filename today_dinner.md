@@ -1,6 +1,6 @@
 # 2024-10-31 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-31 19:56:51  
+Updated at: 2024-10-31 22:26:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-10-31)  
 **Tuna**  
 In name:   
@@ -81,13 +81,6 @@ In description:
  - Soup Cream of Potato w/ Bacon  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-10-31)  
-**Shrimp**  
-In name:   
- - Shrimp with Bell Peppers  
- - Redhook Ale Breaded Shrimp  
-  
-In description:   
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
@@ -122,11 +115,13 @@ In description:
 **chicken**  
 In name:   
  - Chicken Gravy  
+ - Baked Chicken (2 piece)  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Protein - Chicken Thinly Sliced  
  - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
+ - Popcorn Chicken  
   
 In description:   
  - Great Greens  

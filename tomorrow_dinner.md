@@ -1,6 +1,6 @@
 # 2024-11-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-31 19:57:01  
+Updated at: 2024-10-31 22:26:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-01)  
 **clam**  
 In name:   
@@ -115,6 +115,7 @@ In description:
 **Shrimp**  
 In name:   
  - Sauteed Shrimp  
+ - Redhook Ale Shrimp Basket  
   
 In description:   
   
@@ -141,6 +142,7 @@ In name:
   
 In description:   
  - Vegan Taco Filling  
+ - Baked Corn Dog  
   
 **pork**  
 In name:   
@@ -150,16 +152,17 @@ In name:
 In description:   
  - Pizza Slice Hawaiian  
  - Soup Clam Chowder  
+ - Baked Corn Dog  
   
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
  - Chicken Sausage Patties  
- - Popcorn Chicken  
   
 In description:   
  - French Market Pork Jambalaya  
  - Great Greens  
+ - Baked Corn Dog  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-11-01)  
 **watermelon**  

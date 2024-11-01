@@ -1,6 +1,6 @@
 # 2024-11-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-31 19:57:06  
+Updated at: 2024-10-31 22:26:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-02)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-11-02)  
 **watermelon**  
@@ -8,6 +8,12 @@ In name:
  - Melon Watermelon Whole Sliced  
   
 In description:   
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Chocolate Sunflower Bar  
   
 **pork**  
 In name:   
@@ -35,6 +41,12 @@ In name:
  - Tilapia Veracruz  
   
 In description:   
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Chocolate Sunflower Bar  
   
 **beef**  
 In name:   
@@ -73,6 +85,12 @@ In name:
   
 In description:   
   
+**fish**  
+In name:   
+  
+In description:   
+ - Chocolate Sunflower Bar  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
@@ -92,4 +110,10 @@ In description:
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2024-11-02)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-11-02)  
+**fish**  
+In name:   
+  
+In description:   
+ - Chocolate Sunflower Bar  
+  
   

@@ -1,6 +1,6 @@
 # 2024-11-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-10-31 19:57:11  
+Updated at: 2024-10-31 22:26:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-02)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-11-02)  
 **watermelon**  
@@ -14,6 +14,12 @@ In name:
  - Philly Cheesesteak Sandwich  
   
 In description:   
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Chocolate Sunflower Bar  
   
 **beef**  
 In name:   
@@ -30,6 +36,12 @@ In name:
 In description:   
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-11-02)  
+**fish**  
+In name:   
+  
+In description:   
+ - Chocolate Sunflower Bar  
+  
 **curry**  
 In name:   
  - Beef Curry Stew  
@@ -74,6 +86,12 @@ In name:
   
 In description:   
   
+**fish**  
+In name:   
+  
+In description:   
+ - Chocolate Sunflower Bar  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
@@ -93,4 +111,10 @@ In description:
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-11-02)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2024-11-02)  
+**fish**  
+In name:   
+  
+In description:   
+ - Chocolate Sunflower Bar  
+  
   
