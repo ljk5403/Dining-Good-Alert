@@ -1,6 +1,6 @@
 # 2024-11-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-01 16:10:10  
+Updated at: 2024-11-01 19:51:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-01)  
 **clam**  
 In name:   
@@ -193,6 +193,7 @@ In description:
 **beef**  
 In name:   
  - Beef Hot Dog  
+ - Texas BBQ Sliced Beef Brisket  
  - Beef Taco Meat  
  - Protein - Beef Thinly Sliced  
   
@@ -201,7 +202,6 @@ In description:
   
 **pork**  
 In name:   
- - Smoked Pulled Pork Sandwich  
   
 In description:   
  - Soup Clam Chowder  
