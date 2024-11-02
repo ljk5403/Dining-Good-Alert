@@ -1,265 +1,120 @@
-# 2024-11-01 dinner  
+# 2024-11-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-01 22:15:38  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-01)  
-**clam**  
-In name:   
- - Soup Clam Chowder  
-  
-In description:   
-  
-**Shrimp**  
-In name:   
- - Chipotle Shrimp  
-  
-In description:   
-  
-**Cod**  
-In name:   
-  
-In description:   
- - Soup Clam Chowder  
-  
-**curry**  
-In name:   
- - Chicken Curry  
- - Garbanzo Bean Curry  
-  
-In description:   
-  
-**beef**  
-In name:   
- - Beef Bulgogi Bao Bun  
- - Beef Taco Meat  
-  
-In description:   
- - Pizza Slice Meat Lovers w/ Bacon  
-  
-**pork**  
-In name:   
- - Spicy Citrus Pork w/Black Beans & Rice  
-  
-In description:   
- - Chorizo Sauce  
- - Pizza Slice Sausage  
- - Pizza Slice Meat Lovers w/ Bacon  
- - Soup Clam Chowder  
-  
-**chicken**  
-In name:   
- - Chicken Curry  
- - Diced Chicken Breast  
- - Lemon Pepper Chicken Salad  
- - Crispy Chicken Sandwich  
- - VN Sand Chicken Paradise  
- - Chicken Tinga  
-  
-In description:   
- - Spicy Citrus Pork w/Black Beans & Rice  
- - Chorizo Sauce  
- - Pizza Slice Meat Lovers w/ Bacon  
- - Great Greens  
-  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-11-01)  
+Updated at: 2024-11-02 01:14:15  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-02)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-11-02)  
 **watermelon**  
 In name:   
  - Melon Watermelon Whole Sliced  
   
 In description:   
   
-**fish**  
+**steak**  
 In name:   
- - Vegan Fish Sandwich  
+ - Philly Cheesesteak Sandwich  
   
 In description:   
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Chocolate Sunflower Bar  
   
 **beef**  
 In name:   
- - Halal Beef Hamburger  
   
 In description:   
- - Station Recipe - Liz - Deli  AYCTE  
-  
-**pork**  
-In name:   
-  
-In description:   
- - Station Recipe - Liz - Deli  AYCTE  
+ - Philly Cheesesteak Sandwich  
   
 **chicken**  
 In name:   
- - Chicken Honey Lime w/ rice  
+ - Crispy Buffalo Chicken Sandwich  
+ - Soup Cream of Chicken & Wild Rice  
  - Lemon Pepper Chicken Salad  
   
 In description:   
   
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-11-01)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
-In description:   
-  
-**Pepper, Onion, & Mushroom Saute**  
-In name:   
- - Pepper, Onion, & Mushroom Saute  
-  
-In description:   
-  
-**clam**  
-In name:   
- - Soup Clam Chowder  
-  
-In description:   
-  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp  
- - Redhook Ale Shrimp Basket  
-  
-In description:   
-  
-**Cod**  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-11-02)  
+**fish**  
 In name:   
   
 In description:   
- - Soup Clam Chowder  
+ - Chocolate Sunflower Bar  
   
 **curry**  
 In name:   
- - Coconut Tofu w/Red Curry Sauce  
- - Beef Bombay Curry  
- - Curry Potatoes  
+ - Beef Curry Stew  
   
 In description:   
   
 **beef**  
 In name:   
+ - Beef Curry Stew  
  - Beef & Chicken Meatballs  
- - Beef Bombay Curry  
- - Beef Barbacoa  
  - Beef Taco Meat  
   
 In description:   
- - Vegan Taco Filling  
- - Baked Corn Dog  
+ - Pepperoni Pizza Slice  
   
 **pork**  
 In name:   
- - French Market Pork Jambalaya  
- - Coffee Crusted Pork Loin  
+ - Italian Pork Sausage  
+ - Pork Sausage Patties  
   
 In description:   
- - Pizza Slice Hawaiian  
- - Soup Clam Chowder  
- - Baked Corn Dog  
+ - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
+ - Huli Huli Chicken  
  - Beef & Chicken Meatballs  
- - Chicken Sausage Patties  
+ - Lemon Pepper Chicken Salad  
+ - Chicken Tinga  
+ - Soup Cream of Chicken & Wild Rice  
+ - Crispy Chicken Sandwich  
+ - Plant-Based Chicken Nuggets (6)  
   
 In description:   
- - French Market Pork Jambalaya  
+ - Pepperoni Pizza Slice  
  - Great Greens  
- - Baked Corn Dog  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-11-01)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-11-02)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
   
 In description:   
-  
-**clam**  
-In name:   
- - Soup Clam Chowder  
-  
-In description:   
-  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp  
-  
-In description:   
-  
-**Cod**  
-In name:   
- - Baked Cod Fillet w/Butter & Lemon  
-  
-In description:   
- - Soup Clam Chowder  
-  
-**beef**  
-In name:   
- - Beef Hot Dog  
- - Texas BBQ Sliced Beef Brisket  
- - Beef Taco Meat  
- - Protein - Beef Thinly Sliced  
-  
-In description:   
- - Vegan Taco Filling  
-  
-**pork**  
-In name:   
-  
-In description:   
- - Soup Clam Chowder  
-  
-**chicken**  
-In name:   
- - Giardiniera Chicken  
- - Protein - Chicken Thinly Sliced  
-  
-In description:   
- - BYO - MTO Breakfast Sandwich - Four Lake  
- - Station Recipe - Great Greens - FLM  
-  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-11-01)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2024-11-01)  
-**BBQ Pork Sandwich**  
-In name:   
- - Carolina BBQ Pork Sandwich  
-  
-In description:   
-  
-**clam**  
-In name:   
- - Soup Clam Chowder  
-  
-In description:   
-  
-**Cod**  
-In name:   
-  
-In description:   
- - Soup Clam Chowder  
   
 **fish**  
 In name:   
   
 In description:   
- - Crab Rangoon  
+ - Chocolate Sunflower Bar  
   
 **beef**  
 In name:   
- - Beef Broccoli Stir Fry  
+ - Beef & Chicken Meatballs  
+ - Beef Taco Meat  
   
 In description:   
- - Station Recipe - Deli Lowell AYCTE  
-  
-**pork**  
-In name:   
- - Carolina BBQ Pork Sandwich  
-  
-In description:   
- - Station Recipe - Deli Lowell AYCTE  
- - Soup Clam Chowder  
+ - Grilled Cheeseburger  
   
 **chicken**  
 In name:   
+ - Beef & Chicken Meatballs  
+ - Fajita Chicken  
+ - Soup Cream of Chicken & Wild Rice  
   
 In description:   
- - Great Greens  
+ - Station Recipe - Great Greens - FLM  
+  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-11-02)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2024-11-02)  
+**fish**  
+In name:   
+  
+In description:   
+ - Chocolate Sunflower Bar  
   
   
