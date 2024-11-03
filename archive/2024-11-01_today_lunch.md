@@ -1,6 +1,6 @@
 # 2024-11-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-02 13:13:10  
+Updated at: 2024-11-02 16:09:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-02)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-11-02)  
 **watermelon**  
@@ -55,6 +55,7 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice  
+ - Soup Italian Wedding  
   
 **pork**  
 In name:   
@@ -72,11 +73,11 @@ In name:
  - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
  - Diced Chicken  
- - Soup Cream of Chicken & Wild Rice  
   
 In description:   
  - Pepperoni Pizza Slice  
  - Great Greens  
+ - Soup Italian Wedding  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-11-02)  
 **watermelon**  
