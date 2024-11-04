@@ -1,6 +1,6 @@
 # 2024-11-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-04 09:12:07  
+Updated at: 2024-11-04 12:14:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-05)  
 **Tuna**  
 In name:   
@@ -11,6 +11,7 @@ In description:
 **curry**  
 In name:   
  - Beef Bombay Curry  
+ - Curry Potatoes  
   
 In description:   
   
@@ -108,6 +109,8 @@ In description:
 In name:   
  - Beef Gravy  
  - Beef & Chicken Meatballs  
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
  - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
   
@@ -118,10 +121,12 @@ In description:
   
 **pork**  
 In name:   
+ - Pork & Beef Hard Salami  
  - Andouille Pork Sausage  
   
 In description:   
  - Pizza Slice Sausage  
+ - Smoked Ham  
   
 **chicken**  
 In name:   
@@ -141,9 +146,15 @@ In name:
   
 In description:   
   
-**Poke Bar**  
+**Shrimp**  
 In name:   
- - Build Your Own Poke Bar  
+ - Steamed Shrimp  
+  
+In description:   
+  
+**Tuna**  
+In name:   
+ - Tuna  
   
 In description:   
   
@@ -255,6 +266,7 @@ In description:
 **chicken**  
 In name:   
  - Taco Chicken  
+ - Diced Chicken  
  - Honey Mustard Chicken & Vegetables  
   
 In description:   

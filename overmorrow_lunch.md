@@ -1,10 +1,9 @@
 # 2024-11-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-04 09:12:19  
+Updated at: 2024-11-04 12:14:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-06)  
 **beef**  
 In name:   
- - Beef Fajita Meat  
  - Beef Barbacoa  
  - Beef Taco Meat  
  - Beef Pasta Tortellini  
@@ -26,7 +25,6 @@ In name:
  - Teriyaki Chicken Fillet  
  - Lemon Pepper Chicken Salad  
  - Spicy Lo Mein w/Chicken  
- - Chicken  
  - Fajita Chicken  
  - Soup Chicken Tortilla  
   
@@ -97,6 +95,8 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
  - Beef Taco Meat  
   
 In description:   
@@ -105,9 +105,11 @@ In description:
 **pork**  
 In name:   
  - Italian Pork Sausage  
+ - Pork & Beef Hard Salami  
  - Pork Carnita  
   
 In description:   
+ - Smoked Ham  
   
 **chicken**  
 In name:   
@@ -131,9 +133,15 @@ In name:
   
 In description:   
   
-**Poke Bar**  
+**Shrimp**  
 In name:   
- - Build Your Own Poke Bar  
+ - Steamed Shrimp  
+  
+In description:   
+  
+**Tuna**  
+In name:   
+ - Tuna  
   
 In description:   
   
@@ -238,6 +246,7 @@ In description:
 **chicken**  
 In name:   
  - Soup Chicken Tortilla  
+ - Diced Chicken  
  - Chicken Bruschetta Sandwich  
   
 In description:   

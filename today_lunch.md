@@ -1,6 +1,6 @@
 # 2024-11-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-04 09:11:56  
+Updated at: 2024-11-04 12:14:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-04)  
 **Shrimp**  
 In name:   
@@ -12,7 +12,6 @@ In description:
 In name:   
  - Beef Sirloin Tips  
  - Beef Bean & Carrot Stir Fry  
- - Beef Fajita Meat  
  - Beef Barbacoa  
  - Beef Taco Meat  
   
@@ -32,7 +31,6 @@ In description:
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
- - Chicken  
  - Chicken Tinga  
  - Chicken Noodle Soup  
   
@@ -103,10 +101,13 @@ In description:
 In name:   
  - Beef Vindaloo  
  - Beef & Chicken Meatballs  
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
  - Beef Fajita Meat  
  - Beef Taco Meat  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Pizza Slice - Bacon Cheeseburger  
  - Grilled Cheeseburger  
  - Vegan Taco Filling  
@@ -114,9 +115,12 @@ In description:
 **pork**  
 In name:   
  - Italian Pork Sausage  
+ - Pork & Beef Hard Salami  
  - Pork Sausage Patties  
   
 In description:   
+ - Smoked Ham  
+ - Bacon  
   
 **chicken**  
 In name:   
@@ -128,6 +132,7 @@ In name:
  - Diced Chicken  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-11-04)  
@@ -141,7 +146,7 @@ In description:
 In name:   
   
 In description:   
- - California Roll  (FujiSan)  
+ - Tempura Roll (FujiSan)  
   
 **lamb**  
 In name:   
@@ -237,7 +242,7 @@ In description:
 **chicken**  
 In name:   
  - Chicken Tinga  
- - Chicken Noodle Soup  
+ - Diced Chicken  
  - Brazilian Chicken w/ Salsa Vinaigrette  
   
 In description:   
