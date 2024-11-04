@@ -1,6 +1,6 @@
 # 2024-11-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-03 15:10:02  
+Updated at: 2024-11-03 18:54:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-03)  
 **Tuna**  
 In name:   
@@ -152,7 +152,7 @@ In description:
 **chicken**  
 In name:   
  - Pizza Slice BBQ Chicken & Bacon  
- - Brazilian Chicken w/ Salsa Vinaigrette  
+ - Crispy Chicken Sandwich  
  - Lemon Chicken Rice Soup  
   
 In description:   
