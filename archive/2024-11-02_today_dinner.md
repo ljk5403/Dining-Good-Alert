@@ -1,6 +1,6 @@
 # 2024-11-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-03 12:14:12  
+Updated at: 2024-11-03 15:10:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-03)  
 **Tuna**  
 In name:   
@@ -43,6 +43,12 @@ In name:
  - Watermelon Slices  
   
 In description:   
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Chocolate Sunflower Bar  
   
 **beef**  
 In name:   
