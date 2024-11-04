@@ -1,13 +1,7 @@
 # 2024-11-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-04 12:14:08  
+Updated at: 2024-11-04 15:09:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-04)  
-**Shrimp**  
-In name:   
- - Manicotti Shrimp Alfredo  
-  
-In description:   
-  
 **beef**  
 In name:   
  - Beef Sirloin Tips  
