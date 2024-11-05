@@ -1,6 +1,6 @@
 # 2024-11-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-04 19:18:43  
+Updated at: 2024-11-04 21:14:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-04)  
 **beef**  
 In name:   
@@ -133,17 +133,10 @@ In name:
   
 In description:   
   
-**Salmon**  
-In name:   
- - Smoked Salmon  
-  
-In description:   
-  
 **fish**  
 In name:   
   
 In description:   
- - Smoked Salmon  
  - Coconut Thai Curry Mahi Mahi  
  - California Roll  (FujiSan)  
   
@@ -151,12 +144,6 @@ In description:
 In name:   
  - Black Eyed Pea Curry w/ Rice  
  - Coconut Thai Curry Mahi Mahi  
-  
-In description:   
-  
-**beef**  
-In name:   
- - Beef Stew w/ Buttermilk Biscuit  
   
 In description:   
   
