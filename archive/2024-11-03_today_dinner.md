@@ -1,6 +1,6 @@
 # 2024-11-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-04 15:09:37  
+Updated at: 2024-11-04 18:51:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-04)  
 **beef**  
 In name:   
@@ -24,6 +24,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Maple Cider Chicken  
  - Plant-Based Chicken & Dumplings  
  - Lemon Pepper Chicken Salad  
  - Chicken  
@@ -101,6 +102,7 @@ In name:
  - Beef Taco Meat  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Pizza Slice - Bacon Cheeseburger  
  - Vegan Taco Filling  
  - Kimchee Reuben Sandwich  
@@ -121,6 +123,7 @@ In name:
  - Diced Chicken  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-11-04)  
