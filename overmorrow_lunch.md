@@ -1,6 +1,6 @@
 # 2024-11-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-05 09:11:37  
+Updated at: 2024-11-05 12:14:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-07)  
 **Cod**  
 In name:   
@@ -156,6 +156,8 @@ In description:
   
 **beef**  
 In name:   
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
   
 In description:   
  - Grilled Flank Steak  
@@ -164,10 +166,13 @@ In description:
   
 **pork**  
 In name:   
+ - Pork & Beef Hard Salami  
   
 In description:   
  - Italian Sausage w/ Peppers & Onions Sand  
  - Andouille Sausage  
+ - Smoked Ham  
+ - Bacon  
  - Pizza Slice Deluxe  
  - Soup Cream of Potato w/ Bacon  
   
@@ -228,6 +233,7 @@ In description:
 In name:   
  - Chicken Vindaloo  
  - Chicken Dumpling Soup  
+ - Diced Chicken  
   
 In description:   
  - Great Greens  

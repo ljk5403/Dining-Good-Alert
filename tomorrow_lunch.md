@@ -1,6 +1,6 @@
 # 2024-11-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-05 09:11:32  
+Updated at: 2024-11-05 12:14:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-06)  
 **beef**  
 In name:   
@@ -150,6 +150,8 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
   
 In description:   
  - Grilled Cheeseburger  
@@ -158,8 +160,11 @@ In description:
 **pork**  
 In name:   
  - Apricot Glazed Pork  
+ - Pork & Beef Hard Salami  
   
 In description:   
+ - Smoked Ham  
+ - Bacon  
   
 **chicken**  
 In name:   
@@ -223,6 +228,7 @@ In description:
 In name:   
  - Bulgogi Chicken  
  - Soup Chicken Tortilla  
+ - Diced Chicken  
  - Chicken Sausage Patty  
   
 In description:   
