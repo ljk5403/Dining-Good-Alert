@@ -1,6 +1,6 @@
 # 2024-11-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-06 09:11:11  
+Updated at: 2024-11-06 12:14:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-06)  
 **beef**  
 In name:   
@@ -97,8 +97,6 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Roast Beef  
- - Pork & Beef Hard Salami  
  - Beef Taco Meat  
   
 In description:   
@@ -107,11 +105,9 @@ In description:
 **pork**  
 In name:   
  - Italian Pork Sausage  
- - Pork & Beef Hard Salami  
  - Pork Carnita  
   
 In description:   
- - Smoked Ham  
   
 **chicken**  
 In name:   
@@ -143,6 +139,7 @@ In description:
   
 **Tuna**  
 In name:   
+ - Tuna Salad  
  - Tuna  
   
 In description:   
@@ -159,7 +156,7 @@ In description:
   
 **pork**  
 In name:   
- - Apricot Glazed Pork  
+ - Roasted Pork Loin  
  - Pork & Beef Hard Salami  
   
 In description:   
@@ -236,6 +233,18 @@ In description:
  - Great Greens  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-11-06)  
+**fish**  
+In name:   
+ - Goan Fish Curry  
+  
+In description:   
+  
+**curry**  
+In name:   
+ - Goan Fish Curry  
+  
+In description:   
+  
 **beef**  
 In name:   
  - Beef Taco Meat  
