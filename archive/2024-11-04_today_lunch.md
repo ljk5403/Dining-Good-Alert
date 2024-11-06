@@ -1,6 +1,6 @@
 # 2024-11-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-05 12:14:23  
+Updated at: 2024-11-05 15:10:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-05)  
 **Tuna**  
 In name:   
@@ -94,7 +94,7 @@ In description:
   
 **Shrimp**  
 In name:   
- - Fried Popcorn Shrimp  
+ - Coconut Shrimp  
  - Shrimp  
   
 In description:   
@@ -115,6 +115,7 @@ In description:
   
 **pork**  
 In name:   
+ - Italian Pork Sausage  
  - Pork & Beef Hard Salami  
  - Andouille Pork Sausage  
   
@@ -125,7 +126,6 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
- - Mediterranean Chicken  
  - Chicken Sausage Patties  
  - Chicken  
  - Diced Chicken  
