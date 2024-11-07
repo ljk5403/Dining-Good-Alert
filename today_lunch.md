@@ -1,6 +1,6 @@
 # 2024-11-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-07 12:14:06  
+Updated at: 2024-11-07 15:09:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-07)  
 **Cod**  
 In name:   
@@ -27,7 +27,6 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice  
- - Reuben  
  - Soup Cream of Potato w/ Bacon  
   
 **pork**  
