@@ -1,6 +1,6 @@
 # 2024-11-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-06 15:10:35  
+Updated at: 2024-11-06 18:51:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-06)  
 **Cod**  
 In name:   
@@ -22,6 +22,7 @@ In name:
   
 In description:   
  - Pepperoni & Mushrooms Pizza  
+ - Build Your Own Four Lakes Nacho Bar  
   
 **pork**  
 In name:   
@@ -39,6 +40,7 @@ In name:
 In description:   
  - Panko Crusted Cod w/ Lemon Sauce  
  - Pepperoni & Mushrooms Pizza  
+ - Build Your Own Four Lakes Nacho Bar  
  - Great Greens  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-11-06)  
@@ -151,7 +153,7 @@ In name:
  - Beef & Chicken Meatballs  
  - Chicken Bacon Ranch Pizza Slice  
  - Lemon Pepper Chicken Salad  
- - Sweet & Sour Chicken  
+ - Sweet & Spicy Orange Chicken  
  - Soup Chicken Tortilla  
  - Diced Chicken  
   
