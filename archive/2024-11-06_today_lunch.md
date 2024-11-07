@@ -1,6 +1,6 @@
 # 2024-11-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-07 06:19:47  
+Updated at: 2024-11-07 09:10:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-07)  
 **Cod**  
 In name:   
@@ -96,12 +96,15 @@ In description:
 **beef**  
 In name:   
  - Beef Chili w/ Beans  
+ - Beef Vindaloo  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
 In description:   
  - French Fry Bar  
  - Pizza Slice Sausage & Pepperoni  
+ - Grilled Cheeseburger  
+ - Vegan Taco Filling  
  - Soup Cream of Potato w/ Bacon  
   
 **pork**  
@@ -116,8 +119,7 @@ In description:
 In name:   
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
- - Chicken Bruschetta Sandwich  
- - Spicy Fajita Chicken  
+ - Chicken Tinga  
  - Chicken Dumpling Soup  
  - Diced Chicken  
   
