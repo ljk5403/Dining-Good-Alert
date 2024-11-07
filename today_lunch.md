@@ -1,6 +1,6 @@
 # 2024-11-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-06 15:10:29  
+Updated at: 2024-11-06 18:51:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-06)  
 **beef**  
 In name:   
@@ -10,6 +10,7 @@ In name:
   
 In description:   
  - Pepperoni & Mushrooms Pizza  
+ - Build Your Own Four Lakes Nacho Bar  
  - Vegan Taco Filling  
   
 **pork**  
@@ -30,6 +31,7 @@ In name:
   
 In description:   
  - Pepperoni & Mushrooms Pizza  
+ - Build Your Own Four Lakes Nacho Bar  
  - Great Greens  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-11-06)  

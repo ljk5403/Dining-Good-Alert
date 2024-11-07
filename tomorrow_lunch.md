@@ -1,6 +1,6 @@
 # 2024-11-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-06 15:10:40  
+Updated at: 2024-11-06 18:51:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-07)  
 **Cod**  
 In name:   
@@ -22,6 +22,7 @@ In description:
   
 **beef**  
 In name:   
+ - Mediterranean Beef  
  - Beef & Chicken Meatballs  
   
 In description:   
@@ -39,6 +40,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Mediterranean Chicken  
  - Chicken Dumpling Soup  
  - Beef & Chicken Meatballs  
  - Plant Based Chicken Strips  

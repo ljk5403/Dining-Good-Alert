@@ -1,6 +1,6 @@
 # 2024-11-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-06 15:10:46  
+Updated at: 2024-11-06 18:51:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-07)  
 **Tuna**  
 In name:   
@@ -24,6 +24,7 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
+ - Mediterranean Beef  
   
 In description:   
  - Burnt Ends  
@@ -45,6 +46,7 @@ In name:
  - Beef & Chicken Meatballs  
  - Plant Based Chicken Strips  
  - Chicken Mediterranean (AYCTE)  
+ - Mediterranean Chicken  
  - Chicken Dumpling Soup  
   
 In description:   
