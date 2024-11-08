@@ -1,6 +1,6 @@
 # 2024-11-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-08 09:11:16  
+Updated at: 2024-11-08 12:13:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-10)  
 **Tuna**  
 In name:   
@@ -72,6 +72,7 @@ In name:
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Lemon Chicken Rice Soup  
+ - Diced Chicken  
   
 In description:   
  - Pepperoni Pizza Slice  
