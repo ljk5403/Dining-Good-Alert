@@ -1,6 +1,6 @@
 # 2024-11-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-07 18:51:22  
+Updated at: 2024-11-07 21:14:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-08)  
 **steak**  
 In name:   
@@ -284,7 +284,6 @@ In description:
   
 **pork**  
 In name:   
- - Pork Carnita  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
@@ -292,6 +291,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Taco Chicken  
  - Diced Chicken  
   
 In description:   
