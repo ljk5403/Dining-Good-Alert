@@ -1,6 +1,6 @@
 # 2024-11-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-07 15:09:50  
+Updated at: 2024-11-07 18:51:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-07)  
 **Tuna**  
 In name:   
@@ -107,6 +107,12 @@ In name:
   
 In description:   
   
+**fish**  
+In name:   
+  
+In description:   
+ - Veggie Meatballs (Veg)  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
@@ -116,16 +122,17 @@ In name:
 In description:   
  - Rosemary Cabernet Flank Steak  
  - Pizza Slice Sausage & Pepperoni  
+ - Vegan Taco Filling  
  - Soup Cream of Potato w/ Bacon  
   
 **pork**  
 In name:   
  - Pork Sausage Patties  
+ - Pork Bratwurst Sandwich  
   
 In description:   
  - Pizza Slice Sausage & Pepperoni  
  - Soup Cream of Potato w/ Bacon  
- - Italian Sausage w/ Pepper & Onions  
   
 **chicken**  
 In name:   
@@ -133,7 +140,7 @@ In name:
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Mediterranean Chicken  
- - Spicy Fajita Chicken  
+ - Chicken Tinga  
  - Chicken Dumpling Soup  
  - Diced Chicken  
   
