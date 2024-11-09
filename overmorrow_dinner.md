@@ -1,6 +1,6 @@
 # 2024-11-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-08 15:09:57  
+Updated at: 2024-11-08 18:50:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-10)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -61,6 +61,8 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
  - Beef Taco Meat  
   
 In description:   
@@ -69,10 +71,12 @@ In description:
 **pork**  
 In name:   
  - Boneless Baked Pork Ham  
+ - Pork & Beef Hard Salami  
  - Pork Carnita  
   
 In description:   
  - Pizza Slice Sausage  
+ - Smoked Ham  
   
 **chicken**  
 In name:   

@@ -1,6 +1,6 @@
 # 2024-11-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-08 15:09:53  
+Updated at: 2024-11-08 18:49:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-09)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-11-09)  
 **watermelon**  
@@ -32,6 +32,8 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
  - Beef Taco Meat  
   
 In description:   
@@ -42,10 +44,13 @@ In description:
 In name:   
  - Herb Crusted Pork Loin  
  - Italian Pork Sausage  
+ - Pork & Beef Hard Salami  
  - Pork Sausage Patties  
   
 In description:   
  - Pizza Slice Sausage  
+ - Smoked Ham  
+ - Bacon  
   
 **chicken**  
 In name:   
