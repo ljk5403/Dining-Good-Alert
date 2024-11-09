@@ -1,6 +1,6 @@
 # 2024-11-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-08 15:09:49  
+Updated at: 2024-11-08 18:49:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-08)  
 **clam**  
 In name:   
@@ -124,28 +124,34 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
  - Beef Barbacoa  
  - Beef Taco Meat  
   
 In description:   
+ - Italian Meat Sauce  
+ - Pepperoni Pizza Slice  
  - Vegan Taco Filling  
   
 **pork**  
 In name:   
+ - Pork & Beef Hard Salami  
   
 In description:   
- - Pizza Slice Chicken Cordon Bleu  
+ - Pizza Slice Sausage  
+ - Smoked Ham  
  - Soup Clam Chowder  
   
 **chicken**  
 In name:   
  - Brazilian Chicken w/ Salsa Vinaigrette  
  - Beef & Chicken Meatballs  
- - Pizza Slice Chicken Cordon Bleu  
  - Chicken Tikka Masala  
  - Chicken Sausage Patties  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-11-08)  
