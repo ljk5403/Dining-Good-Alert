@@ -1,6 +1,6 @@
 # 2024-11-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-09 12:12:31  
+Updated at: 2024-11-09 15:09:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-09)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-11-09)  
 **watermelon**  
@@ -25,9 +25,14 @@ In name:
 In description:   
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-11-09)  
+**Cod**  
+In name:   
+ - Fried Cod Basket  
+  
+In description:   
+  
 **beef**  
 In name:   
- - Beef Tri Tip Carved w/ Chimichurri  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
@@ -44,7 +49,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Drumstick BBQ Glazed  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Crispy Buffalo Chicken Sandwich  
