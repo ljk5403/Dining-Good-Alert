@@ -1,6 +1,6 @@
 # 2024-11-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-09 18:54:40  
+Updated at: 2024-11-09 21:16:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-09)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-11-09)  
 **watermelon**  
@@ -42,7 +42,6 @@ In description:
   
 **pork**  
 In name:   
- - Herb Crusted Pork Loin  
  - Italian Pork Sausage  
  - Pork & Beef Hard Salami  
  - Pork Sausage Patties  
@@ -54,7 +53,7 @@ In description:
   
 **chicken**  
 In name:   
- - Cajun Chicken Pasta  
+ - Brazilian Chicken w/ Salsa Vinaigrette  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
