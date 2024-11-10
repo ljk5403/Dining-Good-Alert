@@ -1,33 +1,50 @@
-# 2024-11-09 lunch  
+# 2024-11-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-09 21:16:10  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-09)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-11-09)  
-**watermelon**  
+Updated at: 2024-11-10 00:13:51  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-10)  
+**Tuna**  
 In name:   
- - Melon Watermelon Whole Sliced  
+ - Lemon Pepper Tuna Salad  
   
 In description:   
   
-**pork**  
+**beef**  
 In name:   
+ - Beef French Dip Sandwich  
+ - Beef Barbacoa  
+ - Beef Taco Meat  
   
 In description:   
- - Lumberjack Bowl w/Bacon  
+ - Pepperoni Pizza Slice  
+ - Vegan Taco Filling  
   
 **chicken**  
 In name:   
- - Grilled Buffalo Chicken Sandwich  
- - Chicken Sausage Patty  
- - Soup Cream of Chicken & Wild Rice  
- - Lemon Pepper Chicken Salad  
+ - Chicken & Penne w/ Pesto Creme  
+ - Fajita Chicken  
+ - Lemon Chicken Rice Soup  
+  
+In description:   
+ - Pepperoni Pizza Slice  
+ - Great Greens  
+  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-11-10)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-11-10)  
+**watermelon**  
+In name:   
+ - Watermelon Slices  
   
 In description:   
   
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-11-09)  
-**Cod**  
+**steak**  
 In name:   
- - Fried Cod Basket  
+ - Plant-Based Pepper Steak Stir Fry  
+  
+In description:   
+  
+**Shrimp**  
+In name:   
+ - Coconut Shrimp  
   
 In description:   
   
@@ -37,12 +54,15 @@ In name:
  - Beef Taco Meat  
   
 In description:   
+ - Pork Feijoada  
+ - Plant-Based Pepper Steak Stir Fry  
  - Pepperoni Pizza Slice  
+ - Fired Up Burger  
   
 **pork**  
 In name:   
- - Italian Pork Sausage  
- - Pork Sausage Patties  
+ - Pork Feijoada  
+ - Pork Carnita  
   
 In description:   
  - Pizza Slice Sausage  
@@ -50,25 +70,18 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
- - Lemon Pepper Chicken Salad  
- - Crispy Buffalo Chicken Sandwich  
- - Chicken Tinga  
- - Soup Cream of Chicken & Wild Rice  
+ - Giardiniera Chicken  
+ - Lemon Chicken Rice Soup  
  - Diced Chicken  
   
 In description:   
  - Pepperoni Pizza Slice  
+ - Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-11-09)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-11-10)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
-  
-In description:   
-  
-**steak**  
-In name:   
- - Philly Cheesesteak Sandwich  
   
 In description:   
   
@@ -80,25 +93,63 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Philly Cheesesteak Sandwich  
+ - Corn Dog  
   
 **pork**  
 In name:   
- - Pork Italian Sausage  
+ - Pork Sausage Links  
  - Pork & Beef Hard Salami  
+ - Pork Carnita  
   
 In description:   
+ - Corn Dog  
  - Smoked Ham  
+ - Bacon  
   
 **chicken**  
 In name:   
+ - Chicken Sausage Patty  
  - Beef & Chicken Meatballs  
- - Fajita Chicken  
- - Soup Cream of Chicken & Wild Rice  
+ - Lemon Chicken Rice Soup  
   
 In description:   
+ - Corn Dog  
  - Station Recipe - Great Greens - FLM  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2024-11-09)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-11-09)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2024-11-10)  
+**fish**  
+In name:   
+  
+In description:   
+ - Vietnamese Pork with Rice  
+  
+**beef**  
+In name:   
+  
+In description:   
+ - Pizza Slice Sausage & Pepperoni  
+ - Cowboy Burger  
+  
+**pork**  
+In name:   
+ - Vietnamese Pork with Rice  
+ - Pork Sausage Patty  
+  
+In description:   
+ - Pizza Slice Sausage & Pepperoni  
+ - Chicken Biscuit w/ Sausage Gravy  
+  
+**chicken**  
+In name:   
+ - Maple Cider Chicken  
+ - Pizza Slice Chicken Bacon Ranch  
+ - Lemon Chicken Rice Soup  
+ - Diced Chicken  
+ - Chicken Biscuit w/ Sausage Gravy  
+  
+In description:   
+ - Pizza Slice Sausage & Pepperoni  
+ - Great Greens  
+  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-11-10)  
   
