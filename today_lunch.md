@@ -1,6 +1,6 @@
 # 2024-11-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-10 06:18:00  
+Updated at: 2024-11-10 09:10:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-10)  
 **Tuna**  
 In name:   
@@ -30,12 +30,6 @@ In description:
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-11-10)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-11-10)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
-In description:   
-  
 **steak**  
 In name:   
  - Plant-Based Pepper Steak Stir Fry  
@@ -54,14 +48,13 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Pork Feijoada  
  - Plant-Based Pepper Steak Stir Fry  
  - Pepperoni Pizza Slice  
  - Fired Up Burger  
   
 **pork**  
 In name:   
- - Pork Feijoada  
+ - Jerk Pork Chop  
  - Pork Carnita  
   
 In description:   
@@ -76,7 +69,6 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice  
- - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-11-10)  
 **watermelon**  
