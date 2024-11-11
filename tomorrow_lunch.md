@@ -1,6 +1,6 @@
 # 2024-11-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-11 09:11:07  
+Updated at: 2024-11-11 12:13:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-12)  
 **Tuna**  
 In name:   
@@ -23,6 +23,7 @@ In description:
 **curry**  
 In name:   
  - Indian Curry Garbanzo Beans  
+ - Curry Potatoes  
   
 In description:   
   
@@ -151,7 +152,6 @@ In name:
  - Beef & Chicken Meatballs  
  - Mediterranean Chicken  
  - Chicken Sausage Patties  
- - Diced Chicken  
   
 In description:   
  - Great Greens  
