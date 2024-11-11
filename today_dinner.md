@@ -1,6 +1,6 @@
 # 2024-11-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-11 12:13:49  
+Updated at: 2024-11-11 15:10:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-11)  
 **beef**  
 In name:   
@@ -86,6 +86,7 @@ In name:
  - Beef Taco Meat  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Vegan Taco Filling  
  - Blackened Hamburger  
  - Vegan Sloppy Joe  
@@ -98,17 +99,18 @@ In name:
  - Pork Sausage Patties  
   
 In description:   
+ - Pizza Slice Hawaiian  
  - Smoked Ham  
  - Bacon  
   
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
- - Pizza Slice Mediterranean Chicken  
  - Chicken Tinga  
  - Chicken Noodle Soup  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-11-11)  

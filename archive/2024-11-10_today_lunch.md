@@ -1,12 +1,11 @@
 # 2024-11-11 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-11 09:11:04  
+Updated at: 2024-11-11 12:13:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-11)  
 **beef**  
 In name:   
  - Texas BBQ Sliced Beef Brisket  
  - Beef Broccoli Stir Fry  
- - Beef Fajita Meat  
  - Beef Barbacoa  
  - Beef Taco Meat  
   
@@ -24,7 +23,6 @@ In description:
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
- - Chicken  
  - Chicken Tinga  
  - Chicken Noodle Soup  
   
@@ -113,7 +111,6 @@ In name:
  - Island Spiced Beef Steak  
  - Beef & Chicken Meatballs  
  - Barbacoa Beef w/Mango Habanero Sandwich  
- - Beef Fajita Meat  
  - Beef Taco Meat  
   
 In description:   
@@ -131,10 +128,8 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
- - Chicken  
  - Chicken Tinga  
  - Chicken Noodle Soup  
- - Diced Chicken  
   
 In description:   
  - Pepperoni Pizza Slice  
@@ -184,6 +179,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
  - Chicken Noodle Soup  
  - Boneless Skinless Chicken Thigh  
@@ -231,11 +227,17 @@ In description:
  - Great Greens  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-11-11)  
-**Cod**  
+**Tilapia**  
 In name:   
- - Fried Cod Basket  
+ - Crispy Chipotle Tilapia w/Avocado Puree  
   
 In description:   
+  
+**curry**  
+In name:   
+  
+In description:   
+ - Chana Saag w/ Tofu  
   
 **beef**  
 In name:   
