@@ -1,6 +1,6 @@
 # 2024-11-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-10 18:52:44  
+Updated at: 2024-11-10 21:16:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-10)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -58,6 +58,12 @@ In name:
   
 In description:   
   
+**Shrimp**  
+In name:   
+ - Coconut Shrimp  
+  
+In description:   
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
@@ -81,7 +87,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Pot Pie w/Biscuit  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Lemon Chicken Rice Soup  
@@ -121,7 +126,6 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Grilled Cheeseburger  
   
 **pork**  
 In name:   
