@@ -1,6 +1,6 @@
 # 2024-11-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-11 18:50:54  
+Updated at: 2024-11-11 21:13:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-11)  
 **beef**  
 In name:   
@@ -120,6 +120,12 @@ In name:
   
 In description:   
   
+**BBQ Pork Sandwich**  
+In name:   
+ - BBQ Pork Sandwich  
+  
+In description:   
+  
 **fish**  
 In name:   
   
@@ -143,6 +149,7 @@ In description:
   
 **pork**  
 In name:   
+ - BBQ Pork Sandwich  
  - Italian Pork Sausage  
   
 In description:   
@@ -150,7 +157,6 @@ In description:
   
 **chicken**  
 In name:   
- - Grilled Chicken Sandwich  
  - Chicken Drumstick BBQ Glazed  
  - Chicken Tinga  
  - Chicken Noodle Soup  
