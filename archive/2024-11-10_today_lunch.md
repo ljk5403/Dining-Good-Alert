@@ -1,6 +1,6 @@
 # 2024-11-11 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-11 12:13:47  
+Updated at: 2024-11-11 15:09:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-11)  
 **beef**  
 In name:   
@@ -158,7 +158,7 @@ In description:
   
 **beef**  
 In name:   
- - Beef Stroganoff Creamy  
+ - Unit Made Sauce - Beef Ragu (AYCTE)  
  - Roast Beef  
  - Pork & Beef Hard Salami  
  - Beef Taco Meat  
