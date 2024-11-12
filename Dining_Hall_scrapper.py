@@ -145,8 +145,9 @@ def summary_generator(date : datetime = None, reldate : str =None):
                     print("**" + keyword + "**", file=f)
                     print("In name: ", file = f)
                     print_as_list_in_md(dish_list[0], f)
-                    print("In description: ", file = f) 
-                    print_as_list_in_md(dish_list[1], f)
+                    if dish_list[1]:
+                        print("In description: ", file = f) 
+                        print_as_list_in_md(dish_list[1], f)
             print("", file = f)
         add_spaces_to_file(filename)
         print("Successfully updated " + filename)
