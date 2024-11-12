@@ -1,6 +1,6 @@
 # 2024-11-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-12 12:52:48  
+Updated at: 2024-11-12 15:09:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-13)  
 **beef**  
 In name:   
@@ -138,6 +138,8 @@ In name:
   
 **beef**  
 In name:   
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
  - Beef & Chicken Meatballs  
   
 In description:   
@@ -146,7 +148,12 @@ In description:
   
 **pork**  
 In name:   
+ - Pork & Beef Hard Salami  
  - Pork Bratwurst Sandwich  
+  
+In description:   
+ - Smoked Ham  
+ - Bacon  
   
 **chicken**  
 In name:   
