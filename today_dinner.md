@@ -1,24 +1,18 @@
 # 2024-11-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-12 12:14:13  
+Updated at: 2024-11-12 12:52:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-12)  
 **Cod**  
 In name:   
  - Greek Cod  
   
-In description:   
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
   
-In description:   
-  
 **curry**  
 In name:   
  - Indian Curry Garbanzo Beans  
-  
-In description:   
   
 **beef**  
 In name:   
@@ -45,20 +39,14 @@ In description:
 In name:   
  - Melon Watermelon Whole Sliced  
   
-In description:   
-  
 **Tuna**  
 In name:   
  - Tuna Salad  
-  
-In description:   
   
 **Salmon**  
 In name:   
  - Salmon Philly Roll (FujiSan)  
  - Salmon Spicy Roll (FujiSan)  
-  
-In description:   
   
 **fish**  
 In name:   
@@ -136,19 +124,13 @@ In description:
 In name:   
  - Watermelon Slices  
   
-In description:   
-  
 **lamb**  
 In name:   
  - Smoked Leg of Lamb  
   
-In description:   
-  
 **curry**  
 In name:   
  - Build Your Own Curry Bowl - Four Lakes  
-  
-In description:   
   
 **beef**  
 In name:   
@@ -156,13 +138,9 @@ In name:
  - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
   
-In description:   
-  
 **pork**  
 In name:   
  - Ancho Braised Pork  
-  
-In description:   
   
 **chicken**  
 In name:   
@@ -178,8 +156,6 @@ In description:
 In name:   
  - GF & DF Shrimp Scampi w/Garlic/Parsley  
   
-In description:   
-  
 **lamb**  
 In name:   
   
@@ -189,8 +165,6 @@ In description:
 **curry**  
 In name:   
  - Mixed Vegetable Curry  
-  
-In description:   
   
 **beef**  
 In name:   
@@ -218,8 +192,6 @@ In description:
 In name:   
  - Country Fried Steak  
   
-In description:   
-  
 **fish**  
 In name:   
   
@@ -230,8 +202,6 @@ In description:
 In name:   
  - Duck Curry  
  - Garbanzo Bean Curry  
-  
-In description:   
   
 **beef**  
 In name:   

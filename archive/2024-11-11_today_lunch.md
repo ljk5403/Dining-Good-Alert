@@ -1,6 +1,6 @@
 # 2024-11-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-12 09:11:24  
+Updated at: 2024-11-12 12:14:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-12)  
 **Tuna**  
 In name:   
@@ -194,6 +194,7 @@ In description:
 **chicken**  
 In name:   
  - Italian Chicken  
+ - Lemon Pepper Chicken Salad  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  

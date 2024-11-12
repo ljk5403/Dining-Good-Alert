@@ -1,6 +1,6 @@
 # 2024-11-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-12 12:14:15  
+Updated at: 2024-11-12 12:52:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-13)  
 **beef**  
 In name:   
@@ -34,19 +34,13 @@ In description:
 In name:   
  - Melon Watermelon Whole Sliced  
   
-In description:   
-  
 **Tuna**  
 In name:   
  - Tuna Salad  
   
-In description:   
-  
 **curry**  
 In name:   
  - Curry Potatoes  
-  
-In description:   
   
 **beef**  
 In name:   
@@ -67,32 +61,22 @@ In name:
  - Tandoori Chicken  
  - Soup Chicken Tortilla  
   
-In description:   
-  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-11-13)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
   
-In description:   
-  
 **Chicken Drummies**  
 In name:   
  - Chicken Drummies  
-  
-In description:   
   
 **Shrimp**  
 In name:   
  - Sweet & Sour Shrimp  
   
-In description:   
-  
 **Cod**  
 In name:   
  - Basque Style Cod  
-  
-In description:   
   
 **fish**  
 In name:   
@@ -144,19 +128,13 @@ In description:
 In name:   
  - Watermelon Slices  
   
-In description:   
-  
 **Tilapia**  
 In name:   
  - Tilapia Chipotle Lime Crusted  
   
-In description:   
-  
 **curry**  
 In name:   
  - Build Your Own Curry Bowl - Four Lakes  
-  
-In description:   
   
 **beef**  
 In name:   
@@ -169,8 +147,6 @@ In description:
 **pork**  
 In name:   
  - Pork Bratwurst Sandwich  
-  
-In description:   
   
 **chicken**  
 In name:   
@@ -188,8 +164,6 @@ In description:
 **Tilapia**  
 In name:   
  - Lemon Bake Tilapia  
-  
-In description:   
   
 **curry**  
 In name:   
@@ -217,19 +191,13 @@ In description:
 In name:   
  - Garlic Baked Catfish  
   
-In description:   
-  
 **fish**  
 In name:   
  - Garlic Baked Catfish  
   
-In description:   
-  
 **curry**  
 In name:   
  - Black Eyed Pea Curry w/ Rice  
-  
-In description:   
   
 **beef**  
 In name:   

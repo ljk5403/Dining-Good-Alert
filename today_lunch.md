@@ -1,31 +1,23 @@
 # 2024-11-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-12 12:14:11  
+Updated at: 2024-11-12 12:52:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-12)  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
   
-In description:   
-  
 **catfish**  
 In name:   
  - Blackened Catfish  
-  
-In description:   
   
 **fish**  
 In name:   
  - Blackened Catfish  
   
-In description:   
-  
 **curry**  
 In name:   
  - Indian Curry Garbanzo Beans  
  - Curry Potatoes  
-  
-In description:   
   
 **beef**  
 In name:   
@@ -56,8 +48,6 @@ In description:
 In name:   
  - Melon Watermelon Whole Sliced  
   
-In description:   
-  
 **Shrimp**  
 In name:   
   
@@ -74,14 +64,10 @@ In description:
 In name:   
  - Tuna Salad  
   
-In description:   
-  
 **Salmon**  
 In name:   
  - Salmon Philly Roll (FujiSan)  
  - Salmon Spicy Roll (FujiSan)  
-  
-In description:   
   
 **fish**  
 In name:   
@@ -95,8 +81,6 @@ In description:
 In name:   
  - Beef Curry Stew  
  - Vegan Curry Stew  
-  
-In description:   
   
 **beef**  
 In name:   
@@ -124,8 +108,6 @@ In name:
  - Philly Cheesesteak Sandwich  
  - Tempeh Philly Cheesesteak Sandwich  
  - Spicy Steak Fajita  
-  
-In description:   
   
 **beef**  
 In name:   
@@ -155,14 +137,10 @@ In name:
  - Chicken Bulgogi Nachos  
  - Diced Chicken  
   
-In description:   
-  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-11-12)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
-  
-In description:   
   
 **curry**  
 In name:   
@@ -206,8 +184,6 @@ In description:
 In name:   
  - Guajillo Shrimp  
   
-In description:   
-  
 **lamb**  
 In name:   
  - Lamb & Beef Gyro Sandwich  
@@ -247,8 +223,6 @@ In description:
 **curry**  
 In name:   
  - Curry Cauliflower & Butternut Squash  
-  
-In description:   
   
 **beef**  
 In name:   

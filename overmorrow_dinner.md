@@ -1,24 +1,18 @@
 # 2024-11-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-12 12:14:18  
+Updated at: 2024-11-12 12:52:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-14)  
 **Chicken Drummies**  
 In name:   
  - Chicken Drummies  
   
-In description:   
-  
 **Shrimp**  
 In name:   
  - Blackened Shrimp  
   
-In description:   
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
-  
-In description:   
   
 **fish**  
 In name:   
@@ -61,19 +55,13 @@ In description:
 In name:   
  - Melon Watermelon Whole Sliced  
   
-In description:   
-  
 **steak**  
 In name:   
  - Country Fried Steak  
   
-In description:   
-  
 **Salmon**  
 In name:   
  - Island Spiced Salmon  
-  
-In description:   
   
 **fish**  
 In name:   
@@ -111,13 +99,9 @@ In description:
 In name:   
  - Coconut Shrimp  
   
-In description:   
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
-  
-In description:   
   
 **curry**  
 In name:   
@@ -162,13 +146,9 @@ In description:
 In name:   
  - Watermelon Slices  
   
-In description:   
-  
 **curry**  
 In name:   
  - Build Your Own Curry Bowl - Four Lakes  
-  
-In description:   
   
 **beef**  
 In name:   
@@ -202,8 +182,6 @@ In description:
 **Shrimp**  
 In name:   
  - Shrimp Etouffee (AYCTE)  
-  
-In description:   
   
 **beef**  
 In name:   

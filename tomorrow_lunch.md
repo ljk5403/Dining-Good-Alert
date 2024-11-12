@@ -1,6 +1,6 @@
 # 2024-11-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-12 12:14:14  
+Updated at: 2024-11-12 12:52:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-13)  
 **beef**  
 In name:   
@@ -35,19 +35,13 @@ In description:
 In name:   
  - Melon Watermelon Whole Sliced  
   
-In description:   
-  
 **Tuna**  
 In name:   
  - Tuna Salad  
   
-In description:   
-  
 **Tilapia**  
 In name:   
  - Tilapia Chipotle Lime Crusted  
-  
-In description:   
   
 **curry**  
 In name:   
@@ -76,14 +70,10 @@ In name:
  - Chicken Tikka Masala  
  - Soup Chicken Tortilla  
   
-In description:   
-  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-11-13)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
-  
-In description:   
   
 **fish**  
 In name:   
@@ -95,8 +85,6 @@ In description:
 **curry**  
 In name:   
  - VEGAN Thai Chick'n w/ Green Curry (VN)  
-  
-In description:   
   
 **beef**  
 In name:   
@@ -135,13 +123,9 @@ In description:
 In name:   
  - Watermelon Slices  
   
-In description:   
-  
 **Cod**  
 In name:   
  - Miso Cod  
-  
-In description:   
   
 **fish**  
 In name:   
@@ -153,8 +137,6 @@ In description:
 **curry**  
 In name:   
  - Build Your Own Curry Bowl - Four Lakes  
-  
-In description:   
   
 **beef**  
 In name:   
@@ -186,6 +168,10 @@ In description:
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2024-11-13)  
+**beef**  
+In name:   
+ - Mediterranean Beef  
+  
 **pork**  
 In name:   
  - Spicy Greenbush Pork Loin  
@@ -196,6 +182,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Mediterranean Chicken  
  - Soup Chicken Tortilla  
  - Diced Chicken  
  - Chicken Sausage Patty  
@@ -208,8 +195,6 @@ In description:
 **lamb**  
 In name:   
  - Lamb & Beef Gyro Sandwich  
-  
-In description:   
   
 **beef**  
 In name:   

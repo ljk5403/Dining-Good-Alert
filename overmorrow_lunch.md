@@ -1,12 +1,10 @@
 # 2024-11-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-12 12:14:17  
+Updated at: 2024-11-12 12:52:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-14)  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
-  
-In description:   
   
 **fish**  
 In name:   
@@ -51,13 +49,9 @@ In description:
 In name:   
  - Melon Watermelon Whole Sliced  
   
-In description:   
-  
 **lamb**  
 In name:   
  - Herb Roasted Lamb  
-  
-In description:   
   
 **beef**  
 In name:   
@@ -89,8 +83,6 @@ In description:
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
-  
-In description:   
   
 **beef**  
 In name:   
@@ -132,13 +124,9 @@ In description:
 In name:   
  - Watermelon Slices  
   
-In description:   
-  
 **curry**  
 In name:   
  - Build Your Own Curry Bowl - Four Lakes  
-  
-In description:   
   
 **beef**  
 In name:   
@@ -178,13 +166,9 @@ In description:
 In name:   
  - Ham Steak  
   
-In description:   
-  
 **Cod**  
 In name:   
  - Greek Cod  
-  
-In description:   
   
 **beef**  
 In name:   
@@ -217,13 +201,9 @@ In description:
 In name:   
  - Shrimp Po-Boy Sandwich  
   
-In description:   
-  
 **curry**  
 In name:   
  - Indian Vegetable Curry  
-  
-In description:   
   
 **beef**  
 In name:   
