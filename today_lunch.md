@@ -1,6 +1,6 @@
 # 2024-11-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-12 06:20:42  
+Updated at: 2024-11-12 09:11:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-12)  
 **Tuna**  
 In name:   
@@ -131,7 +131,7 @@ In description:
 In name:   
  - Beef Sirloin Tips  
  - Beef & Chicken Meatballs  
- - Beef Bulgogi Bao Bun  
+ - Sub - Beef Korean BBQ (Bulgogi]  
  - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
   
@@ -141,6 +141,7 @@ In description:
   
 **pork**  
 In name:   
+ - Italian Pork Sausage  
   
 In description:   
  - Pizza Slice Cubano  
@@ -150,11 +151,11 @@ In description:
 In name:   
  - Irish Roast Chicken w/Leeks and Bacon  
  - Beef & Chicken Meatballs  
- - Mediterranean Chicken  
  - Chicken Sausage Patties  
+ - Chicken Bulgogi Nachos  
+ - Diced Chicken  
   
 In description:   
- - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-11-12)  
 **watermelon**  
@@ -234,6 +235,7 @@ In name:
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
  - Plant Based Sweet & Sour Chicken  
+ - Diced Chicken  
  - Plant Based Chicken Strips  
   
 In description:   
