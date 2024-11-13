@@ -1,6 +1,6 @@
 # 2024-11-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-12 12:52:38  
+Updated at: 2024-11-12 15:09:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-12)  
 **Cod**  
 In name:   
@@ -134,16 +134,24 @@ In name:
   
 **beef**  
 In name:   
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
  - Beef & Tater Tot Bake  
  - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
   
 **pork**  
 In name:   
+ - Pork & Beef Hard Salami  
  - Ancho Braised Pork  
+  
+In description:   
+ - Smoked Ham  
+ - Bacon  
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Italian Chicken  
   
 In description:   

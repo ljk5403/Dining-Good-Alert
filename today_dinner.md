@@ -1,6 +1,6 @@
 # 2024-11-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-12 15:09:48  
+Updated at: 2024-11-12 18:51:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-12)  
 **Cod**  
 In name:   
@@ -82,9 +82,6 @@ In description:
 In name:   
  - Spicy Steak Fajita  
   
-In description:   
- - Montreal Chicken  
-  
 **beef**  
 In name:   
  - Corned Beef  
@@ -92,7 +89,7 @@ In name:
  - Beef & Chicken Meatballs  
  - Roast Beef  
  - Pork & Beef Hard Salami  
- - Beef Bulgogi Bao Bun  
+ - Sub - Beef Korean BBQ (Bulgogi]  
  - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
   
@@ -101,6 +98,8 @@ In description:
   
 **pork**  
 In name:   
+ - Smoked Pulled Pork  
+ - Italian Pork Sausage  
  - Pork & Beef Hard Salami  
   
 In description:   
@@ -110,9 +109,8 @@ In description:
   
 **chicken**  
 In name:   
- - Montreal Chicken  
  - Beef & Chicken Meatballs  
- - Mediterranean Chicken  
+ - Chicken Bulgogi Nachos  
  - Chicken Sausage Patties  
  - Crispy Chicken Sandwich  
   

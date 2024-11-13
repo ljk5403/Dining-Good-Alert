@@ -1,6 +1,6 @@
 # 2024-11-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-12 12:52:32  
+Updated at: 2024-11-12 15:09:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-12)  
 **Tuna**  
 In name:   
@@ -156,9 +156,6 @@ In name:
  - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
   
-In description:   
- - Grilled Cheeseburger  
-  
 **pork**  
 In name:   
  - Smoked Pulled Pork Sandwich  
@@ -171,6 +168,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Grilled Chicken Fillet  
  - Italian Chicken  
  - Lemon Pepper Chicken Salad  
   

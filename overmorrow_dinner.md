@@ -1,6 +1,6 @@
 # 2024-11-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-12 15:09:54  
+Updated at: 2024-11-12 18:51:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-14)  
 **Chicken Drummies**  
 In name:   
@@ -103,6 +103,10 @@ In name:
 In name:   
  - Lemon Pepper Tuna Salad  
   
+**fish**  
+In name:   
+ - Fish Sauce  
+  
 **curry**  
 In name:   
   
@@ -112,6 +116,7 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
+ - Protein - Beef Thinly Sliced  
  - Beef Taco Meat  
   
 In description:   
@@ -132,6 +137,7 @@ In name:
  - Shoyu Chicken  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
+ - Protein - Chicken Thinly Sliced  
  - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
   
