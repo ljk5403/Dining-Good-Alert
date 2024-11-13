@@ -1,6 +1,6 @@
 # 2024-11-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-13 06:20:36  
+Updated at: 2024-11-13 09:11:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-13)  
 **beef**  
 In name:   
@@ -90,23 +90,16 @@ In name:
  - Beef & Chicken Meatballs  
  - Roast Beef  
  - Pork & Beef Hard Salami  
- - Beef Taco Meat  
   
 In description:   
  - Italian Meat Sauce  
- - Pepperoni Pizza Slice  
- - Pizza Slice Meat Lovers w/ Bacon  
- - Pork Bratwurst Sandwich  
   
 **pork**  
 In name:   
  - Italian Pork Sausage  
  - Pork & Beef Hard Salami  
- - Pork Carnita  
- - Pork Bratwurst Sandwich  
   
 In description:   
- - Pizza Slice Meat Lovers w/ Bacon  
  - Smoked Ham  
   
 **chicken**  
@@ -115,12 +108,9 @@ In name:
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Plant Based Sweet & Sour Chicken  
- - Chicken Tinga  
  - Soup Chicken Tortilla  
   
 In description:   
- - Pepperoni Pizza Slice  
- - Pizza Slice Meat Lovers w/ Bacon  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-11-13)  
