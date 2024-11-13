@@ -1,6 +1,6 @@
 # 2024-11-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-12 18:51:50  
+Updated at: 2024-11-12 21:15:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-12)  
 **Cod**  
 In name:   
@@ -82,6 +82,10 @@ In description:
 In name:   
  - Spicy Steak Fajita  
   
+**Cod**  
+In name:   
+ - Cod Nuggets  
+  
 **beef**  
 In name:   
  - Corned Beef  
@@ -112,7 +116,6 @@ In name:
  - Beef & Chicken Meatballs  
  - Chicken Bulgogi Nachos  
  - Chicken Sausage Patties  
- - Crispy Chicken Sandwich  
   
 In description:   
  - Great Greens  
