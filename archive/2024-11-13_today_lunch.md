@@ -1,6 +1,6 @@
 # 2024-11-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-14 09:11:26  
+Updated at: 2024-11-14 12:15:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-14)  
 **Tuna**  
 In name:   
@@ -90,7 +90,7 @@ In name:
   
 In description:   
  - Pizza Slice Deluxe  
- - Mushroom Swiss Burger  
+ - Pork Bratwurst Sandwich  
  - Soup Cream of Potato w/ Bacon  
   
 **pork**  
@@ -98,6 +98,7 @@ In name:
  - Baked Pork Chops w/Dressing  
  - Pork Gravy with Vegetables  
  - Pork Sausage Patties  
+ - Pork Bratwurst Sandwich  
   
 In description:   
  - Pizza Slice Deluxe  
@@ -106,7 +107,6 @@ In description:
 **chicken**  
 In name:   
  - Chicken Baked  (1 piece)  
- - Plant-Based Chicken & Dumplings  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Chicken Dumpling Soup  
@@ -128,8 +128,6 @@ In name:
 **beef**  
 In name:   
  - Italian Beef Sandwich  
- - Roast Beef  
- - Pork & Beef Hard Salami  
  - Beef Taco Meat  
   
 In description:   
@@ -138,18 +136,16 @@ In description:
   
 **pork**  
 In name:   
- - Pork & Beef Hard Salami  
   
 In description:   
  - Andouille Sausage  
- - Smoked Ham  
- - Bacon  
  - Soup Cream of Potato w/ Bacon  
   
 **chicken**  
 In name:   
  - Jamaican Jerk Chicken Drumstick  
  - Plant-Based Chicken Tenders  
+ - Lemon Pepper Chicken Salad  
  - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
   
@@ -167,11 +163,16 @@ In name:
 In name:   
  - Greek Cod  
   
+**squid**  
+In name:   
+  
+In description:   
+ - Fried Calamari  
+  
 **beef**  
 In name:   
   
 In description:   
- - Pizza Slice Cheeseburger  
  - Soup Cream of Potato w/ Bacon  
   
 **pork**  
@@ -179,6 +180,7 @@ In name:
  - Pizza Slice BBQ Pulled Pork  
   
 In description:   
+ - Pizza Slice Sausage  
  - Soup Cream of Potato w/ Bacon  
  - Ham Steak  
  - Sand Artisan Flatbrea Ham & Swiss  
@@ -200,7 +202,7 @@ In name:
   
 **curry**  
 In name:   
- - Indian Vegetable Curry  
+ - Seitan & Coconut Thai Curry  
   
 **beef**  
 In name:   

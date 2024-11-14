@@ -1,6 +1,6 @@
 # 2024-11-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-14 12:15:05  
+Updated at: 2024-11-14 15:10:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-14)  
 **Chicken Drummies**  
 In name:   
@@ -95,6 +95,10 @@ In description:
  - Soup Cream of Potato w/ Bacon  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-11-14)  
+**steak**  
+In name:   
+ - Spicy Steak Fajita  
+  
 **Shrimp**  
 In name:   
  - Coconut Shrimp  
@@ -121,6 +125,8 @@ In name:
   
 In description:   
  - Pizza Slice Deluxe  
+ - Spicy Steak Fajita  
+ - Vegan Taco Filling  
  - Soup Cream of Potato w/ Bacon  
  - Italian Meatball Sandwich  
   
@@ -138,7 +144,6 @@ In name:
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Protein - Chicken Thinly Sliced  
- - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
   
 In description:   
