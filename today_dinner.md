@@ -1,6 +1,6 @@
 # 2024-11-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-13 15:10:11  
+Updated at: 2024-11-13 18:51:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-13)  
 **beef**  
 In name:   
@@ -134,6 +134,7 @@ In description:
 In name:   
  - Pork & Beef Hard Salami  
  - Pork Bratwurst Sandwich  
+ - Ancho Braised Pork  
   
 In description:   
  - Smoked Ham  
@@ -143,13 +144,13 @@ In description:
 In name:   
  - Lemon Pepper Chicken Salad  
  - Beef & Chicken Meatballs  
- - Huli Huli Chicken  
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
  - Soup Chicken Tortilla  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
+ - Ancho Braised Pork  
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-11-13)  
