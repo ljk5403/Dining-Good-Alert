@@ -1,6 +1,6 @@
 # 2024-11-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-13 18:51:50  
+Updated at: 2024-11-13 21:16:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-13)  
 **beef**  
 In name:   
@@ -88,13 +88,22 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
+ - Beef Taco Meat  
   
 In description:   
  - Italian Meat Sauce  
+ - Pepperoni Pizza Slice  
+ - Pizza Slice Meat Lovers w/ Bacon  
+ - Pork Bratwurst Sandwich  
   
 **pork**  
 In name:   
  - Italian Pork Sausage  
+ - Pork Carnita  
+ - Pork Bratwurst Sandwich  
+  
+In description:   
+ - Pizza Slice Meat Lovers w/ Bacon  
   
 **chicken**  
 In name:   
@@ -102,9 +111,12 @@ In name:
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Plant Based Sweet & Sour Chicken  
+ - Chicken Tinga  
  - Soup Chicken Tortilla  
   
 In description:   
+ - Pepperoni Pizza Slice  
+ - Pizza Slice Meat Lovers w/ Bacon  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-11-13)  
@@ -134,7 +146,6 @@ In description:
 In name:   
  - Pork & Beef Hard Salami  
  - Pork Bratwurst Sandwich  
- - Ancho Braised Pork  
   
 In description:   
  - Smoked Ham  
@@ -150,7 +161,6 @@ In name:
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
- - Ancho Braised Pork  
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-11-13)  
