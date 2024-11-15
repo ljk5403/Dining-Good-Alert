@@ -1,6 +1,6 @@
 # 2024-11-15 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-14 18:55:08  
+Updated at: 2024-11-14 21:23:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-15)  
 **clam**  
 In name:   
@@ -161,12 +161,13 @@ In name:
 In description:   
  - Masala Spiced Salmon  
  - California Roll  (FujiSan)  
- - Build Your Own Curry Bowl  
   
 **curry**  
 In name:   
  - Vegan Curry Stew  
- - Build Your Own Curry Bowl  
+  
+In description:   
+ - Tikka Masala Chicken  
   
 **beef**  
 In name:   
@@ -174,7 +175,6 @@ In name:
   
 In description:   
  - Vegan Taco Filling  
- - Build Your Own Curry Bowl  
   
 **pork**  
 In name:   
@@ -185,13 +185,12 @@ In description:
   
 **chicken**  
 In name:   
- - Tikka Masala Chicken w/ Rice  
+ - Tikka Masala Chicken  
  - Chipotle BBQ Chicken Sandwich  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
  - Station Recipe - Great Greens - FLM  
- - Build Your Own Curry Bowl  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2024-11-15)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-11-15)  

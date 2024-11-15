@@ -1,6 +1,6 @@
 # 2024-11-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-14 18:55:11  
+Updated at: 2024-11-14 21:23:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-15)  
 **clam**  
 In name:   
@@ -164,11 +164,6 @@ In name:
   
 In description:   
  - California Roll  (FujiSan)  
- - Build Your Own Curry Bowl  
-  
-**curry**  
-In name:   
- - Build Your Own Curry Bowl  
   
 **beef**  
 In name:   
@@ -179,7 +174,6 @@ In name:
 In description:   
  - Chicago-Style Hot Dog  
  - Vegan Taco Filling  
- - Build Your Own Curry Bowl  
   
 **pork**  
 In name:   
@@ -196,7 +190,6 @@ In name:
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
  - Station Recipe - Great Greens - FLM  
- - Build Your Own Curry Bowl  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-11-15)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2024-11-15)  
