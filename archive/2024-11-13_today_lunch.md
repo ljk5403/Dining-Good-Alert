@@ -1,6 +1,6 @@
 # 2024-11-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-14 12:15:01  
+Updated at: 2024-11-14 15:10:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-14)  
 **Tuna**  
 In name:   
@@ -106,7 +106,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Baked  (1 piece)  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Chicken Dumpling Soup  
@@ -163,11 +162,11 @@ In name:
 In name:   
  - Greek Cod  
   
-**squid**  
+**fish**  
 In name:   
   
 In description:   
- - Fried Calamari  
+ - Crab Rangoon  
   
 **beef**  
 In name:   
@@ -188,6 +187,7 @@ In description:
 **chicken**  
 In name:   
  - Butter Chicken  
+ - Chicken Tinga & Scallion Quesadilla  
  - Chicken Dumpling Soup  
  - Diced Chicken  
   
