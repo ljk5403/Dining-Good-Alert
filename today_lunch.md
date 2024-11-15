@@ -1,6 +1,6 @@
 # 2024-11-15 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-15 12:14:42  
+Updated at: 2024-11-15 15:10:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-15)  
 **clam**  
 In name:   
@@ -71,10 +71,6 @@ In name:
 In name:   
  - Watermelon Slices  
   
-**steak**  
-In name:   
- - Brazilian Flank Steak  
-  
 **clam**  
 In name:   
  - Soup Clam Chowder  
@@ -105,7 +101,6 @@ In name:
   
 In description:   
  - Burnt Ends  
- - Brazilian Flank Steak  
  - Italian Meat Sauce  
  - Vegan Taco Filling  
   
@@ -163,9 +158,6 @@ In description:
 In name:   
  - Vegan Curry Stew  
   
-In description:   
- - Tikka Masala Chicken  
-  
 **beef**  
 In name:   
  - Roast Beef  
@@ -174,6 +166,7 @@ In name:
   
 **pork**  
 In name:   
+ - Apple Cider Braised Pork  
  - Italian Pork Sausage  
  - Pork & Beef Hard Salami  
   
@@ -184,11 +177,11 @@ In description:
   
 **chicken**  
 In name:   
- - Tikka Masala Chicken  
  - Chipotle BBQ Chicken Sandwich  
  - Lemon Pepper Chicken Salad  
   
 In description:   
+ - Apple Cider Braised Pork  
  - BYO - MTO Breakfast Sandwich - Four Lake  
  - Station Recipe - Great Greens - FLM  
   

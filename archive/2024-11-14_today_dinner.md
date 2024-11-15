@@ -1,6 +1,6 @@
 # 2024-11-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-15 09:11:20  
+Updated at: 2024-11-15 12:14:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-15)  
 **clam**  
 In name:   
@@ -173,7 +173,6 @@ In name:
   
 In description:   
  - Chicago-Style Hot Dog  
- - Vegan Taco Filling  
   
 **pork**  
 In name:   
