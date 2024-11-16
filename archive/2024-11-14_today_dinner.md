@@ -1,6 +1,6 @@
 # 2024-11-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-15 15:10:19  
+Updated at: 2024-11-15 18:53:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-15)  
 **clam**  
 In name:   
@@ -177,6 +177,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
@@ -206,6 +207,7 @@ In description:
   
 **beef**  
 In name:   
+ - Mediterranean Beef  
   
 In description:   
  - BYO Mediterranean Sandwich  
@@ -220,6 +222,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Mediterranean Chicken  
  - Chicken Drumstick BBQ Glazed  
   
 In description:   

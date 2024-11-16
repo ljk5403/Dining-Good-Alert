@@ -1,6 +1,6 @@
 # 2024-11-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-15 18:53:51  
+Updated at: 2024-11-15 21:21:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-15)  
 **clam**  
 In name:   
@@ -126,7 +126,6 @@ In description:
 In name:   
  - Huli Huli Chicken  
  - Beef & Chicken Meatballs  
- - Butter Chicken  
  - Chicken Sausage Patties  
   
 In description:   
