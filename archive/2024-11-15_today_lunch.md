@@ -1,6 +1,6 @@
 # 2024-11-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-16 06:19:21  
+Updated at: 2024-11-16 09:09:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-16)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-11-16)  
 **watermelon**  
@@ -24,6 +24,10 @@ In name:
  - Lemon Pepper Chicken Salad  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-11-16)  
+**steak**  
+In name:   
+ - Country Fried Steak  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
@@ -31,6 +35,7 @@ In name:
  - Beef Taco Meat  
   
 In description:   
+ - Country Fried Steak  
  - Pepperoni Pizza Slice  
   
 **pork**  
@@ -43,7 +48,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Enchilada Bake  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
