@@ -1,6 +1,6 @@
 # 2024-11-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-15 12:14:44  
+Updated at: 2024-11-15 15:10:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-15)  
 **clam**  
 In name:   
@@ -84,7 +84,6 @@ In name:
 **Shrimp**  
 In name:   
  - Sauteed Shrimp  
- - Shrimp Po-Boy Sandwich  
   
 **Cod**  
 In name:   
@@ -95,16 +94,6 @@ In description:
 **Tilapia**  
 In name:   
  - Tilapia Chipotle Lime Crusted  
-  
-**lamb**  
-In name:   
-  
-In description:   
- - Pizza Slice Gyro  
-  
-**goat**  
-In name:   
- - Mushroom Spinach Goat Cheese FB Pizza  
   
 **curry**  
 In name:   
@@ -121,13 +110,16 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Pizza Slice Gyro  
+ - Italian Meat Sauce  
  - Vegan Taco Filling  
+ - Grilled Cheeseburger  
   
 **pork**  
 In name:   
+ - Pizza Slice BBQ Pulled Pork  
   
 In description:   
+ - Pizza Slice Hawaiian  
  - Soup Clam Chowder  
   
 **chicken**  
