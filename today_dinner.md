@@ -1,6 +1,6 @@
 # 2024-11-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-17 18:56:34  
+Updated at: 2024-11-17 21:26:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-17)  
 **Tuna**  
 In name:   
@@ -107,7 +107,6 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
- - Chicken Pot Pie w/Biscuit  
  - Lemon Chicken Rice Soup  
   
 In description:   
