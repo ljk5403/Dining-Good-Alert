@@ -1,6 +1,6 @@
 # 2024-11-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-18 09:12:11  
+Updated at: 2024-11-18 12:15:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-19)  
 **Tuna**  
 In name:   
@@ -15,6 +15,7 @@ In description:
 **curry**  
 In name:   
  - Indian Vegetable Curry  
+ - Curry Potatoes  
   
 **beef**  
 In name:   

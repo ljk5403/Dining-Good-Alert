@@ -1,6 +1,6 @@
 # 2024-11-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-18 06:22:15  
+Updated at: 2024-11-18 09:12:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-18)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -101,7 +101,7 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
- - Chicken Parmesan Sandwich  
+ - Crispy Chicken Sandwich  
  - Chicken  
  - Chicken Tinga  
  - Chicken Noodle Soup  
