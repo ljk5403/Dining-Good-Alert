@@ -1,6 +1,6 @@
 # 2024-11-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-17 12:13:32  
+Updated at: 2024-11-17 15:09:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-17)  
 **steak**  
 In name:   
@@ -47,7 +47,7 @@ In name:
   
 **beef**  
 In name:   
- - Beef Goulash w/Egg Noodles  
+ - Beef Sirloin Tips  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
