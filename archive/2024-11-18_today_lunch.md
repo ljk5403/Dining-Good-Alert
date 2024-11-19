@@ -1,6 +1,6 @@
 # 2024-11-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-19 09:11:52  
+Updated at: 2024-11-19 12:15:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-19)  
 **Tuna**  
 In name:   
@@ -190,9 +190,12 @@ In name:
 In name:   
  - Tuna Salad  
   
+**curry**  
+In name:   
+ - Soup Coconut Curry Cauliflower  
+  
 **beef**  
 In name:   
- - Soup -  Chili Beef & Bean  
   
 In description:   
  - Pizza Slice Meat Lovers w/ Bacon  
@@ -218,6 +221,10 @@ In description:
  - Great Greens  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-11-19)  
+**curry**  
+In name:   
+ - Coconut Tofu w/Red Curry Sauce  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
