@@ -1,6 +1,6 @@
 # 2024-11-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-18 15:09:36  
+Updated at: 2024-11-18 18:54:52  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-18)  
 **beef**  
 In name:   
@@ -68,13 +68,25 @@ In name:
  - Chicken Noodle Soup  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-11-18)  
+**Moroccan Style Lamb Stuffed Peppers**  
+In name:   
+ - Moroccan Style Lamb Stuffed Peppers  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices  
   
+**Shrimp**  
+In name:   
+ - Redhook Ale Breaded Shrimp  
+  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
+  
+**lamb**  
+In name:   
+ - Moroccan Style Lamb Stuffed Peppers  
   
 **beef**  
 In name:   
@@ -98,7 +110,6 @@ In description:
   
 **chicken**  
 In name:   
- - Greek Chicken  
  - Beef & Chicken Meatballs  
  - Chicken  
  - Chicken Tinga  
