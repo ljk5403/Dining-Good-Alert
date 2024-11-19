@@ -1,6 +1,6 @@
 # 2024-11-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-19 06:21:35  
+Updated at: 2024-11-19 09:12:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-21)  
 **Tuna**  
 In name:   
@@ -141,6 +141,8 @@ In name:
 **beef**  
 In name:   
  - Beef Masaman Thai Curry  
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
  - Beef Taco Meat  
  - Mediterranean Beef  
   
@@ -153,9 +155,12 @@ In description:
 **pork**  
 In name:   
  - Thai BBQ Pork Ribs  
+ - Pork & Beef Hard Salami  
   
 In description:   
  - Andouille Sausage  
+ - Smoked Ham  
+ - Bacon  
  - Soup Cream of Potato w/ Bacon  
   
 **chicken**  
