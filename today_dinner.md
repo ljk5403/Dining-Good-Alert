@@ -1,6 +1,6 @@
 # 2024-11-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-19 18:54:29  
+Updated at: 2024-11-19 21:23:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-19)  
 **Tuna**  
 In name:   
@@ -110,6 +110,7 @@ In description:
   
 **Cod**  
 In name:   
+ - Fried Cod Basket  
   
 In description:   
  - Cioppino  
@@ -131,7 +132,6 @@ In description:
   
 **pork**  
 In name:   
- - BBQ Pork Chop  
  - Carolina BBQ Pork Sandwich  
   
 **chicken**  
@@ -156,15 +156,11 @@ In name:
 In name:   
  - Tuna Salad  
   
-**lamb**  
-In name:   
- - Lamb & Beef Gyro Sandwich  
-  
 **beef**  
 In name:   
  - Roast Beef  
  - Pork & Beef Hard Salami  
- - Lamb & Beef Gyro Sandwich  
+ - Beef Hot Dog  
  - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
  - Mediterranean Beef  
