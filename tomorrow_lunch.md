@@ -1,6 +1,6 @@
 # 2024-11-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-20 06:21:42  
+Updated at: 2024-11-20 09:11:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-21)  
 **Tuna**  
 In name:   
@@ -87,6 +87,7 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
+ - Mediterranean Beef  
  - Beef Taco Meat  
   
 In description:   
@@ -112,6 +113,7 @@ In name:
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Pizza Slice Chicken Broccoli Alfredo  
+ - Mediterranean Chicken  
  - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
  - Diced Chicken  

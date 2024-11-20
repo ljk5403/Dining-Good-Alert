@@ -1,6 +1,6 @@
 # 2024-11-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-20 03:12:09  
+Updated at: 2024-11-20 06:21:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-20)  
 **Cod**  
 In name:   
@@ -87,10 +87,6 @@ In name:
  - Soup Chicken Tortilla  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-11-20)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
 **Shrimp**  
 In name:   
  - Sweet & Sour Shrimp  
@@ -125,10 +121,10 @@ In name:
  - Lemon Pepper Chicken Salad  
  - Plant Based Sweet & Sour Chicken  
  - Soup Chicken Tortilla  
+ - Diced Chicken  
   
 In description:   
  - Pepperoni Pizza Slice  
- - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-11-20)  
 **watermelon**  
