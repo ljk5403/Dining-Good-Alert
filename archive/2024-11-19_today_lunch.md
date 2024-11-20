@@ -1,6 +1,6 @@
 # 2024-11-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-20 06:21:28  
+Updated at: 2024-11-20 09:11:34  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-20)  
 **Cod**  
 In name:   
@@ -87,10 +87,6 @@ In name:
  - Soup Chicken Tortilla  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-11-20)  
-**Shrimp**  
-In name:   
- - Sweet & Sour Shrimp  
-  
 **fish**  
 In name:   
   
@@ -119,6 +115,7 @@ In name:
  - Chicken Gravy  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
+ - Sweet & Sour Chicken  
  - Plant Based Sweet & Sour Chicken  
  - Soup Chicken Tortilla  
  - Diced Chicken  
@@ -195,6 +192,13 @@ In name:
 In description:   
  - Build Your Own Carson's Korean Bulgogi  
  - Kimchee  
+ - Curried Pumpkin Soup  
+  
+**curry**  
+In name:   
+  
+In description:   
+ - Curried Pumpkin Soup  
   
 **beef**  
 In name:   
