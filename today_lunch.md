@@ -1,6 +1,6 @@
 # 2024-11-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-20 12:15:40  
+Updated at: 2024-11-20 15:10:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-20)  
 **Cod**  
 In name:   
@@ -108,7 +108,7 @@ In name:
   
 **chicken**  
 In name:   
- - Broasted Chicken 2 pc  
+ - Popcorn Chicken  
  - Plant-Based Chicken Lo Mein  
  - Chicken Gravy  
  - Beef & Chicken Meatballs  
