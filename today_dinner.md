@@ -1,6 +1,6 @@
 # 2024-11-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-20 18:54:23  
+Updated at: 2024-11-20 21:22:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-20)  
 **Tilapia**  
 In name:   
@@ -69,10 +69,6 @@ In name:
 In name:   
  - Watermelon Slices  
   
-**Cod**  
-In name:   
- - Caribbean Cod  
-  
 **fish**  
 In name:   
   
@@ -93,6 +89,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Frittata Trattoria  
  - Italian Pork Sausage  
  - Pork Carnita  
   
@@ -100,7 +97,6 @@ In name:
 In name:   
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
- - General Tso's Chicken  
  - Soup Chicken Tortilla  
   
 In description:   
@@ -143,7 +139,6 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
- - Chicken & Penne w/ Pesto Creme  
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
  - Soup Chicken Tortilla  
