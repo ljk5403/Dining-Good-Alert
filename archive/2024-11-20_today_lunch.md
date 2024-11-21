@@ -1,6 +1,6 @@
 # 2024-11-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-21 09:11:58  
+Updated at: 2024-11-21 12:15:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-21)  
 **Tuna**  
 In name:   
@@ -227,6 +227,20 @@ In description:
  - Soup Cream of Potato w/ Bacon  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-11-21)  
+**Cod**  
+In name:   
+ - Miso Cod  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Miso Cod  
+  
+**curry**  
+In name:   
+ - Black Eyed Pea Curry w/ Rice  
+  
 **beef**  
 In name:   
  - Texas BBQ Sliced Beef Brisket  
