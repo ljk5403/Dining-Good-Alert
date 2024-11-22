@@ -1,6 +1,6 @@
 # 2024-11-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-21 12:15:23  
+Updated at: 2024-11-21 15:10:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-21)  
 **Tuna**  
 In name:   
@@ -126,11 +126,14 @@ In description:
 In name:   
  - Watermelon Slices  
   
+**steak**  
+In name:   
+ - Beef Flank Steak  
+  
 **fish**  
 In name:   
   
 In description:   
- - Thai BBQ Pork Ribs  
  - Beef Masaman Thai Curry  
   
 **curry**  
@@ -139,6 +142,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Flank Steak  
  - Beef Masaman Thai Curry  
  - Roast Beef  
  - Pork & Beef Hard Salami  
@@ -153,7 +157,6 @@ In description:
   
 **pork**  
 In name:   
- - Thai BBQ Pork Ribs  
  - Pork & Beef Hard Salami  
   
 In description:   
@@ -167,7 +170,6 @@ In name:
  - Plant-Based Chicken Tenders  
  - Chicken Tinga  
  - Chicken Dumpling Soup  
- - Mediterranean Chicken  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
