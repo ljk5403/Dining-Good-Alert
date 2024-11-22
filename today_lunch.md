@@ -1,6 +1,6 @@
 # 2024-11-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-22 12:15:19  
+Updated at: 2024-11-22 15:10:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-22)  
 **steak**  
 In name:   
@@ -215,7 +215,7 @@ In description:
   
 **Tilapia**  
 In name:   
- - Baked Tilapia w/Dill Wine Sauce  
+ - Tilapia Chipotle Lime Crusted  
   
 **beef**  
 In name:   
@@ -235,7 +235,6 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
- - Chicken Marsala  
   
 In description:   
  - Great Greens  
