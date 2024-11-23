@@ -1,6 +1,6 @@
 # 2024-11-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-22 18:53:09  
+Updated at: 2024-11-22 21:21:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-22)  
 **steak**  
 In name:   
@@ -106,11 +106,6 @@ In name:
   
 In description:   
  - Soup Clam Chowder  
- - Petite Fish Sandwich  
-  
-**fish**  
-In name:   
- - Petite Fish Sandwich  
   
 **curry**  
 In name:   
@@ -125,6 +120,7 @@ In name:
   
 In description:   
  - Vegan Taco Filling  
+ - Grilled Cheeseburger  
   
 **pork**  
 In name:   
@@ -191,7 +187,6 @@ In name:
   
 In description:   
  - Pork Bratwurst Sandwich  
- - Pizza Slice Meat Lovers w/ Bacon  
  - Mediterranean Rice Bowl  
  - Mediterranean Nachos  
  - BYO Mediterranean Sandwich  
@@ -204,15 +199,14 @@ In name:
 In description:   
  - Smoked Ham  
  - Bacon  
- - Pizza Slice Meat Lovers w/ Bacon  
  - Soup Clam Chowder  
   
 **chicken**  
 In name:   
+ - Pizza Slice BBQ Chicken & Bacon  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
- - Pizza Slice Meat Lovers w/ Bacon  
  - Station Recipe - Great Greens - FLM  
  - Mediterranean Rice Bowl  
  - Mediterranean Nachos  
