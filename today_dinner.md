@@ -1,6 +1,6 @@
 # 2024-11-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-22 15:10:18  
+Updated at: 2024-11-22 18:53:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-22)  
 **steak**  
 In name:   
@@ -35,13 +35,13 @@ In name:
   
 In description:   
  - Pizza Slice Sausage  
- - Quesadilla Andouille & Poblano  
  - Soup Clam Chowder  
   
 **chicken**  
 In name:   
  - Diced Chicken Breast  
  - Lemon Pepper Chicken Salad  
+ - Chicken Quesadilla  
  - Plant Based Protein Chicken Taco Filling  
  - Fajita Chicken  
   
@@ -115,7 +115,6 @@ In name:
 **curry**  
 In name:   
  - Curry Cauliflower & Butternut Squash  
- - Curry Potatoes  
   
 **beef**  
 In name:   
