@@ -1,6 +1,6 @@
 # 2024-11-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-23 15:09:39  
+Updated at: 2024-11-23 18:58:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-23)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-11-23)  
 **watermelon**  
@@ -61,6 +61,9 @@ In name:
  - Pork & Beef Hard Salami  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
+  
+In description:   
+ - Italian Meat Sauce  
   
 **pork**  
 In name:   
