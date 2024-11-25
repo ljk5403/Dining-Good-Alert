@@ -1,6 +1,6 @@
 # 2024-11-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-25 09:12:05  
+Updated at: 2024-11-25 12:15:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-25)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -8,7 +8,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Fajita Meat  
  - Beef Taco Meat  
   
 In description:   
@@ -29,7 +28,6 @@ In description:
 In name:   
  - Lemon Pepper Chicken Salad  
  - Chicken Teriyaki Stir Fry  
- - Chicken  
  - Chicken Tinga  
  - Plant Based Protein Chicken Taco Filling  
  - Chicken Noodle Soup  
@@ -141,15 +139,27 @@ In name:
 **curry**  
 In name:   
  - Vegetable Coconut Curry w/Rice  
+ - Curry Potatoes  
+  
+**beef**  
+In name:   
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
   
 **pork**  
 In name:   
  - Appetizer -  Fried Pork Potstickers  
  - Italian Pork Sausage  
+ - Pork & Beef Hard Salami  
+  
+In description:   
+ - Smoked Ham  
+ - Bacon  
   
 **chicken**  
 In name:   
  - Crispy Chicken Sandwich  
+ - Lemon Pepper Chicken Salad  
  - Butter Chicken  
  - Chicken Noodle Soup  
   
@@ -194,6 +204,10 @@ In description:
  - Great Greens  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-11-25)  
+**Cod**  
+In name:   
+ - Baked Cod Fillet w/Butter & Lemon  
+  
 **beef**  
 In name:   
  - Beef Broccoli Stir Fry  
@@ -205,6 +219,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Miso w/Yakisoba Noodles  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
@@ -215,6 +230,7 @@ In name:
  - Chicken Piccata  
   
 In description:   
+ - Pork Miso w/Yakisoba Noodles  
  - Great Greens  
   
   

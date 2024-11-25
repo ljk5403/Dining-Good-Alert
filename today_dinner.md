@@ -1,6 +1,6 @@
 # 2024-11-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-25 12:15:16  
+Updated at: 2024-11-25 15:10:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-25)  
 **beef**  
 In name:   
@@ -91,7 +91,6 @@ In description:
  - Gordon's OrderIt  
  - Pizza Slice Philly Cheesesteak  
  - Vegan Taco Filling  
- - Cowboy Burger  
   
 **pork**  
 In name:   
@@ -109,6 +108,7 @@ In name:
  - Beef & Chicken Meatballs  
  - Chicken Tinga  
  - Chicken Noodle Soup  
+ - Breaded Chicken Tenders  
   
 In description:   
  - Gordon's OrderIt  
