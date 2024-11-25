@@ -1,6 +1,6 @@
 # 2024-11-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-24 18:56:15  
+Updated at: 2024-11-24 21:26:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-24)  
 **Cod**  
 In name:   
@@ -55,7 +55,7 @@ In description:
   
 **pork**  
 In name:   
- - Biscuits & Pork Gravy  
+ - Boneless Baked Pork Ham  
  - Pork Carnita  
   
 In description:   
@@ -63,7 +63,7 @@ In description:
   
 **chicken**  
 In name:   
- - Tandoori Chicken  
+ - Mediterranean Chicken  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Lemon Chicken Rice Soup  
