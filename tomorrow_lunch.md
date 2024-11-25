@@ -1,6 +1,6 @@
 # 2024-11-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-25 09:12:14  
+Updated at: 2024-11-25 12:15:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-26)  
 **Tuna**  
 In name:   
@@ -10,6 +10,7 @@ In name:
 In name:   
  - Curry Squash  
  - Squash Curry  
+ - Curry Potatoes  
   
 In description:   
  - Chicken Korma  
@@ -159,6 +160,8 @@ In name:
 **beef**  
 In name:   
  - Beef French Dip Sandwich  
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
  - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
  - Protein - Beef Thinly Sliced  
@@ -168,7 +171,12 @@ In description:
   
 **pork**  
 In name:   
+ - Pork & Beef Hard Salami  
  - Ancho Braised Pork  
+  
+In description:   
+ - Smoked Ham  
+ - Bacon  
   
 **chicken**  
 In name:   

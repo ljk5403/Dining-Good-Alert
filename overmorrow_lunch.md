@@ -1,6 +1,6 @@
 # 2024-11-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-25 09:12:23  
+Updated at: 2024-11-25 12:15:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-27)  
 **beef**  
 In name:   
@@ -130,6 +130,8 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
  - Protein - Beef Thinly Sliced  
   
 In description:   
@@ -137,9 +139,12 @@ In description:
   
 **pork**  
 In name:   
+ - Pork & Beef Hard Salami  
   
 In description:   
  - Grilled Ham & Swiss Sandwich  
+ - Smoked Ham  
+ - Bacon  
   
 **chicken**  
 In name:   
@@ -155,6 +160,10 @@ In description:
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2024-11-27)  
+**beef**  
+In name:   
+ - Mediterranean Beef  
+  
 **pork**  
 In name:   
  - Pork Chop Adobo (1)  
@@ -166,6 +175,7 @@ In description:
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
+ - Mediterranean Chicken  
  - Soup Chicken Tortilla  
  - Chicken Sausage Patty  
  - Crispy Chicken Sandwich  
