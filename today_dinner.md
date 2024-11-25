@@ -1,6 +1,6 @@
 # 2024-11-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-24 15:09:31  
+Updated at: 2024-11-24 18:56:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-24)  
 **Cod**  
 In name:   
@@ -63,7 +63,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Biryani  
+ - Tandoori Chicken  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Lemon Chicken Rice Soup  
@@ -101,7 +101,7 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Polish Combo Cheeseburger  
+ - Polish Sausage  
   
 **pork**  
 In name:   
@@ -111,7 +111,7 @@ In name:
 In description:   
  - Smoked Ham  
  - Bacon  
- - Polish Combo Cheeseburger  
+ - Polish Sausage  
   
 **chicken**  
 In name:   

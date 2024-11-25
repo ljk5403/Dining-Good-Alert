@@ -1,6 +1,6 @@
 # 2024-11-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-24 12:13:30  
+Updated at: 2024-11-24 15:09:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-24)  
 **Tuna**  
 In name:   
@@ -44,7 +44,6 @@ In name:
 In description:   
  - Grilled Flank Steak  
  - Pepperoni Pizza Slice  
- - Grilled Cheeseburger  
   
 **pork**  
 In name:   
@@ -60,6 +59,7 @@ In name:
  - Chicken Biryani  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
+ - Breaded Chicken Tenders  
  - Lemon Chicken Rice Soup  
  - Diced Chicken  
   
@@ -99,6 +99,10 @@ In description:
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2024-11-24)  
+**Cod**  
+In name:   
+ - Battered Cod  
+  
 **beef**  
 In name:   
   
