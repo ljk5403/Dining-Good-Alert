@@ -1,6 +1,6 @@
 # 2024-11-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-25 12:15:15  
+Updated at: 2024-11-25 15:10:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-25)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -141,20 +141,10 @@ In name:
  - Vegetable Coconut Curry w/Rice  
  - Curry Potatoes  
   
-**beef**  
-In name:   
- - Roast Beef  
- - Pork & Beef Hard Salami  
-  
 **pork**  
 In name:   
  - Appetizer -  Fried Pork Potstickers  
  - Italian Pork Sausage  
- - Pork & Beef Hard Salami  
-  
-In description:   
- - Smoked Ham  
- - Bacon  
   
 **chicken**  
 In name:   
@@ -189,7 +179,6 @@ In name:
   
 In description:   
  - Pizza Slice Brat  
- - Sausage & Cheese English Muffin  
   
 **chicken**  
 In name:   
@@ -197,6 +186,7 @@ In name:
  - Lemon Pepper Chicken Salad  
  - Chicken Noodle Soup  
  - Diced Chicken  
+ - Egg, Chicken Sausage, Cheese Eng Muffin  
  - Chicken Sausage Patty  
   
 In description:   
