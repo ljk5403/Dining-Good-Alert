@@ -1,6 +1,6 @@
 # 2024-11-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-25 15:10:43  
+Updated at: 2024-11-25 18:55:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-25)  
 **beef**  
 In name:   
@@ -128,6 +128,7 @@ In description:
 **curry**  
 In name:   
  - Seitan & Coconut Thai Curry  
+ - Mixed Vegetable Curry  
  - Chicken Curry  
   
 **pork**  
@@ -137,6 +138,7 @@ In name:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Crispy Chicken Sandwich  
  - Irish Roast Chicken w/Leeks and Bacon  
  - Chicken Curry  
