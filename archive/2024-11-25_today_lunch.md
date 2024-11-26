@@ -1,6 +1,6 @@
 # 2024-11-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-26 06:22:05  
+Updated at: 2024-11-26 09:12:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-26)  
 **Tuna**  
 In name:   
@@ -140,7 +140,7 @@ In name:
  - Beef & Chicken Meatballs  
  - Pizza Slice Chicken Sriracha  
  - Chicken Sausage Patties  
- - Jerk Chicken Sandwich  
+ - Crispy Chicken Sandwich  
  - Diced Chicken  
   
 In description:   
@@ -160,21 +160,30 @@ In name:
 **beef**  
 In name:   
  - Beef French Dip Sandwich  
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
  - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
  - Protein - Beef Thinly Sliced  
   
 In description:   
- - Grilled Cheeseburger  
+ - Knockwurst Dog on Bun  
   
 **pork**  
 In name:   
+ - Pork & Beef Hard Salami  
  - Ancho Braised Pork  
+  
+In description:   
+ - Knockwurst Dog on Bun  
+ - Smoked Ham  
+ - Bacon  
   
 **chicken**  
 In name:   
  - Brazilian Chicken w/ Salsa Vinaigrette  
  - Italian Chicken  
+ - Lemon Pepper Chicken Salad  
  - Protein - Chicken Thinly Sliced  
   
 In description:   
