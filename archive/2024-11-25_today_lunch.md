@@ -1,6 +1,6 @@
 # 2024-11-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-26 09:12:20  
+Updated at: 2024-11-26 12:15:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-26)  
 **Tuna**  
 In name:   
@@ -160,24 +160,20 @@ In name:
 **beef**  
 In name:   
  - Beef French Dip Sandwich  
- - Roast Beef  
- - Pork & Beef Hard Salami  
  - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
  - Protein - Beef Thinly Sliced  
   
 In description:   
  - Knockwurst Dog on Bun  
+ - Vegan Taco Filling  
   
 **pork**  
 In name:   
- - Pork & Beef Hard Salami  
  - Ancho Braised Pork  
   
 In description:   
  - Knockwurst Dog on Bun  
- - Smoked Ham  
- - Bacon  
   
 **chicken**  
 In name:   
@@ -230,6 +226,7 @@ In name:
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
  - Lemon Pepper Chicken Salad  
+ - Diced Chicken  
  - Plant Based Chicken Strips  
   
 In description:   
@@ -237,6 +234,10 @@ In description:
  - Great Greens  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-11-26)  
+**curry**  
+In name:   
+ - Green Curry Tofu & Vegetables  
+  
 **beef**  
 In name:   
  - Soup -  Chili Beef & Bean  
