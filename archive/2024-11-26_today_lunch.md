@@ -1,12 +1,11 @@
 # 2024-11-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-27 09:11:46  
+Updated at: 2024-11-27 12:15:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-27)  
 **beef**  
 In name:   
  - Beef Broccoli Stir Fry w/Teriyaki Sauce  
  - Plant-Based Beef & Broccoli Stir Fry  
- - Beef Fajita Meat  
  - Beef Taco Meat  
   
 In description:   
@@ -27,9 +26,8 @@ In name:
  - Chicken Breast w/Balsamic BBQ Sauce  
  - Pizza Slice BBQ Chicken & Bacon  
  - Lemon Pepper Chicken Salad  
- - Chicken  
  - Fajita Chicken  
- - Soup Chicken Tortilla  
+ - Diced Chicken  
   
 In description:   
  - Great Greens  
@@ -82,6 +80,8 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
  - Beef Taco Meat  
   
 In description:   
@@ -92,17 +92,18 @@ In description:
 In name:   
  - Pork Loin Spicy Greenbush  
  - Italian Pork Sausage  
+ - Pork & Beef Hard Salami  
  - Pork Carnita  
   
 In description:   
  - Pizza Slice Sausage  
+ - Smoked Ham  
   
 **chicken**  
 In name:   
  - Broasted Chicken 2 pc  
  - Chicken Gravy  
  - Beef & Chicken Meatballs  
- - Lemon Pepper Chicken Salad  
  - Soup Chicken Tortilla  
  - Diced Chicken  
   
@@ -155,13 +156,16 @@ In description:
 In name:   
  - Mediterranean Beef  
   
+In description:   
+ - Pizza Slice Brat  
+  
 **pork**  
 In name:   
  - Pork Chop Adobo (1)  
   
 In description:   
  - Pizza Slice Sausage  
- - Pizza Slice Hawaiian  
+ - Pizza Slice Brat  
   
 **chicken**  
 In name:   

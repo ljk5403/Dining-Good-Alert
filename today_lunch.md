@@ -1,6 +1,6 @@
 # 2024-11-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-27 12:15:32  
+Updated at: 2024-11-27 15:10:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-27)  
 **beef**  
 In name:   
@@ -101,7 +101,6 @@ In description:
   
 **chicken**  
 In name:   
- - Broasted Chicken 2 pc  
  - Chicken Gravy  
  - Beef & Chicken Meatballs  
  - Soup Chicken Tortilla  
@@ -116,13 +115,9 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**catfish**  
+**Shrimp**  
 In name:   
- - Panfried Southern Catfish  
-  
-**fish**  
-In name:   
- - Panfried Southern Catfish  
+ - Coconut Shrimp  
   
 **beef**  
 In name:   
@@ -134,13 +129,13 @@ In description:
   
 **pork**  
 In name:   
+ - Smoked Pork Loin  
   
 In description:   
  - Grilled Ham & Swiss Sandwich  
   
 **chicken**  
 In name:   
- - Blackened Chicken  
  - Beef & Chicken Meatballs  
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
@@ -161,7 +156,7 @@ In description:
   
 **pork**  
 In name:   
- - Pork Chop Adobo (1)  
+ - BBQ Pork Chop  
   
 In description:   
  - Pizza Slice Sausage  
