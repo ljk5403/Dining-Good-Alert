@@ -1,6 +1,6 @@
 # 2024-11-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-27 03:12:21  
+Updated at: 2024-11-27 06:22:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-27)  
 **beef**  
 In name:   
@@ -78,13 +78,6 @@ In name:
 In name:   
  - Watermelon Slices  
   
-**fish**  
-In name:   
-  
-In description:   
- - California Roll  (FujiSan)  
- - Tempura Roll (FujiSan)  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
@@ -106,8 +99,6 @@ In name:
  - Beef & Chicken Meatballs  
  - Flatbread Pizza BBQ Chicken  
  - Lemon Pepper Chicken Salad  
- - Sweet & Sour Chicken  
- - Plant Based Sweet & Sour Chicken  
  - Soup Chicken Tortilla  
  - Diced Chicken  
   
