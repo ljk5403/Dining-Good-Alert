@@ -1,6 +1,6 @@
 # 2024-11-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-27 06:22:20  
+Updated at: 2024-11-27 09:11:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-27)  
 **beef**  
 In name:   
@@ -10,6 +10,7 @@ In name:
  - Beef Taco Meat  
   
 In description:   
+ - Pastrami & Swiss Sandwich  
  - Italian Meat Sauce  
   
 **pork**  
@@ -85,24 +86,28 @@ In name:
   
 In description:   
  - Italian Meat Sauce  
+ - Pepperoni Pizza Slice  
   
 **pork**  
 In name:   
- - Island Spiced Pork w/ Pineapple Salsa  
+ - Pork Loin Spicy Greenbush  
  - Italian Pork Sausage  
  - Pork Carnita  
+  
+In description:   
+ - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
  - Broasted Chicken 2 pc  
  - Chicken Gravy  
  - Beef & Chicken Meatballs  
- - Flatbread Pizza BBQ Chicken  
  - Lemon Pepper Chicken Salad  
  - Soup Chicken Tortilla  
  - Diced Chicken  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-11-27)  
