@@ -1,6 +1,6 @@
 # 2024-11-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-27 18:55:52  
+Updated at: 2024-11-27 21:27:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-27)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-11-27)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-11-27)  
@@ -13,6 +13,8 @@ In name:
   
 In description:   
  - Miso Cod  
+ - Tempura Roll (FujiSan)  
+ - California Roll  (FujiSan)  
   
 **beef**  
 In name:   
@@ -34,6 +36,8 @@ In name:
  - Chicken Pot Pie w/Biscuit  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
+ - Sesame Chicken  
+ - Plant Based Sesame Chicken (AYCTE) (VN)  
  - Soup Chicken Tortilla  
   
 In description:   

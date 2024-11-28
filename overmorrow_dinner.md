@@ -1,6 +1,6 @@
 # 2024-11-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-27 18:55:56  
+Updated at: 2024-11-27 21:27:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-29)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-11-29)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-11-29)  
@@ -27,9 +27,15 @@ In name:
 In description:   
  - Soup Clam Chowder  
   
+**curry**  
+In name:   
+ - Coconut Tofu w/Red Curry Sauce  
+ - Beef Bombay Curry  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
+ - Beef Bombay Curry  
  - Beef Barbacoa  
  - Beef Taco Meat  
   
@@ -48,6 +54,7 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
+ - Chicken Sausage Patties  
   
 In description:   
  - French Market Pork Jambalaya  
