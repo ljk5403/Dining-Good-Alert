@@ -1,6 +1,6 @@
 # 2024-11-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-29 06:21:37  
+Updated at: 2024-11-29 09:12:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-29)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-11-29)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-11-29)  
@@ -24,10 +24,13 @@ In name:
   
 **Cod**  
 In name:   
- - Battered Cod  
   
 In description:   
  - Soup Clam Chowder  
+  
+**Salmon**  
+In name:   
+ - Baked Salmon with Mustard Sauce  
   
 **catfish**  
 In name:   
@@ -37,23 +40,14 @@ In name:
 In name:   
  - Blackened Catfish Po-Boy Sandwich  
   
-**curry**  
-In name:   
- - Indian Vegetable Curry  
- - Coconut Tofu w/Red Curry Sauce  
- - Beef Bombay Curry  
+In description:   
+ - Baked Salmon with Mustard Sauce  
   
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
  - Roast Beef  
  - Pork & Beef Hard Salami  
- - Beef Bombay Curry  
- - Beef Barbacoa  
- - Beef Taco Meat  
-  
-In description:   
- - Vegan Taco Filling  
   
 **pork**  
 In name:   
