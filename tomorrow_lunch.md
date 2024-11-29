@@ -1,79 +1,58 @@
-# 2024-11-29 lunch  
+# 2024-11-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-28 21:27:12  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-29)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-11-29)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-11-29)  
-**watermelon**  
+Updated at: 2024-11-29 00:16:47  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-30)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-11-30)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-11-30)  
+**BBQ Pork Sandwich**  
 In name:   
- - Watermelon Slices  
+ - Carolina BBQ Pork Sandwich  
   
-**steak**  
+**Tilapia**  
 In name:   
-  
-In description:   
- - Montreal Chicken  
-  
-**clam**  
-In name:   
- - Soup Clam Chowder  
-  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp  
-  
-**Cod**  
-In name:   
- - Battered Cod  
-  
-In description:   
- - Soup Clam Chowder  
-  
-**catfish**  
-In name:   
- - Blackened Catfish Po-Boy Sandwich  
+ - Tilapia Veracruz  
   
 **fish**  
 In name:   
- - Blackened Catfish Po-Boy Sandwich  
   
-**curry**  
-In name:   
- - Indian Vegetable Curry  
- - Coconut Tofu w/Red Curry Sauce  
- - Beef Bombay Curry  
+In description:   
+ - Chocolate Sunflower Bar  
   
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
  - Roast Beef  
  - Pork & Beef Hard Salami  
- - Beef Bombay Curry  
- - Beef Barbacoa  
  - Beef Taco Meat  
   
 In description:   
- - Vegan Taco Filling  
+ - Pepperoni Pizza Slice  
   
 **pork**  
 In name:   
+ - Italian Pork Sausage  
  - Pork & Beef Hard Salami  
+ - Pork Sausage Patties  
+ - Carolina BBQ Pork Sandwich  
   
 In description:   
- - Pizza Slice Hawaiian  
+ - Pizza Slice Sausage  
  - Smoked Ham  
- - Soup Clam Chowder  
+ - Bacon  
   
 **chicken**  
 In name:   
- - Montreal Chicken  
+ - Chicken Breast w/Balsamic BBQ Sauce  
  - Beef & Chicken Meatballs  
- - Chicken Sausage Patties  
+ - Lemon Pepper Chicken Salad  
+ - Chicken Tinga  
+ - Soup Cream of Chicken & Wild Rice  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-11-29)  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2024-11-29)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-11-29)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-11-30)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2024-11-30)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-11-30)  
   
