@@ -1,6 +1,6 @@
 # 2024-11-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-29 09:12:13  
+Updated at: 2024-11-29 12:15:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-30)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-11-30)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-11-30)  
@@ -25,9 +25,6 @@ In name:
  - Pork & Beef Hard Salami  
  - Beef Taco Meat  
   
-In description:   
- - Pepperoni Pizza Slice  
-  
 **pork**  
 In name:   
  - Italian Pork Sausage  
@@ -49,7 +46,6 @@ In name:
  - Soup Cream of Chicken & Wild Rice  
   
 In description:   
- - Pepperoni Pizza Slice  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-11-30)  
