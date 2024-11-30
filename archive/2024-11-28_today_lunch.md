@@ -1,6 +1,6 @@
 # 2024-11-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-29 12:15:15  
+Updated at: 2024-11-29 15:10:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-29)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-11-29)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-11-29)  
@@ -24,20 +24,17 @@ In name:
 In description:   
  - Soup Clam Chowder  
   
-**Salmon**  
-In name:   
- - Baked Salmon with Mustard Sauce  
-  
 **catfish**  
 In name:   
  - Blackened Catfish Po-Boy Sandwich  
   
+**Tilapia**  
+In name:   
+ - Tilapia Veracruz  
+  
 **fish**  
 In name:   
  - Blackened Catfish Po-Boy Sandwich  
-  
-In description:   
- - Baked Salmon with Mustard Sauce  
   
 **beef**  
 In name:   
