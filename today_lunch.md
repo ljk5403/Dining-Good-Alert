@@ -1,6 +1,6 @@
 # 2024-11-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-30 09:10:22  
+Updated at: 2024-11-30 12:13:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-30)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-11-30)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-11-30)  
@@ -25,6 +25,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Italian Sausage  
  - Pork & Beef Hard Salami  
  - Pork Sausage Patties  
   
@@ -35,9 +36,10 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
- - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
+ - Diced Chicken  
  - Soup Cream of Chicken & Wild Rice  
+ - Lemon Chicken Rice Soup  
   
 In description:   
  - Pepperoni Pizza Slice  
