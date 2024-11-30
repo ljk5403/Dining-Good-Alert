@@ -1,22 +1,16 @@
 # 2024-11-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-30 06:19:36  
+Updated at: 2024-11-30 09:10:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-11-30)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-11-30)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-11-30)  
-**BBQ Pork Sandwich**  
+**steak**  
 In name:   
- - Carolina BBQ Pork Sandwich  
+ - Fried Steak & Cheese Chimichanga  
   
 **Tilapia**  
 In name:   
  - Tilapia Veracruz  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Chocolate Sunflower Bar  
   
 **beef**  
 In name:   
@@ -26,23 +20,20 @@ In name:
  - Beef Taco Meat  
   
 In description:   
+ - Fried Steak & Cheese Chimichanga  
  - Pepperoni Pizza Slice  
   
 **pork**  
 In name:   
- - Italian Pork Sausage  
  - Pork & Beef Hard Salami  
  - Pork Sausage Patties  
- - Carolina BBQ Pork Sandwich  
   
 In description:   
- - Pizza Slice Sausage  
  - Smoked Ham  
  - Bacon  
   
 **chicken**  
 In name:   
- - Chicken Breast w/Balsamic BBQ Sauce  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
