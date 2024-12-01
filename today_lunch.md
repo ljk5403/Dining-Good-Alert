@@ -1,6 +1,6 @@
 # 2024-12-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-01 06:20:16  
+Updated at: 2024-12-01 09:10:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-12-01)  
 **steak**  
 In name:   
@@ -67,7 +67,7 @@ In description:
   
 **pork**  
 In name:   
- - Jerk Pork Chop  
+ - BBQ Pork Chop  
  - Pork & Beef Hard Salami  
  - Pork Carnita  
   

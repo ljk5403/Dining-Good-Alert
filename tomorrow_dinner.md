@@ -1,6 +1,6 @@
 # 2024-12-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-01 06:20:20  
+Updated at: 2024-12-01 09:10:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-02)  
 **beef**  
 In name:   
