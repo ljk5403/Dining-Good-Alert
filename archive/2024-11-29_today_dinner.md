@@ -1,6 +1,6 @@
 # 2024-11-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-11-30 15:09:35  
+Updated at: 2024-11-30 19:05:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-11-30)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-11-30)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-11-30)  
@@ -12,15 +12,15 @@ In description:
   
 **curry**  
 In name:   
- - Beef Curry Stew  
+ - Thai Veggie Meatballs w/ Green Curry  
   
 **beef**  
 In name:   
- - Beef Curry Stew  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
 In description:   
+ - BBQ Brisket Sandwich  
  - Pepperoni Pizza Slice  
   
 **pork**  
