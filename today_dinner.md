@@ -1,6 +1,6 @@
 # 2024-12-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-01 12:14:11  
+Updated at: 2024-12-01 15:09:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-01)  
 **Tuna**  
 In name:   
@@ -30,7 +30,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Honey Lime w/ rice  
+ - Chicken Drumstick  
  - General Tso's Chicken  
  - Fajita Chicken  
  - Lemon Chicken Rice Soup  
