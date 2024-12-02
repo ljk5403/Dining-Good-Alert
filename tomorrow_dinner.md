@@ -1,6 +1,6 @@
 # 2024-12-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-01 18:58:30  
+Updated at: 2024-12-01 21:31:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-02)  
 **beef**  
 In name:   
@@ -142,6 +142,7 @@ In description:
 In name:   
  - Black Eyed Pea Curry w/ Rice  
  - Coconut Thai Curry Mahi Mahi  
+ - Curry Potatoes  
   
 **beef**  
 In name:   

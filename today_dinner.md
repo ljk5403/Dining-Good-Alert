@@ -1,6 +1,6 @@
 # 2024-12-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-01 18:58:21  
+Updated at: 2024-12-01 21:31:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-01)  
 **Tuna**  
 In name:   
@@ -46,9 +46,12 @@ In description:
 In name:   
  - Watermelon Slices  
   
+**Tilapia**  
+In name:   
+ - Tilapia Veracruz  
+  
 **beef**  
 In name:   
- - Beef Ravioli w/Tomato Sauce  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
@@ -57,7 +60,7 @@ In description:
   
 **pork**  
 In name:   
- - Pork Loin Apricot Glazed  
+ - Chicken Jollof Rice (Contains Pork)  
  - Pork Carnita  
   
 In description:   
@@ -65,6 +68,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Jollof Rice (Contains Pork)  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Lemon Chicken Rice Soup  
@@ -89,16 +93,12 @@ In name:
  - Beef Bombay Curry  
  - Beef Taco Meat  
   
-**pork**  
-In name:   
- - Pork Carnita  
-  
 **chicken**  
 In name:   
- - Crispy Chicken Sandwich  
  - Beef & Chicken Meatballs  
  - Chicken Piece Seasoned Baked  
  - Chicken Gravy  
+ - Diced Chicken  
  - Lemon Chicken Rice Soup  
   
 In description:   

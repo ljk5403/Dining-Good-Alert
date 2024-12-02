@@ -1,6 +1,6 @@
 # 2024-12-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-01 15:09:49  
+Updated at: 2024-12-01 18:58:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-01)  
 **Tuna**  
 In name:   
@@ -48,7 +48,7 @@ In name:
   
 **beef**  
 In name:   
- - Beef Tortellini and Sauce  
+ - Beef Ravioli w/Tomato Sauce  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
