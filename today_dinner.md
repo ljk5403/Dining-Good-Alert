@@ -1,6 +1,6 @@
 # 2024-12-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-02 12:15:55  
+Updated at: 2024-12-02 15:10:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-02)  
 **beef**  
 In name:   
@@ -126,17 +126,15 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**Salmon**  
+**Tuna**  
 In name:   
- - Smoked Salmon  
+ - Tuna Salad  
   
 **fish**  
 In name:   
   
 In description:   
- - Smoked Salmon  
  - Coconut Thai Curry Mahi Mahi  
- - California Roll  (FujiSan)  
   
 **curry**  
 In name:   
@@ -146,11 +144,18 @@ In name:
   
 **beef**  
 In name:   
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
  - Beef Stew w/ Buttermilk Biscuit  
   
 **pork**  
 In name:   
+ - Pork & Beef Hard Salami  
  - Italian Pork Sausage  
+  
+In description:   
+ - Smoked Ham  
+ - Bacon  
   
 **chicken**  
 In name:   

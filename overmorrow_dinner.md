@@ -1,6 +1,6 @@
 # 2024-12-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-02 12:16:03  
+Updated at: 2024-12-02 15:11:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-04)  
 **Cod**  
 In name:   
@@ -144,17 +144,30 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**Poke Bar**  
+**Shrimp**  
 In name:   
- - Build Your Own Poke Bar  
+ - Steamed Shrimp  
+  
+**Tuna**  
+In name:   
+ - Tuna  
   
 **beef**  
 In name:   
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
  - Beef & Chicken Meatballs  
   
 In description:   
  - Blackened Hamburger  
  - Italian Meat Sauce  
+  
+**pork**  
+In name:   
+ - Pork & Beef Hard Salami  
+  
+In description:   
+ - Smoked Ham  
   
 **chicken**  
 In name:   

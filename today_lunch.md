@@ -1,6 +1,6 @@
 # 2024-12-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-02 12:15:53  
+Updated at: 2024-12-02 15:10:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-12-02)  
 **Shrimp**  
 In name:   
@@ -79,15 +79,10 @@ In name:
 In name:   
  - Mixed Vegetable Curry  
   
-In description:   
- - Chicken Tikka Masala  
-  
 **beef**  
 In name:   
  - Beef Vindaloo  
  - Beef & Chicken Meatballs  
- - Roast Beef  
- - Pork & Beef Hard Salami  
  - Beef Taco Meat  
   
 In description:   
@@ -99,16 +94,10 @@ In description:
 **pork**  
 In name:   
  - Italian Pork Sausage  
- - Pork & Beef Hard Salami  
  - Pork Sausage Patties  
-  
-In description:   
- - Smoked Ham  
- - Bacon  
   
 **chicken**  
 In name:   
- - Chicken Tikka Masala  
  - Beef & Chicken Meatballs  
  - Chicken Tinga  
  - Chicken Noodle Soup  

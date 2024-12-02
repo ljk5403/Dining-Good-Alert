@@ -1,6 +1,6 @@
 # 2024-12-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-02 12:15:59  
+Updated at: 2024-12-02 15:11:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-03)  
 **Tuna**  
 In name:   
@@ -120,12 +120,18 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**Poke Bar**  
+**Shrimp**  
 In name:   
- - Build Your Own Poke Bar  
+ - Steamed Shrimp  
+  
+**Tuna**  
+In name:   
+ - Tuna  
   
 **beef**  
 In name:   
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
  - Big Texan Beef Sandwich (Half)  
  - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
@@ -135,7 +141,12 @@ In description:
   
 **pork**  
 In name:   
+ - Pork & Beef Hard Salami  
  - Pork Carnita  
+  
+In description:   
+ - Smoked Ham  
+ - Bacon  
   
 **chicken**  
 In name:   
