@@ -1,6 +1,6 @@
 # 2024-12-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-02 09:12:26  
+Updated at: 2024-12-02 12:15:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-12-02)  
 **Shrimp**  
 In name:   
@@ -10,7 +10,6 @@ In name:
 In name:   
  - Beef Sirloin Tips  
  - Beef Bean & Carrot Stir Fry  
- - Beef Fajita Meat  
  - Beef Barbacoa  
  - Beef Taco Meat  
   
@@ -30,7 +29,6 @@ In description:
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
- - Chicken  
  - Chicken Tinga  
  - Chicken Noodle Soup  
  - Diced Chicken  
@@ -77,10 +75,6 @@ In name:
 In name:   
  - Watermelon Slices  
   
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad  
-  
 **curry**  
 In name:   
  - Mixed Vegetable Curry  
@@ -94,10 +88,10 @@ In name:
  - Beef & Chicken Meatballs  
  - Roast Beef  
  - Pork & Beef Hard Salami  
- - Beef Fajita Meat  
  - Beef Taco Meat  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Pizza Slice - Bacon Cheeseburger  
  - Grilled Cheeseburger  
  - Vegan Taco Filling  
@@ -116,12 +110,12 @@ In description:
 In name:   
  - Chicken Tikka Masala  
  - Beef & Chicken Meatballs  
- - Chicken  
  - Chicken Tinga  
  - Chicken Noodle Soup  
  - Diced Chicken  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-12-02)  
@@ -129,32 +123,36 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**fish**  
+**Tuna**  
 In name:   
-  
-In description:   
- - California Roll  (FujiSan)  
+ - Tuna Salad  
   
 **lamb**  
 In name:   
  - Lamb & Beef Gyro Sandwich  
- - Lamb Vindaloo  
   
 **curry**  
 In name:   
   
 In description:   
- - Lamb Vindaloo  
  - Vegetable Korma  
   
 **beef**  
 In name:   
  - 1849 BBQ Beef Brisket Sliders  
  - Lamb & Beef Gyro Sandwich  
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
+ - Beef Vindaloo  
   
 **pork**  
 In name:   
  - Italian Pork Sausage  
+ - Pork & Beef Hard Salami  
+  
+In description:   
+ - Smoked Ham  
+ - Bacon  
   
 **chicken**  
 In name:   
@@ -196,7 +194,6 @@ In description:
 In name:   
  - Spicy Lo Mein w/Chicken  
  - Chicken Noodle Soup  
- - Chicken Sausage Patty  
   
 In description:   
  - Pepperoni Pizza Slice  
@@ -220,7 +217,9 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Tinga  
  - Chicken Noodle Soup  
+ - Diced Chicken  
  - Brazilian Chicken w/ Salsa Vinaigrette  
   
 In description:   
