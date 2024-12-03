@@ -1,6 +1,6 @@
 # 2024-12-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-03 09:12:11  
+Updated at: 2024-12-03 12:13:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-12-03)  
 **Tuna**  
 In name:   
@@ -83,13 +83,8 @@ In name:
   
 **Shrimp**  
 In name:   
+ - Coconut Shrimp  
  - Shrimp  
-  
-**squid**  
-In name:   
-  
-In description:   
- - Fried Calamari  
   
 **beef**  
 In name:   

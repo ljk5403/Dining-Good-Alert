@@ -1,6 +1,6 @@
 # 2024-12-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-03 12:13:59  
+Updated at: 2024-12-03 15:10:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-03)  
 **Tuna**  
 In name:   
@@ -199,6 +199,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Tinga  
  - Chicken Grilled Cordon Bleu (Pork)  
   
 In description:   

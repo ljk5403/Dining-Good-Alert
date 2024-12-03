@@ -1,6 +1,6 @@
 # 2024-12-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-03 12:14:04  
+Updated at: 2024-12-03 15:11:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-12-05)  
 **Cod**  
 In name:   
@@ -210,6 +210,7 @@ In description:
 In name:   
  - Chicken Vindaloo  
  - Chicken Dumpling Soup  
+ - Diced Chicken  
   
 In description:   
  - Great Greens  
@@ -229,7 +230,6 @@ In description:
 **beef**  
 In name:   
  - Beef Barbacoa  
- - Beef Taco Meat  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
