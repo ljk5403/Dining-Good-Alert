@@ -1,6 +1,6 @@
 # 2024-12-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-03 06:21:55  
+Updated at: 2024-12-03 09:12:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-03)  
 **Tuna**  
 In name:   
@@ -45,14 +45,7 @@ In name:
   
 **Tuna**  
 In name:   
- - Spicy Tuna Roll (FujiSan)  
  - Tuna Salad  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Spicy Tuna Roll (FujiSan)  
   
 **beef**  
 In name:   
@@ -71,7 +64,6 @@ In description:
   
 **chicken**  
 In name:   
- - Tempura Chicken w/Sauce  
  - Diced Chicken  
   
 In description:   
