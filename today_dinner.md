@@ -1,6 +1,6 @@
 # 2024-12-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-02 18:57:13  
+Updated at: 2024-12-02 21:31:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-02)  
 **beef**  
 In name:   
@@ -78,25 +78,12 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**Shrimp**  
-In name:   
-  
-In description:   
- - Kimchee Reuben Sandwich  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
   
-**fish**  
-In name:   
-  
-In description:   
- - Kimchee Reuben Sandwich  
-  
 **beef**  
 In name:   
- - Traditional Beef Shepard's Pie  
  - Beef & Chicken Meatballs  
  - Beef Fajita Meat  
  - Beef Taco Meat  
@@ -104,10 +91,10 @@ In name:
 In description:   
  - Pizza Slice - Bacon Cheeseburger  
  - Vegan Taco Filling  
- - Kimchee Reuben Sandwich  
   
 **pork**  
 In name:   
+ - Chicken Jollof Rice (Contains Pork)  
  - Italian Pork Sausage  
  - Pork Carnita  
  - Pork Sausage Patties  
@@ -117,9 +104,11 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Jollof Rice (Contains Pork)  
  - Beef & Chicken Meatballs  
  - Chicken  
  - Chicken Noodle Soup  
+ - Chicken Wings Boneless Plain  
   
 In description:   
  - Great Greens  
@@ -133,16 +122,9 @@ In name:
 In name:   
  - Tuna Salad  
   
-**fish**  
-In name:   
-  
-In description:   
- - Coconut Thai Curry Mahi Mahi  
-  
 **curry**  
 In name:   
  - Black Eyed Pea Curry w/ Rice  
- - Coconut Thai Curry Mahi Mahi  
  - Curry Potatoes  
   
 **beef**  
