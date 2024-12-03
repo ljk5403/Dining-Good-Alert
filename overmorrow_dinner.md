@@ -1,6 +1,6 @@
 # 2024-12-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-02 15:11:17  
+Updated at: 2024-12-02 18:57:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-04)  
 **Cod**  
 In name:   
@@ -154,20 +154,11 @@ In name:
   
 **beef**  
 In name:   
- - Roast Beef  
- - Pork & Beef Hard Salami  
  - Beef & Chicken Meatballs  
   
 In description:   
  - Blackened Hamburger  
  - Italian Meat Sauce  
-  
-**pork**  
-In name:   
- - Pork & Beef Hard Salami  
-  
-In description:   
- - Smoked Ham  
   
 **chicken**  
 In name:   

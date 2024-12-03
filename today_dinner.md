@@ -1,6 +1,6 @@
 # 2024-12-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-02 15:10:55  
+Updated at: 2024-12-02 18:57:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-02)  
 **beef**  
 In name:   
@@ -109,13 +109,16 @@ In description:
 **pork**  
 In name:   
  - Italian Pork Sausage  
+ - Pork Carnita  
  - Pork Sausage Patties  
+  
+In description:   
+ - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
  - Chicken  
- - Chicken Tinga  
  - Chicken Noodle Soup  
   
 In description:   
@@ -144,18 +147,11 @@ In name:
   
 **beef**  
 In name:   
- - Roast Beef  
- - Pork & Beef Hard Salami  
  - Beef Stew w/ Buttermilk Biscuit  
   
 **pork**  
 In name:   
- - Pork & Beef Hard Salami  
  - Italian Pork Sausage  
-  
-In description:   
- - Smoked Ham  
- - Bacon  
   
 **chicken**  
 In name:   
