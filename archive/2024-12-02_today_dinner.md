@@ -1,6 +1,6 @@
 # 2024-12-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-03 15:10:51  
+Updated at: 2024-12-03 18:57:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-03)  
 **Tuna**  
 In name:   
@@ -73,6 +73,7 @@ In description:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-12-03)  
 **steak**  
 In name:   
+ - Grilled Flank Steak  
  - Spicy Steak Fajita  
   
 **Shrimp**  
@@ -86,6 +87,7 @@ In name:
  - Soup -  Chili Beef & Bean  
   
 In description:   
+ - Grilled Flank Steak  
  - Spicy Steak Fajita  
   
 **pork**  
@@ -97,9 +99,8 @@ In description:
   
 **chicken**  
 In name:   
- - Jamaican Jerk Chicken  
  - Beef & Chicken Meatballs  
- - Mediterranean Chicken  
+ - Giardiniera Chicken  
  - Chicken  
  - Chicken Sausage Patties  
  - Chicken Tenders Breaded  
