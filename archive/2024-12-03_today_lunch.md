@@ -1,6 +1,6 @@
 # 2024-12-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-04 12:16:20  
+Updated at: 2024-12-04 15:11:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-12-04)  
 **beef**  
 In name:   
@@ -122,8 +122,6 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Roast Beef  
- - Pork & Beef Hard Salami  
   
 In description:   
  - Grilled Cheeseburger  
@@ -132,11 +130,6 @@ In description:
 **pork**  
 In name:   
  - Apricot Glazed Pork  
- - Pork & Beef Hard Salami  
-  
-In description:   
- - Smoked Ham  
- - Bacon  
   
 **chicken**  
 In name:   
@@ -213,6 +206,7 @@ In description:
 **pork**  
 In name:   
  - Pork Carnita  
+ - Chicken Cordon Bleu Sandwich (Pork)  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
@@ -221,7 +215,7 @@ In description:
 In name:   
  - Soup Chicken Tortilla  
  - Diced Chicken  
- - Chicken Bruschetta Sandwich  
+ - Chicken Cordon Bleu Sandwich (Pork)  
   
 In description:   
  - Great Greens  

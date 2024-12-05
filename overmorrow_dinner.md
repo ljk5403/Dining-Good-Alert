@@ -1,6 +1,6 @@
 # 2024-12-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-04 15:11:20  
+Updated at: 2024-12-04 18:57:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-06)  
 **steak**  
 In name:   
@@ -102,6 +102,7 @@ In name:
   
 **curry**  
 In name:   
+ - Curry Potatoes  
   
 In description:   
  - Chicken Tikka Masala  
@@ -205,6 +206,7 @@ In name:
 **beef**  
 In name:   
  - Beef Barbacoa  
+ - Beef Taco Meat  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
@@ -218,6 +220,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Tinga  
   
 In description:   
  - Great Greens  

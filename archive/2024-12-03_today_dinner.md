@@ -1,6 +1,6 @@
 # 2024-12-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-04 12:16:21  
+Updated at: 2024-12-04 15:11:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-04)  
 **Cod**  
 In name:   
@@ -103,7 +103,7 @@ In name:
   
 **steak**  
 In name:   
- - Country Fried Steak  
+ - Beef Flank Steak  
   
 **fish**  
 In name:   
@@ -113,12 +113,12 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Flank Steak  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
  - Beef French Dip Sandwich  
   
 In description:   
- - Country Fried Steak  
  - Italian Meat Sauce  
   
 **pork**  

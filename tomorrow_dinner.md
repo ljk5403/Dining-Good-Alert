@@ -1,6 +1,6 @@
 # 2024-12-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-04 15:11:17  
+Updated at: 2024-12-04 18:57:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-05)  
 **Tuna**  
 In name:   
@@ -97,6 +97,7 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
+ - Mediterranean Beef  
  - Beef Taco Meat  
   
 In description:   
@@ -119,6 +120,7 @@ In name:
  - Blackened Chicken  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
+ - Mediterranean Chicken  
  - Chicken Dumpling Soup  
   
 In description:   
