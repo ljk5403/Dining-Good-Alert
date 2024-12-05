@@ -1,6 +1,6 @@
 # 2024-12-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-05 06:22:24  
+Updated at: 2024-12-05 09:12:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-06)  
 **steak**  
 In name:   
@@ -102,7 +102,6 @@ In name:
   
 **curry**  
 In name:   
- - Curry Potatoes  
   
 In description:   
  - Chicken Tikka Masala  
@@ -140,6 +139,10 @@ In description:
 In name:   
  - Watermelon Slices  
   
+**Poke Bar**  
+In name:   
+ - Build Your Own Poke Bar  
+  
 **clam**  
 In name:   
  - Soup Clam Chowder  
@@ -147,7 +150,6 @@ In name:
 **Shrimp**  
 In name:   
  - Sauteed Shrimp  
- - Steamed Shrimp  
   
 **Cod**  
 In name:   
@@ -155,10 +157,6 @@ In name:
   
 In description:   
  - Soup Clam Chowder  
-  
-**Tuna**  
-In name:   
- - Tuna  
   
 **fish**  
 In name:   

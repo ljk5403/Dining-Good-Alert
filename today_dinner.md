@@ -1,6 +1,6 @@
 # 2024-12-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-05 06:22:19  
+Updated at: 2024-12-05 09:12:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-05)  
 **Tuna**  
 In name:   
@@ -87,7 +87,6 @@ In description:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-12-05)  
 **steak**  
 In name:   
- - Rosemary Cabernet Flank Steak  
  - Spicy Steak Fajita  
   
 **Tuna**  
@@ -97,11 +96,9 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Mediterranean Beef  
  - Beef Taco Meat  
   
 In description:   
- - Rosemary Cabernet Flank Steak  
  - Pizza Slice Sausage & Pepperoni  
  - Spicy Steak Fajita  
  - Soup Cream of Potato w/ Bacon  
@@ -117,10 +114,8 @@ In description:
   
 **chicken**  
 In name:   
- - Blackened Chicken  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
- - Mediterranean Chicken  
  - Chicken Dumpling Soup  
   
 In description:   
@@ -133,13 +128,9 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**Shrimp**  
+**Poke Bar**  
 In name:   
- - Steamed Shrimp  
-  
-**Tuna**  
-In name:   
- - Tuna  
+ - Build Your Own Poke Bar  
   
 **fish**  
 In name:   
@@ -201,7 +192,6 @@ In description:
   
 **pork**  
 In name:   
- - Pizza Slice BBQ Pulled Pork  
  - Green Beans w/ Pork Bacon  
   
 In description:   

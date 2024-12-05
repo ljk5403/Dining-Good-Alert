@@ -1,6 +1,6 @@
 # 2024-12-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-05 06:22:20  
+Updated at: 2024-12-05 09:12:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-12-06)  
 **steak**  
 In name:   
@@ -148,7 +148,6 @@ In name:
  - Chicken Tenders Breaded  
  - Plant-Based Chicken Nuggets (6)  
  - Chicken Tikka Masala  
- - Diced Chicken  
   
 In description:   
  - Great Greens  
@@ -158,6 +157,10 @@ In description:
 In name:   
  - Watermelon Slices  
   
+**Poke Bar**  
+In name:   
+ - Build Your Own Poke Bar  
+  
 **clam**  
 In name:   
  - Soup Clam Chowder  
@@ -165,7 +168,6 @@ In name:
 **Shrimp**  
 In name:   
  - Sauteed Shrimp  
- - Steamed Shrimp  
   
 **Cod**  
 In name:   
@@ -173,10 +175,6 @@ In name:
   
 In description:   
  - Soup Clam Chowder  
-  
-**Tuna**  
-In name:   
- - Tuna  
   
 **catfish**  
 In name:   
@@ -248,7 +246,6 @@ In description:
 **chicken**  
 In name:   
  - Taco Chicken  
- - Diced Chicken  
   
 In description:   
  - Great Greens  
