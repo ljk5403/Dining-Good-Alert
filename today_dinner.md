@@ -1,6 +1,6 @@
 # 2024-12-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-04 18:57:08  
+Updated at: 2024-12-04 21:30:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-04)  
 **Cod**  
 In name:   
@@ -129,7 +129,6 @@ In name:
   
 **chicken**  
 In name:   
- - Plant-Based Chicken & Gravy (VN)  
  - Beef & Chicken Meatballs  
  - Chicken Bacon Ranch Pizza Slice  
  - Lemon Pepper Chicken Salad  

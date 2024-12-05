@@ -1,6 +1,6 @@
 # 2024-12-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-04 18:57:12  
+Updated at: 2024-12-04 21:30:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-12-06)  
 **steak**  
 In name:   
@@ -145,6 +145,8 @@ In name:
  - Beef & Chicken Meatballs  
  - Pizza Slice Chicken Cordon Bleu  
  - Chicken Sausage Patties  
+ - Chicken Tenders Breaded  
+ - Plant-Based Chicken Nuggets (6)  
  - Chicken Tikka Masala  
  - Diced Chicken  
   

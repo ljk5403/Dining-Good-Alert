@@ -1,6 +1,6 @@
 # 2024-12-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-04 18:57:14  
+Updated at: 2024-12-04 21:30:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-06)  
 **steak**  
 In name:   
@@ -206,7 +206,6 @@ In name:
 **beef**  
 In name:   
  - Beef Barbacoa  
- - Beef Taco Meat  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
@@ -220,7 +219,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Tinga  
   
 In description:   
  - Great Greens  
