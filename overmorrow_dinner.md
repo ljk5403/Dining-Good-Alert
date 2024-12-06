@@ -1,6 +1,6 @@
 # 2024-12-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-06 12:16:09  
+Updated at: 2024-12-06 15:10:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-08)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -98,6 +98,8 @@ In description:
   
 **beef**  
 In name:   
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
@@ -106,8 +108,13 @@ In description:
   
 **pork**  
 In name:   
+ - Pork & Beef Hard Salami  
  - French Market Pork Jambalaya  
  - Pork Carnita  
+  
+In description:   
+ - Smoked Ham  
+ - Bacon  
   
 **chicken**  
 In name:   

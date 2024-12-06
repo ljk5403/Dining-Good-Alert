@@ -1,6 +1,6 @@
 # 2024-12-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-06 09:12:00  
+Updated at: 2024-12-06 12:16:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-12-06)  
 **steak**  
 In name:   
@@ -38,13 +38,13 @@ In description:
 **beef**  
 In name:   
  - Beef Taco Meat  
+ - Beef Barbacoa  
   
 In description:   
  - Pizza Slice Philly Cheesesteak  
   
 **pork**  
 In name:   
- - Pork Carnita  
   
 In description:   
  - Pizza Slice Sausage  
@@ -105,15 +105,10 @@ In name:
   
 **Cod**  
 In name:   
+ - Lemon Pepper Cod Fillet  
   
 In description:   
- - Petite Fish Sandwich  
  - Soup Clam Chowder  
-  
-**fish**  
-In name:   
- - Petite Fish Sandwich  
- - Vegan Fish Sandwich  
   
 **curry**  
 In name:   
@@ -166,16 +161,16 @@ In name:
 In name:   
  - Soup Clam Chowder  
   
-**Shrimp**  
-In name:   
- - Sauteed Shrimp  
-  
 **Cod**  
 In name:   
  - Battered Cod  
   
 In description:   
  - Soup Clam Chowder  
+  
+**Tuna**  
+In name:   
+ - Tuna Salad  
   
 **catfish**  
 In name:   
@@ -187,6 +182,8 @@ In name:
   
 **beef**  
 In name:   
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
  - Beef Taco Meat  
   
 In description:   
@@ -195,8 +192,12 @@ In description:
 **pork**  
 In name:   
  - Smoked Pulled Pork Sandwich  
+ - Italian Pork Sausage  
+ - Pork & Beef Hard Salami  
   
 In description:   
+ - Smoked Ham  
+ - Bacon  
  - Soup Clam Chowder  
   
 **chicken**  
