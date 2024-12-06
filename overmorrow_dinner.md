@@ -1,6 +1,6 @@
 # 2024-12-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-05 18:57:02  
+Updated at: 2024-12-05 21:29:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-07)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-12-07)  
 **watermelon**  
@@ -29,6 +29,7 @@ In name:
 In name:   
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
+ - Beef Hot Dog  
   
 In description:   
  - Pepperoni Pizza Slice  

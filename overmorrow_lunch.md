@@ -1,6 +1,6 @@
 # 2024-12-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-05 18:56:57  
+Updated at: 2024-12-05 21:29:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-12-07)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-12-07)  
 **watermelon**  
@@ -21,9 +21,14 @@ In name:
  - Lemon Pepper Chicken Salad  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-12-07)  
+**lamb**  
+In name:   
+ - Lamb & Beef Gyro Sandwich  
+  
 **beef**  
 In name:   
  - Beef Tri Tip Carved w/ Chimichurri  
+ - Lamb & Beef Gyro Sandwich  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
