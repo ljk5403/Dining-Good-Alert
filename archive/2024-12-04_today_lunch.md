@@ -1,6 +1,6 @@
 # 2024-12-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-05 12:14:13  
+Updated at: 2024-12-05 15:11:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-12-05)  
 **Cod**  
 In name:   
@@ -204,15 +204,9 @@ In description:
  - Soup Cream of Potato w/ Bacon  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-12-05)  
-**Salmon**  
+**Tilapia**  
 In name:   
- - Ginger Glazed Salmon  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Ginger Glazed Salmon  
+ - Baked Tilapia w/Dill Wine Sauce  
   
 **beef**  
 In name:   
