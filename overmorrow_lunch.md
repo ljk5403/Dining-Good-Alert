@@ -1,6 +1,6 @@
 # 2024-12-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-07 03:11:05  
+Updated at: 2024-12-07 06:20:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-12-09)  
 **beef**  
 In name:   
@@ -108,6 +108,7 @@ In name:
  - Pizza Slice Mediterranean Chicken  
  - Chicken Tinga  
  - Chicken Noodle Soup  
+ - Diced Chicken  
   
 In description:   
  - Great Greens  

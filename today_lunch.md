@@ -1,6 +1,6 @@
 # 2024-12-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-07 03:11:00  
+Updated at: 2024-12-07 06:19:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-12-07)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-12-07)  
 **watermelon**  
@@ -51,10 +51,10 @@ In name:
  - Crispy Buffalo Chicken Sandwich  
  - Chicken Tinga  
  - Soup Cream of Chicken & Wild Rice  
+ - Diced Chicken  
   
 In description:   
  - Pepperoni Pizza Slice  
- - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-12-07)  
 **watermelon**  
