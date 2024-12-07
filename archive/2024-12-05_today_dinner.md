@@ -1,6 +1,6 @@
 # 2024-12-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-06 12:16:03  
+Updated at: 2024-12-06 15:10:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-06)  
 **steak**  
 In name:   
@@ -158,23 +158,31 @@ In name:
 In description:   
  - Soup Clam Chowder  
   
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
 **fish**  
 In name:   
  - Vegan Fish Sandwich  
   
 **beef**  
 In name:   
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
  - Unit Made Sauce - Beef Ragu (AYCTE)  
  - Beef Taco Meat  
   
 In description:   
  - Grilled Cheeseburger  
- - Vegan Taco Filling  
   
 **pork**  
 In name:   
+ - Pork & Beef Hard Salami  
   
 In description:   
+ - Smoked Ham  
+ - Bacon  
  - Soup Clam Chowder  
   
 **chicken**  

@@ -1,6 +1,6 @@
 # 2024-12-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-06 12:16:01  
+Updated at: 2024-12-06 15:10:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-12-06)  
 **steak**  
 In name:   
@@ -54,7 +54,7 @@ In description:
 In name:   
  - Jollof Rice w/ Chicken  
  - Lemon Pepper Chicken Salad  
- - Butter Chicken  
+ - Tandoori Chicken  
  - Fajita Chicken  
  - Diced Chicken Breast  
   
@@ -234,13 +234,13 @@ In name:
 In name:   
  - Beef Taco Meat  
  - Big Texan Beef Sandwich  
+ - Beef Stroganoff Creamy  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
   
 **pork**  
 In name:   
- - Herb Crusted Pork Loin  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
