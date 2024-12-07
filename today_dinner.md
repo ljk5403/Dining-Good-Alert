@@ -1,6 +1,6 @@
 # 2024-12-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-06 18:56:11  
+Updated at: 2024-12-06 21:27:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-06)  
 **steak**  
 In name:   
@@ -120,6 +120,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Spicy Citrus w/Bl Beans & Rice  
   
 In description:   
  - Pizza Slice Chicken Cordon Bleu  
@@ -127,13 +128,13 @@ In description:
   
 **chicken**  
 In name:   
- - Brazilian Chicken w/ Salsa Vinaigrette  
  - Beef & Chicken Meatballs  
  - Pizza Slice Chicken Cordon Bleu  
  - Chicken Tikka Masala  
  - Chicken Sausage Patties  
   
 In description:   
+ - Pork Spicy Citrus w/Bl Beans & Rice  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-12-06)  
@@ -181,6 +182,7 @@ In description:
 **pork**  
 In name:   
  - Pork & Beef Hard Salami  
+ - Pork Loin Spicy Greenbush  
   
 In description:   
  - Smoked Ham  
@@ -189,7 +191,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Coq Au Vin Blanc w/Bacon  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
