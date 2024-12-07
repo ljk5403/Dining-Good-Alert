@@ -1,6 +1,6 @@
 # 2024-12-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-07 09:10:25  
+Updated at: 2024-12-07 12:14:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-12-07)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-12-07)  
 **watermelon**  
@@ -56,9 +56,25 @@ In description:
 In name:   
  - Watermelon Slices  
   
+**Poke Bar**  
+In name:   
+ - Poke Bar  
+  
 **steak**  
 In name:   
  - Philly Cheesesteak Sandwich  
+  
+**Shrimp**  
+In name:   
+  
+In description:   
+ - Poke Bar  
+  
+**Tuna**  
+In name:   
+  
+In description:   
+ - Poke Bar  
   
 **beef**  
 In name:   
@@ -75,6 +91,7 @@ In name:
  - Pork & Beef Hard Salami  
   
 In description:   
+ - Bacon  
  - Smoked Ham  
   
 **chicken**  
