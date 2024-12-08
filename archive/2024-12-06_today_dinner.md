@@ -1,6 +1,6 @@
 # 2024-12-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-07 15:10:05  
+Updated at: 2024-12-07 19:01:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-07)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-12-07)  
 **watermelon**  
@@ -25,6 +25,10 @@ In name:
  - Lemon Pepper Chicken Salad  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-12-07)  
+**Shrimp**  
+In name:   
+ - Ecuadorian Shrimp Ceviche  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
@@ -33,7 +37,6 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice  
- - Big Dog Hot Dog w/ Chili & Cheese  
   
 **pork**  
 In name:   
@@ -46,7 +49,6 @@ In description:
   
 **chicken**  
 In name:   
- - Cajun Chicken Pasta  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
