@@ -1,6 +1,6 @@
 # 2024-12-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-09 12:16:33  
+Updated at: 2024-12-09 15:11:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-09)  
 **beef**  
 In name:   
@@ -57,6 +57,10 @@ In name:
 In name:   
  - Watermelon Slices  
   
+**steak**  
+In name:   
+ - Plant-Based Pepper Steak Stir Fry  
+  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
@@ -65,10 +69,12 @@ In name:
 In name:   
  - Beef & Chicken Meatballs  
  - Beef Ravioli w/Tomato Sauce  
+ - Beef Broccoli Stir Fry  
  - Beef Taco Meat  
   
 In description:   
  - Swedish Meatballs (AYCTE)  
+ - Plant-Based Pepper Steak Stir Fry  
  - Vegan Taco Filling  
  - Blackened Hamburger  
  - Vegan Sloppy Joe  
@@ -126,6 +132,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Grilled Chicken Sandwich  
  - Chicken Drumstick BBQ Glazed  
  - Chicken Tinga  
