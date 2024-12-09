@@ -1,6 +1,6 @@
 # 2024-12-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-08 18:59:00  
+Updated at: 2024-12-08 21:33:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-09)  
 **beef**  
 In name:   
@@ -23,6 +23,7 @@ In description:
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
+ - Chicken Stir-Fry Coconut Lime  
  - Chicken  
  - Chicken Noodle Soup  
   
