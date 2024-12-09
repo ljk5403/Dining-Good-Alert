@@ -1,12 +1,11 @@
 # 2024-12-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-09 06:23:26  
+Updated at: 2024-12-09 09:12:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-12-09)  
 **beef**  
 In name:   
  - Texas BBQ Sliced Beef Brisket  
  - Beef Broccoli Stir Fry  
- - Beef Fajita Meat  
  - Beef Barbacoa  
  - Beef Taco Meat  
   
@@ -24,7 +23,6 @@ In description:
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
- - Chicken  
  - Chicken Tinga  
  - Chicken Noodle Soup  
   
@@ -70,10 +68,6 @@ In name:
  - Chicken Noodle Soup  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-12-09)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
 **steak**  
 In name:   
  - Island Spiced Beef Steak  
@@ -90,7 +84,7 @@ In name:
 In name:   
  - Island Spiced Beef Steak  
  - Beef & Chicken Meatballs  
- - Beef Ravioli w/Tomato Sauce  
+ - Beef Tortellini and Sauce  
  - Barbacoa Beef w/Mango Habanero Sandwich  
  - Beef Taco Meat  
   
@@ -109,9 +103,6 @@ In name:
  - Chicken Tinga  
  - Chicken Noodle Soup  
  - Diced Chicken  
-  
-In description:   
- - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-12-09)  
 **watermelon**  

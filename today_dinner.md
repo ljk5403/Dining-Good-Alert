@@ -1,10 +1,9 @@
 # 2024-12-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-09 06:23:28  
+Updated at: 2024-12-09 09:12:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-09)  
 **beef**  
 In name:   
- - Beef Fajita Meat  
   
 In description:   
  - Sausage, Potatoes, & Peppers  
@@ -24,7 +23,6 @@ In description:
 In name:   
  - Lemon Pepper Chicken Salad  
  - Chicken Stir-Fry Coconut Lime  
- - Chicken  
  - Chicken Noodle Soup  
   
 In description:   
