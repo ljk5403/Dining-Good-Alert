@@ -1,6 +1,6 @@
 # 2024-12-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-10 12:16:32  
+Updated at: 2024-12-10 15:11:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-12-10)  
 **Tuna**  
 In name:   
@@ -253,7 +253,7 @@ In description:
 In name:   
  - Mediterranean Chicken  
  - Diced Chicken  
- - Huli Huli Chicken  
+ - General Tso's Chicken  
   
 In description:   
  - BYO Mediterranean Sandwich  
