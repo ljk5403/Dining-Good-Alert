@@ -1,6 +1,6 @@
 # 2024-12-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-09 18:58:12  
+Updated at: 2024-12-09 21:31:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-09)  
 **beef**  
 In name:   
@@ -8,7 +8,7 @@ In name:
 In description:   
  - Sausage, Potatoes, & Peppers  
  - Italian Meat Sauce  
- - Chicago-Style Hot Dog  
+ - Bratwurst  
   
 **pork**  
 In name:   
@@ -18,6 +18,7 @@ In name:
 In description:   
  - Sausage, Potatoes, & Peppers  
  - Pizza Slice Sausage  
+ - Bratwurst  
   
 **chicken**  
 In name:   
@@ -83,13 +84,13 @@ In description:
 In name:   
  - Herb Crusted Pork Loin  
  - Italian Pork Sausage  
+ - Pork Carnita  
  - Pork Sausage Patties  
   
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
  - Pizza Slice Mediterranean Chicken  
- - Chicken Tinga  
  - Chicken Noodle Soup  
   
 In description:   

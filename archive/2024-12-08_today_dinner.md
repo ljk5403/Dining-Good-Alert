@@ -1,6 +1,6 @@
 # 2024-12-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-09 15:11:03  
+Updated at: 2024-12-09 18:58:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-09)  
 **beef**  
 In name:   
@@ -135,7 +135,7 @@ In name:
  - Lemon Pepper Chicken Salad  
  - Grilled Chicken Sandwich  
  - Chicken Drumstick BBQ Glazed  
- - Chicken Tinga  
+ - Diced Chicken  
  - Chicken Noodle Soup  
  - Boneless Skinless Chicken Thigh  
   
