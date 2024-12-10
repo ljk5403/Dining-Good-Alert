@@ -1,6 +1,6 @@
 # 2024-12-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-10 09:12:44  
+Updated at: 2024-12-10 12:16:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-12-10)  
 **Tuna**  
 In name:   
@@ -109,7 +109,6 @@ In description:
 In name:   
  - Philly Cheesesteak Sandwich  
  - Tempeh Philly Cheesesteak Sandwich  
- - Spicy Steak Fajita  
   
 **beef**  
 In name:   
@@ -121,10 +120,10 @@ In name:
   
 In description:   
  - Philly Cheesesteak Sandwich  
- - Spicy Steak Fajita  
   
 **pork**  
 In name:   
+ - Italian Pork Sausage  
   
 In description:   
  - Pizza Slice Cubano  
@@ -134,8 +133,8 @@ In description:
 In name:   
  - Irish Roast Chicken w/Leeks and Bacon  
  - Beef & Chicken Meatballs  
- - Mediterranean Chicken  
  - Chicken Sausage Patties  
+ - Chicken Tinga  
  - Diced Chicken  
   
 In description:   
@@ -185,6 +184,7 @@ In description:
 **chicken**  
 In name:   
  - Italian Chicken  
+ - Lemon Pepper Chicken Salad  
  - Chicken Thigh  
   
 In description:   
@@ -201,9 +201,6 @@ In name:
 In name:   
  - Lamb & Beef Gyro Sandwich  
   
-In description:   
- - Pizza Slice Gyro  
-  
 **beef**  
 In name:   
  - Soup -  Chili Beef & Bean  
@@ -211,7 +208,6 @@ In name:
   
 In description:   
  - Pizza Slice Meat Lovers w/ Bacon  
- - Pizza Slice Gyro  
   
 **pork**  
 In name:   
@@ -219,6 +215,7 @@ In name:
   
 In description:   
  - Pizza Slice Meat Lovers w/ Bacon  
+ - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
@@ -255,6 +252,7 @@ In description:
 **chicken**  
 In name:   
  - Mediterranean Chicken  
+ - Diced Chicken  
  - Huli Huli Chicken  
   
 In description:   

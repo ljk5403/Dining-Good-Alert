@@ -1,6 +1,6 @@
 # 2024-12-11 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-10 09:12:47  
+Updated at: 2024-12-10 12:16:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-12-11)  
 **beef**  
 In name:   
@@ -216,6 +216,7 @@ In description:
 In name:   
  - Mediterranean Chicken  
  - Soup Chicken Tortilla  
+ - Diced Chicken  
   
 In description:   
  - BYO Mediterranean Sandwich  
