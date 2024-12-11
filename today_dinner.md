@@ -1,6 +1,6 @@
 # 2024-12-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-10 18:57:01  
+Updated at: 2024-12-10 21:29:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-10)  
 **Cod**  
 In name:   
@@ -80,6 +80,10 @@ In description:
  - Station Recipe - Liz - Great Greens  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-12-10)  
+**steak**  
+In name:   
+ - Philly Cheesesteak Sandwich  
+  
 **beef**  
 In name:   
  - Corned Beef  
@@ -88,6 +92,9 @@ In name:
  - Beef Bulgogi Bao Bun  
  - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
+  
+In description:   
+ - Philly Cheesesteak Sandwich  
   
 **pork**  
 In name:   
@@ -103,7 +110,6 @@ In name:
  - Beef & Chicken Meatballs  
  - Chicken Tinga  
  - Chicken Sausage Patties  
- - Crispy Chicken Sandwich  
   
 In description:   
  - Great Greens  
