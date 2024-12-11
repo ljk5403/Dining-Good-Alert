@@ -1,6 +1,6 @@
 # 2024-12-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-11 06:22:49  
+Updated at: 2024-12-11 09:12:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-12)  
 **Chicken Drummies**  
 In name:   
