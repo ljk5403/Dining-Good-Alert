@@ -1,6 +1,6 @@
 # 2024-12-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-10 15:11:12  
+Updated at: 2024-12-10 18:57:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-12)  
 **Chicken Drummies**  
 In name:   
@@ -45,6 +45,7 @@ In name:
  - Plant-Based Chicken Nuggets (6)  
  - Chicken Shawarma Sandwich  
  - Chicken Dumpling Soup  
+ - Diced Chicken  
   
 In description:   
  - Pepperoni Pizza Slice  

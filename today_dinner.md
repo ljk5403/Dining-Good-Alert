@@ -1,6 +1,6 @@
 # 2024-12-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-10 15:11:03  
+Updated at: 2024-12-10 18:57:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-10)  
 **Cod**  
 In name:   
@@ -19,7 +19,6 @@ In name:
 In name:   
  - Beef & Chicken Meatballs  
  - Poutine w/Beef Gravy  
- - Soup -  Chili Beef & Bean  
   
 In description:   
  - Pepperoni Pizza Slice  
@@ -30,6 +29,8 @@ In name:
  - Beef & Chicken Meatballs  
  - Plant Based Chicken Strips  
  - Chicken Vindaloo - w/ Rice  
+ - Soup Lemony Chicken with Rice  
+ - Diced Chicken  
   
 In description:   
  - Pepperoni Pizza Slice  
@@ -79,13 +80,6 @@ In description:
  - Station Recipe - Liz - Great Greens  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-12-10)  
-**steak**  
-In name:   
- - Spicy Steak Fajita  
-  
-In description:   
- - Montreal Chicken  
-  
 **beef**  
 In name:   
  - Corned Beef  
@@ -95,11 +89,10 @@ In name:
  - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
   
-In description:   
- - Spicy Steak Fajita  
-  
 **pork**  
 In name:   
+ - Herb Crusted Pork Loin  
+ - Italian Pork Sausage  
   
 In description:   
  - Pizza Slice Cubano  
@@ -107,9 +100,8 @@ In description:
   
 **chicken**  
 In name:   
- - Montreal Chicken  
  - Beef & Chicken Meatballs  
- - Mediterranean Chicken  
+ - Chicken Tinga  
  - Chicken Sausage Patties  
  - Crispy Chicken Sandwich  
   
@@ -148,6 +140,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Italian Chicken  
   
 In description:   
