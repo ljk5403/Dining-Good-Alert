@@ -1,6 +1,6 @@
 # 2024-12-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-12 09:12:25  
+Updated at: 2024-12-12 12:16:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-12-12)  
 **Tuna**  
 In name:   
@@ -82,10 +82,6 @@ In description:
  - Soup Cream of Potato w/ Bacon  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-12-12)  
-**steak**  
-In name:   
- - Spicy Steak Fajita  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
@@ -97,8 +93,7 @@ In name:
   
 In description:   
  - Pizza Slice Deluxe  
- - Mushroom Swiss Burger  
- - Spicy Steak Fajita  
+ - Cheeseburger  
  - Soup Cream of Potato w/ Bacon  
   
 **pork**  
@@ -117,6 +112,7 @@ In name:
  - Plant-Based Chicken & Dumplings  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
+ - Chicken Tinga  
  - Chicken Dumpling Soup  
  - Diced Chicken  
   
@@ -167,6 +163,7 @@ In description:
 In name:   
  - Jamaican Jerk Chicken Drumstick  
  - Plant-Based Chicken Tenders  
+ - Lemon Pepper Chicken Salad  
  - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
  - Chicken Thigh  
@@ -189,7 +186,7 @@ In name:
 In name:   
   
 In description:   
- - Pizza Slice Cheeseburger  
+ - Pizza Slice Meat Lovers w/Bacon  
  - Soup Cream of Potato w/ Bacon  
   
 **pork**  
@@ -197,6 +194,7 @@ In name:
  - Pizza Slice BBQ Pulled Pork  
   
 In description:   
+ - Pizza Slice Meat Lovers w/Bacon  
  - Soup Cream of Potato w/ Bacon  
  - Ham Steak  
  - Sand Artisan Flatbrea Ham & Swiss  
@@ -207,6 +205,7 @@ In name:
  - Chicken Dumpling Soup  
   
 In description:   
+ - Pizza Slice Meat Lovers w/Bacon  
  - Great Greens  
  - Soup Cream of Potato w/ Bacon  
   
