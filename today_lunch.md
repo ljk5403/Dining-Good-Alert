@@ -1,6 +1,6 @@
 # 2024-12-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-12 06:23:03  
+Updated at: 2024-12-12 09:12:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-12-12)  
 **Tuna**  
 In name:   
@@ -122,7 +122,6 @@ In name:
   
 In description:   
  - Pizza Slice Deluxe  
- - Great Greens  
  - Soup Cream of Potato w/ Bacon  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-12-12)  
