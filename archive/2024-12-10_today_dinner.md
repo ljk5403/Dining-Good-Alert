@@ -1,6 +1,6 @@
 # 2024-12-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-11 15:10:53  
+Updated at: 2024-12-11 18:56:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-11)  
 **beef**  
 In name:   
@@ -71,10 +71,6 @@ In name:
 In name:   
  - Chicken Drummies  
   
-**Shrimp**  
-In name:   
- - Sweet & Sour Shrimp  
-  
 **Cod**  
 In name:   
  - Basque Style Cod  
@@ -86,21 +82,25 @@ In description:
  - Tempura Roll (FujiSan)  
  - California Roll  (FujiSan)  
   
+**lamb**  
+In name:   
+ - Lamb & Beef Gyro Sandwich  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
+ - Lamb & Beef Gyro Sandwich  
   
 In description:   
  - Italian Meat Sauce  
  - Pepperoni Pizza Slice  
  - Pizza Slice Meat Lovers w/ Bacon  
- - Pork Bratwurst Sandwich  
   
 **pork**  
 In name:   
  - Italian Pork Sausage  
- - Pork Bratwurst Sandwich  
+ - Pork Carnita  
   
 In description:   
  - Pizza Slice Meat Lovers w/ Bacon  
@@ -110,8 +110,8 @@ In name:
  - Chicken Drummies  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
+ - Sweet & Sour Chicken  
  - Plant Based Sweet & Sour Chicken  
- - Chicken Tinga  
  - Soup Chicken Tortilla  
   
 In description:   

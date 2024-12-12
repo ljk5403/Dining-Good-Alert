@@ -1,6 +1,6 @@
 # 2024-12-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-11 18:56:48  
+Updated at: 2024-12-11 21:29:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-13)  
 **clam**  
 In name:   
@@ -124,10 +124,12 @@ In name:
 In description:   
  - Pizza Slice Gyro  
  - Vegan Taco Filling  
+ - Pork Bratwurst Sandwich  
   
 **pork**  
 In name:   
  - Baked Rigatoni w/ Pork Italian Sausage  
+ - Pork Bratwurst Sandwich  
   
 In description:   
  - Soup Clam Chowder  
