@@ -1,6 +1,6 @@
 # 2024-12-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-13 09:12:03  
+Updated at: 2024-12-13 12:15:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-12-13)  
 **clam**  
 In name:   
@@ -67,10 +67,6 @@ In name:
  - Lemon Pepper Chicken Salad  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-12-13)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
 **clam**  
 In name:   
  - Soup Clam Chowder  
@@ -106,7 +102,6 @@ In description:
   
 **pork**  
 In name:   
- - Baked Rigatoni w/ Pork Italian Sausage  
   
 In description:   
  - Pizza Slice Hawaiian  
@@ -122,7 +117,6 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice  
- - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-12-13)  
 **watermelon**  
@@ -163,8 +157,6 @@ In description:
   
 **beef**  
 In name:   
- - Roast Beef  
- - Pork & Beef Hard Salami  
  - Beef Taco Meat  
   
 In description:   
@@ -173,17 +165,15 @@ In description:
 **pork**  
 In name:   
  - Italian Pork Sausage  
- - Pork & Beef Hard Salami  
   
 In description:   
- - Smoked Ham  
- - Bacon  
  - Soup Clam Chowder  
   
 **chicken**  
 In name:   
  - Tikka Masala Chicken  
  - Chipotle BBQ Chicken Sandwich  
+ - Lemon Pepper Chicken Salad  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
@@ -210,7 +200,8 @@ In description:
   
 **curry**  
 In name:   
- - Coconut Tofu w/Red Curry Sauce  
+ - Black Eyed Pea Curry w/ Rice  
+ - Garbanzo Bean Curry  
   
 **beef**  
 In name:   
