@@ -1,6 +1,6 @@
 # 2024-12-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-12 18:57:51  
+Updated at: 2024-12-12 21:30:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-12-13)  
 **clam**  
 In name:   
@@ -128,7 +128,6 @@ In name:
  - Chicken Tenders Breaded  
  - Plant-Based Chicken Nuggets (6)  
  - Butter Chicken  
- - Diced Chicken  
   
 In description:   
  - Great Greens  
@@ -241,7 +240,6 @@ In description:
 **chicken**  
 In name:   
  - Mediterranean Chicken  
- - Diced Chicken  
   
 In description:   
  - BYO Mediterranean Sandwich  
