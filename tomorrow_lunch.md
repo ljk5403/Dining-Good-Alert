@@ -1,6 +1,6 @@
 # 2024-12-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-13 09:12:06  
+Updated at: 2024-12-13 12:15:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-12-14)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-12-14)  
 **watermelon**  
@@ -65,8 +65,6 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Roast Beef  
- - Pork & Beef Hard Salami  
  - Beef Taco Meat  
   
 In description:   
@@ -74,13 +72,10 @@ In description:
   
 **pork**  
 In name:   
- - Pork & Beef Hard Salami  
   
 In description:   
  - Lumberjack Bowl w/Bacon  
  - Ham Steak  
- - Smoked Ham  
- - Bacon  
   
 **chicken**  
 In name:   
