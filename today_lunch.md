@@ -1,6 +1,6 @@
 # 2024-12-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-12 15:11:04  
+Updated at: 2024-12-12 18:57:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-12-12)  
 **Tuna**  
 In name:   
@@ -24,7 +24,6 @@ In description:
 **pork**  
 In name:   
  - Cowboy Bean w/ Beef & Pork  
- - Pork Sausage Country Gravy w/ Biscuit  
   
 In description:   
  - OrderIt Breakfast Items  
@@ -44,7 +43,6 @@ In description:
  - OrderIt Breakfast Items  
  - Great Greens  
  - Soup Cream of Potato w/ Bacon  
- - Pork Sausage Country Gravy w/ Biscuit  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-12-12)  
 **watermelon**  

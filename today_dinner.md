@@ -1,27 +1,15 @@
 # 2024-12-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-12 15:11:06  
+Updated at: 2024-12-12 18:57:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-12)  
-**Chicken Drummies**  
-In name:   
- - Chicken Drummies  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
   
-**fish**  
-In name:   
-  
-In description:   
- - Tempura Roll (FujiSan)  
-  
 **beef**  
 In name:   
- - Beef & Chicken Meatballs  
   
 In description:   
- - Pepperoni Pizza Slice  
  - Soup Cream of Potato w/ Bacon  
   
 **pork**  
@@ -29,24 +17,21 @@ In name:
  - Pork Sausage Country Gravy w/ Biscuit  
   
 In description:   
+ - Pizza Breakfast Meat w/Bacon  
+ - Lumberjack Bowl w/Bacon  
+ - Made to Order Breakfast Burrito  
  - Soup Cream of Potato w/ Bacon  
   
 **chicken**  
 In name:   
- - Beef & Chicken Meatballs  
- - Plant Based Chicken Strips  
- - Pizza Slice Chicken Broccoli Alfredo  
- - Chicken Drummies  
- - Plant-Based Chicken Nuggets (6)  
- - Chicken Shawarma Sandwich  
+ - Crispy Chicken & Waffle Sandwich  
  - Chicken Dumpling Soup  
  - Diced Chicken  
   
 In description:   
- - Pepperoni Pizza Slice  
+ - Pork Sausage Country Gravy w/ Biscuit  
  - Great Greens  
  - Soup Cream of Potato w/ Bacon  
- - Pork Sausage Country Gravy w/ Biscuit  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-12-12)  
 **watermelon**  
@@ -93,10 +78,6 @@ In description:
  - Soup Cream of Potato w/ Bacon  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-12-12)  
-**steak**  
-In name:   
- - Spicy Steak Fajita  
-  
 **Shrimp**  
 In name:   
  - Coconut Shrimp  
@@ -123,7 +104,6 @@ In name:
   
 In description:   
  - Pizza Slice Deluxe  
- - Spicy Steak Fajita  
  - Soup Cream of Potato w/ Bacon  
  - Italian Meatball Sandwich  
   
@@ -141,6 +121,7 @@ In name:
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Protein - Chicken Thinly Sliced  
+ - Chicken Tinga  
  - Chicken Dumpling Soup  
   
 In description:   
@@ -182,6 +163,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
   
