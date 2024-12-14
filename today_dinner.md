@@ -1,6 +1,6 @@
 # 2024-12-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-13 18:55:25  
+Updated at: 2024-12-13 21:24:52  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-13)  
 **clam**  
 In name:   
@@ -91,10 +91,6 @@ In name:
 In description:   
  - Soup Clam Chowder  
   
-**Tilapia**  
-In name:   
- - Tilapia Chipotle Lime Crusted  
-  
 **curry**  
 In name:   
  - Indian Curry Garbanzo Beans  
@@ -116,6 +112,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Chop (1)  
  - Pork Bratwurst Sandwich  
   
 In description:   
@@ -124,7 +121,6 @@ In description:
   
 **chicken**  
 In name:   
- - Huli Huli Chicken  
  - Beef & Chicken Meatballs  
  - Butter Chicken  
  - Chicken Sausage Patties  
