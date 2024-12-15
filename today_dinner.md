@@ -1,6 +1,6 @@
 # 2024-12-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-14 19:01:22  
+Updated at: 2024-12-14 21:33:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-14)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-12-14)  
 **watermelon**  
@@ -60,7 +60,7 @@ In name:
   
 **chicken**  
 In name:   
- - Popcorn Chicken  
+ - Chicken Drumstick BBQ Glazed  
  - Plant-Based Chicken Nuggets (6)  
  - Beef & Chicken Meatballs  
  - Fajita Chicken  
