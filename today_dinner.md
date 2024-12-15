@@ -1,6 +1,6 @@
 # 2024-12-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-14 15:09:52  
+Updated at: 2024-12-14 19:01:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-14)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-12-14)  
 **watermelon**  
@@ -19,6 +19,7 @@ In name:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-12-14)  
 **beef**  
 In name:   
+ - Beef Tortellini and Sauce  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
@@ -40,7 +41,8 @@ In name:
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
- - Soup Cream of Chicken & Wild Rice  
+ - Lemon Chicken Rice Soup  
+ - Diced Chicken  
   
 In description:   
  - Pepperoni Pizza Slice  
