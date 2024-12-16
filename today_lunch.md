@@ -1,6 +1,6 @@
 # 2024-12-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-16 12:16:02  
+Updated at: 2024-12-16 15:10:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-12-16)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -81,7 +81,6 @@ In name:
 **beef**  
 In name:   
  - Beef Masaman Thai Curry  
- - Beef & Cilantro Empanada  
  - Beef & Chicken Meatballs  
  - Beef Fajita Meat  
  - Beef Taco Meat  
@@ -210,14 +209,13 @@ In name:
 In name:   
   
 In description:   
- - Sliced Kielbasa  
  - Station Recipe - Deli Lowell AYCTE  
   
 **pork**  
 In name:   
   
 In description:   
- - Sliced Kielbasa  
+ - Andouille Sausage  
  - Station Recipe - Deli Lowell AYCTE  
   
 **chicken**  

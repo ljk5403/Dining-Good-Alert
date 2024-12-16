@@ -1,6 +1,6 @@
 # 2024-12-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-16 12:16:07  
+Updated at: 2024-12-16 15:10:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-16)  
 **fish**  
 In name:   
@@ -128,6 +128,10 @@ In name:
 In name:   
  - Shrimp Curry  
   
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
 **fish**  
 In name:   
  - Vegan Fish Sandwich  
@@ -141,6 +145,8 @@ In name:
   
 **beef**  
 In name:   
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
  - Barbacoa Beef w/Mango Habanero Sandwich  
   
 In description:   
@@ -149,10 +155,13 @@ In description:
   
 **pork**  
 In name:   
+ - Pork & Beef Hard Salami  
  - Italian Pork Sausage  
  - Porkloin Fritter Plate  
   
 In description:   
+ - Smoked Ham  
+ - Bacon  
  - German Plate  
   
 **chicken**  
