@@ -1,6 +1,6 @@
 # 2024-12-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-16 09:12:51  
+Updated at: 2024-12-16 12:16:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-12-18)  
 **Cod**  
 In name:   
@@ -125,7 +125,6 @@ In name:
  - Lemon Pepper Chicken Salad  
  - Plant Based Sweet & Sour Chicken  
  - Soup Chicken Tortilla  
- - Diced Chicken  
   
 In description:   
  - Pepperoni Pizza Slice  
@@ -143,7 +142,8 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Mediterranean Beef  
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
   
 In description:   
  - Italian Meat Sauce  
@@ -154,9 +154,12 @@ In description:
 **pork**  
 In name:   
  - Cuban Pork Sandwich  
+ - Pork & Beef Hard Salami  
   
 In description:   
  - Ham Steak  
+ - Smoked Ham  
+ - Bacon  
   
 **chicken**  
 In name:   
@@ -164,7 +167,6 @@ In name:
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
  - Soup Chicken Tortilla  
- - Mediterranean Chicken  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
@@ -217,7 +219,6 @@ In description:
 In name:   
  - Bulgogi Chicken  
  - Soup Chicken Tortilla  
- - Diced Chicken  
  - Chicken Sausage Patty  
   
 In description:   

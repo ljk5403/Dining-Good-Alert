@@ -1,6 +1,6 @@
 # 2024-12-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-16 09:12:37  
+Updated at: 2024-12-16 12:16:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-16)  
 **fish**  
 In name:   
@@ -11,7 +11,6 @@ In description:
 **beef**  
 In name:   
  - Beef Goulash w/Egg Noodles  
- - Beef Fajita Meat  
   
 In description:   
  - Cowboy Burger  
@@ -29,7 +28,6 @@ In name:
  - Diced Chicken Breast  
  - Pizza Slice Chicken Bacon Ranch  
  - Lemon Pepper Chicken Salad  
- - Chicken  
  - Chicken Fajita  
  - Chicken Noodle Soup  
   
@@ -94,7 +92,6 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Beef Fajita Meat  
  - Beef Taco Meat  
   
 In description:   
@@ -115,10 +112,8 @@ In description:
 In name:   
  - Greek Chicken  
  - Beef & Chicken Meatballs  
- - Chicken  
  - Chicken Tinga  
  - Chicken Noodle Soup  
- - Diced Chicken  
   
 In description:   
  - Gordon's OrderIt  

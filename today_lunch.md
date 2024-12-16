@@ -1,6 +1,6 @@
 # 2024-12-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-16 09:12:32  
+Updated at: 2024-12-16 12:16:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-12-16)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -8,7 +8,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Fajita Meat  
  - Beef Taco Meat  
   
 **pork**  
@@ -25,7 +24,6 @@ In description:
 In name:   
  - Pizza Slice Chicken Bacon Ranch  
  - Lemon Pepper Chicken Salad  
- - Chicken  
  - Chicken Tinga  
  - Chicken Noodle Soup  
  - Diced Chicken Breast  
@@ -83,6 +81,7 @@ In name:
 **beef**  
 In name:   
  - Beef Masaman Thai Curry  
+ - Beef & Cilantro Empanada  
  - Beef & Chicken Meatballs  
  - Beef Fajita Meat  
  - Beef Taco Meat  
@@ -105,7 +104,6 @@ In name:
  - Chicken  
  - Chicken Tinga  
  - Chicken Noodle Soup  
- - Diced Chicken  
   
 In description:   
  - Great Greens  
@@ -119,11 +117,9 @@ In name:
 In name:   
  - Redhook Ale Breaded Shrimp  
   
-**fish**  
+**Tuna**  
 In name:   
-  
-In description:   
- - California Roll  (FujiSan)  
+ - Tuna Salad  
   
 **curry**  
 In name:   
@@ -135,10 +131,17 @@ In description:
 **beef**  
 In name:   
  - Beef Goulash w/Egg Noodles  
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
   
 **pork**  
 In name:   
  - Italian Pork Sausage  
+ - Pork & Beef Hard Salami  
+  
+In description:   
+ - Smoked Ham  
+ - Bacon  
   
 **chicken**  
 In name:   
@@ -166,9 +169,10 @@ In description:
   
 **beef**  
 In name:   
- - Beef Quesadilla  
+ - Beef Walking Taco w/ Fritos  
   
 In description:   
+ - Vegan Walking Taco w/ Fritos  
  - Pepperoni Pizza Slice  
  - Pizza Slice Deluxe  
   
@@ -183,7 +187,6 @@ In description:
 **chicken**  
 In name:   
  - Chicken Noodle Soup  
- - Diced Chicken  
  - Chicken Sausage Patty  
   
 In description:   
@@ -207,13 +210,14 @@ In name:
 In name:   
   
 In description:   
+ - Sliced Kielbasa  
  - Station Recipe - Deli Lowell AYCTE  
   
 **pork**  
 In name:   
- - Italian Pork Sausage  
   
 In description:   
+ - Sliced Kielbasa  
  - Station Recipe - Deli Lowell AYCTE  
   
 **chicken**  

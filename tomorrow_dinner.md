@@ -1,6 +1,6 @@
 # 2024-12-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-16 09:12:46  
+Updated at: 2024-12-16 12:16:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-17)  
 **Tuna**  
 In name:   
@@ -15,13 +15,11 @@ In description:
 **curry**  
 In name:   
  - Indian Vegetable Curry  
- - Curry Potatoes  
   
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
  - Beef Street Taco  
- - Mediterranean Beef  
  - Soup -  Chili Beef & Bean  
   
 In description:   
@@ -42,7 +40,6 @@ In name:
  - Plant Based Chicken Strips  
  - Butter Chicken  
  - Chicken Moroccan Saute Platter  
- - Mediterranean Chicken  
   
 In description:   
  - Cocktail Smokies  
@@ -141,7 +138,6 @@ In name:
  - Beef & Chicken Meatballs  
  - Mediterranean Chicken  
  - General Tso's Chicken  
- - Diced Chicken  
  - Chicken Sausage Patties  
   
 In description:   

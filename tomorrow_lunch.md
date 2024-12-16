@@ -1,6 +1,6 @@
 # 2024-12-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-16 09:12:42  
+Updated at: 2024-12-16 12:16:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-12-17)  
 **Tuna**  
 In name:   
@@ -97,20 +97,16 @@ In description:
  - Station Recipe - Liz - Great Greens  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-12-17)  
+**Poke Bar**  
+In name:   
+ - Build Your Own Poke Bar  
+  
 **steak**  
 In name:   
  - Spicy Steak Fajita  
   
 In description:   
  - Pizza Slice Italian Beef  
-  
-**Shrimp**  
-In name:   
- - Steamed Shrimp  
-  
-**Tuna**  
-In name:   
- - Tuna  
   
 **beef**  
 In name:   
@@ -136,7 +132,6 @@ In name:
  - Chicken Sausage Patties  
  - Plant Based Sweet & Sour Chicken  
  - Sweet & Sour Chicken  
- - Diced Chicken  
   
 In description:   
  - Great Greens  
@@ -153,9 +148,10 @@ In name:
 **beef**  
 In name:   
  - Beef Pita Kabaub  
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
  - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
- - Mediterranean Beef  
   
 In description:   
  - Country Fried Steak  
@@ -166,13 +162,17 @@ In description:
   
 **pork**  
 In name:   
+ - Pork & Beef Hard Salami  
  - Pork Carnita  
+  
+In description:   
+ - Smoked Ham  
+ - Bacon  
   
 **chicken**  
 In name:   
  - Chicken Breast w/Red Pepper Cream  
  - Italian Chicken  
- - Mediterranean Chicken  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
@@ -210,7 +210,6 @@ In name:
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
  - Pizza Slice Chicken Sriracha  
- - Diced Chicken  
   
 In description:   
  - Pizza Slice Meat Lovers w/ Bacon  
