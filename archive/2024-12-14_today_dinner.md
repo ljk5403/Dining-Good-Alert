@@ -1,6 +1,6 @@
 # 2024-12-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-15 12:14:18  
+Updated at: 2024-12-15 15:10:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-15)  
 **Tuna**  
 In name:   
@@ -68,7 +68,7 @@ In description:
 In name:   
  - Chicken Vera Cruz  
  - Beef & Chicken Meatballs  
- - Giardiniera Chicken  
+ - Chicken  
  - Lemon Chicken Rice Soup  
  - Diced Chicken  
   
