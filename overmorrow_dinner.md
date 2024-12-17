@@ -1,6 +1,6 @@
 # 2024-12-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-17 06:22:48  
+Updated at: 2024-12-17 09:12:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-19)  
 **Tuna**  
 In name:   
@@ -35,6 +35,7 @@ In name:
  - Grilled Tandoori Chicken Sandwich  
  - Greek Lemon Chicken w/ Rice  
  - Chicken Dumpling Soup  
+ - Diced Chicken  
   
 In description:   
  - Pepperoni Pizza Slice  
@@ -89,7 +90,6 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Mediterranean Beef  
  - Beef Taco Meat  
   
 In description:   
@@ -114,7 +114,6 @@ In name:
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Pizza Slice Chicken Broccoli Alfredo  
- - Mediterranean Chicken  
  - Chicken Tinga  
  - Chicken Dumpling Soup  
   
@@ -140,13 +139,9 @@ In name:
 In name:   
  - Beef Meatloaf  
  - Beef Taco Meat  
- - Mediterranean Beef  
   
 In description:   
  - Soup Cream of Potato w/ Bacon  
- - Mediterranean Rice Bowl  
- - Mediterranean Nachos  
- - BYO Mediterranean Sandwich  
   
 **pork**  
 In name:   
@@ -160,16 +155,12 @@ In description:
 In name:   
  - Baked BBQ Chicken Quarters  
  - Chicken Dumpling Soup  
- - Mediterranean Chicken  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
  - Collard Greens w/Bacon  
  - Station Recipe - Great Greens - FLM  
  - Soup Cream of Potato w/ Bacon  
- - Mediterranean Rice Bowl  
- - Mediterranean Nachos  
- - BYO Mediterranean Sandwich  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-12-19)  
 **Shrimp**  

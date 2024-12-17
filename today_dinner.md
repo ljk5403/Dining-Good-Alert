@@ -1,7 +1,17 @@
 # 2024-12-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-17 06:22:31  
+Updated at: 2024-12-17 09:12:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-17)  
+**clam**  
+In name:   
+ - Soup Clam Chowder  
+  
+**Cod**  
+In name:   
+  
+In description:   
+ - Soup Clam Chowder  
+  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
@@ -20,7 +30,6 @@ In name:
 In name:   
  - Beef & Chicken Meatballs  
  - Beef Street Taco  
- - Soup -  Chili Beef & Bean  
   
 In description:   
  - Cocktail Smokies  
@@ -32,6 +41,7 @@ In name:
   
 In description:   
  - Cocktail Smokies  
+ - Soup Clam Chowder  
   
 **chicken**  
 In name:   
@@ -40,6 +50,7 @@ In name:
  - Plant Based Chicken Strips  
  - Butter Chicken  
  - Chicken Moroccan Saute Platter  
+ - Diced Chicken  
   
 In description:   
  - Cocktail Smokies  
@@ -103,7 +114,6 @@ In name:
   
 **Shrimp**  
 In name:   
- - Steamed Shrimp  
   
 In description:   
  - Cioppino  
@@ -113,10 +123,6 @@ In name:
   
 In description:   
  - Cioppino  
-  
-**Tuna**  
-In name:   
- - Tuna  
   
 **beef**  
 In name:   
@@ -162,13 +168,9 @@ In name:
  - Lamb & Beef Gyro Sandwich  
  - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
- - Mediterranean Beef  
   
 In description:   
  - Spicy Steak Fajita  
- - Mediterranean Rice Bowl  
- - Mediterranean Nachos  
- - BYO Mediterranean Sandwich  
   
 **pork**  
 In name:   
@@ -178,14 +180,10 @@ In name:
 In name:   
  - Crispy Chicken Sandwich  
  - Italian Chicken  
- - Mediterranean Chicken  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
  - Station Recipe - Great Greens - FLM  
- - Mediterranean Rice Bowl  
- - Mediterranean Nachos  
- - BYO Mediterranean Sandwich  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-12-17)  
 **steak**  

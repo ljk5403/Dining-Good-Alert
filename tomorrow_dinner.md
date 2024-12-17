@@ -1,6 +1,6 @@
 # 2024-12-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-17 06:22:39  
+Updated at: 2024-12-17 09:12:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-18)  
 **Shrimp**  
 In name:   
@@ -29,6 +29,7 @@ In name:
  - Lemon Pepper Chicken Salad  
  - Chicken  
  - Soup Chicken Tortilla  
+ - Diced Chicken  
   
 In description:   
  - Great Greens  
@@ -77,12 +78,6 @@ In name:
 In name:   
  - Caribbean Cod  
   
-**fish**  
-In name:   
-  
-In description:   
- - Tempura Roll (FujiSan)  
-  
 **beef**  
 In name:   
  - Beef Stew w/ Buttermilk Biscuit  
@@ -102,7 +97,6 @@ In name:
 In name:   
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
- - General Tso's Chicken  
  - Soup Chicken Tortilla  
   
 In description:   
@@ -126,15 +120,11 @@ In name:
 In name:   
  - Beef & Chicken Meatballs  
  - Beef Sirloin Steak  
- - Mediterranean Beef  
   
 In description:   
  - Grilled Cheeseburger  
  - Vegan Sloppy Joe  
  - Italian Meat Sauce  
- - Mediterranean Rice Bowl  
- - Mediterranean Nachos  
- - BYO Mediterranean Sandwich  
   
 **pork**  
 In name:   
@@ -147,14 +137,10 @@ In name:
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
  - Soup Chicken Tortilla  
- - Mediterranean Chicken  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
  - Station Recipe - Great Greens - FLM  
- - Mediterranean Rice Bowl  
- - Mediterranean Nachos  
- - BYO Mediterranean Sandwich  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2024-12-18)  
 **steak**  
