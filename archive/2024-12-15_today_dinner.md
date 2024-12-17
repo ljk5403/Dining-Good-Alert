@@ -1,6 +1,6 @@
 # 2024-12-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-16 15:10:55  
+Updated at: 2024-12-16 18:57:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-16)  
 **fish**  
 In name:   
@@ -92,6 +92,7 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
+ - Beef Fajita Meat  
  - Beef Taco Meat  
   
 In description:   
@@ -110,8 +111,8 @@ In description:
   
 **chicken**  
 In name:   
- - Greek Chicken  
  - Beef & Chicken Meatballs  
+ - Chicken  
  - Chicken Tinga  
  - Chicken Noodle Soup  
   
@@ -136,33 +137,27 @@ In name:
 In name:   
  - Vegan Fish Sandwich  
   
-In description:   
- - California Roll  (FujiSan)  
-  
 **curry**  
 In name:   
  - Shrimp Curry  
   
 **beef**  
 In name:   
- - Roast Beef  
- - Pork & Beef Hard Salami  
  - Barbacoa Beef w/Mango Habanero Sandwich  
   
 In description:   
  - German Plate  
  - Porkloin Fritter Plate  
+ - Knockwurst  
   
 **pork**  
 In name:   
- - Pork & Beef Hard Salami  
  - Italian Pork Sausage  
  - Porkloin Fritter Plate  
   
 In description:   
- - Smoked Ham  
- - Bacon  
  - German Plate  
+ - Knockwurst  
   
 **chicken**  
 In name:   
