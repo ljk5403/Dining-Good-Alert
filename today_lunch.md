@@ -1,6 +1,6 @@
 # 2024-12-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-17 09:12:15  
+Updated at: 2024-12-17 12:16:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-12-17)  
 **clam**  
 In name:   
@@ -112,6 +112,12 @@ In description:
 In name:   
  - Spicy Steak Fajita  
   
+**fish**  
+In name:   
+  
+In description:   
+ - Crab Rangoon  
+  
 **beef**  
 In name:   
  - Beef Roast w/Mushroom Demi Glace  
@@ -126,6 +132,7 @@ In description:
 **pork**  
 In name:   
  - Pork Bratwurst Sandwich  
+ - Appetizer -  Fried Pork Potstickers  
   
 In description:   
  - Pizza Slice Hawaiian  
@@ -151,9 +158,12 @@ In name:
 In name:   
  - Country Fried Steak  
   
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
 **beef**  
 In name:   
- - Beef Pita Kabaub  
  - Roast Beef  
  - Pork & Beef Hard Salami  
  - Beef Taco Meat  
@@ -161,10 +171,13 @@ In name:
   
 In description:   
  - Country Fried Steak  
+ - Country Gravy  
  - Grilled Cheeseburger  
+ - Vegan Taco Filling  
   
 **pork**  
 In name:   
+ - Pork Chop (1)  
  - Pork & Beef Hard Salami  
  - Pork Carnita  
   
@@ -174,7 +187,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Breast w/Red Pepper Cream  
  - Italian Chicken  
   
 In description:   
@@ -221,12 +233,14 @@ In name:
  - Beef & Chicken Meatballs  
  - Soup -  Chili Beef & Bean  
  - Beef Tamale  
+ - Beef Barbacoa  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
   
 **pork**  
 In name:   
+ - Andouille Pork Sausage  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  

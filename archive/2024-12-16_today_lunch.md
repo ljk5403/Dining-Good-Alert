@@ -1,7 +1,17 @@
 # 2024-12-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-17 06:22:27  
+Updated at: 2024-12-17 09:12:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-12-17)  
+**clam**  
+In name:   
+ - Soup Clam Chowder  
+  
+**Cod**  
+In name:   
+  
+In description:   
+ - Soup Clam Chowder  
+  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
@@ -18,7 +28,6 @@ In name:
   
 **beef**  
 In name:   
- - Soup -  Chili Beef & Bean  
  - Beef & Chicken Meatballs  
   
 In description:   
@@ -33,11 +42,13 @@ In name:
   
 In description:   
  - Cocktail Smokies  
+ - Soup Clam Chowder  
   
 **chicken**  
 In name:   
  - Popcorn Chicken  
  - Butter Chicken  
+ - Diced Chicken  
  - Beef & Chicken Meatballs  
  - Plant Based Chicken Strips  
   
@@ -97,22 +108,14 @@ In description:
  - Station Recipe - Liz - Great Greens  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-12-17)  
-**Poke Bar**  
-In name:   
- - Build Your Own Poke Bar  
-  
 **steak**  
 In name:   
  - Spicy Steak Fajita  
-  
-In description:   
- - Pizza Slice Italian Beef  
   
 **beef**  
 In name:   
  - Beef Roast w/Mushroom Demi Glace  
  - Beef & Chicken Meatballs  
- - Pizza Slice Italian Beef  
  - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
   
@@ -123,6 +126,9 @@ In description:
 **pork**  
 In name:   
  - Pork Bratwurst Sandwich  
+  
+In description:   
+ - Pizza Slice Hawaiian  
   
 **chicken**  
 In name:   
@@ -156,9 +162,6 @@ In name:
 In description:   
  - Country Fried Steak  
  - Grilled Cheeseburger  
- - Mediterranean Rice Bowl  
- - Mediterranean Nachos  
- - BYO Mediterranean Sandwich  
   
 **pork**  
 In name:   
@@ -176,9 +179,6 @@ In name:
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
- - Mediterranean Rice Bowl  
- - Mediterranean Nachos  
- - BYO Mediterranean Sandwich  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2024-12-17)  
 **Shrimp**  
