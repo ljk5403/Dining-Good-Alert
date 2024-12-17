@@ -1,6 +1,6 @@
 # 2024-12-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-17 03:12:57  
+Updated at: 2024-12-17 06:22:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-12-18)  
 **Cod**  
 In name:   
@@ -125,6 +125,7 @@ In name:
  - Lemon Pepper Chicken Salad  
  - Plant Based Sweet & Sour Chicken  
  - Soup Chicken Tortilla  
+ - Diced Chicken  
   
 In description:   
  - Pepperoni Pizza Slice  

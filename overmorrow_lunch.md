@@ -1,6 +1,6 @@
 # 2024-12-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-17 03:13:07  
+Updated at: 2024-12-17 06:22:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-12-19)  
 **Tuna**  
 In name:   
@@ -118,6 +118,7 @@ In name:
  - Giardiniera Chicken  
  - Pizza Slice Chicken Broccoli Alfredo  
  - Chicken Dumpling Soup  
+ - Diced Chicken  
   
 In description:   
  - BYO Bar - Mac & Cheese  
