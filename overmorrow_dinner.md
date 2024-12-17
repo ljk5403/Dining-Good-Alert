@@ -1,6 +1,6 @@
 # 2024-12-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-17 12:16:26  
+Updated at: 2024-12-17 15:09:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-19)  
 **Tuna**  
 In name:   
@@ -137,6 +137,8 @@ In name:
   
 **beef**  
 In name:   
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
  - Beef Meatloaf  
  - Beef Taco Meat  
   
@@ -145,9 +147,12 @@ In description:
   
 **pork**  
 In name:   
+ - Pork & Beef Hard Salami  
  - New Orleans Turkey Melt w/ Pork  
   
 In description:   
+ - Smoked Ham  
+ - Bacon  
  - Andouille Sausage  
  - Soup Cream of Potato w/ Bacon  
   

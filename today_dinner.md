@@ -1,6 +1,6 @@
 # 2024-12-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-17 12:16:20  
+Updated at: 2024-12-17 15:09:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-17)  
 **clam**  
 In name:   
@@ -112,17 +112,9 @@ In description:
 In name:   
  - Carolina BBQ Pork Sandwich  
   
-**Shrimp**  
-In name:   
-  
-In description:   
- - Cioppino  
-  
 **Cod**  
 In name:   
-  
-In description:   
- - Cioppino  
+ - Lemon Pepper Cod Fillet  
   
 **beef**  
 In name:   
@@ -155,9 +147,9 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**steak**  
+**Tuna**  
 In name:   
- - Spicy Steak Fajita  
+ - Tuna Salad  
   
 **lamb**  
 In name:   
@@ -165,16 +157,24 @@ In name:
   
 **beef**  
 In name:   
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
  - Lamb & Beef Gyro Sandwich  
  - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
   
 In description:   
- - Spicy Steak Fajita  
+ - Vegan Taco Filling  
   
 **pork**  
 In name:   
+ - Pork & Beef Hard Salami  
  - Smoked Pulled Pork Sandwich  
+ - Pork Carnita  
+  
+In description:   
+ - Smoked Ham  
+ - Bacon  
   
 **chicken**  
 In name:   
