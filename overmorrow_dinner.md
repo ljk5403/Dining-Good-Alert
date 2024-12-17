@@ -1,6 +1,6 @@
 # 2024-12-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-16 15:11:00  
+Updated at: 2024-12-16 18:57:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-18)  
 **Shrimp**  
 In name:   
@@ -124,10 +124,9 @@ In name:
   
 **beef**  
 In name:   
- - Roast Beef  
- - Pork & Beef Hard Salami  
  - Beef & Chicken Meatballs  
  - Beef Sirloin Steak  
+ - Mediterranean Beef  
   
 In description:   
  - Grilled Cheeseburger  
@@ -139,12 +138,7 @@ In description:
   
 **pork**  
 In name:   
- - Pork & Beef Hard Salami  
  - BBQ Pork Chop  
-  
-In description:   
- - Smoked Ham  
- - Bacon  
   
 **chicken**  
 In name:   
@@ -153,6 +147,7 @@ In name:
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
  - Soup Chicken Tortilla  
+ - Mediterranean Chicken  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  

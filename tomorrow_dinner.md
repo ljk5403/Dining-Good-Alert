@@ -1,6 +1,6 @@
 # 2024-12-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-16 15:10:57  
+Updated at: 2024-12-16 18:57:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-17)  
 **Tuna**  
 In name:   
@@ -90,10 +90,6 @@ In description:
  - Station Recipe - Liz - Great Greens  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-12-17)  
-**Poke Bar**  
-In name:   
- - Build Your Own Poke Bar  
-  
 **steak**  
 In name:   
  - Spicy Steak Fajita  
@@ -107,6 +103,7 @@ In name:
   
 **Shrimp**  
 In name:   
+ - Steamed Shrimp  
   
 In description:   
  - Cioppino  
@@ -116,6 +113,10 @@ In name:
   
 In description:   
  - Cioppino  
+  
+**Tuna**  
+In name:   
+ - Tuna  
   
 **beef**  
 In name:   
@@ -158,11 +159,10 @@ In name:
   
 **beef**  
 In name:   
- - Roast Beef  
- - Pork & Beef Hard Salami  
  - Lamb & Beef Gyro Sandwich  
  - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
+ - Mediterranean Beef  
   
 In description:   
  - Spicy Steak Fajita  
@@ -172,17 +172,13 @@ In description:
   
 **pork**  
 In name:   
- - Pork & Beef Hard Salami  
  - Smoked Pulled Pork Sandwich  
-  
-In description:   
- - Smoked Ham  
- - Bacon  
   
 **chicken**  
 In name:   
  - Crispy Chicken Sandwich  
  - Italian Chicken  
+ - Mediterranean Chicken  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
