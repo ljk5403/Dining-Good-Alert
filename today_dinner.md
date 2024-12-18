@@ -1,6 +1,6 @@
 # 2024-12-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-17 18:55:01  
+Updated at: 2024-12-17 21:23:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-17)  
 **clam**  
 In name:   
@@ -126,6 +126,7 @@ In description:
 **pork**  
 In name:   
  - BBQ Pork Chop  
+ - Pork Italian Sausage  
  - Carolina BBQ Pork Sandwich  
   
 In description:   
@@ -134,7 +135,6 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
- - Mediterranean Chicken  
  - General Tso's Chicken  
  - Chicken Sausage Patties  
   

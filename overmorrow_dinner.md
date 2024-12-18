@@ -1,6 +1,6 @@
 # 2024-12-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-17 18:55:21  
+Updated at: 2024-12-17 21:23:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-19)  
 **Tuna**  
 In name:   
@@ -116,6 +116,7 @@ In name:
  - Pizza Slice Chicken Broccoli Alfredo  
  - Chicken Tinga  
  - Chicken Dumpling Soup  
+ - Breaded Chicken Tenders  
   
 In description:   
  - Pizza Slice Sausage & Pepperoni  

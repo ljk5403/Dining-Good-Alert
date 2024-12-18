@@ -1,6 +1,6 @@
 # 2024-12-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-17 18:55:11  
+Updated at: 2024-12-17 21:23:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-18)  
 **Shrimp**  
 In name:   
@@ -78,11 +78,16 @@ In name:
 In name:   
  - Caribbean Cod  
   
+**lamb**  
+In name:   
+ - Lamb & Beef Gyro Sandwich  
+  
 **beef**  
 In name:   
  - Beef Stew w/ Buttermilk Biscuit  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
+ - Lamb & Beef Gyro Sandwich  
   
 In description:   
  - Italian Meat Sauce  
