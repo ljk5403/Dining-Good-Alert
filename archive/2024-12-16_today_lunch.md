@@ -1,6 +1,6 @@
 # 2024-12-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-17 12:16:19  
+Updated at: 2024-12-17 15:09:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-12-17)  
 **clam**  
 In name:   
@@ -112,12 +112,6 @@ In description:
 In name:   
  - Spicy Steak Fajita  
   
-**fish**  
-In name:   
-  
-In description:   
- - Crab Rangoon  
-  
 **beef**  
 In name:   
  - Beef Roast w/Mushroom Demi Glace  
@@ -132,7 +126,6 @@ In description:
 **pork**  
 In name:   
  - Pork Bratwurst Sandwich  
- - Appetizer -  Fried Pork Potstickers  
   
 In description:   
  - Pizza Slice Hawaiian  
