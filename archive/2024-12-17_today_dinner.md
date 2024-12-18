@@ -1,6 +1,6 @@
 # 2024-12-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-18 06:21:37  
+Updated at: 2024-12-18 09:11:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-18)  
 **Shrimp**  
 In name:   
@@ -146,8 +146,6 @@ In description:
 In name:   
  - Beef & Chicken Meatballs  
  - Chicken & Penne w/ Pesto Creme  
- - Chicken Wings Boneless Plain  
- - Plant-Based Chicken Nuggets (6)  
  - Soup Chicken Tortilla  
   
 In description:   
