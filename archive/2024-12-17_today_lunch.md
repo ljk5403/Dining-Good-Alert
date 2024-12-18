@@ -1,6 +1,6 @@
 # 2024-12-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-18 09:11:56  
+Updated at: 2024-12-18 12:16:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-12-18)  
 **Cod**  
 In name:   
@@ -9,7 +9,6 @@ In name:
 **beef**  
 In name:   
  - Beef Harissa w/Couscous  
- - Beef Fajita Meat  
  - Beef Barbacoa  
  - Beef Taco Meat  
   
@@ -28,7 +27,6 @@ In name:
  - Pizza Slice Chicken Sriracha  
  - Lemon Pepper Chicken Salad  
  - Spicy Lo Mein w/Chicken  
- - Chicken  
  - Fajita Chicken  
  - Soup Chicken Tortilla  
  - Diced Chicken  
@@ -88,9 +86,19 @@ In name:
  - Soup Chicken Tortilla  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-12-18)  
+**Chicken Drummies**  
+In name:   
+ - Chicken Drummies  
+  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
  - Beef Taco Meat  
   
 In description:   
@@ -101,15 +109,19 @@ In description:
 In name:   
  - Pork Frittata Trattoria  
  - Italian Pork Sausage  
+ - Pork & Beef Hard Salami  
  - Pork Carnita  
+  
+In description:   
+ - Smoked Ham  
   
 **chicken**  
 In name:   
  - Broasted Chicken 2 pc  
  - Plant-Based Chicken Lo Mein  
  - Chicken Gravy  
+ - Chicken Drummies  
  - Beef & Chicken Meatballs  
- - Lemon Pepper Chicken Salad  
  - Lemon Chicken Rice Soup  
  - Diced Chicken  
   
@@ -125,9 +137,12 @@ In name:
 In name:   
  - Ham Steak  
   
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
 **beef**  
 In name:   
- - Beef & Chicken Meatballs  
  - Roast Beef  
  - Pork & Beef Hard Salami  
   
@@ -141,12 +156,12 @@ In name:
   
 In description:   
  - Ham Steak  
+ - Andouille Sausage  
  - Smoked Ham  
  - Bacon  
   
 **chicken**  
 In name:   
- - Beef & Chicken Meatballs  
  - Soup Chicken Tortilla  
   
 In description:   
@@ -183,7 +198,6 @@ In name:
 In description:   
  - Pizza Slice Philly Cheesesteak  
  - Build Your Own Carson's Korean Bulgogi  
- - Vegan Sloppy Joe  
  - Sloppy Joe  
   
 **pork**  
@@ -230,7 +244,7 @@ In name:
  - Protein Plant Based Chicken Tender  
  - Beef & Chicken Meatballs  
  - Diced Chicken Breast  
- - Soup Chicken Tortilla  
+ - Diced Chicken  
  - Chicken Piece Seasoned Baked  
   
 In description:   

@@ -1,6 +1,6 @@
 # 2024-12-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-18 09:11:58  
+Updated at: 2024-12-18 12:16:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-18)  
 **Shrimp**  
 In name:   
@@ -10,10 +10,6 @@ In name:
 In name:   
  - Island Spiced Tilapia  
  - Tilapia Veracruz  
-  
-**beef**  
-In name:   
- - Beef Fajita Meat  
   
 **pork**  
 In name:   
@@ -27,7 +23,6 @@ In description:
 In name:   
  - Pizza Slice Chicken Sriracha  
  - Lemon Pepper Chicken Salad  
- - Chicken  
  - Soup Chicken Tortilla  
  - Diced Chicken  
   
