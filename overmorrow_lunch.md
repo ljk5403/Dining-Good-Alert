@@ -1,6 +1,6 @@
 # 2024-12-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-18 06:21:54  
+Updated at: 2024-12-18 09:12:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-12-20)  
 **steak**  
 In name:   
@@ -178,7 +178,6 @@ In description:
 **chicken**  
 In name:   
  - Chicken Fajita Torta (Half)  
- - Pizza Slice BBQ Chicken & Bacon  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  

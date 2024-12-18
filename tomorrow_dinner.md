@@ -1,6 +1,6 @@
 # 2024-12-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-18 06:21:49  
+Updated at: 2024-12-18 09:12:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-19)  
 **Tuna**  
 In name:   
@@ -128,10 +128,6 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**Cod**  
-In name:   
- - Battered Cod  
-  
 **curry**  
 In name:   
  - Thai Veggie Meatballs w/ Green Curry  
@@ -141,7 +137,6 @@ In name:
  - Roast Beef  
  - Pork & Beef Hard Salami  
  - Beef Meatloaf  
- - Beef Taco Meat  
   
 In description:   
  - Soup Cream of Potato w/ Bacon  
