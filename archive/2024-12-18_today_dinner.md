@@ -1,6 +1,6 @@
 # 2024-12-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-19 06:21:37  
+Updated at: 2024-12-19 09:11:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-19)  
 **Tuna**  
 In name:   
@@ -103,7 +103,6 @@ In description:
 **pork**  
 In name:   
  - Herb Crusted Pork Loin  
- - Pork Sausage Patties  
   
 In description:   
  - Pizza Slice Sausage & Pepperoni  
