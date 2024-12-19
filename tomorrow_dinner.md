@@ -1,6 +1,6 @@
 # 2024-12-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-18 15:09:58  
+Updated at: 2024-12-18 18:55:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-19)  
 **Tuna**  
 In name:   
@@ -15,6 +15,7 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
+ - Mediterranean Beef  
   
 In description:   
  - Pepperoni Pizza Slice  
@@ -34,6 +35,7 @@ In name:
  - Plant Based Chicken Strips  
  - Grilled Tandoori Chicken Sandwich  
  - Greek Lemon Chicken w/ Rice  
+ - Mediterranean Chicken  
  - Chicken Dumpling Soup  
  - Diced Chicken  
   

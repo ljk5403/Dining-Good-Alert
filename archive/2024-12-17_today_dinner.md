@@ -1,6 +1,6 @@
 # 2024-12-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-18 12:16:02  
+Updated at: 2024-12-18 15:09:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-18)  
 **Shrimp**  
 In name:   
@@ -65,21 +65,21 @@ In name:
  - Soup Chicken Tortilla  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2024-12-18)  
+**Moroccan Style Lamb Stuffed Peppers**  
+In name:   
+ - Moroccan Style Lamb Stuffed Peppers  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices  
   
-**Cod**  
-In name:   
- - Caribbean Cod  
-  
 **lamb**  
 In name:   
+ - Moroccan Style Lamb Stuffed Peppers  
  - Lamb & Beef Gyro Sandwich  
   
 **beef**  
 In name:   
- - Beef Stew w/ Buttermilk Biscuit  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
  - Lamb & Beef Gyro Sandwich  
@@ -95,6 +95,7 @@ In name:
   
 **chicken**  
 In name:   
+ - Blackened Chicken  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Soup Chicken Tortilla  
@@ -108,9 +109,9 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**steak**  
+**Tuna**  
 In name:   
- - Beef Sirloin Steak  
+ - Tuna Salad  
   
 **curry**  
 In name:   
@@ -120,27 +121,23 @@ In name:
 In name:   
  - Roast Beef  
  - Pork & Beef Hard Salami  
- - Beef & Chicken Meatballs  
- - Beef Sirloin Steak  
   
 In description:   
  - Grilled Cheeseburger  
  - Vegan Sloppy Joe  
- - Italian Meat Sauce  
   
 **pork**  
 In name:   
  - Pork & Beef Hard Salami  
- - BBQ Pork Chop  
   
 In description:   
  - Smoked Ham  
  - Bacon  
+ - Andouille Sausage  
   
 **chicken**  
 In name:   
- - Beef & Chicken Meatballs  
- - Chicken & Penne w/ Pesto Creme  
+ - Seasoned Baked Chicken Quarters  
  - Soup Chicken Tortilla  
   
 In description:   
