@@ -1,6 +1,6 @@
 # 2024-12-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-19 09:11:48  
+Updated at: 2024-12-19 12:14:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-12-19)  
 **Tuna**  
 In name:   
@@ -81,13 +81,13 @@ In description:
  - Soup Cream of Potato w/ Bacon  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-12-19)  
-**steak**  
-In name:   
- - Spicy Steak Fajita  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
+  
+**curry**  
+In name:   
+ - Thai Veggie Meatballs w/ Green Curry  
   
 **beef**  
 In name:   
@@ -95,14 +95,13 @@ In name:
  - Roast Beef  
  - Pork & Beef Hard Salami  
  - Beef Taco Meat  
+ - Beef Barbacoa  
  - Beef Chili  
   
 In description:   
  - BYO Bar - Mac & Cheese  
- - Cocktail Smokies  
  - Pepperoni Pizza Slice  
  - Grilled Cheeseburger  
- - Spicy Steak Fajita  
   
 **pork**  
 In name:   
@@ -112,20 +111,17 @@ In name:
   
 In description:   
  - BYO Bar - Mac & Cheese  
- - Bacon  
- - Cocktail Smokies  
  - Pizza Slice Sausage  
  - Smoked Ham  
+ - Bacon  
   
 **chicken**  
 In name:   
- - Popcorn Chicken  
  - Beef & Chicken Meatballs  
  - Diced Chicken  
   
 In description:   
  - BYO Bar - Mac & Cheese  
- - Cocktail Smokies  
  - Pepperoni Pizza Slice  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-12-19)  
@@ -169,10 +165,6 @@ In description:
  - Soup Cream of Potato w/ Bacon  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2024-12-19)  
-**steak**  
-In name:   
- - Ham Steak  
-  
 **Shrimp**  
 In name:   
  - Shrimp Po-Boy Sandwich  
@@ -190,22 +182,23 @@ In name:
   
 In description:   
  - Tikka Masala Chicken  
- - Chana Saag w/ Tofu  
   
 **beef**  
 In name:   
   
 In description:   
+ - Pizza Slice Meat Lovers w/Bacon  
  - Soup Cream of Potato w/ Bacon  
   
 **pork**  
 In name:   
- - Pizza Slice BBQ Pulled Pork  
  - Jerk Pork Chop  
+ - Pork Sausage Links  
   
 In description:   
+ - Pizza Slice Sausage  
+ - Pizza Slice Meat Lovers w/Bacon  
  - Soup Cream of Potato w/ Bacon  
- - Ham Steak  
   
 **chicken**  
 In name:   
@@ -213,34 +206,32 @@ In name:
  - Chicken Dumpling Soup  
   
 In description:   
+ - Pizza Slice Meat Lovers w/Bacon  
  - Great Greens  
  - Soup Cream of Potato w/ Bacon  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2024-12-19)  
 **beef**  
 In name:   
- - Texas BBQ Sliced Beef Brisket  
+ - Beef & Chicken Meatballs  
+ - Beef Ravioli Plain  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
- - Soup Cream of Potato w/ Bacon  
   
 **pork**  
 In name:   
- - Italian Pork Sausage  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
- - Soup Cream of Potato w/ Bacon  
   
 **chicken**  
 In name:   
- - Diced Chicken Breast  
- - Chicken Dumpling Soup  
+ - Beef & Chicken Meatballs  
  - Diced Chicken  
+ - Chicken Drumstick Mango Habanero  
   
 In description:   
  - Great Greens  
- - Soup Cream of Potato w/ Bacon  
   
   
