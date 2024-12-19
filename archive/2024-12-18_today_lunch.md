@@ -1,6 +1,6 @@
 # 2024-12-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-19 03:12:13  
+Updated at: 2024-12-19 06:21:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-12-19)  
 **Tuna**  
 In name:   
@@ -106,6 +106,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Italian Sausage  
  - Pork & Beef Hard Salami  
  - Pork Sausage Patties  
   
@@ -121,7 +122,6 @@ In description:
 In name:   
  - Popcorn Chicken  
  - Beef & Chicken Meatballs  
- - Giardiniera Chicken  
  - Pizza Slice Chicken Broccoli Alfredo  
  - Chicken Dumpling Soup  
  - Diced Chicken  
@@ -130,7 +130,6 @@ In description:
  - BYO Bar - Mac & Cheese  
  - Cocktail Smokies  
  - Pizza Slice Sausage & Pepperoni  
- - Great Greens  
  - Soup Cream of Potato w/ Bacon  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-12-19)  

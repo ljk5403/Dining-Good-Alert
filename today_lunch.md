@@ -1,6 +1,6 @@
 # 2024-12-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-19 06:21:31  
+Updated at: 2024-12-19 09:11:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-12-19)  
 **Tuna**  
 In name:   
@@ -95,14 +95,14 @@ In name:
  - Roast Beef  
  - Pork & Beef Hard Salami  
  - Beef Taco Meat  
+ - Beef Chili  
   
 In description:   
  - BYO Bar - Mac & Cheese  
  - Cocktail Smokies  
- - Pizza Slice Sausage & Pepperoni  
+ - Pepperoni Pizza Slice  
  - Grilled Cheeseburger  
  - Spicy Steak Fajita  
- - Soup Cream of Potato w/ Bacon  
   
 **pork**  
 In name:   
@@ -114,43 +114,31 @@ In description:
  - BYO Bar - Mac & Cheese  
  - Bacon  
  - Cocktail Smokies  
- - Pizza Slice Sausage & Pepperoni  
+ - Pizza Slice Sausage  
  - Smoked Ham  
- - Soup Cream of Potato w/ Bacon  
   
 **chicken**  
 In name:   
  - Popcorn Chicken  
  - Beef & Chicken Meatballs  
- - Pizza Slice Chicken Broccoli Alfredo  
- - Chicken Dumpling Soup  
  - Diced Chicken  
   
 In description:   
  - BYO Bar - Mac & Cheese  
  - Cocktail Smokies  
- - Pizza Slice Sausage & Pepperoni  
- - Soup Cream of Potato w/ Bacon  
+ - Pepperoni Pizza Slice  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-12-19)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
   
-**fish**  
+**Tuna**  
 In name:   
-  
-In description:   
- - Thai BBQ Pork Ribs  
- - Beef Masaman Thai Curry  
-  
-**curry**  
-In name:   
- - Beef Masaman Thai Curry  
+ - Tuna Salad  
   
 **beef**  
 In name:   
- - Beef Masaman Thai Curry  
  - Roast Beef  
  - Pork & Beef Hard Salami  
   
@@ -159,7 +147,7 @@ In description:
   
 **pork**  
 In name:   
- - Thai BBQ Pork Ribs  
+ - Appetizer -  Fried Pork Potstickers  
  - Pork & Beef Hard Salami  
   
 In description:   
@@ -170,6 +158,8 @@ In description:
   
 **chicken**  
 In name:   
+ - General Tso's Chicken  
+ - Plant Based Sweet & Sour Chicken  
  - Plant-Based Chicken Tenders  
  - Chicken Dumpling Soup  
   
