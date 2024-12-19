@@ -1,6 +1,6 @@
 # 2024-12-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-18 18:55:24  
+Updated at: 2024-12-18 21:23:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-18)  
 **Shrimp**  
 In name:   
@@ -117,17 +117,12 @@ In name:
 In name:   
  - Tuna Salad  
   
-**curry**  
-In name:   
- - Curry Cauliflower & Butternut Squash  
-  
 **beef**  
 In name:   
  - Roast Beef  
  - Pork & Beef Hard Salami  
   
 In description:   
- - Grilled Cheeseburger  
  - Vegan Sloppy Joe  
  - Country Fried Steak  
  - Jaeger Sauce  
@@ -143,6 +138,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Wings Boneless Plain  
  - Soup Chicken Tortilla  
   
 In description:   

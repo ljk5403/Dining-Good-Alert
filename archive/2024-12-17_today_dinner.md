@@ -1,6 +1,6 @@
 # 2024-12-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-18 15:09:56  
+Updated at: 2024-12-18 18:55:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-18)  
 **Shrimp**  
 In name:   
@@ -109,6 +109,10 @@ In description:
 In name:   
  - Watermelon Slices  
   
+**steak**  
+In name:   
+ - Country Fried Steak  
+  
 **Tuna**  
 In name:   
  - Tuna Salad  
@@ -125,6 +129,8 @@ In name:
 In description:   
  - Grilled Cheeseburger  
  - Vegan Sloppy Joe  
+ - Country Fried Steak  
+ - Jaeger Sauce  
   
 **pork**  
 In name:   
@@ -137,7 +143,6 @@ In description:
   
 **chicken**  
 In name:   
- - Seasoned Baked Chicken Quarters  
  - Soup Chicken Tortilla  
   
 In description:   
