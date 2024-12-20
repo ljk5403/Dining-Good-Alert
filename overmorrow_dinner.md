@@ -1,6 +1,6 @@
 # 2024-12-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-20 06:20:30  
+Updated at: 2024-12-20 09:10:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-22)  
 **Cod**  
 In name:   
@@ -48,29 +48,25 @@ In name:
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs  
- - Beef Taco Meat  
-  
-In description:   
- - Pepperoni Pizza Slice  
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
   
 **pork**  
 In name:   
  - Biscuits & Pork Gravy  
- - Pork Carnita  
+ - Pork & Beef Hard Salami  
   
 In description:   
- - Pizza Slice Sausage  
+ - Smoked Ham  
+ - Bacon  
   
 **chicken**  
 In name:   
- - Beef & Chicken Meatballs  
- - Giardiniera Chicken  
  - Lemon Chicken Rice Soup  
+ - Diced Chicken  
  - Crispy Buffalo Chicken Sandwich  
   
 In description:   
- - Pepperoni Pizza Slice  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2024-12-22)  
@@ -78,26 +74,11 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**steak**  
-In name:   
- - Island Spiced Beef Steak  
-  
-**Cod**  
-In name:   
- - Caribbean Cod  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Chana Saag w/ Tofu  
-  
 **beef**  
 In name:   
  - Roast Beef  
  - Pork & Beef Hard Salami  
  - Beef & Chicken Meatballs  
- - Island Spiced Beef Steak  
   
 In description:   
  - Polish Combo Cheeseburger  

@@ -1,6 +1,6 @@
 # 2024-12-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-20 06:20:29  
+Updated at: 2024-12-20 09:10:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-12-22)  
 **Tuna**  
 In name:   
@@ -43,10 +43,8 @@ In name:
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs  
  - Roast Beef  
  - Pork & Beef Hard Salami  
- - Beef Taco Meat  
   
 In description:   
  - Grilled Flank Steak  
@@ -57,17 +55,15 @@ In description:
 In name:   
  - Boneless Baked Pork Ham  
  - Pork & Beef Hard Salami  
- - Pork Carnita  
   
 In description:   
  - Pizza Slice Sausage  
  - Smoked Ham  
+ - Bacon  
   
 **chicken**  
 In name:   
  - Plant-Based Chicken Etouffee  
- - Beef & Chicken Meatballs  
- - Giardiniera Chicken  
  - Lemon Chicken Rice Soup  
  - Diced Chicken  
   
@@ -83,21 +79,9 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Roast Beef  
- - Pork & Beef Hard Salami  
-  
-**pork**  
-In name:   
- - Pork Sausage Links  
- - Pork & Beef Hard Salami  
-  
-In description:   
- - Smoked Ham  
- - Bacon  
   
 **chicken**  
 In name:   
- - Chicken Sausage Patty  
  - Grilled Chicken Sandwich  
  - Beef & Chicken Meatballs  
  - Lemon Chicken Rice Soup  
@@ -110,7 +94,6 @@ In description:
 In name:   
   
 In description:   
- - Pizza Slice Sausage & Pepperoni  
  - Cowboy Burger  
   
 **pork**  
@@ -119,20 +102,17 @@ In name:
  - Pork Sausage Patty  
   
 In description:   
- - Pizza Slice Sausage & Pepperoni  
  - Chicken Biscuit w/ Sausage Gravy  
   
 **chicken**  
 In name:   
  - Baked Chicken (2 piece)  
  - Chicken Gravy  
- - Pizza Slice Chicken Bacon Ranch  
  - Lemon Pepper Chicken Salad  
  - Lemon Chicken Rice Soup  
  - Chicken Biscuit w/ Sausage Gravy  
   
 In description:   
- - Pizza Slice Sausage & Pepperoni  
  - Pork Miso w/Yakisoba Noodles  
  - Great Greens  
   
