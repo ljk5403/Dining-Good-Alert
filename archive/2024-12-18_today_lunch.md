@@ -1,6 +1,6 @@
 # 2024-12-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-19 12:14:57  
+Updated at: 2024-12-19 15:10:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-12-19)  
 **Tuna**  
 In name:   
@@ -18,20 +18,15 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice  
- - Soup Cream of Potato w/ Bacon  
   
 **pork**  
 In name:   
  - Apple Cider Braised Pork  
   
-In description:   
- - Soup Cream of Potato w/ Bacon  
-  
 **chicken**  
 In name:   
  - Autumn Chicken  
  - Jerk Chicken Sandwich  
- - Chicken Dumpling Soup  
  - Diced Chicken  
  - Beef & Chicken Meatballs  
  - Plant Based Chicken Strips  
@@ -40,7 +35,6 @@ In description:
  - Apple Cider Braised Pork  
  - Pepperoni Pizza Slice  
  - Great Greens  
- - Soup Cream of Potato w/ Bacon  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2024-12-19)  
 **watermelon**  
@@ -143,7 +137,6 @@ In description:
   
 **pork**  
 In name:   
- - Appetizer -  Fried Pork Potstickers  
  - Pork & Beef Hard Salami  
   
 In description:   

@@ -1,6 +1,6 @@
 # 2024-12-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-19 12:15:02  
+Updated at: 2024-12-19 15:10:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2024-12-19)  
 **Tuna**  
 In name:   
@@ -10,6 +10,7 @@ In name:
 In name:   
   
 In description:   
+ - Filipino Barbecue - Pork  
  - Tempura Roll (FujiSan)  
   
 **beef**  
@@ -19,30 +20,24 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice  
- - Soup Cream of Potato w/ Bacon  
   
 **pork**  
 In name:   
- - Pork Belly Char Sui  
-  
-In description:   
- - Soup Cream of Potato w/ Bacon  
+ - Filipino Barbecue - Pork  
   
 **chicken**  
 In name:   
  - Chicken Drumstick Szechuan Glazed  
  - Beef & Chicken Meatballs  
  - Plant Based Chicken Strips  
- - Grilled Tandoori Chicken Sandwich  
+ - Jerk Chicken Sandwich  
  - Greek Lemon Chicken w/ Rice  
  - Mediterranean Chicken  
- - Chicken Dumpling Soup  
  - Diced Chicken  
   
 In description:   
  - Pepperoni Pizza Slice  
  - Great Greens  
- - Soup Cream of Potato w/ Bacon  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2024-12-19)  
 **watermelon**  
@@ -81,6 +76,10 @@ In description:
 In name:   
  - Spicy Steak Fajita  
   
+**Shrimp**  
+In name:   
+ - Coconut Shrimp  
+  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
@@ -102,7 +101,6 @@ In description:
   
 **pork**  
 In name:   
- - Herb Crusted Pork Loin  
   
 In description:   
  - Pizza Slice Sausage & Pepperoni  
@@ -111,7 +109,7 @@ In description:
   
 **chicken**  
 In name:   
- - Blackened Chicken  
+ - Baked BBQ Chicken  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Pizza Slice Chicken Broccoli Alfredo  
@@ -129,15 +127,14 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**curry**  
+**Shrimp**  
 In name:   
- - Thai Veggie Meatballs w/ Green Curry  
+ - Redhook Ale Breaded Shrimp  
   
 **beef**  
 In name:   
  - Roast Beef  
  - Pork & Beef Hard Salami  
- - Beef Meatloaf  
   
 In description:   
  - Soup Cream of Potato w/ Bacon  
@@ -155,12 +152,11 @@ In description:
   
 **chicken**  
 In name:   
- - Baked BBQ Chicken Quarters  
+ - Chicken Breast w/Balsamic BBQ Sauce  
  - Chicken Dumpling Soup  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
- - Collard Greens w/Bacon  
  - Station Recipe - Great Greens - FLM  
  - Soup Cream of Potato w/ Bacon  
   
