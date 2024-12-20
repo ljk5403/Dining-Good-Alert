@@ -1,6 +1,6 @@
 # 2024-12-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-20 06:20:21  
+Updated at: 2024-12-20 09:10:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-12-20)  
 **steak**  
 In name:   
@@ -77,14 +77,6 @@ In name:
  - Lemon Pepper Chicken Salad  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2024-12-20)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp  
-  
 **Cod**  
 In name:   
  - Vegan Cod Battered (2 pc)  
@@ -101,33 +93,24 @@ In name:
  - Beef & Chicken Meatballs  
  - Roast Beef  
  - Pork & Beef Hard Salami  
- - Beef Barbacoa  
- - Beef Taco Meat  
   
 In description:   
  - Burnt Ends  
- - Pepperoni Pizza Slice  
- - Vegan Taco Filling  
   
 **pork**  
 In name:   
  - BBQ Pork Chop  
- - Pizza Slice BBQ Pulled Pork  
  - Pork & Beef Hard Salami  
   
 In description:   
  - Smoked Ham  
+ - Bacon  
   
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
- - Chicken Sausage Patties  
  - Crispy Chicken Sandwich  
  - Diced Chicken  
-  
-In description:   
- - Pepperoni Pizza Slice  
- - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2024-12-20)  
 **watermelon**  
@@ -148,28 +131,10 @@ In name:
 In description:   
  - Soup Clam Chowder  
   
-**Salmon**  
-In name:   
- - Blackened Salmon  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Blackened Salmon  
-  
-**beef**  
-In name:   
- - Roast Beef  
- - Pork & Beef Hard Salami  
-  
 **pork**  
 In name:   
- - Pork & Beef Hard Salami  
   
 In description:   
- - Smoked Ham  
- - Bacon  
  - Soup Clam Chowder  
   
 **chicken**  
