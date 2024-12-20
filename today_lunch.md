@@ -1,6 +1,6 @@
 # 2024-12-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2024-12-20 03:11:21  
+Updated at: 2024-12-20 06:20:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2024-12-20)  
 **steak**  
 In name:   
@@ -81,10 +81,6 @@ In name:
 In name:   
  - Watermelon Slices  
   
-**clam**  
-In name:   
- - Soup Clam Chowder  
-  
 **Shrimp**  
 In name:   
  - Sauteed Shrimp  
@@ -93,9 +89,6 @@ In name:
 In name:   
  - Vegan Cod Battered (2 pc)  
  - Battered Cod  
-  
-In description:   
- - Soup Clam Chowder  
   
 **fish**  
 In name:   
@@ -112,21 +105,21 @@ In name:
  - Beef Taco Meat  
   
 In description:   
+ - Burnt Ends  
  - Pepperoni Pizza Slice  
  - Vegan Taco Filling  
   
 **pork**  
 In name:   
+ - BBQ Pork Chop  
  - Pizza Slice BBQ Pulled Pork  
  - Pork & Beef Hard Salami  
   
 In description:   
  - Smoked Ham  
- - Soup Clam Chowder  
   
 **chicken**  
 In name:   
- - Chicken Piece Seasoned Baked  
  - Beef & Chicken Meatballs  
  - Chicken Sausage Patties  
  - Crispy Chicken Sandwich  
