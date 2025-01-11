@@ -1,31 +1,49 @@
-# 2025-01-12 dinner  
+# 2025-01-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-10 21:16:10  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-12)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-01-12)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-01-12)  
+Updated at: 2025-01-11 00:14:13  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-13)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-01-13)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-01-13)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
   
-**BBQ Pork Sandwich**  
+**Tuna**  
 In name:   
- - BBQ Pork Sandwich  
+ - Lemon Pepper Tuna Salad  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Curried Pumpkin Soup  
+  
+**curry**  
+In name:   
+  
+In description:   
+ - Curried Pumpkin Soup  
+  
+**beef**  
+In name:   
+ - Beef Swedish Meatballs  
+  
+In description:   
+ - Blackened Hamburger  
+ - Vegan Sloppy Joe  
   
 **pork**  
 In name:   
- - Boneless Baked Pork Ham  
- - BBQ Pork Sandwich  
+ - Herb Crusted Pork Loin  
   
 **chicken**  
 In name:   
- - Chicken Pot Pie w/Biscuit  
- - Soup Cream of Chicken & Wild Rice  
+ - Chicken Noodle Soup  
   
 In description:   
  - Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-01-12)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-01-13)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
@@ -34,45 +52,28 @@ In name:
 In name:   
  - Tuna Salad  
   
-**Salmon**  
-In name:   
- - Tuscan Butter Salmon  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Tuscan Butter Salmon  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Citrus Couscous (VN) (AYCTE)  
-  
 **beef**  
 In name:   
- - Beef & Chicken Meatballs  
  - Beef Taco Meat  
-  
-In description:   
- - Grilled Cheeseburger  
   
 **pork**  
 In name:   
- - French Market Pork Jambalaya  
- - Pork Carnita  
+ - Italian Pork Sausage  
+  
+In description:   
+ - Hot Ham Sandwich  
   
 **chicken**  
 In name:   
- - Plant Based Chicken Strips  
- - Beef & Chicken Meatballs  
- - Lemon Chicken Rice Soup  
+ - Grilled Chicken Sandwich  
+ - Chicken Drumstick BBQ Glazed  
+ - Chicken Tinga  
+ - Chicken Noodle Soup  
   
 In description:   
- - French Market Pork Jambalaya  
+ - BYO - MTO Breakfast Sandwich - Four Lake  
  - Station Recipe - Great Greens - FLM  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-01-12)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-01-12)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-01-13)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-01-13)  
   
