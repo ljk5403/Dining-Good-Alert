@@ -1,6 +1,6 @@
 # 2025-01-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-12 09:09:37  
+Updated at: 2025-01-12 12:13:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-12)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-01-12)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-01-12)  
@@ -22,6 +22,7 @@ In name:
   
 In description:   
  - Plant-Based Pepper Steak Stir Fry  
+ - Pepperoni Pizza Slice  
  - Grilled Cheeseburger  
   
 **pork**  
@@ -34,6 +35,7 @@ In name:
  - Soup Cream of Chicken & Wild Rice  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-01-12)  
