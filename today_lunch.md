@@ -1,6 +1,6 @@
 # 2025-01-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-12 06:18:48  
+Updated at: 2025-01-12 09:09:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-12)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-01-12)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-01-12)  
@@ -18,25 +18,22 @@ In name:
   
 **beef**  
 In name:   
+ - Beef & Chicken Meatballs  
   
 In description:   
  - Plant-Based Pepper Steak Stir Fry  
- - Pepperoni Pizza Slice  
- - Fired Up Burger  
+ - Grilled Cheeseburger  
   
 **pork**  
 In name:   
  - Jerk Pork Chop  
   
-In description:   
- - Pizza Slice Sausage  
-  
 **chicken**  
 In name:   
+ - Beef & Chicken Meatballs  
  - Soup Cream of Chicken & Wild Rice  
   
 In description:   
- - Pepperoni Pizza Slice  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-01-12)  
@@ -50,7 +47,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
 In description:   
@@ -67,8 +63,6 @@ In description:
 **chicken**  
 In name:   
  - Chicken Sausage Patty  
- - Plant Based Chicken Strips  
- - Beef & Chicken Meatballs  
  - Lemon Chicken Rice Soup  
   
 In description:   
