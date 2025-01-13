@@ -1,11 +1,12 @@
 # 2025-01-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-13 06:21:56  
+Updated at: 2025-01-13 09:12:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-14)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-01-14)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-01-14)  
 **steak**  
 In name:   
+ - Spicy Steak Fajita  
   
 In description:   
  - Montreal Chicken  
@@ -14,11 +15,26 @@ In description:
 In name:   
  - Corned Beef  
  - Beef Gravy  
+ - Beef & Chicken Meatballs  
+ - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
+  
+In description:   
+ - Spicy Steak Fajita  
+  
+**pork**  
+In name:   
+  
+In description:   
+ - Pizza Slice Cubano  
+ - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
  - Montreal Chicken  
+ - Beef & Chicken Meatballs  
+ - Mediterranean Chicken  
+ - Chicken Sausage Patties  
  - Crispy Chicken Sandwich  
   
 In description:   

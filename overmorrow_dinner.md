@@ -1,6 +1,6 @@
 # 2025-01-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-13 06:22:01  
+Updated at: 2025-01-13 09:12:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-15)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-01-15)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-01-15)  
@@ -18,20 +18,35 @@ In name:
   
 **beef**  
 In name:   
+ - Beef & Chicken Meatballs  
+ - Beef Taco Meat  
   
 In description:   
+ - Italian Meat Sauce  
+ - Pepperoni Pizza Slice  
+ - Pizza Slice Meat Lovers w/ Bacon  
  - Pork Bratwurst Sandwich  
   
 **pork**  
 In name:   
+ - Italian Pork Sausage  
+ - Pork Carnita  
  - Pork Bratwurst Sandwich  
+  
+In description:   
+ - Pizza Slice Meat Lovers w/ Bacon  
   
 **chicken**  
 In name:   
  - Chicken Drummies  
+ - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
+ - Chicken Tinga  
+ - Chicken Sausage Patties  
   
 In description:   
+ - Pepperoni Pizza Slice  
+ - Pizza Slice Meat Lovers w/ Bacon  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-01-15)  
