@@ -1,6 +1,6 @@
 # 2025-01-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-13 06:21:51  
+Updated at: 2025-01-13 09:12:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-13)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-01-13)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-01-13)  
@@ -27,17 +27,26 @@ In description:
 **beef**  
 In name:   
  - Beef Swedish Meatballs  
+ - Beef Ravioli w/Tomato Sauce  
+ - Beef & Chicken Meatballs  
+ - Beef Taco Meat  
   
 In description:   
+ - Vegan Taco Filling  
  - Blackened Hamburger  
  - Vegan Sloppy Joe  
   
 **pork**  
 In name:   
  - Herb Crusted Pork Loin  
+ - Italian Pork Sausage  
+ - Pork Sausage Patties  
   
 **chicken**  
 In name:   
+ - Beef & Chicken Meatballs  
+ - Pizza Slice Mediterranean Chicken  
+ - Chicken Tinga  
  - Chicken Noodle Soup  
   
 In description:   
@@ -52,10 +61,6 @@ In name:
 In name:   
  - Tuna Salad  
   
-**beef**  
-In name:   
- - Beef Taco Meat  
-  
 **pork**  
 In name:   
   
@@ -66,7 +71,6 @@ In description:
 In name:   
  - Grilled Chicken Sandwich  
  - Chicken Drumstick BBQ Glazed  
- - Chicken Tinga  
  - Chicken Noodle Soup  
   
 In description:   

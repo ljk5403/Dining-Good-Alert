@@ -1,6 +1,6 @@
 # 2025-01-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-13 09:12:07  
+Updated at: 2025-01-13 12:15:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-13)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-01-13)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-01-13)  
@@ -20,27 +20,16 @@ In name:
 In name:   
  - Lemon Pepper Tuna Salad  
   
-**fish**  
-In name:   
-  
-In description:   
- - Curried Pumpkin Soup  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Curried Pumpkin Soup  
-  
 **beef**  
 In name:   
  - Island Spiced Beef Steak  
- - Beef Ravioli w/Tomato Sauce  
+ - Beef Tortellini and Sauce  
  - Beef & Chicken Meatballs  
  - Barbacoa Beef w/Mango Habanero Sandwich  
  - Beef Taco Meat  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Vegan Taco Filling  
   
 **pork**  
@@ -51,11 +40,12 @@ In name:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
- - Pizza Slice Mediterranean Chicken  
  - Chicken Tinga  
  - Chicken Noodle Soup  
+ - Diced Chicken  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-01-13)  
@@ -83,6 +73,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Baked BBQ Chicken  
  - Chicken Noodle Soup  
   
 In description:   
