@@ -1,64 +1,60 @@
-# 2025-01-14 lunch  
+# 2025-01-15 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-12 21:21:00  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-14)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-01-14)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-01-14)  
-**steak**  
+Updated at: 2025-01-13 00:16:38  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-15)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-01-15)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-01-15)  
+**watermelon**  
 In name:   
- - Philly Cheesesteak Sandwich  
- - Tempeh Philly Cheesesteak Sandwich  
+ - Watermelon Slices  
   
-**beef**  
+**curry**  
 In name:   
- - Beef Sirloin Tips  
- - Soup -  Chili Beef & Bean  
-  
-In description:   
- - Philly Cheesesteak Sandwich  
+ - VEGAN Thai Chick'n w/ Green Curry (VN)  
   
 **chicken**  
 In name:   
- - Irish Roast Chicken w/Leeks and Bacon  
+ - Broasted Chicken 2 pc  
+ - Lemon Pepper Chicken Salad  
  - Chicken Sausage Patties  
   
 In description:   
  - Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-01-14)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-01-15)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
+  
+**Cod**  
+In name:   
+ - Miso Cod  
   
 **Tuna**  
 In name:   
  - Tuna Salad  
   
-**curry**  
+**fish**  
 In name:   
   
 In description:   
- - Vegetable & Tofu Madras w/Basmati Rice  
-  
-**beef**  
-In name:   
- - Beef Taco Meat  
- - Soup -  Chili Beef & Bean  
+ - Vietnamese Pork with Rice  
+ - Miso Cod  
   
 **pork**  
 In name:   
- - Ancho Braised Pork  
+ - Vietnamese Pork with Rice  
   
 **chicken**  
 In name:   
- - Smoked Chicken Breast  
- - Grilled Chicken & Cheese Sandwich  
+ - Chicken Wings Boneless Plain  
+ - Plant-Based Chicken Nuggets (6)  
+ - Soup Chicken Tortilla  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
- - Ancho Braised Pork  
  - Station Recipe - Great Greens - FLM  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-01-14)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-01-14)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-01-15)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-01-15)  
   

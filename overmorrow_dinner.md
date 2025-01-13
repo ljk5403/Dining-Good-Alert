@@ -1,30 +1,40 @@
-# 2025-01-14 dinner  
+# 2025-01-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-12 21:21:03  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-14)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-01-14)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-01-14)  
-**steak**  
+Updated at: 2025-01-13 00:16:39  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-15)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-01-15)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-01-15)  
+**watermelon**  
 In name:   
+ - Watermelon Slices  
   
-In description:   
- - Montreal Chicken  
+**Chicken Drummies**  
+In name:   
+ - Chicken Drummies  
+  
+**Cod**  
+In name:   
+ - Basque Style Cod  
   
 **beef**  
 In name:   
- - Corned Beef  
- - Beef Gravy  
- - Soup -  Chili Beef & Bean  
+  
+In description:   
+ - Pork Bratwurst Sandwich  
+  
+**pork**  
+In name:   
+ - Pork Bratwurst Sandwich  
   
 **chicken**  
 In name:   
- - Montreal Chicken  
- - Crispy Chicken Sandwich  
+ - Chicken Drummies  
+ - Lemon Pepper Chicken Salad  
   
 In description:   
  - Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-01-14)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-01-15)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
@@ -33,31 +43,31 @@ In name:
 In name:   
  - Tuna Salad  
   
-**lamb**  
+**Tilapia**  
 In name:   
- - Smoked Leg of Lamb  
+ - Tilapia Chipotle Lime Crusted  
   
 **beef**  
 In name:   
- - Beef & Tater Tot Bake  
- - Beef Taco Meat  
- - Soup -  Chili Beef & Bean  
   
 In description:   
- - Chicago-Style Hot Dog  
+ - Pork Bratwurst Sandwich  
   
 **pork**  
 In name:   
- - Ancho Braised Pork  
+ - Pork Bratwurst Sandwich  
   
 **chicken**  
 In name:   
+ - Huli Huli Chicken  
+ - Chicken Wings Boneless Plain  
+ - Plant-Based Chicken Nuggets (6)  
+ - Soup Chicken Tortilla  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
- - Ancho Braised Pork  
  - Station Recipe - Great Greens - FLM  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-01-14)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-01-14)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-01-15)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-01-15)  
   
