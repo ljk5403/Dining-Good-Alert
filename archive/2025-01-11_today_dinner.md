@@ -1,6 +1,6 @@
 # 2025-01-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-12 12:13:21  
+Updated at: 2025-01-12 15:09:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-12)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-01-12)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-01-12)  
@@ -12,6 +12,17 @@ In name:
 In name:   
  - BBQ Pork Sandwich  
   
+**curry**  
+In name:   
+ - Thai Veggie Meatballs w/ Green Curry  
+  
+**beef**  
+In name:   
+ - Beef & Chicken Meatballs  
+  
+In description:   
+ - Pepperoni Pizza Slice  
+  
 **pork**  
 In name:   
  - Boneless Baked Pork Ham  
@@ -20,9 +31,11 @@ In name:
 **chicken**  
 In name:   
  - Chicken Pot Pie w/Biscuit  
+ - Beef & Chicken Meatballs  
  - Soup Cream of Chicken & Wild Rice  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-01-12)  
