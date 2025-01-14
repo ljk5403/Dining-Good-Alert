@@ -1,6 +1,6 @@
 # 2025-01-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-13 18:50:13  
+Updated at: 2025-01-13 21:11:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-13)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-01-13)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-01-13)  
@@ -60,6 +60,7 @@ In name:
 **beef**  
 In name:   
  - Beef Stroganoff Creamy  
+ - Beef Taco Meat  
   
 In description:   
  - Mini Knockwurst Reuben on Pretzel Bun  
@@ -74,6 +75,7 @@ In description:
 **chicken**  
 In name:   
  - Baked BBQ Chicken  
+ - Chicken Tinga  
  - Chicken Noodle Soup  
   
 In description:   

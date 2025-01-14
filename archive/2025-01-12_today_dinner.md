@@ -1,6 +1,6 @@
 # 2025-01-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-13 15:09:52  
+Updated at: 2025-01-13 18:50:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-13)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-01-13)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-01-13)  
@@ -32,6 +32,7 @@ In name:
  - Beef Taco Meat  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Vegan Taco Filling  
  - Blackened Hamburger  
  - Vegan Sloppy Joe  
@@ -50,6 +51,7 @@ In name:
  - Chicken Noodle Soup  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-01-13)  
@@ -63,6 +65,7 @@ In name:
   
 **pork**  
 In name:   
+ - Italian Pork Sausage  
   
 In description:   
  - Hot Ham Sandwich  
