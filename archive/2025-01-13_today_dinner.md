@@ -1,60 +1,46 @@
-# 2025-01-13 dinner  
+# 2025-01-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-13 21:11:09  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-13)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-01-13)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-01-13)  
-**watermelon**  
+Updated at: 2025-01-14 00:14:39  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-14)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-01-14)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-01-14)  
+**steak**  
 In name:   
- - Watermelon Slices  
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad  
-  
-**fish**  
-In name:   
+ - Spicy Steak Fajita  
   
 In description:   
- - Curried Pumpkin Soup  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Curried Pumpkin Soup  
+ - Montreal Chicken  
   
 **beef**  
 In name:   
- - Beef Swedish Meatballs  
- - Beef Ravioli w/Tomato Sauce  
+ - Corned Beef  
+ - Beef Gravy  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
+ - Soup -  Chili Beef & Bean  
   
 In description:   
- - Pepperoni Pizza Slice  
- - Vegan Taco Filling  
- - Blackened Hamburger  
- - Vegan Sloppy Joe  
+ - Spicy Steak Fajita  
   
 **pork**  
 In name:   
- - Herb Crusted Pork Loin  
- - Italian Pork Sausage  
- - Pork Sausage Patties  
+  
+In description:   
+ - Pizza Slice Cubano  
+ - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
+ - Montreal Chicken  
  - Beef & Chicken Meatballs  
- - Pizza Slice Mediterranean Chicken  
- - Chicken Tinga  
- - Chicken Noodle Soup  
+ - Mediterranean Chicken  
+ - Chicken Sausage Patties  
+ - Crispy Chicken Sandwich  
   
 In description:   
- - Pepperoni Pizza Slice  
  - Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-01-13)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-01-14)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
@@ -63,28 +49,32 @@ In name:
 In name:   
  - Tuna Salad  
   
+**lamb**  
+In name:   
+ - Smoked Leg of Lamb  
+  
 **beef**  
 In name:   
+ - Beef & Tater Tot Bake  
  - Beef Taco Meat  
+ - Soup -  Chili Beef & Bean  
+  
+In description:   
+ - Chicago-Style Hot Dog  
   
 **pork**  
 In name:   
- - Italian Pork Sausage  
-  
-In description:   
- - Hot Ham Sandwich  
+ - Ancho Braised Pork  
   
 **chicken**  
 In name:   
- - Grilled Chicken Sandwich  
- - Chicken Drumstick BBQ Glazed  
- - Chicken Tinga  
- - Chicken Noodle Soup  
+ - Italian Chicken  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
+ - Ancho Braised Pork  
  - Station Recipe - Great Greens - FLM  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-01-13)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-01-13)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-01-14)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-01-14)  
   
