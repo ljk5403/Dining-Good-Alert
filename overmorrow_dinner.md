@@ -1,89 +1,109 @@
-# 2025-01-16 dinner  
+# 2025-01-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-14 21:12:23  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-16)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-01-16)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-01-16)  
-**steak**  
-In name:   
- - Spicy Steak Fajita  
-  
-**Shrimp**  
-In name:   
- - Coconut Shrimp  
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Coconut Vegetable Stew  
-  
-**beef**  
-In name:   
- - Beef & Chicken Meatballs  
- - Beef Taco Meat  
-  
-In description:   
- - Pizza Slice Deluxe  
- - Spicy Steak Fajita  
- - Italian Meatball Sandwich  
-  
-**pork**  
-In name:   
-  
-In description:   
- - Pizza Slice Deluxe  
-  
-**chicken**  
-In name:   
- - Shoyu Chicken  
- - Beef & Chicken Meatballs  
- - Giardiniera Chicken  
- - Chicken Dumpling Soup  
-  
-In description:   
- - Pizza Slice Deluxe  
- - Great Greens  
- - Italian Meatball Sandwich  
-  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-01-16)  
+Updated at: 2025-01-15 00:15:02  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-17)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-01-17)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-01-17)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
   
-**Tuna**  
+**clam**  
 In name:   
- - Tuna Salad  
+ - Soup Clam Chowder  
+  
+**Shrimp**  
+In name:   
+ - Sauteed Shrimp  
+ - Shrimp Po-Boy Sandwich  
+  
+**Cod**  
+In name:   
+  
+In description:   
+ - Soup Clam Chowder  
+  
+**Tilapia**  
+In name:   
+ - Tilapia Chipotle Lime Crusted  
+  
+**lamb**  
+In name:   
+  
+In description:   
+ - Pizza Slice Gyro  
   
 **beef**  
 In name:   
- - Beef Tri Tip Carved w/ Chimichurri  
+ - Beef & Chicken Meatballs  
+ - Beef Barbacoa  
  - Beef Taco Meat  
   
 In description:   
- - Grilled Cheeseburger  
+ - Pizza Slice Gyro  
+ - Vegan Taco Filling  
   
 **pork**  
 In name:   
- - Apple Cider Braised Pork  
+ - Baked Rigatoni w/ Pork Italian Sausage  
   
 In description:   
- - Andouille Sausage  
+ - Soup Clam Chowder  
   
 **chicken**  
 In name:   
- - Spicy Fajita Chicken  
- - Chicken Dumpling Soup  
+ - Huli Huli Chicken  
+ - Beef & Chicken Meatballs  
+ - Chicken Sausage Patties  
+  
+In description:   
+ - Great Greens  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-01-17)  
+**watermelon**  
+In name:   
+ - Watermelon Slices  
+  
+**clam**  
+In name:   
+ - Soup Clam Chowder  
+  
+**Shrimp**  
+In name:   
+ - Sauteed Shrimp  
+  
+**Cod**  
+In name:   
+  
+In description:   
+ - Soup Clam Chowder  
+  
+**Tuna**  
+In name:   
+ - Tuna Salad  
+ - Grilled Tuna & Swiss Melt  
+  
+**beef**  
+In name:   
+ - Beef Taco Meat  
+ - Beef Fajita Meat  
+  
+In description:   
+ - Vegan Taco Filling  
+  
+**pork**  
+In name:   
+  
+In description:   
+ - Soup Clam Chowder  
+  
+**chicken**  
+In name:   
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
- - Apple Cider Braised Pork  
  - Station Recipe - Great Greens - FLM  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-01-16)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-01-16)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-01-17)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-01-17)  
   
