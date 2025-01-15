@@ -1,6 +1,6 @@
 # 2025-01-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-14 18:51:37  
+Updated at: 2025-01-14 21:12:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-14)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-01-14)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-01-14)  
@@ -64,14 +64,14 @@ In description:
   
 **pork**  
 In name:   
- - Ancho Braised Pork  
+ - Pork Carnita  
   
 **chicken**  
 In name:   
+ - Italian Chicken  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
- - Ancho Braised Pork  
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-01-14)  

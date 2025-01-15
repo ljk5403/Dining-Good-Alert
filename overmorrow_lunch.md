@@ -1,6 +1,6 @@
 # 2025-01-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-14 18:51:40  
+Updated at: 2025-01-14 21:12:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-16)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-01-16)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-01-16)  
@@ -26,7 +26,6 @@ In description:
 In name:   
  - Baked Pork Chops w/Dressing  
  - Pork Gravy with Vegetables  
- - Pork Sausage Patties  
   
 In description:   
  - Pizza Slice Deluxe  
@@ -37,6 +36,7 @@ In name:
  - Plant-Based Chicken & Dumplings  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
+ - Chicken Dumpling Soup  
   
 In description:   
  - Pizza Slice Deluxe  
@@ -58,14 +58,12 @@ In name:
   
 In description:   
  - Reuben  
- - Soup Cream of Potato w/ Bacon  
   
 **pork**  
 In name:   
   
 In description:   
  - Andouille Sausage  
- - Soup Cream of Potato w/ Bacon  
   
 **chicken**  
 In name:   
@@ -77,7 +75,6 @@ In name:
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
  - Station Recipe - Great Greens - FLM  
- - Soup Cream of Potato w/ Bacon  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-01-16)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-01-16)  
