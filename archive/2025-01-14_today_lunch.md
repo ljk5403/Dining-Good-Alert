@@ -1,6 +1,6 @@
 # 2025-01-15 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-15 06:20:01  
+Updated at: 2025-01-15 09:11:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-15)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-01-15)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-01-15)  
@@ -21,6 +21,7 @@ In description:
  - Italian Meat Sauce  
  - Pepperoni Pizza Slice  
  - Pizza Slice Meat Lovers w/ Bacon  
+ - Soup Cream of Potato w/ Bacon  
   
 **pork**  
 In name:   
@@ -29,6 +30,7 @@ In name:
   
 In description:   
  - Pizza Slice Meat Lovers w/ Bacon  
+ - Soup Cream of Potato w/ Bacon  
   
 **chicken**  
 In name:   
@@ -36,12 +38,13 @@ In name:
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Chicken Sausage Patties  
- - Soup Chicken Tortilla  
+ - Diced Chicken  
   
 In description:   
  - Pepperoni Pizza Slice  
  - Pizza Slice Meat Lovers w/ Bacon  
  - Great Greens  
+ - Soup Cream of Potato w/ Bacon  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-01-15)  
 **watermelon**  
