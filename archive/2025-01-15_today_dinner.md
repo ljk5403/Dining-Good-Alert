@@ -1,59 +1,56 @@
-# 2025-01-15 dinner  
+# 2025-01-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-15 21:12:42  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-15)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-01-15)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-01-15)  
-**watermelon**  
+Updated at: 2025-01-16 00:15:00  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-16)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-01-16)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-01-16)  
+**steak**  
 In name:   
- - Watermelon Slices  
+ - Spicy Steak Fajita  
   
-**Chicken Drummies**  
+**Shrimp**  
 In name:   
- - Chicken Drummies  
+ - Coconut Shrimp  
   
-**Cod**  
+**Tuna**  
 In name:   
- - Basque Style Cod  
+ - Lemon Pepper Tuna Salad  
   
-**lamb**  
+**curry**  
 In name:   
- - Lamb & Beef Gyro Sandwich  
+  
+In description:   
+ - Coconut Vegetable Stew  
   
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
- - Lamb & Beef Gyro Sandwich  
   
 In description:   
- - Italian Meat Sauce  
- - Pepperoni Pizza Slice  
- - Pizza Slice Meat Lovers w/ Bacon  
+ - Pizza Slice Deluxe  
+ - Spicy Steak Fajita  
+ - Italian Meatball Sandwich  
   
 **pork**  
 In name:   
- - Italian Pork Sausage  
- - Pork Carnita  
   
 In description:   
- - Pizza Slice Meat Lovers w/ Bacon  
+ - Pizza Slice Deluxe  
   
 **chicken**  
 In name:   
- - Chicken Drummies  
+ - Shoyu Chicken  
  - Beef & Chicken Meatballs  
- - Lemon Pepper Chicken Salad  
- - Chicken Tinga  
- - Soup Chicken Tortilla  
- - Chicken Sausage Patties  
+ - Giardiniera Chicken  
+ - Chicken Dumpling Soup  
   
 In description:   
- - Pepperoni Pizza Slice  
- - Pizza Slice Meat Lovers w/ Bacon  
+ - Pizza Slice Deluxe  
  - Great Greens  
+ - Italian Meatball Sandwich  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-01-15)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-01-16)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
@@ -62,32 +59,31 @@ In name:
 In name:   
  - Tuna Salad  
   
-**Tilapia**  
-In name:   
- - Tilapia Chipotle Lime Crusted  
-  
 **beef**  
 In name:   
- - Beef & Chicken Meatballs  
+ - Beef Tri Tip Carved w/ Chimichurri  
+ - Beef Taco Meat  
   
 In description:   
- - Pork Bratwurst Sandwich  
- - Italian Meat Sauce  
+ - Grilled Cheeseburger  
   
 **pork**  
 In name:   
- - Pork Bratwurst Sandwich  
+ - Apple Cider Braised Pork  
+  
+In description:   
+ - Andouille Sausage  
   
 **chicken**  
 In name:   
- - Beef & Chicken Meatballs  
- - Huli Huli Chicken  
- - Soup Chicken Tortilla  
+ - Spicy Fajita Chicken  
+ - Chicken Dumpling Soup  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
+ - Apple Cider Braised Pork  
  - Station Recipe - Great Greens - FLM  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-01-15)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-01-15)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-01-16)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-01-16)  
   
