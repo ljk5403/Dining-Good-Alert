@@ -1,6 +1,6 @@
 # 2025-01-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-15 15:09:41  
+Updated at: 2025-01-15 18:51:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-15)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-01-15)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-01-15)  
@@ -16,22 +16,25 @@ In name:
 In name:   
  - Basque Style Cod  
   
+**lamb**  
+In name:   
+ - Lamb & Beef Gyro Sandwich  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
+ - Lamb & Beef Gyro Sandwich  
   
 In description:   
  - Italian Meat Sauce  
  - Pepperoni Pizza Slice  
  - Pizza Slice Meat Lovers w/ Bacon  
- - Pork Bratwurst Sandwich  
   
 **pork**  
 In name:   
  - Italian Pork Sausage  
  - Pork Carnita  
- - Pork Bratwurst Sandwich  
   
 In description:   
  - Pizza Slice Meat Lovers w/ Bacon  
