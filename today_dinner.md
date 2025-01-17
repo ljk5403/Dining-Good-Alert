@@ -1,6 +1,6 @@
 # 2025-01-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-16 18:50:55  
+Updated at: 2025-01-16 21:13:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-16)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-01-16)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-01-16)  
@@ -24,6 +24,7 @@ In description:
   
 **beef**  
 In name:   
+ - Corned Beef  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
@@ -40,7 +41,6 @@ In description:
   
 **chicken**  
 In name:   
- - Shoyu Chicken  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Chicken Dumpling Soup  
