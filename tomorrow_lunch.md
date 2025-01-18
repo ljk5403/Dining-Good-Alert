@@ -1,6 +1,6 @@
 # 2025-01-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-18 03:09:53  
+Updated at: 2025-01-18 06:17:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-19)  
 **steak**  
 In name:   
@@ -66,6 +66,7 @@ In name:
  - Giardiniera Chicken  
  - Chicken Sausage Patties  
  - Lemon Chicken Rice Soup  
+ - Diced Chicken  
   
 In description:   
  - Pepperoni Pizza Slice  
