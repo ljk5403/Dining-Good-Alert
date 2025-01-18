@@ -1,6 +1,6 @@
 # 2025-01-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-17 15:09:32  
+Updated at: 2025-01-17 18:49:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-19)  
 **steak**  
 In name:   
@@ -113,6 +113,7 @@ In description:
 In name:   
   
 In description:   
+ - Pizza Slice Sausage & Pepperoni  
  - Southwest Burger  
   
 **pork**  
@@ -121,11 +122,15 @@ In name:
  - Pork Sausage Patty  
   
 In description:   
+ - Pizza Slice Sausage & Pepperoni  
  - Egg, Ham & Cheese English Muffin  
   
 **chicken**  
 In name:   
  - Dan Dan w/ Chicken  
+  
+In description:   
+ - Pizza Slice Sausage & Pepperoni  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-01-19)  
   

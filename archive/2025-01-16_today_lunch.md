@@ -1,6 +1,6 @@
 # 2025-01-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-17 12:14:00  
+Updated at: 2025-01-17 15:09:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-17)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-01-17)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-01-17)  
@@ -89,13 +89,6 @@ In name:
 In description:   
  - Masala Spiced Salmon  
   
-**curry**  
-In name:   
- - Vegan Curry Stew  
-  
-In description:   
- - Tikka Masala Chicken  
-  
 **beef**  
 In name:   
  - Beef Fajita Meat  
@@ -106,16 +99,18 @@ In description:
   
 **pork**  
 In name:   
+ - French Market Pork Jambalaya  
   
 In description:   
  - Soup Clam Chowder  
   
 **chicken**  
 In name:   
- - Tikka Masala Chicken  
+ - Huli Huli Chicken  
  - Chicken Supreme Sandwich w/ Bacon  
   
 In description:   
+ - French Market Pork Jambalaya  
  - BYO - MTO Breakfast Sandwich - Four Lake  
  - Station Recipe - Great Greens - FLM  
   
