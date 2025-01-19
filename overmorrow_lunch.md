@@ -1,6 +1,6 @@
 # 2025-01-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-19 09:11:02  
+Updated at: 2025-01-19 12:12:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-21)  
 **Shrimp**  
 In name:   
@@ -185,6 +185,7 @@ In name:
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
  - Pizza Slice Chicken Sriracha  
+ - Diced Chicken  
   
 In description:   
  - Pizza Slice Meat Lovers w/ Bacon  
