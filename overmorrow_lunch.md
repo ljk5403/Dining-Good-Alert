@@ -1,6 +1,6 @@
 # 2025-01-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-19 12:12:50  
+Updated at: 2025-01-19 15:09:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-21)  
 **Shrimp**  
 In name:   
@@ -166,6 +166,8 @@ In name:
   
 **beef**  
 In name:   
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
  - Soup -  Chili Beef & Bean  
   
 In description:   
@@ -174,11 +176,14 @@ In description:
   
 **pork**  
 In name:   
+ - Pork & Beef Hard Salami  
  - Pork Sausage Links  
   
 In description:   
  - Pizza Slice Meat Lovers w/ Bacon  
  - Egg, Ham & Cheese English Muffin  
+ - Smoked Ham  
+ - Bacon  
   
 **chicken**  
 In name:   

@@ -1,6 +1,6 @@
 # 2025-01-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-19 12:12:46  
+Updated at: 2025-01-19 15:09:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-19)  
 **lamb**  
 In name:   
@@ -51,11 +51,13 @@ In name:
  - Lamb & Beef Gyro Sandwich  
   
 In description:   
- - Italian Meat Sauce  
  - Pepperoni Pizza Slice  
   
 **pork**  
 In name:   
+ - Ancho Braised Pork  
+ - Chicken Grilled Cordon Bleu (Pork)  
+ - Italian Pork Sausage  
  - Pork Carnita  
   
 In description:   
@@ -63,13 +65,13 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Vera Cruz  
+ - Chicken Grilled Cordon Bleu (Pork)  
  - Beef & Chicken Meatballs  
- - Giardiniera Chicken  
  - Lemon Chicken Rice Soup  
  - Chicken Sausage Patties  
   
 In description:   
+ - Ancho Braised Pork  
  - Pepperoni Pizza Slice  
  - Great Greens  
   
