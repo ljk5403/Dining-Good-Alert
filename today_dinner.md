@@ -1,6 +1,6 @@
 # 2025-01-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-20 06:20:33  
+Updated at: 2025-01-20 09:11:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-20)  
 **BBQ Pork Sandwich**  
 In name:   
