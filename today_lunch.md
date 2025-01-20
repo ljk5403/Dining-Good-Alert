@@ -1,6 +1,6 @@
 # 2025-01-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-20 12:13:58  
+Updated at: 2025-01-20 15:09:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-20)  
 **beef**  
 In name:   
@@ -92,12 +92,15 @@ In name:
  - Chicken Parmesan Sandwich  
  - Chicken Tinga  
  - Chicken Noodle Soup  
- - Diced Chicken  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-01-20)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
+  
+**steak**  
+In name:   
+ - Rosemary Cabernet Flank Steak  
   
 **Shrimp**  
 In name:   
@@ -112,7 +115,9 @@ In description:
   
 **beef**  
 In name:   
- - Beef Goulash w/Egg Noodles  
+  
+In description:   
+ - Rosemary Cabernet Flank Steak  
   
 **pork**  
 In name:   
@@ -151,8 +156,6 @@ In description:
 **beef**  
 In name:   
  - Beef Quesadilla  
- - Roast Beef  
- - Pork & Beef Hard Salami  
   
 In description:   
  - Pepperoni Pizza Slice  
@@ -160,18 +163,15 @@ In description:
   
 **pork**  
 In name:   
- - Pork & Beef Hard Salami  
  - Carolina BBQ Pork Sandwich  
   
 In description:   
  - Pizza Slice Deluxe  
- - Smoked Ham  
  - Chicken Biscuit w/ Sausage Gravy  
   
 **chicken**  
 In name:   
  - Chicken Noodle Soup  
- - Diced Chicken  
  - Chicken Biscuit w/ Sausage Gravy  
  - Chicken Sausage Patty  
   

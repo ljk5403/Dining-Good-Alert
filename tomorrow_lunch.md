@@ -1,6 +1,6 @@
 # 2025-01-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-20 12:14:02  
+Updated at: 2025-01-20 15:09:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-21)  
 **Shrimp**  
 In name:   
@@ -123,7 +123,6 @@ In name:
  - Mediterranean Chicken  
  - Beef & Chicken Meatballs  
  - Chicken Sausage Patties  
- - Diced Chicken  
   
 In description:   
  - Great Greens  
@@ -138,7 +137,6 @@ In name:
  - Beef Pita Kabaub  
  - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
- - Mediterranean Beef  
   
 In description:   
  - Grilled Cheeseburger  
@@ -152,7 +150,6 @@ In name:
  - Chicken Breast w/Red Pepper Cream  
  - Italian Chicken  
  - Lemon Pepper Chicken Salad  
- - Mediterranean Chicken  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
@@ -164,8 +161,6 @@ In name:
   
 **beef**  
 In name:   
- - Roast Beef  
- - Pork & Beef Hard Salami  
  - Soup -  Chili Beef & Bean  
   
 In description:   
@@ -174,21 +169,17 @@ In description:
   
 **pork**  
 In name:   
- - Pork & Beef Hard Salami  
  - Pork Sausage Links  
   
 In description:   
  - Pizza Slice Meat Lovers w/ Bacon  
  - Egg, Ham & Cheese English Muffin  
- - Smoked Ham  
- - Bacon  
   
 **chicken**  
 In name:   
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
  - Pizza Slice Chicken Sriracha  
- - Diced Chicken  
   
 In description:   
  - Pizza Slice Meat Lovers w/ Bacon  
@@ -199,7 +190,7 @@ In description:
 In name:   
  - Beef & Chicken Meatballs  
  - Soup -  Chili Beef & Bean  
- - Beef Tamale  
+ - Beef Enchilada Bake  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
@@ -218,6 +209,5 @@ In name:
   
 In description:   
  - Great Greens  
- - Beef Tamale  
   
   
