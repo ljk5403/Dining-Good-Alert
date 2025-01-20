@@ -1,6 +1,6 @@
 # 2025-01-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-19 12:12:45  
+Updated at: 2025-01-19 15:09:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-19)  
 **steak**  
 In name:   
@@ -107,19 +107,22 @@ In description:
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-01-19)  
 **beef**  
 In name:   
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
   
 In description:   
- - Pizza Slice Sausage & Pepperoni  
+ - Pepperoni Pizza Slice  
  - Southwest Burger  
   
 **pork**  
 In name:   
  - Island Spiced Pork w/ Pineapple Salsa  
+ - Pork & Beef Hard Salami  
  - Pork Sausage Patty  
   
 In description:   
- - Pizza Slice Sausage & Pepperoni  
- - Egg, Ham & Cheese English Muffin  
+ - Smoked Ham  
+ - Bacon  
   
 **chicken**  
 In name:   
@@ -128,7 +131,7 @@ In name:
  - Lemon Chicken Rice Soup  
   
 In description:   
- - Pizza Slice Sausage & Pepperoni  
+ - Pepperoni Pizza Slice  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-01-19)  
   
