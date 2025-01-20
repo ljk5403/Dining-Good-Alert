@@ -1,6 +1,6 @@
 # 2025-01-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-20 09:11:26  
+Updated at: 2025-01-20 12:14:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-22)  
 **Tilapia**  
 In name:   
@@ -114,7 +114,6 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Mediterranean Beef  
   
 In description:   
  - Grilled Cheeseburger  
@@ -133,7 +132,6 @@ In name:
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
  - Soup Chicken Tortilla  
- - Mediterranean Chicken  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  

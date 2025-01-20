@@ -1,6 +1,6 @@
 # 2025-01-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-20 09:11:20  
+Updated at: 2025-01-20 12:14:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-21)  
 **Shrimp**  
 In name:   
@@ -19,7 +19,6 @@ In name:
   
 **beef**  
 In name:   
- - Mediterranean Beef  
  - Soup -  Chili Beef & Bean  
  - Beef & Chicken Meatballs  
   
@@ -33,7 +32,6 @@ In name:
  - Jamaican Jerk Chicken  
  - Lemon Pepper Chicken Salad  
  - Butter Chicken  
- - Mediterranean Chicken  
  - Beef & Chicken Meatballs  
  - Plant Based Chicken Strips  
   

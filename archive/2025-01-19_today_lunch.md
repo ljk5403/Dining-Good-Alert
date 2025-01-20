@@ -1,14 +1,11 @@
 # 2025-01-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-20 06:20:29  
+Updated at: 2025-01-20 09:11:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-20)  
 **beef**  
 In name:   
  - Beef Taco Meat  
  - Beef Ravioli Plain  
-  
-In description:   
- - Grilled Cheeseburger  
   
 **pork**  
 In name:   
@@ -23,6 +20,7 @@ In description:
 In name:   
  - Pizza Slice Chicken Bacon Ranch  
  - Lemon Pepper Chicken Salad  
+ - Crispy Chicken Sandwich  
  - Chicken Tinga  
  - Chicken Noodle Soup  
  - Diced Chicken Breast  
@@ -170,7 +168,6 @@ In name:
   
 In description:   
  - Pizza Slice Deluxe  
- - Egg, Ham & Cheese English Muffin  
  - Smoked Ham  
  - Chicken Biscuit w/ Sausage Gravy  
   
