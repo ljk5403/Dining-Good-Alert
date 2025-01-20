@@ -1,6 +1,6 @@
 # 2025-01-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-20 03:11:59  
+Updated at: 2025-01-20 06:20:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-20)  
 **beef**  
 In name:   
@@ -55,10 +55,6 @@ In name:
  - Chicken Noodle Soup  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-01-20)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
 **Shrimp**  
 In name:   
  - Redhook Ale Breaded Shrimp  
@@ -100,9 +96,6 @@ In name:
  - Chicken Tinga  
  - Chicken Noodle Soup  
  - Diced Chicken  
-  
-In description:   
- - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-01-20)  
 **watermelon**  
