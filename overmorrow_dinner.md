@@ -1,6 +1,6 @@
 # 2025-01-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-21 06:21:12  
+Updated at: 2025-01-21 09:11:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-23)  
 **fish**  
 In name:   
@@ -112,7 +112,6 @@ In name:
 In name:   
  - Beef Meatloaf  
  - Beef Taco Meat  
- - Mediterranean Beef  
   
 In description:   
  - Pork Bratwurst Sandwich  
@@ -129,7 +128,6 @@ In name:
  - Lemon Pepper Chicken Salad  
  - Baked BBQ Chicken Quarters  
  - Chicken Dumpling Soup  
- - Mediterranean Chicken  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
