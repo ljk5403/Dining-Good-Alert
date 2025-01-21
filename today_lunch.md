@@ -1,6 +1,6 @@
 # 2025-01-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-21 09:11:19  
+Updated at: 2025-01-21 12:14:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-21)  
 **Shrimp**  
 In name:   
@@ -188,7 +188,7 @@ In description:
 In name:   
  - Beef & Chicken Meatballs  
  - Soup -  Chili Beef & Bean  
- - Beef Tamale  
+ - Beef Enchilada Bake  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
@@ -207,6 +207,5 @@ In name:
   
 In description:   
  - Great Greens  
- - Beef Tamale  
   
   
