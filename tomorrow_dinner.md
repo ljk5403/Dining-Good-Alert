@@ -1,6 +1,6 @@
 # 2025-01-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-20 15:09:43  
+Updated at: 2025-01-20 18:51:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-21)  
 **lamb**  
 In name:   
@@ -158,6 +158,7 @@ In name:
  - Lamb & Beef Gyro Sandwich  
  - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
+ - Mediterranean Beef  
   
 In description:   
  - Spicy Steak Fajita  
@@ -170,6 +171,7 @@ In name:
 In name:   
  - Lemon Pepper Chicken Salad  
  - Italian Chicken  
+ - Mediterranean Chicken  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  

@@ -1,6 +1,6 @@
 # 2025-01-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-20 15:09:40  
+Updated at: 2025-01-20 18:50:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-20)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -128,9 +128,6 @@ In name:
 In name:   
  - Vegan Fish Sandwich  
   
-In description:   
- - California Roll  (FujiSan)  
-  
 **curry**  
 In name:   
  - Shrimp Curry  
@@ -140,7 +137,7 @@ In name:
  - Barbacoa Beef w/Mango Habanero Sandwich  
   
 In description:   
- - German Plate  
+ - Knockwurst  
  - Porkloin Fritter Plate  
   
 **pork**  
@@ -149,7 +146,7 @@ In name:
  - Porkloin Fritter Plate  
   
 In description:   
- - German Plate  
+ - Knockwurst  
   
 **chicken**  
 In name:   
