@@ -1,6 +1,6 @@
 # 2025-01-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-20 18:51:03  
+Updated at: 2025-01-20 21:12:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-22)  
 **Cod**  
 In name:   
@@ -110,6 +110,7 @@ In name:
 In description:   
  - Italian Meat Sauce  
  - Thin Crust Tavern Style Pepperoni Pizza  
+ - Vegan Taco Filling  
   
 **pork**  
 In name:   

@@ -1,6 +1,6 @@
 # 2025-01-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-20 18:50:56  
+Updated at: 2025-01-20 21:12:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-20)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -88,6 +88,7 @@ In name:
   
 **beef**  
 In name:   
+ - Texas BBQ Sliced Beef Brisket  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
@@ -106,7 +107,6 @@ In description:
   
 **chicken**  
 In name:   
- - Greek Chicken  
  - Beef & Chicken Meatballs  
  - Chicken Tinga  
  - Chicken Noodle Soup  
@@ -123,10 +123,6 @@ In name:
 **Shrimp**  
 In name:   
  - Shrimp Curry  
-  
-**fish**  
-In name:   
- - Vegan Fish Sandwich  
   
 **curry**  
 In name:   
