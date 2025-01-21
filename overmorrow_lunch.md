@@ -1,6 +1,6 @@
 # 2025-01-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-21 12:14:53  
+Updated at: 2025-01-21 15:10:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-23)  
 **fish**  
 In name:   
@@ -78,6 +78,7 @@ In name:
   
 In description:   
  - BYO Bar - Mac & Cheese  
+ - Cocktail Smokies  
  - Pizza Slice Sausage & Pepperoni  
  - Grilled Cheeseburger  
   
@@ -86,10 +87,12 @@ In name:
   
 In description:   
  - BYO Bar - Mac & Cheese  
+ - Cocktail Smokies  
  - Pizza Slice Sausage & Pepperoni  
   
 **chicken**  
 In name:   
+ - Popcorn Chicken  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Pizza Slice Chicken Broccoli Alfredo  
@@ -99,6 +102,7 @@ In name:
   
 In description:   
  - BYO Bar - Mac & Cheese  
+ - Cocktail Smokies  
  - Pizza Slice Sausage & Pepperoni  
  - Great Greens  
   
