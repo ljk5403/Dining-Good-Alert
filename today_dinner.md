@@ -1,6 +1,6 @@
 # 2025-01-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-22 09:11:06  
+Updated at: 2025-01-22 12:14:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-22)  
 **Tilapia**  
 In name:   
@@ -159,7 +159,6 @@ In name:
   
 **beef**  
 In name:   
- - Sliced Beef  
   
 In description:   
  - Pizza Slice Philly Cheesesteak  
@@ -176,7 +175,6 @@ In description:
 In name:   
  - Greek Chicken  
  - Soup Chicken Tortilla  
- - Sliced Chicken  
   
 In description:   
  - Great Greens  

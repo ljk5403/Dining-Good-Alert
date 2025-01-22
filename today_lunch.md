@@ -1,6 +1,6 @@
 # 2025-01-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-22 09:11:04  
+Updated at: 2025-01-22 12:14:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-22)  
 **Cod**  
 In name:   
@@ -13,10 +13,12 @@ In name:
  - Beef Taco Meat  
   
 In description:   
+ - Pork Bratwurst Sandwich  
  - Vegan Taco Filling  
   
 **pork**  
 In name:   
+ - Pork Bratwurst Sandwich  
  - Italian Pork Sausage  
   
 In description:   
@@ -221,6 +223,12 @@ In name:
   
 In description:   
  - Vietnamese Pork with Rice  
+  
+**curry**  
+In name:   
+  
+In description:   
+ - Vegetable Korma  
   
 **beef**  
 In name:   
