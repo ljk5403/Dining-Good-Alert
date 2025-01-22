@@ -1,6 +1,6 @@
 # 2025-01-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-22 12:15:03  
+Updated at: 2025-01-22 15:08:34  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-24)  
 **clam**  
 In name:   
@@ -176,6 +176,7 @@ In name:
  - Chicken Quesadilla  
  - Lemon Pepper Chicken Salad  
  - Pizza Slice BBQ Chicken & Bacon  
+ - Diced Chicken  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  

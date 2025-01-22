@@ -1,6 +1,6 @@
 # 2025-01-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-22 12:14:57  
+Updated at: 2025-01-22 15:08:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-22)  
 **Cod**  
 In name:   
@@ -67,7 +67,6 @@ In description:
   
 **beef**  
 In name:   
- - Beef Hot Dog  
   
 In description:   
  - Hot Dog Bar  
@@ -127,6 +126,7 @@ In name:
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Chicken Sausage Patties  
+ - Chicken Tenders Breaded  
  - Plant Based Sweet & Sour Chicken  
  - Soup Chicken Tortilla  
   
@@ -164,6 +164,7 @@ In name:
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
  - Soup Chicken Tortilla  
+ - Diced Chicken  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
@@ -196,7 +197,7 @@ In name:
 **beef**  
 In name:   
  - Bulgogi Beef  
- - BBQ Beef Brisket Sandwich  
+ - Beef Quesadilla  
   
 In description:   
  - Pizza Slice Philly Cheesesteak  
