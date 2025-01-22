@@ -1,6 +1,6 @@
 # 2025-01-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-22 06:20:32  
+Updated at: 2025-01-22 09:11:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-24)  
 **clam**  
 In name:   
@@ -132,7 +132,6 @@ In name:
  - Chicken Sausage Patties  
  - Crispy Chicken Sandwich  
  - Tandoori Chicken  
- - Diced Chicken  
   
 In description:   
  - Great Greens  
