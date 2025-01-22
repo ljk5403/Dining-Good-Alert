@@ -1,6 +1,6 @@
 # 2025-01-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-21 15:10:07  
+Updated at: 2025-01-21 18:52:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-21)  
 **lamb**  
 In name:   
@@ -99,10 +99,6 @@ In name:
 In description:   
  - Pizza Slice Italian Beef  
   
-**BBQ Pork Sandwich**  
-In name:   
- - Carolina BBQ Pork Sandwich  
-  
 **Shrimp**  
 In name:   
   
@@ -123,19 +119,16 @@ In name:
  - Soup -  Chili Beef & Bean  
   
 In description:   
+ - Burnt Ends  
+ - Italian Meat Sauce  
  - Spicy Steak Fajita  
  - Vegan Sloppy Joe  
-  
-**pork**  
-In name:   
- - BBQ Pork Chop  
- - Carolina BBQ Pork Sandwich  
   
 **chicken**  
 In name:   
  - Mediterranean Chicken  
  - Beef & Chicken Meatballs  
- - Chicken Sausage Patties  
+ - Crispy Chicken Sandwich  
   
 In description:   
  - Great Greens  
