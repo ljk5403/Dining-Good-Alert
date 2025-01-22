@@ -1,6 +1,6 @@
 # 2025-01-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-21 18:52:33  
+Updated at: 2025-01-21 21:14:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-21)  
 **lamb**  
 In name:   
@@ -128,6 +128,7 @@ In description:
 In name:   
  - Mediterranean Chicken  
  - Beef & Chicken Meatballs  
+ - Chicken Sausage Patties  
  - Crispy Chicken Sandwich  
   
 In description:   
@@ -141,6 +142,10 @@ In name:
 **steak**  
 In name:   
  - Spicy Steak Fajita  
+  
+**Shrimp**  
+In name:   
+ - Redhook Ale Breaded Shrimp  
   
 **lamb**  
 In name:   

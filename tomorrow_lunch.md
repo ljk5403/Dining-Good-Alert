@@ -1,6 +1,6 @@
 # 2025-01-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-21 18:52:35  
+Updated at: 2025-01-21 21:14:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-22)  
 **Cod**  
 In name:   
@@ -199,7 +199,6 @@ In name:
   
 In description:   
  - Pizza Slice Philly Cheesesteak  
- - Build Your Own Carson's Korean Bulgogi  
   
 **pork**  
 In name:   
@@ -215,7 +214,6 @@ In name:
  - Chicken Sausage Patty  
   
 In description:   
- - Build Your Own Carson's Korean Bulgogi  
  - Great Greens  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-01-22)  
