@@ -1,6 +1,6 @@
 # 2025-01-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-23 09:11:22  
+Updated at: 2025-01-23 12:14:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-24)  
 **clam**  
 In name:   
@@ -45,6 +45,7 @@ In name:
  - Lemon Pepper Chicken Salad  
  - Plant Based Protein Chicken Taco Filling  
  - Fajita Chicken  
+ - Diced Chicken  
  - Diced Chicken Breast  
   
 In description:   
@@ -221,7 +222,6 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
- - Diced Chicken  
   
 In description:   
  - Great Greens  

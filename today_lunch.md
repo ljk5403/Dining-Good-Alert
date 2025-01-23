@@ -1,6 +1,6 @@
 # 2025-01-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-23 09:11:16  
+Updated at: 2025-01-23 12:14:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-23)  
 **fish**  
 In name:   
@@ -26,6 +26,7 @@ In name:
  - Lemon Pepper Chicken Salad  
  - Jerk Chicken Sandwich  
  - Chicken Dumpling Soup  
+ - Diced Chicken  
  - Beef & Chicken Meatballs  
  - Plant Based Chicken Strips  
   
@@ -158,10 +159,10 @@ In name:
   
 **curry**  
 In name:   
+ - Soup Coconut Curry Cauliflower  
   
 In description:   
  - Tikka Masala Chicken  
- - Chana Saag w/ Tofu  
   
 **beef**  
 In name:   
@@ -198,16 +199,15 @@ In description:
   
 **pork**  
 In name:   
- - Italian Pork Sausage  
   
 In description:   
+ - Andouille Sausage  
  - Station Recipe - Deli Lowell AYCTE  
   
 **chicken**  
 In name:   
- - Diced Chicken Breast  
+ - Greek Lemon Chicken  
  - Chicken Dumpling Soup  
- - Diced Chicken  
   
 In description:   
  - Great Greens  

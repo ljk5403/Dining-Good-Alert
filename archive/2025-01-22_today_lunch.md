@@ -1,6 +1,6 @@
 # 2025-01-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-23 06:20:36  
+Updated at: 2025-01-23 09:11:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-23)  
 **fish**  
 In name:   
@@ -64,6 +64,7 @@ In name:
  - Plant-Based Chicken Tenders  
  - Grilled BBQ Chicken Sandwich  
  - Chicken Dumpling Soup  
+ - Diced Chicken  
  - Lemon Pepper Chicken Salad  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-01-23)  
@@ -78,7 +79,7 @@ In name:
   
 In description:   
  - BYO Bar - Mac & Cheese  
- - Pizza Slice Sausage & Pepperoni  
+ - Pepperoni Pizza Slice  
  - Grilled Cheeseburger  
   
 **pork**  
@@ -86,19 +87,18 @@ In name:
   
 In description:   
  - BYO Bar - Mac & Cheese  
- - Pizza Slice Sausage & Pepperoni  
+ - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
- - Pizza Slice Chicken Broccoli Alfredo  
  - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
   
 In description:   
  - BYO Bar - Mac & Cheese  
- - Pizza Slice Sausage & Pepperoni  
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-01-23)  
@@ -182,6 +182,7 @@ In description:
 In name:   
  - Tikka Masala Chicken  
  - Chicken Dumpling Soup  
+ - Diced Chicken  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
@@ -206,6 +207,7 @@ In description:
 In name:   
  - Diced Chicken Breast  
  - Chicken Dumpling Soup  
+ - Diced Chicken  
   
 In description:   
  - Great Greens  

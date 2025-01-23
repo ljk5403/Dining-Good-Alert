@@ -1,6 +1,6 @@
 # 2025-01-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-23 09:11:25  
+Updated at: 2025-01-23 12:14:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-24)  
 **clam**  
 In name:   
@@ -42,6 +42,7 @@ In name:
  - Lemon Pepper Chicken Salad  
  - Fajita Chicken  
  - Plant Based Protein Chicken Taco Filling  
+ - Diced Chicken  
   
 In description:   
  - Great Greens  
