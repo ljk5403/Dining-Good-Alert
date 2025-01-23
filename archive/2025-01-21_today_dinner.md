@@ -1,6 +1,6 @@
 # 2025-01-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-22 12:14:58  
+Updated at: 2025-01-22 15:08:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-22)  
 **Tilapia**  
 In name:   
@@ -133,6 +133,7 @@ In name:
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
  - Soup Chicken Tortilla  
+ - Diced Chicken  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  

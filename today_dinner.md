@@ -1,10 +1,21 @@
 # 2025-01-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-22 15:08:28  
+Updated at: 2025-01-22 18:51:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-22)  
+**Shrimp**  
+In name:   
+ - Shrimp Po-Boy Sandwich  
+  
 **Tilapia**  
 In name:   
  - Island Spiced Tilapia  
+  
+**beef**  
+In name:   
+ - Beef  
+  
+In description:   
+ - Rheta's Stir Fry  
   
 **pork**  
 In name:   
@@ -18,9 +29,11 @@ In description:
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
+ - Chicken  
  - Soup Chicken Tortilla  
   
 In description:   
+ - Rheta's Stir Fry  
  - Ancho Pork Rice Bowl  
  - Great Greens  
   
