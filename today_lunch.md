@@ -1,6 +1,6 @@
 # 2025-01-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-23 12:14:31  
+Updated at: 2025-01-23 15:09:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-23)  
 **fish**  
 In name:   
@@ -107,11 +107,14 @@ In description:
 In name:   
  - Watermelon Slices  
   
+**Cod**  
+In name:   
+ - Beer Battered Cod  
+  
 **fish**  
 In name:   
   
 In description:   
- - Thai BBQ Pork Ribs  
  - Beef Masaman Thai Curry  
   
 **curry**  
@@ -125,7 +128,6 @@ In name:
   
 **pork**  
 In name:   
- - Thai BBQ Pork Ribs  
   
 In description:   
  - Andouille Sausage  
@@ -161,11 +163,9 @@ In name:
 In name:   
  - Soup Coconut Curry Cauliflower  
   
-In description:   
- - Tikka Masala Chicken  
-  
 **beef**  
 In name:   
+ - Beef Quesadilla  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
@@ -181,7 +181,6 @@ In description:
   
 **chicken**  
 In name:   
- - Tikka Masala Chicken  
  - Chicken Dumpling Soup  
  - Diced Chicken  
   
@@ -206,8 +205,9 @@ In description:
   
 **chicken**  
 In name:   
- - Greek Lemon Chicken  
+ - Diced Chicken  
  - Chicken Dumpling Soup  
+ - Chicken Piccata  
   
 In description:   
  - Great Greens  
