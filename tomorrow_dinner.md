@@ -1,6 +1,6 @@
 # 2025-01-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-22 18:51:20  
+Updated at: 2025-01-22 21:12:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-23)  
 **fish**  
 In name:   
@@ -128,7 +128,6 @@ In name:
  - Lemon Pepper Chicken Salad  
  - Baked BBQ Chicken Quarters  
  - Chicken Dumpling Soup  
- - Diced Chicken  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  

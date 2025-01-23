@@ -1,6 +1,6 @@
 # 2025-01-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-22 18:51:16  
+Updated at: 2025-01-22 21:12:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-22)  
 **Shrimp**  
 In name:   
@@ -78,19 +78,20 @@ In name:
 In name:   
  - Watermelon Slices  
   
-**Cod**  
-In name:   
- - Caribbean Cod  
-  
 **fish**  
 In name:   
   
 In description:   
  - Tempura Roll (FujiSan)  
   
+**curry**  
+In name:   
+ - Beef Bombay Curry  
+  
 **beef**  
 In name:   
- - Beef Stew w/ Buttermilk Biscuit  
+ - Beef Pot Roast  
+ - Beef Bombay Curry  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
@@ -111,6 +112,7 @@ In name:
  - General Tso's Chicken  
  - Soup Chicken Tortilla  
  - Chicken Sausage Patties  
+ - Breaded Chicken Tenders  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
