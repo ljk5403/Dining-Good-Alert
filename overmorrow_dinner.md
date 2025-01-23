@@ -1,6 +1,6 @@
 # 2025-01-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-23 06:20:43  
+Updated at: 2025-01-23 09:11:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-25)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-01-25)  
 **watermelon**  
@@ -14,6 +14,7 @@ In name:
 **chicken**  
 In name:   
  - Soup Cream of Chicken & Wild Rice  
+ - Diced Chicken  
  - Lemon Pepper Chicken Salad  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-01-25)  

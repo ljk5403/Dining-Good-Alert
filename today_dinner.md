@@ -1,6 +1,6 @@
 # 2025-01-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-23 06:20:38  
+Updated at: 2025-01-23 09:11:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-23)  
 **fish**  
 In name:   
@@ -59,6 +59,7 @@ In name:
  - Plant-Based Chicken Nuggets (6)  
  - Chicken Wings Boneless Plain  
  - Chicken Dumpling Soup  
+ - Diced Chicken  
  - Lemon Pepper Chicken Salad  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-01-23)  

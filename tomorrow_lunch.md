@@ -1,6 +1,6 @@
 # 2025-01-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-23 06:20:39  
+Updated at: 2025-01-23 09:11:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-24)  
 **clam**  
 In name:   
@@ -78,6 +78,7 @@ In description:
 In name:   
  - Sumac Chicken  
  - Plant Based Sweet & Sour Chicken  
+ - Diced Chicken  
  - Lemon Pepper Chicken Salad  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-01-24)  
@@ -220,6 +221,7 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
+ - Diced Chicken  
   
 In description:   
  - Great Greens  
