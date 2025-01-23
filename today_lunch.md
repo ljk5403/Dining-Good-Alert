@@ -1,102 +1,7 @@
-# 2025-01-22 lunch  
+# 2025-01-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-22 21:12:43  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-22)  
-**Cod**  
-In name:   
- - Lemon Pepper Cod Fillet  
-  
-**beef**  
-In name:   
- - Beef Harissa w/Couscous  
- - Beef Barbacoa  
- - Beef Taco Meat  
-  
-In description:   
- - Pork Bratwurst Sandwich  
- - Vegan Taco Filling  
-  
-**pork**  
-In name:   
- - Pork Bratwurst Sandwich  
- - Italian Pork Sausage  
-  
-In description:   
- - Thin Crust Tavern Style Sausage Pizza  
-  
-**chicken**  
-In name:   
- - Lemon Pepper Chicken Salad  
- - Spicy Lo Mein w/Chicken  
- - Fajita Chicken  
- - Soup Chicken Tortilla  
-  
-In description:   
- - Great Greens  
-  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-01-22)  
-**watermelon**  
-In name:   
- - Melon Watermelon Whole Sliced  
-  
-**BBQ Pork Sandwich**  
-In name:   
- - Carolina BBQ Pork Sandwich  
-  
-**Tuna**  
-In name:   
- - Tuna Salad  
-  
-**catfish**  
-In name:   
-  
-In description:   
- - Indian Fish Curry  
-  
-**fish**  
-In name:   
- - Indian Fish Curry  
-  
-**curry**  
-In name:   
- - Indian Fish Curry  
- - Curry Potatoes  
-  
-In description:   
- - Chicken Tikka Masala  
-  
-**beef**  
-In name:   
-  
-In description:   
- - Hot Dog Bar  
- - Station Recipe - Liz - Deli  AYCTE  
-  
-**pork**  
-In name:   
- - Carolina BBQ Pork Sandwich  
-  
-In description:   
- - Station Recipe - Liz - Deli  AYCTE  
-  
-**chicken**  
-In name:   
- - Chicken Tikka Masala  
- - Soup Chicken Tortilla  
-  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-01-22)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
-**Shrimp**  
-In name:   
- - Sweet & Sour Shrimp  
-  
-**Tilapia**  
-In name:   
- - Blackened Tilapia  
-  
+Updated at: 2025-01-23 00:14:51  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-23)  
 **fish**  
 In name:   
   
@@ -106,153 +11,201 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Beef Taco Meat  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Italian Meat Sauce  
- - Thin Crust Tavern Style Pepperoni Pizza  
- - Vegan Taco Filling  
   
 **pork**  
 In name:   
- - Italian Pork Sausage  
- - Pork Carnita  
+ - Apple Cider Braised Pork  
   
 **chicken**  
 In name:   
- - Broasted Chicken 2 pc  
- - Plant-Based Chicken Lo Mein  
- - Chicken Gravy  
- - Beef & Chicken Meatballs  
+ - Autumn Chicken  
  - Lemon Pepper Chicken Salad  
- - Chicken Sausage Patties  
- - Chicken Tenders Breaded  
- - Plant Based Sweet & Sour Chicken  
- - Soup Chicken Tortilla  
+ - Jerk Chicken Sandwich  
+ - Chicken Dumpling Soup  
+ - Beef & Chicken Meatballs  
+ - Plant Based Chicken Strips  
   
 In description:   
- - Thin Crust Tavern Style Pepperoni Pizza  
+ - Apple Cider Braised Pork  
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-01-22)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-01-23)  
 **watermelon**  
 In name:   
- - Watermelon Slices  
+ - Melon Watermelon Whole Sliced  
   
-**steak**  
+**curry**  
 In name:   
- - Ham Steak  
+  
+In description:   
+ - Aloo Bodi Tama  
+  
+**beef**  
+In name:   
+  
+In description:   
+ - Station Recipe - Liz - Deli  AYCTE  
+  
+**pork**  
+In name:   
+ - Pork Sausage Country Gravy w/ Biscuit  
+  
+In description:   
+ - Station Recipe - Liz - Deli  AYCTE  
+  
+**chicken**  
+In name:   
+ - Chicken Tenders Breaded  
+ - Plant-Based Chicken Tenders  
+ - Grilled BBQ Chicken Sandwich  
+ - Chicken Dumpling Soup  
+ - Lemon Pepper Chicken Salad  
+  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-01-23)  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad  
   
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
+ - Beef Taco Meat  
   
 In description:   
- - Italian Meat Sauce  
+ - BYO Bar - Mac & Cheese  
+ - Pizza Slice Sausage & Pepperoni  
+ - Grilled Cheeseburger  
   
 **pork**  
 In name:   
- - Cuban Pork Sandwich  
   
 In description:   
- - Ham Steak  
+ - BYO Bar - Mac & Cheese  
+ - Pizza Slice Sausage & Pepperoni  
   
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
+ - Giardiniera Chicken  
+ - Pizza Slice Chicken Broccoli Alfredo  
+ - Spicy Fajita Chicken  
+ - Chicken Dumpling Soup  
+  
+In description:   
+ - BYO Bar - Mac & Cheese  
+ - Pizza Slice Sausage & Pepperoni  
+ - Great Greens  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-01-23)  
+**watermelon**  
+In name:   
+ - Watermelon Slices  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Thai BBQ Pork Ribs  
+ - Beef Masaman Thai Curry  
+  
+**curry**  
+In name:   
+ - Beef Masaman Thai Curry  
+  
+**beef**  
+In name:   
+ - Beef Masaman Thai Curry  
+ - Beef Taco Meat  
+  
+**pork**  
+In name:   
+ - Thai BBQ Pork Ribs  
+  
+In description:   
+ - Andouille Sausage  
+  
+**chicken**  
+In name:   
+ - Plant-Based Chicken Tenders  
  - Lemon Pepper Chicken Salad  
- - Chicken Wings Boneless Plain  
- - Plant-Based Chicken Nuggets (6)  
- - Soup Chicken Tortilla  
- - Diced Chicken  
+ - Chicken Tinga  
+ - Chicken Dumpling Soup  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
  - Station Recipe - Great Greens - FLM  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-01-22)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-01-23)  
 **steak**  
 In name:   
- - Pizza Slice Philly Cheesesteak  
+ - Ham Steak  
   
-**Shrimp**  
+**Cod**  
 In name:   
   
 In description:   
- - Build Your Own Carson's Korean Bulgogi  
- - Kimchee  
+ - Petite Fish Sandwich  
   
 **fish**  
 In name:   
-  
-In description:   
- - Coconut Thai Curry Mahi Mahi  
- - Build Your Own Carson's Korean Bulgogi  
- - Kimchee  
+ - Petite Fish Sandwich  
+ - Vegan Fish Sandwich  
   
 **curry**  
 In name:   
- - Coconut Thai Curry Mahi Mahi  
+  
+In description:   
+ - Tikka Masala Chicken  
+ - Chana Saag w/ Tofu  
   
 **beef**  
 In name:   
- - Bulgogi Beef  
- - Beef Quesadilla  
   
 In description:   
- - Pizza Slice Philly Cheesesteak  
+ - Thin Crust Tavern Style Pepperoni Pizza  
   
 **pork**  
 In name:   
+ - Jerk Pork Chop  
   
 In description:   
- - Pizza Slice Sausage  
+ - Thin Crust Tavern Style Sausage Pizza  
  - Egg, Ham & Cheese English Muffin  
+ - Ham Steak  
   
 **chicken**  
 In name:   
- - Bulgogi Chicken  
- - Soup Chicken Tortilla  
- - Chicken Sausage Patty  
+ - Tikka Masala Chicken  
+ - Chicken Dumpling Soup  
   
 In description:   
+ - Thin Crust Tavern Style Pepperoni Pizza  
  - Great Greens  
   
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-01-22)  
-**fish**  
-In name:   
-  
-In description:   
- - Vietnamese Pork with Rice  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Vegetable Korma  
-  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-01-23)  
 **beef**  
 In name:   
- - Beef & Chicken Meatballs  
- - Beef Pasta Tortellini  
+ - Texas BBQ Sliced Beef Brisket  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
   
 **pork**  
 In name:   
- - Vietnamese Pork with Rice  
+ - Italian Pork Sausage  
   
 In description:   
- - Andouille Sausage  
  - Station Recipe - Deli Lowell AYCTE  
   
 **chicken**  
 In name:   
- - Protein Plant Based Chicken Tender  
- - Beef & Chicken Meatballs  
- - Soup Chicken Tortilla  
- - Chicken Piccata  
+ - Diced Chicken Breast  
+ - Chicken Dumpling Soup  
   
 In description:   
  - Great Greens  
