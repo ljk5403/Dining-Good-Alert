@@ -1,6 +1,6 @@
 # 2025-01-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-24 12:14:34  
+Updated at: 2025-01-24 15:09:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-26)  
 **Tuna**  
 In name:   
@@ -120,7 +120,6 @@ In name:
  - Chicken Gravy  
  - Pizza Slice Chicken Bacon Ranch  
  - Lemon Chicken Rice Soup  
- - Diced Chicken  
   
 In description:   
  - Pizza Slice Sausage & Pepperoni  
