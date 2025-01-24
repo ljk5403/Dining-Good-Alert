@@ -1,6 +1,6 @@
 # 2025-01-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-24 06:19:50  
+Updated at: 2025-01-24 09:10:52  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-24)  
 **clam**  
 In name:   
@@ -8,6 +8,7 @@ In name:
   
 **Cod**  
 In name:   
+ - Battered Cod Fillet Sandwich  
   
 In description:   
  - Soup Clam Chowder  
@@ -18,6 +19,7 @@ In name:
   
 **fish**  
 In name:   
+ - Vegan Fish Sandwich  
   
 In description:   
  - Blackened Salmon  
@@ -26,12 +28,8 @@ In description:
 In name:   
  - Beef Taco Meat  
   
-In description:   
- - Pork Bratwurst Sandwich  
-  
 **pork**  
 In name:   
- - Pork Bratwurst Sandwich  
  - Pork Miso w/Yakisoba Noodles  
  - Pork Carnita  
   

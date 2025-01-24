@@ -1,14 +1,10 @@
 # 2025-01-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-24 06:19:56  
+Updated at: 2025-01-24 09:10:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-24)  
 **clam**  
 In name:   
  - Soup Clam Chowder  
-  
-**Shrimp**  
-In name:   
- - Shrimp Po-Boy Sandwich  
   
 **Cod**  
 In name:   
@@ -40,6 +36,8 @@ In description:
 In name:   
  - Diced Chicken Breast  
  - Lemon Pepper Chicken Salad  
+ - Chicken Tenders Breaded  
+ - Plant-Based Chicken Tenders  
  - Fajita Chicken  
  - Plant Based Protein Chicken Taco Filling  
   
