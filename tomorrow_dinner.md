@@ -1,6 +1,6 @@
 # 2025-01-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-23 15:09:53  
+Updated at: 2025-01-23 18:51:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-24)  
 **clam**  
 In name:   
@@ -42,7 +42,6 @@ In name:
  - Lemon Pepper Chicken Salad  
  - Fajita Chicken  
  - Plant Based Protein Chicken Taco Filling  
- - Diced Chicken  
   
 In description:   
  - Great Greens  
@@ -80,7 +79,6 @@ In description:
 In name:   
  - Doro Wat Chicken  
  - Chicken Sausage Patty  
- - Diced Chicken  
  - Lemon Pepper Chicken Salad  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-01-24)  
@@ -194,7 +192,6 @@ In description:
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
- - Diced Chicken  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  

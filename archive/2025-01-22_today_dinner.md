@@ -1,6 +1,6 @@
 # 2025-01-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-23 12:14:41  
+Updated at: 2025-01-23 15:09:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-23)  
 **fish**  
 In name:   
@@ -75,26 +75,25 @@ In name:
  - BBQ Beef Brisket Sandwich  
   
 In description:   
- - Pizza Slice Sausage & Pepperoni  
+ - Pepperoni Pizza Slice  
   
 **pork**  
 In name:   
  - Herb Crusted Pork Loin  
   
 In description:   
- - Pizza Slice Sausage & Pepperoni  
+ - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
  - Blackened Chicken  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
- - Pizza Slice Chicken Broccoli Alfredo  
  - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
   
 In description:   
- - Pizza Slice Sausage & Pepperoni  
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-01-23)  
