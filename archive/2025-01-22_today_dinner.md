@@ -1,6 +1,6 @@
 # 2025-01-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-23 15:09:50  
+Updated at: 2025-01-23 18:51:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-23)  
 **fish**  
 In name:   
@@ -29,7 +29,6 @@ In name:
  - Grilled Tandoori Chicken Sandwich  
  - Greek Lemon Chicken w/ Rice  
  - Chicken Dumpling Soup  
- - Diced Chicken  
   
 In description:   
  - Pepperoni Pizza Slice  
@@ -60,10 +59,13 @@ In name:
  - Plant-Based Chicken Nuggets (6)  
  - Chicken Wings Boneless Plain  
  - Chicken Dumpling Soup  
- - Diced Chicken  
  - Lemon Pepper Chicken Salad  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-01-23)  
+**steak**  
+In name:   
+ - Spicy Steak Fajita  
+  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
@@ -71,11 +73,13 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
+ - Mediterranean Beef  
  - Beef Taco Meat  
  - BBQ Beef Brisket Sandwich  
   
 In description:   
  - Pepperoni Pizza Slice  
+ - Spicy Steak Fajita  
   
 **pork**  
 In name:   
@@ -89,7 +93,7 @@ In name:
  - Blackened Chicken  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
- - Spicy Fajita Chicken  
+ - Mediterranean Chicken  
  - Chicken Dumpling Soup  
   
 In description:   
@@ -175,7 +179,6 @@ In name:
   
 In description:   
  - Tofu & Vegetable Tikka Masala  
- - Tikka Masala Chicken  
   
 **beef**  
 In name:   
@@ -188,6 +191,7 @@ In description:
   
 **pork**  
 In name:   
+ - Stir Fry Vietnamese Pork w/rice (CN)  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
@@ -197,7 +201,7 @@ In name:
  - Beef & Chicken Meatballs  
  - Diced Chicken Breast  
  - Chicken Dumpling Soup  
- - Tikka Masala Chicken  
+ - Jamaican Jerk Chicken  
   
 In description:   
  - Great Greens  
