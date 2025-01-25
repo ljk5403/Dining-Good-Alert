@@ -1,6 +1,6 @@
 # 2025-01-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-24 18:47:43  
+Updated at: 2025-01-24 21:10:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-24)  
 **clam**  
 In name:   
@@ -88,16 +88,13 @@ In name:
 In name:   
  - Sweet Corn Bake (Veg)  
   
-**steak**  
-In name:   
- - Island Spiced Beef Steak  
-  
 **clam**  
 In name:   
  - Soup Clam Chowder  
   
 **Shrimp**  
 In name:   
+ - Coconut Shrimp  
  - Sauteed Shrimp  
   
 **Cod**  
@@ -114,7 +111,6 @@ In name:
   
 **beef**  
 In name:   
- - Island Spiced Beef Steak  
  - Beef & Chicken Meatballs  
  - Beef Barbacoa  
  - Beef Taco Meat  
@@ -140,31 +136,15 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**Drunken Noodles**  
-In name:   
- - Drunken Noodles  
-  
 **clam**  
 In name:   
  - Soup Clam Chowder  
-  
-**Shrimp**  
-In name:   
-  
-In description:   
- - Drunken Noodles  
   
 **Cod**  
 In name:   
   
 In description:   
  - Soup Clam Chowder  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Drunken Noodles  
   
 **lamb**  
 In name:   
@@ -179,26 +159,23 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
-  
-In description:   
- - Pizza Slice Meat Lovers w/ Bacon  
+ - Beef Meatloaf  
   
 **pork**  
 In name:   
  - New Orleans Turkey Melt w/ Pork  
   
 In description:   
- - Pizza Slice Meat Lovers w/ Bacon  
  - Soup Clam Chowder  
   
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
  - Beef & Chicken Meatballs  
+ - Flatbread Pizza BBQ Chicken  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
- - Pizza Slice Meat Lovers w/ Bacon  
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-01-24)  
