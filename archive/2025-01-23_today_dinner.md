@@ -1,6 +1,6 @@
 # 2025-01-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-24 12:14:28  
+Updated at: 2025-01-24 15:09:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-24)  
 **clam**  
 In name:   
@@ -146,7 +146,6 @@ In name:
   
 **Shrimp**  
 In name:   
- - Sauteed Shrimp  
   
 In description:   
  - Drunken Noodles  
@@ -175,6 +174,7 @@ In description:
   
 **beef**  
 In name:   
+ - Beef & Chicken Meatballs  
   
 In description:   
  - Pizza Slice Meat Lovers w/ Bacon  
@@ -190,6 +190,7 @@ In description:
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
+ - Beef & Chicken Meatballs  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  

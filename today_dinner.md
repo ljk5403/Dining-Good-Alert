@@ -1,6 +1,6 @@
 # 2025-01-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-24 15:09:37  
+Updated at: 2025-01-24 18:34:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-24)  
 **clam**  
 In name:   
@@ -88,6 +88,10 @@ In name:
 In name:   
  - Sweet Corn Bake (Veg)  
   
+**steak**  
+In name:   
+ - Island Spiced Beef Steak  
+  
 **clam**  
 In name:   
  - Soup Clam Chowder  
@@ -110,7 +114,7 @@ In name:
   
 **beef**  
 In name:   
- - Texas BBQ Sliced Beef Brisket  
+ - Island Spiced Beef Steak  
  - Beef & Chicken Meatballs  
  - Beef Barbacoa  
  - Beef Taco Meat  
