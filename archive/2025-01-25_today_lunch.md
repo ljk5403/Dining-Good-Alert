@@ -1,6 +1,6 @@
 # 2025-01-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-26 09:10:39  
+Updated at: 2025-01-26 12:12:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-26)  
 **Tuna**  
 In name:   
@@ -13,7 +13,6 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice  
- - Pastrami & Swiss Sandwich  
  - Vegan Taco Filling  
   
 **pork**  
@@ -23,6 +22,7 @@ In name:
   
 **chicken**  
 In name:   
+ - Crispy Chicken Sandwich  
  - Fajita Chicken  
  - Lemon Chicken Rice Soup  
   
