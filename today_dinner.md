@@ -1,6 +1,6 @@
 # 2025-01-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-25 15:08:55  
+Updated at: 2025-01-25 18:52:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-25)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-01-25)  
 **watermelon**  
@@ -20,6 +20,7 @@ In name:
 **Shrimp**  
 In name:   
  - Shrimp Creole  
+ - Sauteed Shrimp  
   
 **beef**  
 In name:   
@@ -32,7 +33,6 @@ In description:
   
 **pork**  
 In name:   
- - Italian Pork Sausage  
   
 In description:   
  - Pizza Slice Sausage  
