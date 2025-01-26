@@ -1,6 +1,6 @@
 # 2025-01-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-25 18:52:53  
+Updated at: 2025-01-25 21:13:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-25)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-01-25)  
 **watermelon**  
@@ -19,7 +19,6 @@ In name:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-01-25)  
 **Shrimp**  
 In name:   
- - Shrimp Creole  
  - Sauteed Shrimp  
   
 **beef**  
@@ -28,6 +27,7 @@ In name:
  - Beef Taco Meat  
   
 In description:   
+ - Italian Meat Sauce  
  - Pepperoni Pizza Slice  
  - Chicago-Style Hot Dog  
   
@@ -39,6 +39,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Biryani  
  - Breaded Chicken Parmigiana  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
