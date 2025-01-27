@@ -1,6 +1,6 @@
 # 2025-01-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-27 12:14:30  
+Updated at: 2025-01-27 15:10:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-27)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -114,7 +114,6 @@ In name:
  - Beef & Chicken Meatballs  
  - Chicken Tinga  
  - Chicken Noodle Soup  
- - Diced Chicken  
   
 In description:   
  - Pepperoni Pizza Slice  
@@ -149,7 +148,7 @@ In description:
   
 **chicken**  
 In name:   
- - Sweet & Spicy Orange Chicken  
+ - General Tso's Chicken  
  - Butter Chicken  
  - Chicken Noodle Soup  
   
@@ -214,9 +213,9 @@ In description:
   
 **chicken**  
 In name:   
- - Butter Chicken  
+ - Chicken Piccata  
  - Chicken Noodle Soup  
- - Sumac Chicken  
+ - Chicken Drumstick Mango Habanero  
   
 In description:   
  - Great Greens  

@@ -1,6 +1,6 @@
 # 2025-01-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-27 12:14:32  
+Updated at: 2025-01-27 15:10:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-27)  
 **Tuna**  
 In name:   
@@ -143,6 +143,12 @@ In name:
  - Seitan & Coconut Thai Curry  
  - Chicken Curry  
  - Curry Potatoes  
+  
+**beef**  
+In name:   
+  
+In description:   
+ - Italian Meat Sauce  
   
 **pork**  
 In name:   
