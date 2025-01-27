@@ -1,6 +1,6 @@
 # 2025-01-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-27 06:20:47  
+Updated at: 2025-01-27 09:10:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-27)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -74,13 +74,10 @@ In description:
  - Baked Corn Dog  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-01-27)  
-**watermelon**  
+**Cod**  
 In name:   
- - Watermelon Slices  
-  
-**steak**  
-In name:   
- - Pizza Slice Philly Cheesesteak  
+ - Battered Cod  
+ - Vegan Cod Battered (2 pc)  
   
 **Tuna**  
 In name:   
@@ -95,31 +92,32 @@ In name:
   
 In description:   
  - Baked Salmon with Mustard Sauce  
+ - Vegan Cod Battered (2 pc)  
   
 **beef**  
 In name:   
  - Beef Stew w/ Buttermilk Biscuit  
- - Beef Ravioli w/Tomato Sauce  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
 In description:   
- - Pizza Slice Philly Cheesesteak  
- - Italian Meatball Sandwich  
+ - Pepperoni Pizza Slice  
   
 **pork**  
 In name:   
- - Italian Pork Sausage  
+  
+In description:   
+ - Pizza Slice Hawaiian  
   
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
  - Chicken Tinga  
  - Chicken Noodle Soup  
+ - Diced Chicken  
   
 In description:   
- - Italian Meatball Sandwich  
- - Great Greens  
+ - Pepperoni Pizza Slice  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-01-27)  
 **watermelon**  

@@ -1,6 +1,6 @@
 # 2025-01-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-27 06:21:14  
+Updated at: 2025-01-27 09:11:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-29)  
 **Tuna**  
 In name:   
@@ -116,6 +116,7 @@ In name:
  - Sweet & Sour Chicken  
  - Plant Based Sweet & Sour Chicken  
  - Soup Chicken Tortilla  
+ - Diced Chicken  
   
 In description:   
  - Great Greens  
