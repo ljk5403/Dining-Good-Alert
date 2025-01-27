@@ -1,6 +1,6 @@
 # 2025-01-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-26 12:12:51  
+Updated at: 2025-01-26 15:09:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-26)  
 **Tuna**  
 In name:   
@@ -36,17 +36,12 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**steak**  
-In name:   
- - Grilled Flank Steak  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
 In description:   
- - Grilled Flank Steak  
  - Pepperoni Pizza Slice  
  - Grilled Cheeseburger  
  - Vegan Taco Filling  
@@ -61,6 +56,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Biryani  
  - Plant-Based Chicken Etouffee  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
