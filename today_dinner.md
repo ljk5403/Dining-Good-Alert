@@ -1,6 +1,6 @@
 # 2025-01-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-26 18:52:29  
+Updated at: 2025-01-26 21:13:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-26)  
 **Cod**  
 In name:   
@@ -41,17 +41,9 @@ In description:
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-01-26)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-01-26)  
-**Moroccan Style Lamb Stuffed Peppers**  
-In name:   
- - Moroccan Style Lamb Stuffed Peppers  
-  
 **watermelon**  
 In name:   
  - Watermelon Slices  
-  
-**lamb**  
-In name:   
- - Moroccan Style Lamb Stuffed Peppers  
   
 **beef**  
 In name:   
@@ -74,6 +66,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Biryani  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Lemon Chicken Rice Soup  
