@@ -1,6 +1,6 @@
 # 2025-01-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-27 18:51:24  
+Updated at: 2025-01-27 21:12:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-27)  
 **clam**  
 In name:   
@@ -98,6 +98,16 @@ In name:
 In name:   
  - Lemon Pepper Tuna Salad  
   
+**Salmon**  
+In name:   
+ - Oven Roasted Salmon (AYCTE)  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Oven Roasted Salmon (AYCTE)  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
@@ -118,12 +128,10 @@ In name:
   
 In description:   
  - Gordon's OrderIt  
- - Chicken Sausage Gumbo  
  - Pizza Slice Hawaiian  
   
 **chicken**  
 In name:   
- - Chicken Sausage Gumbo  
  - Beef & Chicken Meatballs  
  - Chicken  
  - Chicken Noodle Soup  
@@ -138,6 +146,10 @@ In description:
 In name:   
  - Watermelon Slices  
   
+**steak**  
+In name:   
+ - Island Spiced Beef Steak  
+  
 **Tuna**  
 In name:   
  - Tuna Salad  
@@ -150,7 +162,10 @@ In name:
   
 **beef**  
 In name:   
- - Beef Meatloaf  
+ - Island Spiced Beef Steak  
+  
+In description:   
+ - Italian Meat Sauce  
   
 **pork**  
 In name:   
