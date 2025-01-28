@@ -1,6 +1,6 @@
 # 2025-01-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-28 06:20:06  
+Updated at: 2025-01-28 09:11:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-28)  
 **Tuna**  
 In name:   
@@ -159,10 +159,6 @@ In name:
 **Cod**  
 In name:   
  - Cracker Crusted Cod w/ Lemon Sauce  
-  
-**fish**  
-In name:   
- - Fish Sauce  
   
 **beef**  
 In name:   

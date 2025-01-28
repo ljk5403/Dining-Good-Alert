@@ -1,6 +1,6 @@
 # 2025-01-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-28 06:20:16  
+Updated at: 2025-01-28 09:11:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-29)  
 **Tuna**  
 In name:   
@@ -33,7 +33,7 @@ In name:
  - Spicy Lo Mein w/Chicken  
  - Plant-Based Chicken Lo Mein  
  - Chicken Mole w/ Rice  
- - Soup Chicken Tortilla  
+ - Chicken Tortilla Soup  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
@@ -71,7 +71,7 @@ In name:
  - Chicken Drumstick BBQ Glazed  
  - Plant-Based Chicken Tenders  
  - Tandoori Chicken  
- - Soup Chicken Tortilla  
+ - Chicken Tortilla Soup  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-01-29)  
 **Cod**  
@@ -110,7 +110,7 @@ In name:
  - Lemon Pepper Chicken Salad  
  - Sesame Chicken  
  - Plant Based Sesame Chicken (AYCTE) (VN)  
- - Soup Chicken Tortilla  
+ - Chicken Tortilla Soup  
  - Chicken Sausage Patties  
  - Chicken Tenders Breaded  
  - Plant-Based Chicken Nuggets (6)  
@@ -133,7 +133,6 @@ In name:
   
 **fish**  
 In name:   
- - Fish Sauce  
   
 In description:   
  - Grilled Sesame Ginger Salmon  
@@ -157,7 +156,7 @@ In name:
  - Chicken Drumstick Teriyaki Glazed  
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
- - Soup Chicken Tortilla  
+ - Chicken Tortilla Soup  
  - Protein - Chicken Thinly Sliced  
   
 In description:   
@@ -193,7 +192,7 @@ In name:
  - Chicken Salad  
  - Chicken Pot Pie w/Biscuit  
  - Plant-Based Chicken & Gravy (VN)  
- - Soup Chicken Tortilla  
+ - Chicken Tortilla Soup  
   
 In description:   
  - Great Greens  
@@ -223,7 +222,7 @@ In description:
   
 **chicken**  
 In name:   
- - Soup Chicken Tortilla  
+ - Chicken Tortilla Soup  
  - Wisconsin Harvest Chicken Breast  
   
 In description:   

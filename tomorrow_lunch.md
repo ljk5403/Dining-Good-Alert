@@ -1,6 +1,6 @@
 # 2025-01-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-28 06:20:11  
+Updated at: 2025-01-28 09:11:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-29)  
 **Tuna**  
 In name:   
@@ -29,7 +29,7 @@ In description:
 In name:   
  - Chicken Breast w/Balsamic BBQ Sauce  
  - Fajita Chicken  
- - Soup Chicken Tortilla  
+ - Chicken Tortilla Soup  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
@@ -74,7 +74,7 @@ In description:
 **chicken**  
 In name:   
  - Chicken Biryani  
- - Soup Chicken Tortilla  
+ - Chicken Tortilla Soup  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-01-29)  
 **watermelon**  
@@ -115,8 +115,7 @@ In name:
  - Chicken Sausage Patties  
  - Sweet & Sour Chicken  
  - Plant Based Sweet & Sour Chicken  
- - Soup Chicken Tortilla  
- - Diced Chicken  
+ - Chicken Tortilla Soup  
   
 In description:   
  - Great Greens  
@@ -133,7 +132,6 @@ In name:
 **fish**  
 In name:   
  - Panfried Southern Catfish  
- - Fish Sauce  
   
 **beef**  
 In name:   
@@ -156,7 +154,7 @@ In name:
  - Lemon Pepper Chicken Salad  
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
- - Soup Chicken Tortilla  
+ - Chicken Tortilla Soup  
  - Protein - Chicken Thinly Sliced  
   
 In description:   
@@ -174,7 +172,7 @@ In description:
   
 **chicken**  
 In name:   
- - Soup Chicken Tortilla  
+ - Chicken Tortilla Soup  
  - Chicken Sausage Patty  
  - Buffalo Chicken Sliders  
   
@@ -203,7 +201,7 @@ In description:
   
 **chicken**  
 In name:   
- - Soup Chicken Tortilla  
+ - Chicken Tortilla Soup  
  - Breaded Chicken Parmigiana  
   
 In description:   

@@ -1,6 +1,6 @@
 # 2025-01-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-28 03:11:38  
+Updated at: 2025-01-28 06:20:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-28)  
 **Tuna**  
 In name:   
@@ -146,13 +146,13 @@ In name:
  - Mediterranean Chicken  
  - Pizza Slice Chicken Sriracha  
  - Chicken Sausage Patties  
- - Jerk Chicken Sandwich  
+ - Crispy Chicken Sandwich  
  - Chicken  
+ - Diced Chicken  
   
 In description:   
  - Pepperoni Pizza Slice  
  - Global Curry Bowl  
- - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-01-28)  
 **watermelon**  
