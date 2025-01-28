@@ -1,7 +1,17 @@
 # 2025-01-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-27 15:10:23  
+Updated at: 2025-01-27 18:51:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-27)  
+**clam**  
+In name:   
+ - Soup Clam Chowder  
+  
+**Cod**  
+In name:   
+  
+In description:   
+ - Soup Clam Chowder  
+  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
@@ -26,6 +36,7 @@ In name:
   
 In description:   
  - Pizza Slice Sausage  
+ - Soup Clam Chowder  
   
 **chicken**  
 In name:   
@@ -33,7 +44,6 @@ In name:
  - Kung Pao Chicken  
  - Plant Based Protein Chicken Taco Filling  
  - Chicken Tinga  
- - Chicken Noodle Soup  
   
 In description:   
  - Great Greens  
@@ -84,10 +94,6 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**steak**  
-In name:   
- - Pizza Slice Philly Cheesesteak  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
@@ -96,12 +102,14 @@ In name:
 In name:   
  - Beef & Chicken Meatballs  
  - Beef Ravioli w/Tomato Sauce  
+ - Beef  
+ - Beef Barbacoa  
  - Beef Taco Meat  
   
 In description:   
  - Gordon's OrderIt  
- - Pizza Slice Philly Cheesesteak  
- - Cowboy Burger  
+ - Pepperoni Pizza Slice  
+ - Cheeseburger  
   
 **pork**  
 In name:   
@@ -111,16 +119,18 @@ In name:
 In description:   
  - Gordon's OrderIt  
  - Chicken Sausage Gumbo  
+ - Pizza Slice Hawaiian  
   
 **chicken**  
 In name:   
  - Chicken Sausage Gumbo  
  - Beef & Chicken Meatballs  
- - Chicken Tinga  
+ - Chicken  
  - Chicken Noodle Soup  
   
 In description:   
  - Gordon's OrderIt  
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-01-27)  
@@ -132,33 +142,26 @@ In name:
 In name:   
  - Tuna Salad  
   
-**fish**  
-In name:   
-  
-In description:   
- - California Roll  (FujiSan)  
-  
 **curry**  
 In name:   
  - Seitan & Coconut Thai Curry  
  - Chicken Curry  
- - Curry Potatoes  
+ - Vegetable Coconut Curry w/Rice  
   
 **beef**  
 In name:   
-  
-In description:   
- - Italian Meat Sauce  
+ - Beef Meatloaf  
   
 **pork**  
 In name:   
- - Italian Pork Sausage  
  - Smoked Pork Loin  
+  
+In description:   
+ - Andouille Sausage  
   
 **chicken**  
 In name:   
  - Crispy Chicken Sandwich  
- - Irish Roast Chicken w/Leeks and Bacon  
  - Chicken Curry  
  - Chicken Noodle Soup  
   
