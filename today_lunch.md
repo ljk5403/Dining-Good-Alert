@@ -1,6 +1,6 @@
 # 2025-01-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-28 12:14:29  
+Updated at: 2025-01-28 15:09:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-28)  
 **Tuna**  
 In name:   
@@ -94,31 +94,22 @@ In description:
  - Station Recipe - Liz - Great Greens  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-01-28)  
-**Chicken Drummies**  
-In name:   
- - Chicken Drummies  
-  
 **Shrimp**  
 In name:   
- - Shrimp  
   
 In description:   
  - Global Curry Bowl  
   
 **fish**  
 In name:   
- - Fish Sauce  
   
 In description:   
  - Global Curry Bowl  
- - Masaman Thai Curry Sauce  
   
 **curry**  
 In name:   
  - Global Curry Bowl  
- - Sub - Base Curry Yellow  
- - Red Curry Sauce  
- - Masaman Thai Curry Sauce  
+ - Build Your Own Curry Bowl - Gordon  
   
 **beef**  
 In name:   
@@ -138,13 +129,12 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken Drummies  
+ - Chicken Tenders Breaded  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Pizza Slice Chicken Sriracha  
  - Chicken Sausage Patties  
  - Crispy Chicken Sandwich  
- - Chicken  
   
 In description:   
  - Pepperoni Pizza Slice  
@@ -225,13 +215,9 @@ In description:
  - Spicy Italian Meatball Sandwich  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-01-28)  
-**catfish**  
+**Tilapia**  
 In name:   
- - Panfried Southern Catfish  
-  
-**fish**  
-In name:   
- - Panfried Southern Catfish  
+ - Tilapia Chipotle Lime Crusted  
   
 **beef**  
 In name:   
