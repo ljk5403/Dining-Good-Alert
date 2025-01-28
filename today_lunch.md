@@ -1,6 +1,6 @@
 # 2025-01-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-28 09:11:34  
+Updated at: 2025-01-28 12:14:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-28)  
 **Tuna**  
 In name:   
@@ -19,6 +19,7 @@ In description:
 In name:   
  - Soup -  Chili Beef & Bean  
  - Beef & Chicken Meatballs  
+ - Beef Ravioli Plain  
   
 In description:   
  - Pepperoni Pizza Slice  
@@ -93,6 +94,10 @@ In description:
  - Station Recipe - Liz - Great Greens  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-01-28)  
+**Chicken Drummies**  
+In name:   
+ - Chicken Drummies  
+  
 **Shrimp**  
 In name:   
  - Shrimp  
@@ -117,9 +122,7 @@ In name:
   
 **beef**  
 In name:   
- - Texas BBQ Sliced Beef Brisket  
  - Beef & Chicken Meatballs  
- - Beef Fajita Meat  
  - Beef Barbacoa  
  - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
@@ -135,6 +138,7 @@ In name:
   
 **chicken**  
 In name:   
+ - Chicken Drummies  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Pizza Slice Chicken Sriracha  
