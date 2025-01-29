@@ -1,230 +1,193 @@
-# 2025-01-29 dinner  
+# 2025-01-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-28 21:12:39  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-29)  
+Updated at: 2025-01-29 00:15:25  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-30)  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
   
+**Tilapia**  
+In name:   
+ - Baked Tilapia w/Dill Wine Sauce  
+  
 **fish**  
 In name:   
   
 In description:   
- - Filipino Barbecue - Pork  
+ - Tempura Roll (FujiSan)  
   
 **beef**  
 In name:   
+ - Beef & Chicken Meatballs  
   
 In description:   
- - Italian Meat Sauce  
- - Thin Crust Tavern Style Pepperoni Pizza  
-  
-**pork**  
-In name:   
- - Filipino Barbecue - Pork  
- - Italian Pork Sausage  
-  
-In description:   
- - Thin Crust Tavern Style Sausage Pizza  
+ - Pepperoni Pizza Slice  
   
 **chicken**  
 In name:   
- - Blackened Chicken with Orange Sauce  
- - Spicy Lo Mein w/Chicken  
- - Plant-Based Chicken Lo Mein  
- - Chicken Mole w/ Rice  
- - Chicken Tortilla Soup  
+ - Chicken Piece Seasoned Baked  
+ - Beef & Chicken Meatballs  
+ - Plant Based Chicken Strips  
+ - Chicken Shawarma Sandwich  
+ - Chicken Souvlaki  
+ - Chicken Dumpling Soup  
   
 In description:   
- - Thin Crust Tavern Style Pepperoni Pizza  
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-01-29)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-01-30)  
 **watermelon**  
 In name:   
  - Melon Watermelon Whole Sliced  
   
-**Tuna**  
-In name:   
- - Tuna Salad  
-  
-**curry**  
-In name:   
- - Curry Potatoes  
-  
 **beef**  
 In name:   
+ - Beef Broccoli Stir Fry w/Teriyaki Sauce  
   
 In description:   
- - Kielbasa with Pierogis  
  - Station Recipe - Liz - Deli  AYCTE  
   
 **pork**  
 In name:   
+ - Baked Rigatoni w/ Pork Italian Sausage  
   
 In description:   
- - Kielbasa with Pierogis  
  - Station Recipe - Liz - Deli  AYCTE  
   
 **chicken**  
 In name:   
- - Chicken Drumstick BBQ Glazed  
- - Plant-Based Chicken Tenders  
- - Tandoori Chicken  
- - Chicken Tortilla Soup  
+ - Santa Fe Chicken Sandwich  
+ - Chicken Dumpling Soup  
+ - Lemon Pepper Chicken Salad  
   
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-01-29)  
-**Cod**  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-01-30)  
+**Shrimp**  
 In name:   
- - Miso Cod  
+ - Shrimp with Bell Peppers  
   
-**fish**  
+**Tuna**  
 In name:   
-  
-In description:   
- - Miso Cod  
- - Tempura Roll (FujiSan)  
- - California Roll  (FujiSan)  
+ - Lemon Pepper Tuna Salad  
   
 **beef**  
 In name:   
+ - Beef Meatloaf  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
 In description:   
- - Italian Meat Sauce  
- - Vegan Taco Filling  
+ - Smoked Brisket & Tots Pizza Slice  
+ - Pork Bratwurst Sandwich  
   
 **pork**  
 In name:   
- - Italian Pork Sausage  
- - Pork Carnita  
-  
-In description:   
- - Pizza Slice Hawaiian  
-  
-**chicken**  
-In name:   
- - Chicken Pot Pie w/Biscuit  
- - Beef & Chicken Meatballs  
- - Lemon Pepper Chicken Salad  
- - Sesame Chicken  
- - Plant Based Sesame Chicken (AYCTE) (VN)  
- - Chicken Tortilla Soup  
- - Chicken Sausage Patties  
- - Chicken Tenders Breaded  
- - Plant-Based Chicken Nuggets (6)  
-  
-In description:   
- - Great Greens  
-  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-01-29)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
-**BBQ Pork Sandwich**  
-In name:   
- - BBQ Pork Sandwich  
-  
-**Salmon**  
-In name:   
- - Grilled Sesame Ginger Salmon  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Grilled Sesame Ginger Salmon  
-  
-**beef**  
-In name:   
- - Roast Beef  
- - Pork & Beef Hard Salami  
- - Beef & Chicken Meatballs  
- - Protein - Beef Thinly Sliced  
-  
-In description:   
- - Italian Meat Sauce  
-  
-**pork**  
-In name:   
- - Pork & Beef Hard Salami  
- - BBQ Pork Sandwich  
-  
-In description:   
- - Smoked Ham  
- - Bacon  
-  
-**chicken**  
-In name:   
- - Lemon Pepper Chicken Salad  
- - Beef & Chicken Meatballs  
- - Chicken Drumstick Teriyaki Glazed  
- - Chicken Wings Boneless Plain  
- - Plant-Based Chicken Nuggets (6)  
- - Chicken Tortilla Soup  
- - Protein - Chicken Thinly Sliced  
-  
-In description:   
- - BYO - MTO Breakfast Sandwich - Four Lake  
- - Station Recipe - Great Greens - FLM  
-  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-01-29)  
-**steak**  
-In name:   
- - Beef Sirloin Top Butt Steak 4 oz  
-  
-**beef**  
-In name:   
- - Beef Sirloin Top Butt Steak 4 oz  
-  
-In description:   
- - Burgundy Mushroom Sauce  
- - Carson's Build Your Own Rice Bowl  
-  
-**pork**  
-In name:   
- - Pizza Slice BBQ Pulled Pork  
+ - Pork Bratwurst Sandwich  
   
 In description:   
  - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
- - Chicken Salad  
- - Chicken Tortilla Soup  
+ - Chicken Gravy  
+ - Beef & Chicken Meatballs  
+ - Giardiniera Chicken  
+ - Spicy Fajita Chicken  
+ - Chicken Dumpling Soup  
   
 In description:   
  - Great Greens  
- - Carson's Build Your Own Rice Bowl  
   
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-01-29)  
-**curry**  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-01-30)  
+**watermelon**  
 In name:   
- - Thai Veggie Meatballs w/ Green Curry  
-  
-In description:   
- - Citrus Couscous  
+ - Watermelon Slices  
   
 **beef**  
 In name:   
- - Beef Stir Fry w/ Snow Peas  
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
+ - Smoked Beef Round Plate  
+ - Beef Taco Meat  
+ - Protein - Beef Thinly Sliced  
+  
+In description:   
+ - Fired Up Burger  
+  
+**pork**  
+In name:   
+ - Pork & Beef Hard Salami  
+ - Jerk Pork Chop  
+  
+In description:   
+ - Smoked Ham  
+ - Bacon  
+ - Andouille Sausage  
+  
+**chicken**  
+In name:   
+ - Lemon Pepper Chicken Salad  
+ - Taco Chicken  
+ - Chicken Dumpling Soup  
+ - Protein - Chicken Thinly Sliced  
+  
+In description:   
+ - BYO - MTO Breakfast Sandwich - Four Lake  
+ - Station Recipe - Great Greens - FLM  
+  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-01-30)  
+**Cod**  
+In name:   
+ - Baked Cod Fillet w/Butter & Lemon  
+  
+**beef**  
+In name:   
+  
+In description:   
+ - Thin Crust Tavern Style Pepperoni Pizza  
+  
+**pork**  
+In name:   
+  
+In description:   
+ - Thin Crust Tavern Style Sausage Pizza  
+  
+**chicken**  
+In name:   
+ - Chicken Salad  
+ - Chicken Tenders Breaded  
+ - Plant-Based Chicken Tenders  
+ - Chicken Dumpling Soup  
+  
+In description:   
+ - Thin Crust Tavern Style Pepperoni Pizza  
+ - Great Greens  
+  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-01-30)  
+**curry**  
+In name:   
+  
+In description:   
+ - Chicken Madras w/naan  
+  
+**beef**  
+In name:   
+ - Beef Pot Roast  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
   
 **pork**  
 In name:   
- - Boneless Baked Pork Ham  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
   
 **chicken**  
 In name:   
- - Chicken Tortilla Soup  
- - Wisconsin Harvest Chicken Breast  
+ - Chicken Madras w/naan  
+ - Chicken Dumpling Soup  
+ - Irish Roast Chicken w/Leeks and Bacon  
   
 In description:   
  - Great Greens  
