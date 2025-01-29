@@ -1,6 +1,6 @@
 # 2025-01-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-28 18:51:28  
+Updated at: 2025-01-28 21:12:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-28)  
 **Tuna**  
 In name:   
@@ -94,10 +94,6 @@ In description:
  - Station Recipe - Liz - Great Greens  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-01-28)  
-**Tilapia**  
-In name:   
- - Baked Tilapia w/Dill Wine Sauce  
-  
 **lamb**  
 In name:   
  - Lamb & Beef Gyro Sandwich  
@@ -117,9 +113,12 @@ In name:
 In description:   
  - Pepperoni Pizza Slice  
   
+**pork**  
+In name:   
+ - Roasted Pork Loin  
+  
 **chicken**  
 In name:   
- - Chicken Drumstick BBQ Glazed  
  - Giardiniera Chicken  
  - Beef & Chicken Meatballs  
  - Pizza Slice Chicken Sriracha  
@@ -134,6 +133,10 @@ In description:
 In name:   
  - Watermelon Slices  
   
+**steak**  
+In name:   
+ - Island Spiced Beef Steak  
+  
 **Cod**  
 In name:   
  - Cracker Crusted Cod w/ Lemon Sauce  
@@ -147,7 +150,7 @@ In name:
  - Roast Beef  
  - Pork & Beef Hard Salami  
  - Beef Harissa Braised  
- - Beef Taco Meat  
+ - Island Spiced Beef Steak  
  - Soup -  Chili Beef & Bean  
  - Protein - Beef Thinly Sliced  
   

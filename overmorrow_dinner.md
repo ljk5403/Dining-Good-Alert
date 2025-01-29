@@ -1,6 +1,6 @@
 # 2025-01-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-28 18:51:46  
+Updated at: 2025-01-28 21:12:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-30)  
 **Tuna**  
 In name:   
@@ -9,6 +9,12 @@ In name:
 **Tilapia**  
 In name:   
  - Baked Tilapia w/Dill Wine Sauce  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Tempura Roll (FujiSan)  
   
 **beef**  
 In name:   
@@ -44,6 +50,7 @@ In description:
   
 **pork**  
 In name:   
+ - Baked Rigatoni w/ Pork Italian Sausage  
   
 In description:   
  - Station Recipe - Liz - Deli  AYCTE  
@@ -148,7 +155,6 @@ In description:
 **chicken**  
 In name:   
  - Chicken Salad  
- - Lemon Pepper Chicken Salad  
  - Chicken Tenders Breaded  
  - Plant-Based Chicken Tenders  
  - Chicken Dumpling Soup  

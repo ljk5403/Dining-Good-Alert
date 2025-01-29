@@ -1,6 +1,6 @@
 # 2025-01-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-28 18:51:37  
+Updated at: 2025-01-28 21:12:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-29)  
 **Tuna**  
 In name:   
@@ -171,20 +171,16 @@ In description:
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-01-29)  
-**fish**  
+**steak**  
 In name:   
-  
-In description:   
- - Coconut Thai Curry Mahi Mahi  
-  
-**curry**  
-In name:   
- - Coconut Thai Curry Mahi Mahi  
+ - Beef Sirloin Top Butt Steak 4 oz  
   
 **beef**  
 In name:   
+ - Beef Sirloin Top Butt Steak 4 oz  
   
 In description:   
+ - Burgundy Mushroom Sauce  
  - Carson's Build Your Own Rice Bowl  
   
 **pork**  
@@ -197,8 +193,6 @@ In description:
 **chicken**  
 In name:   
  - Chicken Salad  
- - Chicken Pot Pie w/Biscuit  
- - Plant-Based Chicken & Gravy (VN)  
  - Chicken Tortilla Soup  
   
 In description:   
