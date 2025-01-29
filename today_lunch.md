@@ -1,6 +1,6 @@
 # 2025-01-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-29 09:11:06  
+Updated at: 2025-01-29 12:14:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-29)  
 **Tuna**  
 In name:   
@@ -125,6 +125,10 @@ In description:
 In name:   
  - Watermelon Slices  
   
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
 **catfish**  
 In name:   
  - Panfried Southern Catfish  
@@ -136,6 +140,8 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
  - Protein - Beef Thinly Sliced  
   
 In description:   
@@ -143,15 +149,17 @@ In description:
   
 **pork**  
 In name:   
+ - Pork & Beef Hard Salami  
   
 In description:   
  - Grilled Ham & Swiss Sandwich  
+ - Smoked Ham  
+ - Bacon  
   
 **chicken**  
 In name:   
  - Blackened Chicken  
  - Beef & Chicken Meatballs  
- - Lemon Pepper Chicken Salad  
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
  - Chicken Tortilla Soup  
@@ -184,6 +192,7 @@ In description:
 In name:   
  - Beef Bombay Curry  
  - Vegan Curry Stew  
+ - Curry Cauliflower & Butternut Squash  
   
 **beef**  
 In name:   

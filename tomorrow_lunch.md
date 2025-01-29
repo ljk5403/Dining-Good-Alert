@@ -1,6 +1,6 @@
 # 2025-01-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-29 09:11:17  
+Updated at: 2025-01-29 12:14:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-30)  
 **Tuna**  
 In name:   
@@ -119,6 +119,8 @@ In name:
   
 **beef**  
 In name:   
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
  - Beef Taco Meat  
  - Protein - Beef Thinly Sliced  
   
@@ -129,9 +131,12 @@ In description:
 **pork**  
 In name:   
  - Baked Pork Ham  
+ - Pork & Beef Hard Salami  
   
 In description:   
  - Andouille Sausage  
+ - Smoked Ham  
+ - Bacon  
   
 **chicken**  
 In name:   
