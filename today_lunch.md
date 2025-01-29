@@ -1,6 +1,6 @@
 # 2025-01-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-29 03:11:17  
+Updated at: 2025-01-29 06:20:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-29)  
 **Tuna**  
 In name:   
@@ -90,6 +90,7 @@ In description:
   
 **beef**  
 In name:   
+ - Texas BBQ Sliced Beef Brisket  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
@@ -99,7 +100,6 @@ In description:
   
 **pork**  
 In name:   
- - Island Spiced Pork w/ Pineapple Salsa  
  - Italian Pork Sausage  
  - Pork Carnita  
   
