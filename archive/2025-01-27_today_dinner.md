@@ -1,6 +1,6 @@
 # 2025-01-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-28 12:14:33  
+Updated at: 2025-01-28 15:09:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-28)  
 **Tuna**  
 In name:   
@@ -97,20 +97,9 @@ In description:
 In name:   
  - Spicy Steak Fajita  
   
-**Shrimp**  
-In name:   
- - Shrimp  
-  
 **Tilapia**  
 In name:   
  - Baked Tilapia w/Dill Wine Sauce  
-  
-**fish**  
-In name:   
- - Fish Sauce  
-  
-In description:   
- - Masaman Thai Curry Sauce  
   
 **lamb**  
 In name:   
@@ -118,14 +107,11 @@ In name:
   
 **curry**  
 In name:   
- - Sub - Base Curry Yellow  
- - Red Curry Sauce  
- - Masaman Thai Curry Sauce  
+ - Build Your Own Curry Bowl - Gordon  
   
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Beef Fajita Meat  
  - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
  - Lamb & Beef Gyro Sandwich  
@@ -144,7 +130,6 @@ In name:
  - Mediterranean Chicken  
  - Beef & Chicken Meatballs  
  - Pizza Slice Chicken Sriracha  
- - Chicken  
  - Chicken Sausage Patties  
   
 In description:   

@@ -1,6 +1,6 @@
 # 2025-01-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-28 15:09:51  
+Updated at: 2025-01-28 18:51:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-28)  
 **Tuna**  
 In name:   
@@ -19,6 +19,7 @@ In description:
 In name:   
  - Beef Taco Meat  
  - Beef & Chicken Meatballs  
+ - Beef Ravioli Plain  
  - Sliced BBQ Beef Brisket Sandwich  
  - Soup -  Chili Beef & Bean  
   
@@ -93,10 +94,6 @@ In description:
  - Station Recipe - Liz - Great Greens  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-01-28)  
-**steak**  
-In name:   
- - Spicy Steak Fajita  
-  
 **Tilapia**  
 In name:   
  - Baked Tilapia w/Dill Wine Sauce  
@@ -112,22 +109,18 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
+ - Beef Barbacoa  
  - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
  - Lamb & Beef Gyro Sandwich  
   
 In description:   
  - Pepperoni Pizza Slice  
- - Spicy Steak Fajita  
-  
-**pork**  
-In name:   
- - Green Beans w/ Pork Bacon  
   
 **chicken**  
 In name:   
  - Chicken Drumstick BBQ Glazed  
- - Mediterranean Chicken  
+ - Giardiniera Chicken  
  - Beef & Chicken Meatballs  
  - Pizza Slice Chicken Sriracha  
  - Chicken Sausage Patties  
@@ -145,20 +138,30 @@ In name:
 In name:   
  - Cracker Crusted Cod w/ Lemon Sauce  
   
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
 **beef**  
 In name:   
- - Beef Harissa w/Couscous  
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
+ - Beef Harissa Braised  
  - Beef Taco Meat  
  - Soup -  Chili Beef & Bean  
  - Protein - Beef Thinly Sliced  
   
 **pork**  
 In name:   
+ - Pork & Beef Hard Salami  
  - Ancho Braised Pork  
+  
+In description:   
+ - Smoked Ham  
+ - Bacon  
   
 **chicken**  
 In name:   
- - Lemon Pepper Chicken Salad  
  - Italian Chicken  
  - Protein - Chicken Thinly Sliced  
   
@@ -171,7 +174,6 @@ In description:
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-01-28)  
 **steak**  
 In name:   
- - Beef Sirloin Steak  
   
 In description:   
  - Pizza Slice Italian Beef  
@@ -180,12 +182,10 @@ In description:
 In name:   
  - Pizza Slice Italian Beef  
  - Beef Sirloin Tips  
- - Beef Sirloin Steak  
  - Soup -  Chili Beef & Bean  
   
 In description:   
  - Pizza Slice Meat Lovers w/ Bacon  
- - Burgundy Mushroom Sauce  
   
 **pork**  
 In name:   
@@ -197,6 +197,8 @@ In description:
 **chicken**  
 In name:   
  - Chicken Salad  
+ - Chicken Pot Pie w/Biscuit  
+ - Plant-Based Chicken & Gravy (VN)  
   
 In description:   
  - Pizza Slice Meat Lovers w/ Bacon  
