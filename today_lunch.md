@@ -1,6 +1,6 @@
 # 2025-01-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-30 06:20:19  
+Updated at: 2025-01-30 09:10:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-30)  
 **Tuna**  
 In name:   
@@ -82,6 +82,7 @@ In name:
   
 **beef**  
 In name:   
+ - Texas BBQ Sliced Beef Brisket  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
@@ -98,8 +99,8 @@ In description:
 **chicken**  
 In name:   
  - Chicken Wings Boneless Plain  
- - Chicken Wings Bone-In Plain  
  - Plant-Based Chicken Nuggets (6)  
+ - Chicken Wings Bone-In Plain  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Spicy Fajita Chicken  
