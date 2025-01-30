@@ -1,6 +1,6 @@
 # 2025-01-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-29 18:50:28  
+Updated at: 2025-01-29 21:12:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-29)  
 **Tuna**  
 In name:   
@@ -123,6 +123,10 @@ In description:
 In name:   
  - Watermelon Slices  
   
+**steak**  
+In name:   
+ - Island Spiced Beef Steak  
+  
 **BBQ Pork Sandwich**  
 In name:   
  - BBQ Pork Sandwich  
@@ -131,22 +135,12 @@ In name:
 In name:   
  - Tuna Salad  
   
-**Salmon**  
-In name:   
- - Grilled Sesame Ginger Salmon  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Grilled Sesame Ginger Salmon  
-  
 **beef**  
 In name:   
  - Roast Beef  
  - Pork & Beef Hard Salami  
  - Beef & Chicken Meatballs  
- - Protein - Beef Thinly Sliced  
+ - Island Spiced Beef Steak  
   
 In description:   
  - Italian Meat Sauce  
@@ -155,6 +149,7 @@ In description:
 In name:   
  - Pork & Beef Hard Salami  
  - BBQ Pork Sandwich  
+ - Smoked Pork Loin  
   
 In description:   
  - Smoked Ham  
