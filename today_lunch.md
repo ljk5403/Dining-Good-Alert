@@ -1,6 +1,6 @@
 # 2025-01-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-30 09:10:57  
+Updated at: 2025-01-30 12:14:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-30)  
 **Tuna**  
 In name:   
@@ -104,7 +104,8 @@ In name:
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Spicy Fajita Chicken  
- - Chicken Dumpling Soup  
+ - Cream of Chicken & Wild Rice Soup  
+ - Diced Chicken  
   
 In description:   
  - Great Greens  
@@ -158,6 +159,7 @@ In name:
   
 **curry**  
 In name:   
+ - Soup Coconut Curry Cauliflower  
   
 In description:   
  - Chicken Korma  
