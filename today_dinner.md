@@ -1,6 +1,6 @@
 # 2025-01-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-29 15:09:51  
+Updated at: 2025-01-29 18:50:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-29)  
 **Tuna**  
 In name:   
@@ -127,6 +127,10 @@ In name:
 In name:   
  - BBQ Pork Sandwich  
   
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
 **Salmon**  
 In name:   
  - Grilled Sesame Ginger Salmon  
@@ -158,7 +162,6 @@ In description:
   
 **chicken**  
 In name:   
- - Lemon Pepper Chicken Salad  
  - Beef & Chicken Meatballs  
  - Chicken Drumstick Teriyaki Glazed  
  - Chicken Wings Boneless Plain  
