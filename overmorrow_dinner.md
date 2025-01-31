@@ -1,6 +1,6 @@
 # 2025-02-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-30 15:10:27  
+Updated at: 2025-01-30 18:52:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-01)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-02-01)  
 **watermelon**  
@@ -65,20 +65,10 @@ In name:
   
 **beef**  
 In name:   
- - Roast Beef  
- - Pork & Beef Hard Salami  
  - Beef Taco Meat  
   
 In description:   
  - Grilled Cheeseburger  
-  
-**pork**  
-In name:   
- - Pork & Beef Hard Salami  
-  
-In description:   
- - Smoked Ham  
- - Bacon  
   
 **chicken**  
 In name:   
