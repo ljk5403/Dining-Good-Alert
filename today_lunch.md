@@ -1,6 +1,6 @@
 # 2025-01-31 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-31 06:19:30  
+Updated at: 2025-01-31 09:10:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-31)  
 **Chicken Drumstick Gochujang Glazed**  
 In name:   
@@ -136,6 +136,7 @@ In name:
  - Beef Taco Meat  
   
 In description:   
+ - Italian Meat Sauce  
  - Thin Crust Tavern Style Pepperoni Pizza  
   
 **pork**  
