@@ -1,6 +1,6 @@
 # 2025-01-31 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-30 18:51:51  
+Updated at: 2025-01-30 21:12:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-31)  
 **clam**  
 In name:   
@@ -170,10 +170,6 @@ In name:
 In description:   
  - Clam Chowder  
   
-**Tuna**  
-In name:   
- - Tuna Salad  
-  
 **beef**  
 In name:   
  - Beef Fajita Meat  
@@ -192,6 +188,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Grilled Chicken Sandwich  
  - Protein - Chicken Thinly Sliced  
   
