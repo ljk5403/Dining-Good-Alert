@@ -1,11 +1,7 @@
-# 2025-01-31 lunch  
+# 2025-01-31 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-31 03:11:09  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-31)  
-**Chicken Drumstick Gochujang Glazed**  
-In name:   
- - Chicken Drumstick Gochujang Glazed  
-  
+Updated at: 2025-01-31 03:11:11  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-01-31)  
 **clam**  
 In name:   
  - Clam Chowder  
@@ -16,24 +12,25 @@ In name:
   
 **Cod**  
 In name:   
- - Battered Cod Fillet Sandwich  
- - Miso Cod  
   
 In description:   
  - Clam Chowder  
   
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad  
+  
+**catfish**  
+In name:   
+ - Blackened Catfish  
+  
 **fish**  
 In name:   
-  
-In description:   
- - Miso Cod  
-  
-**curry**  
-In name:   
- - Seitan & Coconut Thai Curry  
+ - Blackened Catfish  
   
 **beef**  
 In name:   
+ - Beef Bulgogi Bao Bun  
  - Beef Taco Meat  
   
 In description:   
@@ -41,62 +38,61 @@ In description:
   
 **pork**  
 In name:   
- - Pork Potsticker w/Fried White Rice  
   
 In description:   
+ - Andouille Sausage  
+ - Chorizo Sauce  
  - Pizza Slice Sausage  
  - Pizza Slice Meat Lovers w/ Bacon  
  - Clam Chowder  
- - Chorizo Sauce  
   
 **chicken**  
 In name:   
- - Chicken Drumstick Gochujang Glazed  
- - Lemon Pepper Chicken Salad  
- - Chicken Tinga  
  - Diced Chicken Breast  
+ - Crispy Chicken Sandwich  
+ - VN Sand Chicken Paradise  
+ - Chicken Tinga  
   
 In description:   
+ - Chorizo Sauce  
  - Pizza Slice Meat Lovers w/ Bacon  
  - Great Greens  
- - Chorizo Sauce  
   
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-01-31)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-01-31)  
 **watermelon**  
 In name:   
  - Melon Watermelon Whole Sliced  
   
+**fish**  
+In name:   
+ - Vegan Fish Sandwich  
+  
 **beef**  
 In name:   
- - Beef Taco Meat  
- - Garlic Herb Roast Beef  
+ - Halal Beef Hamburger  
   
 In description:   
  - Station Recipe - Liz - Deli  AYCTE  
   
 **pork**  
 In name:   
- - Grilled Pork Potstickers  
   
 In description:   
  - Station Recipe - Liz - Deli  AYCTE  
   
 **chicken**  
 In name:   
- - Chicken Tinga  
- - Chipotle BBQ Chicken Sandwich  
+ - Chicken Honey Lime w/ rice  
  - Lemon Pepper Chicken Salad  
   
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-01-31)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-01-31)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
   
-**steak**  
+**Pepper, Onion, & Mushroom Saute**  
 In name:   
-  
-In description:   
- - Montreal Chicken  
+ - Pepper, Onion, & Mushroom Saute  
   
 **clam**  
 In name:   
@@ -105,25 +101,24 @@ In name:
 **Shrimp**  
 In name:   
  - Sauteed Shrimp  
+ - Redhook Ale Shrimp Basket  
   
 **Cod**  
 In name:   
- - Battered Cod  
   
 In description:   
  - Clam Chowder  
   
 **catfish**  
 In name:   
- - Blackened Catfish Po-Boy Sandwich  
+ - Blackened Catfish  
   
 **fish**  
 In name:   
- - Blackened Catfish Po-Boy Sandwich  
+ - Blackened Catfish  
   
 **curry**  
 In name:   
- - Indian Vegetable Curry  
  - Coconut Tofu w/Red Curry Sauce  
  - Beef Bombay Curry  
  - Curry Potatoes  
@@ -140,21 +135,22 @@ In description:
   
 **pork**  
 In name:   
+ - French Market Pork Jambalaya  
   
 In description:   
  - Clam Chowder  
   
 **chicken**  
 In name:   
- - Montreal Chicken  
  - Beef & Chicken Meatballs  
  - Chicken Sausage Patties  
   
 In description:   
+ - French Market Pork Jambalaya  
  - Thin Crust Tavern Style Pepperoni Pizza  
  - Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-01-31)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-01-31)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
@@ -169,6 +165,7 @@ In name:
   
 **Cod**  
 In name:   
+ - Baked Cod Fillet w/Butter & Lemon  
   
 In description:   
  - Clam Chowder  
@@ -176,37 +173,35 @@ In description:
 **beef**  
 In name:   
  - Beef Fajita Meat  
- - Roast Beef  
- - Pork & Beef Hard Salami  
  - Beef Taco Meat  
  - Protein - Beef Thinly Sliced  
   
 In description:   
- - Mushroom Swiss Burger  
  - Vegan Taco Filling  
   
 **pork**  
 In name:   
- - Chicken Grilled Cordon Bleu (Pork)  
- - Pork & Beef Hard Salami  
+ - Smoked Pork Rib  
   
 In description:   
- - Smoked Ham  
- - Bacon  
  - Clam Chowder  
   
 **chicken**  
 In name:   
- - Chicken Grilled Cordon Bleu (Pork)  
  - Lemon Pepper Chicken Salad  
+ - Grilled Chicken Sandwich  
  - Protein - Chicken Thinly Sliced  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
  - Station Recipe - Great Greens - FLM  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-01-31)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-01-31)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-01-31)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-01-31)  
+**BBQ Pork Sandwich**  
+In name:   
+ - Carolina BBQ Pork Sandwich  
+  
 **clam**  
 In name:   
  - Clam Chowder  
@@ -216,24 +211,22 @@ In name:
   
 In description:   
  - Clam Chowder  
- - Pesce Al'acqua Pazza - Testing 24  
   
-**curry**  
+**fish**  
 In name:   
   
 In description:   
- - Tikka Masala Chicken  
- - Chana Saag w/ Tofu  
+ - Crab Rangoon  
   
 **beef**  
 In name:   
- - Beef & Tater Tot Bake  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
   
 **pork**  
 In name:   
+ - Carolina BBQ Pork Sandwich  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
@@ -241,7 +234,7 @@ In description:
   
 **chicken**  
 In name:   
- - Tikka Masala Chicken  
+ - General Tso's Chicken  
   
 In description:   
  - Great Greens  
