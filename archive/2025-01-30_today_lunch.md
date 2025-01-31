@@ -1,6 +1,6 @@
 # 2025-01-31 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-31 09:10:42  
+Updated at: 2025-01-31 12:14:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-31)  
 **Chicken Drumstick Gochujang Glazed**  
 In name:   
@@ -217,21 +217,23 @@ In name:
   
 In description:   
  - Clam Chowder  
- - Pesce Al'acqua Pazza - Testing 24  
+ - Pesce Al'acqua Pazza  
   
 **curry**  
 In name:   
+ - Vegan Curry Stew  
+ - Beef Bombay Curry  
   
 In description:   
  - Tikka Masala Chicken  
- - Chana Saag w/ Tofu  
   
 **beef**  
 In name:   
- - Beef & Tater Tot Bake  
+ - Beef Bombay Curry  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
+ - Bigos (Hunters Stew)  
   
 **pork**  
 In name:   
@@ -239,6 +241,7 @@ In name:
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
  - Clam Chowder  
+ - Bigos (Hunters Stew)  
   
 **chicken**  
 In name:   
