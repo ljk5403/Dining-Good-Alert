@@ -1,6 +1,6 @@
 # 2025-01-31 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-01-31 12:14:03  
+Updated at: 2025-01-31 15:09:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-01-31)  
 **Chicken Drumstick Gochujang Glazed**  
 In name:   
@@ -41,7 +41,6 @@ In description:
   
 **pork**  
 In name:   
- - Pork Potsticker w/Fried White Rice  
   
 In description:   
  - Pizza Slice Sausage  
