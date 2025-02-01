@@ -1,6 +1,6 @@
 # 2025-02-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-01 09:10:51  
+Updated at: 2025-02-01 12:12:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-01)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-02-01)  
 **watermelon**  
@@ -26,8 +26,13 @@ In name:
 In name:   
  - Tilapia Veracruz  
   
+**curry**  
+In name:   
+ - Beef Bombay Curry  
+  
 **beef**  
 In name:   
+ - Beef Bombay Curry  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
