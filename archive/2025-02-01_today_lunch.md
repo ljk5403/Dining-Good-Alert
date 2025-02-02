@@ -1,6 +1,6 @@
 # 2025-02-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-02 09:10:48  
+Updated at: 2025-02-02 12:13:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-02)  
 **steak**  
 In name:   
@@ -45,12 +45,17 @@ In description:
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-02-02)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-02-02)  
+**curry**  
+In name:   
+ - Thai Chick'n w/ Green Curry Sauce (CN)  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
 In description:   
+ - Bratwurst  
  - Thin Crust Tavern Style Pepperoni Pizza  
  - Vegan Taco Filling  
   
@@ -61,13 +66,14 @@ In name:
  - Pork Carnita  
   
 In description:   
+ - Bratwurst  
  - Thin Crust Tavern Style Sausage Pizza  
   
 **chicken**  
 In name:   
  - Chicken Jollof Rice (Contains Pork)  
  - Beef & Chicken Meatballs  
- - Giardiniera Chicken  
+ - Diced Chicken  
  - Chicken Sausage Patties  
  - Crispy Chicken Sandwich  
  - Lemon Chicken Rice Soup  
