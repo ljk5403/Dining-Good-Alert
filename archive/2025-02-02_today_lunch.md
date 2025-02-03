@@ -1,6 +1,6 @@
 # 2025-02-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-03 09:11:04  
+Updated at: 2025-02-03 12:14:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-03)  
 **Shrimp**  
 In name:   
@@ -82,6 +82,7 @@ In description:
 In name:   
  - Beef Vindaloo  
  - Beef & Chicken Meatballs  
+ - Beef  
  - Beef Taco Meat  
   
 **pork**  
@@ -97,6 +98,7 @@ In name:
  - Beef & Chicken Meatballs  
  - Chicken Tenders Breaded  
  - Plant-Based Chicken Nuggets (6)  
+ - Chicken  
  - Chicken Tinga  
  - Chicken Noodle Soup  
   
@@ -105,15 +107,11 @@ In name:
 In name:   
  - Watermelon Slices  
   
-**Tuna**  
-In name:   
- - Tuna Salad  
-  
 **fish**  
 In name:   
   
 In description:   
- - California Roll  (FujiSan)  
+ - Tempura Roll (FujiSan)  
   
 **lamb**  
 In name:   
@@ -138,6 +136,7 @@ In name:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Chicken Noodle Soup  
   
 In description:   
@@ -199,6 +198,7 @@ In name:
  - Chicken Tinga  
  - Chicken Noodle Soup  
  - Brazilian Chicken w/ Salsa Vinaigrette  
+ - Irish Roast Chicken w/Leeks and Bacon  
   
 In description:   
  - Great Greens  
