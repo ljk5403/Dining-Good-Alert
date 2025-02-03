@@ -1,6 +1,6 @@
 # 2025-02-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-02 12:13:14  
+Updated at: 2025-02-02 15:08:52  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-02)  
 **beef**  
 In name:   
@@ -39,9 +39,16 @@ In name:
  - Philly Cheesesteak Sandwich  
  - Tempeh Philly Cheesesteak Sandwich  
   
+**catfish**  
+In name:   
+ - Blackened Catfish  
+  
+**fish**  
+In name:   
+ - Blackened Catfish  
+  
 **beef**  
 In name:   
- - Beef Tortellini and Sauce  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
@@ -60,6 +67,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Lemon Chicken Rice Soup  
