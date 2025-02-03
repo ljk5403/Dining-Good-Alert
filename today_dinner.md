@@ -1,6 +1,6 @@
 # 2025-02-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-02 18:52:45  
+Updated at: 2025-02-02 21:14:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-02)  
 **beef**  
 In name:   
@@ -39,13 +39,9 @@ In name:
  - Philly Cheesesteak Sandwich  
  - Tempeh Philly Cheesesteak Sandwich  
   
-**catfish**  
+**Tilapia**  
 In name:   
- - Blackened Catfish  
-  
-**fish**  
-In name:   
- - Blackened Catfish  
+ - Blackened Tilapia  
   
 **beef**  
 In name:   
