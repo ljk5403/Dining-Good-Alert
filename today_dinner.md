@@ -1,6 +1,6 @@
 # 2025-02-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-03 06:20:24  
+Updated at: 2025-02-03 09:11:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-03)  
 **steak**  
 In name:   
@@ -12,14 +12,12 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Pork Bangers & Mash Plate  
  - Italian Meat Sauce  
  - Pizza Slice Deluxe  
  - Philly Cheesesteak Sandwich  
   
 **pork**  
 In name:   
- - Pork Bangers & Mash Plate  
  - Italian Pork Sausage  
   
 In description:   
@@ -28,8 +26,6 @@ In description:
   
 **chicken**  
 In name:   
- - Plant-Based Chicken & Dumplings  
- - Chicken Breast w/Red Pepper Cream  
  - Chicken  
  - Chicken Tinga  
  - Chicken Noodle Soup  
