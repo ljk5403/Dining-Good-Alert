@@ -1,6 +1,6 @@
 # 2025-02-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-03 06:20:19  
+Updated at: 2025-02-03 09:11:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-03)  
 **Shrimp**  
 In name:   
@@ -118,20 +118,19 @@ In description:
 **lamb**  
 In name:   
  - Lamb & Beef Gyro Sandwich  
- - Lamb Vindaloo  
   
 **curry**  
 In name:   
  - Curry Potatoes  
   
 In description:   
- - Lamb Vindaloo  
  - Vegetable Korma  
   
 **beef**  
 In name:   
  - 1849 BBQ Beef Brisket Sliders  
  - Lamb & Beef Gyro Sandwich  
+ - Beef Vindaloo  
   
 **pork**  
 In name:   
