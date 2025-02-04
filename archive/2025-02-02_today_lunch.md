@@ -1,6 +1,6 @@
 # 2025-02-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-03 12:14:30  
+Updated at: 2025-02-03 15:10:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-03)  
 **Shrimp**  
 In name:   
@@ -75,9 +75,6 @@ In name:
 In name:   
  - Mixed Vegetable Curry  
   
-In description:   
- - Chicken Tikka Masala  
-  
 **beef**  
 In name:   
  - Beef Vindaloo  
@@ -94,7 +91,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Tikka Masala  
  - Beef & Chicken Meatballs  
  - Chicken Tenders Breaded  
  - Plant-Based Chicken Nuggets (6)  
