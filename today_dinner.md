@@ -1,6 +1,6 @@
 # 2025-02-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-03 18:51:43  
+Updated at: 2025-02-03 21:13:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-03)  
 **catfish**  
 In name:   
@@ -16,11 +16,13 @@ In name:
  - Beef Taco Meat  
   
 In description:   
+ - Pork Bangers & Mash Plate  
  - Italian Meat Sauce  
  - Pizza Slice Deluxe  
   
 **pork**  
 In name:   
+ - Pork Bangers & Mash Plate  
  - Italian Pork Sausage  
   
 In description:   
@@ -29,6 +31,8 @@ In description:
   
 **chicken**  
 In name:   
+ - Plant-Based Chicken & Dumplings  
+ - Chicken Breast w/Red Pepper Cream  
  - Chicken  
  - Chicken Tinga  
  - Chicken Noodle Soup  
@@ -107,15 +111,10 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**Salmon**  
-In name:   
- - Smoked Salmon  
-  
 **fish**  
 In name:   
   
 In description:   
- - Smoked Salmon  
  - Coconut Thai Curry Mahi Mahi  
   
 **curry**  
@@ -136,6 +135,7 @@ In name:
 In name:   
  - Lemon Pepper Chicken Salad  
  - Crispy Buffalo Chicken Sandwich  
+ - Chicken Piece Seasoned Baked  
  - Chicken Noodle Soup  
   
 In description:   

@@ -1,6 +1,6 @@
 # 2025-02-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-03 15:10:04  
+Updated at: 2025-02-03 18:51:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-03)  
 **catfish**  
 In name:   
@@ -78,7 +78,6 @@ In name:
   
 **beef**  
 In name:   
- - Traditional Beef Shepard's Pie  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
@@ -87,6 +86,7 @@ In description:
   
 **pork**  
 In name:   
+ - Roasted Pork Loin  
  - Italian Pork Sausage  
   
 In description:   
@@ -97,6 +97,7 @@ In name:
  - Beef & Chicken Meatballs  
  - Chicken Tinga  
  - Chicken Noodle Soup  
+ - Chicken Sausage Patties  
   
 In description:   
  - Great Greens  
@@ -105,10 +106,6 @@ In description:
 **watermelon**  
 In name:   
  - Watermelon Slices  
-  
-**Tuna**  
-In name:   
- - Tuna Salad  
   
 **Salmon**  
 In name:   
@@ -120,7 +117,6 @@ In name:
 In description:   
  - Smoked Salmon  
  - Coconut Thai Curry Mahi Mahi  
- - California Roll  (FujiSan)  
   
 **curry**  
 In name:   
@@ -138,6 +134,7 @@ In name:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Crispy Buffalo Chicken Sandwich  
  - Chicken Noodle Soup  
   
