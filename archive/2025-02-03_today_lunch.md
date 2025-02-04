@@ -1,6 +1,6 @@
 # 2025-02-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-04 03:11:25  
+Updated at: 2025-02-04 06:20:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-04)  
 **curry**  
 In name:   
@@ -100,9 +100,6 @@ In name:
  - Mediterranean Chicken  
  - Pizza Slice Chicken Bacon Ranch  
  - Chicken Sausage Patties  
-  
-In description:   
- - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-02-04)  
 **watermelon**  
