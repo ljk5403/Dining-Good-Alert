@@ -1,6 +1,6 @@
 # 2025-02-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-04 15:10:08  
+Updated at: 2025-02-04 18:52:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-04)  
 **curry**  
 In name:   
@@ -108,10 +108,6 @@ In name:
 In name:   
  - Build Your Own Poke Bar  
   
-**Tuna**  
-In name:   
- - Tuna Salad  
-  
 **beef**  
 In name:   
  - Big Texan Beef Sandwich (Half)  
@@ -127,6 +123,7 @@ In name:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Italian Chicken  
  - Greek Chicken  
  - Chicken Gravy  
