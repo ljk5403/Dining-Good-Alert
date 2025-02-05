@@ -1,6 +1,6 @@
 # 2025-02-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-05 09:11:12  
+Updated at: 2025-02-05 12:15:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-05)  
 **beef**  
 In name:   
@@ -23,7 +23,7 @@ In description:
 **chicken**  
 In name:   
  - Teriyaki Chicken Fillet  
- - Spicy Lo Mein w/Chicken  
+ - Lemon Pepper Chicken Salad  
  - Fajita Chicken  
  - Chicken Tortilla Soup  
   
@@ -124,10 +124,6 @@ In name:
 In name:   
  - Build Your Own Poke Bar  
   
-**Tuna**  
-In name:   
- - Tuna Salad  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
@@ -146,6 +142,7 @@ In description:
 In name:   
  - Chicken Pot Pie w/ Biscuit  
  - Beef & Chicken Meatballs  
+ - Lemon Pepper Chicken Salad  
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
  - Chicken Tortilla Soup  
@@ -218,7 +215,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Tortilla Soup  
+ - Chicken Noodle Soup  
  - Chicken Bruschetta Sandwich  
   
 In description:   
