@@ -1,6 +1,6 @@
 # 2025-02-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-05 12:15:02  
+Updated at: 2025-02-05 15:10:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-05)  
 **Cod**  
 In name:   
@@ -112,6 +112,7 @@ In description:
   
 **beef**  
 In name:   
+ - Traditional Beef Shepard's Pie  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
  - Beef French Dip Sandwich  
@@ -123,7 +124,6 @@ In description:
   
 **pork**  
 In name:   
- - Roasted Pork Loin  
  - Italian Pork Sausage  
  - Pork Carnita  
   
