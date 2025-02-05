@@ -1,6 +1,6 @@
 # 2025-02-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-04 18:52:09  
+Updated at: 2025-02-04 21:14:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-04)  
 **curry**  
 In name:   
@@ -14,24 +14,17 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice  
- - Baked Corn Dog  
-  
-**pork**  
-In name:   
-  
-In description:   
- - Baked Corn Dog  
   
 **chicken**  
 In name:   
  - Bulgogi Chicken  
  - Beef & Chicken Meatballs  
  - Plant Based Chicken Strips  
+ - Crispy Chicken Sandwich  
  - Tandoori Chicken  
   
 In description:   
  - Pepperoni Pizza Slice  
- - Baked Corn Dog  
  - Great Greens  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-02-04)  
