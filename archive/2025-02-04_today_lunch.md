@@ -1,9 +1,14 @@
 # 2025-02-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-05 12:15:00  
+Updated at: 2025-02-05 15:10:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-05)  
+**curry**  
+In name:   
+ - Beef Bombay Curry  
+  
 **beef**  
 In name:   
+ - Beef Bombay Curry  
  - Beef Barbacoa  
  - Beef Taco Meat  
  - Beef Pasta Tortellini  
@@ -24,6 +29,7 @@ In description:
 In name:   
  - Teriyaki Chicken Fillet  
  - Lemon Pepper Chicken Salad  
+ - Spicy Lo Mein w/Chicken  
  - Fajita Chicken  
  - Chicken Tortilla Soup  
   
