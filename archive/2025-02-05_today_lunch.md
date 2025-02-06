@@ -1,6 +1,6 @@
 # 2025-02-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-06 06:20:52  
+Updated at: 2025-02-06 11:58:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-06)  
 **Cod**  
 In name:   
@@ -69,6 +69,10 @@ In name:
  - Lemon Pepper Chicken Salad  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-02-06)  
+**steak**  
+In name:   
+ - Spicy Steak Fajita  
+  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
@@ -82,12 +86,12 @@ In description:
  - French Fry Bar  
  - Pizza Slice - Bacon Cheeseburger  
  - Grilled Cheeseburger  
+ - Spicy Steak Fajita  
   
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
- - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-02-06)  
