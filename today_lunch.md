@@ -1,7 +1,11 @@
 # 2025-02-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-06 12:14:38  
+Updated at: 2025-02-06 15:10:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-06)  
+**Tandoori Chicken**  
+In name:   
+ - Tandoori Chicken  
+  
 **Cod**  
 In name:   
  - Caribbean Cod  
@@ -19,7 +23,6 @@ In name:
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
- - Reuben  
   
 **pork**  
 In name:   
@@ -30,6 +33,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Tandoori Chicken  
  - Mediterranean Chicken  
  - Chicken Dumpling Soup  
  - Beef & Chicken Meatballs  
@@ -181,15 +185,11 @@ In description:
  - Great Greens  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-02-06)  
-**Salmon**  
-In name:   
- - Ginger Glazed Salmon  
-  
-**fish**  
+**Cod**  
 In name:   
   
 In description:   
- - Ginger Glazed Salmon  
+ - Pesce Al'acqua Pazza - Testing 24  
   
 **beef**  
 In name:   
