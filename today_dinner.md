@@ -1,6 +1,6 @@
 # 2025-02-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-05 18:52:17  
+Updated at: 2025-02-05 21:14:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-05)  
 **Cod**  
 In name:   
@@ -104,10 +104,6 @@ In name:
 In name:   
  - Watermelon Slices  
   
-**steak**  
-In name:   
- - Country Fried Steak  
-  
 **fish**  
 In name:   
   
@@ -122,12 +118,12 @@ In name:
  - Beef French Dip Sandwich  
   
 In description:   
- - Country Fried Steak  
  - Italian Meat Sauce  
  - Vegan Taco Filling  
   
 **pork**  
 In name:   
+ - Jerk Pork Chop  
  - Italian Pork Sausage  
  - Pork Carnita  
   

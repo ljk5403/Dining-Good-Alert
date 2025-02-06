@@ -1,6 +1,6 @@
 # 2025-02-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-05 15:10:23  
+Updated at: 2025-02-05 18:52:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-05)  
 **Cod**  
 In name:   
@@ -16,9 +16,12 @@ In description:
 In name:   
  - Beef Alicha  
  - Beef Pasta Tortellini  
+ - Beef Barbacoa  
+ - Beef Taco Meat  
   
 In description:   
  - Pepperoni & Mushrooms Pizza  
+ - Vegan Taco Filling  
   
 **pork**  
 In name:   
@@ -30,6 +33,7 @@ In description:
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
+ - Chicken Tinga  
  - Chicken Tortilla Soup  
   
 In description:   
@@ -151,10 +155,6 @@ In name:
 In name:   
  - Build Your Own Poke Bar  
   
-**Tuna**  
-In name:   
- - Tuna Salad  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
@@ -165,6 +165,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Beef & Chicken Meatballs  
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
