@@ -1,6 +1,6 @@
 # 2025-02-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-07 06:20:00  
+Updated at: 2025-02-07 09:10:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-07)  
 **steak**  
 In name:   
@@ -140,14 +140,13 @@ In name:
 In name:   
   
 In description:   
- - Pizza Slice Chicken Cordon Bleu  
+ - Pizza Slice Hawaiian  
  - Clam Chowder  
   
 **chicken**  
 In name:   
  - Honey Lime Chicken Breast  
  - Beef & Chicken Meatballs  
- - Pizza Slice Chicken Cordon Bleu  
  - Chicken Sausage Patties  
  - Chicken Tikka Masala  
   
@@ -224,13 +223,10 @@ In name:
   
 **Cod**  
 In name:   
+ - Baked Lemon Butter Cod  
   
 In description:   
  - Clam Chowder  
-  
-**Tilapia**  
-In name:   
- - Crispy Chipotle Tilapia w/Avocado Puree  
   
 **beef**  
 In name:   
