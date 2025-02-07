@@ -1,6 +1,6 @@
 # 2025-02-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-06 12:14:42  
+Updated at: 2025-02-06 15:10:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-06)  
 **Salmon**  
 In name:   
@@ -93,6 +93,7 @@ In name:
   
 In description:   
  - Rosemary Cabernet Flank Steak  
+ - Pepperoni Pizza Slice  
  - Pizza Slice - Bacon Cheeseburger  
   
 **pork**  
@@ -110,6 +111,7 @@ In name:
  - Chicken Dumpling Soup  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-02-06)  
