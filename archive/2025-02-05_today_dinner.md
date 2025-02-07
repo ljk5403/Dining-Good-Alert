@@ -1,6 +1,6 @@
 # 2025-02-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-06 15:10:08  
+Updated at: 2025-02-06 18:52:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-06)  
 **Salmon**  
 In name:   
@@ -90,6 +90,7 @@ In name:
 In name:   
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
+ - Beef Fajita Meat  
   
 In description:   
  - Rosemary Cabernet Flank Steak  
@@ -107,7 +108,6 @@ In name:
  - Blackened Chicken  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
- - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
   
 In description:   

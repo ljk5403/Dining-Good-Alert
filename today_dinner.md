@@ -1,6 +1,6 @@
 # 2025-02-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-06 18:52:30  
+Updated at: 2025-02-06 21:15:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-06)  
 **Salmon**  
 In name:   
@@ -80,11 +80,15 @@ In name:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-02-06)  
 **steak**  
 In name:   
- - Rosemary Cabernet Flank Steak  
+ - Brazilian Flank Steak  
   
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
+  
+**Tilapia**  
+In name:   
+ - Blackened Tilapia  
   
 **beef**  
 In name:   
@@ -93,7 +97,7 @@ In name:
  - Beef Fajita Meat  
   
 In description:   
- - Rosemary Cabernet Flank Steak  
+ - Brazilian Flank Steak  
  - Pepperoni Pizza Slice  
  - Pizza Slice - Bacon Cheeseburger  
   
@@ -105,7 +109,6 @@ In description:
   
 **chicken**  
 In name:   
- - Blackened Chicken  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Chicken Dumpling Soup  
