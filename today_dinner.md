@@ -1,6 +1,6 @@
 # 2025-02-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-07 15:09:38  
+Updated at: 2025-02-07 18:50:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-07)  
 **drumstick**  
 In name:   
@@ -48,6 +48,7 @@ In description:
 In name:   
  - Chicken Drumstick Teriyaki Glazed  
  - Diced Chicken Breast  
+ - Lemon Pepper Chicken Salad  
  - Dan Dan w/ Chicken  
  - Fajita Chicken  
   
@@ -113,15 +114,16 @@ In name:
   
 **curry**  
 In name:   
+ - Beef Bombay Curry  
  - Curry Potatoes  
   
 In description:   
- - Chicken Tikka Masala  
  - Tofu & Vegetable Tikka Masala  
   
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
+ - Beef Bombay Curry  
  - Beef Barbacoa  
  - Beef Taco Meat  
   
@@ -129,15 +131,13 @@ In name:
 In name:   
   
 In description:   
- - Pizza Slice Chicken Cordon Bleu  
+ - Pizza Slice Hawaiian  
  - Clam Chowder  
   
 **chicken**  
 In name:   
  - Brazilian Chicken w/ Salsa Vinaigrette  
  - Beef & Chicken Meatballs  
- - Pizza Slice Chicken Cordon Bleu  
- - Chicken Tikka Masala  
  - Chicken Sausage Patties  
   
 In description:   
