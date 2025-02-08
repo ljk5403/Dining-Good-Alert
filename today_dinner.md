@@ -1,6 +1,6 @@
 # 2025-02-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-07 18:50:51  
+Updated at: 2025-02-07 21:12:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-07)  
 **drumstick**  
 In name:   
@@ -122,6 +122,7 @@ In description:
   
 **beef**  
 In name:   
+ - Italian Beef Sandwich  
  - Beef & Chicken Meatballs  
  - Beef Bombay Curry  
  - Beef Barbacoa  
@@ -136,7 +137,6 @@ In description:
   
 **chicken**  
 In name:   
- - Brazilian Chicken w/ Salsa Vinaigrette  
  - Beef & Chicken Meatballs  
  - Chicken Sausage Patties  
   
