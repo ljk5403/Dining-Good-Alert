@@ -1,29 +1,44 @@
-# 2025-02-08 lunch  
+# 2025-02-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-08 21:15:27  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-08)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-02-08)  
-**watermelon**  
+Updated at: 2025-02-09 00:13:50  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-09)  
+**Tuna**  
 In name:   
- - Melon Watermelon Whole Sliced  
+ - Lemon Pepper Tuna Salad  
   
-**pork**  
+**beef**  
 In name:   
+ - Beef French Dip Sandwich  
+ - Beef Barbacoa  
+ - Beef Taco Meat  
   
 In description:   
- - Lumberjack Bowl w/Bacon  
+ - Pepperoni Pizza Slice  
+ - Vegan Taco Filling  
   
 **chicken**  
 In name:   
- - Grilled Buffalo Chicken Sandwich  
- - Chicken Sausage Patty  
- - Cream of Chicken & Wild Rice Soup  
- - Lemon Pepper Chicken Salad  
+ - Chicken & Penne w/ Pesto Creme  
+ - Fajita Chicken  
+ - Lemon Chicken Rice Soup  
   
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-02-08)  
-**drumstick**  
+In description:   
+ - Pepperoni Pizza Slice  
+ - Great Greens  
+  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-02-09)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-02-09)  
+**watermelon**  
 In name:   
- - Chicken Drumstick BBQ Glazed  
+ - Watermelon Slices  
+  
+**steak**  
+In name:   
+ - Plant-Based Pepper Steak Stir Fry  
+  
+**Shrimp**  
+In name:   
+ - Coconut Shrimp  
   
 **beef**  
 In name:   
@@ -31,36 +46,34 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Thin Crust Tavern Style Pepperoni Pizza  
+ - Plant-Based Pepper Steak Stir Fry  
+ - Pepperoni Pizza Slice  
+ - Fired Up Burger  
+ - Vegan Taco Filling  
   
 **pork**  
 In name:   
- - Italian Pork Sausage  
+ - Jerk Pork Chop  
+ - Pork Carnita  
   
 In description:   
- - Thin Crust Tavern Style Sausage Pizza  
+ - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
- - Chicken Drumstick BBQ Glazed  
  - Beef & Chicken Meatballs  
- - Lemon Pepper Chicken Salad  
- - Crispy Buffalo Chicken Sandwich  
- - Chicken Tinga  
- - Cream of Chicken & Wild Rice Soup  
+ - Giardiniera Chicken  
+ - Chicken Sausage Patties  
+ - Lemon Chicken Rice Soup  
   
 In description:   
- - Thin Crust Tavern Style Pepperoni Pizza  
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-02-08)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-02-09)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
-  
-**steak**  
-In name:   
- - Philly Cheesesteak Sandwich  
   
 **Tuna**  
 In name:   
@@ -68,20 +81,63 @@ In name:
   
 **beef**  
 In name:   
+ - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
 In description:   
- - Philly Cheesesteak Sandwich  
+ - Corn Dog  
+  
+**pork**  
+In name:   
+ - Pork Sausage Links  
+ - Pork Carnita  
+  
+In description:   
+ - Corn Dog  
   
 **chicken**  
 In name:   
- - Giardiniera Chicken  
- - Diced Chicken  
- - Cream of Chicken & Wild Rice Soup  
+ - Chicken Sausage Patty  
+ - Beef & Chicken Meatballs  
+ - Plant Based Chicken Strips  
+ - Lemon Chicken Rice Soup  
   
 In description:   
+ - Corn Dog  
  - Station Recipe - Great Greens - FLM  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-02-08)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-02-08)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-02-09)  
+**fish**  
+In name:   
+  
+In description:   
+ - Vietnamese Pork with Rice  
+  
+**beef**  
+In name:   
+  
+In description:   
+ - Pizza Slice Sausage & Pepperoni  
+ - Mushroom Swiss Burger  
+  
+**pork**  
+In name:   
+ - Vietnamese Pork with Rice  
+ - Pork Sausage Patty  
+  
+In description:   
+ - Pizza Slice Sausage & Pepperoni  
+ - Bacon, Egg & Cheese Bagel  
+  
+**chicken**  
+In name:   
+ - Maple Cider Chicken  
+ - Pizza Slice Chicken Bacon Ranch  
+ - Lemon Chicken Rice Soup  
+  
+In description:   
+ - Pizza Slice Sausage & Pepperoni  
+ - Great Greens  
+  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-02-09)  
   
