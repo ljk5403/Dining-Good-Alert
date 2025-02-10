@@ -1,11 +1,7 @@
 # 2025-02-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-10 09:11:50  
+Updated at: 2025-02-10 12:14:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-10)  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad  
-  
 **beef**  
 In name:   
  - Texas BBQ Sliced Beef Brisket  
@@ -27,6 +23,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
  - Chicken Noodle Soup  
   
@@ -153,6 +150,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Quesadilla  
  - Beef Tri Tip Carved w/ Chimichurri  
   
 In description:   
@@ -169,7 +167,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Tinga & Scallion Quesadilla  
  - Chicken Noodle Soup  
  - Chicken Biscuit w/ Sausage Gravy  
  - Chicken Sausage Patty  
@@ -193,6 +190,7 @@ In description:
 **pork**  
 In name:   
  - Pizza Slice BBQ Pulled Pork  
+ - Sri Lanka Deviled Pork  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
