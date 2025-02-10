@@ -1,6 +1,6 @@
 # 2025-02-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-10 03:12:30  
+Updated at: 2025-02-10 06:20:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-10)  
 **Tuna**  
 In name:   
@@ -72,10 +72,6 @@ In name:
  - Chicken Noodle Soup  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-02-10)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
 **steak**  
 In name:   
  - Island Spiced Beef Steak  
@@ -106,9 +102,6 @@ In name:
  - Pizza Slice Mediterranean Chicken  
  - Chicken Tinga  
  - Chicken Noodle Soup  
-  
-In description:   
- - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-02-10)  
 **watermelon**  
