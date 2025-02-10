@@ -1,6 +1,6 @@
 # 2025-02-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-10 06:20:45  
+Updated at: 2025-02-10 09:11:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-10)  
 **Tuna**  
 In name:   
@@ -92,16 +92,24 @@ In name:
  - Barbacoa Beef w/Mango Habanero Sandwich  
  - Beef Taco Meat  
   
+In description:   
+ - Pizza Slice Meat Lovers w/ Bacon  
+  
 **pork**  
 In name:   
  - Italian Pork Sausage  
   
+In description:   
+ - Pizza Slice Meat Lovers w/ Bacon  
+  
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
- - Pizza Slice Mediterranean Chicken  
  - Chicken Tinga  
  - Chicken Noodle Soup  
+  
+In description:   
+ - Pizza Slice Meat Lovers w/ Bacon  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-02-10)  
 **watermelon**  
