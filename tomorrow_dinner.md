@@ -1,6 +1,6 @@
 # 2025-02-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-10 15:10:20  
+Updated at: 2025-02-10 18:52:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-11)  
 **Tuna**  
 In name:   
@@ -11,20 +11,16 @@ In name:
   
 In description:   
  - Build Your Own Curry Bowl  
- - Masaman Thai Curry Sauce  
   
 **curry**  
 In name:   
  - Build Your Own Curry Bowl  
- - Red Curry Sauce  
- - Green Curry Sauce  
- - Masaman Thai Curry Sauce  
+ - Build Your Own Curry Bowl - Rhetas  
  - Indian Curry Garbanzo Beans  
  - Curry Potatoes  
   
 **beef**  
 In name:   
- - Beef  
  - Beef & Chicken Meatballs  
  - Poutine w/Beef Gravy  
  - Beef & Bean Chili  
@@ -35,7 +31,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Thigh  
  - Beef & Chicken Meatballs  
  - Plant Based Chicken Strips  
  - Chicken Vindaloo - w/ Rice  
