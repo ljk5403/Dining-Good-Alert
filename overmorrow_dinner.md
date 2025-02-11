@@ -1,6 +1,6 @@
 # 2025-02-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-11 06:22:53  
+Updated at: 2025-02-11 09:12:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-13)  
 **Chicken Drummies**  
 In name:   
@@ -186,6 +186,7 @@ In name:
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
+ - Station Recipe - Carson's Que Rico  
   
 **pork**  
 In name:   
@@ -203,6 +204,7 @@ In name:
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
  - Great Greens  
+ - Station Recipe - Carson's Que Rico  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-02-13)  
 **beef**  
