@@ -1,6 +1,6 @@
 # 2025-02-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-10 18:52:05  
+Updated at: 2025-02-10 21:15:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-10)  
 **drumstick**  
 In name:   
@@ -83,12 +83,12 @@ In description:
 In name:   
  - Herb Crusted Pork Loin  
  - Italian Pork Sausage  
+ - Pork Carnita  
   
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
  - Pizza Slice Mediterranean Chicken  
- - Chicken Tinga  
  - Chicken Noodle Soup  
   
 In description:   
@@ -114,7 +114,6 @@ In name:
   
 **pork**  
 In name:   
- - Italian Pork Sausage  
   
 In description:   
  - Hot Ham Sandwich  
@@ -122,6 +121,7 @@ In description:
 **chicken**  
 In name:   
  - Grilled Chicken Sandwich  
+ - Giardiniera Chicken  
  - Chicken Drumstick BBQ Glazed  
  - Chicken Tinga  
  - Chicken Noodle Soup  

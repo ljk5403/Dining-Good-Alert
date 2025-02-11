@@ -1,6 +1,6 @@
 # 2025-02-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-10 15:10:18  
+Updated at: 2025-02-10 18:52:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-10)  
 **drumstick**  
 In name:   
@@ -139,6 +139,7 @@ In name:
   
 **Shrimp**  
 In name:   
+ - GF & DF Shrimp Scampi w/Garlic/Parsley  
   
 In description:   
  - Poke Bar Carsons (AYCTE)  
@@ -157,16 +158,11 @@ In description:
   
 **beef**  
 In name:   
- - Texas BBQ Sliced Beef Brisket  
+ - Beef Bean & Carrot Stir Fry  
   
 In description:   
  - Pepperoni Pizza Slice  
  - Pizza Slice Cheeseburger  
- - Brazilian Pork Feijoada  
-  
-**pork**  
-In name:   
- - Brazilian Pork Feijoada  
   
 **chicken**  
 In name:   
