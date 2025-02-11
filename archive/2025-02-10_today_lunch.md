@@ -1,6 +1,6 @@
 # 2025-02-11 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-11 06:21:00  
+Updated at: 2025-02-11 09:12:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-11)  
 **Tuna**  
 In name:   
@@ -10,7 +10,7 @@ In name:
 In name:   
  - Chicken Curry  
  - Garbanzo Bean Curry  
- - Indian Curry Garbanzo Beans  
+ - Black Eyed Pea Curry w/ Rice  
  - Curry Potatoes  
   
 **beef**  

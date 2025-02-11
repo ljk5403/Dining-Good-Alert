@@ -1,11 +1,7 @@
 # 2025-02-11 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-11 09:12:07  
+Updated at: 2025-02-11 12:13:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-11)  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad  
-  
 **curry**  
 In name:   
  - Chicken Curry  
@@ -28,6 +24,7 @@ In name:
 **chicken**  
 In name:   
  - Chicken Curry  
+ - Lemon Pepper Chicken Salad  
  - Chicken Vindaloo - w/ Rice  
  - Beef & Chicken Meatballs  
  - Plant Based Chicken Strips  
@@ -125,8 +122,6 @@ In description:
 In name:   
   
 In description:   
- - Pizza Slice Cubano  
- - Pizza Slice Sausage  
  - Thin Crust Tavern Style Sausage Pizza  
   
 **chicken**  
@@ -143,6 +138,10 @@ In description:
 **watermelon**  
 In name:   
  - Watermelon Slices  
+  
+**drumstick**  
+In name:   
+ - Smoked Chicken Drumstick  
   
 **Shrimp**  
 In name:   
@@ -178,7 +177,7 @@ In name:
   
 **chicken**  
 In name:   
- - Smoked Chicken Breast  
+ - Smoked Chicken Drumstick  
  - Grilled Chicken & Cheese Sandwich  
  - Italian Chicken  
  - Bulgogi Chicken  
