@@ -1,6 +1,6 @@
 # 2025-02-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-11 12:13:41  
+Updated at: 2025-02-11 15:10:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-11)  
 **Tuna**  
 In name:   
@@ -88,13 +88,8 @@ In description:
 In name:   
  - Spicy Steak Fajita  
   
-In description:   
- - Montreal Chicken  
-  
 **beef**  
 In name:   
- - Corned Beef  
- - Beef Gravy  
  - Beef & Chicken Meatballs  
  - Beef Bulgogi Bao Bun  
  - Beef Taco Meat  
@@ -111,7 +106,6 @@ In description:
   
 **chicken**  
 In name:   
- - Montreal Chicken  
  - Beef & Chicken Meatballs  
  - Mediterranean Chicken  
  - Chicken Sausage Patties  

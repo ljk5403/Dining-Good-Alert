@@ -1,6 +1,6 @@
 # 2025-02-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-11 12:13:51  
+Updated at: 2025-02-11 15:10:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-12)  
 **Tuna**  
 In name:   
@@ -65,17 +65,9 @@ In name:
 In name:   
  - Watermelon Slices  
   
-**Chicken Drummies**  
-In name:   
- - Chicken Drummies  
-  
 **Shrimp**  
 In name:   
  - Sweet & Sour Shrimp  
-  
-**Cod**  
-In name:   
- - Basque Style Cod  
   
 **fish**  
 In name:   
@@ -107,7 +99,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Drummies  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Plant Based Sweet & Sour Chicken  
