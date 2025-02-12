@@ -1,6 +1,6 @@
 # 2025-02-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-11 18:52:47  
+Updated at: 2025-02-11 21:14:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-13)  
 **Chicken Drummies**  
 In name:   
@@ -202,7 +202,7 @@ In description:
 In name:   
   
 In description:   
- - BYO Mediterranean Sandwich  
+ - Build Your Own Mediterranean Bar  
  - Station Recipe - Deli Lowell AYCTE  
   
 **pork**  
@@ -218,7 +218,7 @@ In name:
  - Chicken Sausage Patty  
   
 In description:   
- - BYO Mediterranean Sandwich  
+ - Build Your Own Mediterranean Bar  
  - Great Greens  
   
   

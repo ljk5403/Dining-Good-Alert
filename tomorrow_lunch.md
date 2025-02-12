@@ -1,6 +1,6 @@
 # 2025-02-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-11 18:52:35  
+Updated at: 2025-02-11 21:14:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-12)  
 **Tuna**  
 In name:   
@@ -203,7 +203,7 @@ In name:
  - Lamb & Beef Gyro Sandwich  
   
 In description:   
- - BYO Mediterranean Sandwich  
+ - Build Your Own Mediterranean Bar  
  - Station Recipe - Deli Lowell AYCTE  
  - Pork Bratwurst Sandwich  
   
@@ -219,7 +219,7 @@ In name:
  - Chicken Tortilla Soup  
   
 In description:   
- - BYO Mediterranean Sandwich  
+ - Build Your Own Mediterranean Bar  
  - Great Greens  
   
   

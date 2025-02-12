@@ -1,6 +1,6 @@
 # 2025-02-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-11 18:52:30  
+Updated at: 2025-02-11 21:14:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-11)  
 **Tuna**  
 In name:   
@@ -86,10 +86,7 @@ In description:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-02-11)  
 **steak**  
 In name:   
- - Spicy Steak Fajita  
-  
-In description:   
- - Montreal Chicken  
+ - Philly Cheesesteak Sandwich  
   
 **beef**  
 In name:   
@@ -99,15 +96,18 @@ In name:
  - Beef & Bean Chili  
   
 In description:   
- - Spicy Steak Fajita  
+ - Philly Cheesesteak Sandwich  
+  
+**pork**  
+In name:   
+ - Herb Crusted Pork Loin  
+ - Pork Carnita  
   
 **chicken**  
 In name:   
- - Montreal Chicken  
  - Beef & Chicken Meatballs  
  - Mediterranean Chicken  
  - Chicken Sausage Patties  
- - Crispy Chicken Sandwich  
   
 In description:   
  - Great Greens  
@@ -212,7 +212,7 @@ In name:
  - Beef & Bean Chili  
   
 In description:   
- - BYO Mediterranean Sandwich  
+ - Build Your Own Mediterranean Bar  
  - Station Recipe - Deli Lowell AYCTE  
  - Country Fried Steak  
   
@@ -226,7 +226,7 @@ In description:
 In name:   
   
 In description:   
- - BYO Mediterranean Sandwich  
+ - Build Your Own Mediterranean Bar  
  - Great Greens  
   
   
