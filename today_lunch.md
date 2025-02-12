@@ -1,6 +1,6 @@
 # 2025-02-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-12 03:11:39  
+Updated at: 2025-02-12 06:20:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-12)  
 **Tuna**  
 In name:   
@@ -75,10 +75,6 @@ In name:
  - Chicken Tortilla Soup  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-02-12)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
 **fish**  
 In name:   
   
@@ -121,7 +117,6 @@ In name:
 In description:   
  - Pepperoni Pizza Slice  
  - Pizza Slice Meat Lovers w/ Bacon  
- - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-02-12)  
 **watermelon**  
