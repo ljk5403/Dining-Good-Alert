@@ -1,6 +1,6 @@
 # 2025-02-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-11 15:10:12  
+Updated at: 2025-02-11 18:52:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-12)  
 **Tuna**  
 In name:   
@@ -65,9 +65,17 @@ In name:
 In name:   
  - Watermelon Slices  
   
+**Chicken Drummies**  
+In name:   
+ - Chicken Drummies  
+  
 **Shrimp**  
 In name:   
  - Sweet & Sour Shrimp  
+  
+**Cod**  
+In name:   
+ - Basque Style Cod  
   
 **fish**  
 In name:   
@@ -83,8 +91,6 @@ In name:
   
 In description:   
  - Italian Meat Sauce  
- - Pepperoni Pizza Slice  
- - Pizza Slice Meat Lovers w/ Bacon  
  - Vegan Taco Filling  
  - Pork Bratwurst Sandwich  
   
@@ -94,11 +100,9 @@ In name:
  - Pork Carnita  
  - Pork Bratwurst Sandwich  
   
-In description:   
- - Pizza Slice Meat Lovers w/ Bacon  
-  
 **chicken**  
 In name:   
+ - Chicken Drummies  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Plant Based Sweet & Sour Chicken  
@@ -107,8 +111,6 @@ In name:
  - Chicken Sausage Patties  
   
 In description:   
- - Pepperoni Pizza Slice  
- - Pizza Slice Meat Lovers w/ Bacon  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-02-12)  

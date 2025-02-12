@@ -1,6 +1,6 @@
 # 2025-02-11 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-11 12:13:35  
+Updated at: 2025-02-11 15:10:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-11)  
 **curry**  
 In name:   
@@ -231,6 +231,9 @@ In description:
 In name:   
  - Curry Cauliflower & Butternut Squash  
   
+In description:   
+ - Madras Chicken w/basmati rice  
+  
 **beef**  
 In name:   
  - Beef Taco Meat  
@@ -249,7 +252,7 @@ In description:
 **chicken**  
 In name:   
  - Chicken Gravy  
- - Huli Huli Chicken  
+ - Madras Chicken w/basmati rice  
   
 In description:   
  - Great Greens  
