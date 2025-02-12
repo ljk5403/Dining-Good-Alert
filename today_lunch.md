@@ -1,11 +1,7 @@
 # 2025-02-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-12 09:12:03  
+Updated at: 2025-02-12 12:14:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-12)  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad  
-  
 **beef**  
 In name:   
  - Beef Barbacoa  
@@ -27,6 +23,7 @@ In description:
 In name:   
  - Chicken Parmigiana  
  - Pizza Slice BBQ Chicken & Bacon  
+ - Lemon Pepper Chicken Salad  
  - Sesame Chicken  
  - Fajita Chicken  
  - Chicken Tortilla Soup  
@@ -182,7 +179,6 @@ In description:
 **chicken**  
 In name:   
  - Chicken Tortilla Soup  
- - Chicken Sausage Patty  
  - Buffalo Chicken Sliders  
   
 In description:   
