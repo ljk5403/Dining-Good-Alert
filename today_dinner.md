@@ -1,10 +1,16 @@
 # 2025-02-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-12 18:52:35  
+Updated at: 2025-02-12 21:14:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-12)  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
+  
+**beef**  
+In name:   
+  
+In description:   
+ - Country Gravy  
   
 **pork**  
 In name:   
@@ -17,7 +23,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Pot Pie w/Biscuit  
  - Pizza Slice BBQ Chicken & Bacon  
  - Chicken Tortilla Soup  
   

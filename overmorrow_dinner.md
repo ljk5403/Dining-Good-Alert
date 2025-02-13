@@ -1,6 +1,6 @@
 # 2025-02-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-12 18:52:44  
+Updated at: 2025-02-12 21:15:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-14)  
 **Poke Bar**  
 In name:   
@@ -63,14 +63,14 @@ In name:
  - Beef & Tater Tot Bake  
   
 In description:   
- - Baked Corn Dog  
+ - Baked Corn Dog (Pork)  
  - Station Recipe - Liz - Deli  AYCTE  
   
 **pork**  
 In name:   
+ - Baked Corn Dog (Pork)  
   
 In description:   
- - Baked Corn Dog  
  - Station Recipe - Liz - Deli  AYCTE  
   
 **chicken**  
@@ -81,7 +81,7 @@ In name:
  - Lemon Pepper Chicken Salad  
   
 In description:   
- - Baked Corn Dog  
+ - Baked Corn Dog (Pork)  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-02-14)  
 **watermelon**  
