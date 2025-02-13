@@ -1,6 +1,6 @@
 # 2025-02-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-12 15:10:10  
+Updated at: 2025-02-12 18:52:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-12)  
 **Tuna**  
 In name:   
@@ -106,7 +106,6 @@ In name:
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Plant Based Sweet & Sour Chicken  
- - Chicken Tinga  
  - Chicken Tortilla Soup  
  - Chicken Sausage Patties  
   
