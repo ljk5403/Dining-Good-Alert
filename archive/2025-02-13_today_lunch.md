@@ -1,6 +1,6 @@
 # 2025-02-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-14 09:11:14  
+Updated at: 2025-02-14 12:14:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-14)  
 **Poke Bar**  
 In name:   
@@ -108,13 +108,11 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Burnt Ends  
  - Italian Meat Sauce  
  - Thin Crust Tavern Style Pepperoni Pizza  
   
 **pork**  
 In name:   
- - Baked Rigatoni w/ Pork Italian Sausage  
   
 In description:   
  - Clam Chowder  
@@ -164,6 +162,7 @@ In name:
 In description:   
  - Masala Spiced Salmon  
  - California Roll  (FujiSan)  
+ - Tempura Roll (FujiSan)  
   
 **curry**  
 In name:   
