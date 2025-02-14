@@ -1,6 +1,6 @@
 # 2025-02-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-14 03:11:25  
+Updated at: 2025-02-14 06:20:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-14)  
 **Poke Bar**  
 In name:   
