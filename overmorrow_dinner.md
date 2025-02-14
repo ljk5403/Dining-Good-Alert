@@ -1,6 +1,6 @@
 # 2025-02-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-13 15:10:36  
+Updated at: 2025-02-13 18:52:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-15)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-02-15)  
 **watermelon**  
@@ -23,12 +23,16 @@ In name:
  - Beef Taco Meat  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Grilled Cheeseburger  
   
 **pork**  
 In name:   
  - Coffee Crusted Pork Loin  
  - Italian Pork Sausage  
+  
+In description:   
+ - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
@@ -38,6 +42,7 @@ In name:
  - Cream of Chicken & Wild Rice Soup  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-02-15)  

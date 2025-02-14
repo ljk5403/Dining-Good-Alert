@@ -1,6 +1,6 @@
 # 2025-02-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-13 15:10:17  
+Updated at: 2025-02-13 18:52:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-13)  
 **Chicken Drummies**  
 In name:   
@@ -8,7 +8,7 @@ In name:
   
 **Shrimp**  
 In name:   
- - Blackened Shrimp  
+ - Fried Popcorn Shrimp  
   
 **Tuna**  
 In name:   
@@ -105,7 +105,15 @@ In name:
  - Beef Taco Meat  
   
 In description:   
+ - Pizza Slice Deluxe  
  - Italian Meatball Sandwich  
+  
+**pork**  
+In name:   
+  
+In description:   
+ - Pizza Slice Cubano  
+ - Pizza Slice Deluxe  
   
 **chicken**  
 In name:   
@@ -116,6 +124,7 @@ In name:
  - Chicken Dumpling Soup  
   
 In description:   
+ - Pizza Slice Deluxe  
  - Great Greens  
  - Italian Meatball Sandwich  
   

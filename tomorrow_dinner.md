@@ -1,6 +1,6 @@
 # 2025-02-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-13 15:10:27  
+Updated at: 2025-02-13 18:52:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-14)  
 **Poke Bar**  
 In name:   
@@ -118,6 +118,9 @@ In name:
  - Beef Barbacoa  
  - Beef Taco Meat  
   
+In description:   
+ - Thin Crust Tavern Style Pepperoni Pizza  
+  
 **pork**  
 In name:   
  - Baked Rigatoni w/ Pork Italian Sausage  
@@ -133,6 +136,7 @@ In name:
  - Chicken Sausage Patties  
   
 In description:   
+ - Thin Crust Tavern Style Pepperoni Pizza  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-02-14)  
