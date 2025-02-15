@@ -1,6 +1,6 @@
 # 2025-02-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-14 15:09:47  
+Updated at: 2025-02-14 18:51:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-14)  
 **Poke Bar**  
 In name:   
@@ -21,16 +21,13 @@ In description:
 In name:   
  - Lemon Pepper Tuna Salad  
   
-**Salmon**  
+**Tilapia**  
 In name:   
- - Grilled Chipotle Salmon  
+ - Blackened Tilapia  
   
 **fish**  
 In name:   
  - Fish Tacos  
-  
-In description:   
- - Grilled Chipotle Salmon  
   
 **beef**  
 In name:   
@@ -119,13 +116,14 @@ In name:
  - Beef Taco Meat  
   
 In description:   
+ - Italian Meat Sauce  
  - Thin Crust Tavern Style Pepperoni Pizza  
   
 **pork**  
 In name:   
- - Baked Rigatoni w/ Pork Italian Sausage  
   
 In description:   
+ - Thin Crust Tavern Style Sausage Pizza  
  - Clam Chowder  
   
 **chicken**  
@@ -153,9 +151,6 @@ In name:
  - Sauteed Shrimp  
  - Blackened Shrimp  
   
-In description:   
- - Plate Valentine's Special (4 Lakes) #2  
-  
 **Cod**  
 In name:   
   
@@ -172,6 +167,7 @@ In name:
   
 In description:   
  - California Roll  (FujiSan)  
+ - Tempura Roll (FujiSan)  
   
 **beef**  
 In name:   
@@ -180,7 +176,6 @@ In name:
  - Beef Fajita Meat  
   
 In description:   
- - Plate Valentine's Special (4 Lakes) #2  
  - Vegan Taco Filling  
   
 **pork**  

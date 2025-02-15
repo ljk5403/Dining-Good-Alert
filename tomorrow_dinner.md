@@ -1,6 +1,6 @@
 # 2025-02-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-14 15:09:50  
+Updated at: 2025-02-14 18:51:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-15)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-02-15)  
 **watermelon**  
@@ -56,6 +56,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Roast Strip Loin w/Mush Demi  
  - Beef Taco Meat  
   
 **chicken**  
