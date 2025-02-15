@@ -1,6 +1,6 @@
 # 2025-02-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-15 12:12:54  
+Updated at: 2025-02-15 15:09:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-15)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-02-15)  
 **watermelon**  
@@ -17,8 +17,13 @@ In name:
  - Lemon Pepper Chicken Salad  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-02-15)  
+**steak**  
+In name:   
+ - Island Spiced Beef Steak  
+  
 **beef**  
 In name:   
+ - Island Spiced Beef Steak  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
