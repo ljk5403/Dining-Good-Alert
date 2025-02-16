@@ -1,6 +1,6 @@
 # 2025-02-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-16 12:13:28  
+Updated at: 2025-02-16 15:09:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-16)  
 **steak**  
 In name:   
@@ -84,7 +84,6 @@ In name:
 **pork**  
 In name:   
  - Pork Sausage Patties  
- - Pork Carnita  
  - Pork Sausage Patty  
   
 In description:   
@@ -95,6 +94,7 @@ In name:
  - Chicken Supreme Sandwich w/ Bacon  
  - Beef & Chicken Meatballs  
  - Plant Based Chicken Strips  
+ - Chicken Tinga  
  - Lemon Chicken Rice Soup  
   
 In description:   
@@ -111,7 +111,7 @@ In description:
 **pork**  
 In name:   
  - Island Spiced Pork w/ Pineapple Salsa  
- - Pork Sausage Patty  
+ - Pork Sausage Links  
   
 In description:   
  - Pizza Slice Sausage & Pepperoni  
