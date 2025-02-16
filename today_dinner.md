@@ -1,6 +1,6 @@
 # 2025-02-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-15 18:56:53  
+Updated at: 2025-02-15 21:17:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-15)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-02-15)  
 **watermelon**  
@@ -19,8 +19,8 @@ In name:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-02-15)  
 **beef**  
 In name:   
- - Texas BBQ Sliced Beef Brisket  
  - Beef & Chicken Meatballs  
+ - Beef Barbacoa  
  - Beef Taco Meat  
   
 In description:   
@@ -37,9 +37,9 @@ In description:
   
 **chicken**  
 In name:   
+ - Butter Chicken  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
- - Chicken Tinga  
  - Cream of Chicken & Wild Rice Soup  
   
 In description:   
