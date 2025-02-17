@@ -1,7 +1,11 @@
 # 2025-02-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-16 15:09:31  
+Updated at: 2025-02-16 18:54:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-16)  
+**Shrimp**  
+In name:   
+ - Sweet & Sour Shrimp  
+  
 **lamb**  
 In name:   
  - Lamb & Beef Gyro Sandwich  
@@ -25,7 +29,6 @@ In name:
 In name:   
  - Blackened Chicken  
  - Lemon Pepper Chicken Salad  
- - Sweet & Sour Chicken  
  - Plant Based Sweet & Sour Chicken  
  - Fajita Chicken  
  - Lemon Chicken Rice Soup  
@@ -40,6 +43,10 @@ In description:
 In name:   
  - Watermelon Slices  
   
+**Cod**  
+In name:   
+ - Cod Battered Beer (2 pc)  
+  
 **lamb**  
 In name:   
  - Lamb & Beef Gyro Sandwich  
@@ -51,7 +58,6 @@ In name:
  - Lamb & Beef Gyro Sandwich  
   
 In description:   
- - Italian Meat Sauce  
  - Thin Crust Tavern Style Pepperoni Pizza  
  - Vegan Taco Filling  
   
