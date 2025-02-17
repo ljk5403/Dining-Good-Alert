@@ -1,6 +1,6 @@
 # 2025-02-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-17 03:12:59  
+Updated at: 2025-02-17 06:21:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-17)  
 **beef**  
 In name:   
@@ -56,10 +56,6 @@ In name:
  - Chicken Noodle Soup  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-02-17)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
 **Shrimp**  
 In name:   
  - Redhook Ale Breaded Shrimp  
@@ -87,6 +83,7 @@ In name:
 **pork**  
 In name:   
  - Italian Pork Sausage  
+ - Pork Sausage Patty  
   
 In description:   
  - Thin Crust Tavern Style Sausage Pizza  
@@ -97,9 +94,6 @@ In name:
  - Chicken Parmesan Sandwich  
  - Chicken Tinga  
  - Chicken Noodle Soup  
-  
-In description:   
- - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-02-17)  
 **watermelon**  
