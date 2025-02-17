@@ -1,6 +1,6 @@
 # 2025-02-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-17 12:14:30  
+Updated at: 2025-02-17 15:09:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-17)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -87,7 +87,7 @@ In name:
   
 In description:   
  - Gordon's OrderIt  
- - Mushroom Swiss Burger  
+ - Grilled Cheeseburger  
   
 **pork**  
 In name:   
@@ -136,6 +136,7 @@ In name:
 In description:   
  - German Plate  
  - Porkloin Fritter Plate  
+ - Country Gravy  
   
 **pork**  
 In name:   
