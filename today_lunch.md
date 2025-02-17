@@ -1,14 +1,11 @@
 # 2025-02-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-17 09:11:59  
+Updated at: 2025-02-17 12:14:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-17)  
 **beef**  
 In name:   
  - Beef Taco Meat  
  - Beef Ravioli Plain  
-  
-In description:   
- - Grilled Cheeseburger  
   
 **pork**  
 In name:   
@@ -86,7 +83,7 @@ In name:
  - Pork Sausage Patty  
   
 In description:   
- - Thin Crust Tavern Style Sausage Pizza  
+ - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
@@ -108,7 +105,7 @@ In name:
 In name:   
   
 In description:   
- - California Roll  (FujiSan)  
+ - Tempura Roll (FujiSan)  
   
 **curry**  
 In name:   
@@ -201,13 +198,14 @@ In description:
 **pork**  
 In name:   
  - Italian Pork Sausage  
+ - Baked Rigatoni w/ Pork Italian Sausage  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
   
 **chicken**  
 In name:   
- - Diced Chicken Breast  
+ - Mediterranean Chicken  
  - Chicken Noodle Soup  
  - Jamaican Jerk Chicken  
   
