@@ -1,6 +1,6 @@
 # 2025-02-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-18 06:21:14  
+Updated at: 2025-02-18 09:12:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-18)  
 **Samosas**  
 In name:   
@@ -97,18 +97,6 @@ In description:
 In name:   
  - Carolina BBQ Pork Sandwich  
   
-**Shrimp**  
-In name:   
-  
-In description:   
- - Cioppino  
-  
-**Cod**  
-In name:   
-  
-In description:   
- - Cioppino  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
@@ -122,7 +110,6 @@ In description:
   
 **pork**  
 In name:   
- - BBQ Pork Chop  
  - Carolina BBQ Pork Sandwich  
   
 **chicken**  

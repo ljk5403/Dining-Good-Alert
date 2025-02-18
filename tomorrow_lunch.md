@@ -1,6 +1,6 @@
 # 2025-02-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-18 09:12:04  
+Updated at: 2025-02-18 12:15:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-19)  
 **Cod**  
 In name:   
@@ -126,7 +126,6 @@ In name:
  - Plant-Based Chicken Lo Mein  
  - Chicken Gravy  
  - Beef & Chicken Meatballs  
- - Lemon Pepper Chicken Salad  
  - Chicken Sausage Patties  
  - Plant Based Sweet & Sour Chicken  
  - Chicken Tortilla Soup  
