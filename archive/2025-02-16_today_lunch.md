@@ -1,6 +1,6 @@
 # 2025-02-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-17 12:14:29  
+Updated at: 2025-02-17 15:09:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-17)  
 **beef**  
 In name:   
@@ -168,7 +168,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Noodle Soup  
+ - Soup Lemony Chicken with Rice  
  - Chicken Biscuit w/ Sausage Gravy  
  - Chicken Sausage Patty  
   

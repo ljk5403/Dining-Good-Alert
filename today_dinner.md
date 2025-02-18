@@ -1,6 +1,6 @@
 # 2025-02-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-17 15:09:45  
+Updated at: 2025-02-17 18:52:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-17)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -8,7 +8,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Goulash w/Egg Noodles  
  - Beef Ravioli Plain  
  - Beef Taco Meat  
   
@@ -95,7 +94,7 @@ In name:
   
 In description:   
  - Gordon's OrderIt  
- - Thin Crust Tavern Style Sausage Pizza  
+ - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
@@ -113,6 +112,10 @@ In description:
 In name:   
  - Watermelon Slices  
   
+**steak**  
+In name:   
+ - Country Fried Steak  
+  
 **Shrimp**  
 In name:   
  - Shrimp Curry  
@@ -122,7 +125,7 @@ In name:
  - Vegan Fish Sandwich  
   
 In description:   
- - California Roll  (FujiSan)  
+ - Tempura Roll (FujiSan)  
   
 **curry**  
 In name:   
@@ -134,17 +137,15 @@ In name:
  - Barbacoa Beef w/Mango Habanero Sandwich  
   
 In description:   
- - German Plate  
- - Porkloin Fritter Plate  
- - Country Gravy  
+ - Knockwurst  
+ - Country Fried Steak  
   
 **pork**  
 In name:   
  - Italian Pork Sausage  
- - Porkloin Fritter Plate  
   
 In description:   
- - German Plate  
+ - Knockwurst  
   
 **chicken**  
 In name:   
