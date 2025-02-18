@@ -1,6 +1,6 @@
 # 2025-02-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-18 12:15:39  
+Updated at: 2025-02-18 15:10:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-18)  
 **Samosas**  
 In name:   
@@ -204,6 +204,7 @@ In description:
   
 **pork**  
 In name:   
+ - Chicken Jollof Rice (Contains Pork)  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
@@ -212,7 +213,7 @@ In description:
 In name:   
  - Beef & Chicken Meatballs  
  - Diced Chicken Breast  
- - Spicy Oven Fried Chicken  
+ - Chicken Jollof Rice (Contains Pork)  
   
 In description:   
  - Great Greens  
