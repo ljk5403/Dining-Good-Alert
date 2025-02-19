@@ -1,7 +1,11 @@
 # 2025-02-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-18 18:52:42  
+Updated at: 2025-02-18 21:16:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-18)  
+**Tandoori Chicken**  
+In name:   
+ - Tandoori Chicken  
+  
 **Samosas**  
 In name:   
  - Samosas  
@@ -14,7 +18,6 @@ In description:
   
 **curry**  
 In name:   
- - Indian Vegetable Curry  
  - Curry Potatoes  
   
 **beef**  
@@ -32,7 +35,7 @@ In name:
  - Beef & Chicken Meatballs  
  - Plant Based Chicken Strips  
  - Lemon Pepper Chicken Salad  
- - Butter Chicken  
+ - Tandoori Chicken  
   
 In description:   
  - Pepperoni Pizza Slice  
@@ -97,6 +100,18 @@ In description:
 In name:   
  - Carolina BBQ Pork Sandwich  
   
+**Shrimp**  
+In name:   
+  
+In description:   
+ - Cioppino  
+  
+**Cod**  
+In name:   
+  
+In description:   
+ - Cioppino  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
@@ -111,6 +126,7 @@ In description:
   
 **pork**  
 In name:   
+ - BBQ Pork Chop  
  - Carolina BBQ Pork Sandwich  
   
 **chicken**  
