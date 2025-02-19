@@ -1,20 +1,16 @@
-# 2025-02-19 lunch  
+# 2025-02-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-19 12:14:25  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-19)  
-**Cod**  
+Updated at: 2025-02-19 12:14:27  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-19)  
+**Tilapia**  
 In name:   
- - Lemon Pepper Cod Fillet  
-  
-**beef**  
-In name:   
- - Beef Harissa w/Couscous  
- - Beef Barbacoa  
- - Beef Taco Meat  
+ - Island Spiced Tilapia  
   
 **pork**  
 In name:   
+ - Jerk Pork Chop  
  - Italian Pork Sausage  
+ - Ancho Pork Rice Bowl  
   
 In description:   
  - Thin Crust Tavern Style Sausage Pizza  
@@ -22,80 +18,55 @@ In description:
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
- - Spicy Lo Mein w/Chicken  
- - Fajita Chicken  
  - Chicken Tortilla Soup  
- - Plant Based Chicken Strips  
   
 In description:   
+ - Ancho Pork Rice Bowl  
  - Great Greens  
   
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-02-19)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-02-19)  
 **watermelon**  
 In name:   
  - Melon Watermelon Whole Sliced  
-  
-**Samosas**  
-In name:   
- - Samosas  
-  
-**BBQ Pork Sandwich**  
-In name:   
- - Carolina BBQ Pork Sandwich  
   
 **Tuna**  
 In name:   
  - Tuna Salad  
   
-**catfish**  
-In name:   
-  
-In description:   
- - Indian Fish Curry  
-  
-**fish**  
-In name:   
- - Indian Fish Curry  
-  
 **curry**  
 In name:   
- - Indian Fish Curry  
  - Curry Potatoes  
   
 In description:   
- - Chicken Tikka Masala  
+ - Tofu & Vegetable Tikka Masala  
+ - Pakora Sauce  
   
 **beef**  
 In name:   
   
 In description:   
- - Hot Dog Bar  
  - Station Recipe - Liz - Deli  AYCTE  
   
 **pork**  
 In name:   
- - Carolina BBQ Pork Sandwich  
   
 In description:   
  - Station Recipe - Liz - Deli  AYCTE  
   
 **chicken**  
 In name:   
- - Chicken Tikka Masala  
+ - Greek Chicken  
+ - Butter Chicken  
  - Chicken Tortilla Soup  
   
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-02-19)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-02-19)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
   
-**Shrimp**  
+**Cod**  
 In name:   
- - Sweet & Sour Shrimp  
-  
-**Tilapia**  
-In name:   
- - Blackened Tilapia  
+ - Caribbean Cod  
   
 **fish**  
 In name:   
@@ -105,6 +76,7 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Stew  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
@@ -120,46 +92,43 @@ In name:
   
 **chicken**  
 In name:   
- - Broasted Chicken 2 pc  
- - Plant-Based Chicken Lo Mein  
- - Chicken Gravy  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
- - Chicken Sausage Patties  
- - Plant Based Sweet & Sour Chicken  
+ - General Tso's Chicken  
  - Chicken Tortilla Soup  
+ - Chicken Sausage Patties  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
  - Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-02-19)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-02-19)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
   
-**steak**  
+**curry**  
 In name:   
- - Ham Steak  
+ - Curry Cauliflower & Butternut Squash  
   
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
   
 In description:   
+ - Grilled Cheeseburger  
+ - Vegan Sloppy Joe  
  - Italian Meat Sauce  
   
 **pork**  
 In name:   
- - Cuban Pork Sandwich  
-  
-In description:   
- - Ham Steak  
+ - BBQ Pork Chop  
   
 **chicken**  
 In name:   
- - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
+ - Beef & Chicken Meatballs  
+ - Chicken & Penne w/ Pesto Creme  
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
  - Chicken Tortilla Soup  
@@ -168,82 +137,70 @@ In description:
  - BYO - MTO Breakfast Sandwich - Four Lake  
  - Station Recipe - Great Greens - FLM  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-02-19)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-02-19)  
 **steak**  
 In name:   
  - Pizza Slice Philly Cheesesteak  
   
-**Shrimp**  
+**Tuna**  
 In name:   
-  
-In description:   
- - Build Your Own Carson's Korean Bulgogi  
+ - Tuna Salad  
   
 **fish**  
 In name:   
   
 In description:   
- - Coconut Thai Curry Mahi Mahi  
- - Build Your Own Carson's Korean Bulgogi  
+ - Filipino Barbecue - Pork  
   
 **curry**  
 In name:   
- - Coconut Thai Curry Mahi Mahi  
+ - Mixed Vegetable Curry  
   
 **beef**  
 In name:   
- - Bulgogi Beef  
- - BBQ Beef Brisket Sandwich  
   
 In description:   
  - Pizza Slice Philly Cheesesteak  
+ - Carson's Build Your Own Rice Bowl  
   
 **pork**  
 In name:   
+ - Filipino Barbecue - Pork  
   
 In description:   
  - Pizza Slice Sausage  
- - Egg, Ham & Cheese English Muffin  
   
 **chicken**  
 In name:   
- - Bulgogi Chicken  
+ - Greek Chicken  
  - Chicken Tortilla Soup  
- - Chicken Sausage Patty  
   
 In description:   
  - Great Greens  
+ - Carson's Build Your Own Rice Bowl  
   
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-02-19)  
-**fish**  
-In name:   
-  
-In description:   
- - Vietnamese Pork with Rice  
-  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-02-19)  
 **beef**  
 In name:   
- - Beef & Chicken Meatballs  
- - Beef Pasta Tortellini  
- - Plant-Based Beef Lo Mein  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
   
 **pork**  
 In name:   
- - Vietnamese Pork with Rice  
+ - Italian Pork Sausage  
+ - Herb Crusted Pork Loin  
   
 In description:   
- - Andouille Sausage  
  - Station Recipe - Deli Lowell AYCTE  
   
 **chicken**  
 In name:   
  - Protein Plant Based Chicken Tender  
- - Beef & Chicken Meatballs  
+ - Diced Chicken Breast  
  - Chicken Tortilla Soup  
- - Chicken Piccata  
+ - Plant-Based Chicken Nuggets (6)  
+ - Chicken Wings Bone-In Plain  
   
 In description:   
  - Great Greens  
