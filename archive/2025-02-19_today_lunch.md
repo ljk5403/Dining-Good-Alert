@@ -1,6 +1,6 @@
 # 2025-02-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-20 09:12:03  
+Updated at: 2025-02-20 12:14:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-20)  
 **fish**  
 In name:   
@@ -67,6 +67,10 @@ In name:
  - Lemon Pepper Chicken Salad  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-02-20)  
+**steak**  
+In name:   
+ - Spicy Steak Fajita  
+  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
@@ -80,6 +84,7 @@ In description:
  - BYO Bar - Mac & Cheese  
  - Pizza Slice Sausage & Pepperoni  
  - Grilled Cheeseburger  
+ - Spicy Steak Fajita  
   
 **pork**  
 In name:   
@@ -93,7 +98,6 @@ In name:
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Pizza Slice Chicken Broccoli Alfredo  
- - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
   
 In description:   
@@ -186,6 +190,12 @@ In description:
  - Great Greens  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-02-20)  
+**curry**  
+In name:   
+  
+In description:   
+ - Coconut Vegetable Stew  
+  
 **beef**  
 In name:   
  - Texas BBQ Sliced Beef Brisket  

@@ -1,6 +1,6 @@
 # 2025-02-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-20 12:14:59  
+Updated at: 2025-02-20 15:09:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-20)  
 **fish**  
 In name:   
@@ -114,19 +114,14 @@ In name:
   
 In description:   
  - Thai BBQ Pork Ribs  
- - Beef Masaman Thai Curry  
-  
-**curry**  
-In name:   
- - Beef Masaman Thai Curry  
   
 **beef**  
 In name:   
- - Beef Masaman Thai Curry  
  - Beef Taco Meat  
   
 **pork**  
 In name:   
+ - Smoked Pulled Pork  
  - Thai BBQ Pork Ribs  
   
 In description:   
