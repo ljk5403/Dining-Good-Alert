@@ -1,6 +1,6 @@
 # 2025-02-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-19 12:14:25  
+Updated at: 2025-02-19 15:10:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-19)  
 **Cod**  
 In name:   
@@ -221,11 +221,14 @@ In name:
 In description:   
  - Vietnamese Pork with Rice  
   
+**curry**  
+In name:   
+ - Garbanzo Bean Curry  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
  - Beef Pasta Tortellini  
- - Plant-Based Beef Lo Mein  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
