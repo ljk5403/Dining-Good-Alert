@@ -1,6 +1,6 @@
 # 2025-02-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-19 18:53:02  
+Updated at: 2025-02-19 21:16:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-19)  
 **Tilapia**  
 In name:   
@@ -10,7 +10,6 @@ In name:
 In name:   
  - Jerk Pork Chop  
  - Italian Pork Sausage  
- - Ancho Pork Rice Bowl  
   
 In description:   
  - Thin Crust Tavern Style Sausage Pizza  
@@ -19,10 +18,10 @@ In description:
 In name:   
  - Plant Based Chicken Strips  
  - Lemon Pepper Chicken Salad  
+ - Chicken Tinga  
  - Chicken Tortilla Soup  
   
 In description:   
- - Ancho Pork Rice Bowl  
  - Great Greens  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-02-19)  
@@ -77,7 +76,7 @@ In description:
   
 **beef**  
 In name:   
- - Beef Stew  
+ - Roast Beef  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
