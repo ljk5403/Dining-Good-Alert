@@ -1,6 +1,6 @@
 # 2025-02-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-20 18:53:15  
+Updated at: 2025-02-20 21:16:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-21)  
 **clam**  
 In name:   
@@ -109,10 +109,14 @@ In name:
 **Cod**  
 In name:   
  - Lemon Pepper Cod Fillet  
- - Battered Cod Fillet Sandwich  
   
 In description:   
  - Clam Chowder  
+ - Petite Fish Sandwich  
+  
+**fish**  
+In name:   
+ - Petite Fish Sandwich  
   
 **curry**  
 In name:   
