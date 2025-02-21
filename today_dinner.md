@@ -1,6 +1,6 @@
 # 2025-02-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-20 15:09:25  
+Updated at: 2025-02-20 18:53:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-20)  
 **drumstick**  
 In name:   
@@ -19,6 +19,7 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
+ - Beef Tortellini  
   
 In description:   
  - Italian Meat Sauce  
@@ -36,7 +37,7 @@ In name:
  - Lemon Pepper Chicken Salad  
  - Grilled Tandoori Chicken Sandwich  
  - Greek Lemon Chicken w/ Rice  
- - Chicken Dumpling Soup  
+ - Chicken Noodle Soup  
   
 In description:   
  - Pepperoni Pizza Slice  
@@ -70,14 +71,11 @@ In name:
  - Lemon Pepper Chicken Salad  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-02-20)  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
+ - Beef Fajita Meat  
  - BBQ Beef Brisket Sandwich  
   
 In description:   
@@ -96,7 +94,7 @@ In name:
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Pizza Slice Chicken Broccoli Alfredo  
- - Spicy Fajita Chicken  
+ - Lemon Pepper Chicken Salad  
  - Chicken Dumpling Soup  
   
 In description:   
