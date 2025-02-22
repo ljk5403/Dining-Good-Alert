@@ -1,6 +1,6 @@
 # 2025-02-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-21 12:14:55  
+Updated at: 2025-02-21 15:09:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-21)  
 **clam**  
 In name:   
@@ -150,10 +150,6 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**Drunken Noodles**  
-In name:   
- - Drunken Noodles  
-  
 **clam**  
 In name:   
  - Clam Chowder  
@@ -162,30 +158,11 @@ In name:
 In name:   
  - Sauteed Shrimp  
   
-In description:   
- - Drunken Noodles  
-  
 **Cod**  
 In name:   
   
 In description:   
  - Clam Chowder  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Drunken Noodles  
-  
-**lamb**  
-In name:   
- - Lamb Vindaloo  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Lamb Vindaloo  
   
 **beef**  
 In name:   
@@ -196,6 +173,7 @@ In description:
 **pork**  
 In name:   
  - New Orleans Turkey Melt w/ Pork  
+ - Smoked Pulled Pork  
   
 In description:   
  - Pizza Slice Meat Lovers w/ Bacon  
@@ -204,6 +182,7 @@ In description:
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
+ - Baked Chicken (2 piece)  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  

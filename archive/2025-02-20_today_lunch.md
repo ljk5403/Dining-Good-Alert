@@ -1,6 +1,6 @@
 # 2025-02-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-21 12:14:53  
+Updated at: 2025-02-21 15:09:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-21)  
 **clam**  
 In name:   
@@ -201,6 +201,7 @@ In description:
 **curry**  
 In name:   
  - Black Eyed Pea Curry w/ Rice  
+ - Coconut Tofu w/Red Curry Sauce  
   
 **beef**  
 In name:   

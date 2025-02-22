@@ -1,6 +1,6 @@
 # 2025-02-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-21 15:09:38  
+Updated at: 2025-02-21 18:51:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-21)  
 **clam**  
 In name:   
@@ -94,10 +94,6 @@ In name:
 In name:   
  - Tandoori Chicken  
   
-**Samosas**  
-In name:   
- - Samosas  
-  
 **clam**  
 In name:   
  - Clam Chowder  
@@ -166,6 +162,7 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Meatloaf  
   
 In description:   
  - Pizza Slice Meat Lovers w/ Bacon  
@@ -182,7 +179,6 @@ In description:
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
- - Baked Chicken (2 piece)  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
