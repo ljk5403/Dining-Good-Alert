@@ -1,6 +1,6 @@
 # 2025-02-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-22 09:09:37  
+Updated at: 2025-02-22 12:13:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-22)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-02-22)  
 **watermelon**  
@@ -14,6 +14,10 @@ In name:
  - Lemon Pepper Chicken Salad  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-02-22)  
+**Shrimp**  
+In name:   
+ - Redhook Ale Breaded Shrimp  
+  
 **lamb**  
 In name:   
  - Lamb & Beef Gyro Sandwich  
@@ -37,7 +41,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Biryani  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
