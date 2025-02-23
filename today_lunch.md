@@ -1,6 +1,6 @@
 # 2025-02-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-23 09:09:35  
+Updated at: 2025-02-23 12:13:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-23)  
 **Tuna**  
 In name:   
@@ -76,6 +76,12 @@ In description:
 In name:   
  - Watermelon Slices  
   
+**fish**  
+In name:   
+  
+In description:   
+ - Veggie Meatballs (Veg)  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
@@ -90,7 +96,6 @@ In name:
 In name:   
  - Chicken Sausage Patty  
  - Grilled Chicken Sandwich  
- - Plant Based Chicken Strips  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Lemon Chicken Rice Soup  
@@ -118,7 +123,7 @@ In description:
 In name:   
  - Baked Chicken (2 piece)  
  - Chicken Gravy  
- - Pizza Slice Chicken Bacon Ranch  
+ - BBQ Chicken & Bacon Pizza Quarter  
  - Lemon Chicken Rice Soup  
   
 In description:   
