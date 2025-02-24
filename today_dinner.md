@@ -1,14 +1,14 @@
 # 2025-02-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-23 18:54:46  
+Updated at: 2025-02-23 21:19:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-23)  
-**Cod**  
-In name:   
- - Baked Cod Fillet w/Butter & Lemon  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
+  
+**Tilapia**  
+In name:   
+ - Blackened Tilapia  
   
 **curry**  
 In name:   
@@ -51,6 +51,8 @@ In name:
  - Beef Taco Meat  
   
 In description:   
+ - Cocktail Smokies  
+ - Italian Meat Sauce  
  - Pepperoni Pizza Slice  
  - Vegan Taco Filling  
   
@@ -60,6 +62,7 @@ In name:
  - Pork Carnita  
   
 In description:   
+ - Cocktail Smokies  
  - Pizza Slice Sausage  
   
 **chicken**  
@@ -71,6 +74,7 @@ In name:
  - Crispy Buffalo Chicken Sandwich  
   
 In description:   
+ - Cocktail Smokies  
  - Pepperoni Pizza Slice  
  - Great Greens  
   
@@ -99,15 +103,16 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Bratwurst  
+ - Polish Combo Cheeseburger  
   
 **pork**  
 In name:   
+ - Pork Bratwurst Sandwich  
  - Andouille Pork Sausage  
  - Pork Carnita  
   
 In description:   
- - Bratwurst  
+ - Polish Combo Cheeseburger  
   
 **chicken**  
 In name:   
