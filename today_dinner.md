@@ -1,6 +1,6 @@
 # 2025-02-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-23 15:09:20  
+Updated at: 2025-02-23 18:54:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-23)  
 **Cod**  
 In name:   
@@ -16,7 +16,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Barbacoa  
  - Beef Taco Meat  
   
 In description:   
@@ -27,6 +26,7 @@ In description:
 In name:   
  - Italian Pork Sausage  
  - Sri Lanka Deviled Pork  
+ - Pork Carnita  
   
 **chicken**  
 In name:   
@@ -95,25 +95,23 @@ In description:
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs  
  - Island Spiced Beef Steak  
  - Beef Taco Meat  
   
 In description:   
- - Polish Combo Cheeseburger  
+ - Bratwurst  
   
 **pork**  
 In name:   
+ - Andouille Pork Sausage  
  - Pork Carnita  
   
 In description:   
- - Polish Combo Cheeseburger  
+ - Bratwurst  
   
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
- - Plant Based Chicken Strips  
- - Beef & Chicken Meatballs  
  - Lemon Chicken Rice Soup  
   
 In description:   
