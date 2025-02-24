@@ -1,6 +1,6 @@
 # 2025-02-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-24 09:12:44  
+Updated at: 2025-02-24 12:15:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-24)  
 **Tuna**  
 In name:   
@@ -72,19 +72,15 @@ In description:
 In name:   
  - Pizza Slice Philly Cheesesteak  
   
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad  
-  
-**Salmon**  
-In name:   
- - Baked Salmon with Mustard Sauce  
-  
-**fish**  
+**squid**  
 In name:   
   
 In description:   
- - Baked Salmon with Mustard Sauce  
+ - Fried Calamari  
+  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad  
   
 **beef**  
 In name:   
@@ -100,6 +96,7 @@ In description:
 **pork**  
 In name:   
  - Italian Pork Sausage  
+ - Pork Sausage Patties  
   
 **chicken**  
 In name:   
@@ -128,6 +125,7 @@ In name:
   
 In description:   
  - California Roll  (FujiSan)  
+ - Tempura Roll (FujiSan)  
   
 **curry**  
 In name:   
@@ -206,6 +204,7 @@ In description:
 **pork**  
 In name:   
  - Pork Adobo  
+ - Cajun Rice w/ Pork & Black Eyed Peas  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  

@@ -1,6 +1,6 @@
 # 2025-02-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-24 06:21:29  
+Updated at: 2025-02-24 09:12:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-24)  
 **Tuna**  
 In name:   
@@ -68,10 +68,6 @@ In description:
  - Baked Corn Dog (Pork)  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-02-24)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
 **steak**  
 In name:   
  - Pizza Slice Philly Cheesesteak  
@@ -113,7 +109,6 @@ In name:
   
 In description:   
  - Italian Meatball Sandwich  
- - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-02-24)  
 **watermelon**  
