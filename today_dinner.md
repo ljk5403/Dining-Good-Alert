@@ -1,6 +1,6 @@
 # 2025-02-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-24 18:53:52  
+Updated at: 2025-02-24 21:18:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-24)  
 **Tuna**  
 In name:   
@@ -87,6 +87,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Stew  
  - Beef & Chicken Meatballs  
  - Beef Ravioli w/Tomato Sauce  
  - Roast Beef  
@@ -107,12 +108,10 @@ In name:
   
 In description:   
  - Gordon's OrderIt  
- - Chicken Sausage Gumbo  
  - Smoked Ham  
   
 **chicken**  
 In name:   
- - Chicken Sausage Gumbo  
  - Beef & Chicken Meatballs  
  - Chicken Tinga  
  - Chicken Noodle Soup  
