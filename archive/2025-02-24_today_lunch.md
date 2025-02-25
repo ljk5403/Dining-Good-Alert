@@ -1,6 +1,6 @@
 # 2025-02-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-25 06:21:19  
+Updated at: 2025-02-25 09:12:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-25)  
 **Tuna**  
 In name:   
@@ -118,6 +118,9 @@ In description:
 In name:   
  - Global Curry Bowl  
  - Build Your Own Curry Bowl - Gordon  
+  
+In description:   
+ - Chana Saag w/ Tofu  
   
 **beef**  
 In name:   
