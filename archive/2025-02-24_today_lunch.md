@@ -1,6 +1,6 @@
 # 2025-02-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-25 09:12:27  
+Updated at: 2025-02-25 12:15:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-25)  
 **Tuna**  
 In name:   
@@ -126,12 +126,12 @@ In description:
 In name:   
  - Texas BBQ Sliced Beef Brisket  
  - Beef & Chicken Meatballs  
- - Beef  
  - Beef Taco Meat  
  - Beef & Bean Chili  
   
 In description:   
  - Pepperoni Pizza Slice  
+ - Grilled Cheeseburger  
  - Global Curry Bowl  
  - Spicy Steak Fajita  
   
@@ -145,7 +145,6 @@ In name:
  - Mediterranean Chicken  
  - Pizza Slice Chicken Sriracha  
  - Chicken Sausage Patties  
- - Jerk Chicken Sandwich  
   
 In description:   
  - Pepperoni Pizza Slice  
@@ -155,6 +154,10 @@ In description:
 **watermelon**  
 In name:   
  - Watermelon Slices  
+  
+**Tuna**  
+In name:   
+ - Tuna Salad  
   
 **fish**  
 In name:   
@@ -178,7 +181,6 @@ In name:
 In name:   
  - Brazilian Chicken w/ Salsa Vinaigrette  
  - Italian Chicken  
- - Lemon Pepper Chicken Salad  
  - Protein - Chicken Thinly Sliced  
   
 In description:   

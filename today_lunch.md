@@ -1,6 +1,6 @@
 # 2025-02-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-25 12:15:50  
+Updated at: 2025-02-25 15:10:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-25)  
 **Tuna**  
 In name:   
@@ -124,7 +124,6 @@ In description:
   
 **beef**  
 In name:   
- - Texas BBQ Sliced Beef Brisket  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
  - Beef & Bean Chili  
