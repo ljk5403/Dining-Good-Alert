@@ -1,6 +1,6 @@
 # 2025-02-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-25 18:54:00  
+Updated at: 2025-02-25 21:18:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-26)  
 **Tuna**  
 In name:   
@@ -163,6 +163,10 @@ In description:
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-02-26)  
+**beef**  
+In name:   
+ - Mediterranean Beef  
+  
 **pork**  
 In name:   
  - Pork Chop Adobo (1)  
@@ -173,6 +177,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Mediterranean Chicken  
  - Chicken Tortilla Soup  
  - Chicken Sausage Patty  
  - Buffalo Chicken Sliders  

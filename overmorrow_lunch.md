@@ -1,6 +1,6 @@
 # 2025-02-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-25 18:54:09  
+Updated at: 2025-02-25 21:18:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-27)  
 **Tuna**  
 In name:   
@@ -20,6 +20,7 @@ In name:
 In name:   
  - Beef Tri Tip Carved w/ Chimichurri  
  - Lamb & Beef Gyro Sandwich  
+ - Mediterranean Beef  
  - Beef & Chicken Meatballs  
   
 In description:   
@@ -28,6 +29,7 @@ In description:
 **chicken**  
 In name:   
  - Chicken Adobo  
+ - Mediterranean Chicken  
  - Chicken Dumpling Soup  
  - Beef & Chicken Meatballs  
  - Plant Based Chicken Strips  

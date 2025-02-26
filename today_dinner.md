@@ -1,6 +1,6 @@
 # 2025-02-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-25 18:53:56  
+Updated at: 2025-02-25 21:18:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-25)  
 **Tuna**  
 In name:   
@@ -91,6 +91,10 @@ In description:
  - Station Recipe - Liz - Great Greens  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-02-25)  
+**drumstick**  
+In name:   
+ - Chicken Drumstick BBQ Glazed  
+  
 **steak**  
 In name:   
  - Spicy Steak Fajita  
@@ -99,12 +103,20 @@ In name:
 In name:   
  - Shrimp  
   
+**Tilapia**  
+In name:   
+ - Baked Tilapia w/Dill Wine Sauce  
+  
 **fish**  
 In name:   
  - Fish Sauce  
   
 In description:   
  - Masaman Thai Curry Sauce  
+  
+**lamb**  
+In name:   
+ - Lamb & Beef Gyro Sandwich  
   
 **curry**  
 In name:   
@@ -114,19 +126,31 @@ In name:
   
 **beef**  
 In name:   
+ - Beef & Chicken Meatballs  
  - Beef Fajita Meat  
  - Beef Taco Meat  
+ - Lamb & Beef Gyro Sandwich  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Spicy Steak Fajita  
+  
+**pork**  
+In name:   
+ - Green Beans w/ Pork Bacon  
   
 **chicken**  
 In name:   
+ - Chicken Drumstick BBQ Glazed  
+ - Mediterranean Chicken  
+ - Beef & Chicken Meatballs  
+ - Pizza Slice Chicken Sriracha  
  - Chicken  
  - Chicken Tortilla Soup  
  - Chicken Sausage Patties  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-02-25)  
