@@ -1,6 +1,6 @@
 # 2025-02-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-26 09:12:32  
+Updated at: 2025-02-26 12:15:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-26)  
 **Tuna**  
 In name:   
@@ -46,21 +46,9 @@ In name:
 In name:   
  - Chicken Drumstick BBQ Glazed  
   
-**Tandoori Chicken**  
-In name:   
- - Tandoori Chicken  
-  
-**Samosas**  
-In name:   
- - Samosas  
-  
 **Tuna**  
 In name:   
  - Tuna Salad  
-  
-**curry**  
-In name:   
- - Curry Potatoes  
   
 **beef**  
 In name:   
@@ -80,7 +68,6 @@ In description:
 In name:   
  - Chicken Drumstick BBQ Glazed  
  - Plant-Based Chicken Tenders  
- - Tandoori Chicken  
  - Chicken Tortilla Soup  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-02-26)  
