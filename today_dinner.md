@@ -1,6 +1,6 @@
 # 2025-02-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-25 15:10:51  
+Updated at: 2025-02-25 18:53:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-25)  
 **Tuna**  
 In name:   
@@ -116,7 +116,6 @@ In name:
 In name:   
  - Beef Fajita Meat  
  - Beef Taco Meat  
- - Beef & Bean Chili  
   
 In description:   
  - Spicy Steak Fajita  
@@ -124,6 +123,7 @@ In description:
 **chicken**  
 In name:   
  - Chicken  
+ - Chicken Tortilla Soup  
  - Chicken Sausage Patties  
   
 In description:   

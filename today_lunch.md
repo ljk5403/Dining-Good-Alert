@@ -1,6 +1,6 @@
 # 2025-02-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-25 15:10:46  
+Updated at: 2025-02-25 18:53:52  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-25)  
 **Tuna**  
 In name:   
@@ -126,7 +126,6 @@ In description:
 In name:   
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
- - Beef & Bean Chili  
   
 In description:   
  - Pepperoni Pizza Slice  
@@ -144,6 +143,7 @@ In name:
  - Mediterranean Chicken  
  - Pizza Slice Chicken Sriracha  
  - Chicken Sausage Patties  
+ - Chicken Tortilla Soup  
   
 In description:   
  - Pepperoni Pizza Slice  
