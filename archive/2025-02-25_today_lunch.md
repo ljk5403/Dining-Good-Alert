@@ -1,6 +1,6 @@
 # 2025-02-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-26 03:12:34  
+Updated at: 2025-02-26 06:21:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-26)  
 **Tuna**  
 In name:   
@@ -77,10 +77,6 @@ In name:
  - Chicken Tortilla Soup  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-02-26)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
 **fish**  
 In name:   
   
@@ -116,9 +112,6 @@ In name:
  - Sweet & Sour Chicken  
  - Plant Based Sweet & Sour Chicken  
  - Chicken Tortilla Soup  
-  
-In description:   
- - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-02-26)  
 **watermelon**  
