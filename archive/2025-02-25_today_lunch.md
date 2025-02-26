@@ -1,11 +1,7 @@
 # 2025-02-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-26 09:12:30  
+Updated at: 2025-02-26 12:15:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-26)  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad  
-  
 **beef**  
 In name:   
  - Beef Broccoli Stir Fry w/Teriyaki Sauce  
@@ -28,6 +24,7 @@ In description:
 **chicken**  
 In name:   
  - Chicken Breast w/Balsamic BBQ Sauce  
+ - Lemon Pepper Chicken Salad  
  - Fajita Chicken  
  - Chicken Tortilla Soup  
   
@@ -124,11 +121,11 @@ In name:
   
 **catfish**  
 In name:   
- - Panfried Southern Catfish  
+ - Fried Catfish  
   
 **fish**  
 In name:   
- - Panfried Southern Catfish  
+ - Fried Catfish  
  - Fish Sauce  
   
 **beef**  
@@ -197,6 +194,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Adobo  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
