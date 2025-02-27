@@ -1,6 +1,6 @@
 # 2025-02-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-26 12:15:33  
+Updated at: 2025-02-26 15:10:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-26)  
 **Tuna**  
 In name:   
@@ -42,10 +42,6 @@ In description:
 In name:   
  - Melon Watermelon Whole Sliced  
   
-**drumstick**  
-In name:   
- - Chicken Drumstick BBQ Glazed  
-  
 **Tuna**  
 In name:   
  - Tuna Salad  
@@ -54,29 +50,19 @@ In name:
 In name:   
   
 In description:   
- - Kielbasa with Pierogis  
  - Station Recipe - Liz - Deli  AYCTE  
   
 **pork**  
 In name:   
   
 In description:   
- - Kielbasa with Pierogis  
  - Station Recipe - Liz - Deli  AYCTE  
   
 **chicken**  
 In name:   
- - Chicken Drumstick BBQ Glazed  
- - Plant-Based Chicken Tenders  
  - Chicken Tortilla Soup  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-02-26)  
-**steak**  
-In name:   
-  
-In description:   
- - Build Your Own Street Taco Bar  
-  
 **Cod**  
 In name:   
  - Miso Cod  
@@ -97,7 +83,7 @@ In name:
 In description:   
  - Italian Meat Sauce  
  - Vegan Taco Filling  
- - Build Your Own Street Taco Bar  
+ - Poutine Bar  
   
 **pork**  
 In name:   
@@ -106,7 +92,7 @@ In name:
   
 In description:   
  - Pizza Slice Hawaiian  
- - Build Your Own Street Taco Bar  
+ - Poutine Bar  
   
 **chicken**  
 In name:   
@@ -121,7 +107,7 @@ In name:
   
 In description:   
  - Great Greens  
- - Build Your Own Street Taco Bar  
+ - Poutine Bar  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-02-26)  
 **watermelon**  

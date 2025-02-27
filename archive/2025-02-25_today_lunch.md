@@ -1,6 +1,6 @@
 # 2025-02-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-26 12:15:31  
+Updated at: 2025-02-26 15:10:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-26)  
 **beef**  
 In name:   
@@ -41,12 +41,6 @@ In name:
 In name:   
  - Tuna Salad  
   
-**fish**  
-In name:   
-  
-In description:   
- - Thai BBQ Pork Ribs  
-  
 **curry**  
 In name:   
  - Curry Potatoes  
@@ -63,7 +57,6 @@ In description:
   
 **pork**  
 In name:   
- - Thai BBQ Pork Ribs  
   
 In description:   
  - Station Recipe - Liz - Deli  AYCTE  
@@ -74,13 +67,6 @@ In name:
  - Chicken Tortilla Soup  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-02-26)  
-**fish**  
-In name:   
-  
-In description:   
- - California Roll  (FujiSan)  
- - Tempura Roll (FujiSan)  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
