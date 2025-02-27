@@ -1,6 +1,6 @@
 # 2025-02-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-27 06:21:22  
+Updated at: 2025-02-27 09:12:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-27)  
 **fish**  
 In name:   
@@ -90,7 +90,7 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Smoked Brisket & Tots Pizza Slice  
+ - Pizza Slice Deluxe  
  - Grilled Cheeseburger  
   
 **pork**  
@@ -98,6 +98,7 @@ In name:
   
 In description:   
  - Pizza Slice Sausage  
+ - Pizza Slice Deluxe  
   
 **chicken**  
 In name:   
@@ -110,6 +111,9 @@ In name:
  - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
   
+In description:   
+ - Pizza Slice Deluxe  
+  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-02-27)  
 **watermelon**  
 In name:   
@@ -118,6 +122,10 @@ In name:
 **steak**  
 In name:   
  - Swiss Steak w/Brown Gravy  
+  
+**Tuna**  
+In name:   
+ - Tuna Salad  
   
 **fish**  
 In name:   
@@ -141,7 +149,6 @@ In description:
   
 **chicken**  
 In name:   
- - Lemon Pepper Chicken Salad  
  - Taco Chicken  
  - Chicken Dumpling Soup  
  - Protein - Chicken Thinly Sliced  
