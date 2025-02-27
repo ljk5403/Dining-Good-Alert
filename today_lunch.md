@@ -1,6 +1,6 @@
 # 2025-02-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-26 18:53:44  
+Updated at: 2025-02-26 21:19:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-26)  
 **beef**  
 In name:   
@@ -37,9 +37,19 @@ In description:
 In name:   
  - Melon Watermelon Whole Sliced  
   
+**steak**  
+In name:   
+ - Grilled Flank Steak  
+  
 **Tuna**  
 In name:   
  - Tuna Salad  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Thai BBQ Pork Ribs  
   
 **curry**  
 In name:   
@@ -53,10 +63,12 @@ In name:
  - Beef Vindaloo  
   
 In description:   
+ - Grilled Flank Steak  
  - Station Recipe - Liz - Deli  AYCTE  
   
 **pork**  
 In name:   
+ - Thai BBQ Pork Ribs  
   
 In description:   
  - Station Recipe - Liz - Deli  AYCTE  

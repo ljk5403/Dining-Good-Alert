@@ -1,6 +1,6 @@
 # 2025-02-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-26 18:53:46  
+Updated at: 2025-02-26 21:19:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-26)  
 **Tuna**  
 In name:   
@@ -36,30 +36,52 @@ In description:
 In name:   
  - Melon Watermelon Whole Sliced  
   
+**drumstick**  
+In name:   
+ - Chicken Drumstick BBQ Glazed  
+  
+**Tandoori Chicken**  
+In name:   
+ - Tandoori Chicken  
+  
+**Samosas**  
+In name:   
+ - Samosas  
+  
 **Tuna**  
 In name:   
  - Tuna Salad  
+  
+**curry**  
+In name:   
+ - Curry Potatoes  
   
 **beef**  
 In name:   
   
 In description:   
+ - Kielbasa with Pierogis  
  - Station Recipe - Liz - Deli  AYCTE  
   
 **pork**  
 In name:   
   
 In description:   
+ - Kielbasa with Pierogis  
  - Station Recipe - Liz - Deli  AYCTE  
   
 **chicken**  
 In name:   
+ - Chicken Drumstick BBQ Glazed  
+ - Plant-Based Chicken Tenders  
+ - Tandoori Chicken  
  - Chicken Tortilla Soup  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-02-26)  
 **Cod**  
 In name:   
  - Miso Cod  
+ - Battered Cod  
   
 **fish**  
 In name:   
@@ -93,10 +115,8 @@ In name:
  - Chicken Pot Pie w/Biscuit  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
- - Sesame Chicken  
  - Plant Based Sesame Chicken (AYCTE) (VN)  
  - Chicken Tortilla Soup  
- - Chicken Tenders Breaded  
  - Plant-Based Chicken Nuggets (6)  
   
 In description:   

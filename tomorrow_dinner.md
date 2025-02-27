@@ -1,11 +1,7 @@
 # 2025-02-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-26 18:53:51  
+Updated at: 2025-02-26 21:19:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-27)  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad  
-  
 **Tilapia**  
 In name:   
  - Baked Tilapia w/Dill Wine Sauce  
@@ -29,6 +25,7 @@ In name:
  - Chicken Piece Seasoned Baked  
  - Beef & Chicken Meatballs  
  - Plant Based Chicken Strips  
+ - Lemon Pepper Chicken Salad  
  - Chicken Shawarma Sandwich  
  - Chicken Souvlaki  
  - Mediterranean Chicken  

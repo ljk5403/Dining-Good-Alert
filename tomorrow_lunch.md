@@ -1,11 +1,7 @@
 # 2025-02-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-26 18:53:49  
+Updated at: 2025-02-26 21:19:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-27)  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad  
-  
 **fish**  
 In name:   
   
@@ -29,6 +25,7 @@ In description:
 **chicken**  
 In name:   
  - Chicken Adobo  
+ - Lemon Pepper Chicken Salad  
  - Mediterranean Chicken  
  - Chicken Dumpling Soup  
  - Beef & Chicken Meatballs  

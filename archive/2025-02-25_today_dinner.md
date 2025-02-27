@@ -1,19 +1,14 @@
 # 2025-02-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-26 15:10:37  
+Updated at: 2025-02-26 18:53:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-26)  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
   
-**fish**  
-In name:   
-  
-In description:   
- - Filipino Barbecue - Pork  
-  
 **beef**  
 In name:   
+ - Texas BBQ Sliced Beef Brisket  
   
 In description:   
  - Italian Meat Sauce  
@@ -21,7 +16,6 @@ In description:
   
 **pork**  
 In name:   
- - Filipino Barbecue - Pork  
  - Italian Pork Sausage  
   
 In description:   
@@ -114,10 +108,6 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**drumstick**  
-In name:   
- - Chicken Drumstick Teriyaki Glazed  
-  
 **BBQ Pork Sandwich**  
 In name:   
  - BBQ Pork Sandwich  
@@ -152,7 +142,6 @@ In name:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
- - Chicken Drumstick Teriyaki Glazed  
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
  - Chicken Tortilla Soup  
