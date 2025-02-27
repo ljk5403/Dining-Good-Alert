@@ -1,6 +1,6 @@
 # 2025-02-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-27 12:15:28  
+Updated at: 2025-02-27 15:10:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-27)  
 **fish**  
 In name:   
@@ -14,7 +14,7 @@ In name:
   
 **beef**  
 In name:   
- - Beef Tri Tip Carved w/ Chimichurri  
+ - Texas BBQ Sliced Beef Brisket  
  - Lamb & Beef Gyro Sandwich  
  - Mediterranean Beef  
  - Beef & Chicken Meatballs  
@@ -75,6 +75,10 @@ In description:
  - Spicy Italian Meatball Sandwich  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-02-27)  
+**Cod**  
+In name:   
+ - Battered Cod  
+  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
@@ -95,6 +99,7 @@ In description:
   
 **pork**  
 In name:   
+ - Island Spiced Pork w/ Pineapple Salsa  
   
 In description:   
  - Pizza Slice Sausage  
@@ -102,8 +107,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Wings Boneless Plain  
- - Chicken Wings Bone-In Plain  
  - Plant-Based Chicken Nuggets (6)  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  

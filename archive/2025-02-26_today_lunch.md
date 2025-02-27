@@ -1,6 +1,6 @@
 # 2025-02-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-27 09:12:40  
+Updated at: 2025-02-27 12:15:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-27)  
 **fish**  
 In name:   
@@ -107,6 +107,7 @@ In name:
  - Plant-Based Chicken Nuggets (6)  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
+ - Chicken Sausage Patties  
  - Protein - Chicken Thinly Sliced  
  - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
@@ -198,8 +199,13 @@ In description:
  - Great Greens  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-02-27)  
+**curry**  
+In name:   
+ - Beef Bombay Curry  
+  
 **beef**  
 In name:   
+ - Beef Bombay Curry  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  

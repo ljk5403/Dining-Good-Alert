@@ -1,6 +1,6 @@
 # 2025-02-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-27 12:15:32  
+Updated at: 2025-02-27 15:10:34  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-27)  
 **Tilapia**  
 In name:   
@@ -61,6 +61,12 @@ In name:
  - Lemon Pepper Chicken Salad  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-02-27)  
+**steak**  
+In name:   
+  
+In description:   
+ - Build Your Own Street Taco Bar  
+  
 **Shrimp**  
 In name:   
  - Shrimp with Bell Peppers  
@@ -82,7 +88,7 @@ In name:
   
 In description:   
  - Smoked Brisket & Tots Pizza Slice  
- - Chicago-Style Hot Dog  
+ - Build Your Own Street Taco Bar  
  - Pork Bratwurst Sandwich  
   
 **pork**  
@@ -91,6 +97,7 @@ In name:
   
 In description:   
  - Pizza Slice Sausage  
+ - Build Your Own Street Taco Bar  
   
 **chicken**  
 In name:   
@@ -103,6 +110,7 @@ In name:
   
 In description:   
  - Great Greens  
+ - Build Your Own Street Taco Bar  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-02-27)  
 **watermelon**  
