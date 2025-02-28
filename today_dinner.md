@@ -1,6 +1,6 @@
 # 2025-02-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-28 12:15:16  
+Updated at: 2025-02-28 15:10:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-28)  
 **clam**  
 In name:   
@@ -165,7 +165,6 @@ In name:
   
 **Cod**  
 In name:   
- - Baked Cod Fillet w/Butter & Lemon  
   
 In description:   
  - Clam Chowder  
@@ -196,7 +195,7 @@ In description:
   
 **chicken**  
 In name:   
- - Grilled Chicken Sandwich  
+ - Crispy Chicken Sandwich  
  - Protein - Chicken Thinly Sliced  
   
 In description:   

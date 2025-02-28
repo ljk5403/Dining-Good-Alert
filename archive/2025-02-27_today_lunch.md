@@ -1,6 +1,6 @@
 # 2025-02-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-28 09:11:48  
+Updated at: 2025-02-28 12:15:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-28)  
 **drumstick**  
 In name:   
@@ -142,11 +142,13 @@ In name:
 In description:   
  - Italian Meat Sauce  
  - Thin Crust Tavern Style Pepperoni Pizza  
+ - Pizza Slice Deluxe  
   
 **pork**  
 In name:   
   
 In description:   
+ - Pizza Slice Deluxe  
  - Clam Chowder  
   
 **chicken**  
@@ -157,6 +159,7 @@ In name:
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
+ - Pizza Slice Deluxe  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-02-28)  
@@ -249,6 +252,7 @@ In description:
 **chicken**  
 In name:   
  - Tikka Masala Chicken  
+ - Dan Dan w/ Chicken - Testing 2023 (CN)  
   
 In description:   
  - Great Greens  
