@@ -1,6 +1,6 @@
 # 2025-02-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-27 18:54:03  
+Updated at: 2025-02-27 21:19:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-27)  
 **Tilapia**  
 In name:   
@@ -65,10 +65,6 @@ In name:
 In description:   
  - Build Your Own Street Taco Bar  
   
-**Shrimp**  
-In name:   
- - Shrimp with Bell Peppers  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
@@ -91,6 +87,7 @@ In description:
   
 **pork**  
 In name:   
+ - Roasted Pork Loin  
  - Pork Bratwurst Sandwich  
   
 In description:   
@@ -158,6 +155,7 @@ In name:
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
+ - Station Recipe - Carson's Que Rico  
   
 **pork**  
 In name:   
@@ -175,6 +173,7 @@ In name:
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
  - Great Greens  
+ - Station Recipe - Carson's Que Rico  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-02-27)  
 **drumstick**  

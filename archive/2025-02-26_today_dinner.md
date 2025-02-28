@@ -1,6 +1,6 @@
 # 2025-02-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-27 15:10:34  
+Updated at: 2025-02-27 18:54:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-27)  
 **Tilapia**  
 In name:   
@@ -15,7 +15,6 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Mediterranean Beef  
   
 In description:   
  - Pepperoni Pizza Slice  
@@ -28,7 +27,6 @@ In name:
  - Lemon Pepper Chicken Salad  
  - Chicken Shawarma Sandwich  
  - Chicken Souvlaki  
- - Mediterranean Chicken  
  - Chicken Dumpling Soup  
   
 In description:   
@@ -87,7 +85,7 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Smoked Brisket & Tots Pizza Slice  
+ - Pizza Slice Deluxe  
  - Build Your Own Street Taco Bar  
  - Pork Bratwurst Sandwich  
   
@@ -97,6 +95,7 @@ In name:
   
 In description:   
  - Pizza Slice Sausage  
+ - Pizza Slice Deluxe  
  - Build Your Own Street Taco Bar  
   
 **chicken**  
@@ -109,6 +108,7 @@ In name:
  - Chicken Dumpling Soup  
   
 In description:   
+ - Pizza Slice Deluxe  
  - Great Greens  
  - Build Your Own Street Taco Bar  
   
