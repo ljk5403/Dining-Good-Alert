@@ -1,6 +1,6 @@
 # 2025-02-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-28 06:21:00  
+Updated at: 2025-02-28 09:11:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-02-28)  
 **drumstick**  
 In name:   
@@ -140,6 +140,7 @@ In name:
  - Beef Taco Meat  
   
 In description:   
+ - Italian Meat Sauce  
  - Thin Crust Tavern Style Pepperoni Pizza  
   
 **pork**  
@@ -177,6 +178,10 @@ In name:
 In description:   
  - Clam Chowder  
   
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
 **fish**  
 In name:   
  - Fish Sauce  
@@ -201,7 +206,6 @@ In description:
 **chicken**  
 In name:   
  - Chicken Grilled Cordon Bleu (Pork)  
- - Lemon Pepper Chicken Salad  
  - Protein - Chicken Thinly Sliced  
   
 In description:   
