@@ -1,6 +1,6 @@
 # 2025-02-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-28 18:57:53  
+Updated at: 2025-02-28 21:24:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-28)  
 **clam**  
 In name:   
@@ -184,7 +184,6 @@ In description:
   
 **beef**  
 In name:   
- - Beef Fajita Meat  
  - Beef Taco Meat  
  - Protein - Beef Thinly Sliced  
   
@@ -193,6 +192,8 @@ In description:
   
 **pork**  
 In name:   
+ - Italian Pork Sausage  
+ - Smoked Pork Rib  
  - Jerk Pork Chop  
   
 In description:   
