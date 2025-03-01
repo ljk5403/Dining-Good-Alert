@@ -1,30 +1,58 @@
-# 2025-03-01 lunch  
+# 2025-03-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-28 21:24:41  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-01)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-03-01)  
-**watermelon**  
+Updated at: 2025-03-01 00:15:00  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-02)  
+**steak**  
 In name:   
- - Melon Watermelon Whole Sliced  
+ - Ham Steak  
   
-**pork**  
-In name:   
- - Pork Sausage Links  
-  
-**chicken**  
-In name:   
- - Chicken Sausage Patty  
- - Cream of Chicken & Wild Rice Soup  
- - Lemon Pepper Chicken Salad  
-  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-03-01)  
 **BBQ Pork Sandwich**  
 In name:   
  - Carolina BBQ Pork Sandwich  
   
-**Tilapia**  
+**curry**  
 In name:   
- - Tilapia Veracruz  
+  
+In description:   
+ - Chicken Ala King over Biscuit  
+  
+**beef**  
+In name:   
+ - Beef Barbacoa  
+ - Beef Taco Meat  
+  
+In description:   
+ - Pepperoni Pizza Slice  
+ - Vegan Taco Filling  
+  
+**pork**  
+In name:   
+ - Carolina BBQ Pork Sandwich  
+  
+In description:   
+ - Ham Steak  
+  
+**chicken**  
+In name:   
+ - Chicken Ala King over Biscuit  
+ - Lemon Pepper Chicken Salad  
+ - Fajita Chicken  
+ - Lemon Chicken Rice Soup  
+ - Chicken Sausage Patty  
+  
+In description:   
+ - Pepperoni Pizza Slice  
+ - Great Greens  
+  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-03-02)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-03-02)  
+**watermelon**  
+In name:   
+ - Watermelon Slices  
+  
+**curry**  
+In name:   
+ - Thai Veggie Meatballs w/ Green Curry  
   
 **beef**  
 In name:   
@@ -32,50 +60,86 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Pepperoni Pizza Slice  
+ - Thin Crust Tavern Style Pepperoni Pizza  
+ - Vegan Taco Filling  
   
 **pork**  
 In name:   
- - Italian Pork Sausage  
- - Carolina BBQ Pork Sandwich  
+ - Chicken Jollof Rice (Contains Pork)  
+ - Jerk Pork Chop  
+ - Pork Carnita  
   
 In description:   
- - Pizza Slice Sausage  
+ - Thin Crust Tavern Style Sausage Pizza  
   
 **chicken**  
 In name:   
- - Chicken Breast w/Balsamic BBQ Sauce  
+ - Chicken Jollof Rice (Contains Pork)  
+ - Bulgogi Chicken Thighs  
  - Beef & Chicken Meatballs  
- - Lemon Pepper Chicken Salad  
- - Chicken Tinga  
- - Cream of Chicken & Wild Rice Soup  
+ - Giardiniera Chicken  
+ - Chicken Sausage Patties  
+ - Crispy Chicken Sandwich  
+ - Lemon Chicken Rice Soup  
   
 In description:   
- - Pepperoni Pizza Slice  
+ - Thin Crust Tavern Style Pepperoni Pizza  
  - Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-03-01)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-03-02)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
   
 **beef**  
 In name:   
+ - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
-In description:   
- - Chicago-Style Hot Dog  
+**pork**  
+In name:   
+ - Quiche Pork Sausage & Cheddar  
+ - Pork Sausage Links  
+ - Pork Carnita  
   
 **chicken**  
 In name:   
- - Giardiniera Chicken  
+ - Chicken Sausage Patty  
+ - Crispy Chicken Sandwich  
+ - Beef & Chicken Meatballs  
+ - Plant Based Chicken Strips  
  - Lemon Pepper Chicken Salad  
- - Diced Chicken  
- - Cream of Chicken & Wild Rice Soup  
+ - Lemon Chicken Rice Soup  
   
 In description:   
  - Station Recipe - Great Greens - FLM  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-03-01)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-03-01)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-03-02)  
+**beef**  
+In name:   
+  
+In description:   
+ - Pizza Slice Sausage & Pepperoni  
+ - Southwest Burger  
+  
+**pork**  
+In name:   
+ - Pork Adobo  
+ - Pork Sausage Patty  
+  
+In description:   
+ - Pizza Slice Sausage & Pepperoni  
+ - Egg, Sausage & Cheese English Muffin  
+  
+**chicken**  
+In name:   
+ - Jamaican Jerk Chicken  
+ - Chicken Gravy  
+ - Lemon Chicken Rice Soup  
+  
+In description:   
+ - Pizza Slice Sausage & Pepperoni  
+ - Great Greens  
+  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-03-02)  
   
