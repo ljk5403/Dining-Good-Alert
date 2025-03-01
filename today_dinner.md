@@ -1,6 +1,6 @@
 # 2025-02-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-02-28 15:10:06  
+Updated at: 2025-02-28 18:57:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-02-28)  
 **clam**  
 In name:   
@@ -130,7 +130,7 @@ In name:
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
- - Poutine Bar  
+ - Chicago-Style Hot Dog  
   
 **pork**  
 In name:   
@@ -138,7 +138,6 @@ In name:
   
 In description:   
  - Clam Chowder  
- - Poutine Bar  
   
 **chicken**  
 In name:   
@@ -148,7 +147,6 @@ In description:
  - French Market Pork Jambalaya  
  - Thin Crust Tavern Style Pepperoni Pizza  
  - Great Greens  
- - Poutine Bar  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-02-28)  
 **watermelon**  
@@ -173,9 +171,16 @@ In description:
 In name:   
  - Tuna Salad  
   
+**Salmon**  
+In name:   
+ - Grilled Sesame Ginger Salmon  
+  
 **fish**  
 In name:   
  - Fish Sauce  
+  
+In description:   
+ - Grilled Sesame Ginger Salmon  
   
 **beef**  
 In name:   
@@ -188,7 +193,7 @@ In description:
   
 **pork**  
 In name:   
- - Smoked Pork Rib  
+ - Jerk Pork Chop  
   
 In description:   
  - Clam Chowder  
