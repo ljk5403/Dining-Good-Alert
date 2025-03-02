@@ -1,6 +1,6 @@
 # 2025-03-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-01 18:57:22  
+Updated at: 2025-03-01 21:21:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-01)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-03-01)  
 **watermelon**  
@@ -30,11 +30,11 @@ In name:
   
 **curry**  
 In name:   
- - Beef Curry Stew  
+ - Beef Bombay Curry  
   
 **beef**  
 In name:   
- - Beef Curry Stew  
+ - Beef Bombay Curry  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
