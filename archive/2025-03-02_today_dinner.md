@@ -1,6 +1,6 @@
 # 2025-03-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-03 06:21:38  
+Updated at: 2025-03-03 12:15:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-03)  
 **steak**  
 In name:   
@@ -106,10 +106,6 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**Tuna**  
-In name:   
- - Tuna Salad  
-  
 **Salmon**  
 In name:   
  - Smoked Salmon  
@@ -138,6 +134,7 @@ In name:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Crispy Buffalo Chicken Sandwich  
  - Chicken Noodle Soup  
   
