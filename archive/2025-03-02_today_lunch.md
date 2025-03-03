@@ -1,6 +1,6 @@
 # 2025-03-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-03 03:13:31  
+Updated at: 2025-03-03 06:21:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-03)  
 **Shrimp**  
 In name:   
@@ -68,10 +68,6 @@ In name:
  - Chicken Noodle Soup  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-03-03)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
@@ -104,9 +100,6 @@ In name:
  - Plant-Based Chicken Nuggets (6)  
  - Chicken Tinga  
  - Chicken Noodle Soup  
-  
-In description:   
- - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-03-03)  
 **watermelon**  
