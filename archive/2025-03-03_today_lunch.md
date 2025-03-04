@@ -1,6 +1,6 @@
 # 2025-03-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-04 06:21:39  
+Updated at: 2025-03-04 09:12:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-04)  
 **Tandoori Chicken**  
 In name:   
@@ -105,10 +105,13 @@ In description:
  - Southwest Burger  
  - Spicy Steak Fajita  
   
+**pork**  
+In name:   
+ - Pork Italian Sausage  
+  
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
- - Mediterranean Chicken  
  - Pizza Slice Chicken Bacon Ranch  
  - Chicken Sausage Patties  
   
@@ -124,10 +127,6 @@ In name:
 **drumstick**  
 In name:   
  - Smoked Chicken Drumstick  
-  
-**Tuna**  
-In name:   
- - Tuna Salad  
   
 **Tilapia**  
 In name:   
@@ -147,6 +146,7 @@ In name:
  - Smoked Chicken Drumstick  
  - Buffalo Chicken Wrap  
  - Italian Chicken  
+ - Lemon Pepper Chicken Salad  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  

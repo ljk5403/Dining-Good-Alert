@@ -1,6 +1,6 @@
 # 2025-03-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-04 09:12:17  
+Updated at: 2025-03-04 12:15:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-04)  
 **Tandoori Chicken**  
 In name:   
@@ -102,6 +102,7 @@ In name:
   
 In description:   
  - Brazilian Flank Steak  
+ - Pepperoni Pizza Slice  
  - Southwest Burger  
  - Spicy Steak Fajita  
   
@@ -114,6 +115,9 @@ In name:
  - Beef & Chicken Meatballs  
  - Pizza Slice Chicken Bacon Ranch  
  - Chicken Sausage Patties  
+  
+In description:   
+ - Pepperoni Pizza Slice  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-03-04)  
 **watermelon**  

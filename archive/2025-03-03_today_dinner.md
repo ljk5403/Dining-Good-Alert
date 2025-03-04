@@ -1,6 +1,6 @@
 # 2025-03-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-04 06:21:42  
+Updated at: 2025-03-04 09:12:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-04)  
 **Tandoori Chicken**  
 In name:   
@@ -121,10 +121,6 @@ In name:
 In name:   
  - Build Your Own Poke Bar  
   
-**Tuna**  
-In name:   
- - Tuna Salad  
-  
 **beef**  
 In name:   
  - Big Texan Beef Sandwich (Half)  
@@ -140,6 +136,7 @@ In name:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Italian Chicken  
  - Greek Chicken  
  - Chicken Gravy  
@@ -149,39 +146,6 @@ In description:
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-03-04)  
-**Shrimp**  
-In name:   
- - Shrimp & Krab Salad  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Shrimp & Krab Salad  
-  
-**beef**  
-In name:   
- - Beef & Bean Chili  
-  
-In description:   
- - Pizza Slice Meat Lovers w/ Bacon  
-  
-**pork**  
-In name:   
- - Pork Louisiana Creole - gcp  
-  
-In description:   
- - Pizza Slice Meat Lovers w/ Bacon  
-  
-**chicken**  
-In name:   
- - Pizza Slice Chicken Sriracha  
- - Cajun Chicken Pasta  
-  
-In description:   
- - Pizza Slice Meat Lovers w/ Bacon  
- - Pork Louisiana Creole - gcp  
-  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-03-04)  
 **lamb**  
 In name:   
