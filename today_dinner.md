@@ -1,6 +1,6 @@
 # 2025-03-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-04 12:15:30  
+Updated at: 2025-03-04 15:10:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-04)  
 **beef**  
 In name:   
@@ -15,33 +15,12 @@ In name:
 In name:   
  - Melon Watermelon Whole Sliced  
   
-**Tuna**  
-In name:   
- - Spicy Tuna Roll (FujiSan)  
- - Tuna Salad  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Spicy Tuna Roll (FujiSan)  
-  
 **beef**  
 In name:   
  - Beef & Bean Chili  
   
-In description:   
- - Station Recipe - Liz - Deli  AYCTE  
-  
-**pork**  
-In name:   
-  
-In description:   
- - Station Recipe - Liz - Deli  AYCTE  
-  
 **chicken**  
 In name:   
- - Tempura Chicken w/Sauce  
   
 In description:   
  - Station Recipe - Liz - Great Greens  
