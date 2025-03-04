@@ -1,6 +1,6 @@
 # 2025-03-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-04 03:12:25  
+Updated at: 2025-03-04 06:21:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-04)  
 **Tandoori Chicken**  
 In name:   
@@ -111,9 +111,6 @@ In name:
  - Mediterranean Chicken  
  - Pizza Slice Chicken Bacon Ranch  
  - Chicken Sausage Patties  
-  
-In description:   
- - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-03-04)  
 **watermelon**  
