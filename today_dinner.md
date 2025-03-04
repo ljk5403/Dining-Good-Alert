@@ -1,6 +1,6 @@
 # 2025-03-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-03 18:54:46  
+Updated at: 2025-03-03 21:21:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-03)  
 **steak**  
 In name:   
@@ -128,14 +128,11 @@ In name:
 In name:   
  - Beef Stew  
   
-**pork**  
-In name:   
- - Italian Pork Sausage  
-  
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
  - Crispy Buffalo Chicken Sandwich  
+ - Diced Chicken  
  - Chicken Noodle Soup  
   
 In description:   
