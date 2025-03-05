@@ -1,6 +1,6 @@
 # 2025-03-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-04 15:10:36  
+Updated at: 2025-03-04 18:54:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-04)  
 **Tandoori Chicken**  
 In name:   
@@ -162,10 +162,12 @@ In name:
   
 In description:   
  - Pizza Slice Meat Lovers w/ Bacon  
+ - Pizza Slice Muffaletta (Pork)  
  - Chicago-Style Hot Dog  
   
 **pork**  
 In name:   
+ - Pizza Slice Muffaletta (Pork)  
  - Pork Sausage Links  
   
 In description:   
@@ -176,10 +178,10 @@ In description:
 In name:   
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
- - Pizza Slice Chicken Sriracha  
   
 In description:   
  - Pizza Slice Meat Lovers w/ Bacon  
+ - Pizza Slice Muffaletta (Pork)  
  - Great Greens  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-03-04)  
