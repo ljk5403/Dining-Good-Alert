@@ -1,6 +1,6 @@
 # 2025-03-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-05 03:12:35  
+Updated at: 2025-03-05 06:21:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-05)  
 **beef**  
 In name:   
@@ -75,10 +75,6 @@ In description:
  - French Market Pork Jambalaya  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-03-05)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
 **Tilapia**  
 In name:   
  - Tilapia Veracruz  
@@ -116,9 +112,6 @@ In name:
  - Sesame Chicken  
  - Plant Based Sesame Chicken (AYCTE) (VN)  
  - Chicken Tortilla Soup  
-  
-In description:   
- - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-03-05)  
 **watermelon**  
