@@ -1,6 +1,6 @@
 # 2025-03-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-04 18:54:37  
+Updated at: 2025-03-04 21:20:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-04)  
 **Tandoori Chicken**  
 In name:   
@@ -44,6 +44,10 @@ In description:
 In name:   
  - Melon Watermelon Whole Sliced  
   
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
 **Salmon**  
 In name:   
  - Salmon Philly Roll (FujiSan)  
@@ -60,11 +64,15 @@ In name:
  - Beef Taco Meat  
  - Beef & Bean Chili  
   
+In description:   
+ - Station Recipe - Liz - Deli  AYCTE  
+  
 **pork**  
 In name:   
   
 In description:   
  - Italian Sausage Sandwich w/ Tomato Sauce  
+ - Station Recipe - Liz - Deli  AYCTE  
   
 **chicken**  
 In name:   
