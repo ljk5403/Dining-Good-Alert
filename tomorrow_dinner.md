@@ -1,6 +1,6 @@
 # 2025-03-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-05 18:54:46  
+Updated at: 2025-03-05 21:21:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-06)  
 **Salmon**  
 In name:   
@@ -15,7 +15,7 @@ In description:
   
 **curry**  
 In name:   
- - Currywurst  
+ - Currywurst (Pork)  
  - Vegan Currywurst - Testing 2023  
   
 **beef**  
@@ -26,14 +26,15 @@ In name:
 In description:   
  - Burnt Ends  
  - Thin Crust Tavern Style Pepperoni Pizza  
- - Currywurst  
+ - Currywurst (Pork)  
   
 **pork**  
 In name:   
+ - Thin Crust Cheese Pizza (Pork)  
+ - Currywurst (Pork)  
   
 In description:   
  - Chorizo Sauce  
- - Currywurst  
   
 **chicken**  
 In name:   
@@ -189,6 +190,7 @@ In description:
   
 **pork**  
 In name:   
+ - Thin Crust Cheese Pizza (Pork)  
  - Green Beans w/ Pork Bacon  
   
 In description:   

@@ -1,6 +1,6 @@
 # 2025-03-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-05 18:54:42  
+Updated at: 2025-03-05 21:21:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-05)  
 **Beef Alicha**  
 In name:   
@@ -110,6 +110,7 @@ In name:
   
 **Shrimp**  
 In name:   
+ - Sweet & Sour Shrimp  
   
 In description:   
  - French Quarter Seafood Appetizer  
@@ -124,6 +125,7 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
+ - Beef Teriyaki  
  - Beef Taco Meat  
  - Beef French Dip Sandwich  
   
@@ -136,6 +138,7 @@ In description:
 **pork**  
 In name:   
  - Italian Pork Sausage  
+ - Thin Crust Cheese Pizza (Pork)  
  - Pork Carnita  
   
 In description:   
@@ -147,7 +150,7 @@ In name:
  - Plant-Based Chicken & Gravy (VN)  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
- - Sweet & Sour Chicken  
+ - Chicken Teriyaki Stir Fry  
  - Chicken Tortilla Soup  
   
 In description:   

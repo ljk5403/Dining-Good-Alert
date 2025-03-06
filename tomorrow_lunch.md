@@ -1,6 +1,6 @@
 # 2025-03-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-05 18:54:44  
+Updated at: 2025-03-05 21:21:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-06)  
 **Cod**  
 In name:   
@@ -24,6 +24,7 @@ In description:
 **pork**  
 In name:   
  - Spicy ChilI Rice Pork Chops  
+ - Thin Crust Cheese Pizza (Pork)  
   
 In description:   
  - Chorizo Sauce  
@@ -119,14 +120,14 @@ In name:
 In description:   
  - Grilled Flank Steak  
  - Grilled Cheeseburger  
- - Pizza Slice Deluxe  
+ - Pizza Slice Deluxe (Pork)  
   
 **pork**  
 In name:   
+ - Pizza Slice Deluxe (Pork)  
   
 In description:   
  - Andouille Sausage  
- - Pizza Slice Deluxe  
   
 **chicken**  
 In name:   
@@ -135,7 +136,7 @@ In name:
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
- - Pizza Slice Deluxe  
+ - Pizza Slice Deluxe (Pork)  
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-03-06)  
@@ -166,6 +167,7 @@ In description:
   
 **pork**  
 In name:   
+ - Thin Crust Cheese Pizza (Pork)  
  - Herb Crusted Pork Loin  
   
 In description:   

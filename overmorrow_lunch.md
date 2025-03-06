@@ -1,6 +1,6 @@
 # 2025-03-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-05 18:54:48  
+Updated at: 2025-03-05 21:21:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-07)  
 **steak**  
 In name:   
@@ -8,13 +8,13 @@ In name:
   
 **clam**  
 In name:   
- - Clam Chowder  
+ - Clam Chowder (Pork)  
   
 **Cod**  
 In name:   
   
 In description:   
- - Clam Chowder  
+ - Clam Chowder (Pork)  
   
 **catfish**  
 In name:   
@@ -44,16 +44,15 @@ In description:
   
 **pork**  
 In name:   
- - Chicken Jollof Rice (Contains Pork)  
  - Pork Carnita  
+ - Clam Chowder (Pork)  
   
 In description:   
  - Pizza Slice Sausage  
- - Clam Chowder  
   
 **chicken**  
 In name:   
- - Chicken Jollof Rice (Contains Pork)  
+ - Chicken Jollof Rice (Non-Halal)  
  - Lemon Pepper Chicken Salad  
  - Butter Chicken  
  - Fajita Chicken  
@@ -104,7 +103,7 @@ In name:
   
 **clam**  
 In name:   
- - Clam Chowder  
+ - Clam Chowder (Pork)  
   
 **Shrimp**  
 In name:   
@@ -115,7 +114,7 @@ In name:
   
 In description:   
  - Petite Fish Sandwich  
- - Clam Chowder  
+ - Clam Chowder (Pork)  
   
 **fish**  
 In name:   
@@ -139,16 +138,14 @@ In name:
   
 **pork**  
 In name:   
-  
-In description:   
- - Pizza Slice Chicken Cordon Bleu  
- - Clam Chowder  
+ - Pizza Slice Chicken Cordon Bleu (Pork)  
+ - Clam Chowder (Pork)  
   
 **chicken**  
 In name:   
  - Honey Lime Chicken Breast  
  - Beef & Chicken Meatballs  
- - Pizza Slice Chicken Cordon Bleu  
+ - Pizza Slice Chicken Cordon Bleu (Pork)  
  - Chicken Sausage Patties  
  - Chicken Tikka Masala  
   
@@ -166,14 +163,14 @@ In name:
   
 **clam**  
 In name:   
- - Clam Chowder  
+ - Clam Chowder (Pork)  
   
 **Cod**  
 In name:   
  - Battered Cod  
   
 In description:   
- - Clam Chowder  
+ - Clam Chowder (Pork)  
   
 **Tuna**  
 In name:   
@@ -192,16 +189,14 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Sliced Kielbasa  
+ - Sliced Kielbasa (Pork)  
  - Vegan Taco Filling  
   
 **pork**  
 In name:   
  - Smoked Pulled Pork Sandwich  
-  
-In description:   
- - Sliced Kielbasa  
- - Clam Chowder  
+ - Sliced Kielbasa (Pork)  
+ - Clam Chowder (Pork)  
   
 **chicken**  
 In name:   
@@ -217,7 +212,7 @@ In description:
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-03-07)  
 **clam**  
 In name:   
- - Clam Chowder  
+ - Clam Chowder (Pork)  
   
 **Shrimp**  
 In name:   
@@ -227,7 +222,7 @@ In name:
 In name:   
   
 In description:   
- - Clam Chowder  
+ - Clam Chowder (Pork)  
   
 **Tilapia**  
 In name:   
@@ -243,10 +238,10 @@ In description:
   
 **pork**  
 In name:   
+ - Clam Chowder (Pork)  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
- - Clam Chowder  
   
 **chicken**  
 In name:   

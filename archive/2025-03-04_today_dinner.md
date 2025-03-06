@@ -1,6 +1,6 @@
 # 2025-03-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-05 15:10:44  
+Updated at: 2025-03-05 18:54:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-05)  
 **Beef Alicha**  
 In name:   
@@ -130,11 +130,11 @@ In name:
 In description:   
  - Country Fried Steak  
  - Italian Meat Sauce  
+ - Thin Crust Tavern Style Pepperoni Pizza  
  - Vegan Taco Filling  
   
 **pork**  
 In name:   
- - Roasted Pork Loin  
  - Italian Pork Sausage  
  - Pork Carnita  
   
@@ -151,6 +151,7 @@ In name:
  - Chicken Tortilla Soup  
   
 In description:   
+ - Thin Crust Tavern Style Pepperoni Pizza  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-03-05)  
@@ -162,13 +163,13 @@ In name:
 In name:   
  - Build Your Own Poke Bar  
   
-**Cod**  
+**catfish**  
 In name:   
- - Baked Cod Fillet w/Butter & Lemon  
+ - Blackened Catfish  
   
-**Tuna**  
+**fish**  
 In name:   
- - Tuna Salad  
+ - Blackened Catfish  
   
 **beef**  
 In name:   
@@ -180,6 +181,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Beef & Chicken Meatballs  
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  

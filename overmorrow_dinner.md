@@ -1,6 +1,6 @@
 # 2025-03-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-05 18:54:49  
+Updated at: 2025-03-05 21:21:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-07)  
 **drumstick**  
 In name:   
@@ -12,7 +12,7 @@ In name:
   
 **clam**  
 In name:   
- - Clam Chowder  
+ - Clam Chowder (Pork)  
   
 **Shrimp**  
 In name:   
@@ -23,7 +23,7 @@ In name:
  - Cod Nuggets  
   
 In description:   
- - Clam Chowder  
+ - Clam Chowder (Pork)  
   
 **fish**  
 In name:   
@@ -39,10 +39,10 @@ In description:
 **pork**  
 In name:   
  - Pork Carnita  
+ - Clam Chowder (Pork)  
   
 In description:   
  - Pizza Slice Sausage  
- - Clam Chowder  
   
 **chicken**  
 In name:   
@@ -94,7 +94,7 @@ In name:
   
 **clam**  
 In name:   
- - Clam Chowder  
+ - Clam Chowder (Pork)  
   
 **Shrimp**  
 In name:   
@@ -106,7 +106,7 @@ In name:
  - Cod Nugget Basket  
   
 In description:   
- - Clam Chowder  
+ - Clam Chowder (Pork)  
   
 **fish**  
 In name:   
@@ -131,16 +131,14 @@ In description:
   
 **pork**  
 In name:   
-  
-In description:   
- - Pizza Slice Chicken Cordon Bleu  
- - Clam Chowder  
+ - Pizza Slice Chicken Cordon Bleu (Pork)  
+ - Clam Chowder (Pork)  
   
 **chicken**  
 In name:   
  - Brazilian Chicken w/ Salsa Vinaigrette  
  - Beef & Chicken Meatballs  
- - Pizza Slice Chicken Cordon Bleu  
+ - Pizza Slice Chicken Cordon Bleu (Pork)  
  - Chicken Tikka Masala  
   
 In description:   
@@ -157,7 +155,7 @@ In name:
   
 **clam**  
 In name:   
- - Clam Chowder  
+ - Clam Chowder (Pork)  
   
 **Shrimp**  
 In name:   
@@ -168,7 +166,7 @@ In name:
  - Battered Cod  
   
 In description:   
- - Clam Chowder  
+ - Clam Chowder (Pork)  
   
 **Tuna**  
 In name:   
@@ -194,9 +192,7 @@ In description:
   
 **pork**  
 In name:   
-  
-In description:   
- - Clam Chowder  
+ - Clam Chowder (Pork)  
   
 **chicken**  
 In name:   
@@ -210,13 +206,13 @@ In description:
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-03-07)  
 **clam**  
 In name:   
- - Clam Chowder  
+ - Clam Chowder (Pork)  
   
 **Cod**  
 In name:   
   
 In description:   
- - Clam Chowder  
+ - Clam Chowder (Pork)  
   
 **fish**  
 In name:   
@@ -231,10 +227,10 @@ In description:
   
 **pork**  
 In name:   
+ - Clam Chowder (Pork)  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
- - Clam Chowder  
   
 **chicken**  
 In name:   
