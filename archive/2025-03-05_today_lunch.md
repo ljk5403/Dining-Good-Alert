@@ -1,6 +1,6 @@
 # 2025-03-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-06 09:12:00  
+Updated at: 2025-03-06 12:15:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-06)  
 **Cod**  
 In name:   
@@ -24,7 +24,6 @@ In description:
 **pork**  
 In name:   
  - Spicy ChilI Rice Pork Chops  
- - Thin Crust Cheese Pizza (Pork)  
   
 In description:   
  - Chorizo Sauce  
@@ -102,10 +101,6 @@ In name:
 In name:   
  - Build Your Own Poke Bar  
   
-**Tuna**  
-In name:   
- - Tuna Salad  
-  
 **beef**  
 In name:   
   
@@ -122,6 +117,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Chicken Dumpling Soup  
   
 In description:   
@@ -157,7 +153,6 @@ In description:
   
 **pork**  
 In name:   
- - Thin Crust Cheese Pizza (Pork)  
  - Herb Crusted Pork Loin  
   
 In description:   
