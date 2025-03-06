@@ -1,6 +1,6 @@
 # 2025-03-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-05 09:12:47  
+Updated at: 2025-03-05 15:10:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-05)  
 **Beef Alicha**  
 In name:   
@@ -108,11 +108,18 @@ In name:
 In name:   
  - Country Fried Steak  
   
+**Shrimp**  
+In name:   
+  
+In description:   
+ - French Quarter Seafood Appetizer  
+  
 **fish**  
 In name:   
   
 In description:   
  - Tempura Roll (FujiSan)  
+ - French Quarter Seafood Appetizer  
   
 **beef**  
 In name:   
@@ -191,6 +198,10 @@ In name:
 In name:   
  - Shrimp & Krab Salad  
   
+**Tilapia**  
+In name:   
+ - Lemon Bake Tilapia  
+  
 **fish**  
 In name:   
   
@@ -213,7 +224,6 @@ In description:
   
 **chicken**  
 In name:   
- - Teriyaki Chicken Fillet  
  - Chicken Tortilla Soup  
   
 In description:   
