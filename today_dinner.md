@@ -1,6 +1,6 @@
 # 2025-03-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-06 09:12:05  
+Updated at: 2025-03-06 12:15:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-06)  
 **fish**  
 In name:   
@@ -26,7 +26,6 @@ In description:
 **pork**  
 In name:   
  - Pork Adobo  
- - Thin Crust Cheese Pizza (Pork)  
  - Currywurst (Pork)  
   
 In description:   
@@ -169,7 +168,6 @@ In description:
   
 **pork**  
 In name:   
- - Thin Crust Cheese Pizza (Pork)  
  - Green Beans w/ Pork Bacon  
   
 In description:   

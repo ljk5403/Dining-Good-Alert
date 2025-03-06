@@ -1,16 +1,11 @@
 # 2025-03-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-06 06:21:41  
+Updated at: 2025-03-06 09:12:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-06)  
-**Salmon**  
-In name:   
- - Hoisin BBQ Glazed Salmon  
-  
 **fish**  
 In name:   
   
 In description:   
- - Hoisin BBQ Glazed Salmon  
  - Tempura Roll (FujiSan)  
   
 **curry**  
@@ -30,6 +25,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Adobo  
  - Thin Crust Cheese Pizza (Pork)  
  - Currywurst (Pork)  
   
@@ -80,10 +76,6 @@ In name:
  - Lemon Pepper Chicken Salad  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-03-06)  
-**steak**  
-In name:   
- - Rosemary Cabernet Flank Steak  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
@@ -95,7 +87,6 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Rosemary Cabernet Flank Steak  
  - Pizza Slice - Bacon Cheeseburger  
  - Pepperoni Pizza Slice  
  - Pork Bratwurst Sandwich  
@@ -109,7 +100,6 @@ In description:
   
 **chicken**  
 In name:   
- - Blackened Chicken  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Mediterranean Chicken  
@@ -133,16 +123,6 @@ In name:
 In name:   
  - Tuna Salad  
   
-**fish**  
-In name:   
-  
-In description:   
- - Duck Curry  
-  
-**curry**  
-In name:   
- - Duck Curry  
-  
 **beef**  
 In name:   
  - Beef Quesadilla  
@@ -152,7 +132,6 @@ In description:
   
 **pork**  
 In name:   
- - Pork Loin Spicy Greenbush  
   
 In description:   
  - Andouille Sausage  

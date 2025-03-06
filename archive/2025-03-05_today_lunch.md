@@ -1,6 +1,6 @@
 # 2025-03-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-06 06:21:39  
+Updated at: 2025-03-06 09:12:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-06)  
 **Cod**  
 In name:   
@@ -19,7 +19,7 @@ In name:
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
- - Reuben  
+ - Grilled Cheeseburger  
   
 **pork**  
 In name:   
@@ -93,9 +93,6 @@ In name:
  - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
   
-In description:   
- - Great Greens  
-  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-03-06)  
 **watermelon**  
 In name:   
@@ -105,10 +102,6 @@ In name:
 In name:   
  - Build Your Own Poke Bar  
   
-**steak**  
-In name:   
- - Grilled Flank Steak  
-  
 **Tuna**  
 In name:   
  - Tuna Salad  
@@ -117,7 +110,6 @@ In name:
 In name:   
   
 In description:   
- - Grilled Flank Steak  
  - Grilled Cheeseburger  
  - Pizza Slice Deluxe (Pork)  
   
@@ -130,7 +122,6 @@ In description:
   
 **chicken**  
 In name:   
- - Cajun Chicken Pasta  
  - Chicken Dumpling Soup  
   
 In description:   
