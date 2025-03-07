@@ -1,6 +1,6 @@
 # 2025-03-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-07 06:20:49  
+Updated at: 2025-03-07 09:11:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-07)  
 **steak**  
 In name:   
@@ -12,21 +12,14 @@ In name:
   
 **Cod**  
 In name:   
+ - Battered Cod  
   
 In description:   
  - Clam Chowder (Pork)  
   
-**catfish**  
-In name:   
- - Catfish Nuggets w/ Remoulade Sauce  
-  
 **Tilapia**  
 In name:   
  - Baked Tilapia w/ Tomato Tapenade  
-  
-**fish**  
-In name:   
- - Catfish Nuggets w/ Remoulade Sauce  
   
 **curry**  
 In name:   
@@ -136,6 +129,9 @@ In name:
  - Beef Barbacoa  
  - Beef Taco Meat  
   
+In description:   
+ - Pepperoni Pizza Slice  
+  
 **pork**  
 In name:   
  - Pizza Slice Chicken Cordon Bleu (Pork)  
@@ -150,6 +146,7 @@ In name:
  - Chicken Tikka Masala  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-03-07)  
@@ -171,10 +168,6 @@ In name:
   
 In description:   
  - Clam Chowder (Pork)  
-  
-**Tuna**  
-In name:   
- - Tuna Salad  
   
 **catfish**  
 In name:   
@@ -202,6 +195,7 @@ In name:
 In name:   
  - Plant-Based Chicken & Dumplings  
  - Grilled Chicken Sandwich  
+ - Lemon Pepper Chicken Salad  
   
 In description:   
  - Collard Greens w/Bacon  
