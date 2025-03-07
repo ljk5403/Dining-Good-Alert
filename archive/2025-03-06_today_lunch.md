@@ -1,6 +1,6 @@
 # 2025-03-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-07 09:11:42  
+Updated at: 2025-03-07 12:15:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-07)  
 **steak**  
 In name:   
@@ -164,18 +164,11 @@ In name:
   
 **Cod**  
 In name:   
+ - Baked Cod Fillet w/Butter & Lemon  
  - Battered Cod  
   
 In description:   
  - Clam Chowder (Pork)  
-  
-**catfish**  
-In name:   
- - Blackened Catfish  
-  
-**fish**  
-In name:   
- - Blackened Catfish  
   
 **beef**  
 In name:   
