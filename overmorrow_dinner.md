@@ -1,6 +1,6 @@
 # 2025-03-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-06 18:55:30  
+Updated at: 2025-03-06 21:22:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-08)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-03-08)  
 **watermelon**  
@@ -38,9 +38,7 @@ In description:
 In name:   
  - Herb Crusted Pork Loin  
  - Italian Pork Sausage  
-  
-In description:   
- - Thin Crust Tavern Style Sausage Pizza  
+ - Tavern Style Sausage Pizza (Pork)  
   
 **chicken**  
 In name:   

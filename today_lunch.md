@@ -1,6 +1,6 @@
 # 2025-03-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-06 18:55:18  
+Updated at: 2025-03-06 21:21:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-06)  
 **Cod**  
 In name:   
@@ -101,10 +101,15 @@ In name:
 In name:   
  - Build Your Own Poke Bar  
   
+**steak**  
+In name:   
+ - Grilled Flank Steak  
+  
 **beef**  
 In name:   
   
 In description:   
+ - Grilled Flank Steak  
  - Grilled Cheeseburger  
  - Pizza Slice Deluxe (Pork)  
   
@@ -117,6 +122,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Cajun Chicken Pasta  
  - Lemon Pepper Chicken Salad  
  - Chicken Dumpling Soup  
   
@@ -153,10 +159,10 @@ In description:
   
 **pork**  
 In name:   
+ - Tavern Style Sausage Pizza (Pork)  
  - Herb Crusted Pork Loin  
   
 In description:   
- - Thin Crust Tavern Style Sausage Pizza  
  - Egg, Sausage & Cheese English Muffin  
  - Ham Steak  
   

@@ -1,6 +1,6 @@
 # 2025-03-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-06 18:55:21  
+Updated at: 2025-03-06 21:22:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-06)  
 **fish**  
 In name:   
@@ -74,6 +74,10 @@ In name:
  - Lemon Pepper Chicken Salad  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-03-06)  
+**steak**  
+In name:   
+ - Rosemary Cabernet Flank Steak  
+  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
@@ -85,6 +89,7 @@ In name:
  - Beef Taco Meat  
   
 In description:   
+ - Rosemary Cabernet Flank Steak  
  - Pizza Slice - Bacon Cheeseburger  
  - Pepperoni Pizza Slice  
  - Pork Bratwurst Sandwich  
@@ -98,6 +103,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Blackened Chicken  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Mediterranean Chicken  
@@ -117,6 +123,16 @@ In name:
 In name:   
  - Build Your Own Poke Bar  
   
+**fish**  
+In name:   
+  
+In description:   
+ - Duck Curry  
+  
+**curry**  
+In name:   
+ - Duck Curry  
+  
 **beef**  
 In name:   
  - Beef Quesadilla  
@@ -126,6 +142,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Loin Spicy Greenbush  
   
 In description:   
  - Andouille Sausage  
@@ -160,10 +177,8 @@ In description:
   
 **pork**  
 In name:   
+ - Tavern Style Sausage Pizza (Pork)  
  - Green Beans w/ Pork Bacon  
-  
-In description:   
- - Thin Crust Tavern Style Sausage Pizza  
   
 **chicken**  
 In name:   
