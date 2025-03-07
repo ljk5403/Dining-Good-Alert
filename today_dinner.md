@@ -1,6 +1,6 @@
 # 2025-03-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-06 15:10:55  
+Updated at: 2025-03-06 18:55:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-06)  
 **fish**  
 In name:   
@@ -16,7 +16,6 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Mediterranean Beef  
   
 In description:   
  - Burnt Ends  
@@ -37,7 +36,7 @@ In name:
  - Plant Based Chicken Strips  
  - Lemon Pepper Chicken Salad  
  - Mediterranean Chicken  
- - Chicken Dumpling Soup  
+ - Lemon Chicken Soup  
   
 In description:   
  - Chorizo Sauce  
@@ -118,10 +117,6 @@ In name:
 In name:   
  - Build Your Own Poke Bar  
   
-**Tuna**  
-In name:   
- - Tuna Salad  
-  
 **beef**  
 In name:   
  - Beef Quesadilla  
@@ -137,6 +132,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Chicken Dumpling Soup  
   
 In description:   
@@ -148,10 +144,6 @@ In description:
 **Shrimp**  
 In name:   
  - Shrimp & Krab Salad  
-  
-**Tilapia**  
-In name:   
- - Lemon Bake Tilapia  
   
 **fish**  
 In name:   
@@ -175,6 +167,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Teriyaki Chicken Fillet  
  - Chicken Tenders Breaded  
  - Plant-Based Chicken Tenders  
  - Chicken Dumpling Soup  
