@@ -1,6 +1,6 @@
 # 2025-03-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-07 18:42:35  
+Updated at: 2025-03-07 21:10:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-07)  
 **drumstick**  
 In name:   
@@ -100,9 +100,6 @@ In name:
 In name:   
  - Sauteed Shrimp  
   
-In description:   
- - French Quarter Seafood Appetizer  
-  
 **Cod**  
 In name:   
  - Caribbean Cod  
@@ -114,9 +111,6 @@ In description:
 **fish**  
 In name:   
  - Vegan Fish Sandwich  
-  
-In description:   
- - French Quarter Seafood Appetizer  
   
 **curry**  
 In name:   
@@ -143,7 +137,7 @@ In name:
   
 **chicken**  
 In name:   
- - Brazilian Chicken w/ Salsa Vinaigrette  
+ - Blackened Chicken  
  - Beef & Chicken Meatballs  
  - Pizza Slice Chicken Cordon Bleu (Pork)  
  - Chicken Curry  

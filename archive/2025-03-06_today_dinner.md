@@ -1,6 +1,6 @@
 # 2025-03-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-07 15:09:39  
+Updated at: 2025-03-07 18:42:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-07)  
 **drumstick**  
 In name:   
@@ -100,6 +100,9 @@ In name:
 In name:   
  - Sauteed Shrimp  
   
+In description:   
+ - French Quarter Seafood Appetizer  
+  
 **Cod**  
 In name:   
  - Caribbean Cod  
@@ -112,12 +115,15 @@ In description:
 In name:   
  - Vegan Fish Sandwich  
   
+In description:   
+ - French Quarter Seafood Appetizer  
+  
 **curry**  
 In name:   
+ - Chicken Curry  
  - Curry Potatoes  
   
 In description:   
- - Chicken Tikka Masala  
  - Tofu & Vegetable Tikka Masala  
   
 **beef**  
@@ -127,6 +133,7 @@ In name:
  - Beef Taco Meat  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - French Fry Bar  
   
 **pork**  
@@ -139,9 +146,10 @@ In name:
  - Brazilian Chicken w/ Salsa Vinaigrette  
  - Beef & Chicken Meatballs  
  - Pizza Slice Chicken Cordon Bleu (Pork)  
- - Chicken Tikka Masala  
+ - Chicken Curry  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-03-07)  
