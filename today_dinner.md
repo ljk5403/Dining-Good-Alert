@@ -1,6 +1,6 @@
 # 2025-03-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-08 12:12:10  
+Updated at: 2025-03-08 15:08:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-08)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-03-08)  
 **watermelon**  
@@ -57,6 +57,10 @@ In description:
 In name:   
  - Watermelon Slices  
   
+**Shrimp**  
+In name:   
+ - Shrimp & Pork Andouille Pasta  
+  
 **Tuna**  
 In name:   
  - Tuna Salad  
@@ -65,6 +69,10 @@ In name:
 In name:   
  - Beef Broccoli Stir Fry  
  - Beef Taco Meat  
+  
+**pork**  
+In name:   
+ - Shrimp & Pork Andouille Pasta  
   
 **chicken**  
 In name:   
@@ -76,6 +84,7 @@ In name:
  - Cream of Chicken & Wild Rice Soup  
   
 In description:   
+ - Shrimp & Pork Andouille Pasta  
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-03-08)  

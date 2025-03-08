@@ -1,6 +1,6 @@
 # 2025-03-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-08 09:08:16  
+Updated at: 2025-03-08 12:12:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-08)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-03-08)  
 **watermelon**  
@@ -25,6 +25,10 @@ In name:
 In name:   
  - Chicken Drumstick BBQ Glazed  
   
+**Samosas**  
+In name:   
+ - Samosas  
+  
 **beef**  
 In name:   
  - Beef Tri Tip Carved w/ Chimichurri  
@@ -32,12 +36,14 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Thin Crust Tavern Style Pepperoni Pizza  
+ - Pepperoni Pizza Slice  
   
 **pork**  
 In name:   
  - Italian Pork Sausage  
- - Tavern Style Sausage Pizza (Pork)  
+  
+In description:   
+ - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
@@ -49,7 +55,7 @@ In name:
  - Cream of Chicken & Wild Rice Soup  
   
 In description:   
- - Thin Crust Tavern Style Pepperoni Pizza  
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-03-08)  
