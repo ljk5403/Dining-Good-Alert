@@ -1,6 +1,6 @@
 # 2025-03-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-07 12:15:02  
+Updated at: 2025-03-07 15:09:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-07)  
 **steak**  
 In name:   
@@ -37,6 +37,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Chop (1)  
  - Pork Carnita  
  - Clam Chowder (Pork)  
   
@@ -45,9 +46,8 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Jollof Rice (Non-Halal)  
  - Lemon Pepper Chicken Salad  
- - Butter Chicken  
+ - Chicken Vindaloo - w/ Rice  
  - Fajita Chicken  
  - Diced Chicken Breast  
   
