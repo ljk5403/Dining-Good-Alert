@@ -1,6 +1,6 @@
 # 2025-03-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-08 18:47:15  
+Updated at: 2025-03-08 21:11:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-08)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-03-08)  
 **watermelon**  
@@ -68,21 +68,16 @@ In name:
 In name:   
  - Tuna Salad  
   
-**beef**  
-In name:   
- - Beef Broccoli Stir Fry  
- - Beef Taco Meat  
-  
 **pork**  
 In name:   
  - Shrimp & Pork Andouille Pasta  
+ - Pork Carnita  
   
 **chicken**  
 In name:   
  - Crispy Chicken Sandwich  
  - Plant-Based Chicken Tenders  
  - Giardiniera Chicken  
- - Plant Based Sweet & Sour Chicken  
  - Diced Chicken  
  - Cream of Chicken & Wild Rice Soup  
   
