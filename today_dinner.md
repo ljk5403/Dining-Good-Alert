@@ -1,6 +1,6 @@
 # 2025-03-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-08 15:08:35  
+Updated at: 2025-03-08 18:47:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-08)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-03-08)  
 **watermelon**  
@@ -31,14 +31,16 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Thin Crust Tavern Style Pepperoni Pizza  
- - Big Dog Hot Dog w/ Chili & Cheese  
+ - Pepperoni Pizza Slice  
+ - Grilled Cheeseburger  
   
 **pork**  
 In name:   
  - Herb Crusted Pork Loin  
  - Italian Pork Sausage  
- - Tavern Style Sausage Pizza (Pork)  
+  
+In description:   
+ - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
@@ -47,9 +49,10 @@ In name:
  - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
  - Cream of Chicken & Wild Rice Soup  
+ - Diced Chicken  
   
 In description:   
- - Thin Crust Tavern Style Pepperoni Pizza  
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-03-08)  
