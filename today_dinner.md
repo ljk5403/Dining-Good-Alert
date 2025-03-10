@@ -1,6 +1,6 @@
 # 2025-03-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-10 13:13:57  
+Updated at: 2025-03-10 16:10:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-10)  
 **drumstick**  
 In name:   
@@ -104,10 +104,6 @@ In name:
 In name:   
  - Chicken Drumstick BBQ Glazed  
   
-**Tuna**  
-In name:   
- - Tuna Salad  
-  
 **beef**  
 In name:   
  - Beef Taco Meat  
@@ -122,6 +118,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Grilled Chicken Sandwich  
  - Chicken Drumstick BBQ Glazed  
  - Chicken Tinga  

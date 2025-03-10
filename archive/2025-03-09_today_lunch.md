@@ -1,6 +1,6 @@
 # 2025-03-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-10 10:13:05  
+Updated at: 2025-03-10 13:13:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-10)  
 **beef**  
 In name:   
@@ -110,9 +110,17 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**Tuna**  
+**Shrimp**  
 In name:   
- - Tuna Salad  
+  
+In description:   
+ - Kimchee  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Kimchee  
   
 **beef**  
 In name:   
@@ -130,6 +138,7 @@ In name:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
  - Chicken Noodle Soup  
  - Bulgogi Chicken  
