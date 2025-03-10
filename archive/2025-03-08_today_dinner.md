@@ -1,6 +1,6 @@
 # 2025-03-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-09 10:09:03  
+Updated at: 2025-03-09 16:09:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-09)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -88,15 +88,13 @@ In name:
 In name:   
  - Tuna Salad  
   
-**Salmon**  
+**catfish**  
 In name:   
- - Tuscan Butter Salmon  
+ - Garlic Baked Catfish  
   
 **fish**  
 In name:   
-  
-In description:   
- - Tuscan Butter Salmon  
+ - Garlic Baked Catfish  
   
 **curry**  
 In name:   
