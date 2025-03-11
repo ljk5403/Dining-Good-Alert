@@ -1,6 +1,6 @@
 # 2025-03-11 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-11 10:12:54  
+Updated at: 2025-03-11 13:15:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-11)  
 **curry**  
 In name:   
@@ -120,13 +120,13 @@ In description:
   
 **pork**  
 In name:   
+ - Italian Pork Sausage  
  - Tavern Style Sausage Pizza (Pork)  
   
 **chicken**  
 In name:   
  - Irish Roast Chicken w/Leeks and Bacon  
  - Beef & Chicken Meatballs  
- - Mediterranean Chicken  
  - Chicken Sausage Patties  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-03-11)  

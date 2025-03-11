@@ -1,6 +1,6 @@
 # 2025-03-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-11 13:15:55  
+Updated at: 2025-03-11 16:08:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-11)  
 **fish**  
 In name:   
@@ -104,13 +104,13 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Italian Sausage  
  - Tavern Style Sausage Pizza (Pork)  
   
 **chicken**  
 In name:   
  - Montreal Chicken  
  - Beef & Chicken Meatballs  
- - Mediterranean Chicken  
  - Chicken Sausage Patties  
  - Crispy Chicken Sandwich  
   
