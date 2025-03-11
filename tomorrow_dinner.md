@@ -1,6 +1,6 @@
 # 2025-03-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-10 19:55:20  
+Updated at: 2025-03-10 22:22:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-11)  
 **fish**  
 In name:   
@@ -127,7 +127,6 @@ In name:
   
 In description:   
  - BYO Bar - Four Lakes Bulgogi  
- - Kimchee  
   
 **Tuna**  
 In name:   
@@ -138,7 +137,6 @@ In name:
   
 In description:   
  - BYO Bar - Four Lakes Bulgogi  
- - Kimchee  
   
 **lamb**  
 In name:   
