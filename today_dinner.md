@@ -1,6 +1,6 @@
 # 2025-03-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-11 16:08:58  
+Updated at: 2025-03-11 19:54:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-11)  
 **fish**  
 In name:   
@@ -87,12 +87,9 @@ In description:
 In name:   
  - Spicy Steak Fajita  
   
-In description:   
- - Montreal Chicken  
-  
 **beef**  
 In name:   
- - Corned Beef  
+ - Beef Sirloin Tips  
  - Beef Gravy  
  - Beef & Chicken Meatballs  
  - Beef Bulgogi Bao Bun  
@@ -100,21 +97,23 @@ In name:
  - Beef & Bean Chili  
   
 In description:   
+ - Thin Crust Tavern Style Pepperoni Pizza  
  - Spicy Steak Fajita  
   
 **pork**  
 In name:   
+ - Baked Pork Ham  
  - Pork Italian Sausage  
  - Tavern Style Sausage Pizza (Pork)  
   
 **chicken**  
 In name:   
- - Montreal Chicken  
  - Beef & Chicken Meatballs  
  - Chicken Sausage Patties  
  - Crispy Chicken Sandwich  
   
 In description:   
+ - Thin Crust Tavern Style Pepperoni Pizza  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-03-11)  
