@@ -1,6 +1,6 @@
 # 2025-03-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-12 07:22:01  
+Updated at: 2025-03-12 10:12:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-14)  
 **Poke Bar**  
 In name:   
@@ -135,8 +135,8 @@ In name:
  - Huli Huli Chicken  
  - Beef & Chicken Meatballs  
  - Butter Chicken  
- - Chicken Gravy  
  - Chicken Popcorn  
+ - Chicken Gravy  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
