@@ -1,6 +1,6 @@
 # 2025-03-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-12 13:16:19  
+Updated at: 2025-03-12 16:10:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-13)  
 **Chicken Drummies**  
 In name:   
@@ -67,7 +67,6 @@ In description:
 In name:   
   
 In description:   
- - Kafta - Testing 2023  
  - Country Fried Steak  
  - Station Recipe - Liz - Deli  AYCTE  
   
