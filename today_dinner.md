@@ -1,6 +1,6 @@
 # 2025-03-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-11 19:54:28  
+Updated at: 2025-03-11 22:21:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-11)  
 **fish**  
 In name:   
@@ -150,11 +150,11 @@ In name:
   
 **pork**  
 In name:   
+ - Pork Italian Sausage  
  - Ancho Braised Pork  
   
 **chicken**  
 In name:   
- - Italian Chicken  
  - Bulgogi Chicken  
   
 In description:   

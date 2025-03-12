@@ -1,6 +1,6 @@
 # 2025-03-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-11 19:54:32  
+Updated at: 2025-03-11 22:21:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-12)  
 **pork**  
 In name:   
@@ -68,6 +68,7 @@ In name:
   
 **steak**  
 In name:   
+ - Brazilian Flank Steak  
   
 In description:   
  - Build Your Own Street Taco Bar  
@@ -98,6 +99,7 @@ In description:
  - Meat Lovers w/ Bacon (Pork) Pizza Slice  
  - Vegan Taco Filling  
  - Build Your Own Street Taco Bar  
+ - Brazilian Flank Steak  
  - Pork Bratwurst Sandwich  
   
 **pork**  
@@ -105,6 +107,7 @@ In name:
  - Italian Pork Sausage  
  - Meat Lovers w/ Bacon (Pork) Pizza Slice  
  - Pork Carnita  
+ - Pork Belly for Street Taco  
  - Pork Bratwurst Sandwich  
   
 In description:   
@@ -117,6 +120,7 @@ In name:
  - Lemon Pepper Chicken Salad  
  - Plant Based Sweet & Sour Chicken  
  - Chicken Tortilla Soup  
+ - Grilled Halal Chicken  
   
 In description:   
  - Pepperoni Pizza Slice  
