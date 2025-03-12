@@ -1,122 +1,134 @@
-# 2025-03-11 dinner  
+# 2025-03-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-11 22:21:02  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-11)  
-**fish**  
+Updated at: 2025-03-12 01:16:28  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-12)  
+**pork**  
 In name:   
+ - BBQ Pork Chop  
+ - Italian Pork Sausage  
   
 In description:   
- - Build Your Own Curry Bowl  
-  
-**curry**  
-In name:   
- - Build Your Own Curry Bowl  
- - Build Your Own Curry Bowl - Rhetas  
- - Black Eyed Pea Curry w/ Rice  
- - Curry Potatoes  
-  
-**beef**  
-In name:   
- - Beef & Chicken Meatballs  
- - Poutine w/Beef Gravy  
- - Mediterranean Beef  
- - Beef & Bean Chili  
-  
-In description:   
- - Build Your Own Curry Bowl  
- - Thin Crust Tavern Style Pepperoni Pizza  
+ - Pizza Slice Sausage  
+ - Made to Order Breakfast Burrito  
   
 **chicken**  
 In name:   
- - Beef & Chicken Meatballs  
- - Plant Based Chicken Strips  
+ - Chicken Pot Pie w/Biscuit  
+ - Pizza Slice BBQ Chicken & Bacon  
  - Lemon Pepper Chicken Salad  
- - Chicken Vindaloo - w/ Rice  
- - Mediterranean Chicken  
+ - Chicken Tortilla Soup  
   
 In description:   
- - Build Your Own Curry Bowl  
- - Thin Crust Tavern Style Pepperoni Pizza  
  - Great Greens  
   
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-03-11)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-03-12)  
 **watermelon**  
 In name:   
  - Melon Watermelon Whole Sliced  
+  
+**Tandoori Chicken**  
+In name:   
+ - Tandoori Chicken  
   
 **Tuna**  
 In name:   
  - Tuna Salad  
   
-**Salmon**  
+**curry**  
 In name:   
- - Salmon Philly Roll (FujiSan)  
- - Salmon Spicy Roll (FujiSan)  
+ - Curry Potatoes  
+  
+**beef**  
+In name:   
+ - Beef Vindaloo  
+  
+In description:   
+ - Station Recipe - Liz - Deli  AYCTE  
+  
+**pork**  
+In name:   
+  
+In description:   
+ - Station Recipe - Liz - Deli  AYCTE  
+  
+**chicken**  
+In name:   
+ - Sweet & Spicy Orange Chicken  
+ - Tandoori Chicken  
+ - Chicken Tortilla Soup  
+  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-03-12)  
+**watermelon**  
+In name:   
+ - Watermelon Slices  
+  
+**Chicken Drummies**  
+In name:   
+ - Chicken Drummies  
+  
+**steak**  
+In name:   
+ - Brazilian Flank Steak  
+  
+In description:   
+ - Build Your Own Street Taco Bar  
+  
+**Shrimp**  
+In name:   
+ - Sweet & Sour Shrimp  
+  
+**Cod**  
+In name:   
+ - Basque Style Cod  
   
 **fish**  
 In name:   
   
 In description:   
- - Salmon Spicy Roll (FujiSan)  
+ - Tempura Roll (FujiSan)  
+ - California Roll  (FujiSan)  
   
 **beef**  
 In name:   
- - Beef Broccoli Stir Fry  
- - Plant-Based Beef & Broccoli Stir Fry  
- - Beef & Bean Chili  
-  
-In description:   
- - Pepperoni Pizza Slice  
- - Station Recipe - Liz - Deli  AYCTE  
-  
-**pork**  
-In name:   
-  
-In description:   
- - Station Recipe - Liz - Deli  AYCTE  
-  
-**chicken**  
-In name:   
-  
-In description:   
- - Pepperoni Pizza Slice  
- - Station Recipe - Liz - Great Greens  
-  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-03-11)  
-**steak**  
-In name:   
- - Spicy Steak Fajita  
-  
-**beef**  
-In name:   
- - Beef Sirloin Tips  
- - Beef Gravy  
  - Beef & Chicken Meatballs  
- - Beef Bulgogi Bao Bun  
  - Beef Taco Meat  
- - Beef & Bean Chili  
   
 In description:   
- - Thin Crust Tavern Style Pepperoni Pizza  
- - Spicy Steak Fajita  
+ - Italian Meat Sauce  
+ - Pepperoni Pizza Slice  
+ - Meat Lovers w/ Bacon (Pork) Pizza Slice  
+ - Vegan Taco Filling  
+ - Build Your Own Street Taco Bar  
+ - Brazilian Flank Steak  
+ - Pork Bratwurst Sandwich  
   
 **pork**  
 In name:   
- - Baked Pork Ham  
- - Pork Italian Sausage  
- - Tavern Style Sausage Pizza (Pork)  
+ - Italian Pork Sausage  
+ - Meat Lovers w/ Bacon (Pork) Pizza Slice  
+ - Pork Carnita  
+ - Pork Belly for Street Taco  
+ - Pork Bratwurst Sandwich  
+  
+In description:   
+ - Build Your Own Street Taco Bar  
   
 **chicken**  
 In name:   
+ - Chicken Drummies  
  - Beef & Chicken Meatballs  
- - Chicken Sausage Patties  
- - Crispy Chicken Sandwich  
+ - Lemon Pepper Chicken Salad  
+ - Plant Based Sweet & Sour Chicken  
+ - Chicken Tortilla Soup  
+ - Grilled Halal Chicken  
   
 In description:   
- - Thin Crust Tavern Style Pepperoni Pizza  
+ - Pepperoni Pizza Slice  
+ - Meat Lovers w/ Bacon (Pork) Pizza Slice  
  - Great Greens  
+ - Build Your Own Street Taco Bar  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-03-11)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-03-12)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
@@ -131,102 +143,121 @@ In description:
 In name:   
  - Tuna Salad  
   
+**Tilapia**  
+In name:   
+ - Tilapia Chipotle Lime Crusted  
+  
 **fish**  
 In name:   
   
 In description:   
  - BYO Bar - Four Lakes Bulgogi  
   
-**lamb**  
-In name:   
- - Smoked Leg of Lamb  
-  
 **beef**  
 In name:   
- - Beef & Tater Tot Bake  
- - Beef Taco Meat  
- - Beef & Bean Chili  
+ - Beef & Chicken Meatballs  
  - Bulgogi Beef  
+  
+In description:   
+ - Pork Bratwurst Sandwich  
+ - Italian Meat Sauce  
   
 **pork**  
 In name:   
- - Pork Italian Sausage  
- - Ancho Braised Pork  
+ - Pork Bratwurst Sandwich  
   
 **chicken**  
 In name:   
+ - Beef & Chicken Meatballs  
+ - Huli Huli Chicken  
+ - Chicken Wings Boneless Plain  
+ - Plant-Based Chicken Nuggets (6)  
+ - Chicken Tortilla Soup  
  - Bulgogi Chicken  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
- - Ancho Braised Pork  
  - Station Recipe - Great Greens - FLM  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-03-11)  
-**steak**  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-03-12)  
+**Salmon**  
 In name:   
-  
-In description:   
- - Pizza Slice Italian Beef  
-  
-**curry**  
-In name:   
- - Mixed Vegetable Curry  
-  
-**beef**  
-In name:   
- - Pizza Slice Italian Beef  
- - Texas BBQ Sliced Beef Brisket  
- - Beef & Bean Chili  
-  
-In description:   
- - Meat Lovers w/ Bacon (Pork) Pizza Slice  
-  
-**pork**  
-In name:   
- - Meat Lovers w/ Bacon (Pork) Pizza Slice  
-  
-**chicken**  
-In name:   
- - Chicken Stir-Fry Coconut Lime  
-  
-In description:   
- - Meat Lovers w/ Bacon (Pork) Pizza Slice  
-  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-03-11)  
-**steak**  
-In name:   
- - Country Fried Steak  
+ - Island Spiced Salmon  
   
 **fish**  
 In name:   
   
 In description:   
- - Duck Curry  
+ - Island Spiced Salmon  
   
 **curry**  
 In name:   
- - Duck Curry  
- - Garbanzo Bean Curry  
+  
+In description:   
+ - Chicken Ala King over Biscuit  
   
 **beef**  
 In name:   
- - Mediterranean Beef  
- - Beef & Bean Chili  
   
 In description:   
- - Station Recipe - Deli Lowell AYCTE  
- - Country Fried Steak  
+ - Carson's Build Your Own Rice Bowl  
   
 **pork**  
 In name:   
+ - Pizza Slice BBQ Pulled Pork  
+  
+In description:   
+ - Pizza Slice Sausage  
+  
+**chicken**  
+In name:   
+ - Chicken Ala King over Biscuit  
+ - Chicken Tortilla Soup  
+  
+In description:   
+ - Great Greens  
+ - Carson's Build Your Own Rice Bowl  
+  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-03-12)  
+**Shrimp**  
+In name:   
+  
+In description:   
+ - Build Your Own Carson's Korean Bulgogi  
+  
+**catfish**  
+In name:   
+ - Garlic Baked Catfish  
+  
+**fish**  
+In name:   
+ - Garlic Baked Catfish  
+  
+In description:   
+ - Build Your Own Carson's Korean Bulgogi  
+  
+**curry**  
+In name:   
+ - Black Eyed Pea Curry w/ Rice  
+  
+**beef**  
+In name:   
+ - Bulgogi Beef  
+  
+In description:   
+ - Station Recipe - Deli Lowell AYCTE  
+  
+**pork**  
+In name:   
+ - Baked Rigatoni w/ Pork Italian Sausage  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
   
 **chicken**  
 In name:   
- - Mediterranean Chicken  
+ - Bulgogi Chicken  
+ - Chicken Tortilla Soup  
   
 In description:   
  - Great Greens  
