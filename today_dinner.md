@@ -1,7 +1,13 @@
 # 2025-03-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-12 16:10:35  
+Updated at: 2025-03-12 19:55:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-12)  
+**beef**  
+In name:   
+  
+In description:   
+ - Country Gravy  
+  
 **pork**  
 In name:   
  - BBQ Pork Chop  
@@ -13,7 +19,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Pot Pie w/Biscuit  
  - Pizza Slice BBQ Chicken & Bacon  
  - Lemon Pepper Chicken Salad  
  - Chicken Tortilla Soup  
@@ -26,9 +31,9 @@ In description:
 In name:   
  - Melon Watermelon Whole Sliced  
   
-**Tandoori Chicken**  
+**steak**  
 In name:   
- - Tandoori Chicken  
+ - Tandoori Braised Beef Steak  
   
 **Tuna**  
 In name:   
@@ -40,7 +45,7 @@ In name:
   
 **beef**  
 In name:   
- - Beef Vindaloo  
+ - Tandoori Braised Beef Steak  
   
 In description:   
  - Station Recipe - Liz - Deli  AYCTE  
@@ -54,7 +59,7 @@ In description:
 **chicken**  
 In name:   
  - Sweet & Spicy Orange Chicken  
- - Tandoori Chicken  
+ - Butter Chicken  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-03-12)  
 **watermelon**  
