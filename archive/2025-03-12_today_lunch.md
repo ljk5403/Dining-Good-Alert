@@ -1,6 +1,6 @@
 # 2025-03-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-13 07:22:12  
+Updated at: 2025-03-13 10:13:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-13)  
 **fish**  
 In name:   
@@ -148,7 +148,7 @@ In description:
 In name:   
  - Jamaican Jerk Chicken Drumstick  
  - Plant-Based Chicken Tenders  
- - Spicy Fajita Chicken  
+ - Chicken Tinga  
  - Chicken Dumpling Soup  
  - Bulgogi Chicken  
   

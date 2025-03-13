@@ -1,6 +1,6 @@
 # 2025-03-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-13 10:13:04  
+Updated at: 2025-03-13 13:15:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-13)  
 **fish**  
 In name:   
@@ -44,9 +44,11 @@ In name:
 **lamb**  
 In name:   
  - Herb Roasted Lamb  
+ - Lamb & Beef Gyro Sandwich  
   
 **beef**  
 In name:   
+ - Lamb & Beef Gyro Sandwich  
   
 In description:   
  - Station Recipe - Liz - Deli  AYCTE  
