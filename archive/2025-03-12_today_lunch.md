@@ -1,6 +1,6 @@
 # 2025-03-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-13 04:12:21  
+Updated at: 2025-03-13 07:22:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-13)  
 **fish**  
 In name:   
@@ -103,7 +103,6 @@ In name:
   
 In description:   
  - Pizza Slice Deluxe (Pork)  
- - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-03-13)  
 **watermelon**  
