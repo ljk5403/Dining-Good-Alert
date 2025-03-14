@@ -1,6 +1,6 @@
 # 2025-03-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-14 07:21:04  
+Updated at: 2025-03-14 10:11:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-14)  
 **Poke Bar**  
 In name:   
@@ -23,12 +23,10 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Porkloin Fritter Plate  
  - Jaeger Sauce  
   
 **pork**  
 In name:   
- - Porkloin Fritter Plate  
  - Hawaiian (Pork) Pizza Slice  
  - Pork Carnita  
  - Clam Chowder (Pork)  
@@ -49,6 +47,10 @@ In description:
 **watermelon**  
 In name:   
  - Melon Watermelon Whole Sliced  
+  
+**Tilapia**  
+In name:   
+ - Blackened Tilapia  
   
 **beef**  
 In name:   
