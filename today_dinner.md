@@ -1,6 +1,6 @@
 # 2025-03-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-13 16:10:43  
+Updated at: 2025-03-13 19:54:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-13)  
 **Chicken Drummies**  
 In name:   
@@ -53,15 +53,9 @@ In name:
 In name:   
  - Country Fried Steak  
   
-**Salmon**  
+**Cod**  
 In name:   
- - Island Spiced Salmon  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Island Spiced Salmon  
+ - Battered Cod  
   
 **beef**  
 In name:   
