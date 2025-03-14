@@ -1,6 +1,6 @@
 # 2025-03-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-14 10:11:37  
+Updated at: 2025-03-14 13:15:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-14)  
 **Poke Bar**  
 In name:   
@@ -172,12 +172,6 @@ In name:
  - Tuna Salad  
  - Grilled Tuna & Swiss Melt  
   
-**fish**  
-In name:   
-  
-In description:   
- - California Roll  (FujiSan)  
-  
 **beef**  
 In name:   
  - Beef Taco Meat  
@@ -224,6 +218,7 @@ In description:
 In name:   
   
 In description:   
+ - BYO Bar - Mac & Cheese  
  - Station Recipe - Deli Lowell AYCTE  
   
 **pork**  
@@ -231,6 +226,7 @@ In name:
  - Clam Chowder (Pork)  
   
 In description:   
+ - BYO Bar - Mac & Cheese  
  - Station Recipe - Deli Lowell AYCTE  
   
 **chicken**  
@@ -238,6 +234,7 @@ In name:
  - Crispy Buffalo Chicken Sandwich  
   
 In description:   
+ - BYO Bar - Mac & Cheese  
  - Great Greens  
   
   

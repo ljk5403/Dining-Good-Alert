@@ -1,6 +1,6 @@
 # 2025-03-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-14 10:11:35  
+Updated at: 2025-03-14 13:15:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-14)  
 **Poke Bar**  
 In name:   
@@ -95,9 +95,6 @@ In description:
 In name:   
  - Indian Curry Garbanzo Beans  
  - Curry Potatoes  
-  
-In description:   
- - Navarathan Korma (AYCTE)  
   
 **beef**  
 In name:   
@@ -209,7 +206,6 @@ In description:
   
 **beef**  
 In name:   
- - Mediterranean Beef  
  - Plant-Based Beef Lo Mein  
  - Beef Quesadilla  
   
@@ -225,7 +221,6 @@ In description:
   
 **chicken**  
 In name:   
- - Mediterranean Chicken  
  - Butter Chicken  
   
 In description:   
