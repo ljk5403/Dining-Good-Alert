@@ -1,6 +1,6 @@
 # 2025-03-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-14 13:15:07  
+Updated at: 2025-03-14 16:11:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-14)  
 **Poke Bar**  
 In name:   
@@ -97,7 +97,6 @@ In name:
 **Shrimp**  
 In name:   
  - Sauteed Shrimp  
- - Shrimp Po-Boy Sandwich  
   
 **Cod**  
 In name:   
@@ -105,9 +104,17 @@ In name:
 In description:   
  - Clam Chowder (Pork)  
   
+**catfish**  
+In name:   
+ - Blackened Catfish Po-Boy Sandwich  
+  
 **Tilapia**  
 In name:   
  - Tilapia Chipotle Lime Crusted  
+  
+**fish**  
+In name:   
+ - Blackened Catfish Po-Boy Sandwich  
   
 **curry**  
 In name:   
@@ -119,33 +126,25 @@ In name:
  - Beef & Chicken Meatballs  
  - Beef Barbacoa  
  - Beef Taco Meat  
- - Beef Gravy  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
- - Poutine Bar  
   
 **pork**  
 In name:   
  - Baked Rigatoni w/ Pork Italian Sausage  
  - Clam Chowder (Pork)  
   
-In description:   
- - Poutine Bar  
- - Andouille Sausage  
-  
 **chicken**  
 In name:   
  - Huli Huli Chicken  
  - Beef & Chicken Meatballs  
  - Butter Chicken  
- - Chicken Popcorn  
- - Chicken Gravy  
+ - Chicken Sausage Patties  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
  - Great Greens  
- - Poutine Bar  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-03-14)  
 **watermelon**  
