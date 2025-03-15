@@ -1,6 +1,6 @@
 # 2025-03-15 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-15 04:10:29  
+Updated at: 2025-03-15 07:18:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-15)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-03-15)  
 **watermelon**  
@@ -43,7 +43,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Enchilada Bake  
+ - Bulgogi Chicken Thighs  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
@@ -52,7 +52,6 @@ In name:
 In description:   
  - Ancho Braised Pork  
  - Pepperoni Pizza Slice  
- - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-03-15)  
 **watermelon**  
