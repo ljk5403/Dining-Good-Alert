@@ -1,6 +1,6 @@
 # 2025-03-15 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-15 13:14:02  
+Updated at: 2025-03-15 16:10:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-15)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-03-15)  
 **watermelon**  
@@ -31,11 +31,11 @@ In name:
  - Beef Taco Meat  
   
 In description:   
+ - Burnt Ends  
  - Pepperoni Pizza Slice  
   
 **pork**  
 In name:   
- - Ancho Braised Pork  
  - Italian Pork Sausage  
   
 In description:   
@@ -43,14 +43,12 @@ In description:
   
 **chicken**  
 In name:   
- - Bulgogi Chicken Thighs  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
  - Cream of Chicken & Wild Rice Soup  
   
 In description:   
- - Ancho Braised Pork  
  - Pepperoni Pizza Slice  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-03-15)  
