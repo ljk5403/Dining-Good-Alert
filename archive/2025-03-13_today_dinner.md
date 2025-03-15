@@ -1,6 +1,6 @@
 # 2025-03-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-14 16:11:07  
+Updated at: 2025-03-14 19:54:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-14)  
 **Poke Bar**  
 In name:   
@@ -161,7 +161,6 @@ In name:
   
 **Cod**  
 In name:   
- - Baked Cod Fillet w/Butter & Lemon  
   
 In description:   
  - Clam Chowder (Pork)  
@@ -170,6 +169,16 @@ In description:
 In name:   
  - Tuna Salad  
  - Grilled Tuna & Swiss Melt  
+  
+**Salmon**  
+In name:   
+ - Masala Spiced Salmon  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Masala Spiced Salmon  
   
 **beef**  
 In name:   
