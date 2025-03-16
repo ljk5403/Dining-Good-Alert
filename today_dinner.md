@@ -1,6 +1,6 @@
 # 2025-03-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-15 16:10:17  
+Updated at: 2025-03-15 19:59:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-15)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-03-15)  
 **watermelon**  
@@ -61,6 +61,10 @@ In name:
 **beef**  
 In name:   
  - Beef Taco Meat  
+  
+**pork**  
+In name:   
+ - Appetizer -  Fried Pork Potstickers  
   
 **chicken**  
 In name:   
