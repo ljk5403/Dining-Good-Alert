@@ -1,6 +1,6 @@
 # 2025-03-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-16 10:10:12  
+Updated at: 2025-03-16 13:14:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-16)  
 **steak**  
 In name:   
@@ -116,6 +116,8 @@ In name:
 In name:   
  - Pizza Slice BBQ Chicken & Bacon  
  - Dan Dan w/ Chicken  
+ - Chicken Noodle Soup  
+ - Diced Chicken  
   
 In description:   
  - Sausage (Pork) & Pepperoni Pizza Slice  
