@@ -1,6 +1,6 @@
 # 2025-03-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-16 04:10:21  
+Updated at: 2025-03-16 07:19:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-16)  
 **steak**  
 In name:   
@@ -38,10 +38,6 @@ In description:
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-03-16)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-03-16)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
 **beef**  
 In name:   
  - Beef Goulash w/Egg Noodles  
@@ -49,18 +45,17 @@ In name:
  - Beef Taco Meat  
   
 In description:   
+ - Burnt Ends  
  - Thin Crust Tavern Style Pepperoni Pizza  
  - Vegan Taco Filling  
   
 **pork**  
 In name:   
- - Chicken Grilled Cordon Bleu (Pork)  
  - Tavern Style Sausage Pizza (Pork)  
  - Pork Carnita  
   
 **chicken**  
 In name:   
- - Chicken Grilled Cordon Bleu (Pork)  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Chicken Sausage Patties  
@@ -68,7 +63,6 @@ In name:
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
- - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-03-16)  
 **watermelon**  
