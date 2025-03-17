@@ -1,31 +1,19 @@
 # 2025-03-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-17 07:22:23  
+Updated at: 2025-03-17 10:12:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-17)  
-**BBQ Pork Sandwich**  
-In name:   
- - BBQ Pork Sandwich  
-  
 **beef**  
 In name:   
- - Beef Goulash w/Egg Noodles  
  - Beef Ravioli Plain  
  - Beef Taco Meat  
   
 **pork**  
 In name:   
- - Chicken Bacon (Pork) Ranch Pizza  
- - BBQ Pork Sandwich  
  - Pork Carnita  
-  
-In description:   
- - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
- - Chicken Marsala Creamy w/Fettucine  
  - Diced Chicken Breast  
- - Chicken Bacon (Pork) Ranch Pizza  
  - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
  - Chicken Noodle Soup  
@@ -50,23 +38,8 @@ In name:
 In name:   
  - Vegetarian "Fish" Tacos  
   
-**curry**  
-In name:   
- - Currywurst (Pork)  
-  
-**beef**  
-In name:   
-  
-In description:   
- - Currywurst (Pork)  
-  
-**pork**  
-In name:   
- - Currywurst (Pork)  
-  
 **chicken**  
 In name:   
- - Chicken Pot Pie w/Biscuit  
  - Chicken Noodle Soup  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-03-17)  
@@ -80,31 +53,20 @@ In name:
   
 **beef**  
 In name:   
- - Beef Harissa  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
-  
-In description:   
- - Gordon's OrderIt  
- - Mushroom Swiss Burger  
   
 **pork**  
 In name:   
  - Italian Pork Sausage  
- - Tavern Style Sausage Pizza (Pork)  
-  
-In description:   
- - Gordon's OrderIt  
   
 **chicken**  
 In name:   
- - Greek Chicken  
  - Beef & Chicken Meatballs  
  - Chicken Tinga  
  - Chicken Noodle Soup  
   
 In description:   
- - Gordon's OrderIt  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-03-17)  
@@ -118,7 +80,6 @@ In name:
   
 **fish**  
 In name:   
- - Vegan Fish Sandwich  
   
 In description:   
  - California Roll  (FujiSan)  
@@ -128,19 +89,9 @@ In name:
  - Shrimp Curry  
  - Curry Potatoes  
   
-**beef**  
-In name:   
- - Barbacoa Beef w/Mango Habanero Sandwich  
-  
-In description:   
- - German Plate (Pork)  
- - Porkloin Fritter Plate  
-  
 **pork**  
 In name:   
  - Italian Pork Sausage  
- - German Plate (Pork)  
- - Porkloin Fritter Plate  
   
 **chicken**  
 In name:   
@@ -187,7 +138,6 @@ In description:
 **pork**  
 In name:   
  - Pizza Slice Deluxe (Pork)  
- - BBQ Pork Chop  
   
 **chicken**  
 In name:   
@@ -210,7 +160,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
@@ -223,8 +172,6 @@ In description:
   
 **chicken**  
 In name:   
- - Diced Chicken Breast  
- - Beef & Chicken Meatballs  
  - Chicken Noodle Soup  
  - Greek Lemon Chicken w/ Rice  
   
