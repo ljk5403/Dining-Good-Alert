@@ -1,6 +1,6 @@
 # 2025-03-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-17 13:16:15  
+Updated at: 2025-03-17 16:10:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-17)  
 **beef**  
 In name:   
@@ -78,12 +78,6 @@ In name:
 In name:   
  - Shrimp Curry  
   
-**fish**  
-In name:   
-  
-In description:   
- - California Roll  (FujiSan)  
-  
 **curry**  
 In name:   
  - Shrimp Curry  
@@ -131,7 +125,6 @@ In description:
 In name:   
   
 In description:   
- - Pepperoni Pizza Slice  
  - Pizza Slice Deluxe (Pork)  
  - Pizza Slice Reuben  
   
@@ -145,7 +138,6 @@ In name:
  - Chicken Noodle Soup  
   
 In description:   
- - Pepperoni Pizza Slice  
  - Pizza Slice Deluxe (Pork)  
  - Great Greens  
   

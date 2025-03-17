@@ -1,6 +1,6 @@
 # 2025-03-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-17 13:16:14  
+Updated at: 2025-03-17 16:10:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-17)  
 **beef**  
 In name:   
@@ -109,16 +109,13 @@ In description:
  - Tikka Masala Chicken  
  - Tofu & Vegetable Tikka Masala  
   
-**beef**  
-In name:   
- - Beef Goulash w/Egg Noodles  
-  
 **pork**  
 In name:   
  - Italian Pork Sausage  
   
 **chicken**  
 In name:   
+ - Chicken Pot Pie w/Biscuit  
  - Chicken Fajita Torta  
  - Lemon Pepper Chicken Salad  
  - Tikka Masala Chicken  
@@ -135,13 +132,13 @@ In name:
   
 **Salmon**  
 In name:   
- - Hoisin BBQ Glazed Salmon  
+ - Island Spiced Salmon  
   
 **fish**  
 In name:   
   
 In description:   
- - Hoisin BBQ Glazed Salmon  
+ - Island Spiced Salmon  
   
 **curry**  
 In name:   

@@ -1,6 +1,6 @@
 # 2025-03-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-17 10:12:01  
+Updated at: 2025-03-17 13:16:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-17)  
 **beef**  
 In name:   
@@ -101,12 +101,6 @@ In name:
 In name:   
  - Redhook Ale Breaded Shrimp  
   
-**fish**  
-In name:   
-  
-In description:   
- - California Roll  (FujiSan)  
-  
 **curry**  
 In name:   
  - Curry Potatoes  
@@ -149,6 +143,10 @@ In name:
 In description:   
  - Hoisin BBQ Glazed Salmon  
   
+**curry**  
+In name:   
+ - Soup Coconut Curry Cauliflower  
+  
 **beef**  
 In name:   
  - Beef Quesadilla  
@@ -168,7 +166,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Noodle Soup  
+ - Lemon Chicken Rice Soup  
  - Chicken Biscuit w/ Sausage (Pork) Gravy  
  - Chicken Sausage Patty  
   
