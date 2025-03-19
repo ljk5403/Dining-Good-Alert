@@ -1,6 +1,6 @@
 # 2025-03-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-19 10:12:33  
+Updated at: 2025-03-19 13:16:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-19)  
 **Cod**  
 In name:   
@@ -22,7 +22,6 @@ In name:
   
 **chicken**  
 In name:   
- - Lemon Pepper Chicken Salad  
  - Spicy Lo Mein w/Chicken  
  - Fajita Chicken  
  - Chicken Tortilla Soup  
@@ -192,10 +191,10 @@ In name:
 **beef**  
 In name:   
  - Bulgogi Beef  
- - BBQ Beef Brisket Sandwich  
   
 In description:   
  - Pizza Slice Philly Cheesesteak  
+ - Bratwurst  
   
 **pork**  
 In name:   
@@ -203,6 +202,7 @@ In name:
 In description:   
  - Pizza Slice Sausage  
  - Egg, Ham & Cheese English Muffin  
+ - Bratwurst  
   
 **chicken**  
 In name:   
