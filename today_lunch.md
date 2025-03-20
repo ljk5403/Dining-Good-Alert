@@ -1,6 +1,6 @@
 # 2025-03-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-20 04:12:28  
+Updated at: 2025-03-20 07:22:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-20)  
 **fish**  
 In name:   
@@ -103,7 +103,6 @@ In name:
 In description:   
  - BYO Bar - Mac & Cheese  
  - Sausage (Pork) & Pepperoni Pizza Slice  
- - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-03-20)  
 **watermelon**  
