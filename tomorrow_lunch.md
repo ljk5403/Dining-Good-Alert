@@ -1,6 +1,6 @@
 # 2025-03-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-19 19:55:00  
+Updated at: 2025-03-19 22:22:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-20)  
 **fish**  
 In name:   
@@ -24,6 +24,7 @@ In name:
 **chicken**  
 In name:   
  - Autumn Chicken  
+ - Lemon Pepper Chicken Salad  
  - Jerk Chicken Sandwich  
  - Mediterranean Chicken  
  - Chicken Dumpling Soup  

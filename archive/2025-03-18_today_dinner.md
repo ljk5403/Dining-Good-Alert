@@ -1,6 +1,6 @@
 # 2025-03-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-19 16:10:48  
+Updated at: 2025-03-19 19:54:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-19)  
 **Tilapia**  
 In name:   
@@ -74,8 +74,9 @@ In description:
   
 **beef**  
 In name:   
- - Beef Stew  
+ - Beef Goulash w/Egg Noodles  
  - Beef & Chicken Meatballs  
+ - Beef Broccoli Stir Fry  
  - Beef Taco Meat  
   
 In description:   
@@ -95,7 +96,6 @@ In description:
 In name:   
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
- - General Tso's Chicken  
  - Chicken Tortilla Soup  
  - Chicken Sausage Patties  
   
@@ -149,12 +149,6 @@ In name:
 In name:   
  - Tuna Salad  
   
-**fish**  
-In name:   
-  
-In description:   
- - Filipino Barbecue - Pork  
-  
 **curry**  
 In name:   
  - Mixed Vegetable Curry  
@@ -168,7 +162,7 @@ In description:
   
 **pork**  
 In name:   
- - Filipino Barbecue - Pork  
+ - Baked Pork Ham  
   
 In description:   
  - Pizza Slice Sausage  
