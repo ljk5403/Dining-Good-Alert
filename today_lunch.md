@@ -1,6 +1,6 @@
 # 2025-03-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-20 10:12:46  
+Updated at: 2025-03-20 13:16:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-20)  
 **fish**  
 In name:   
@@ -76,13 +76,13 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
+ - BBQ Beef Brisket Sandwich  
  - Mediterranean Beef  
  - Beef Taco Meat  
   
 In description:   
  - BYO Bar - Mac & Cheese  
  - Sausage (Pork) & Pepperoni Pizza Slice  
- - Grilled Cheeseburger  
   
 **pork**  
 In name:   

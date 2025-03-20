@@ -1,6 +1,6 @@
 # 2025-03-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-20 10:12:49  
+Updated at: 2025-03-20 13:16:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-20)  
 **drumstick**  
 In name:   
@@ -81,11 +81,11 @@ In name:
  - Beef & Chicken Meatballs  
  - Mediterranean Beef  
  - Beef Taco Meat  
- - BBQ Beef Brisket Sandwich  
   
 In description:   
  - Sausage (Pork) & Pepperoni Pizza Slice  
  - Pork Bratwurst Sandwich  
+ - Grilled Cheeseburger  
   
 **pork**  
 In name:   
