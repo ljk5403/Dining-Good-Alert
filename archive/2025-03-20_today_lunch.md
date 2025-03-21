@@ -1,6 +1,6 @@
 # 2025-03-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-21 10:11:59  
+Updated at: 2025-03-21 13:15:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-21)  
 **clam**  
 In name:   
@@ -39,7 +39,7 @@ In name:
   
 **chicken**  
 In name:   
- - Baked BBQ Chicken  
+ - Greek Chicken  
  - Lemon Pepper Chicken Salad  
  - Plant Based Protein Chicken Taco Filling  
  - Fajita Chicken  
@@ -83,10 +83,6 @@ In name:
 In name:   
  - Tandoori Chicken  
   
-**Samosas**  
-In name:   
- - Samosas  
-  
 **clam**  
 In name:   
  - Clam Chowder (Pork)  
@@ -97,7 +93,6 @@ In name:
   
 **Cod**  
 In name:   
- - Vegan Cod Battered (2 pc)  
   
 In description:   
  - Clam Chowder (Pork)  
@@ -110,7 +105,6 @@ In name:
 In name:   
   
 In description:   
- - Vegan Cod Battered (2 pc)  
  - Masala Spiced Salmon  
   
 **curry**  

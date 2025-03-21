@@ -1,6 +1,6 @@
 # 2025-03-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-21 13:15:38  
+Updated at: 2025-03-21 16:10:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-21)  
 **clam**  
 In name:   
@@ -30,7 +30,7 @@ In description:
   
 **pork**  
 In name:   
- - Tavern Style Sausage Pizza (Pork)  
+ - Pizza Slice Sausage (Pork)  
  - Pork Carnita  
  - Clam Chowder (Pork)  
   
@@ -84,10 +84,6 @@ In name:
 In name:   
  - Watermelon Slices  
   
-**corn bake**  
-In name:   
- - Sweet Corn Bake (Veg)  
-  
 **Tandoori Chicken**  
 In name:   
  - Tandoori Chicken  
@@ -122,7 +118,6 @@ In name:
   
 **beef**  
 In name:   
- - Texas BBQ Sliced Beef Brisket  
  - Beef & Chicken Meatballs  
  - Beef Barbacoa  
  - Beef Taco Meat  
@@ -137,6 +132,7 @@ In name:
   
 **chicken**  
 In name:   
+ - Baked BBQ Chicken  
  - Beef & Chicken Meatballs  
  - Tandoori Chicken  
  - Chicken Sausage Patties  
@@ -149,10 +145,6 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**Drunken Noodles**  
-In name:   
- - Drunken Noodles  
-  
 **clam**  
 In name:   
  - Clam Chowder (Pork)  
@@ -161,21 +153,12 @@ In name:
 In name:   
  - Sauteed Shrimp  
   
-In description:   
- - Drunken Noodles  
-  
 **Cod**  
 In name:   
  - Baked Cod Fillet w/Butter & Lemon  
   
 In description:   
  - Clam Chowder (Pork)  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Drunken Noodles  
   
 **lamb**  
 In name:   
@@ -192,13 +175,15 @@ In name:
  - Mediterranean Beef  
   
 In description:   
- - Meat Lovers w/ Bacon (Pork) Pizza Slice  
+ - Pizza Slice Deluxe  
   
 **pork**  
 In name:   
  - New Orleans Turkey Melt w/ Pork  
- - Meat Lovers w/ Bacon (Pork) Pizza Slice  
  - Clam Chowder (Pork)  
+  
+In description:   
+ - Pizza Slice Deluxe  
   
 **chicken**  
 In name:   
@@ -207,7 +192,7 @@ In name:
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
- - Meat Lovers w/ Bacon (Pork) Pizza Slice  
+ - Pizza Slice Deluxe  
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-03-21)  
