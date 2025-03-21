@@ -1,6 +1,6 @@
 # 2025-03-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-20 16:10:50  
+Updated at: 2025-03-20 19:56:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-20)  
 **drumstick**  
 In name:   
@@ -19,7 +19,6 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Mediterranean Beef  
   
 In description:   
  - Italian Meat Sauce  
@@ -36,7 +35,6 @@ In name:
  - Plant Based Chicken Strips  
  - Lemon Pepper Chicken Salad  
  - Grilled Tandoori Chicken Sandwich  
- - Mediterranean Chicken  
  - Greek Lemon Chicken w/ Rice  
  - Chicken Dumpling Soup  
   
@@ -122,6 +120,7 @@ In name:
   
 **beef**  
 In name:   
+ - Corned Beef  
  - Beef Meatloaf  
  - Beef Taco Meat  
  - Mediterranean Beef  
@@ -139,7 +138,6 @@ In description:
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
- - Baked BBQ Chicken Quarters  
  - Chicken Dumpling Soup  
  - Mediterranean Chicken  
   
