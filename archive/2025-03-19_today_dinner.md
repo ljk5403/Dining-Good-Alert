@@ -1,6 +1,6 @@
 # 2025-03-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-20 13:16:15  
+Updated at: 2025-03-20 16:10:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-20)  
 **drumstick**  
 In name:   
@@ -168,7 +168,6 @@ In description:
 In name:   
  - Tavern Style Sausage Pizza (Pork)  
  - Shrimp & Pork Andouille Sausage  
- - Green Beans w/ Pork Bacon  
   
 **chicken**  
 In name:   
