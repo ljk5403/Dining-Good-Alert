@@ -1,41 +1,7 @@
 # 2025-03-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-21 07:21:29  
+Updated at: 2025-03-21 10:12:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-23)  
-**Cod**  
-In name:   
- - Baked Cod Fillet w/Butter & Lemon  
-  
-**curry**  
-In name:   
- - Curry Cauliflower & Butternut Squash  
-  
-**beef**  
-In name:   
- - Beef Barbacoa  
- - Beef Taco Meat  
-  
-In description:   
- - Pepperoni Pizza Slice  
- - Vegan Taco Filling  
-  
-**pork**  
-In name:   
- - Italian Pork Sausage  
- - Sri Lanka Deviled Pork  
-  
-**chicken**  
-In name:   
- - Chicken & Vegetables w/Dijon Vinaigrette  
- - Lemon Pepper Chicken Salad  
- - Crispy Buffalo Chicken Sandwich  
- - Fajita Chicken  
- - Lemon Chicken Rice Soup  
-  
-In description:   
- - Pepperoni Pizza Slice  
- - Great Greens  
-  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-03-23)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-03-23)  
 **watermelon**  
@@ -115,37 +81,5 @@ In description:
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-03-23)  
-**Salmon**  
-In name:   
- - Blackened Salmon  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Blackened Salmon  
-  
-**beef**  
-In name:   
- - Homemade Beef Lasagna  
-  
-In description:   
- - Sausage (Pork) & Pepperoni Pizza Slice  
-  
-**pork**  
-In name:   
- - Sausage (Pork) & Pepperoni Pizza Slice  
- - Chicken Bacon (Pork) Ranch Pizza  
-  
-**chicken**  
-In name:   
- - Chicken Bacon (Pork) Ranch Pizza  
- - Chicken Salad  
- - Lemon Chicken Rice Soup  
-  
-In description:   
- - Sausage (Pork) & Pepperoni Pizza Slice  
- - Great Greens  
-  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-03-23)  
   

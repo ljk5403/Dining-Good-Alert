@@ -1,25 +1,8 @@
 # 2025-03-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-21 07:21:26  
+Updated at: 2025-03-21 10:12:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-22)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-03-22)  
-**watermelon**  
-In name:   
- - Melon Watermelon Whole Sliced  
-  
-**Beef Alicha**  
-In name:   
- - Beef Alicha  
-  
-**beef**  
-In name:   
- - Beef Alicha  
-  
-**chicken**  
-In name:   
- - Cream of Chicken & Wild Rice Soup  
- - Lemon Pepper Chicken Salad  
-  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-03-22)  
 **Shrimp**  
 In name:   
