@@ -1,6 +1,6 @@
 # 2025-03-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-21 16:10:16  
+Updated at: 2025-03-21 19:54:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-21)  
 **clam**  
 In name:   
@@ -102,15 +102,21 @@ In name:
   
 **Cod**  
 In name:   
- - Lemon Pepper Cod Fillet  
   
 In description:   
  - Clam Chowder (Pork)  
  - Petite Fish Sandwich  
   
+**Salmon**  
+In name:   
+ - Masala Spiced Salmon  
+  
 **fish**  
 In name:   
  - Petite Fish Sandwich  
+  
+In description:   
+ - Masala Spiced Salmon  
   
 **curry**  
 In name:   
@@ -118,6 +124,7 @@ In name:
   
 **beef**  
 In name:   
+ - Texas BBQ Sliced Beef Brisket  
  - Beef & Chicken Meatballs  
  - Beef Barbacoa  
  - Beef Taco Meat  
@@ -132,7 +139,6 @@ In name:
   
 **chicken**  
 In name:   
- - Baked BBQ Chicken  
  - Beef & Chicken Meatballs  
  - Tandoori Chicken  
  - Chicken Sausage Patties  
