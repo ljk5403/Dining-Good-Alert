@@ -1,6 +1,6 @@
 # 2025-03-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-21 13:15:36  
+Updated at: 2025-03-21 16:10:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-21)  
 **clam**  
 In name:   
@@ -31,11 +31,13 @@ In description:
   
 **pork**  
 In name:   
- - Tavern Style Sausage Pizza (Pork)  
  - Pork Bratwurst Sandwich  
  - Pork Miso w/Yakisoba Noodles  
  - Pork Carnita  
  - Clam Chowder (Pork)  
+  
+In description:   
+ - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
