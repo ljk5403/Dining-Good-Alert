@@ -1,17 +1,13 @@
 # 2025-03-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-22 07:19:14  
+Updated at: 2025-03-22 10:09:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-22)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-03-22)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-03-22)  
-**lamb**  
-In name:   
- - Lamb & Beef Gyro Sandwich  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Lamb & Beef Gyro Sandwich  
+ - Beef Barbacoa  
  - Beef Taco Meat  
   
 In description:   
@@ -20,17 +16,12 @@ In description:
 **pork**  
 In name:   
  - Roasted Pork Loin  
- - Italian Pork Sausage  
-  
-In description:   
- - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
  - Chicken Biryani  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
- - Chicken Tinga  
  - Cream of Chicken & Wild Rice Soup  
   
 In description:   
