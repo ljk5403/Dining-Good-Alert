@@ -1,6 +1,6 @@
 # 2025-03-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-22 16:09:37  
+Updated at: 2025-03-22 19:59:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-22)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-03-22)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-03-22)  
@@ -18,9 +18,12 @@ In description:
  - Italian Meat Sauce  
  - Pepperoni Pizza Slice  
   
+**pork**  
+In name:   
+ - Herb Crusted Pork Loin  
+  
 **chicken**  
 In name:   
- - Breaded Chicken Parmigiana  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Cream of Chicken & Wild Rice Soup  
@@ -38,6 +41,10 @@ In name:
 In name:   
  - Beef Taco Meat  
   
+**pork**  
+In name:   
+ - Pork Adobo  
+  
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
@@ -45,7 +52,6 @@ In name:
  - Plant-Based Chicken Nuggets (6)  
  - Giardiniera Chicken  
  - General Tso's Chicken  
- - Taco Chicken  
  - Cream of Chicken & Wild Rice Soup  
   
 In description:   
