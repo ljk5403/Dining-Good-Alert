@@ -1,6 +1,6 @@
 # 2025-03-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-24 07:23:07  
+Updated at: 2025-03-24 10:12:52  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-24)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-03-24)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-03-24)  
@@ -31,7 +31,6 @@ In description:
 In name:   
  - Beef Stew  
  - Beef & Chicken Meatballs  
- - Beef Ravioli w/Tomato Sauce  
  - Beef Taco Meat  
   
 In description:   
@@ -40,7 +39,6 @@ In description:
   
 **pork**  
 In name:   
- - Italian Pork Sausage  
  - Loaded Potato Bacon (Pork) Pizza Slice  
   
 **chicken**  
@@ -66,12 +64,6 @@ In name:
 In name:   
  - Tuna Salad  
   
-**fish**  
-In name:   
-  
-In description:   
- - California Roll  (FujiSan)  
-  
 **curry**  
 In name:   
  - Vegetable Coconut Curry w/Rice  
@@ -85,7 +77,6 @@ In description:
   
 **pork**  
 In name:   
- - Appetizer -  Fried Pork Potstickers  
  - Italian Pork Sausage  
   
 In description:   
@@ -93,7 +84,6 @@ In description:
   
 **chicken**  
 In name:   
- - Sweet & Spicy Orange Chicken  
  - Butter Chicken  
  - Chicken Noodle Soup  
   
