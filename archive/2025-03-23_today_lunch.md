@@ -1,16 +1,12 @@
 # 2025-03-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-24 10:12:52  
+Updated at: 2025-03-24 13:16:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-24)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-03-24)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-03-24)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
-  
-**steak**  
-In name:   
- - Pizza Slice Philly Cheesesteak  
   
 **Tuna**  
 In name:   
@@ -34,12 +30,14 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Pizza Slice Philly Cheesesteak  
  - Italian Meatball Sandwich  
   
 **pork**  
 In name:   
- - Loaded Potato Bacon (Pork) Pizza Slice  
+ - Pizza Slice Sausage (Pork)  
+  
+In description:   
+ - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
@@ -77,13 +75,11 @@ In description:
   
 **pork**  
 In name:   
- - Italian Pork Sausage  
-  
-In description:   
- - Grilled Turkey Bacon Club Sandwich  
+ - Appetizer -  Fried Pork Potstickers  
   
 **chicken**  
 In name:   
+ - Sweet & Sour Chicken  
  - Butter Chicken  
  - Chicken Noodle Soup  
   
