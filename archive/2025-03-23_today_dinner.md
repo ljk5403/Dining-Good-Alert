@@ -1,6 +1,6 @@
 # 2025-03-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-24 07:23:10  
+Updated at: 2025-03-24 10:12:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-24)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-03-24)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-03-24)  
@@ -18,8 +18,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs  
- - Beef Ravioli w/Tomato Sauce  
  - Beef Taco Meat  
   
 In description:   
@@ -30,7 +28,6 @@ In description:
 **pork**  
 In name:   
  - Pork Loin Spicy Greenbush  
- - Italian Pork Sausage  
  - Loaded Potato Bacon (Pork) Pizza Slice  
   
 In description:   
@@ -40,7 +37,6 @@ In description:
 **chicken**  
 In name:   
  - Chicken Sausage Gumbo  
- - Beef & Chicken Meatballs  
  - Chicken Tinga  
  - Chicken Noodle Soup  
   
@@ -53,12 +49,6 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**drumstick**  
-In name:   
-  
-In description:   
- - Irish Roast Chicken w/Leeks and Bacon  
-  
 **Samosas**  
 In name:   
  - Samosas  
@@ -67,27 +57,18 @@ In name:
 In name:   
  - Tuna Salad  
   
-**fish**  
-In name:   
-  
-In description:   
- - California Roll  (FujiSan)  
-  
 **curry**  
 In name:   
- - Seitan & Coconut Thai Curry  
  - Chicken Curry  
  - Curry Potatoes  
   
 **pork**  
 In name:   
  - Italian Pork Sausage  
- - Smoked Pork Loin  
   
 **chicken**  
 In name:   
  - Crispy Chicken Sandwich  
- - Irish Roast Chicken w/Leeks and Bacon  
  - Chicken Curry  
  - Chicken Noodle Soup  
   
