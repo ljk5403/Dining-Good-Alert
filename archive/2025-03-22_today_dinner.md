@@ -1,6 +1,6 @@
 # 2025-03-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-23 13:13:46  
+Updated at: 2025-03-23 19:57:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-23)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-03-23)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-03-23)  
@@ -38,24 +38,28 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**steak**  
-In name:   
- - Island Spiced Beef Steak  
-  
 **Cod**  
 In name:   
  - Caribbean Cod  
   
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
+**lamb**  
+In name:   
+ - Lamb Vindaloo  
+  
 **curry**  
 In name:   
+ - Curry Squash  
   
 In description:   
- - Chana Saag w/ Tofu  
+ - Lamb Vindaloo  
   
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Island Spiced Beef Steak  
  - Beef Taco Meat  
   
 In description:   
@@ -64,11 +68,11 @@ In description:
 **pork**  
 In name:   
  - Polish Combo Cheeseburger (Pork)  
+ - BBQ Pork Chop  
  - Pork Carnita  
   
 **chicken**  
 In name:   
- - Lemon Pepper Chicken Salad  
  - Plant Based Chicken Strips  
  - Beef & Chicken Meatballs  
  - Lemon Chicken Rice Soup  
