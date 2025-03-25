@@ -1,6 +1,6 @@
 # 2025-03-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-25 04:12:30  
+Updated at: 2025-03-25 07:22:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-25)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-03-25)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-03-25)  
@@ -49,14 +49,12 @@ In name:
 In name:   
  - Pizza Slice Chicken Sriracha  
  - Chicken Sausage Patties  
- - Jerk Chicken Sandwich  
  - Sweet & Sour Chicken  
  - Plant Based Sweet & Sour Chicken  
   
 In description:   
  - Pepperoni Pizza Slice  
  - Global Curry Bowl  
- - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-03-25)  
 **watermelon**  
