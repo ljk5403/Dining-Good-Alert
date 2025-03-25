@@ -1,6 +1,6 @@
 # 2025-03-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-25 10:12:52  
+Updated at: 2025-03-25 13:16:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-25)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-03-25)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-03-25)  
@@ -52,23 +52,26 @@ In description:
 In name:   
  - Watermelon Slices  
   
+**Cod**  
+In name:   
+ - Cracker Crusted Cod w/ Lemon Sauce  
+  
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
 **beef**  
 In name:   
- - Beef Taco Meat  
+ - Beef Harissa  
  - Beef & Bean Chili  
-  
-**pork**  
-In name:   
- - Ancho Braised Pork  
   
 **chicken**  
 In name:   
- - Lemon Pepper Chicken Salad  
  - Italian Chicken  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
- - Ancho Braised Pork  
+ - Cracker Crusted Cod w/ Lemon Sauce  
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-03-25)  
