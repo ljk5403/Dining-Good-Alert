@@ -1,92 +1,90 @@
-# 2025-03-24 lunch  
+# 2025-03-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-24 22:26:33  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-24)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-03-24)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-03-24)  
-**watermelon**  
+Updated at: 2025-03-25 01:16:58  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-25)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-03-25)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-03-25)  
+**corn bake**  
 In name:   
- - Watermelon Slices  
+ - Sweet Corn Bake (Veg)  
   
-**Tuna**  
+**steak**  
 In name:   
- - Lemon Pepper Tuna Salad  
+ - Spicy Steak Fajita  
   
-**Salmon**  
+**Shrimp**  
 In name:   
- - Baked Salmon with Mustard Sauce  
+  
+In description:   
+ - Global Curry Bowl  
   
 **fish**  
 In name:   
   
 In description:   
- - Baked Salmon with Mustard Sauce  
- - Veggie Meatballs (Veg)  
+ - Global Curry Bowl  
+  
+**curry**  
+In name:   
+ - Global Curry Bowl  
+ - Build Your Own Curry Bowl - Gordon  
   
 **beef**  
 In name:   
- - Beef Stew  
- - Beef & Chicken Meatballs  
+ - Texas BBQ Sliced Beef Brisket  
  - Beef Taco Meat  
+ - Beef & Bean Chili  
   
 In description:   
- - Italian Meatball Sandwich  
+ - Pepperoni Pizza Slice  
+ - Grilled Cheeseburger  
+ - Global Curry Bowl  
+ - Spicy Steak Fajita  
   
 **pork**  
 In name:   
- - Pizza Slice Sausage (Pork)  
-  
-In description:   
- - Pizza Slice Sausage  
+ - BBQ Pork Chop  
   
 **chicken**  
 In name:   
- - Beef & Chicken Meatballs  
- - Chicken Tinga  
- - Chicken Noodle Soup  
+ - Pizza Slice Chicken Sriracha  
+ - Chicken Sausage Patties  
+ - Jerk Chicken Sandwich  
+ - Sweet & Sour Chicken  
+ - Plant Based Sweet & Sour Chicken  
   
 In description:   
- - Italian Meatball Sandwich  
+ - Pepperoni Pizza Slice  
+ - Global Curry Bowl  
  - Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-03-24)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-03-25)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
   
-**Samosas**  
-In name:   
- - Samosas  
-  
-**Tuna**  
-In name:   
- - Tuna Salad  
-  
-**curry**  
-In name:   
- - Vegetable Coconut Curry w/Rice  
- - Curry Potatoes  
-  
 **beef**  
 In name:   
+ - Beef Taco Meat  
+ - Beef & Bean Chili  
   
 In description:   
  - Grilled Cheeseburger  
   
 **pork**  
 In name:   
- - Appetizer -  Fried Pork Potstickers  
+ - Ancho Braised Pork  
   
 **chicken**  
 In name:   
- - Sweet & Sour Chicken  
- - Butter Chicken  
- - Chicken Noodle Soup  
+ - Italian Chicken  
+ - Lemon Pepper Chicken Salad  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
+ - Ancho Braised Pork  
  - Station Recipe - Great Greens - FLM  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-03-24)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-03-24)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-03-25)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-03-25)  
   

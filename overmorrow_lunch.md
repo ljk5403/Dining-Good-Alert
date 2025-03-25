@@ -1,76 +1,73 @@
-# 2025-03-26 lunch  
+# 2025-03-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-24 22:26:47  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-26)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-03-26)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-03-26)  
-**watermelon**  
+Updated at: 2025-03-25 01:17:03  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-27)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-03-27)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-03-27)  
+**Tuna**  
 In name:   
- - Watermelon Slices  
+ - Lemon Pepper Tuna Salad  
   
 **fish**  
 In name:   
+ - Fish Sauce  
+  
+**beef**  
+In name:   
+ - Protein - Beef Thinly Sliced  
+ - Beef Taco Meat  
   
 In description:   
- - California Roll  (FujiSan)  
- - Tempura Roll (FujiSan)  
+ - Smoked Brisket & Tots Pizza Slice  
+ - Grilled Cheeseburger  
+  
+**pork**  
+In name:   
+  
+In description:   
+ - Pizza Slice Sausage  
+  
+**chicken**  
+In name:   
+ - Chicken Wings Boneless Plain  
+ - Chicken Wings Bone-In Plain  
+ - Plant-Based Chicken Nuggets (6)  
+ - BBQ Chicken Wings Boneless  
+ - Buffalo Chicken Wings Boneless  
+ - BBQ Chicken Wings Bone-In  
+ - Buffalo Chicken Wings Bone-In  
+ - Protein - Chicken Thinly Sliced  
+ - Spicy Fajita Chicken  
+ - Chicken Dumpling Soup  
+  
+In description:   
+ - Great Greens  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-03-27)  
+**watermelon**  
+In name:   
+ - Watermelon Slices  
   
 **beef**  
 In name:   
  - Beef Taco Meat  
   
-In description:   
- - Vegan Taco Filling  
-  
-**pork**  
-In name:   
- - Island Spiced Pork w/ Pineapple Salsa  
- - Hawaiian (Pork) Pizza Slice  
- - Pork Carnita  
-  
-**chicken**  
-In name:   
- - Broasted Chicken 2 pc  
- - Chicken Gravy  
- - Lemon Pepper Chicken Salad  
- - Chicken Sausage Patties  
- - Sweet & Sour Chicken  
- - Plant Based Sweet & Sour Chicken  
- - Chicken Tortilla Soup  
-  
-In description:   
- - Great Greens  
-  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-03-26)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
-**beef**  
-In name:   
- - Beef & Chicken Meatballs  
-  
-In description:   
- - Italian Meat Sauce  
-  
 **pork**  
 In name:   
   
 In description:   
- - Grilled Ham & Swiss Sandwich  
+ - Andouille Sausage  
   
 **chicken**  
 In name:   
- - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
- - Chicken Wings Boneless Plain  
- - Plant-Based Chicken Nuggets (6)  
- - Chicken Tortilla Soup  
+ - Taco Chicken  
+ - Chicken Dumpling Soup  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
  - Station Recipe - Great Greens - FLM  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-03-26)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-03-26)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-03-27)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-03-27)  
   
