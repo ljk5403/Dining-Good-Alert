@@ -1,19 +1,12 @@
 # 2025-03-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-25 07:22:24  
+Updated at: 2025-03-25 10:12:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-26)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-03-26)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-03-26)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
-  
-**fish**  
-In name:   
-  
-In description:   
- - California Roll  (FujiSan)  
- - Tempura Roll (FujiSan)  
   
 **beef**  
 In name:   
@@ -34,8 +27,6 @@ In name:
  - Chicken Gravy  
  - Lemon Pepper Chicken Salad  
  - Chicken Sausage Patties  
- - Sweet & Sour Chicken  
- - Plant Based Sweet & Sour Chicken  
  - Chicken Tortilla Soup  
   
 In description:   
