@@ -1,6 +1,6 @@
 # 2025-03-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-25 10:13:04  
+Updated at: 2025-03-25 13:16:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-27)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-03-27)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-03-27)  
@@ -10,6 +10,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
 In description:   
@@ -31,6 +32,8 @@ In name:
  - Buffalo Chicken Wings Boneless  
  - BBQ Chicken Wings Bone-In  
  - Buffalo Chicken Wings Bone-In  
+ - Beef & Chicken Meatballs  
+ - Giardiniera Chicken  
  - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
   

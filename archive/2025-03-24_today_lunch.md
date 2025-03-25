@@ -1,33 +1,12 @@
 # 2025-03-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-25 07:22:21  
+Updated at: 2025-03-25 10:12:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-25)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-03-25)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-03-25)  
-**corn bake**  
-In name:   
- - Sweet Corn Bake (Veg)  
-  
 **steak**  
 In name:   
  - Spicy Steak Fajita  
-  
-**Shrimp**  
-In name:   
-  
-In description:   
- - Global Curry Bowl  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Global Curry Bowl  
-  
-**curry**  
-In name:   
- - Global Curry Bowl  
- - Build Your Own Curry Bowl - Gordon  
   
 **beef**  
 In name:   
@@ -38,7 +17,6 @@ In name:
 In description:   
  - Pepperoni Pizza Slice  
  - Grilled Cheeseburger  
- - Global Curry Bowl  
  - Spicy Steak Fajita  
   
 **pork**  
@@ -54,7 +32,6 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice  
- - Global Curry Bowl  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-03-25)  
 **watermelon**  
