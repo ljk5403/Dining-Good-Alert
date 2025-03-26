@@ -1,6 +1,6 @@
 # 2025-03-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-25 13:16:29  
+Updated at: 2025-03-25 19:56:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-27)  
 **Tilapia**  
 In name:   
@@ -76,6 +76,7 @@ In name:
 **beef**  
 In name:   
  - Beef Meatloaf  
+ - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
 In description:   
@@ -92,6 +93,8 @@ In description:
 **chicken**  
 In name:   
  - Chicken Gravy  
+ - Beef & Chicken Meatballs  
+ - Giardiniera Chicken  
  - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
   

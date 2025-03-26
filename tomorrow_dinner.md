@@ -1,6 +1,6 @@
 # 2025-03-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-25 13:16:22  
+Updated at: 2025-03-25 19:55:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-26)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-03-26)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-03-26)  
@@ -16,19 +16,23 @@ In description:
   
 **beef**  
 In name:   
+ - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
 In description:   
+ - Italian Meat Sauce  
  - Vegan Taco Filling  
   
 **pork**  
 In name:   
+ - Italian Pork Sausage  
  - Hawaiian (Pork) Pizza Slice  
  - Pork Carnita  
   
 **chicken**  
 In name:   
  - Chicken Pot Pie w/Biscuit  
+ - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Chicken Tortilla Soup  
  - Chicken Tenders Breaded  
