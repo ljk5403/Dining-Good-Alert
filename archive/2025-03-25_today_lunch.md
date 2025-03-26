@@ -1,9 +1,15 @@
 # 2025-03-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-26 10:12:44  
+Updated at: 2025-03-26 13:16:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-26)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-03-26)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-03-26)  
+**steak**  
+In name:   
+  
+In description:   
+ - Montreal Chicken  
+  
 **fish**  
 In name:   
   
@@ -16,12 +22,12 @@ In name:
  - Beef Taco Meat  
   
 In description:   
+ - Italian Meat Sauce  
  - Vegan Taco Filling  
   
 **pork**  
 In name:   
  - Roasted Pork Loin  
- - Hawaiian (Pork) Pizza Slice  
  - Pork Carnita  
   
 In description:   
@@ -29,7 +35,7 @@ In description:
   
 **chicken**  
 In name:   
- - Broasted Chicken 2 pc  
+ - Montreal Chicken  
  - Chicken Gravy  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  

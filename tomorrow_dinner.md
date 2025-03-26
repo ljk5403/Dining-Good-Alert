@@ -1,6 +1,6 @@
 # 2025-03-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-26 13:16:50  
+Updated at: 2025-03-26 16:10:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-27)  
 **Tilapia**  
 In name:   
@@ -15,6 +15,8 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
  - Mediterranean Beef  
   
 In description:   
@@ -23,6 +25,11 @@ In description:
 **pork**  
 In name:   
  - Loaded Potato Bacon (Pork) Pizza Slice  
+ - Pork & Beef Hard Salami  
+  
+In description:   
+ - Smoked Ham  
+ - Bacon  
   
 **chicken**  
 In name:   
@@ -47,6 +54,8 @@ In name:
 **beef**  
 In name:   
  - Beef Broccoli Stir Fry w/Teriyaki Sauce  
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
   
 In description:   
  - Station Recipe - Liz - Deli  AYCTE  
@@ -54,9 +63,12 @@ In description:
 **pork**  
 In name:   
  - Baked Rigatoni w/ Pork Italian Sausage  
+ - Pork & Beef Hard Salami  
   
 In description:   
  - Station Recipe - Liz - Deli  AYCTE  
+ - Smoked Ham  
+ - Bacon  
   
 **chicken**  
 In name:   
@@ -77,14 +89,23 @@ In name:
 In name:   
  - Beef Meatloaf  
  - Beef & Chicken Meatballs  
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
  - Beef Taco Meat  
   
 In description:   
+ - Smoked Brisket & Tots Pizza Slice  
  - Pork Bratwurst Sandwich  
   
 **pork**  
 In name:   
+ - Pork & Beef Hard Salami  
  - Pork Bratwurst Sandwich  
+  
+In description:   
+ - Pizza Slice Sausage  
+ - Smoked Ham  
+ - Bacon  
   
 **chicken**  
 In name:   
@@ -104,6 +125,8 @@ In name:
   
 **beef**  
 In name:   
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
  - Beef Taco Meat  
   
 In description:   
@@ -111,8 +134,11 @@ In description:
   
 **pork**  
 In name:   
+ - Pork & Beef Hard Salami  
   
 In description:   
+ - Smoked Ham  
+ - Bacon  
  - Andouille Sausage  
   
 **chicken**  
@@ -132,9 +158,19 @@ In name:
   
 **beef**  
 In name:   
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
   
 In description:   
  - Station Recipe - Carson's Que Rico  
+  
+**pork**  
+In name:   
+ - Pork & Beef Hard Salami  
+  
+In description:   
+ - Smoked Ham  
+ - Bacon  
   
 **chicken**  
 In name:   
@@ -162,6 +198,8 @@ In description:
   
 **beef**  
 In name:   
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
  - Beef Pot Roast  
   
 In description:   
@@ -169,9 +207,12 @@ In description:
   
 **pork**  
 In name:   
+ - Pork & Beef Hard Salami  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
+ - Smoked Ham  
+ - Bacon  
   
 **chicken**  
 In name:   

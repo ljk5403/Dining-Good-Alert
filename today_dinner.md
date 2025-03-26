@@ -1,23 +1,13 @@
 # 2025-03-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-26 13:16:47  
+Updated at: 2025-03-26 16:10:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-26)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-03-26)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-03-26)  
-**Cod**  
-In name:   
- - Miso Cod  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Miso Cod  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Beef Taco Meat  
+ - Beef Barbacoa  
   
 In description:   
  - Italian Meat Sauce  
@@ -25,14 +15,15 @@ In description:
   
 **pork**  
 In name:   
- - Italian Pork Sausage  
- - Pork Carnita  
+ - BBQ Pork Chop  
+ - Hawaiian (Pork) Pizza Slice  
   
 **chicken**  
 In name:   
  - Chicken Pot Pie w/Biscuit  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
+ - Chicken Tinga  
  - Chicken Tortilla Soup  
   
 In description:   
@@ -43,9 +34,9 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**drumstick**  
+**steak**  
 In name:   
- - Chicken Drumstick Teriyaki Glazed  
+ - Beef Flank Steak  
   
 **BBQ Pork Sandwich**  
 In name:   
@@ -65,13 +56,23 @@ In name:
 In description:   
  - Grilled Sesame Ginger Salmon  
   
+**beef**  
+In name:   
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
+ - Beef Flank Steak  
+  
 **pork**  
 In name:   
+ - Pork & Beef Hard Salami  
  - BBQ Pork Sandwich  
+  
+In description:   
+ - Smoked Ham  
+ - Bacon  
   
 **chicken**  
 In name:   
- - Chicken Drumstick Teriyaki Glazed  
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
  - Chicken Tortilla Soup  
