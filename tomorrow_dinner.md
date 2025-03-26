@@ -1,6 +1,6 @@
 # 2025-03-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-26 10:12:49  
+Updated at: 2025-03-26 13:16:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-27)  
 **Tilapia**  
 In name:   
@@ -80,15 +80,11 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Smoked Brisket & Tots Pizza Slice  
  - Pork Bratwurst Sandwich  
   
 **pork**  
 In name:   
  - Pork Bratwurst Sandwich  
-  
-In description:   
- - Pizza Slice Sausage  
   
 **chicken**  
 In name:   

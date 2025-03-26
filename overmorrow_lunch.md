@@ -1,6 +1,6 @@
 # 2025-03-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-26 10:12:51  
+Updated at: 2025-03-26 13:16:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-28)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-03-28)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-03-28)  
@@ -43,13 +43,8 @@ In name:
  - Beef Barbacoa  
  - Beef Taco Meat  
   
-In description:   
- - Thin Crust Tavern Style Pepperoni Pizza  
- - Deluxe Pizza (Pork) 16"  
-  
 **pork**  
 In name:   
- - Deluxe Pizza (Pork) 16"  
  - Clam Chowder (Pork)  
   
 **chicken**  
@@ -59,8 +54,6 @@ In name:
  - Chicken Sausage Patties  
   
 In description:   
- - Thin Crust Tavern Style Pepperoni Pizza  
- - Deluxe Pizza (Pork) 16"  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-03-28)  

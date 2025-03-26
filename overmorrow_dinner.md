@@ -1,6 +1,6 @@
 # 2025-03-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-26 10:12:52  
+Updated at: 2025-03-26 13:16:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-28)  
 **clam**  
 In name:   
@@ -120,9 +120,6 @@ In name:
  - Beef Barbacoa  
  - Beef Taco Meat  
   
-In description:   
- - Thin Crust Tavern Style Pepperoni Pizza  
-  
 **pork**  
 In name:   
  - French Market Pork Jambalaya  
@@ -134,7 +131,6 @@ In name:
   
 In description:   
  - French Market Pork Jambalaya  
- - Thin Crust Tavern Style Pepperoni Pizza  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-03-28)  

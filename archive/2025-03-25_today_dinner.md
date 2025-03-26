@@ -1,6 +1,6 @@
 # 2025-03-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-26 07:22:02  
+Updated at: 2025-03-26 10:12:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-26)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-03-26)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-03-26)  
@@ -35,8 +35,6 @@ In name:
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Chicken Tortilla Soup  
- - Chicken Tenders Breaded  
- - Plant-Based Chicken Nuggets (6)  
   
 In description:   
  - Great Greens  
@@ -46,16 +44,27 @@ In description:
 In name:   
  - Watermelon Slices  
   
+**drumstick**  
+In name:   
+ - Chicken Drumstick Teriyaki Glazed  
+  
 **BBQ Pork Sandwich**  
 In name:   
  - BBQ Pork Sandwich  
   
-**beef**  
+**Tuna**  
 In name:   
- - Beef & Chicken Meatballs  
+ - Tuna Salad  
+  
+**Salmon**  
+In name:   
+ - Grilled Sesame Ginger Salmon  
+  
+**fish**  
+In name:   
   
 In description:   
- - Italian Meat Sauce  
+ - Grilled Sesame Ginger Salmon  
   
 **pork**  
 In name:   
@@ -63,8 +72,7 @@ In name:
   
 **chicken**  
 In name:   
- - Lemon Pepper Chicken Salad  
- - Beef & Chicken Meatballs  
+ - Chicken Drumstick Teriyaki Glazed  
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
  - Chicken Tortilla Soup  
