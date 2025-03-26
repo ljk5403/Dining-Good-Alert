@@ -1,25 +1,31 @@
 # 2025-03-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-26 07:21:59  
+Updated at: 2025-03-26 10:12:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-26)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-03-26)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-03-26)  
+**fish**  
+In name:   
+  
+In description:   
+ - Veggie Meatballs (Veg)  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
 In description:   
- - Italian Meat Sauce  
  - Vegan Taco Filling  
   
 **pork**  
 In name:   
- - Island Spiced Pork w/ Pineapple Salsa  
  - Roasted Pork Loin  
- - Italian Pork Sausage  
  - Hawaiian (Pork) Pizza Slice  
  - Pork Carnita  
+  
+In description:   
+ - Pizza Slice Hawaiian  
   
 **chicken**  
 In name:   
@@ -35,12 +41,17 @@ In name:
 In name:   
  - Watermelon Slices  
   
-**beef**  
+**Tuna**  
 In name:   
- - Beef & Chicken Meatballs  
+ - Tuna Salad  
   
-In description:   
- - Italian Meat Sauce  
+**catfish**  
+In name:   
+ - Panfried Southern Catfish  
+  
+**fish**  
+In name:   
+ - Panfried Southern Catfish  
   
 **pork**  
 In name:   
@@ -50,8 +61,7 @@ In description:
   
 **chicken**  
 In name:   
- - Beef & Chicken Meatballs  
- - Lemon Pepper Chicken Salad  
+ - Blackened Chicken  
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
  - Chicken Tortilla Soup  
