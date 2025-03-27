@@ -1,6 +1,6 @@
 # 2025-03-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-27 07:22:51  
+Updated at: 2025-03-27 10:12:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-27)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-03-27)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-03-27)  
@@ -26,7 +26,6 @@ In name:
  - BBQ Chicken Wings Bone-In  
  - Buffalo Chicken Wings Bone-In  
  - Beef & Chicken Meatballs  
- - Giardiniera Chicken  
  - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
   
@@ -35,20 +34,30 @@ In name:
 In name:   
  - Watermelon Slices  
   
+**steak**  
+In name:   
+ - Swiss Steak w/Brown Gravy  
+  
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
 **beef**  
 In name:   
- - Beef Taco Meat  
+  
+In description:   
+ - Swiss Steak w/Brown Gravy  
+ - Vegan Sloppy Joe  
   
 **pork**  
 In name:   
+ - Baked Pork Ham  
   
 In description:   
  - Andouille Sausage  
   
 **chicken**  
 In name:   
- - Lemon Pepper Chicken Salad  
- - Taco Chicken  
  - Chicken Dumpling Soup  
   
 In description:   
