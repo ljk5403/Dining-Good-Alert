@@ -1,223 +1,89 @@
-# 2025-03-28 dinner  
+# 2025-03-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-26 22:27:06  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-28)  
-**clam**  
-In name:   
- - Clam Chowder (Pork)  
-  
-**Shrimp**  
-In name:   
- - Chipotle Shrimp  
-  
-**Cod**  
-In name:   
-  
-In description:   
- - Clam Chowder (Pork)  
-  
-**catfish**  
-In name:   
- - Blackened Catfish  
-  
-**fish**  
-In name:   
- - Blackened Catfish  
-  
-**beef**  
-In name:   
- - Beef Bulgogi Bao Bun  
- - Beef Taco Meat  
-  
-In description:   
- - Meat Lovers w/ Bacon (Pork) Pizza Slice  
-  
-**pork**  
-In name:   
- - Meat Lovers w/ Bacon (Pork) Pizza Slice  
- - Clam Chowder (Pork)  
-  
-In description:   
- - Andouille Sausage  
- - Chorizo Sauce  
- - Pizza Slice Sausage  
-  
-**chicken**  
-In name:   
- - Diced Chicken Breast  
- - Lemon Pepper Chicken Salad  
- - Crispy Chicken Sandwich  
- - VN Sand Chicken Paradise  
- - Chicken Tinga  
-  
-In description:   
- - Chorizo Sauce  
- - Meat Lovers w/ Bacon (Pork) Pizza Slice  
- - Great Greens  
-  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-03-28)  
+Updated at: 2025-03-27 01:16:47  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-29)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-03-29)  
 **watermelon**  
 In name:   
  - Melon Watermelon Whole Sliced  
   
-**fish**  
+**steak**  
 In name:   
- - Vegan Fish Sandwich  
+ - Philly Cheesesteak Sandwich  
   
 **beef**  
 In name:   
- - Halal Beef Hamburger  
   
 In description:   
- - Station Recipe - Liz - Deli  AYCTE  
-  
-**pork**  
-In name:   
-  
-In description:   
- - Station Recipe - Liz - Deli  AYCTE  
+ - Philly Cheesesteak Sandwich  
   
 **chicken**  
 In name:   
- - Chicken Honey Lime w/ rice  
+ - Crispy Buffalo Chicken Sandwich  
+ - Cream of Chicken & Wild Rice Soup  
  - Lemon Pepper Chicken Salad  
   
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-03-28)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-03-29)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
   
-**Pepper, Onion, & Mushroom Saute**  
+**curry**  
 In name:   
- - Pepper, Onion, & Mushroom Saute  
-  
-**clam**  
-In name:   
- - Clam Chowder (Pork)  
-  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp  
- - Redhook Ale Shrimp Basket  
-  
-**Cod**  
-In name:   
-  
-In description:   
- - Clam Chowder (Pork)  
-  
-**catfish**  
-In name:   
- - Blackened Catfish  
-  
-**fish**  
-In name:   
- - Blackened Catfish  
+ - Beef Curry Stew  
   
 **beef**  
 In name:   
+ - Beef Curry Stew  
  - Beef & Chicken Meatballs  
- - Beef Barbacoa  
  - Beef Taco Meat  
   
 In description:   
- - Thin Crust Tavern Style Pepperoni Pizza  
+ - Pepperoni Pizza Slice  
   
 **pork**  
 In name:   
- - French Market Pork Jambalaya  
- - Clam Chowder (Pork)  
+ - Italian Pork Sausage  
+  
+In description:   
+ - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
+ - Huli Huli Chicken  
  - Beef & Chicken Meatballs  
+ - Lemon Pepper Chicken Salad  
+ - Chicken Tinga  
+ - Cream of Chicken & Wild Rice Soup  
+ - Crispy Chicken Sandwich  
+ - Plant-Based Chicken Nuggets (6)  
   
 In description:   
- - French Market Pork Jambalaya  
- - Thin Crust Tavern Style Pepperoni Pizza  
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-03-28)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-03-29)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
   
-**clam**  
-In name:   
- - Clam Chowder (Pork)  
-  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp  
-  
-**Cod**  
-In name:   
-  
-In description:   
- - Clam Chowder (Pork)  
-  
 **beef**  
 In name:   
- - Beef Fajita Meat  
  - Beef Taco Meat  
   
 In description:   
- - Vegan Taco Filling  
-  
-**pork**  
-In name:   
- - Clam Chowder (Pork)  
+ - Grilled Cheeseburger  
   
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
- - Grilled Chicken Sandwich  
+ - Giardiniera Chicken  
+ - Diced Chicken  
+ - Cream of Chicken & Wild Rice Soup  
   
 In description:   
- - BYO - MTO Breakfast Sandwich - Four Lake  
  - Station Recipe - Great Greens - FLM  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-03-28)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-03-28)  
-**BBQ Pork Sandwich**  
-In name:   
- - Carolina BBQ Pork Sandwich  
-  
-**clam**  
-In name:   
- - Clam Chowder (Pork)  
-  
-**Cod**  
-In name:   
-  
-In description:   
- - Clam Chowder (Pork)  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Crab Rangoon  
-  
-**beef**  
-In name:   
-  
-In description:   
- - Station Recipe - Deli Lowell AYCTE  
-  
-**pork**  
-In name:   
- - Clam Chowder (Pork)  
- - Carolina BBQ Pork Sandwich  
-  
-In description:   
- - Station Recipe - Deli Lowell AYCTE  
-  
-**chicken**  
-In name:   
- - General Tso's Chicken  
-  
-In description:   
- - Great Greens  
-  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-03-29)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-03-29)  
   
