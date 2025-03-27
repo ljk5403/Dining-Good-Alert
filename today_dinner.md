@@ -1,6 +1,6 @@
 # 2025-03-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-27 07:22:53  
+Updated at: 2025-03-27 10:12:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-27)  
 **Tilapia**  
 In name:   
@@ -113,23 +113,26 @@ In description:
 In name:   
  - Watermelon Slices  
   
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
 **beef**  
 In name:   
- - Beef Taco Meat  
+ - Smoked Beef Round Plate  
   
 In description:   
  - Fired Up Burger  
   
 **pork**  
 In name:   
+ - Jerk Pork Chop  
   
 In description:   
  - Andouille Sausage  
   
 **chicken**  
 In name:   
- - Lemon Pepper Chicken Salad  
- - Taco Chicken  
  - Chicken Dumpling Soup  
   
 In description:   
