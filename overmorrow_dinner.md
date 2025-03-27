@@ -1,6 +1,6 @@
 # 2025-03-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-26 19:55:56  
+Updated at: 2025-03-26 22:27:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-28)  
 **clam**  
 In name:   
@@ -26,8 +26,6 @@ In name:
   
 **beef**  
 In name:   
- - Roast Beef  
- - Pork & Beef Hard Salami  
  - Beef Bulgogi Bao Bun  
  - Beef Taco Meat  
   
@@ -37,15 +35,12 @@ In description:
 **pork**  
 In name:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice  
- - Pork & Beef Hard Salami  
  - Clam Chowder (Pork)  
   
 In description:   
  - Andouille Sausage  
  - Chorizo Sauce  
  - Pizza Slice Sausage  
- - Smoked Ham  
- - Bacon  
   
 **chicken**  
 In name:   
@@ -72,20 +67,15 @@ In name:
 **beef**  
 In name:   
  - Halal Beef Hamburger  
- - Roast Beef  
- - Pork & Beef Hard Salami  
   
 In description:   
  - Station Recipe - Liz - Deli  AYCTE  
   
 **pork**  
 In name:   
- - Pork & Beef Hard Salami  
   
 In description:   
- - Bacon  
  - Station Recipe - Liz - Deli  AYCTE  
- - Smoked Ham  
   
 **chicken**  
 In name:   
@@ -127,8 +117,6 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Roast Beef  
- - Pork & Beef Hard Salami  
  - Beef Barbacoa  
  - Beef Taco Meat  
   
@@ -138,12 +126,7 @@ In description:
 **pork**  
 In name:   
  - French Market Pork Jambalaya  
- - Pork & Beef Hard Salami  
  - Clam Chowder (Pork)  
-  
-In description:   
- - Smoked Ham  
- - Bacon  
   
 **chicken**  
 In name:   
@@ -175,8 +158,6 @@ In description:
   
 **beef**  
 In name:   
- - Roast Beef  
- - Pork & Beef Hard Salami  
  - Beef Fajita Meat  
  - Beef Taco Meat  
   
@@ -185,12 +166,7 @@ In description:
   
 **pork**  
 In name:   
- - Pork & Beef Hard Salami  
  - Clam Chowder (Pork)  
-  
-In description:   
- - Smoked Ham  
- - Bacon  
   
 **chicken**  
 In name:   
@@ -225,22 +201,17 @@ In description:
   
 **beef**  
 In name:   
- - Roast Beef  
- - Pork & Beef Hard Salami  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
   
 **pork**  
 In name:   
- - Pork & Beef Hard Salami  
  - Clam Chowder (Pork)  
  - Carolina BBQ Pork Sandwich  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
- - Smoked Ham  
- - Bacon  
   
 **chicken**  
 In name:   
