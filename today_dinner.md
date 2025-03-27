@@ -1,6 +1,6 @@
 # 2025-03-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-27 04:13:08  
+Updated at: 2025-03-27 07:22:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-27)  
 **Tilapia**  
 In name:   
