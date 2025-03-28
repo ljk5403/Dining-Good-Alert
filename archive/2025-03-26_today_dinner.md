@@ -1,6 +1,6 @@
 # 2025-03-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-27 13:16:03  
+Updated at: 2025-03-27 16:11:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-27)  
 **Tilapia**  
 In name:   
@@ -72,38 +72,33 @@ In name:
  - Lemon Pepper Chicken Salad  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-03-27)  
-**Shrimp**  
-In name:   
- - Shrimp with Bell Peppers  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
   
 **beef**  
 In name:   
- - Beef Meatloaf  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
 In description:   
  - Smoked Brisket & Tots Pizza Slice  
- - Pork Bratwurst Sandwich  
   
 **pork**  
 In name:   
- - Pork Bratwurst Sandwich  
+ - Roasted Pork Loin  
   
 In description:   
  - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
- - Chicken Gravy  
+ - Chicken Biryani  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
+ - Boneless Buffalo Chicken Wings  
   
 In description:   
  - Great Greens  
