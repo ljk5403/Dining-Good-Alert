@@ -1,101 +1,74 @@
-# 2025-03-28 lunch  
+# 2025-03-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-27 22:27:45  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-28)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-03-28)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-03-28)  
+Updated at: 2025-03-28 01:16:52  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-29)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-03-29)  
 **watermelon**  
 In name:   
- - Watermelon Slices  
+ - Melon Watermelon Whole Sliced  
   
-**steak**  
+**pork**  
 In name:   
+ - Pork Sausage Links  
   
-In description:   
- - Montreal Chicken  
-  
-**clam**  
+**chicken**  
 In name:   
- - Clam Chowder (Pork)  
+ - Chicken Sausage Patty  
+ - Cream of Chicken & Wild Rice Soup  
+ - Lemon Pepper Chicken Salad  
   
-**Shrimp**  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-03-29)  
+**BBQ Pork Sandwich**  
 In name:   
- - Sauteed Shrimp  
+ - Carolina BBQ Pork Sandwich  
   
-**Cod**  
+**Tilapia**  
 In name:   
- - Baked Cod Fillet w/Butter & Lemon  
-  
-In description:   
- - Clam Chowder (Pork)  
-  
-**catfish**  
-In name:   
- - Blackened Catfish Po-Boy Sandwich  
-  
-**fish**  
-In name:   
- - Blackened Catfish Po-Boy Sandwich  
+ - Island Spiced Tilapia  
   
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Beef Barbacoa  
  - Beef Taco Meat  
   
 **pork**  
 In name:   
- - Clam Chowder (Pork)  
+ - Italian Pork Sausage  
+ - Carolina BBQ Pork Sandwich  
   
 **chicken**  
 In name:   
- - Montreal Chicken  
+ - Chicken Breast w/Balsamic BBQ Sauce  
  - Beef & Chicken Meatballs  
- - Chicken Sausage Patties  
+ - Lemon Pepper Chicken Salad  
+ - Chicken Tinga  
+ - Cream of Chicken & Wild Rice Soup  
   
 In description:   
  - Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-03-28)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-03-29)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
   
-**clam**  
-In name:   
- - Clam Chowder (Pork)  
-  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp  
-  
-**Cod**  
-In name:   
-  
-In description:   
- - Clam Chowder (Pork)  
-  
 **beef**  
 In name:   
- - Beef Fajita Meat  
  - Beef Taco Meat  
   
 In description:   
- - Mushroom Swiss Burger  
- - Vegan Taco Filling  
-  
-**pork**  
-In name:   
- - Clam Chowder (Pork)  
+ - Chicago-Style Hot Dog  
   
 **chicken**  
 In name:   
+ - Giardiniera Chicken  
  - Lemon Pepper Chicken Salad  
+ - Diced Chicken  
+ - Cream of Chicken & Wild Rice Soup  
   
 In description:   
- - BYO - MTO Breakfast Sandwich - Four Lake  
  - Station Recipe - Great Greens - FLM  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-03-28)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-03-28)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-03-29)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-03-29)  
   
