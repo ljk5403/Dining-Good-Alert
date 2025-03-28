@@ -1,6 +1,6 @@
 # 2025-03-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-28 07:21:46  
+Updated at: 2025-03-28 10:12:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-30)  
 **steak**  
 In name:   
@@ -56,11 +56,13 @@ In name:
  - Beef Taco Meat  
   
 In description:   
+ - Thin Crust Tavern Style Pepperoni Pizza  
  - Vegan Taco Filling  
   
 **pork**  
 In name:   
  - Jerk Pork Chop  
+ - Tavern Style Sausage Pizza (Pork)  
  - Pork Carnita  
   
 **chicken**  
@@ -73,6 +75,7 @@ In name:
  - Lemon Chicken Rice Soup  
   
 In description:   
+ - Thin Crust Tavern Style Pepperoni Pizza  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-03-30)  
