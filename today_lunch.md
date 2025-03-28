@@ -1,18 +1,12 @@
 # 2025-03-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-28 10:12:01  
+Updated at: 2025-03-28 13:16:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-28)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-03-28)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-03-28)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
-  
-**steak**  
-In name:   
-  
-In description:   
- - Montreal Chicken  
   
 **clam**  
 In name:   
@@ -40,7 +34,7 @@ In name:
   
 **chicken**  
 In name:   
- - Montreal Chicken  
+ - Chicken Wings Boneless Plain  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Chicken Sausage Patties  
@@ -68,22 +62,25 @@ In name:
 In description:   
  - Clam Chowder (Pork)  
   
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
 **beef**  
 In name:   
- - Beef Fajita Meat  
  - Beef Taco Meat  
   
 In description:   
  - Mushroom Swiss Burger  
- - Vegan Taco Filling  
   
 **pork**  
 In name:   
+ - Chicken Grilled Cordon Bleu (Pork)  
  - Clam Chowder (Pork)  
   
 **chicken**  
 In name:   
- - Lemon Pepper Chicken Salad  
+ - Chicken Grilled Cordon Bleu (Pork)  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  

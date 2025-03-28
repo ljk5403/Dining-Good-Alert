@@ -1,6 +1,6 @@
 # 2025-03-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-28 07:21:34  
+Updated at: 2025-03-28 10:12:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-28)  
 **clam**  
 In name:   
@@ -98,7 +98,6 @@ In name:
 **Shrimp**  
 In name:   
  - Sauteed Shrimp  
- - Redhook Ale Shrimp Basket  
   
 **Cod**  
 In name:   
@@ -121,7 +120,7 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Thin Crust Tavern Style Pepperoni Pizza  
+ - Pepperoni Pizza Slice  
   
 **pork**  
 In name:   
@@ -134,7 +133,7 @@ In name:
   
 In description:   
  - French Market Pork Jambalaya  
- - Thin Crust Tavern Style Pepperoni Pizza  
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-03-28)  
