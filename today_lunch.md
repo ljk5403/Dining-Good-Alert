@@ -1,6 +1,6 @@
 # 2025-03-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-29 04:11:01  
+Updated at: 2025-03-29 07:19:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-29)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-03-29)  
 **watermelon**  
@@ -25,6 +25,10 @@ In name:
 **Tilapia**  
 In name:   
  - Island Spiced Tilapia  
+  
+**curry**  
+In name:   
+ - Thai Veggie Meatballs w/ Green Curry  
   
 **beef**  
 In name:   
