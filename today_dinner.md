@@ -1,6 +1,6 @@
 # 2025-03-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-29 07:19:52  
+Updated at: 2025-03-29 10:12:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-29)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-03-29)  
 **watermelon**  
@@ -36,7 +36,6 @@ In name:
 In name:   
  - Beef Curry Stew  
  - Beef & Chicken Meatballs  
- - Beef Taco Meat  
   
 In description:   
  - Pepperoni Pizza Slice  
@@ -53,7 +52,6 @@ In name:
  - Huli Huli Chicken  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
- - Chicken Tinga  
  - Cream of Chicken & Wild Rice Soup  
  - Crispy Chicken Sandwich  
  - Plant-Based Chicken Nuggets (6)  

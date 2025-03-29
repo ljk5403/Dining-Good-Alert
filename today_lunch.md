@@ -1,6 +1,6 @@
 # 2025-03-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-29 07:19:48  
+Updated at: 2025-03-29 10:12:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-29)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-03-29)  
 **watermelon**  
@@ -33,14 +33,9 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Beef Taco Meat  
-  
-In description:   
- - Pepperoni Pizza Slice  
   
 **pork**  
 In name:   
- - Italian Pork Sausage  
  - Carolina BBQ Pork Sandwich  
   
 In description:   
@@ -51,11 +46,9 @@ In name:
  - Chicken Breast w/Balsamic BBQ Sauce  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
- - Chicken Tinga  
  - Cream of Chicken & Wild Rice Soup  
   
 In description:   
- - Pepperoni Pizza Slice  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-03-29)  
