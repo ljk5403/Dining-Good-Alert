@@ -1,6 +1,6 @@
 # 2025-03-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-29 13:14:08  
+Updated at: 2025-03-29 16:10:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-29)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-03-29)  
 **watermelon**  
@@ -28,21 +28,19 @@ In name:
 In name:   
  - Watermelon Slices  
   
-**curry**  
+**steak**  
 In name:   
- - Beef Curry Stew  
+ - Swiss Steak w/Brown Gravy  
   
 **beef**  
 In name:   
- - Beef Curry Stew  
  - Beef & Chicken Meatballs  
   
 In description:   
- - Pepperoni Pizza Slice  
+ - Swiss Steak w/Brown Gravy  
   
 **pork**  
 In name:   
- - Italian Pork Sausage  
   
 In description:   
  - Pizza Slice Sausage  
@@ -57,7 +55,6 @@ In name:
  - Plant-Based Chicken Nuggets (6)  
   
 In description:   
- - Pepperoni Pizza Slice  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-03-29)  
