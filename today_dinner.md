@@ -1,6 +1,6 @@
 # 2025-03-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-28 16:10:27  
+Updated at: 2025-03-28 19:55:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-28)  
 **clam**  
 In name:   
@@ -111,6 +111,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Stew  
  - Beef & Chicken Meatballs  
  - Beef Barbacoa  
  - Beef Taco Meat  
@@ -120,7 +121,6 @@ In description:
   
 **pork**  
 In name:   
- - Jerk Pork Chop  
  - Clam Chowder (Pork)  
   
 **chicken**  
