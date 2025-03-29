@@ -1,6 +1,6 @@
 # 2025-03-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-28 19:55:18  
+Updated at: 2025-03-28 22:23:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-28)  
 **clam**  
 In name:   
@@ -94,6 +94,10 @@ In name:
 **clam**  
 In name:   
  - Clam Chowder (Pork)  
+  
+**Shrimp**  
+In name:   
+ - Redhook Ale Shrimp Basket  
   
 **Cod**  
 In name:   

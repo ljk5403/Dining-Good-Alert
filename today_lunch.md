@@ -1,6 +1,6 @@
 # 2025-03-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-28 19:55:17  
+Updated at: 2025-03-28 22:23:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-28)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-03-28)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-03-28)  
@@ -18,6 +18,14 @@ In name:
   
 In description:   
  - Clam Chowder (Pork)  
+  
+**catfish**  
+In name:   
+ - Blackened Catfish Po-Boy Sandwich  
+  
+**fish**  
+In name:   
+ - Blackened Catfish Po-Boy Sandwich  
   
 **beef**  
 In name:   
