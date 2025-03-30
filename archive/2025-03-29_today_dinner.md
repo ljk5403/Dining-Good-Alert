@@ -1,6 +1,6 @@
 # 2025-03-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-30 07:19:48  
+Updated at: 2025-03-30 10:10:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-30)  
 **beef**  
 In name:   
@@ -35,20 +35,19 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**steak**  
+**lamb**  
 In name:   
- - Philly Cheesesteak Sandwich  
- - Tempeh Philly Cheesesteak Sandwich  
+ - Lamb & Beef Gyro Sandwich  
   
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
+ - Lamb & Beef Gyro Sandwich  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
  - Vegan Taco Filling  
- - Philly Cheesesteak Sandwich  
   
 **pork**  
 In name:   
@@ -62,7 +61,6 @@ In name:
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Lemon Chicken Rice Soup  
- - Chicken Sausage Patties  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
