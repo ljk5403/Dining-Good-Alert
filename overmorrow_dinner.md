@@ -1,6 +1,6 @@
 # 2025-03-31 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-29 16:10:07  
+Updated at: 2025-03-29 20:00:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-31)  
 **steak**  
 In name:   
@@ -106,10 +106,15 @@ In name:
 In name:   
  - Tuna Salad  
   
+**Salmon**  
+In name:   
+ - Smoked Salmon  
+  
 **fish**  
 In name:   
   
 In description:   
+ - Smoked Salmon  
  - Coconut Thai Curry Mahi Mahi  
   
 **curry**  
@@ -117,6 +122,10 @@ In name:
  - Black Eyed Pea Curry w/ Rice  
  - Coconut Thai Curry Mahi Mahi  
  - Curry Potatoes  
+  
+**beef**  
+In name:   
+ - Beef Stew  
   
 **pork**  
 In name:   

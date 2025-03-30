@@ -1,6 +1,6 @@
 # 2025-03-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-29 16:10:02  
+Updated at: 2025-03-29 20:00:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-30)  
 **steak**  
 In name:   
@@ -90,10 +90,13 @@ In name:
   
 **pork**  
 In name:   
+ - Quiche Pork Sausage & Cheddar  
+ - Pork Sausage Links  
  - Pork Carnita  
   
 **chicken**  
 In name:   
+ - Chicken Sausage Patty  
  - Crispy Chicken Sandwich  
  - Beef & Chicken Meatballs  
  - Plant Based Chicken Strips  

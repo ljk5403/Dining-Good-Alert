@@ -1,6 +1,6 @@
 # 2025-03-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-29 16:10:04  
+Updated at: 2025-03-29 20:00:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-30)  
 **beef**  
 In name:   
@@ -72,9 +72,15 @@ In description:
 In name:   
  - Watermelon Slices  
   
+**curry**  
+In name:   
+ - Beef Bombay Curry  
+ - Beet Curry  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
+ - Beef Bombay Curry  
  - Beef Taco Meat  
   
 **pork**  
@@ -86,6 +92,8 @@ In name:
  - Lemon Pepper Chicken Salad  
  - Beef & Chicken Meatballs  
  - Plant Based Chicken Strips  
+ - Chicken Piece Seasoned Baked  
+ - Chicken Gravy  
  - Lemon Chicken Rice Soup  
   
 In description:   
