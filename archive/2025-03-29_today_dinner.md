@@ -1,6 +1,6 @@
 # 2025-03-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-30 10:10:46  
+Updated at: 2025-03-30 13:14:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-30)  
 **beef**  
 In name:   
@@ -46,12 +46,12 @@ In name:
  - Lamb & Beef Gyro Sandwich  
   
 In description:   
+ - Burnt Ends  
  - Thin Crust Tavern Style Pepperoni Pizza  
  - Vegan Taco Filling  
   
 **pork**  
 In name:   
- - Pork Loin Apricot Glazed  
  - Tavern Style Sausage Pizza (Pork)  
  - Pork Carnita  
   
