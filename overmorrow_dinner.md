@@ -1,6 +1,6 @@
 # 2025-03-31 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-29 20:00:47  
+Updated at: 2025-03-29 22:32:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-31)  
 **steak**  
 In name:   
@@ -81,12 +81,16 @@ In name:
  - Beef Taco Meat  
   
 In description:   
+ - BYO Bar - Mac & Cheese  
  - Grilled Cheeseburger  
   
 **pork**  
 In name:   
  - Italian Pork Sausage  
  - Tavern Style Sausage Pizza (Pork)  
+  
+In description:   
+ - BYO Bar - Mac & Cheese  
   
 **chicken**  
 In name:   
@@ -96,6 +100,7 @@ In name:
   
 In description:   
  - Gordon's Great Greens  
+ - BYO Bar - Mac & Cheese  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-03-31)  
 **watermelon**  
@@ -116,6 +121,7 @@ In name:
 In description:   
  - Smoked Salmon  
  - Coconut Thai Curry Mahi Mahi  
+ - California Roll  (FujiSan)  
   
 **curry**  
 In name:   

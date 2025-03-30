@@ -1,6 +1,6 @@
 # 2025-03-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-29 16:10:00  
+Updated at: 2025-03-29 20:00:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-29)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-03-29)  
 **watermelon**  
@@ -28,16 +28,23 @@ In name:
 In name:   
  - Watermelon Slices  
   
-**steak**  
+**Chicken Drummies**  
 In name:   
- - Swiss Steak w/Brown Gravy  
+ - Chicken Drummies  
+  
+**Cod**  
+In name:   
+ - Miso Cod  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Miso Cod  
   
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
-  
-In description:   
- - Swiss Steak w/Brown Gravy  
   
 **pork**  
 In name:   
@@ -47,7 +54,7 @@ In description:
   
 **chicken**  
 In name:   
- - Huli Huli Chicken  
+ - Chicken Drummies  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Cream of Chicken & Wild Rice Soup  
@@ -62,6 +69,12 @@ In description:
 In name:   
  - Watermelon Slices  
   
+**fish**  
+In name:   
+  
+In description:   
+ - Veggie Meatballs (Veg)  
+  
 **beef**  
 In name:   
  - Beef Taco Meat  
@@ -73,6 +86,7 @@ In description:
 In name:   
  - Lemon Pepper Chicken Salad  
  - Giardiniera Chicken  
+ - Sesame Chicken  
  - Diced Chicken  
  - Cream of Chicken & Wild Rice Soup  
   

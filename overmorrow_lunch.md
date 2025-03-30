@@ -1,6 +1,6 @@
 # 2025-03-31 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-29 20:00:45  
+Updated at: 2025-03-29 22:32:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-31)  
 **Shrimp**  
 In name:   
@@ -114,6 +114,12 @@ In name:
 **Tuna**  
 In name:   
  - Tuna Salad  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - California Roll  (FujiSan)  
   
 **lamb**  
 In name:   

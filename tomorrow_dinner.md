@@ -1,6 +1,6 @@
 # 2025-03-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-29 20:00:44  
+Updated at: 2025-03-29 22:31:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-30)  
 **beef**  
 In name:   
@@ -62,6 +62,7 @@ In name:
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Lemon Chicken Rice Soup  
+ - Chicken Sausage Patties  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
