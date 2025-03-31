@@ -1,6 +1,6 @@
 # 2025-03-31 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-31 10:12:39  
+Updated at: 2025-03-31 13:16:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-03-31)  
 **Shrimp**  
 In name:   
@@ -72,6 +72,10 @@ In name:
 In name:   
  - Watermelon Slices  
   
+**Cod**  
+In name:   
+ - Cod Nuggets  
+  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
@@ -85,7 +89,6 @@ In description:
   
 **beef**  
 In name:   
- - Beef Vindaloo  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
@@ -110,12 +113,6 @@ In description:
 **watermelon**  
 In name:   
  - Watermelon Slices  
-  
-**fish**  
-In name:   
-  
-In description:   
- - California Roll  (FujiSan)  
   
 **lamb**  
 In name:   
