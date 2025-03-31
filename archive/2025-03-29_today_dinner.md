@@ -1,6 +1,6 @@
 # 2025-03-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-30 16:10:58  
+Updated at: 2025-03-30 19:59:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-30)  
 **beef**  
 In name:   
@@ -35,18 +35,22 @@ In description:
 In name:   
  - Watermelon Slices  
   
+**Shrimp**  
+In name:   
+ - Redhook Ale Breaded Shrimp  
+  
 **lamb**  
 In name:   
  - Lamb & Beef Gyro Sandwich  
   
 **beef**  
 In name:   
+ - Beef Goulash w/Egg Noodles  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
  - Lamb & Beef Gyro Sandwich  
   
 In description:   
- - Burnt Ends  
  - Thin Crust Tavern Style Pepperoni Pizza  
  - Vegan Taco Filling  
   
@@ -57,7 +61,6 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken Enchilada Bake  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Lemon Chicken Rice Soup  
@@ -91,7 +94,6 @@ In name:
  - Lemon Pepper Chicken Salad  
  - Beef & Chicken Meatballs  
  - Plant Based Chicken Strips  
- - Chicken Piece Seasoned Baked  
  - Chicken Gravy  
  - Lemon Chicken Rice Soup  
   
