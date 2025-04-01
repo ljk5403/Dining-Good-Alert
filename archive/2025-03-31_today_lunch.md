@@ -1,6 +1,6 @@
 # 2025-04-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-01 10:12:30  
+Updated at: 2025-04-01 13:15:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-01)  
 **Tandoori Chicken**  
 In name:   
@@ -43,6 +43,10 @@ In description:
 **watermelon**  
 In name:   
  - Melon Watermelon Whole Sliced  
+  
+**Cod**  
+In name:   
+ - Battered Cod  
   
 **Tuna**  
 In name:   
@@ -107,13 +111,13 @@ In description:
   
 **pork**  
 In name:   
+ - Italian Pork Sausage  
  - Jalapeno Popper (Pork) Pizza Slice  
  - Chicken Bacon (Pork) Ranch Pizza  
   
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
- - Mediterranean Chicken  
  - Chicken Bacon (Pork) Ranch Pizza  
  - Chicken Sausage Patties  
   
