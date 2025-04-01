@@ -1,6 +1,6 @@
 # 2025-04-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-31 16:11:16  
+Updated at: 2025-03-31 20:03:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-01)  
 **Tandoori Chicken**  
 In name:   
@@ -167,15 +167,21 @@ In description:
 In name:   
  - Beef & Bean Chili  
   
+In description:   
+ - Meat Lovers w/ Bacon (Pork) Pizza Slice  
+  
 **pork**  
 In name:   
+ - Meat Lovers w/ Bacon (Pork) Pizza Slice  
  - Pork Louisiana Creole - gcp  
   
 **chicken**  
 In name:   
+ - Pizza Slice Chicken Sriracha  
  - Cajun Chicken Pasta  
   
 In description:   
+ - Meat Lovers w/ Bacon (Pork) Pizza Slice  
  - Pork Louisiana Creole - gcp  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-04-01)  
