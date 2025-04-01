@@ -1,6 +1,6 @@
 # 2025-04-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-01 07:23:19  
+Updated at: 2025-04-01 10:12:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-01)  
 **Tandoori Chicken**  
 In name:   
@@ -102,7 +102,7 @@ In name:
   
 In description:   
  - Brazilian Flank Steak  
- - Southwest Burger  
+ - Grilled Cheeseburger  
  - Spicy Steak Fajita  
   
 **pork**  
@@ -133,10 +133,6 @@ In name:
 In name:   
  - Smoked Chicken Drumstick  
   
-**Tuna**  
-In name:   
- - Tuna Salad  
-  
 **Tilapia**  
 In name:   
  - Blackened Tilapia  
@@ -155,6 +151,7 @@ In name:
  - Smoked Chicken Drumstick  
  - Buffalo Chicken Wrap  
  - Italian Chicken  
+ - Lemon Pepper Chicken Salad  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
@@ -172,10 +169,10 @@ In name:
   
 **beef**  
 In name:   
- - Beef & Bean Chili  
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice  
+ - Soup Garden Vegetable  
  - Chicago-Style Hot Dog  
   
 **pork**  
@@ -191,6 +188,7 @@ In name:
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
  - Pizza Slice Chicken Sriracha  
+ - Chicken Noodle Soup  
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice  
