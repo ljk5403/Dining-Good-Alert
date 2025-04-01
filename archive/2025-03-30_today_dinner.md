@@ -1,6 +1,6 @@
 # 2025-03-31 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-03-31 16:11:05  
+Updated at: 2025-03-31 20:03:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-03-31)  
 **steak**  
 In name:   
@@ -82,12 +82,14 @@ In name:
   
 In description:   
  - BYO Bar - Mac & Cheese  
+ - Cocktail Smokies (Pork)  
  - Grilled Cheeseburger  
   
 **pork**  
 In name:   
  - Italian Pork Sausage  
  - Tavern Style Sausage Pizza (Pork)  
+ - Cocktail Smokies (Pork)  
   
 In description:   
  - BYO Bar - Mac & Cheese  
@@ -101,6 +103,7 @@ In name:
 In description:   
  - Gordon's Great Greens  
  - BYO Bar - Mac & Cheese  
+ - Cocktail Smokies (Pork)  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-03-31)  
 **watermelon**  
@@ -127,11 +130,8 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Meatballs  
  - Beef Stew  
-  
-**pork**  
-In name:   
- - Italian Pork Sausage  
   
 **chicken**  
 In name:   
@@ -141,6 +141,7 @@ In name:
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
+ - Beef Meatballs  
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-03-31)  
@@ -173,8 +174,13 @@ In description:
 In name:   
  - Traditional Beef Shepard's Pie  
   
+In description:   
+ - Pepperoni Pizza Slice  
+ - Pizza Slice Deluxe (Pork)  
+  
 **pork**  
 In name:   
+ - Pizza Slice Deluxe (Pork)  
  - Imperial Pork Stir Fry  
   
 **chicken**  
@@ -182,6 +188,8 @@ In name:
  - Chicken Noodle Soup  
   
 In description:   
+ - Pepperoni Pizza Slice  
+ - Pizza Slice Deluxe (Pork)  
  - Great Greens  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-03-31)  
