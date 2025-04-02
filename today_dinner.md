@@ -1,6 +1,6 @@
 # 2025-04-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-01 16:10:47  
+Updated at: 2025-04-01 19:57:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-01)  
 **Tandoori Chicken**  
 In name:   
@@ -102,6 +102,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Italian Sausage  
  - Jalapeno Popper (Pork) Pizza Slice  
  - Chicken Bacon (Pork) Ranch Pizza  
   
@@ -109,7 +110,6 @@ In name:
 In name:   
  - Jamaican Jerk Chicken  
  - Beef & Chicken Meatballs  
- - Mediterranean Chicken  
  - Chicken Bacon (Pork) Ranch Pizza  
  - Chicken Tenders Breaded  
   
@@ -125,14 +125,21 @@ In name:
 In name:   
  - Build Your Own Poke Bar  
   
+**fish**  
+In name:   
+  
+In description:   
+ - Coconut Thai Curry Mahi Mahi  
+  
+**curry**  
+In name:   
+ - Coconut Thai Curry Mahi Mahi  
+  
 **beef**  
 In name:   
  - Big Texan Beef Sandwich (Half)  
  - Beef Taco Meat  
  - Beef & Bean Chili  
-  
-In description:   
- - Burnt Ends  
   
 **pork**  
 In name:   
@@ -142,7 +149,6 @@ In name:
 In name:   
  - Lemon Pepper Chicken Salad  
  - Italian Chicken  
- - Greek Chicken  
  - Chicken Gravy  
   
 In description:   
