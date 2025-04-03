@@ -1,6 +1,6 @@
 # 2025-04-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-03 07:22:52  
+Updated at: 2025-04-03 10:11:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-03)  
 **Cod**  
 In name:   
@@ -154,9 +154,15 @@ In name:
  - Vegan Fish Sandwich  
  - Petite Fish Sandwich  
   
+In description:   
+ - Curried Pumpkin Soup  
+  
 **curry**  
 In name:   
  - Indian Vegetable Curry  
+  
+In description:   
+ - Curried Pumpkin Soup  
   
 **beef**  
 In name:   
@@ -176,7 +182,6 @@ In description:
 **chicken**  
 In name:   
  - Chicken Vindaloo  
- - Chicken Dumpling Soup  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
