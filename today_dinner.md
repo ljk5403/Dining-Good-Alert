@@ -1,6 +1,6 @@
 # 2025-04-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-02 16:10:42  
+Updated at: 2025-04-02 19:56:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-02)  
 **Beef Alicha**  
 In name:   
@@ -120,6 +120,7 @@ In description:
   
 **beef**  
 In name:   
+ - Traditional Beef Shepard's Pie  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
  - Beef French Dip Sandwich  
@@ -131,7 +132,6 @@ In description:
   
 **pork**  
 In name:   
- - Roasted Pork Loin  
  - Italian Pork Sausage  
  - Tavern Style Sausage Pizza (Pork)  
  - Pork Carnita  
@@ -141,7 +141,6 @@ In name:
  - Plant-Based Chicken & Gravy (VN)  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
- - Sweet & Sour Chicken  
  - Chicken Tortilla Soup  
   
 In description:   
