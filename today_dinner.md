@@ -1,6 +1,6 @@
 # 2025-04-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-04 13:15:57  
+Updated at: 2025-04-04 16:10:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-04)  
 **drumstick**  
 In name:   
@@ -121,11 +121,11 @@ In name:
   
 **curry**  
 In name:   
+ - Mixed Vegetable Curry  
  - Curry Potatoes  
   
 In description:   
  - Chicken Tikka Masala  
- - Tofu & Vegetable Tikka Masala  
   
 **beef**  
 In name:   
@@ -134,6 +134,7 @@ In name:
  - Beef Taco Meat  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Kielbasa with Pierogis  
   
 **pork**  
@@ -152,6 +153,7 @@ In name:
  - Chicken Tikka Masala  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-04-04)  
@@ -223,6 +225,10 @@ In description:
 **fish**  
 In name:   
  - Cajun Fish Tacos  
+  
+**curry**  
+In name:   
+ - Indian Vegetable Curry  
   
 **beef**  
 In name:   
