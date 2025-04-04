@@ -1,19 +1,50 @@
 # 2025-04-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-03 19:56:17  
+Updated at: 2025-04-03 22:26:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-03)  
-**beef**  
+**Salmon**  
+In name:   
+ - Hoisin BBQ Glazed Salmon  
+  
+**fish**  
 In name:   
   
 In description:   
+ - Hoisin BBQ Glazed Salmon  
+ - Tempura Roll (FujiSan)  
+  
+**curry**  
+In name:   
+ - Currywurst (Pork)  
+ - Vegan Currywurst  
+  
+**beef**  
+In name:   
+ - Beef & Chicken Meatballs  
+ - Mediterranean Beef  
+  
+In description:   
+ - Burnt Ends  
  - Thin Crust Tavern Style Pepperoni Pizza  
+ - Currywurst (Pork)  
+  
+**pork**  
+In name:   
+ - Currywurst (Pork)  
+  
+In description:   
+ - Chorizo Sauce  
   
 **chicken**  
 In name:   
+ - Beef & Chicken Meatballs  
+ - Plant Based Chicken Strips  
  - Lemon Pepper Chicken Salad  
+ - Mediterranean Chicken  
  - Chicken Dumpling Soup  
   
 In description:   
+ - Chorizo Sauce  
  - Thin Crust Tavern Style Pepperoni Pizza  
  - Great Greens  
   

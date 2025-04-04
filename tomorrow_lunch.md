@@ -1,6 +1,6 @@
 # 2025-04-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-03 19:56:22  
+Updated at: 2025-04-03 22:26:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-04)  
 **steak**  
 In name:   
@@ -65,6 +65,10 @@ In description:
 **watermelon**  
 In name:   
  - Melon Watermelon Whole Sliced  
+  
+**Cod**  
+In name:   
+ - Lemon Pepper Cod Fillet  
   
 **curry**  
 In name:   
