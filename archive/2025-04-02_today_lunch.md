@@ -1,6 +1,6 @@
 # 2025-04-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-03 13:16:02  
+Updated at: 2025-04-03 16:10:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-03)  
 **Cod**  
 In name:   
@@ -174,6 +174,7 @@ In name:
   
 In description:   
  - Egg, Sausage & Cheese English Muffin  
+ - Canadian Bacon  
  - Ham Steak  
   
 **chicken**  

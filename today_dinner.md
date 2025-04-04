@@ -1,6 +1,6 @@
 # 2025-04-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-03 16:10:56  
+Updated at: 2025-04-03 19:56:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-03)  
 **beef**  
 In name:   
@@ -69,12 +69,13 @@ In name:
 In description:   
  - Rosemary Cabernet Flank Steak  
  - Pizza Slice - Bacon Cheeseburger  
+ - Bratwurst  
   
 **pork**  
 In name:   
   
 In description:   
- - Italian Sausage w/ Pepper & Onions  
+ - Bratwurst  
   
 **chicken**  
 In name:   
@@ -84,7 +85,7 @@ In name:
  - Mediterranean Chicken  
  - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
- - Crispy Chicken & Waffle Sandwich  
+ - Crispy Chicken Sandwich  
   
 In description:   
  - Gordon's Great Greens  
@@ -184,7 +185,6 @@ In description:
   
 **curry**  
 In name:   
- - Indian Vegetable Curry  
   
 In description:   
  - Chicken Madras w/naan  
@@ -200,6 +200,7 @@ In description:
 In name:   
  - Pork Carnita  
  - Filipino Barbecue - Pork  
+ - Imperial Pork Stir Fry  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
