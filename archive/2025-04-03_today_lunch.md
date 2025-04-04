@@ -1,6 +1,6 @@
 # 2025-04-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-04 07:21:47  
+Updated at: 2025-04-04 10:12:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-04)  
 **steak**  
 In name:   
@@ -180,10 +180,6 @@ In name:
 In description:   
  - Clam Chowder (Pork)  
   
-**Tuna**  
-In name:   
- - Tuna Salad  
-  
 **catfish**  
 In name:   
  - Blackened Catfish  
@@ -198,7 +194,6 @@ In name:
   
 In description:   
  - Sliced Kielbasa (Pork)  
- - Vegan Taco Filling  
   
 **pork**  
 In name:   
@@ -210,6 +205,7 @@ In name:
 In name:   
  - Plant-Based Chicken & Dumplings  
  - Grilled Chicken Sandwich  
+ - Lemon Pepper Chicken Salad  
   
 In description:   
  - Collard Greens w/Bacon  

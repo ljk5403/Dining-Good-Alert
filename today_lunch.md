@@ -1,6 +1,6 @@
 # 2025-04-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-04 10:12:23  
+Updated at: 2025-04-04 13:15:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-04)  
 **steak**  
 In name:   
@@ -18,7 +18,7 @@ In description:
   
 **catfish**  
 In name:   
- - Catfish Nuggets w/ Remoulade Sauce  
+ - Fried Catfish  
   
 **Tilapia**  
 In name:   
@@ -26,7 +26,7 @@ In name:
   
 **fish**  
 In name:   
- - Catfish Nuggets w/ Remoulade Sauce  
+ - Fried Catfish  
   
 **curry**  
 In name:   
