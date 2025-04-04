@@ -1,6 +1,6 @@
 # 2025-04-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-04 07:21:50  
+Updated at: 2025-04-04 10:12:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-04)  
 **drumstick**  
 In name:   
@@ -178,10 +178,6 @@ In name:
 In description:   
  - Clam Chowder (Pork)  
   
-**Tuna**  
-In name:   
- - Tuna Salad  
-  
 **catfish**  
 In name:   
  - Garlic Baked Catfish  
@@ -198,7 +194,6 @@ In name:
   
 In description:   
  - Grilled Cheeseburger  
- - Vegan Taco Filling  
   
 **pork**  
 In name:   
@@ -206,6 +201,7 @@ In name:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Chicken Coq Au Vin Blanc w/Bacon  
   
 In description:   
