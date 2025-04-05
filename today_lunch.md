@@ -1,6 +1,6 @@
 # 2025-04-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-05 13:14:02  
+Updated at: 2025-04-05 16:10:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-05)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-04-05)  
 **watermelon**  
@@ -25,9 +25,13 @@ In name:
 In name:   
  - Chicken Drumstick BBQ Glazed  
   
+**curry**  
+In name:   
+ - Beef Bombay Curry  
+  
 **beef**  
 In name:   
- - Beef Tri Tip Carved w/ Chimichurri  
+ - Beef Bombay Curry  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
