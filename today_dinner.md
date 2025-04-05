@@ -1,6 +1,6 @@
 # 2025-04-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-04 19:55:32  
+Updated at: 2025-04-04 22:25:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-04)  
 **drumstick**  
 In name:   
@@ -106,7 +106,7 @@ In name:
 **Cod**  
 In name:   
  - Caribbean Cod  
- - Cod Nugget Basket  
+ - Basket Beer Battered Cod  
   
 In description:   
  - Clam Chowder (Pork)  
