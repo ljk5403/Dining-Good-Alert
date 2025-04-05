@@ -1,6 +1,6 @@
 # 2025-04-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-04 13:15:53  
+Updated at: 2025-04-04 16:10:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-04)  
 **steak**  
 In name:   
@@ -54,7 +54,7 @@ In description:
 In name:   
  - Chicken Jollof Rice (Non-Halal)  
  - Lemon Pepper Chicken Salad  
- - Butter Chicken  
+ - Chicken Vindaloo  
  - Fajita Chicken  
  - Diced Chicken Breast  
   
@@ -119,6 +119,10 @@ In name:
 In description:   
  - Petite Fish Sandwich  
  - Clam Chowder (Pork)  
+  
+**Tilapia**  
+In name:   
+ - Blackened Tilapia  
   
 **fish**  
 In name:   

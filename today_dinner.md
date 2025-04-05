@@ -1,6 +1,6 @@
 # 2025-04-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-04 16:10:28  
+Updated at: 2025-04-04 19:55:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-04)  
 **drumstick**  
 In name:   
@@ -20,7 +20,7 @@ In name:
   
 **Cod**  
 In name:   
- - Cod Nuggets  
+ - Battered Cod  
   
 In description:   
  - Clam Chowder (Pork)  
@@ -45,6 +45,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Italian Sausage  
  - Pork Carnita  
  - Clam Chowder (Pork)  
   
@@ -54,9 +55,8 @@ In description:
 **chicken**  
 In name:   
  - Chicken Drumstick Teriyaki Glazed  
- - Diced Chicken Breast  
  - Lemon Pepper Chicken Salad  
- - Dan Dan w/ Chicken  
+ - Chicken Jollof Rice (Non-Halal)  
  - Fajita Chicken  
   
 In description:   
@@ -95,17 +95,13 @@ In name:
 In name:   
  - Watermelon Slices  
   
-**Samosas**  
+**steak**  
 In name:   
- - Samosas  
+ - Rosemary Cabernet Flank Steak  
   
 **clam**  
 In name:   
  - Clam Chowder (Pork)  
-  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp  
   
 **Cod**  
 In name:   
@@ -122,24 +118,25 @@ In name:
 **curry**  
 In name:   
  - Mixed Vegetable Curry  
+ - Beef Bombay Curry  
  - Curry Potatoes  
-  
-In description:   
- - Chicken Tikka Masala  
   
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Beef Barbacoa  
+ - Beef Bombay Curry  
  - Beef Taco Meat  
   
 In description:   
+ - Rosemary Cabernet Flank Steak  
  - Pepperoni Pizza Slice  
  - Kielbasa with Pierogis  
   
 **pork**  
 In name:   
+ - Pork Italian Sausage  
  - Pizza Slice Chicken Cordon Bleu (Pork)  
+ - Pork Carnita  
  - Clam Chowder (Pork)  
   
 In description:   
@@ -147,10 +144,8 @@ In description:
   
 **chicken**  
 In name:   
- - Brazilian Chicken w/ Salsa Vinaigrette  
  - Beef & Chicken Meatballs  
  - Pizza Slice Chicken Cordon Bleu (Pork)  
- - Chicken Tikka Masala  
   
 In description:   
  - Pepperoni Pizza Slice  
@@ -180,14 +175,9 @@ In name:
 In description:   
  - Clam Chowder (Pork)  
   
-**catfish**  
-In name:   
- - Garlic Baked Catfish  
-  
 **fish**  
 In name:   
  - Vegan Fish Sandwich  
- - Garlic Baked Catfish  
   
 **beef**  
 In name:   
@@ -199,6 +189,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Loin Spicy Greenbush  
  - Clam Chowder (Pork)  
   
 **chicken**  
