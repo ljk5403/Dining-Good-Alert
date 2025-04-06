@@ -1,6 +1,6 @@
 # 2025-04-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-06 07:19:59  
+Updated at: 2025-04-06 10:10:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-06)  
 **beef**  
 In name:   
@@ -65,7 +65,6 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice  
- - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-04-06)  
 **watermelon**  
@@ -86,9 +85,10 @@ In description:
   
 **pork**  
 In name:   
- - Pork Sausage Links  
+ - Pork Sausage Patty  
  - Corn Dog (Pork)  
  - Pork Carnita  
+ - Pork Sausage Links  
   
 **chicken**  
 In name:   
