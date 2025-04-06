@@ -1,6 +1,6 @@
 # 2025-04-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-06 01:15:44  
+Updated at: 2025-04-06 04:11:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-08)  
 **curry**  
 In name:   
