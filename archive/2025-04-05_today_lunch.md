@@ -1,6 +1,6 @@
 # 2025-04-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-06 10:10:18  
+Updated at: 2025-04-06 13:14:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-06)  
 **beef**  
 In name:   
@@ -16,7 +16,7 @@ In description:
 In name:   
  - Chicken & Penne w/ Pesto Creme  
  - Lemon Pepper Chicken Salad  
- - Fajita Chicken  
+ - Chicken Tinga  
  - Lemon Chicken Rice Soup  
   
 In description:   
