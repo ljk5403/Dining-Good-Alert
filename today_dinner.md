@@ -1,6 +1,6 @@
 # 2025-04-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-07 07:23:39  
+Updated at: 2025-04-07 10:12:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-07)  
 **drumstick**  
 In name:   
@@ -76,6 +76,7 @@ In name:
   
 In description:   
  - Swedish Meatballs (AYCTE)  
+ - Pepperoni Pizza Slice  
  - Blackened Hamburger  
  - Vegan Sloppy Joe  
   
@@ -87,7 +88,6 @@ In name:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
- - Pizza Slice Mediterranean Chicken  
  - Chicken Tinga  
  - Chicken Noodle Soup  
  - BYO - MTO Chicken Wrap - Gordon  
@@ -95,6 +95,7 @@ In name:
   
 In description:   
  - Swedish Meatballs (AYCTE)  
+ - Pepperoni Pizza Slice  
  - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-04-07)  
