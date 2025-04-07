@@ -1,6 +1,6 @@
 # 2025-04-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-07 10:12:42  
+Updated at: 2025-04-07 13:16:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-07)  
 **beef**  
 In name:   
@@ -95,7 +95,10 @@ In description:
   
 **pork**  
 In name:   
- - Italian Pork Sausage  
+ - Pork Sausage Patties  
+  
+In description:   
+ - Andouille Sausage  
   
 **chicken**  
 In name:   
@@ -163,7 +166,6 @@ In description:
 **chicken**  
 In name:   
  - Chicken Tinga & Scallion Quesadilla  
- - Chicken Noodle Soup  
  - Chicken Biscuit w/ Sausage (Pork) Gravy  
  - Chicken Sausage Patty  
   
@@ -186,6 +188,7 @@ In description:
 **pork**  
 In name:   
  - Pizza Slice BBQ Pulled Pork  
+ - Sri Lanka Deviled Pork  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
