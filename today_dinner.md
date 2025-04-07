@@ -1,6 +1,6 @@
 # 2025-04-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-07 13:16:23  
+Updated at: 2025-04-07 16:10:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-07)  
 **drumstick**  
 In name:   
@@ -10,7 +10,6 @@ In name:
 In name:   
  - Beef Ravioli Plain  
  - Beef Taco Meat  
- - Beef Barbacoa  
   
 In description:   
  - Sausage (Pork), Potatoes, & Peppers  
@@ -21,6 +20,7 @@ In description:
 In name:   
  - Sausage (Pork), Potatoes, & Peppers  
  - Italian Pork Sausage  
+ - Pork Carnita  
   
 In description:   
  - Pizza Slice Sausage  
@@ -83,7 +83,7 @@ In description:
 **pork**  
 In name:   
  - Herb Crusted Pork Loin  
- - Italian Pork Sausage  
+ - Andouille Pork Sausage  
   
 **chicken**  
 In name:   

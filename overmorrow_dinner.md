@@ -1,6 +1,6 @@
 # 2025-04-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-07 13:16:29  
+Updated at: 2025-04-07 16:11:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-09)  
 **pork**  
 In name:   
