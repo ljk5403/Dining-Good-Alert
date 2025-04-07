@@ -1,6 +1,6 @@
 # 2025-04-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-06 16:10:07  
+Updated at: 2025-04-06 19:58:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-06)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -90,13 +90,13 @@ In name:
   
 **Salmon**  
 In name:   
- - Tuscan Butter Salmon  
+ - Grilled Sesame Ginger Salmon  
   
 **fish**  
 In name:   
   
 In description:   
- - Tuscan Butter Salmon  
+ - Grilled Sesame Ginger Salmon  
   
 **curry**  
 In name:   
@@ -106,11 +106,7 @@ In description:
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs  
  - Beef Taco Meat  
-  
-In description:   
- - Grilled Cheeseburger  
   
 **pork**  
 In name:   
@@ -119,7 +115,8 @@ In name:
   
 **chicken**  
 In name:   
- - Beef & Chicken Meatballs  
+ - Crispy Chicken Sandwich  
+ - Diced Chicken  
  - Plant Based Chicken Strips  
  - Lemon Chicken Rice Soup  
   

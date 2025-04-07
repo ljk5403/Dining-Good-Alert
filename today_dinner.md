@@ -1,6 +1,6 @@
 # 2025-04-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-06 19:58:48  
+Updated at: 2025-04-06 22:30:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-06)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -45,10 +45,6 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**BBQ Pork Sandwich**  
-In name:   
- - BBQ Pork Sandwich  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
@@ -57,12 +53,12 @@ In name:
 In description:   
  - Pepperoni Pizza Slice  
  - Vegan Taco Filling  
+ - Hamburger  
   
 **pork**  
 In name:   
  - Boneless Baked Pork Ham  
  - Pork Carnita  
- - BBQ Pork Sandwich  
   
 In description:   
  - Pizza Slice Sausage  
