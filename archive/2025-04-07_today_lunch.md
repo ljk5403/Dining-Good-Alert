@@ -1,6 +1,6 @@
 # 2025-04-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-08 04:13:04  
+Updated at: 2025-04-08 07:23:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-08)  
 **curry**  
 In name:   
@@ -104,7 +104,6 @@ In description:
 In name:   
  - Philly Cheesesteak Sandwich  
  - Tempeh Philly Cheesesteak Sandwich  
- - Spicy Steak Fajita  
   
 **curry**  
 In name:   
@@ -122,17 +121,17 @@ In name:
   
 In description:   
  - Philly Cheesesteak Sandwich  
- - Spicy Steak Fajita  
   
 **pork**  
 In name:   
+ - Pork Italian Sausage  
  - Tavern Style Sausage Pizza (Pork)  
+ - Pork Carnita  
   
 **chicken**  
 In name:   
  - Irish Roast Chicken w/Leeks and Bacon  
  - Beef & Chicken Meatballs  
- - Mediterranean Chicken  
  - Chicken Sausage Patties  
   
 In description:   
