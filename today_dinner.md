@@ -1,6 +1,6 @@
 # 2025-04-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-08 10:13:00  
+Updated at: 2025-04-08 13:15:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-08)  
 **fish**  
 In name:   
@@ -95,7 +95,7 @@ In name:
  - Corned Beef  
  - Beef Gravy  
  - Beef & Chicken Meatballs  
- - Shredded Beef Bulgogi Nachos  
+ - Bulgogi Beef  
  - Beef Taco Meat  
  - Beef & Bean Chili  
   

@@ -1,6 +1,6 @@
 # 2025-04-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-08 07:23:03  
+Updated at: 2025-04-08 10:12:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-08)  
 **curry**  
 In name:   
@@ -113,9 +113,8 @@ In description:
   
 **beef**  
 In name:   
- - Beef Sirloin Tips  
  - Beef & Chicken Meatballs  
- - Beef Bulgogi Taco  
+ - Shredded Beef Bulgogi Nachos  
  - Beef Taco Meat  
  - Beef & Bean Chili  
   
@@ -124,6 +123,7 @@ In description:
   
 **pork**  
 In name:   
+ - Jerk Pork Chop  
  - Pork Italian Sausage  
  - Tavern Style Sausage Pizza (Pork)  
  - Pork Carnita  
@@ -133,6 +133,7 @@ In name:
  - Irish Roast Chicken w/Leeks and Bacon  
  - Beef & Chicken Meatballs  
  - Chicken Sausage Patties  
+ - Bulgogi Chicken  
   
 In description:   
  - Gordon's Great Greens  
