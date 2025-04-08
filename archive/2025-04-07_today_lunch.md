@@ -1,6 +1,6 @@
 # 2025-04-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-08 10:12:55  
+Updated at: 2025-04-08 13:15:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-08)  
 **curry**  
 In name:   
@@ -198,10 +198,13 @@ In description:
 In name:   
  - Guajillo Shrimp  
   
+**curry**  
+In name:   
+ - Soup Coconut Curry Cauliflower  
+  
 **beef**  
 In name:   
  - Pizza Slice Italian Beef  
- - Beef & Bean Chili  
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice  
@@ -233,7 +236,7 @@ In name:
   
 **beef**  
 In name:   
- - Beef & Bean Chili  
+ - Beef Taco Meat  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
@@ -247,6 +250,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Gravy  
  - Huli Huli Chicken  
   
 In description:   
