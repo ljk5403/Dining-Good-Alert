@@ -1,11 +1,7 @@
 # 2025-04-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-07 16:10:55  
+Updated at: 2025-04-07 19:56:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-07)  
-**drumstick**  
-In name:   
- - Chicken Drumstick BBQ Glazed  
-  
 **beef**  
 In name:   
  - Beef Ravioli Plain  
@@ -27,7 +23,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Drumstick BBQ Glazed  
+ - Breaded Chicken Tenders  
  - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
  - Chicken Noodle Soup  
@@ -72,6 +68,7 @@ In name:
 In name:   
  - Beef Ravioli w/Tomato Sauce  
  - Beef & Chicken Meatballs  
+ - Beef Barbacoa  
  - Beef Taco Meat  
   
 In description:   
@@ -88,7 +85,6 @@ In name:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
- - Chicken Tinga  
  - Chicken Noodle Soup  
  - BYO - MTO Chicken Wrap - Gordon  
  - Chicken Strip  
