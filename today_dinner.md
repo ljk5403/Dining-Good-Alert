@@ -1,6 +1,6 @@
 # 2025-04-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-09 13:16:32  
+Updated at: 2025-04-09 16:10:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-09)  
 **pork**  
 In name:   
@@ -73,10 +73,6 @@ In name:
 In description:   
  - BYO Bar - Street Taco - Gordon  
   
-**Shrimp**  
-In name:   
- - Sweet & Sour Shrimp  
-  
 **Cod**  
 In name:   
  - Basque Style Cod  
@@ -116,6 +112,7 @@ In name:
  - Chicken Drummies  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
+ - Sweet & Sour Chicken  
  - Plant Based Sweet & Sour Chicken  
  - Chicken Tortilla Soup  
   
