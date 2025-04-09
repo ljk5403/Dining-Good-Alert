@@ -1,6 +1,6 @@
 # 2025-04-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-09 07:22:52  
+Updated at: 2025-04-09 10:14:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-09)  
 **beef**  
 In name:   
@@ -165,6 +165,18 @@ In description:
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-04-09)  
+**fish**  
+In name:   
+  
+In description:   
+ - Curried Pumpkin Soup  
+  
+**curry**  
+In name:   
+  
+In description:   
+ - Curried Pumpkin Soup  
+  
 **beef**  
 In name:   
  - Mediterranean Beef  
@@ -181,7 +193,6 @@ In description:
 **chicken**  
 In name:   
  - Mediterranean Chicken  
- - Chicken Tortilla Soup  
  - Chicken Sausage Patty  
  - Buffalo Chicken Sliders  
   
