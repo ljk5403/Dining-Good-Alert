@@ -1,22 +1,26 @@
 # 2025-04-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-08 13:15:41  
+Updated at: 2025-04-08 16:11:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-08)  
 **fish**  
 In name:   
   
 In description:   
  - Build Your Own Curry Bowl  
+ - Masaman Thai Curry Sauce  
   
 **curry**  
 In name:   
  - Build Your Own Curry Bowl  
- - Build Your Own Curry Bowl - Rhetas  
+ - Red Curry Sauce  
+ - Green Curry Sauce  
+ - Masaman Thai Curry Sauce  
  - Black Eyed Pea Curry w/ Rice  
  - Curry Potatoes  
   
 **beef**  
 In name:   
+ - Beef  
  - Beef & Chicken Meatballs  
  - Poutine w/Beef Gravy  
  - Mediterranean Beef  
@@ -24,10 +28,11 @@ In name:
   
 In description:   
  - Build Your Own Curry Bowl  
- - Thin Crust Tavern Style Pepperoni Pizza  
+ - Pepperoni Pizza Slice  
   
 **chicken**  
 In name:   
+ - Chicken Thigh  
  - Beef & Chicken Meatballs  
  - Plant Based Chicken Strips  
  - Lemon Pepper Chicken Salad  
@@ -36,7 +41,7 @@ In name:
   
 In description:   
  - Build Your Own Curry Bowl  
- - Thin Crust Tavern Style Pepperoni Pizza  
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-04-08)  
@@ -85,7 +90,6 @@ In description:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-04-08)  
 **steak**  
 In name:   
- - Spicy Steak Fajita  
   
 In description:   
  - Montreal Chicken  
@@ -99,19 +103,18 @@ In name:
  - Beef Taco Meat  
  - Beef & Bean Chili  
   
-In description:   
- - Spicy Steak Fajita  
-  
 **pork**  
 In name:   
+ - Pork Italian Sausage  
  - Tavern Style Sausage Pizza (Pork)  
+ - Pork Carnita  
   
 **chicken**  
 In name:   
  - Montreal Chicken  
  - Beef & Chicken Meatballs  
- - Mediterranean Chicken  
  - Bulgogi Chicken  
+ - Chicken Sausage Patty  
  - Crispy Chicken Sandwich  
   
 In description:   

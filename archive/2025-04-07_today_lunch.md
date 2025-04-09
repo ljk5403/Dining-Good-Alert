@@ -1,6 +1,6 @@
 # 2025-04-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-08 13:15:39  
+Updated at: 2025-04-08 16:11:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-08)  
 **curry**  
 In name:   
@@ -15,7 +15,7 @@ In name:
  - Beef & Chicken Meatballs  
   
 In description:   
- - Thin Crust Tavern Style Pepperoni Pizza  
+ - Pepperoni Pizza Slice  
   
 **pork**  
 In name:   
@@ -31,7 +31,7 @@ In name:
  - Plant Based Chicken Strips  
   
 In description:   
- - Thin Crust Tavern Style Pepperoni Pizza  
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-04-08)  
