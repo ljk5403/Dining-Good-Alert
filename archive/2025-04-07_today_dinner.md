@@ -1,6 +1,6 @@
 # 2025-04-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-08 16:11:07  
+Updated at: 2025-04-08 19:56:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-08)  
 **fish**  
 In name:   
@@ -125,6 +125,10 @@ In description:
 In name:   
  - Watermelon Slices  
   
+**drumstick**  
+In name:   
+ - Chicken Drumstick BBQ Glazed  
+  
 **Shrimp**  
 In name:   
   
@@ -141,24 +145,21 @@ In name:
 In description:   
  - BYO Bar - Four Lakes Bulgogi  
   
-**lamb**  
-In name:   
- - Smoked Leg of Lamb  
-  
 **beef**  
 In name:   
  - Beef & Tater Tot Bake  
- - Beef Taco Meat  
  - Beef & Bean Chili  
  - Bulgogi Beef  
   
 **pork**  
 In name:   
+ - Andouille Pork Sausage  
  - Ancho Braised Pork  
   
 **chicken**  
 In name:   
- - Italian Chicken  
+ - Chicken Drumstick BBQ Glazed  
+ - Chicken Tinga  
  - Bulgogi Chicken  
   
 In description:   
