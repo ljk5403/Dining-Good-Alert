@@ -1,6 +1,6 @@
 # 2025-04-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-09 16:10:02  
+Updated at: 2025-04-09 19:56:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-09)  
 **pork**  
 In name:   
@@ -30,6 +30,10 @@ In name:
 In name:   
  - Tandoori Chicken  
   
+**steak**  
+In name:   
+ - Tandoori Braised Beef Steak  
+  
 **Tuna**  
 In name:   
  - Tuna Salad  
@@ -40,7 +44,7 @@ In name:
   
 **beef**  
 In name:   
- - Beef Vindaloo  
+ - Tandoori Braised Beef Steak  
   
 In description:   
  - Station Recipe - Liz - Deli  AYCTE  
@@ -94,7 +98,6 @@ In description:
  - Pepperoni Pizza Slice  
  - Meat Lovers w/ Bacon (Pork) Pizza Slice  
  - Vegan Taco Filling  
- - Pork Bratwurst Sandwich  
   
 **pork**  
 In name:   
@@ -102,7 +105,6 @@ In name:
  - Meat Lovers w/ Bacon (Pork) Pizza Slice  
  - Pork Carnita  
  - Pork Belly for Street Taco  
- - Pork Bratwurst Sandwich  
   
 In description:   
  - BYO Bar - Street Taco - Gordon  
@@ -112,9 +114,10 @@ In name:
  - Chicken Drummies  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
- - Sweet & Sour Chicken  
- - Plant Based Sweet & Sour Chicken  
+ - Sesame Chicken  
+ - Plant Based Sesame Chicken (AYCTE) (VN)  
  - Chicken Tortilla Soup  
+ - Crispy Chicken Sandwich  
   
 In description:   
  - Pepperoni Pizza Slice  
