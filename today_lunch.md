@@ -1,6 +1,6 @@
 # 2025-04-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-10 07:22:50  
+Updated at: 2025-04-10 10:12:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-10)  
 **fish**  
 In name:   
@@ -185,7 +185,7 @@ In description:
 **chicken**  
 In name:   
  - Butter Chicken  
- - Chicken Dumpling Soup  
+ - Chicken Noodle Soup  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
