@@ -1,6 +1,6 @@
 # 2025-04-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-09 19:56:59  
+Updated at: 2025-04-09 22:29:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-09)  
 **pork**  
 In name:   
@@ -116,7 +116,7 @@ In name:
  - Lemon Pepper Chicken Salad  
  - Sesame Chicken  
  - Plant Based Sesame Chicken (AYCTE) (VN)  
- - Chicken Tortilla Soup  
+ - Lemon Chicken Rice Soup  
  - Crispy Chicken Sandwich  
   
 In description:   
