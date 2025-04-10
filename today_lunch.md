@@ -1,6 +1,6 @@
 # 2025-04-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-10 10:12:58  
+Updated at: 2025-04-10 13:16:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-10)  
 **fish**  
 In name:   
@@ -66,23 +66,43 @@ In name:
  - Lemon Pepper Chicken Salad  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-04-10)  
+**steak**  
+In name:   
+ - Spicy Steak Fajita  
+  
+In description:   
+ - Montreal Chicken  
+  
+**Shrimp**  
+In name:   
+  
+In description:   
+ - Global Curry Bowl  
+  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
   
 **fish**  
 In name:   
- - Fish Sauce  
+  
+In description:   
+ - Global Curry Bowl  
+  
+**curry**  
+In name:   
+ - Global Curry Bowl  
   
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Protein - Beef Thinly Sliced  
  - Beef Taco Meat  
   
 In description:   
  - Pizza Slice Deluxe (Pork)  
  - Mushroom Swiss Burger  
+ - Global Curry Bowl  
+ - Spicy Steak Fajita  
   
 **pork**  
 In name:   
@@ -93,16 +113,15 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken Baked  (1 piece)  
+ - Montreal Chicken  
  - Plant-Based Chicken & Dumplings  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
- - Protein - Chicken Thinly Sliced  
- - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
   
 In description:   
  - Pizza Slice Deluxe (Pork)  
+ - Global Curry Bowl  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-04-10)  
 **watermelon**  
