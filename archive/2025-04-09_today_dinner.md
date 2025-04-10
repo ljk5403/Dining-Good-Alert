@@ -1,6 +1,6 @@
 # 2025-04-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-10 10:13:00  
+Updated at: 2025-04-10 13:16:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-10)  
 **Chicken Drummies**  
 In name:   
@@ -93,16 +93,22 @@ In name:
 In name:   
  - Coconut Shrimp  
   
+In description:   
+ - Global Curry Bowl  
+  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
   
 **fish**  
 In name:   
- - Fish Sauce  
+  
+In description:   
+ - Global Curry Bowl  
   
 **curry**  
 In name:   
+ - Global Curry Bowl  
   
 In description:   
  - Coconut Vegetable Stew  
@@ -110,11 +116,11 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Protein - Beef Thinly Sliced  
  - Beef Taco Meat  
   
 In description:   
  - Pizza Slice Deluxe (Pork)  
+ - Global Curry Bowl  
  - Chicago-Style Hot Dog  
  - Italian Meatball Sandwich  
   
@@ -128,12 +134,12 @@ In name:
  - Shoyu Chicken  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
- - Protein - Chicken Thinly Sliced  
  - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
   
 In description:   
  - Pizza Slice Deluxe (Pork)  
+ - Global Curry Bowl  
  - Gordon's Great Greens  
  - Italian Meatball Sandwich  
   
