@@ -1,11 +1,7 @@
 # 2025-04-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-10 16:11:08  
+Updated at: 2025-04-10 19:57:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-10)  
-**Chicken Drummies**  
-In name:   
- - Chicken Drummies  
-  
 **Shrimp**  
 In name:   
  - Blackened Shrimp  
@@ -35,7 +31,7 @@ In name:
  - Plant Based Chicken Strips  
  - Pizza Slice Chicken Broccoli Alfredo  
  - Lemon Pepper Chicken Salad  
- - Chicken Drummies  
+ - Crispy Chicken Sandwich  
  - Plant-Based Chicken Nuggets (6)  
  - Mediterranean Chicken  
  - Chicken Dumpling Soup  
@@ -89,6 +85,10 @@ In name:
 In name:   
  - Watermelon Slices  
   
+**Chicken Drummies**  
+In name:   
+ - Chicken Drummies  
+  
 **Shrimp**  
 In name:   
  - Coconut Shrimp  
@@ -121,26 +121,25 @@ In description:
  - Pizza Slice Deluxe (Pork)  
  - Global Curry Bowl  
  - Chicago-Style Hot Dog  
- - Italian Meatball Sandwich  
   
 **pork**  
 In name:   
+ - Boneless Baked Pork Ham  
  - Italian Pork Sausage  
  - Cubano (Pork) Pizza  
  - Pizza Slice Deluxe (Pork)  
+ - Pork Carnita  
   
 **chicken**  
 In name:   
- - Shoyu Chicken  
  - Giardiniera Chicken  
- - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
+ - Chicken Drummies  
   
 In description:   
  - Pizza Slice Deluxe (Pork)  
  - Global Curry Bowl  
  - Gordon's Great Greens  
- - Italian Meatball Sandwich  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-04-10)  
 **watermelon**  

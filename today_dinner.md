@@ -1,6 +1,6 @@
 # 2025-04-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-10 19:57:09  
+Updated at: 2025-04-10 22:28:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-10)  
 **Shrimp**  
 In name:   
@@ -109,9 +109,6 @@ In description:
 **curry**  
 In name:   
  - Global Curry Bowl  
-  
-In description:   
- - Coconut Vegetable Stew  
   
 **beef**  
 In name:   

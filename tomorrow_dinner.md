@@ -1,6 +1,6 @@
 # 2025-04-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-10 19:57:12  
+Updated at: 2025-04-10 22:29:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-11)  
 **Poke Bar**  
 In name:   
@@ -104,6 +104,7 @@ In description:
 **Tilapia**  
 In name:   
  - Tilapia Chipotle Lime Crusted  
+ - Baked Tilapia w/Dill Wine Sauce  
   
 **curry**  
 In name:   
