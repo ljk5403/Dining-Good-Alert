@@ -1,6 +1,6 @@
 # 2025-04-11 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-11 10:12:47  
+Updated at: 2025-04-11 13:16:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-11)  
 **Poke Bar**  
 In name:   
@@ -114,6 +114,7 @@ In name:
  - Chicken Tenders Breaded  
  - Plant-Based Chicken Nuggets (6)  
  - Butter Chicken  
+ - Cream of Chicken & Wild Rice Soup  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
@@ -130,6 +131,7 @@ In name:
 **Shrimp**  
 In name:   
  - Sauteed Shrimp  
+ - Shrimp Tempura Roll (FujiSan)  
   
 **Cod**  
 In name:   
@@ -150,7 +152,7 @@ In name:
   
 In description:   
  - Masala Spiced Salmon  
- - California Roll  (FujiSan)  
+ - Shrimp Tempura Roll (FujiSan)  
   
 **curry**  
 In name:   
