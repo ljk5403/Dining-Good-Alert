@@ -1,6 +1,6 @@
 # 2025-04-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-10 13:16:23  
+Updated at: 2025-04-10 16:11:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-10)  
 **Chicken Drummies**  
 In name:   
@@ -115,7 +115,6 @@ In description:
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
 In description:   
@@ -126,13 +125,13 @@ In description:
   
 **pork**  
 In name:   
+ - Italian Pork Sausage  
  - Cubano (Pork) Pizza  
  - Pizza Slice Deluxe (Pork)  
   
 **chicken**  
 In name:   
  - Shoyu Chicken  
- - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
@@ -229,7 +228,6 @@ In description:
   
 **pork**  
 In name:   
- - Pork Frittata Trattoria  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
