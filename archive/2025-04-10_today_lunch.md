@@ -1,6 +1,6 @@
 # 2025-04-11 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-11 04:12:41  
+Updated at: 2025-04-11 07:22:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-11)  
 **Poke Bar**  
 In name:   
@@ -70,10 +70,6 @@ In name:
  - Lemon Pepper Chicken Salad  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-04-11)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
 **clam**  
 In name:   
  - Clam Chowder (Pork)  
@@ -109,7 +105,6 @@ In description:
   
 **pork**  
 In name:   
- - Baked Rigatoni w/ Pork Italian Sausage  
  - Clam Chowder (Pork)  
   
 **chicken**  
@@ -122,7 +117,6 @@ In name:
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
- - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-04-11)  
 **watermelon**  
