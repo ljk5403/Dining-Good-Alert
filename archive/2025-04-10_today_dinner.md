@@ -1,6 +1,6 @@
 # 2025-04-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-11 13:16:19  
+Updated at: 2025-04-11 16:10:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-11)  
 **Poke Bar**  
 In name:   
@@ -98,23 +98,22 @@ In name:
 **Shrimp**  
 In name:   
  - Sauteed Shrimp  
- - Shrimp Po-Boy Sandwich  
   
 **Cod**  
 In name:   
+ - Lemon Pepper Cod Fillet  
+ - Battered Cod  
   
 In description:   
  - Clam Chowder (Pork)  
-  
-**Tilapia**  
-In name:   
- - Tilapia Chipotle Lime Crusted  
- - Baked Tilapia w/Dill Wine Sauce  
   
 **curry**  
 In name:   
  - Indian Curry Garbanzo Beans  
  - Curry Potatoes  
+  
+In description:   
+ - Navarathan Korma (AYCTE)  
   
 **beef**  
 In name:   
@@ -131,10 +130,10 @@ In description:
 In name:   
  - Baked Rigatoni w/ Pork Italian Sausage  
  - Clam Chowder (Pork)  
+ - Pork Carnita  
   
 In description:   
  - BYO Bar - Poutine Bar - Gordon  
- - Andouille Sausage  
   
 **chicken**  
 In name:   
