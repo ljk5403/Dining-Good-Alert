@@ -1,6 +1,6 @@
 # 2025-04-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-12 13:14:07  
+Updated at: 2025-04-12 16:09:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-12)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-04-12)  
 **watermelon**  
@@ -38,6 +38,7 @@ In description:
 **pork**  
 In name:   
  - Ancho Braised Pork  
+ - Pork Chop (1)  
  - Italian Pork Sausage  
   
 In description:   
@@ -45,7 +46,6 @@ In description:
   
 **chicken**  
 In name:   
- - Bulgogi Chicken Thighs  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Lemon Chicken Rice Soup  
