@@ -1,6 +1,6 @@
 # 2025-04-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-11 16:10:42  
+Updated at: 2025-04-11 19:56:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-11)  
 **Poke Bar**  
 In name:   
@@ -10,6 +10,10 @@ In name:
 In name:   
  - Clam Chowder (Pork)  
   
+**Shrimp**  
+In name:   
+ - Fried Popcorn Shrimp  
+  
 **Cod**  
 In name:   
   
@@ -17,16 +21,9 @@ In description:
  - Fish Tacos  
  - Clam Chowder (Pork)  
   
-**Salmon**  
-In name:   
- - Grilled Chipotle Salmon  
-  
 **fish**  
 In name:   
  - Fish Tacos  
-  
-In description:   
- - Grilled Chipotle Salmon  
   
 **beef**  
 In name:   
@@ -71,7 +68,6 @@ In description:
 **pork**  
 In name:   
  - Baked Corn Dog (Pork)  
- - Grilled Chicken Monterey Sandwich (Pork)  
   
 In description:   
  - Station Recipe - Liz - Deli  AYCTE  
@@ -80,7 +76,7 @@ In description:
 In name:   
  - Breaded Chicken Parmigiana  
  - Plant-Based Chicken & Dumplings  
- - Grilled Chicken Monterey Sandwich (Pork)  
+ - Marrakech Chicken Breast  
  - Lemon Pepper Chicken Salad  
   
 In description:   
@@ -101,7 +97,6 @@ In name:
   
 **Cod**  
 In name:   
- - Lemon Pepper Cod Fillet  
  - Battered Cod  
   
 In description:   
@@ -128,16 +123,16 @@ In description:
   
 **pork**  
 In name:   
+ - Baked Pork Ham  
  - Baked Rigatoni w/ Pork Italian Sausage  
  - Clam Chowder (Pork)  
- - Pork Carnita  
+ - Pork Italian Sausage  
   
 In description:   
  - BYO Bar - Poutine Bar - Gordon  
   
 **chicken**  
 In name:   
- - Huli Huli Chicken  
  - Beef & Chicken Meatballs  
  - Butter Chicken  
  - Chicken Gravy  
