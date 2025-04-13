@@ -1,6 +1,6 @@
 # 2025-04-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-13 07:20:25  
+Updated at: 2025-04-13 10:10:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-13)  
 **steak**  
 In name:   
@@ -38,6 +38,10 @@ In description:
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-04-13)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-04-13)  
+**drumstick**  
+In name:   
+ - Chicken Drumstick BBQ Glazed  
+  
 **beef**  
 In name:   
  - Beef Goulash w/Egg Noodles  
@@ -55,6 +59,7 @@ In name:
   
 **chicken**  
 In name:   
+ - Chicken Drumstick BBQ Glazed  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Chicken Sausage Patties  
@@ -74,13 +79,16 @@ In name:
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs  
  - Beef Taco Meat  
+  
+In description:   
+ - Sliced Kielbasa (Pork)  
   
 **pork**  
 In name:   
  - Pork Sausage Patties  
  - Chicken Supreme Sandwich w/ Bacon (Pork)  
+ - Sliced Kielbasa (Pork)  
  - Pork Carnita  
  - Pork Sausage Patty  
   
@@ -90,7 +98,6 @@ In description:
 **chicken**  
 In name:   
  - Chicken Supreme Sandwich w/ Bacon (Pork)  
- - Beef & Chicken Meatballs  
  - Plant Based Chicken Strips  
  - Lemon Chicken Rice Soup  
   
