@@ -1,6 +1,6 @@
 # 2025-04-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-12 16:09:56  
+Updated at: 2025-04-12 21:26:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-12)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-04-12)  
 **watermelon**  
@@ -24,6 +24,7 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
+ - Beef Barbacoa  
  - Beef Taco Meat  
   
 In description:   
@@ -42,8 +43,7 @@ In description:
 In name:   
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
- - Chicken Tinga  
- - Cream of Chicken & Wild Rice Soup  
+ - Lemon Chicken Rice Soup  
   
 In description:   
  - Pepperoni Pizza Slice  
@@ -62,14 +62,14 @@ In name:
 In name:   
  - Beef Ravioli Plain  
  - Beef Taco Meat  
+ - Beef Fajita Meat  
   
 **chicken**  
 In name:   
- - Popcorn Chicken  
- - Plant-Based Chicken Nuggets (6)  
+ - Chicken Wings Boneless Plain  
+ - Protein Plant Based Chicken Tender  
  - Giardiniera Chicken  
  - Spicy Lo Mein w/Chicken  
- - Taco Chicken  
  - Cream of Chicken & Wild Rice Soup  
   
 In description:   
