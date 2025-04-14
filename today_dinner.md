@@ -1,6 +1,6 @@
 # 2025-04-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-13 16:10:31  
+Updated at: 2025-04-13 20:00:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-13)  
 **lamb**  
 In name:   
@@ -46,19 +46,20 @@ In name:
   
 **beef**  
 In name:   
- - Beef Tri Tip Carved w/ Chimichurri  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
  - Lamb & Beef Gyro Sandwich  
   
 In description:   
- - Thin Crust Tavern Style Pepperoni Pizza  
+ - Pepperoni Pizza Slice  
  - Vegan Taco Filling  
   
 **pork**  
 In name:   
- - Tavern Style Sausage Pizza (Pork)  
  - Pork Carnita  
+  
+In description:   
+ - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
@@ -69,7 +70,7 @@ In name:
  - Chicken Sausage Patties  
   
 In description:   
- - Thin Crust Tavern Style Pepperoni Pizza  
+ - Pepperoni Pizza Slice  
  - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-04-13)  
