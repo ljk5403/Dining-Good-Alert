@@ -1,6 +1,6 @@
 # 2025-04-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-14 07:22:51  
+Updated at: 2025-04-14 10:12:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-14)  
 **beef**  
 In name:   
@@ -119,10 +119,6 @@ In description:
 In name:   
  - Beef Goulash w/Egg Noodles  
   
-**pork**  
-In name:   
- - Italian Pork Sausage  
-  
 **chicken**  
 In name:   
  - Chicken Fajita Torta  
@@ -139,15 +135,22 @@ In description:
 In name:   
  - Carolina BBQ Pork Sandwich  
   
-**Salmon**  
+**catfish**  
 In name:   
- - Hoisin BBQ Glazed Salmon  
+ - Blackened Catfish  
   
 **fish**  
 In name:   
+ - Blackened Catfish  
   
 In description:   
- - Hoisin BBQ Glazed Salmon  
+ - Curried Pumpkin Soup  
+  
+**curry**  
+In name:   
+  
+In description:   
+ - Curried Pumpkin Soup  
   
 **beef**  
 In name:   
@@ -168,7 +171,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Noodle Soup  
  - Chicken Biscuit w/ Sausage (Pork) Gravy  
  - Chicken Sausage Patty  
   
