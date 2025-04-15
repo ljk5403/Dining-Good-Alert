@@ -1,6 +1,6 @@
 # 2025-04-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-14 16:11:02  
+Updated at: 2025-04-14 19:58:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-14)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -38,6 +38,10 @@ In description:
 In name:   
  - Melon Watermelon Whole Sliced  
   
+**Tandoori Chicken**  
+In name:   
+ - Tandoori Chicken  
+  
 **Tuna**  
 In name:   
  - Tuna Salad  
@@ -53,6 +57,7 @@ In name:
 **curry**  
 In name:   
  - Currywurst (Pork)  
+ - Curry Ketchup  
   
 **beef**  
 In name:   
@@ -66,8 +71,7 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken Pot Pie w/Biscuit  
- - Chicken Noodle Soup  
+ - Tandoori Chicken  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-04-14)  
 **watermelon**  
@@ -91,7 +95,6 @@ In name:
 In description:   
  - Country Fried Steak  
  - Country Gravy  
- - Grilled Cheeseburger  
   
 **pork**  
 In name:   
@@ -105,6 +108,7 @@ In name:
  - Brazilian Chicken w/ Salsa Vinaigrette  
  - Beef & Chicken Meatballs  
  - Chicken Noodle Soup  
+ - Crispy Chicken Sandwich  
   
 In description:   
  - Gordon's Great Greens  
@@ -118,10 +122,6 @@ In name:
 In name:   
  - Shrimp Curry  
   
-**fish**  
-In name:   
- - Vegan Fish Sandwich  
-  
 **curry**  
 In name:   
  - Shrimp Curry  
@@ -132,12 +132,14 @@ In name:
  - Barbacoa Beef w/Mango Habanero Sandwich  
   
 In description:   
+ - Sliced Kielbasa (Pork)  
  - Knockwurst  
  - Jaeger Sauce  
  - Porkloin Fritter Plate  
   
 **pork**  
 In name:   
+ - Sliced Kielbasa (Pork)  
  - Porkloin Fritter Plate  
   
 In description:   
@@ -146,6 +148,7 @@ In description:
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
+ - Protein Plant-based: Chicken Tenders  
  - Chicken Noodle Soup  
   
 In description:   

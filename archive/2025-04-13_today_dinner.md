@@ -1,6 +1,6 @@
 # 2025-04-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-14 10:12:59  
+Updated at: 2025-04-14 16:11:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-14)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -27,7 +27,7 @@ In name:
  - Diced Chicken Breast  
  - Chicken Bacon (Pork) Ranch Pizza  
  - Lemon Pepper Chicken Salad  
- - Chicken Tinga  
+ - Chicken Fajita  
  - Chicken Noodle Soup  
   
 In description:   
@@ -84,33 +84,29 @@ In name:
   
 **beef**  
 In name:   
- - Beef Harissa  
  - Beef & Chicken Meatballs  
+ - Beef Barbacoa  
  - Beef Taco Meat  
   
 In description:   
- - Gordon's OrderIt  
  - Country Fried Steak  
- - Mushroom Swiss Burger  
+ - Country Gravy  
+ - Grilled Cheeseburger  
   
 **pork**  
 In name:   
  - Italian Pork Sausage  
- - Tavern Style Sausage Pizza (Pork)  
   
 In description:   
- - Gordon's OrderIt  
+ - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
- - Greek Chicken  
  - Brazilian Chicken w/ Salsa Vinaigrette  
  - Beef & Chicken Meatballs  
- - Chicken Tinga  
  - Chicken Noodle Soup  
   
 In description:   
- - Gordon's OrderIt  
  - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-04-14)  
@@ -126,9 +122,6 @@ In name:
 In name:   
  - Vegan Fish Sandwich  
   
-In description:   
- - California Roll  (FujiSan)  
-  
 **curry**  
 In name:   
  - Shrimp Curry  
@@ -139,14 +132,16 @@ In name:
  - Barbacoa Beef w/Mango Habanero Sandwich  
   
 In description:   
- - German Plate (Pork)  
+ - Knockwurst  
+ - Jaeger Sauce  
  - Porkloin Fritter Plate  
   
 **pork**  
 In name:   
- - Italian Pork Sausage  
- - German Plate (Pork)  
  - Porkloin Fritter Plate  
+  
+In description:   
+ - Knockwurst  
   
 **chicken**  
 In name:   
