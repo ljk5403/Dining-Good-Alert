@@ -1,6 +1,6 @@
 # 2025-04-15 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-15 07:22:55  
+Updated at: 2025-04-15 10:12:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-15)  
 **Samosas**  
 In name:   
@@ -139,16 +139,13 @@ In name:
 **beef**  
 In name:   
  - Beef Pita Kabaub  
+ - Beef Barbacoa  
  - Beef Taco Meat  
  - Beef & Bean Chili  
  - Mediterranean Beef  
   
 In description:   
  - Grilled Cheeseburger  
-  
-**pork**  
-In name:   
- - Pork Carnita  
   
 **chicken**  
 In name:   
