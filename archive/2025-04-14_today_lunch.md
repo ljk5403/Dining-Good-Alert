@@ -1,20 +1,18 @@
 # 2025-04-15 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-15 10:12:24  
+Updated at: 2025-04-15 13:14:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-15)  
 **Samosas**  
 In name:   
  - Samosas  
   
+**steak**  
+In name:   
+ - Pizza Slice Philly Cheesesteak  
+  
 **Shrimp**  
 In name:   
  - Redhook Ale Breaded Shrimp  
-  
-**lamb**  
-In name:   
-  
-In description:   
- - Pizza Slice Gyro  
   
 **curry**  
 In name:   
@@ -29,7 +27,7 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice  
- - Pizza Slice Gyro  
+ - Pizza Slice Philly Cheesesteak  
  - Italian Meatball Sandwich  
   
 **chicken**  
@@ -104,14 +102,10 @@ In name:
 In name:   
  - Spicy Steak Fajita  
   
-In description:   
- - Pizza Slice Italian Beef  
-  
 **beef**  
 In name:   
  - Beef Roast w/Mushroom Demi Glace  
  - Beef & Chicken Meatballs  
- - Pizza Slice Italian Beef  
  - Beef Taco Meat  
  - Beef & Bean Chili  
   
@@ -121,14 +115,16 @@ In description:
   
 **pork**  
 In name:   
- - Italian Pork Sausage  
  - Pork Bratwurst Sandwich  
+  
+In description:   
+ - Pizza Slice Sausage & Mushroom  
   
 **chicken**  
 In name:   
  - Chicken Breast w/Red Pepper Cream  
- - Beef & Chicken Meatballs  
  - Mediterranean Chicken  
+ - Beef & Chicken Meatballs  
  - Chicken Sausage Patties  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-04-15)  
@@ -164,7 +160,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef & Bean Chili  
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice  
@@ -183,6 +178,7 @@ In name:
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
  - Pizza Slice Chicken Sriracha  
+ - Lemon Chicken Rice Soup  
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice  

@@ -1,6 +1,6 @@
 # 2025-04-15 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-15 13:14:39  
+Updated at: 2025-04-15 16:11:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-15)  
 **Samosas**  
 In name:   
@@ -115,6 +115,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Italian Sausage  
  - Pork Bratwurst Sandwich  
   
 In description:   
@@ -123,7 +124,6 @@ In description:
 **chicken**  
 In name:   
  - Chicken Breast w/Red Pepper Cream  
- - Mediterranean Chicken  
  - Beef & Chicken Meatballs  
  - Chicken Sausage Patties  
   
