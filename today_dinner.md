@@ -1,6 +1,6 @@
 # 2025-04-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-15 07:22:56  
+Updated at: 2025-04-15 10:12:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-15)  
 **Samosas**  
 In name:   
@@ -49,23 +49,11 @@ In name:
 In name:   
  - Tuna Salad  
   
-**Salmon**  
-In name:   
- - Salmon Philly Roll (FujiSan)  
- - Salmon Spicy Roll (FujiSan)  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Salmon Spicy Roll (FujiSan)  
-  
 **beef**  
 In name:   
  - Beef & Bean Chili  
   
 In description:   
- - Grilled Cheeseburger  
  - Station Recipe - Liz - Deli  AYCTE  
   
 **pork**  
@@ -76,9 +64,6 @@ In description:
   
 **chicken**  
 In name:   
- - Huli Huli Chicken  
- - Crispy Chicken Sandwich  
- - Grilled Chicken Sandwich  
   
 In description:   
  - Station Recipe - Liz - Great Greens  
