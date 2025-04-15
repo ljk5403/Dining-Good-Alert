@@ -1,6 +1,6 @@
 # 2025-04-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-14 19:58:36  
+Updated at: 2025-04-14 22:33:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-14)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -78,10 +78,6 @@ In name:
 In name:   
  - Watermelon Slices  
   
-**steak**  
-In name:   
- - Country Fried Steak  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
@@ -93,8 +89,7 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Country Fried Steak  
- - Country Gravy  
+ - Italian Meat Sauce  
   
 **pork**  
 In name:   
@@ -108,16 +103,12 @@ In name:
  - Brazilian Chicken w/ Salsa Vinaigrette  
  - Beef & Chicken Meatballs  
  - Chicken Noodle Soup  
- - Crispy Chicken Sandwich  
+ - Popcorn Chicken  
   
 In description:   
  - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-04-14)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
 **Shrimp**  
 In name:   
  - Shrimp Curry  
@@ -130,6 +121,7 @@ In name:
 **beef**  
 In name:   
  - Barbacoa Beef w/Mango Habanero Sandwich  
+ - Beef Chili  
   
 In description:   
  - Sliced Kielbasa (Pork)  
@@ -149,7 +141,6 @@ In description:
 In name:   
  - Lemon Pepper Chicken Salad  
  - Protein Plant-based: Chicken Tenders  
- - Chicken Noodle Soup  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
