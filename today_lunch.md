@@ -1,6 +1,6 @@
 # 2025-04-15 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-15 04:13:09  
+Updated at: 2025-04-15 07:22:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-15)  
 **Samosas**  
 In name:   
@@ -130,9 +130,6 @@ In name:
  - Beef & Chicken Meatballs  
  - Mediterranean Chicken  
  - Chicken Sausage Patties  
-  
-In description:   
- - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-04-15)  
 **watermelon**  
