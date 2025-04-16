@@ -1,6 +1,6 @@
 # 2025-04-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-16 07:23:04  
+Updated at: 2025-04-16 10:12:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-16)  
 **Cod**  
 In name:   
@@ -206,7 +206,6 @@ In description:
 **chicken**  
 In name:   
  - Bulgogi Chicken  
- - Chicken Tortilla Soup  
  - Chicken Sausage Patty  
   
 In description:   
@@ -222,9 +221,10 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Beef Pasta Tortellini  
+ - Beef Ravioli Plain  
   
 In description:   
+ - Bratwurst  
  - Station Recipe - Deli Lowell AYCTE  
   
 **pork**  
@@ -232,7 +232,7 @@ In name:
  - Vietnamese Pork with Rice  
   
 In description:   
- - Andouille Sausage  
+ - Bratwurst  
  - Station Recipe - Deli Lowell AYCTE  
   
 **chicken**  

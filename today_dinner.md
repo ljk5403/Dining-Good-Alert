@@ -1,6 +1,6 @@
 # 2025-04-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-16 10:13:01  
+Updated at: 2025-04-16 13:16:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-16)  
 **Tilapia**  
 In name:   
@@ -94,6 +94,7 @@ In name:
  - Lemon Pepper Chicken Salad  
  - General Tso's Chicken  
  - Chicken Tortilla Soup  
+ - Crispy Chicken Sandwich  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  

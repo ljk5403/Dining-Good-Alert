@@ -1,6 +1,6 @@
 # 2025-04-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-16 10:12:56  
+Updated at: 2025-04-16 13:16:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-16)  
 **Cod**  
 In name:   
@@ -123,7 +123,6 @@ In name:
  - Lemon Pepper Chicken Salad  
  - Chicken Sausage Patties  
  - Sweet & Spicy Orange Chicken  
- - Chicken Tortilla Soup  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
