@@ -1,6 +1,6 @@
 # 2025-04-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-15 13:14:41  
+Updated at: 2025-04-15 16:11:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-15)  
 **Samosas**  
 In name:   
@@ -77,9 +77,6 @@ In name:
 In name:   
  - Spicy Steak Fajita  
   
-In description:   
- - Pizza Slice Italian Beef  
-  
 **BBQ Pork Sandwich**  
 In name:   
  - Carolina BBQ Pork Sandwich  
@@ -99,7 +96,6 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Pizza Slice Italian Beef  
  - Beef Taco Meat  
  - Beef & Bean Chili  
   
@@ -110,12 +106,15 @@ In description:
 **pork**  
 In name:   
  - BBQ Pork Chop  
+ - Pork Italian Sausage  
  - Italian Pork Sausage  
  - Carolina BBQ Pork Sandwich  
   
+In description:   
+ - Pizza Slice Sausage & Mushroom  
+  
 **chicken**  
 In name:   
- - Mediterranean Chicken  
  - Beef & Chicken Meatballs  
  - Chicken Sausage Patties  
   
@@ -169,13 +168,15 @@ In name:
 In name:   
  - Tuna Salad  
   
-**catfish**  
+**Salmon**  
 In name:   
- - Blackened Catfish  
+ - Blackened Salmon  
   
 **fish**  
 In name:   
- - Blackened Catfish  
+  
+In description:   
+ - Blackened Salmon  
   
 **beef**  
 In name:   

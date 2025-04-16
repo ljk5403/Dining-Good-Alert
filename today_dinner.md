@@ -1,6 +1,6 @@
 # 2025-04-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-15 16:11:18  
+Updated at: 2025-04-15 19:58:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-15)  
 **Samosas**  
 In name:   
@@ -33,7 +33,7 @@ In name:
  - Beef & Chicken Meatballs  
  - Plant Based Chicken Strips  
  - Lemon Pepper Chicken Salad  
- - Butter Chicken  
+ - Chicken Vindaloo  
  - Mediterranean Chicken  
   
 In description:   
@@ -77,10 +77,6 @@ In name:
 In name:   
  - Spicy Steak Fajita  
   
-**BBQ Pork Sandwich**  
-In name:   
- - Carolina BBQ Pork Sandwich  
-  
 **Shrimp**  
 In name:   
   
@@ -93,8 +89,19 @@ In name:
 In description:   
  - Cioppino  
   
+**fish**  
+In name:   
+  
+In description:   
+ - Beef Masaman Thai Curry  
+  
+**curry**  
+In name:   
+ - Beef Masaman Thai Curry  
+  
 **beef**  
 In name:   
+ - Beef Masaman Thai Curry  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
  - Beef & Bean Chili  
@@ -105,10 +112,8 @@ In description:
   
 **pork**  
 In name:   
- - BBQ Pork Chop  
  - Pork Italian Sausage  
  - Italian Pork Sausage  
- - Carolina BBQ Pork Sandwich  
   
 In description:   
  - Pizza Slice Sausage & Mushroom  
@@ -117,6 +122,7 @@ In description:
 In name:   
  - Beef & Chicken Meatballs  
  - Chicken Sausage Patties  
+ - Crispy Chicken Sandwich  
   
 In description:   
  - Gordon's Great Greens  
