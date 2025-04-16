@@ -1,6 +1,6 @@
 # 2025-04-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-15 19:58:29  
+Updated at: 2025-04-15 22:32:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-16)  
 **Tilapia**  
 In name:   
@@ -87,10 +87,6 @@ In description:
 In name:   
  - Italian Pork Sausage  
  - Pork Carnita  
- - Pork Sausage Chorizo Frozen  
-  
-In description:   
- - Made to Order Breakfast Burrito  
   
 **chicken**  
 In name:   
@@ -98,7 +94,6 @@ In name:
  - Lemon Pepper Chicken Salad  
  - General Tso's Chicken  
  - Chicken Tortilla Soup  
- - Chicken Sausage Patties  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  

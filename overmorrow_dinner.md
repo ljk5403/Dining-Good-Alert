@@ -1,6 +1,6 @@
 # 2025-04-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-15 19:58:31  
+Updated at: 2025-04-15 22:32:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-17)  
 **drumstick**  
 In name:   
@@ -85,13 +85,11 @@ In name:
   
 In description:   
  - Sausage (Pork) & Pepperoni Pizza Slice  
- - Pork Bratwurst Sandwich  
   
 **pork**  
 In name:   
  - Herb Crusted Pork Loin  
  - Sausage (Pork) & Pepperoni Pizza Slice  
- - Pork Bratwurst Sandwich  
   
 **chicken**  
 In name:   
@@ -102,6 +100,7 @@ In name:
  - Mediterranean Chicken  
  - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
+ - Crispy Chicken & Waffle Sandwich  
   
 In description:   
  - Sausage (Pork) & Pepperoni Pizza Slice  
@@ -203,7 +202,6 @@ In description:
 In name:   
   
 In description:   
- - Andouille Sausage  
  - Station Recipe - Deli Lowell AYCTE  
   
 **chicken**  

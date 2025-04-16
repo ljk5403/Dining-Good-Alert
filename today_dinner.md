@@ -1,6 +1,6 @@
 # 2025-04-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-15 19:58:26  
+Updated at: 2025-04-15 22:32:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-15)  
 **Samosas**  
 In name:   
@@ -64,6 +64,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Huli Huli Chicken  
   
 In description:   
  - Station Recipe - Liz - Great Greens  
@@ -122,7 +123,7 @@ In description:
 In name:   
  - Beef & Chicken Meatballs  
  - Chicken Sausage Patties  
- - Crispy Chicken Sandwich  
+ - Breaded Chicken Tenders  
   
 In description:   
  - Gordon's Great Greens  
@@ -136,13 +137,12 @@ In name:
 In name:   
  - Spicy Steak Fajita  
   
-**lamb**  
+**Tilapia**  
 In name:   
- - Lamb & Beef Gyro Sandwich  
+ - Tilapia Chipotle Lime Crusted  
   
 **beef**  
 In name:   
- - Lamb & Beef Gyro Sandwich  
  - Beef Taco Meat  
  - Beef & Bean Chili  
  - Mediterranean Beef  
@@ -152,7 +152,6 @@ In description:
   
 **pork**  
 In name:   
- - Smoked Pulled Pork Sandwich  
  - Pork Adobo  
   
 **chicken**  
