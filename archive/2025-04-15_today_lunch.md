@@ -1,6 +1,6 @@
 # 2025-04-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-16 13:16:46  
+Updated at: 2025-04-16 16:10:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-16)  
 **Cod**  
 In name:   
@@ -122,6 +122,7 @@ In name:
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Chicken Sausage Patties  
+ - Breaded Chicken Tenders  
  - Sweet & Spicy Orange Chicken  
   
 In description:   
