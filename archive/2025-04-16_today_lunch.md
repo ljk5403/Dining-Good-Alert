@@ -1,6 +1,6 @@
 # 2025-04-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-17 10:12:14  
+Updated at: 2025-04-17 13:16:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-17)  
 **fish**  
 In name:   
@@ -93,7 +93,7 @@ In name:
  - Giardiniera Chicken  
  - Pizza Slice Chicken Broccoli Alfredo  
  - Mediterranean Chicken  
- - Spicy Fajita Chicken  
+ - Chicken Tinga  
  - Chicken Dumpling Soup  
   
 In description:   
@@ -161,9 +161,6 @@ In name:
 In name:   
  - Soup Coconut Curry Cauliflower  
   
-In description:   
- - Tikka Masala Chicken  
-  
 **beef**  
 In name:   
   
@@ -181,7 +178,7 @@ In description:
   
 **chicken**  
 In name:   
- - Tikka Masala Chicken  
+ - Baked BBQ Chicken  
  - Chicken Dumpling Soup  
   
 In description:   

@@ -1,6 +1,6 @@
 # 2025-04-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-17 10:12:16  
+Updated at: 2025-04-17 13:16:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-17)  
 **drumstick**  
 In name:   
@@ -76,6 +76,14 @@ In name:
 In name:   
  - Lemon Pepper Tuna Salad  
   
+**catfish**  
+In name:   
+ - Garlic Baked Catfish  
+  
+**fish**  
+In name:   
+ - Garlic Baked Catfish  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
@@ -88,7 +96,6 @@ In description:
   
 **pork**  
 In name:   
- - Herb Crusted Pork Loin  
  - Sausage (Pork) & Pepperoni Pizza Slice  
   
 **chicken**  
