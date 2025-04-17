@@ -1,17 +1,20 @@
 # 2025-04-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-16 16:10:53  
+Updated at: 2025-04-16 19:57:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-16)  
 **Tilapia**  
 In name:   
  - Island Spiced Tilapia  
+  
+**beef**  
+In name:   
+ - Beef Barbacoa  
   
 **pork**  
 In name:   
  - Jerk Pork Chop  
  - Italian Pork Sausage  
  - Tavern Style Sausage Pizza (Pork)  
- - Ancho Pork Rice Bowl  
   
 **chicken**  
 In name:   
@@ -19,7 +22,6 @@ In name:
  - Chicken Tortilla Soup  
   
 In description:   
- - Ancho Pork Rice Bowl  
  - Great Greens  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-04-16)  
@@ -70,11 +72,16 @@ In name:
 In name:   
   
 In description:   
+ - Beef Masaman Thai Curry  
  - Tempura Roll (FujiSan)  
+  
+**curry**  
+In name:   
+ - Beef Masaman Thai Curry  
   
 **beef**  
 In name:   
- - Beef Stew  
+ - Beef Masaman Thai Curry  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
@@ -95,7 +102,7 @@ In name:
  - Lemon Pepper Chicken Salad  
  - General Tso's Chicken  
  - Chicken Tortilla Soup  
- - Crispy Chicken Sandwich  
+ - Breaded Chicken Tenders  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
@@ -105,6 +112,10 @@ In description:
 **watermelon**  
 In name:   
  - Watermelon Slices  
+  
+**steak**  
+In name:   
+ - Rosemary Cabernet Flank Steak  
   
 **curry**  
 In name:   
@@ -116,13 +127,9 @@ In name:
  - Mediterranean Beef  
   
 In description:   
- - Grilled Cheeseburger  
  - Vegan Sloppy Joe  
  - Italian Meat Sauce  
-  
-**pork**  
-In name:   
- - BBQ Pork Chop  
+ - Rosemary Cabernet Flank Steak  
   
 **chicken**  
 In name:   

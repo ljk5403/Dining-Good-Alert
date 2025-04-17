@@ -1,6 +1,6 @@
 # 2025-04-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-16 19:57:38  
+Updated at: 2025-04-16 22:31:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-18)  
 **clam**  
 In name:   
@@ -128,18 +128,20 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - French Fry Bar  
+ - Kielbasa with Pierogis  
   
 **pork**  
 In name:   
  - Pizza Slice BBQ Pulled Pork  
  - Clam Chowder (Pork)  
   
+In description:   
+ - Kielbasa with Pierogis  
+  
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
  - Tandoori Chicken  
- - Chicken Sausage Patties  
   
 In description:   
  - Gordon's Great Greens  
