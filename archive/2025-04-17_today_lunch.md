@@ -1,6 +1,6 @@
 # 2025-04-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-18 04:12:15  
+Updated at: 2025-04-18 07:21:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-18)  
 **clam**  
 In name:   
@@ -79,10 +79,6 @@ In name:
  - Lemon Pepper Chicken Salad  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-04-18)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
 **Tandoori Chicken**  
 In name:   
  - Tandoori Chicken  
@@ -140,9 +136,6 @@ In name:
  - Chicken Sausage Patties  
  - Crispy Chicken Sandwich  
  - Tandoori Chicken  
-  
-In description:   
- - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-04-18)  
 **watermelon**  
