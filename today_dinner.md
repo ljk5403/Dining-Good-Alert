@@ -1,6 +1,6 @@
 # 2025-04-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-18 13:15:39  
+Updated at: 2025-04-18 16:10:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-18)  
 **clam**  
 In name:   
@@ -48,6 +48,10 @@ In description:
 **watermelon**  
 In name:   
  - Melon Watermelon Whole Sliced  
+  
+**Tilapia**  
+In name:   
+ - Tilapia Chipotle Lime Crusted  
   
 **fish**  
 In name:   
@@ -100,10 +104,6 @@ In name:
 In name:   
  - Clam Chowder (Pork)  
   
-**Shrimp**  
-In name:   
- - Sauteed Shrimp  
-  
 **Cod**  
 In name:   
  - Lemon Pepper Cod Fillet  
@@ -118,6 +118,7 @@ In name:
   
 **curry**  
 In name:   
+ - Curry Cauliflower & Butternut Squash  
  - Curry Potatoes  
   
 **beef**  
@@ -128,15 +129,14 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Kielbasa with Pierogis  
+ - Sliced Kielbasa (Pork)  
   
 **pork**  
 In name:   
+ - Pork Italian Sausage  
  - Pizza Slice BBQ Pulled Pork  
  - Clam Chowder (Pork)  
-  
-In description:   
- - Kielbasa with Pierogis  
+ - Sliced Kielbasa (Pork)  
   
 **chicken**  
 In name:   
