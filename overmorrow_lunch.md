@@ -1,6 +1,6 @@
 # 2025-04-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-18 19:55:15  
+Updated at: 2025-04-18 22:24:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-20)  
 **beef**  
 In name:   
@@ -96,6 +96,7 @@ In name:
  - Grilled Chicken Sandwich  
  - Plant Based Chicken Strips  
  - Beef & Chicken Meatballs  
+ - Lemon Pepper Chicken Salad  
  - Lemon Chicken Rice Soup  
   
 In description:   

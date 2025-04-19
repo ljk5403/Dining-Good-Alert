@@ -1,6 +1,6 @@
 # 2025-04-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-18 16:10:53  
+Updated at: 2025-04-18 19:55:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-18)  
 **clam**  
 In name:   
@@ -92,10 +92,6 @@ In name:
 In name:   
  - Sweet Corn Bake (Veg)  
   
-**Tandoori Chicken**  
-In name:   
- - Tandoori Chicken  
-  
 **Samosas**  
 In name:   
  - Samosas  
@@ -118,7 +114,6 @@ In name:
   
 **curry**  
 In name:   
- - Curry Cauliflower & Butternut Squash  
  - Curry Potatoes  
   
 **beef**  
@@ -128,20 +123,16 @@ In name:
  - Beef Barbacoa  
  - Beef Taco Meat  
   
-In description:   
- - Sliced Kielbasa (Pork)  
-  
 **pork**  
 In name:   
  - Pork Italian Sausage  
  - Pizza Slice BBQ Pulled Pork  
  - Clam Chowder (Pork)  
- - Sliced Kielbasa (Pork)  
   
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
- - Tandoori Chicken  
+ - Blackened Chicken  
   
 In description:   
  - Gordon's Great Greens  
@@ -151,20 +142,9 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**Drunken Noodles**  
-In name:   
- - Drunken Noodles  
-  
 **clam**  
 In name:   
  - Clam Chowder (Pork)  
-  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp  
-  
-In description:   
- - Drunken Noodles  
   
 **Cod**  
 In name:   
@@ -172,12 +152,6 @@ In name:
   
 In description:   
  - Clam Chowder (Pork)  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Drunken Noodles  
   
 **lamb**  
 In name:   
@@ -194,6 +168,7 @@ In name:
  - Mediterranean Beef  
   
 In description:   
+ - Cocktail Smokies  
  - Meat Lovers w/ Bacon (Pork) Pizza Slice  
   
 **pork**  
@@ -202,6 +177,9 @@ In name:
  - Meat Lovers w/ Bacon (Pork) Pizza Slice  
  - Clam Chowder (Pork)  
   
+In description:   
+ - Cocktail Smokies  
+  
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
@@ -209,6 +187,7 @@ In name:
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
+ - Cocktail Smokies  
  - Meat Lovers w/ Bacon (Pork) Pizza Slice  
  - Station Recipe - Great Greens - FLM  
   

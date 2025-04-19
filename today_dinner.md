@@ -1,6 +1,6 @@
 # 2025-04-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-18 19:55:11  
+Updated at: 2025-04-18 22:24:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-18)  
 **clam**  
 In name:   
@@ -111,6 +111,7 @@ In description:
 **fish**  
 In name:   
  - Petite Fish Sandwich  
+ - Vegan Fish Sandwich  
   
 **curry**  
 In name:   
@@ -118,16 +119,19 @@ In name:
   
 **beef**  
 In name:   
- - Texas BBQ Sliced Beef Brisket  
  - Beef & Chicken Meatballs  
  - Beef Barbacoa  
  - Beef Taco Meat  
+  
+In description:   
+ - Sliced Kielbasa (Pork)  
   
 **pork**  
 In name:   
  - Pork Italian Sausage  
  - Pizza Slice BBQ Pulled Pork  
  - Clam Chowder (Pork)  
+ - Sliced Kielbasa (Pork)  
   
 **chicken**  
 In name:   
