@@ -1,19 +1,25 @@
 # 2025-04-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-19 16:09:56  
+Updated at: 2025-04-19 20:01:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-19)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-04-19)  
 **watermelon**  
 In name:   
  - Melon Watermelon Whole Sliced  
   
-**Beef Alicha**  
+**fish**  
 In name:   
- - Beef Alicha  
+  
+In description:   
+ - Beef Masaman Thai Curry  
+  
+**curry**  
+In name:   
+ - Beef Masaman Thai Curry  
   
 **beef**  
 In name:   
- - Beef Alicha  
+ - Beef Masaman Thai Curry  
  - Beef Taco Mac & Cheese  
   
 **chicken**  
@@ -30,15 +36,15 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Beef Taco Meat  
   
 In description:   
  - Pepperoni Pizza Slice  
- - Chicago-Style Hot Dog  
   
 **pork**  
 In name:   
  - Italian Pork Sausage  
+ - Pork Carnita  
+ - Pork Bratwurst Sandwich  
   
 In description:   
  - Pizza Slice Sausage  
@@ -48,7 +54,6 @@ In name:
  - Breaded Chicken Parmigiana  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
- - Chicken Tinga  
  - Cream of Chicken & Wild Rice Soup  
  - Chicken Sausage Patties  
   

@@ -1,6 +1,6 @@
 # 2025-04-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-19 13:14:10  
+Updated at: 2025-04-19 16:09:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-19)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-04-19)  
 **watermelon**  
@@ -14,9 +14,11 @@ In name:
 **beef**  
 In name:   
  - Beef Alicha  
+ - Beef Taco Mac & Cheese  
   
 **chicken**  
 In name:   
+ - Chicken Enchilada Bake  
  - Cream of Chicken & Wild Rice Soup  
  - Lemon Pepper Chicken Salad  
   
@@ -48,6 +50,7 @@ In name:
  - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
  - Cream of Chicken & Wild Rice Soup  
+ - Chicken Sausage Patties  
   
 In description:   
  - Pepperoni Pizza Slice  
