@@ -1,6 +1,6 @@
 # 2025-04-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-20 10:10:29  
+Updated at: 2025-04-20 13:14:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-20)  
 **beef**  
 In name:   
@@ -44,6 +44,10 @@ In name:
 In name:   
  - Grilled Flank Steak  
   
+**curry**  
+In name:   
+ - Thai Veggie Meatballs w/ Green Curry  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
@@ -65,7 +69,6 @@ In description:
   
 **chicken**  
 In name:   
- - Plant-Based Chicken Etouffee  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Chicken Sausage Patties  
@@ -122,7 +125,7 @@ In name:
  - Baked Chicken (2 piece)  
  - Chicken Gravy  
  - Chicken Bacon (Pork) Ranch Pizza  
- - Lemon Chicken Rice Soup  
+ - Chicken Noodle Soup  
   
 In description:   
  - Sausage (Pork) & Pepperoni Pizza Slice  
