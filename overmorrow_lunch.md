@@ -1,6 +1,6 @@
 # 2025-04-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-21 10:12:28  
+Updated at: 2025-04-21 13:16:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-23)  
 **beef**  
 In name:   
@@ -89,7 +89,6 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Italian Meat Sauce  
  - Vegan Taco Filling  
   
 **pork**  
