@@ -1,6 +1,6 @@
 # 2025-04-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-21 13:16:16  
+Updated at: 2025-04-21 16:11:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-21)  
 **beef**  
 In name:   
@@ -95,7 +95,7 @@ In description:
   
 **pork**  
 In name:   
- - Pork Loin Spicy Greenbush  
+ - Roasted Pork Loin  
  - Italian Pork Sausage  
  - Loaded Potato Bacon (Pork) Pizza Slice  
   
@@ -109,8 +109,6 @@ In name:
  - Beef & Chicken Meatballs  
  - Chicken Tinga  
  - Chicken Noodle Soup  
- - BYO - MTO Chicken Wrap - Gordon  
- - Chicken Thigh Strip  
   
 In description:   
  - Gordon's OrderIt  
