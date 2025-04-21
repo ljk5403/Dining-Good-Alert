@@ -1,7 +1,11 @@
 # 2025-04-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-20 16:10:08  
+Updated at: 2025-04-20 20:00:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-20)  
+**Tandoori Chicken**  
+In name:   
+ - Tandoori Chicken  
+  
 **Cod**  
 In name:   
  - Baked Cod Fillet w/Butter & Lemon  
@@ -24,7 +28,6 @@ In description:
 In name:   
  - Italian Pork Sausage  
  - Pork & Beef Hard Salami  
- - Sri Lanka Deviled Pork  
  - Pork Carnita  
   
 In description:   
@@ -36,6 +39,7 @@ In name:
  - Chicken & Vegetables w/Dijon Vinaigrette  
  - Lemon Pepper Chicken Salad  
  - Crispy Buffalo Chicken Sandwich  
+ - Tandoori Chicken  
  - Fajita Chicken  
  - Lemon Chicken Rice Soup  
   
@@ -101,6 +105,7 @@ In description:
   
 **pork**  
 In name:   
+ - BBQ Pork Chop  
  - Pork Carnita  
   
 **chicken**  
@@ -108,7 +113,6 @@ In name:
  - Lemon Pepper Chicken Salad  
  - Plant Based Chicken Strips  
  - Beef & Chicken Meatballs  
- - Chicken Baked  (1 piece)  
  - Lemon Chicken Rice Soup  
   
 In description:   
