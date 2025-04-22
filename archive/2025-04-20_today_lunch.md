@@ -1,6 +1,6 @@
 # 2025-04-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-21 13:16:14  
+Updated at: 2025-04-21 16:11:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-21)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -8,6 +8,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Barbacoa  
  - Beef Taco Meat  
   
 In description:   
@@ -17,7 +18,6 @@ In description:
 In name:   
  - Pizza Slice BBQ Pulled Pork  
  - Carolina BBQ Pork Sandwich  
- - Pork Carnita  
  - Italian Pork Sausage  
   
 In description:   
@@ -155,7 +155,6 @@ In description:
 **chicken**  
 In name:   
  - Sweet & Spicy Orange Chicken  
- - Butter Chicken  
  - Chicken Noodle Soup  
   
 In description:   
@@ -212,7 +211,6 @@ In description:
   
 **pork**  
 In name:   
- - Pork Adobo  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
