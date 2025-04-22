@@ -1,6 +1,6 @@
 # 2025-04-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-22 07:22:35  
+Updated at: 2025-04-22 10:12:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-22)  
 **curry**  
 In name:   
@@ -20,13 +20,8 @@ In name:
 In description:   
  - Pepperoni Pizza Slice  
   
-**pork**  
-In name:   
- - Spicy Citrus Pork w/Black Beans & Rice  
-  
 **chicken**  
 In name:   
- - Honey Mustard Chicken & Vegetables  
  - Lemon Pepper Chicken Salad  
  - Chicken Quesadilla  
  - Chicken Korma  
@@ -35,7 +30,6 @@ In name:
  - Plant Based Chicken Strips  
   
 In description:   
- - Spicy Citrus Pork w/Black Beans & Rice  
  - Pepperoni Pizza Slice  
  - Great Greens  
   
@@ -59,7 +53,6 @@ In name:
   
 **fish**  
 In name:   
- - Vietnamese Pork with Rice (No Fish)  
   
 In description:   
  - Salmon Spicy Roll (FujiSan)  
@@ -69,11 +62,9 @@ In name:
   
 In description:   
  - Chana Saag w/ Tofu  
- - Cauliflower Masala Taco  
   
 **beef**  
 In name:   
- - Beef Chimichurri Taco  
  - Beef & Bean Chili  
   
 In description:   
@@ -81,7 +72,6 @@ In description:
   
 **pork**  
 In name:   
- - Vietnamese Pork with Rice (No Fish)  
   
 In description:   
  - Station Recipe - Liz - Deli  AYCTE  
@@ -93,10 +83,6 @@ In description:
  - Station Recipe - Liz - Great Greens  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-04-22)  
-**corn bake**  
-In name:   
- - Sweet Corn Bake (Veg)  
-  
 **steak**  
 In name:   
  - Spicy Steak Fajita  
@@ -120,10 +106,8 @@ In name:
   
 **beef**  
 In name:   
- - Texas BBQ Sliced Beef Brisket  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
- - Beef & Bean Chili  
   
 In description:   
  - Pepperoni Pizza Slice  
@@ -133,16 +117,15 @@ In description:
   
 **pork**  
 In name:   
- - BBQ Pork Chop  
  - Italian Pork Sausage  
   
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
- - Mediterranean Chicken  
  - Pizza Slice Chicken Sriracha  
  - Chicken Sausage Patties  
  - Jerk Chicken Sandwich  
+ - Lemon Chicken Soup  
   
 In description:   
  - Pepperoni Pizza Slice  
@@ -160,7 +143,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef French Dip Sandwich  
  - Roast Beef  
  - Pork & Beef Hard Salami  
  - Beef Taco Meat  
@@ -181,7 +163,6 @@ In description:
   
 **chicken**  
 In name:   
- - Brazilian Chicken w/ Salsa Vinaigrette  
  - Italian Chicken  
  - Lemon Pepper Chicken Salad  
  - Protein - Chicken Thinly Sliced  
@@ -198,20 +179,9 @@ In name:
 In description:   
  - Pizza Slice Italian Beef  
   
-**Shrimp**  
-In name:   
- - Brazillian Shrimp in Coconut Sauce  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Coconut Vegetable Stew  
-  
 **beef**  
 In name:   
  - Pizza Slice Italian Beef  
- - Beef & Bean Chili  
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice  
@@ -225,11 +195,9 @@ In name:
 **chicken**  
 In name:   
  - Chicken Wings Boneless Plain  
- - Plant-Based Chicken Nuggets (6)  
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice  
- - Great Greens  
  - Spicy Italian Meatball Sandwich  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-04-22)  
@@ -250,14 +218,12 @@ In description:
   
 **pork**  
 In name:   
- - Appetizer -  Fried Pork Potstickers  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
   
 **chicken**  
 In name:   
- - Chicken Teriyaki Stir Fry  
  - Blackened Chicken with Orange Sauce  
   
 In description:   
