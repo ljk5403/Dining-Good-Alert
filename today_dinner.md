@@ -1,6 +1,6 @@
 # 2025-04-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-22 13:16:25  
+Updated at: 2025-04-22 16:11:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-22)  
 **curry**  
 In name:   
@@ -103,6 +103,7 @@ In name:
  - Fish Sauce  
   
 In description:   
+ - Veggie Meatballs (Veg)  
  - Masaman Thai Curry Sauce  
   
 **lamb**  
@@ -130,11 +131,11 @@ In description:
 **pork**  
 In name:   
  - Green Beans w/ Pork Bacon  
+ - Pork Italian Sausage  
   
 **chicken**  
 In name:   
  - Chicken Drumstick BBQ Glazed  
- - Mediterranean Chicken  
  - Beef & Chicken Meatballs  
  - Pizza Slice Chicken Sriracha  
  - Chicken  
@@ -150,7 +151,7 @@ In name:
   
 **Cod**  
 In name:   
- - Cracker Crusted Cod w/ Lemon Sauce  
+ - Baked Lemon Butter Cod  
   
 **fish**  
 In name:   
@@ -182,7 +183,6 @@ In name:
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
- - Cracker Crusted Cod w/ Lemon Sauce  
  - Ancho Braised Pork  
  - Station Recipe - Great Greens - FLM  
   
