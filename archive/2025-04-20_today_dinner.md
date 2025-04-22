@@ -1,28 +1,29 @@
 # 2025-04-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-21 16:11:30  
+Updated at: 2025-04-21 19:58:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-21)  
 **beef**  
 In name:   
- - Southwestern Corned Beef Hash  
  - Beef Taco Meat  
+ - Beef Barbacoa  
   
 **pork**  
 In name:   
  - Biscuits & Pork Gravy  
  - Italian Pork Sausage  
  - Pizza Slice BBQ Pulled Pork  
- - Pork Carnita  
   
 In description:   
  - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
+ - Greek Lemon Chicken  
  - Lemon Pepper Chicken Salad  
  - Blackened Chicken Sandwich  
+ - Chicken Stir Fry  
+ - Chicken Fajita  
  - Plant Based Protein Chicken Taco Filling  
- - Chicken Tinga  
  - Chicken Noodle Soup  
   
 In description:   
@@ -84,6 +85,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Stew w/ Buttermilk Biscuit  
  - Beef & Chicken Meatballs  
  - Beef Ravioli w/Tomato Sauce  
  - Beef Taco Meat  
@@ -91,11 +93,10 @@ In name:
 In description:   
  - Gordon's OrderIt  
  - Pizza Slice Philly Cheesesteak  
- - Cowboy Burger  
+ - Cheeseburger  
   
 **pork**  
 In name:   
- - Roasted Pork Loin  
  - Italian Pork Sausage  
  - Loaded Potato Bacon (Pork) Pizza Slice  
   
@@ -150,6 +151,9 @@ In name:
  - Roast Beef  
  - Pork & Beef Hard Salami  
   
+In description:   
+ - Italian Meat Sauce  
+  
 **pork**  
 In name:   
  - Pork & Beef Hard Salami  
@@ -162,7 +166,7 @@ In description:
   
 **chicken**  
 In name:   
- - Crispy Chicken Sandwich  
+ - Breaded Chicken Tenders  
  - Irish Roast Chicken w/Leeks and Bacon  
  - Chicken Curry  
  - Chicken Noodle Soup  

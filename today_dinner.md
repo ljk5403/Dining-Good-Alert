@@ -1,6 +1,6 @@
 # 2025-04-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-21 19:58:01  
+Updated at: 2025-04-21 22:30:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-21)  
 **beef**  
 In name:   
@@ -143,7 +143,6 @@ In description:
 **curry**  
 In name:   
  - Seitan & Coconut Thai Curry  
- - Chicken Curry  
  - Curry Potatoes  
   
 **beef**  
@@ -168,7 +167,6 @@ In description:
 In name:   
  - Breaded Chicken Tenders  
  - Irish Roast Chicken w/Leeks and Bacon  
- - Chicken Curry  
  - Chicken Noodle Soup  
   
 In description:   
