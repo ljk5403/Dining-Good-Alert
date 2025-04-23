@@ -1,6 +1,6 @@
 # 2025-04-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-23 07:23:14  
+Updated at: 2025-04-23 10:13:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-23)  
 **beef**  
 In name:   
@@ -176,7 +176,6 @@ In description:
 **chicken**  
 In name:   
  - Mediterranean Chicken  
- - Chicken Tortilla Soup  
  - Chicken Sausage Patty  
  - Buffalo Chicken Sliders  
   
@@ -205,7 +204,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Tortilla Soup  
  - Breaded Chicken Parmigiana  
   
 In description:   

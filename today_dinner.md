@@ -1,6 +1,6 @@
 # 2025-04-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-23 07:23:16  
+Updated at: 2025-04-23 10:13:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-23)  
 **Tuna**  
 In name:   
@@ -251,7 +251,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Tortilla Soup  
  - Wisconsin Harvest Chicken Breast  
   
 In description:   
