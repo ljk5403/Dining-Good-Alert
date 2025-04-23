@@ -1,6 +1,6 @@
 # 2025-04-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-22 16:11:26  
+Updated at: 2025-04-22 19:58:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-22)  
 **curry**  
 In name:   
@@ -162,14 +162,14 @@ In name:
  - Roast Beef  
  - Pork & Beef Hard Salami  
  - Beef Harissa  
- - Beef Taco Meat  
+ - Beef Barbacoa  
  - Beef & Bean Chili  
  - Protein - Beef Thinly Sliced  
   
 **pork**  
 In name:   
  - Pork & Beef Hard Salami  
- - Ancho Braised Pork  
+ - Pork Carnita  
   
 In description:   
  - Smoked Ham  
@@ -183,7 +183,6 @@ In name:
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
- - Ancho Braised Pork  
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-04-22)  
