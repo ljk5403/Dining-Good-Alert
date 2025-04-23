@@ -1,6 +1,6 @@
 # 2025-04-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-22 19:58:13  
+Updated at: 2025-04-22 22:31:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-23)  
 **Tuna**  
 In name:   
@@ -114,6 +114,8 @@ In name:
 In description:   
  - Italian Meat Sauce  
  - Vegan Taco Filling  
+ - BYO Bar - Street Taco - Gordon  
+ - Steak for Street Taco  
   
 **pork**  
 In name:   

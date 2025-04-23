@@ -1,6 +1,6 @@
 # 2025-04-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-22 19:58:10  
+Updated at: 2025-04-22 22:31:34  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-22)  
 **curry**  
 In name:   
@@ -151,7 +151,7 @@ In name:
   
 **Cod**  
 In name:   
- - Baked Lemon Butter Cod  
+ - Battered Cod  
   
 **fish**  
 In name:   
@@ -163,13 +163,13 @@ In name:
  - Pork & Beef Hard Salami  
  - Beef Harissa  
  - Beef Barbacoa  
+ - Beef Mediterranean  
  - Beef & Bean Chili  
  - Protein - Beef Thinly Sliced  
   
 **pork**  
 In name:   
  - Pork & Beef Hard Salami  
- - Pork Carnita  
   
 In description:   
  - Smoked Ham  
@@ -178,7 +178,7 @@ In description:
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
- - Italian Chicken  
+ - Giardiniera Chicken  
  - Protein - Chicken Thinly Sliced  
   
 In description:   
