@@ -1,121 +1,175 @@
-# 2025-04-24 dinner  
+# 2025-04-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-22 22:31:39  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-24)  
-**Tilapia**  
+Updated at: 2025-04-23 01:17:41  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-25)  
+**clam**  
 In name:   
- - Baked Tilapia w/Dill Wine Sauce  
+ - Clam Chowder (Pork)  
   
-**fish**  
-In name:   
-  
-In description:   
- - Tempura Roll (FujiSan)  
-  
-**beef**  
-In name:   
- - Beef & Chicken Meatballs  
- - Mediterranean Beef  
-  
-In description:   
- - Pepperoni Pizza Slice  
-  
-**pork**  
-In name:   
- - Loaded Potato Bacon (Pork) Pizza Slice  
-  
-**chicken**  
-In name:   
- - Chicken Piece Seasoned Baked  
- - Beef & Chicken Meatballs  
- - Plant Based Chicken Strips  
- - Lemon Pepper Chicken Salad  
- - Chicken Shawarma Sandwich  
- - Chicken Souvlaki  
- - Mediterranean Chicken  
- - Chicken Dumpling Soup  
-  
-In description:   
- - Pepperoni Pizza Slice  
- - Great Greens  
-  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-04-24)  
-**watermelon**  
-In name:   
- - Melon Watermelon Whole Sliced  
-  
-**beef**  
-In name:   
- - Beef Broccoli Stir Fry w/Teriyaki Sauce  
-  
-In description:   
- - Station Recipe - Liz - Deli  AYCTE  
-  
-**pork**  
-In name:   
- - Baked Rigatoni w/ Pork Italian Sausage  
-  
-In description:   
- - Station Recipe - Liz - Deli  AYCTE  
-  
-**chicken**  
-In name:   
- - Blackened Chicken Sandwich  
- - Chicken Dumpling Soup  
- - Lemon Pepper Chicken Salad  
-  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-04-24)  
 **Shrimp**  
 In name:   
- - Shrimp with Bell Peppers  
+ - Chipotle Shrimp  
   
-**Tuna**  
+**Cod**  
 In name:   
- - Lemon Pepper Tuna Salad  
+  
+In description:   
+ - Clam Chowder (Pork)  
+  
+**catfish**  
+In name:   
+ - Blackened Catfish  
   
 **fish**  
 In name:   
- - Fish Sauce  
+ - Blackened Catfish  
   
 **beef**  
 In name:   
- - Beef Meatloaf  
- - Beef Gravy  
- - Beef & Chicken Meatballs  
- - Beef Broccoli Stir Fry w/Teriyaki Sauce  
- - Plant-Based Beef & Broccoli Stir Fry  
- - Protein - Beef Thinly Sliced  
  - Beef Taco Meat  
   
 In description:   
- - Smoked Brisket & Tots Pizza Slice  
- - Chicago-Style Hot Dog  
- - Pork Bratwurst Sandwich  
+ - Meat Lovers w/ Bacon (Pork) Pizza Slice  
   
 **pork**  
 In name:   
- - Pork Bratwurst Sandwich  
+ - Meat Lovers w/ Bacon (Pork) Pizza Slice  
+ - Clam Chowder (Pork)  
   
 In description:   
+ - Andouille Sausage  
+ - Chorizo Sauce  
  - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
- - Beef & Chicken Meatballs  
- - Giardiniera Chicken  
- - Protein - Chicken Thinly Sliced  
- - Spicy Fajita Chicken  
- - Chicken Dumpling Soup  
- - Chicken Wings Boneless Plain  
- - Plant-Based Chicken Nuggets (6)  
+ - Diced Chicken Breast  
+ - Lemon Pepper Chicken Salad  
+ - Crispy Chicken Sandwich  
+ - VN Sand Chicken Paradise  
+ - Sweet & Sour Chicken  
+ - Chicken Tinga  
   
 In description:   
- - Gordon's Great Greens  
+ - Chorizo Sauce  
+ - Meat Lovers w/ Bacon (Pork) Pizza Slice  
+ - Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-04-24)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-04-25)  
+**watermelon**  
+In name:   
+ - Melon Watermelon Whole Sliced  
+  
+**fish**  
+In name:   
+ - Vegan Fish Sandwich  
+  
+**beef**  
+In name:   
+ - Halal Beef Hamburger  
+  
+In description:   
+ - Station Recipe - Liz - Deli  AYCTE  
+  
+**pork**  
+In name:   
+  
+In description:   
+ - Station Recipe - Liz - Deli  AYCTE  
+  
+**chicken**  
+In name:   
+ - Chicken Honey Lime w/ rice  
+ - Lemon Pepper Chicken Salad  
+  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-04-25)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
+  
+**clam**  
+In name:   
+ - Clam Chowder (Pork)  
+  
+**Shrimp**  
+In name:   
+ - Sauteed Shrimp  
+ - Redhook Ale Shrimp Basket  
+  
+**Cod**  
+In name:   
+  
+In description:   
+ - Clam Chowder (Pork)  
+  
+**catfish**  
+In name:   
+ - Blackened Catfish  
+  
+**fish**  
+In name:   
+ - Blackened Catfish  
+  
+**curry**  
+In name:   
+ - Coconut Tofu w/Red Curry Sauce  
+ - Beef Bombay Curry  
+ - Indian Vegetable Curry  
+ - Curry Potatoes  
+  
+**beef**  
+In name:   
+ - Beef & Chicken Meatballs  
+ - Beef Bombay Curry  
+ - Beef Barbacoa  
+ - Beef Taco Meat  
+ - Beef Gravy  
+  
+In description:   
+ - Thin Crust Tavern Style Pepperoni Pizza  
+ - Pepperoni Pizza Slice  
+ - BYO Bar - Poutine Bar - Gordon  
+  
+**pork**  
+In name:   
+ - French Market Pork Jambalaya  
+ - Clam Chowder (Pork)  
+  
+In description:   
+ - BYO Bar - Poutine Bar - Gordon  
+ - Andouille Sausage  
+  
+**chicken**  
+In name:   
+ - Beef & Chicken Meatballs  
+ - Chicken Gravy  
+  
+In description:   
+ - French Market Pork Jambalaya  
+ - Thin Crust Tavern Style Pepperoni Pizza  
+ - Pepperoni Pizza Slice  
+ - Gordon's Great Greens  
+ - BYO Bar - Poutine Bar - Gordon  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-04-25)  
+**watermelon**  
+In name:   
+ - Watermelon Slices  
+  
+**clam**  
+In name:   
+ - Clam Chowder (Pork)  
+  
+**Shrimp**  
+In name:   
+ - Sauteed Shrimp  
+  
+**Cod**  
+In name:   
+ - Baked Cod Fillet w/Butter & Lemon  
+  
+In description:   
+ - Clam Chowder (Pork)  
   
 **fish**  
 In name:   
@@ -125,94 +179,72 @@ In name:
 In name:   
  - Roast Beef  
  - Pork & Beef Hard Salami  
- - Smoked Beef Round Plate  
+ - Beef Fajita Meat  
  - Beef Taco Meat  
  - Protein - Beef Thinly Sliced  
   
 In description:   
- - Fired Up Burger  
+ - Vegan Taco Filling  
   
 **pork**  
 In name:   
  - Pork & Beef Hard Salami  
- - Jerk Pork Chop  
+ - Smoked Pork Rib  
+ - Clam Chowder (Pork)  
   
 In description:   
  - Smoked Ham  
  - Bacon  
- - Andouille Sausage  
   
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
- - Crispy Chicken Sandwich  
- - Taco Chicken  
- - Chicken Dumpling Soup  
+ - Grilled Chicken Sandwich  
  - Protein - Chicken Thinly Sliced  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
  - Station Recipe - Great Greens - FLM  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-04-24)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-04-25)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-04-25)  
+**BBQ Pork Sandwich**  
+In name:   
+ - Carolina BBQ Pork Sandwich  
+  
+**clam**  
+In name:   
+ - Clam Chowder (Pork)  
+  
 **Cod**  
 In name:   
- - Baked Cod Fillet w/Butter & Lemon  
+  
+In description:   
+ - Clam Chowder (Pork)  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Crab Rangoon  
   
 **beef**  
 In name:   
-  
-In description:   
- - Thin Crust Tavern Style Pepperoni Pizza  
- - Station Recipe - Carson's Que Rico  
-  
-**pork**  
-In name:   
- - Tavern Style Sausage Pizza (Pork)  
-  
-**chicken**  
-In name:   
- - Chicken Salad  
- - Chicken Tenders Breaded  
- - Plant-Based Chicken Tenders  
- - Chicken Dumpling Soup  
-  
-In description:   
- - Thin Crust Tavern Style Pepperoni Pizza  
- - Great Greens  
- - Station Recipe - Carson's Que Rico  
-  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-04-24)  
-**drumstick**  
-In name:   
-  
-In description:   
- - Irish Roast Chicken w/Leeks and Bacon  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Chicken Madras w/naan  
-  
-**beef**  
-In name:   
- - Beef Pot Roast  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
   
 **pork**  
 In name:   
+ - Clam Chowder (Pork)  
+ - Carolina BBQ Pork Sandwich  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
   
 **chicken**  
 In name:   
- - Chicken Madras w/naan  
- - Chicken Dumpling Soup  
- - Irish Roast Chicken w/Leeks and Bacon  
+ - General Tso's Chicken  
   
 In description:   
  - Great Greens  
