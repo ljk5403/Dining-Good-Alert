@@ -1,6 +1,6 @@
 # 2025-04-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-23 10:13:10  
+Updated at: 2025-04-23 13:17:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-23)  
 **beef**  
 In name:   
@@ -108,7 +108,6 @@ In name:
  - Chicken Sausage Patties  
  - Sweet & Sour Chicken  
  - Plant Based Sweet & Sour Chicken  
- - Chicken Tortilla Soup  
   
 In description:   
  - Gordon's Great Greens  
@@ -161,6 +160,19 @@ In description:
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-04-23)  
+**fish**  
+In name:   
+  
+In description:   
+ - Curried Pumpkin Soup  
+  
+**curry**  
+In name:   
+ - Soup Coconut Curry Cauliflower  
+  
+In description:   
+ - Curried Pumpkin Soup  
+  
 **beef**  
 In name:   
  - Mediterranean Beef  
@@ -168,13 +180,13 @@ In name:
 **pork**  
 In name:   
  - Pork Chop Adobo (1)  
- - Pizza Slice BBQ Pulled Pork  
   
 In description:   
  - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
+ - Pizza Slice BBQ Chicken & Bacon  
  - Mediterranean Chicken  
  - Chicken Sausage Patty  
  - Buffalo Chicken Sliders  
