@@ -1,19 +1,14 @@
 # 2025-04-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-23 16:11:29  
+Updated at: 2025-04-23 19:58:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-23)  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
   
-**fish**  
-In name:   
-  
-In description:   
- - Filipino Barbecue - Pork  
-  
 **beef**  
 In name:   
+ - BBQ Beef Brisket Platter  
   
 In description:   
  - Italian Meat Sauce  
@@ -21,7 +16,6 @@ In description:
   
 **pork**  
 In name:   
- - Filipino Barbecue - Pork  
  - Italian Pork Sausage  
  - Tavern Style Sausage Pizza (Pork)  
   
