@@ -1,6 +1,6 @@
 # 2025-04-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-23 19:58:21  
+Updated at: 2025-04-23 22:33:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-23)  
 **Tuna**  
 In name:   
@@ -183,7 +183,7 @@ In name:
  - Lemon Pepper Chicken Salad  
  - Beef & Chicken Meatballs  
  - Chicken Drumstick Teriyaki Glazed  
- - Chicken Wings Boneless Plain  
+ - Chicken Popcorn  
  - Plant-Based Chicken Nuggets (6)  
  - Chicken Tortilla Soup  
  - Protein - Chicken Thinly Sliced  

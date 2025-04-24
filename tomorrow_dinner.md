@@ -1,6 +1,6 @@
 # 2025-04-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-23 19:58:24  
+Updated at: 2025-04-23 22:33:34  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-24)  
 **Tilapia**  
 In name:   
@@ -106,8 +106,6 @@ In name:
  - Protein - Chicken Thinly Sliced  
  - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
- - Chicken Wings Boneless Plain  
- - Plant-Based Chicken Nuggets (6)  
   
 In description:   
  - Gordon's Great Greens  
