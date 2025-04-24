@@ -2,9 +2,10 @@
 name: 'autoUpdater'
 
 on:
-  push:
   schedule:
-    - cron: '0 */3 * * *' # update every 3 hours at :10
+    - cron: '0 9,10,11,12,15,16,17,18 * * *'
+  workflow_dispatch:
+  timezone: America/Chicago
 
 jobs:
   updater:
