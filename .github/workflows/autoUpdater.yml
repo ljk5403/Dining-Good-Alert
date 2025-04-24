@@ -3,7 +3,7 @@ name: 'autoUpdater'
 
 on:
   schedule:
-    - cron: '0 9,10,11,12,15,16,17,18 * * *'
+    - cron: '0 1,9,10,11,12,15,16,17,18 * * *'
   workflow_dispatch:
   timezone: America/Chicago
 
