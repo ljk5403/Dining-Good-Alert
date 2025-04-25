@@ -1,6 +1,6 @@
 # 2025-04-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-24 18:16:59  
+Updated at: 2025-04-24 20:24:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-24)  
 **fish**  
 In name:   
@@ -65,17 +65,17 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Beef Broccoli Stir Fry w/Teriyaki Sauce  
  - Plant-Based Beef & Broccoli Stir Fry  
  - Beef Taco Meat  
   
 In description:   
+ - Italian Meat Sauce  
  - Smoked Brisket & Tots Pizza Slice  
- - Chicago-Style Hot Dog  
  - Pork Bratwurst Sandwich  
   
 **pork**  
 In name:   
+ - Pork Carnita  
  - Pork Bratwurst Sandwich  
   
 In description:   
@@ -85,7 +85,6 @@ In description:
 In name:   
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
- - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
   
 In description:   
@@ -95,6 +94,10 @@ In description:
 **watermelon**  
 In name:   
  - Watermelon Slices  
+  
+**BBQ Pork Sandwich**  
+In name:   
+ - BBQ Pork Sandwich  
   
 **fish**  
 In name:   
@@ -110,6 +113,7 @@ In name:
 **pork**  
 In name:   
  - Pork & Beef Hard Salami  
+ - BBQ Pork Sandwich  
   
 In description:   
  - Smoked Ham  
@@ -119,7 +123,7 @@ In description:
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
- - Crispy Chicken Sandwich  
+ - Plant-Based Chicken Nuggets (6)  
  - Taco Chicken  
  - Chicken Dumpling Soup  
  - Protein - Chicken Thinly Sliced  
