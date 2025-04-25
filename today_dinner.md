@@ -1,6 +1,6 @@
 # 2025-04-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-25 17:18:39  
+Updated at: 2025-04-25 18:16:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-25)  
 **clam**  
 In name:   
@@ -26,6 +26,7 @@ In name:
   
 **beef**  
 In name:   
+ - BBQ Beef Brisket Sandwich  
  - Beef Taco Meat  
   
 In description:   
@@ -45,7 +46,6 @@ In description:
 In name:   
  - Diced Chicken Breast  
  - Lemon Pepper Chicken Salad  
- - Crispy Chicken Sandwich  
  - VN Sand Chicken Paradise  
  - Sweet & Sour Chicken  
  - Chicken Tinga  
