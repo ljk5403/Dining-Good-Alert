@@ -1,6 +1,6 @@
 # 2025-04-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-25 09:17:04  
+Updated at: 2025-04-25 10:18:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-25)  
 **drumstick**  
 In name:   
@@ -146,7 +146,6 @@ In name:
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
  - Deluxe Pizza (Pork) 16"  
- - Pepperoni Pizza Slice  
   
 **pork**  
 In name:   
@@ -162,7 +161,6 @@ In name:
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
  - Deluxe Pizza (Pork) 16"  
- - Pepperoni Pizza Slice  
  - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-04-25)  
