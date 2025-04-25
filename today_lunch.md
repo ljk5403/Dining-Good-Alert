@@ -1,6 +1,6 @@
 # 2025-04-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-25 11:22:11  
+Updated at: 2025-04-25 12:15:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-25)  
 **drumstick**  
 In name:   
@@ -112,7 +112,6 @@ In name:
   
 **Cod**  
 In name:   
- - Baked Cod Fillet w/Butter & Lemon  
   
 In description:   
  - Clam Chowder (Pork)  
@@ -124,6 +123,10 @@ In name:
 **catfish**  
 In name:   
  - Blackened Catfish Po-Boy Sandwich  
+  
+**Tilapia**  
+In name:   
+ - Baked Tilapia w/Dill Wine Sauce  
   
 **fish**  
 In name:   
@@ -196,7 +199,7 @@ In name:
  - Protein - Beef Thinly Sliced  
   
 In description:   
- - Mushroom Swiss Burger  
+ - Cheeseburger  
  - Vegan Taco Filling  
   
 **pork**  
@@ -232,6 +235,12 @@ In description:
  - Clam Chowder (Pork)  
  - Pesce Al'acqua Pazza  
   
+**fish**  
+In name:   
+  
+In description:   
+ - FujiSan Sushi Bulk Tempura Roll  
+  
 **curry**  
 In name:   
   
@@ -259,7 +268,6 @@ In name:
  - Tikka Masala Chicken  
   
 In description:   
- - Great Greens  
  - Cocktail Smokies  
   
   

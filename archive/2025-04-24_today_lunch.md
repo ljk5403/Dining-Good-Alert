@@ -1,6 +1,6 @@
 # 2025-04-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-25 10:18:19  
+Updated at: 2025-04-25 11:22:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-25)  
 **drumstick**  
 In name:   
@@ -146,6 +146,7 @@ In name:
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
  - Deluxe Pizza (Pork) 16"  
+ - Smoked Brisket & Tots Pizza Slice  
   
 **pork**  
 In name:   
@@ -240,10 +241,10 @@ In description:
   
 **beef**  
 In name:   
- - Beef & Tater Tot Bake  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
+ - Cocktail Smokies  
   
 **pork**  
 In name:   
@@ -251,6 +252,7 @@ In name:
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
+ - Cocktail Smokies  
   
 **chicken**  
 In name:   
@@ -258,5 +260,6 @@ In name:
   
 In description:   
  - Great Greens  
+ - Cocktail Smokies  
   
   
