@@ -1,6 +1,6 @@
 # 2025-04-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-25 13:24:41  
+Updated at: 2025-04-25 15:19:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-25)  
 **clam**  
 In name:   
@@ -127,7 +127,7 @@ In name:
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
- - Pepperoni Pizza Slice  
+ - Pizza Slice Deluxe  
  - BYO Bar - Poutine Bar - Gordon  
   
 **pork**  
@@ -136,6 +136,7 @@ In name:
  - Clam Chowder (Pork)  
   
 In description:   
+ - Pizza Slice Deluxe  
  - BYO Bar - Poutine Bar - Gordon  
  - Andouille Sausage  
   
@@ -147,7 +148,7 @@ In name:
 In description:   
  - French Market Pork Jambalaya  
  - Thin Crust Tavern Style Pepperoni Pizza  
- - Pepperoni Pizza Slice  
+ - Pizza Slice Deluxe  
  - Gordon's Great Greens  
  - BYO Bar - Poutine Bar - Gordon  
   
