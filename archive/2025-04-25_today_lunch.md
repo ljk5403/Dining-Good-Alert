@@ -1,6 +1,6 @@
 # 2025-04-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-26 10:16:08  
+Updated at: 2025-04-26 11:20:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-26)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-04-26)  
 **watermelon**  
@@ -22,12 +22,9 @@ In name:
 In name:   
  - Carolina BBQ Pork Sandwich  
   
-**Tilapia**  
-In name:   
- - Island Spiced Tilapia  
-  
 **beef**  
 In name:   
+ - Beef Stew w/ Buttermilk Biscuit  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
@@ -49,6 +46,7 @@ In name:
  - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
  - Cream of Chicken & Wild Rice Soup  
+ - Chicken Noodle Soup  
   
 In description:   
  - Pepperoni Pizza Slice  
