@@ -1,6 +1,6 @@
 # 2025-04-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-26 12:13:35  
+Updated at: 2025-04-26 13:21:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-26)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-04-26)  
 **watermelon**  
@@ -24,7 +24,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Stew w/ Buttermilk Biscuit  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
@@ -41,6 +40,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Pot Pie w/ Biscuit  
  - Chicken Breast w/Balsamic BBQ Sauce  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
