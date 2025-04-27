@@ -1,7 +1,11 @@
 # 2025-04-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-27 17:16:13  
+Updated at: 2025-04-27 18:17:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-27)  
+**Beef Alicha**  
+In name:   
+ - Beef Alicha  
+  
 **curry**  
 In name:   
   
@@ -11,7 +15,7 @@ In description:
 **beef**  
 In name:   
  - Corned Beef  
- - Chili & Cheese Beef Hot Dog  
+ - Beef Alicha  
  - Beef Barbacoa  
  - Beef Taco Meat  
   
@@ -25,8 +29,8 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken Honey Lime w/ rice  
  - Lemon Pepper Chicken Salad  
+ - Chicken Shawarma Sandwich  
  - Chicken Korma  
  - Fajita Chicken  
  - Lemon Chicken Rice Soup  

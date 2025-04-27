@@ -1,7 +1,13 @@
 # 2025-04-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-27 16:15:07  
+Updated at: 2025-04-27 17:16:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-27)  
+**curry**  
+In name:   
+  
+In description:   
+ - Chicken Korma  
+  
 **beef**  
 In name:   
  - Corned Beef  
@@ -21,7 +27,7 @@ In name:
 In name:   
  - Chicken Honey Lime w/ rice  
  - Lemon Pepper Chicken Salad  
- - General Tso's Chicken  
+ - Chicken Korma  
  - Fajita Chicken  
  - Lemon Chicken Rice Soup  
   
@@ -40,12 +46,16 @@ In name:
  - Philly Cheesesteak Sandwich  
  - Tempeh Philly Cheesesteak Sandwich  
   
+In description:   
+ - Montreal Chicken  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
 In description:   
+ - Italian Meat Sauce  
  - Thin Crust Tavern Style Pepperoni Pizza  
  - Vegan Taco Filling  
  - Philly Cheesesteak Sandwich  
@@ -59,7 +69,7 @@ In name:
   
 **chicken**  
 In name:   
- - Blackened Chicken  
+ - Montreal Chicken  
  - Beef & Chicken Meatballs  
  - Lemon Chicken Rice Soup  
  - Chicken Sausage Patties  
@@ -133,6 +143,7 @@ In name:
 In description:   
  - Sausage (Pork) & Pepperoni Pizza Slice  
  - Pizza Slice Meat Lovers w/Bacon  
+ - Soup Garden Vegetable  
   
 **pork**  
 In name:   
@@ -144,7 +155,7 @@ In description:
 **chicken**  
 In name:   
  - Brazilian Chicken w/ Salsa Vinaigrette  
- - Lemon Chicken Rice Soup  
+ - Chicken Noodle Soup  
   
 In description:   
  - Sausage (Pork) & Pepperoni Pizza Slice  
