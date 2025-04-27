@@ -1,6 +1,6 @@
 # 2025-04-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-27 12:15:19  
+Updated at: 2025-04-27 13:22:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-27)  
 **beef**  
 In name:   
@@ -52,13 +52,13 @@ In description:
   
 **pork**  
 In name:   
- - Pork Loin Apricot Glazed  
+ - Baked Pork Ham  
  - Tavern Style Sausage Pizza (Pork)  
  - Pork Carnita  
   
 **chicken**  
 In name:   
- - Chicken Enchilada Bake  
+ - Blackened Chicken  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Lemon Chicken Rice Soup  
