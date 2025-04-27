@@ -1,6 +1,6 @@
 # 2025-04-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-27 10:17:12  
+Updated at: 2025-04-27 11:20:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-27)  
 **steak**  
 In name:   
@@ -62,6 +62,7 @@ In description:
 **pork**  
 In name:   
  - Jerk Pork Chop  
+ - Italian Pork Sausage  
  - Tavern Style Sausage Pizza (Pork)  
  - Pork Carnita  
   
@@ -69,7 +70,6 @@ In name:
 In name:   
  - Chicken Jollof Rice (Non-Halal)  
  - Beef & Chicken Meatballs  
- - Giardiniera Chicken  
  - Chicken Sausage Patties  
  - Crispy Chicken Sandwich  
  - Lemon Chicken Rice Soup  
@@ -85,7 +85,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs  
  - Roast Beef  
  - Pork & Beef Hard Salami  
  - Beef Taco Meat  
@@ -98,6 +97,7 @@ In name:
  - Pork Carnita  
   
 In description:   
+ - Andouille Sausage  
  - Smoked Ham  
  - Bacon  
   
@@ -105,7 +105,6 @@ In description:
 In name:   
  - Chicken Sausage Patty  
  - Crispy Chicken Sandwich  
- - Beef & Chicken Meatballs  
  - Plant Based Chicken Strips  
  - Lemon Pepper Chicken Salad  
  - Lemon Chicken Rice Soup  
@@ -119,16 +118,18 @@ In name:
   
 In description:   
  - Sausage (Pork) & Pepperoni Pizza Slice  
+ - Meat Lovers Pizza w/Bacon  
+ - Soup Garden Vegetable  
  - Southwest Burger  
   
 **pork**  
 In name:   
  - Sausage (Pork) & Pepperoni Pizza Slice  
- - Loaded Potato Bacon (Pork) Pizza Slice  
  - Pork Adobo  
  - Pork Sausage Patty  
   
 In description:   
+ - Meat Lovers Pizza w/Bacon  
  - Egg, Sausage & Cheese English Muffin  
   
 **chicken**  
@@ -139,6 +140,7 @@ In name:
   
 In description:   
  - Sausage (Pork) & Pepperoni Pizza Slice  
+ - Meat Lovers Pizza w/Bacon  
  - Great Greens  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-04-27)  
