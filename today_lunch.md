@@ -1,6 +1,6 @@
 # 2025-04-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-27 16:15:03  
+Updated at: 2025-04-27 17:16:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-27)  
 **steak**  
 In name:   
@@ -140,7 +140,7 @@ In description:
 In name:   
  - Jamaican Jerk Chicken  
  - Chicken Gravy  
- - Lemon Chicken Rice Soup  
+ - Chicken Noodle Soup  
   
 In description:   
  - Sausage (Pork) & Pepperoni Pizza Slice  

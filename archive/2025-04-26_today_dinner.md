@@ -1,6 +1,6 @@
 # 2025-04-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-27 13:22:19  
+Updated at: 2025-04-27 16:15:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-27)  
 **beef**  
 In name:   
@@ -53,6 +53,7 @@ In description:
 **pork**  
 In name:   
  - Baked Pork Ham  
+ - Pork Italian Sausage  
  - Tavern Style Sausage Pizza (Pork)  
  - Pork Carnita  
   
@@ -60,7 +61,6 @@ In name:
 In name:   
  - Blackened Chicken  
  - Beef & Chicken Meatballs  
- - Giardiniera Chicken  
  - Lemon Chicken Rice Soup  
  - Chicken Sausage Patties  
   
@@ -108,6 +108,10 @@ In description:
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-04-27)  
+**steak**  
+In name:   
+ - Tandoori Braised Beef Steak  
+  
 **Shrimp**  
 In name:   
  - Shrimp & Krab Salad  
@@ -124,15 +128,18 @@ In name:
   
 **beef**  
 In name:   
- - Beef Harissa Braised  
+ - Tandoori Braised Beef Steak  
   
 In description:   
  - Sausage (Pork) & Pepperoni Pizza Slice  
+ - Pizza Slice Meat Lovers w/Bacon  
   
 **pork**  
 In name:   
  - Sausage (Pork) & Pepperoni Pizza Slice  
- - Loaded Potato Bacon (Pork) Pizza Slice  
+  
+In description:   
+ - Pizza Slice Meat Lovers w/Bacon  
   
 **chicken**  
 In name:   
@@ -141,6 +148,7 @@ In name:
   
 In description:   
  - Sausage (Pork) & Pepperoni Pizza Slice  
+ - Pizza Slice Meat Lovers w/Bacon  
  - Great Greens  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-04-27)  
