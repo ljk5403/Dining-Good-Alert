@@ -1,6 +1,6 @@
 # 2025-04-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-28 13:26:00  
+Updated at: 2025-04-28 15:19:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-28)  
 **steak**  
 In name:   
@@ -84,14 +84,12 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Cocktail Smokies (Pork)  
  - Grilled Cheeseburger  
   
 **pork**  
 In name:   
  - Italian Pork Sausage  
  - Tavern Style Sausage Pizza (Pork)  
- - Cocktail Smokies (Pork)  
   
 **chicken**  
 In name:   
@@ -102,7 +100,6 @@ In name:
 In description:   
  - Gordon's Great Greens  
  - BYO Bar - Mac & Cheese  
- - Cocktail Smokies (Pork)  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-04-28)  
 **watermelon**  
