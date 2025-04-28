@@ -1,37 +1,42 @@
 # 2025-04-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-27 18:17:57  
+Updated at: 2025-04-27 20:26:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-27)  
-**Beef Alicha**  
+**catfish**  
 In name:   
- - Beef Alicha  
+ - Blackened Catfish  
+  
+**fish**  
+In name:   
+ - Blackened Catfish  
   
 **curry**  
 In name:   
-  
-In description:   
- - Chicken Korma  
+ - Currywurst (Pork)  
   
 **beef**  
 In name:   
  - Corned Beef  
- - Beef Alicha  
  - Beef Barbacoa  
  - Beef Taco Meat  
   
 In description:   
  - Pepperoni Pizza Slice  
+ - Currywurst (Pork)  
  - Vegan Taco Filling  
   
 **pork**  
 In name:   
  - Italian Pork Sausage  
+ - Currywurst (Pork)  
+  
+In description:   
+ - Andouille Sausage  
   
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
- - Chicken Shawarma Sandwich  
- - Chicken Korma  
+ - General Tso's Chicken Stir Fry  
  - Fajita Chicken  
  - Lemon Chicken Rice Soup  
   
@@ -50,30 +55,26 @@ In name:
  - Philly Cheesesteak Sandwich  
  - Tempeh Philly Cheesesteak Sandwich  
   
-In description:   
- - Montreal Chicken  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
 In description:   
- - Italian Meat Sauce  
  - Thin Crust Tavern Style Pepperoni Pizza  
  - Vegan Taco Filling  
  - Philly Cheesesteak Sandwich  
   
 **pork**  
 In name:   
- - Baked Pork Ham  
+ - Island Spiced Pork w/ Pineapple Salsa  
  - Pork Italian Sausage  
  - Tavern Style Sausage Pizza (Pork)  
  - Pork Carnita  
   
 **chicken**  
 In name:   
- - Montreal Chicken  
+ - Chicken Pot Pie Filling  
  - Beef & Chicken Meatballs  
  - Lemon Chicken Rice Soup  
  - Chicken Sausage Patties  
