@@ -1,6 +1,6 @@
 # 2025-04-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-28 15:19:03  
+Updated at: 2025-04-28 16:15:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-28)  
 **steak**  
 In name:   
@@ -32,7 +32,7 @@ In name:
  - Plant-Based Chicken & Dumplings  
  - Chicken Breast w/Red Pepper Cream  
  - Lemon Pepper Chicken Salad  
- - Chicken Tinga  
+ - Chicken Fajita  
  - Chicken Noodle Soup  
   
 In description:   
@@ -106,10 +106,6 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**Tuna**  
-In name:   
- - Tuna Salad  
-  
 **Salmon**  
 In name:   
  - Smoked Salmon  
@@ -120,7 +116,6 @@ In name:
 In description:   
  - Smoked Salmon  
  - Coconut Thai Curry Mahi Mahi  
- - California Roll  (FujiSan)  
   
 **curry**  
 In name:   
@@ -145,6 +140,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Crispy Buffalo Chicken Sandwich  
  - Chicken Noodle Soup  
   

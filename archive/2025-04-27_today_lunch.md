@@ -1,6 +1,6 @@
 # 2025-04-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-28 13:25:58  
+Updated at: 2025-04-28 15:19:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-28)  
 **Shrimp**  
 In name:   
@@ -10,7 +10,6 @@ In name:
 In name:   
  - Beef Sirloin Tips  
  - Beef Bean & Carrot Stir Fry  
- - Beef Barbacoa  
  - Beef Taco Meat  
   
 In description:   
@@ -21,6 +20,7 @@ In description:
 In name:   
  - Pizza Slice Deluxe (Pork)  
  - Italian Sausage (Pork) w/ Pepper & Onion  
+ - Pork Carnita  
  - Italian Pork Sausage  
   
 In description:   
@@ -29,7 +29,7 @@ In description:
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
- - Chicken Tinga  
+ - Chicken Fajita  
  - Chicken Noodle Soup  
   
 In description:   
@@ -173,7 +173,7 @@ In description:
 **chicken**  
 In name:   
  - General Tso's Chicken  
- - Chicken Noodle Soup  
+ - Chicken Chili - Recipe Contest 2025  
  - Chicken Sausage Patty  
   
 In description:   
