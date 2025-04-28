@@ -1,6 +1,6 @@
 # 2025-04-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-28 10:19:49  
+Updated at: 2025-04-28 11:21:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-28)  
 **Shrimp**  
 In name:   
@@ -25,7 +25,6 @@ In name:
   
 In description:   
  - Pizza Slice Sausage  
- - Italian Sausage w/ Pepper & Onions  
   
 **chicken**  
 In name:   
@@ -107,13 +106,7 @@ In name:
   
 **Tuna**  
 In name:   
- - Tuna Salad  
-  
-**fish**  
-In name:   
-  
-In description:   
- - California Roll  (FujiSan)  
+ - Lemon Pepper Tuna Salad  
   
 **lamb**  
 In name:   
@@ -179,7 +172,7 @@ In description:
   
 **chicken**  
 In name:   
- - Spicy Lo Mein w/Chicken  
+ - General Tso's Chicken  
  - Chicken Noodle Soup  
  - Chicken Sausage Patty  
   
@@ -206,7 +199,7 @@ In description:
 **chicken**  
 In name:   
  - Chicken Tinga  
- - Chicken Noodle Soup  
+ - Lemon Chicken Soup  
  - Brazilian Chicken w/ Salsa Vinaigrette  
   
 In description:   
