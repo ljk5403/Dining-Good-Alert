@@ -1,6 +1,6 @@
 # 2025-04-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-29 15:20:11  
+Updated at: 2025-04-29 16:16:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-29)  
 **Samosas**  
 In name:   
@@ -95,8 +95,10 @@ In description:
   
 **pork**  
 In name:   
- - Jalapeno Popper (Pork) Pizza Slice  
  - Chicken Bacon (Pork) Ranch Pizza  
+  
+In description:   
+ - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
@@ -127,16 +129,12 @@ In name:
 In description:   
  - Burnt Ends  
   
-**pork**  
-In name:   
- - Pork Carnita  
-  
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
  - Italian Chicken  
  - Greek Chicken  
- - Chicken Gravy  
+ - Chicken Tinga  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  

@@ -1,6 +1,6 @@
 # 2025-04-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-29 13:24:31  
+Updated at: 2025-04-29 15:20:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-29)  
 **Samosas**  
 In name:   
@@ -177,7 +177,7 @@ In name:
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice  
  - Pepperoni Pizza Slice  
- - Chicago-Style Hot Dog  
+ - Bratwurst  
   
 **pork**  
 In name:   
@@ -186,6 +186,7 @@ In name:
   
 In description:   
  - Egg, Sausage & Cheese English Muffin  
+ - Bratwurst  
   
 **chicken**  
 In name:   
