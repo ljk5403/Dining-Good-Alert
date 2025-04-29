@@ -1,6 +1,6 @@
 # 2025-04-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-29 10:19:32  
+Updated at: 2025-04-29 11:22:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-29)  
 **Samosas**  
 In name:   
@@ -176,6 +176,7 @@ In name:
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice  
+ - Pepperoni Pizza Slice  
  - Chicago-Style Hot Dog  
   
 **pork**  
@@ -190,10 +191,10 @@ In description:
 In name:   
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
- - Pizza Slice Chicken Sriracha  
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice  
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-04-29)  
