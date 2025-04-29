@@ -1,6 +1,6 @@
 # 2025-04-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-29 01:27:02  
+Updated at: 2025-04-29 09:18:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-29)  
 **Samosas**  
 In name:   
@@ -197,7 +197,6 @@ In description:
   
 **pork**  
 In name:   
- - Pork Carnita  
  - Chicken Grilled Cordon Bleu (Pork)  
   
 In description:   
@@ -205,7 +204,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Tinga  
  - Chicken Grilled Cordon Bleu (Pork)  
   
 In description:   

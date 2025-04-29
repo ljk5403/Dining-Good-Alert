@@ -1,6 +1,6 @@
 # 2025-04-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-29 09:18:30  
+Updated at: 2025-04-29 10:19:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-29)  
 **Samosas**  
 In name:   
@@ -141,24 +141,21 @@ In name:
 In name:   
  - Blackened Tilapia  
   
-**Tuna**  
-In name:   
- - Tuna Salad  
-  
 **beef**  
 In name:   
  - Beef Taco Meat  
  - Beef & Bean Chili  
   
-**pork**  
-In name:   
- - Pork Carnita  
+In description:   
+ - Italian Meat Sauce  
   
 **chicken**  
 In name:   
  - Smoked Chicken Drumstick  
  - Buffalo Chicken Wrap  
  - Italian Chicken  
+ - Lemon Pepper Chicken Salad  
+ - Chicken Tinga  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
@@ -176,7 +173,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef & Bean Chili  
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice  
