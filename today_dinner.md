@@ -1,6 +1,6 @@
 # 2025-04-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-28 18:16:44  
+Updated at: 2025-04-28 20:24:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-28)  
 **steak**  
 In name:   
@@ -49,23 +49,17 @@ In name:
   
 **beef**  
 In name:   
- - Beef Barbacoa  
-  
-In description:   
- - Cocktail Smokies (Pork)  
+ - Beef French Dip Sandwich  
   
 **pork**  
 In name:   
- - Cocktail Smokies (Pork)  
+ - Pork Adobo  
   
 **chicken**  
 In name:   
  - Popcorn Chicken  
  - Plant-Based Chicken Nuggets (6)  
  - Chicken Noodle Soup  
-  
-In description:   
- - Cocktail Smokies (Pork)  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-04-28)  
 **watermelon**  
