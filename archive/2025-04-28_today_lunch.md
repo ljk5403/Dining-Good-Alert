@@ -1,6 +1,6 @@
 # 2025-04-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-29 11:22:25  
+Updated at: 2025-04-29 12:16:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-29)  
 **Samosas**  
 In name:   
@@ -210,7 +210,6 @@ In description:
   
 **beef**  
 In name:   
- - Beef Barbacoa  
  - Beef & Bean Chili  
   
 In description:   
@@ -218,6 +217,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Carnita  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
