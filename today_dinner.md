@@ -1,6 +1,6 @@
 # 2025-04-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-29 18:16:32  
+Updated at: 2025-04-29 20:24:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-29)  
 **Samosas**  
 In name:   
@@ -29,6 +29,7 @@ In name:
  - Beef & Chicken Meatballs  
  - Plant Based Chicken Strips  
  - Lemon Pepper Chicken Salad  
+ - Plant-Based Chicken Tenders  
  - Mediterranean Chicken  
   
 In description:   
@@ -83,8 +84,13 @@ In name:
 In name:   
  - Island Spiced Mahi Mahi  
   
+**curry**  
+In name:   
+ - Beef Curry Stew  
+  
 **beef**  
 In name:   
+ - Beef Curry Stew  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
  - Beef & Bean Chili  
@@ -94,7 +100,6 @@ In description:
   
 **pork**  
 In name:   
- - Jerk Pork Chop  
  - Chicken Bacon (Pork) Ranch Pizza  
   
 In description:   
@@ -106,7 +111,7 @@ In name:
  - Mediterranean Chicken  
  - Chicken Bacon (Pork) Ranch Pizza  
  - Plant-Based Chicken Nuggets (6)  
- - Chicken Tenders Breaded  
+ - Popcorn Chicken  
   
 In description:   
  - Gordon's Great Greens  
@@ -123,18 +128,14 @@ In name:
 **beef**  
 In name:   
  - Big Texan Beef Sandwich (Half)  
- - Beef Taco Meat  
+ - Beef Fajita Meat  
  - Beef & Bean Chili  
-  
-In description:   
- - Burnt Ends  
   
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
  - Italian Chicken  
- - Greek Chicken  
- - Chicken Tinga  
+ - Diced Chicken  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
