@@ -1,6 +1,6 @@
 # 2025-04-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-30 09:17:57  
+Updated at: 2025-04-30 10:19:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-04-30)  
 **beef**  
 In name:   
@@ -177,6 +177,10 @@ In description:
  - Ginger Glazed Salmon  
  - Build Your Own Carson's Korean Bulgogi  
   
+**curry**  
+In name:   
+ - Soup Coconut Curry Cauliflower  
+  
 **beef**  
 In name:   
  - Bulgogi Beef  
@@ -195,7 +199,6 @@ In description:
 **chicken**  
 In name:   
  - Bulgogi Chicken  
- - Chicken Tortilla Soup  
  - Chicken Sausage Patty  
   
 In description:   
