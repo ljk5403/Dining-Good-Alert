@@ -1,6 +1,6 @@
 # 2025-04-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-30 16:16:31  
+Updated at: 2025-04-30 17:17:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-30)  
 **Tilapia**  
 In name:   
@@ -154,10 +154,6 @@ In name:
 In name:   
  - Build Your Own Poke Bar  
   
-**Tuna**  
-In name:   
- - Tuna Salad  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
@@ -168,6 +164,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Beef & Chicken Meatballs  
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
