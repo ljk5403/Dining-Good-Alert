@@ -1,16 +1,10 @@
 # 2025-04-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-04-30 18:17:05  
+Updated at: 2025-04-30 20:39:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-04-30)  
 **Tilapia**  
 In name:   
  - Blackened Tilapia  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Chana Saag w/ Tofu  
   
 **beef**  
 In name:   
@@ -23,14 +17,15 @@ In description:
   
 **pork**  
 In name:   
+ - Smoked Pulled Pork  
  - Italian Pork Sausage  
+ - Imperial Pork Stir Fry  
   
 In description:   
  - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
- - Chicken Baked  (1 piece)  
  - Lemon Pepper Chicken Salad  
  - Fajita Chicken  
  - Chicken Tortilla Soup  
@@ -119,6 +114,7 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
+ - Beef Vindaloo  
  - Beef Taco Meat  
  - Beef French Dip Sandwich  
   
@@ -139,17 +135,12 @@ In name:
  - Plant-Based Chicken & Gravy (VN)  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
- - Sweet & Sour Chicken  
  - Chicken Tortilla Soup  
   
 In description:   
  - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-04-30)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
 **Poke Bar**  
 In name:   
  - Build Your Own Poke Bar  
@@ -160,12 +151,12 @@ In name:
   
 In description:   
  - Blackened Hamburger  
- - Italian Meat Sauce  
   
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
  - Beef & Chicken Meatballs  
+ - Giardiniera Chicken  
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
  - Chicken Tortilla Soup  
