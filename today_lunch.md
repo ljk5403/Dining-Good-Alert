@@ -1,6 +1,6 @@
 # 2025-05-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-01 10:18:10  
+Updated at: 2025-05-01 11:22:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-01)  
 **Cod**  
 In name:   
@@ -34,7 +34,7 @@ In name:
  - Chicken Bacon (Pork) Ranch Pizza  
  - Lemon Pepper Chicken Salad  
  - Mediterranean Chicken  
- - Chicken Dumpling Soup  
+ - Lemon Chicken Rice Soup  
  - Beef & Chicken Meatballs  
  - Plant Based Chicken Strips  
   
@@ -103,7 +103,6 @@ In name:
   
 **steak**  
 In name:   
- - Grilled Flank Steak  
  - Country Fried Steak  
   
 **Cod**  
@@ -119,7 +118,6 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Grilled Flank Steak  
  - Country Fried Steak  
  - Grilled Cheeseburger  
  - Vegan Taco Filling  
@@ -155,9 +153,15 @@ In name:
  - Vegan Fish Sandwich  
  - Petite Fish Sandwich  
   
+In description:   
+ - Curried Pumpkin Soup  
+  
 **curry**  
 In name:   
  - Indian Vegetable Curry  
+  
+In description:   
+ - Curried Pumpkin Soup  
   
 **beef**  
 In name:   
@@ -177,7 +181,7 @@ In description:
 **chicken**  
 In name:   
  - Chicken Vindaloo  
- - Chicken Dumpling Soup  
+ - Chicken Chili  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
@@ -196,13 +200,13 @@ In description:
   
 **beef**  
 In name:   
- - Beef Barbacoa  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
   
 **pork**  
 In name:   
+ - Pork Carnita  
  - Sri Lanka Deviled Pork  
   
 In description:   
