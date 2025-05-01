@@ -1,6 +1,6 @@
 # 2025-05-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-01 15:18:10  
+Updated at: 2025-05-01 16:17:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-01)  
 **curry**  
 In name:   
@@ -99,10 +99,6 @@ In name:
 In name:   
  - Battered Cod  
   
-**Tuna**  
-In name:   
- - Tuna Salad  
-  
 **beef**  
 In name:   
  - Beef Taco Meat  
@@ -118,6 +114,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Crispy Chicken Sandwich  
  - Chicken Dumpling Soup  
   
