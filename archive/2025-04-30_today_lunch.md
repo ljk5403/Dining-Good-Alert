@@ -1,6 +1,6 @@
 # 2025-05-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-01 01:26:55  
+Updated at: 2025-05-01 09:16:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-01)  
 **Cod**  
 In name:   
@@ -90,11 +90,8 @@ In name:
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Mediterranean Chicken  
- - Spicy Fajita Chicken  
+ - Chicken Tinga  
  - Chicken Dumpling Soup  
-  
-In description:   
- - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-05-01)  
 **watermelon**  
@@ -215,7 +212,6 @@ In description:
 **chicken**  
 In name:   
  - Taco Chicken  
- - Chicken Dumpling Soup  
   
 In description:   
  - Great Greens  

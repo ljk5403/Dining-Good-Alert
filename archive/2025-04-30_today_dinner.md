@@ -1,18 +1,7 @@
 # 2025-05-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-01 01:26:57  
+Updated at: 2025-05-01 09:16:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-01)  
-**Salmon**  
-In name:   
- - Hoisin BBQ Glazed Salmon  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Hoisin BBQ Glazed Salmon  
- - Tempura Roll (FujiSan)  
-  
 **curry**  
 In name:   
  - Currywurst (Pork)  
@@ -24,7 +13,6 @@ In name:
  - Mediterranean Beef  
   
 In description:   
- - Burnt Ends  
  - Thin Crust Tavern Style Pepperoni Pizza  
  - Currywurst (Pork)  
   
@@ -53,13 +41,8 @@ In description:
 In name:   
  - Melon Watermelon Whole Sliced  
   
-**steak**  
-In name:   
- - Tandoori Braised Beef Steak  
-  
 **beef**  
 In name:   
- - Tandoori Braised Beef Steak  
  - Beef Fajita  
   
 In description:   
@@ -67,7 +50,6 @@ In description:
   
 **pork**  
 In name:   
- - BBQ Pork Chop  
   
 In description:   
  - Station Recipe - Liz - Deli  AYCTE  
@@ -79,10 +61,6 @@ In name:
  - Lemon Pepper Chicken Salad  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-05-01)  
-**steak**  
-In name:   
- - Rosemary Cabernet Flank Steak  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
@@ -91,10 +69,8 @@ In name:
 In name:   
  - Beef & Chicken Meatballs  
  - Mediterranean Beef  
- - Beef Taco Meat  
   
 In description:   
- - Rosemary Cabernet Flank Steak  
  - Pizza Slice - Bacon Cheeseburger  
   
 **pork**  
@@ -105,11 +81,9 @@ In description:
   
 **chicken**  
 In name:   
- - Blackened Chicken  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Mediterranean Chicken  
- - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
  - Crispy Chicken & Waffle Sandwich  
   
@@ -121,31 +95,13 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**Poke Bar**  
-In name:   
- - Build Your Own Poke Bar  
-  
 **Cod**  
 In name:   
  - Battered Cod  
   
-**duck**  
-In name:   
- - Duck Curry  
-  
 **Tuna**  
 In name:   
  - Tuna Salad  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Duck Curry  
-  
-**curry**  
-In name:   
- - Duck Curry  
   
 **beef**  
 In name:   
@@ -157,7 +113,6 @@ In description:
   
 **pork**  
 In name:   
- - Pork Loin Spicy Greenbush  
   
 In description:   
  - Andouille Sausage  
@@ -176,10 +131,6 @@ In description:
 In name:   
  - Shrimp & Krab Salad  
   
-**Tilapia**  
-In name:   
- - Lemon Bake Tilapia  
-  
 **fish**  
 In name:   
   
@@ -196,7 +147,6 @@ In description:
 **pork**  
 In name:   
  - Tavern Style Sausage Pizza (Pork)  
- - Green Beans w/ Pork Bacon  
   
 **chicken**  
 In name:   
@@ -229,14 +179,12 @@ In description:
   
 **beef**  
 In name:   
- - Beef Taco Meat  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
   
 **pork**  
 In name:   
- - Pork Carnita  
  - Filipino Barbecue - Pork  
   
 In description:   

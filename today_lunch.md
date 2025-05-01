@@ -1,6 +1,6 @@
 # 2025-05-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-01 09:16:30  
+Updated at: 2025-05-01 10:18:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-01)  
 **Cod**  
 In name:   
@@ -24,12 +24,14 @@ In description:
 **pork**  
 In name:   
  - Spicy ChilI Rice Pork Chops  
+ - Chicken Bacon (Pork) Ranch Pizza  
   
 In description:   
  - Chorizo Sauce  
   
 **chicken**  
 In name:   
+ - Chicken Bacon (Pork) Ranch Pizza  
  - Lemon Pepper Chicken Salad  
  - Mediterranean Chicken  
  - Chicken Dumpling Soup  
@@ -70,10 +72,6 @@ In name:
  - Lemon Pepper Chicken Salad  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-05-01)  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
@@ -89,6 +87,7 @@ In description:
 In name:   
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
+ - Lemon Pepper Chicken Salad  
  - Mediterranean Chicken  
  - Chicken Tinga  
  - Chicken Dumpling Soup  
