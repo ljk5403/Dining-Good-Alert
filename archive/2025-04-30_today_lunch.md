@@ -1,6 +1,6 @@
 # 2025-05-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-01 12:16:08  
+Updated at: 2025-05-01 13:25:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-01)  
 **Cod**  
 In name:   
@@ -19,7 +19,7 @@ In name:
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
- - Reuben  
+ - Pastrami & Swiss Sandwich  
   
 **pork**  
 In name:   
@@ -90,7 +90,7 @@ In name:
  - Lemon Pepper Chicken Salad  
  - Mediterranean Chicken  
  - Chicken Tinga  
- - Chicken Noodle Soup  
+ - Chicken Dumpling Soup  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-05-01)  
 **watermelon**  
