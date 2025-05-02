@@ -1,6 +1,6 @@
 # 2025-05-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-02 17:17:09  
+Updated at: 2025-05-02 18:16:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-02)  
 **drumstick**  
 In name:   
@@ -17,10 +17,10 @@ In name:
 **Shrimp**  
 In name:   
  - Shrimp De Jonge  
+ - Coconut Shrimp  
   
 **Cod**  
 In name:   
- - Battered Cod  
   
 In description:   
  - Clam Chowder (Pork)  
