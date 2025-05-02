@@ -1,6 +1,6 @@
 # 2025-05-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-02 13:24:41  
+Updated at: 2025-05-02 15:20:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-02)  
 **drumstick**  
 In name:   
@@ -68,6 +68,10 @@ In name:
 In name:   
  - Country Fried Steak  
   
+**Cod**  
+In name:   
+ - Lemon Pepper Cod Fillet  
+  
 **Tilapia**  
 In name:   
  - Blackened Tilapia  
@@ -89,7 +93,6 @@ In description:
 **chicken**  
 In name:   
  - Crispy Chicken Sandwich  
- - Butter Chicken  
  - Lemon Pepper Chicken Salad  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-05-02)  
@@ -133,15 +136,11 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice  
- - Kielbasa with Pierogis  
   
 **pork**  
 In name:   
  - Pizza Slice Chicken Cordon Bleu (Pork)  
  - Clam Chowder (Pork)  
-  
-In description:   
- - Kielbasa with Pierogis  
   
 **chicken**  
 In name:   
@@ -149,6 +148,7 @@ In name:
  - Beef & Chicken Meatballs  
  - Pizza Slice Chicken Cordon Bleu (Pork)  
  - Chicken Tikka Masala  
+ - Chicken Sausage Patties  
   
 In description:   
  - Pepperoni Pizza Slice  

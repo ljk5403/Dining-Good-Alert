@@ -1,6 +1,6 @@
 # 2025-05-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-02 12:16:09  
+Updated at: 2025-05-02 13:24:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-02)  
 **steak**  
 In name:   
@@ -12,14 +12,17 @@ In name:
   
 **Cod**  
 In name:   
+ - Grilled Cod Bruschetta  
  - Cod Nuggets  
   
 In description:   
  - Clam Chowder (Pork)  
   
-**Tilapia**  
+**fish**  
 In name:   
- - Baked Tilapia w/ Tomato Tapenade  
+  
+In description:   
+ - Grilled Cod Bruschetta  
   
 **curry**  
 In name:   
@@ -45,7 +48,7 @@ In name:
 In name:   
  - Chicken Jollof Rice (Non-Halal)  
  - Lemon Pepper Chicken Salad  
- - Butter Chicken  
+ - Greek Chicken  
  - Fajita Chicken  
  - Diced Chicken Breast  
   
