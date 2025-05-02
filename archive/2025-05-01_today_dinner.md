@@ -1,6 +1,6 @@
 # 2025-05-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-02 15:20:00  
+Updated at: 2025-05-02 16:16:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-02)  
 **drumstick**  
 In name:   
@@ -20,17 +20,13 @@ In name:
   
 **Cod**  
 In name:   
+ - Battered Cod  
   
 In description:   
  - Clam Chowder (Pork)  
   
-**catfish**  
-In name:   
- - Catfish Nuggets w/ Remoulade Sauce  
-  
 **fish**  
 In name:   
- - Catfish Nuggets w/ Remoulade Sauce  
  - Vegan Fish Sandwich  
   
 **beef**  
@@ -170,25 +166,13 @@ In name:
 **Shrimp**  
 In name:   
  - Sauteed Shrimp  
+ - Coconut Shrimp  
   
 **Cod**  
 In name:   
   
 In description:   
  - Clam Chowder (Pork)  
-  
-**catfish**  
-In name:   
- - Garlic Baked Catfish  
-  
-**Tuna**  
-In name:   
- - Tuna Salad  
-  
-**fish**  
-In name:   
- - Vegan Fish Sandwich  
- - Garlic Baked Catfish  
   
 **beef**  
 In name:   
@@ -204,7 +188,8 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken Coq Au Vin Blanc w/Bacon  
+ - Lemon Pepper Chicken Salad  
+ - Plant-Based Chicken Tenders  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
