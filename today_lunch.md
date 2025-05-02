@@ -1,6 +1,6 @@
 # 2025-05-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-02 09:17:14  
+Updated at: 2025-05-02 10:18:34  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-02)  
 **steak**  
 In name:   
@@ -115,7 +115,6 @@ In name:
   
 **curry**  
 In name:   
- - Mixed Vegetable Curry  
  - Curry Potatoes  
   
 In description:   
@@ -141,6 +140,7 @@ In name:
  - Honey Lime Chicken Breast  
  - Beef & Chicken Meatballs  
  - Pizza Slice Chicken Cordon Bleu (Pork)  
+ - Chicken Salad  
  - Chicken Sausage Patties  
  - Chicken Tikka Masala  
   
