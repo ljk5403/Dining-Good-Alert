@@ -1,6 +1,6 @@
 # 2025-05-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-02 10:18:34  
+Updated at: 2025-05-02 11:22:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-02)  
 **steak**  
 In name:   
@@ -174,10 +174,6 @@ In description:
 In name:   
  - Blackened Catfish  
   
-**Tuna**  
-In name:   
- - Tuna Salad  
-  
 **fish**  
 In name:   
  - Blackened Catfish  
@@ -199,6 +195,7 @@ In name:
 In name:   
  - Plant-Based Chicken & Dumplings  
  - Grilled Chicken Sandwich  
+ - Creamy Lemon Pepper Chicken  
   
 In description:   
  - Collard Greens w/Bacon  
@@ -226,6 +223,12 @@ In description:
 In name:   
  - Crispy Chipotle Tilapia w/Avocado Puree  
   
+**curry**  
+In name:   
+  
+In description:   
+ - Chana Saag w/ Tofu  
+  
 **beef**  
 In name:   
  - Beef Taco Meat  
@@ -233,19 +236,24 @@ In name:
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
+ - Cocktail Wieners & BBQ Sauce  
   
 **pork**  
 In name:   
  - Clam Chowder (Pork)  
+ - Chicken Grilled Cordon Bleu (Pork)  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
+ - Cocktail Wieners & BBQ Sauce  
   
 **chicken**  
 In name:   
  - Taco Chicken  
+ - Chicken Grilled Cordon Bleu (Pork)  
   
 In description:   
  - Great Greens  
+ - Cocktail Wieners & BBQ Sauce  
   
   

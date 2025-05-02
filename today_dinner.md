@@ -1,6 +1,6 @@
 # 2025-05-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-02 11:22:18  
+Updated at: 2025-05-02 12:16:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-02)  
 **drumstick**  
 In name:   
@@ -64,16 +64,20 @@ In description:
 In name:   
  - Melon Watermelon Whole Sliced  
   
+**steak**  
+In name:   
+ - Country Fried Steak  
+  
 **Tilapia**  
 In name:   
  - Blackened Tilapia  
   
 **beef**  
 In name:   
- - Traditional Beef Shepard's Pie  
   
 In description:   
  - Burnt Ends  
+ - Country Fried Steak  
  - Station Recipe - Liz - Deli  AYCTE  
   
 **pork**  
@@ -85,6 +89,7 @@ In description:
 **chicken**  
 In name:   
  - Crispy Chicken Sandwich  
+ - Butter Chicken  
  - Lemon Pepper Chicken Salad  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-05-02)  
