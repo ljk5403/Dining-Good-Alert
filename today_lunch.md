@@ -1,6 +1,6 @@
 # 2025-05-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-02 01:25:51  
+Updated at: 2025-05-02 09:17:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-02)  
 **steak**  
 In name:   
@@ -12,21 +12,14 @@ In name:
   
 **Cod**  
 In name:   
+ - Cod Nuggets  
   
 In description:   
  - Clam Chowder (Pork)  
   
-**catfish**  
-In name:   
- - Catfish Nuggets w/ Remoulade Sauce  
-  
 **Tilapia**  
 In name:   
  - Baked Tilapia w/ Tomato Tapenade  
-  
-**fish**  
-In name:   
- - Catfish Nuggets w/ Remoulade Sauce  
   
 **curry**  
 In name:   
@@ -41,14 +34,12 @@ In name:
   
 In description:   
  - Pizza Slice Philly Cheesesteak  
+ - Pepperoni Pizza Slice  
   
 **pork**  
 In name:   
  - Pork Carnita  
  - Clam Chowder (Pork)  
-  
-In description:   
- - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
@@ -59,6 +50,7 @@ In name:
  - Diced Chicken Breast  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-05-02)  
@@ -97,10 +89,6 @@ In name:
  - Lemon Pepper Chicken Salad  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-05-02)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
 **Samosas**  
 In name:   
  - Samosas  
@@ -158,7 +146,6 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice  
- - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-05-02)  
 **watermelon**  
@@ -168,6 +155,10 @@ In name:
 **Poke Bar**  
 In name:   
  - Build Your Own Poke Bar  
+  
+**steak**  
+In name:   
+ - Beef Flank Steak  
   
 **clam**  
 In name:   
@@ -193,15 +184,14 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Flank Steak  
   
 In description:   
- - Sliced Kielbasa (Pork)  
  - Pizza Slice Deluxe (Pork)  
   
 **pork**  
 In name:   
- - Smoked Pulled Pork Sandwich  
- - Sliced Kielbasa (Pork)  
+ - Italian Pork Sausage  
  - Pizza Slice Deluxe (Pork)  
  - Clam Chowder (Pork)  
   
