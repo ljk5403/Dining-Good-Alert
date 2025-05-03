@@ -1,6 +1,6 @@
 # 2025-05-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-03 10:17:03  
+Updated at: 2025-05-03 11:20:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-03)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-05-03)  
 **watermelon**  
@@ -21,10 +21,6 @@ In name:
  - Lemon Pepper Chicken Salad  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-05-03)  
-**drumstick**  
-In name:   
- - Chicken Drumstick BBQ Glazed  
-  
 **beef**  
 In name:   
  - Beef Tri Tip Carved w/ Chimichurri  
@@ -41,7 +37,7 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken Drumstick BBQ Glazed  
+ - Butter Chicken  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Crispy Buffalo Chicken Sandwich  
@@ -73,6 +69,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Cajun Chicken Pasta  
  - Giardiniera Chicken  
  - Diced Chicken  
  - Cream of Chicken & Wild Rice Soup  
