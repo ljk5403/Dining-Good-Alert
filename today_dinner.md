@@ -1,6 +1,6 @@
 # 2025-05-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-02 18:16:35  
+Updated at: 2025-05-02 20:22:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-02)  
 **drumstick**  
 In name:   
@@ -16,11 +16,11 @@ In name:
   
 **Shrimp**  
 In name:   
- - Shrimp De Jonge  
- - Coconut Shrimp  
+ - Redhook Ale Breaded Shrimp  
   
 **Cod**  
 In name:   
+ - Lemon Pepper Cod Fillet  
   
 In description:   
  - Clam Chowder (Pork)  
@@ -62,7 +62,11 @@ In name:
   
 **steak**  
 In name:   
- - Country Fried Steak  
+ - Beef Pepper Steak Stir Fry w/Teryiaki  
+  
+**BBQ Pork Sandwich**  
+In name:   
+ - BBQ Pork Sandwich  
   
 **Cod**  
 In name:   
@@ -74,21 +78,21 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Pepper Steak Stir Fry w/Teryiaki  
   
 In description:   
  - Burnt Ends  
- - Country Fried Steak  
  - Station Recipe - Liz - Deli  AYCTE  
   
 **pork**  
 In name:   
+ - BBQ Pork Sandwich  
   
 In description:   
  - Station Recipe - Liz - Deli  AYCTE  
   
 **chicken**  
 In name:   
- - Crispy Chicken Sandwich  
  - Lemon Pepper Chicken Salad  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-05-02)  
