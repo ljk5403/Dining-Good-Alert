@@ -1,92 +1,121 @@
-# 2025-05-04 dinner  
+# 2025-05-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-02 20:22:48  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-04)  
-**BBQ Pork Sandwich**  
+Updated at: 2025-05-03 01:24:08  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-05)  
+**drumstick**  
 In name:   
- - BBQ Pork Sandwich  
+ - Chicken Drumstick BBQ Glazed  
   
-**Shrimp**  
+**fish**  
 In name:   
- - Shrimp & Pork Andouille Sausage  
+  
+In description:   
+ - Filipino Barbecue - Pork  
+ - Beef Masaman Thai Curry  
+  
+**curry**  
+In name:   
+ - Beef Masaman Thai Curry  
   
 **beef**  
 In name:   
+ - Beef Ravioli Plain  
+ - Beef Masaman Thai Curry  
+ - Beef Taco Meat  
  - Beef Barbacoa  
- - Beef Taco Meat  
   
 In description:   
- - Pepperoni Pizza Slice  
- - Vegan Taco Filling  
+ - Italian Meat Sauce  
+ - Chicago-Style Hot Dog  
   
 **pork**  
 In name:   
- - Shrimp & Pork Andouille Sausage  
+ - Filipino Barbecue - Pork  
  - Italian Pork Sausage  
- - BBQ Pork Sandwich  
-  
-**chicken**  
-In name:   
- - Chicken Tenders Breaded  
- - Plant-Based Chicken Tenders  
- - Lemon Pepper Chicken Salad  
- - Chicken Teriyaki Stir Fry  
- - Fajita Chicken  
- - Lemon Chicken Rice Soup  
-  
-In description:   
- - Shrimp & Pork Andouille Sausage  
- - Pepperoni Pizza Slice  
- - Great Greens  
-  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-05-04)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-05-04)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
-**BBQ Pork Sandwich**  
-In name:   
- - BBQ Pork Sandwich  
-  
-**beef**  
-In name:   
- - Beef & Chicken Meatballs  
- - Beef Taco Meat  
-  
-In description:   
- - Pepperoni Pizza Slice  
- - Vegan Taco Filling  
-  
-**pork**  
-In name:   
- - Boneless Baked Pork Ham  
- - Pork Carnita  
- - BBQ Pork Sandwich  
   
 In description:   
  - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
- - Chicken Pot Pie Filling  
- - Beef & Chicken Meatballs  
- - Giardiniera Chicken  
- - Lemon Chicken Rice Soup  
- - Chicken Sausage Patties  
+ - Chicken Drumstick BBQ Glazed  
+ - Lemon Pepper Chicken Salad  
+ - Chicken Tinga  
+ - Chicken Noodle Soup  
   
 In description:   
- - Pepperoni Pizza Slice  
- - Gordon's Great Greens  
+ - Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-05-04)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-05-05)  
+**watermelon**  
+In name:   
+ - Melon Watermelon Whole Sliced  
+  
+**Tilapia**  
+In name:   
+ - Tilapia Veracruz  
+  
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
+**beef**  
+In name:   
+ - Beef & Chicken Meatballs  
+  
+**chicken**  
+In name:   
+ - Plant-Based Chicken & Gravy (VN)  
+ - Chicken Shawarma Sandwich  
+ - Beef & Chicken Meatballs  
+ - Chicken Noodle Soup  
+  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-05-05)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
   
-**Salmon**  
+**Tuna**  
 In name:   
- - Tuscan Butter Salmon  
+ - Lemon Pepper Tuna Salad  
+  
+**beef**  
+In name:   
+ - Beef Ravioli w/Tomato Sauce  
+ - Beef & Chicken Meatballs  
+ - Beef Taco Meat  
+  
+In description:   
+ - Swedish Meatballs (AYCTE)  
+ - Blackened Hamburger  
+ - Vegan Sloppy Joe  
+  
+**pork**  
+In name:   
+ - Herb Crusted Pork Loin  
+ - Italian Pork Sausage  
+  
+**chicken**  
+In name:   
+ - Beef & Chicken Meatballs  
+ - Pizza Slice Mediterranean Chicken  
+ - Chicken Tinga  
+ - Chicken Noodle Soup  
+ - BYO - MTO Chicken Wrap - Gordon  
+ - Chicken Thigh Strip  
+  
+In description:   
+ - Swedish Meatballs (AYCTE)  
+ - Gordon's Great Greens  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-05-05)  
+**watermelon**  
+In name:   
+ - Watermelon Slices  
+  
+**drumstick**  
+In name:   
+ - Chicken Drumstick BBQ Glazed  
   
 **Tuna**  
 In name:   
@@ -96,76 +125,94 @@ In name:
 In name:   
   
 In description:   
- - Tuscan Butter Salmon  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Citrus Couscous (VN) (AYCTE)  
+ - California Roll  (FujiSan)  
+ - Tempura Roll (FujiSan)  
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs  
  - Beef Taco Meat  
-  
-In description:   
- - Grilled Cheeseburger  
+ - Bulgogi Beef  
   
 **pork**  
 In name:   
- - French Market Pork Jambalaya  
- - Pork Carnita  
+ - Italian Pork Sausage  
+  
+In description:   
+ - Hot Ham Sandwich  
   
 **chicken**  
 In name:   
- - Beef & Chicken Meatballs  
- - Plant Based Chicken Strips  
- - Lemon Chicken Rice Soup  
+ - Grilled Chicken Sandwich  
+ - Chicken Drumstick BBQ Glazed  
+ - Chicken Tinga  
+ - Chicken Noodle Soup  
+ - Bulgogi Chicken  
   
 In description:   
- - French Market Pork Jambalaya  
+ - BYO - MTO Breakfast Sandwich - Four Lake  
  - Station Recipe - Great Greens - FLM  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-05-04)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-05-05)  
+**Shrimp**  
+In name:   
+ - GF & DF Shrimp Scampi w/Garlic/Parsley  
+  
+**beef**  
+In name:   
+  
+In description:   
+ - Pepperoni Pizza Slice  
+ - Pizza Slice Cheeseburger  
+ - Brazilian Pork Feijoada  
+  
+**pork**  
+In name:   
+ - Brazilian Pork Feijoada  
+  
+**chicken**  
+In name:   
+ - Chicken Noodle Soup  
+  
+In description:   
+ - Pepperoni Pizza Slice  
+ - Great Greens  
+  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-05-05)  
+**Salmon**  
+In name:   
+ - Hoisin BBQ Glazed Salmon  
+  
 **fish**  
 In name:   
   
 In description:   
- - Beef Masaman Thai Curry  
+ - Hoisin BBQ Glazed Salmon  
   
 **curry**  
 In name:   
- - Beef Masaman Thai Curry  
  - Seitan & Coconut Thai Curry  
- - Curry Potatoes  
   
 **beef**  
 In name:   
- - Beef Masaman Thai Curry  
+ - Beef Hot Dog  (no bun)  
+ - Beef Chili w/ Beans  
   
 In description:   
- - Sausage (Pork) & Pepperoni Pizza Slice  
- - Cocktail Smokies  
+ - Hot Dog Bar  
+ - Station Recipe - Deli Lowell AYCTE  
   
 **pork**  
 In name:   
- - Sausage (Pork) & Pepperoni Pizza Slice  
- - Chicken Bacon (Pork) Ranch Pizza  
   
 In description:   
- - Cocktail Smokies  
+ - Station Recipe - Deli Lowell AYCTE  
   
 **chicken**  
 In name:   
- - Chicken Bacon (Pork) Ranch Pizza  
- - Spicy Lo Mein w/Chicken  
- - Lemon Chicken Rice Soup  
+ - Chicken Noodle Soup  
+ - Za'tar and Lemon Grilled Chicken  
   
 In description:   
- - Sausage (Pork) & Pepperoni Pizza Slice  
  - Great Greens  
- - Cocktail Smokies  
   
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-05-04)  
   
