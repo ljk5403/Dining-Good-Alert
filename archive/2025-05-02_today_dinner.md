@@ -1,6 +1,6 @@
 # 2025-05-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-03 15:18:29  
+Updated at: 2025-05-03 16:15:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-03)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-05-03)  
 **watermelon**  
@@ -50,7 +50,7 @@ In name:
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
- - Cream of Chicken & Wild Rice Soup  
+ - Chicken Chili  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
