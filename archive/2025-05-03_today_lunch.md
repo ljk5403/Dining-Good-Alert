@@ -1,16 +1,19 @@
 # 2025-05-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-04 10:17:04  
+Updated at: 2025-05-04 11:20:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-04)  
 **beef**  
 In name:   
  - Beef French Dip Sandwich  
- - Beef Barbacoa  
  - Beef Taco Meat  
   
 In description:   
  - Pepperoni Pizza Slice  
  - Vegan Taco Filling  
+  
+**pork**  
+In name:   
+ - Pork Carnita  
   
 **chicken**  
 In name:   
