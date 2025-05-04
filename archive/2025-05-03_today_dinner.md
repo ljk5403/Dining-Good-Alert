@@ -1,6 +1,6 @@
 # 2025-05-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-04 11:20:28  
+Updated at: 2025-05-04 12:14:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-04)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -97,6 +97,7 @@ In name:
   
 In description:   
  - Tuscan Butter Salmon  
+ - Vietnamese Pork with Rice  
   
 **curry**  
 In name:   
@@ -114,7 +115,7 @@ In description:
   
 **pork**  
 In name:   
- - French Market Pork Jambalaya  
+ - Vietnamese Pork with Rice  
  - Pork Carnita  
   
 **chicken**  
@@ -124,7 +125,6 @@ In name:
  - Lemon Chicken Rice Soup  
   
 In description:   
- - French Market Pork Jambalaya  
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-05-04)  
