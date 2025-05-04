@@ -1,6 +1,6 @@
 # 2025-05-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-04 15:18:33  
+Updated at: 2025-05-04 16:15:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-04)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -55,6 +55,7 @@ In name:
  - Beef Taco Meat  
   
 In description:   
+ - Italian Meat Sauce  
  - Pepperoni Pizza Slice  
  - Vegan Taco Filling  
   
@@ -84,6 +85,10 @@ In description:
 In name:   
  - Watermelon Slices  
   
+**steak**  
+In name:   
+ - Island Spiced Beef Steak  
+  
 **Salmon**  
 In name:   
  - Tuscan Butter Salmon  
@@ -106,6 +111,7 @@ In description:
   
 **beef**  
 In name:   
+ - Island Spiced Beef Steak  
  - Beef Taco Meat  
   
 In description:   
@@ -117,7 +123,6 @@ In name:
   
 **chicken**  
 In name:   
- - Italian Chicken  
  - Chicken Pot Pie w/ Biscuit  
  - Lemon Chicken Rice Soup  
   

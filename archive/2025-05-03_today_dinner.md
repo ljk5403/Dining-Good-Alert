@@ -1,6 +1,6 @@
 # 2025-05-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-04 13:23:06  
+Updated at: 2025-05-04 15:18:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-04)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -97,7 +97,6 @@ In name:
   
 In description:   
  - Tuscan Butter Salmon  
- - Vietnamese Pork with Rice  
   
 **curry**  
 In name:   
@@ -107,7 +106,6 @@ In description:
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
 In description:   
@@ -115,13 +113,12 @@ In description:
   
 **pork**  
 In name:   
- - Vietnamese Pork with Rice  
  - Pork Carnita  
   
 **chicken**  
 In name:   
- - Beef & Chicken Meatballs  
- - Plant Based Chicken Strips  
+ - Italian Chicken  
+ - Chicken Pot Pie w/ Biscuit  
  - Lemon Chicken Rice Soup  
   
 In description:   
