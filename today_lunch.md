@@ -1,6 +1,6 @@
 # 2025-05-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-04 09:15:25  
+Updated at: 2025-05-04 10:17:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-04)  
 **beef**  
 In name:   
@@ -113,6 +113,7 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Chili w/ Beans  
   
 In description:   
  - Sausage (Pork) & Pepperoni Pizza Slice  
@@ -132,7 +133,6 @@ In description:
 In name:   
  - Maple Cider Chicken  
  - Chicken Bacon (Pork) Ranch Pizza  
- - Lemon Chicken Rice Soup  
   
 In description:   
  - Sausage (Pork) & Pepperoni Pizza Slice  
