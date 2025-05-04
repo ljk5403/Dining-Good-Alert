@@ -1,6 +1,6 @@
 # 2025-05-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-03 18:16:19  
+Updated at: 2025-05-03 20:40:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-03)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-05-03)  
 **watermelon**  
@@ -33,20 +33,19 @@ In name:
 In name:   
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
- - Beef Hot Dog  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
- - Big Dog Hot Dog w/ Chili & Cheese  
   
 **pork**  
 In name:   
- - Herb Crusted Pork Loin  
  - Italian Pork Sausage  
  - Tavern Style Sausage Pizza (Pork)  
+ - Pork Bratwurst Sandwich  
   
 **chicken**  
 In name:   
+ - Brazilian Chicken w/ Salsa Vinaigrette  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
@@ -61,18 +60,29 @@ In description:
 In name:   
  - Watermelon Slices  
   
+**Samosas**  
+In name:   
+ - Samosas  
+  
 **Tuna**  
 In name:   
  - Tuna Salad  
   
 **beef**  
 In name:   
- - Beef Broccoli Stir Fry  
  - Beef Taco Meat  
+  
+In description:   
+ - Bratwurst  
+  
+**pork**  
+In name:   
+  
+In description:   
+ - Bratwurst  
   
 **chicken**  
 In name:   
- - Crispy Chicken Sandwich  
  - Plant-Based Chicken Tenders  
  - Giardiniera Chicken  
  - Plant Based Sweet & Sour Chicken  
