@@ -1,6 +1,6 @@
 # 2025-05-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-04 13:23:04  
+Updated at: 2025-05-04 15:18:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-04)  
 **beef**  
 In name:   
@@ -75,17 +75,13 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**steak**  
-In name:   
- - Island Spiced Beef Steak  
-  
 **Tuna**  
 In name:   
  - Tuna Salad  
   
 **beef**  
 In name:   
- - Island Spiced Beef Steak  
+ - Beef Meatballs  
  - Beef Taco Meat  
   
 In description:   
@@ -105,6 +101,7 @@ In name:
   
 In description:   
  - Corn Dog (Pork)  
+ - Beef Meatballs  
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-05-04)  
