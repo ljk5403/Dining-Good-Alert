@@ -1,6 +1,6 @@
 # 2025-05-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-04 16:15:38  
+Updated at: 2025-05-04 18:16:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-04)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -85,10 +85,6 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**steak**  
-In name:   
- - Island Spiced Beef Steak  
-  
 **Salmon**  
 In name:   
  - Tuscan Butter Salmon  
@@ -111,7 +107,7 @@ In description:
   
 **beef**  
 In name:   
- - Island Spiced Beef Steak  
+ - Beef Meatballs  
  - Beef Taco Meat  
   
 In description:   
@@ -123,10 +119,11 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken Pot Pie w/ Biscuit  
+ - Oven Roasted Chicken w/Lemon Butter  
  - Lemon Chicken Rice Soup  
   
 In description:   
+ - Beef Meatballs  
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-05-04)  

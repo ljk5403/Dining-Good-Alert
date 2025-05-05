@@ -1,14 +1,18 @@
 # 2025-05-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-04 18:16:28  
+Updated at: 2025-05-04 20:27:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-04)  
 **BBQ Pork Sandwich**  
 In name:   
  - BBQ Pork Sandwich  
   
-**Shrimp**  
+**catfish**  
 In name:   
- - Shrimp & Pork Andouille Sausage  
+ - Fried Catfish  
+  
+**fish**  
+In name:   
+ - Fried Catfish  
   
 **beef**  
 In name:   
@@ -16,26 +20,24 @@ In name:
  - Beef Taco Meat  
   
 In description:   
+ - Porkloin Fritter Plate  
  - Pepperoni Pizza Slice  
  - Vegan Taco Filling  
   
 **pork**  
 In name:   
- - Shrimp & Pork Andouille Sausage  
+ - Porkloin Fritter Plate  
  - Italian Pork Sausage  
  - BBQ Pork Sandwich  
   
 **chicken**  
 In name:   
- - Chicken Tenders Breaded  
  - Plant-Based Chicken Tenders  
  - Lemon Pepper Chicken Salad  
- - Chicken Teriyaki Stir Fry  
  - Fajita Chicken  
  - Lemon Chicken Rice Soup  
   
 In description:   
- - Shrimp & Pork Andouille Sausage  
  - Pepperoni Pizza Slice  
  - Great Greens  
   
@@ -85,6 +87,10 @@ In description:
 In name:   
  - Watermelon Slices  
   
+**Shrimp**  
+In name:   
+ - Coconut Shrimp  
+  
 **Salmon**  
 In name:   
  - Tuscan Butter Salmon  
@@ -98,6 +104,7 @@ In name:
   
 In description:   
  - Tuscan Butter Salmon  
+ - Vietnamese Pork with Rice  
   
 **curry**  
 In name:   
@@ -108,18 +115,18 @@ In description:
 **beef**  
 In name:   
  - Beef Meatballs  
- - Beef Taco Meat  
   
 In description:   
  - Grilled Cheeseburger  
   
 **pork**  
 In name:   
+ - Vietnamese Pork with Rice  
  - Pork Carnita  
   
 **chicken**  
 In name:   
- - Oven Roasted Chicken w/Lemon Butter  
+ - Taco Chicken  
  - Lemon Chicken Rice Soup  
   
 In description:   
