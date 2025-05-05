@@ -1,6 +1,6 @@
 # 2025-05-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-05 12:16:11  
+Updated at: 2025-05-05 13:21:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-05)  
 **beef**  
 In name:   
@@ -37,10 +37,6 @@ In description:
 In name:   
  - Melon Watermelon Whole Sliced  
   
-**steak**  
-In name:   
- - Brazilian Flank Steak  
-  
 **catfish**  
 In name:   
  - Blackened Catfish  
@@ -61,9 +57,6 @@ In name:
 In name:   
  - Lamb & Beef Gyro Sandwich  
  - Beef Stroganoff Creamy  
-  
-In description:   
- - Brazilian Flank Steak  
   
 **chicken**  
 In name:   
@@ -97,6 +90,7 @@ In description:
 **pork**  
 In name:   
  - Italian Pork Sausage  
+ - Pork Sausage Links  
   
 In description:   
  - Pizza Slice Hawaiian  
@@ -140,6 +134,7 @@ In name:
   
 **pork**  
 In name:   
+ - Andouille Pork Sausage  
  - Italian Pork Sausage  
   
 **chicken**  
@@ -186,6 +181,10 @@ In description:
  - Great Greens  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-05-05)  
+**clam**  
+In name:   
+ - Clam Strips  
+  
 **Cod**  
 In name:   
  - Fried Cod Basket  

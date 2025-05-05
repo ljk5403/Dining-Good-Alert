@@ -1,6 +1,6 @@
 # 2025-05-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-05 12:16:13  
+Updated at: 2025-05-05 13:21:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-05)  
 **drumstick**  
 In name:   
@@ -77,6 +77,10 @@ In name:
 In name:   
  - Watermelon Slices  
   
+**Cod**  
+In name:   
+ - Lemon Pepper Cod Fillet  
+  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
@@ -94,7 +98,6 @@ In description:
   
 **pork**  
 In name:   
- - Herb Crusted Pork Loin  
  - Italian Pork Sausage  
   
 **chicken**  
