@@ -1,6 +1,6 @@
 # 2025-05-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-05 13:21:47  
+Updated at: 2025-05-05 15:20:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-05)  
 **drumstick**  
 In name:   
@@ -77,6 +77,10 @@ In name:
 In name:   
  - Watermelon Slices  
   
+**Shrimp**  
+In name:   
+ - Chipotle Shrimp  
+  
 **Cod**  
 In name:   
  - Lemon Pepper Cod Fillet  
@@ -104,7 +108,6 @@ In name:
 In name:   
  - Beef & Chicken Meatballs  
  - Pizza Slice Mediterranean Chicken  
- - Chicken Tinga  
  - Chicken Noodle Soup  
  - BYO - MTO Chicken Wrap - Gordon  
  - Chicken Thigh Strip  
@@ -132,7 +135,6 @@ In description:
 **beef**  
 In name:   
  - Beef Taco Meat  
- - Bulgogi Beef  
   
 **pork**  
 In name:   
@@ -148,7 +150,6 @@ In name:
  - Chicken Drumstick BBQ Glazed  
  - Chicken Tinga  
  - Chicken Noodle Soup  
- - Bulgogi Chicken  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  

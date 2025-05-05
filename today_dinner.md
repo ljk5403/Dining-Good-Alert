@@ -1,6 +1,6 @@
 # 2025-05-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-05 15:20:04  
+Updated at: 2025-05-05 16:16:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-05)  
 **drumstick**  
 In name:   
@@ -19,7 +19,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Ravioli Plain  
  - Beef Masaman Thai Curry  
  - Beef Taco Meat  
  - Beef Barbacoa  
@@ -97,23 +96,25 @@ In name:
   
 In description:   
  - Swedish Meatballs (AYCTE)  
+ - Pepperoni Pizza Slice  
  - Blackened Hamburger  
  - Vegan Sloppy Joe  
   
 **pork**  
 In name:   
  - Italian Pork Sausage  
+ - Hawaiian (Pork) Pizza Slice  
   
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
- - Pizza Slice Mediterranean Chicken  
  - Chicken Noodle Soup  
  - BYO - MTO Chicken Wrap - Gordon  
  - Chicken Thigh Strip  
   
 In description:   
  - Swedish Meatballs (AYCTE)  
+ - Pepperoni Pizza Slice  
  - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-05-05)  
