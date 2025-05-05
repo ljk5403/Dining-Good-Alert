@@ -1,6 +1,6 @@
 # 2025-05-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-05 10:19:29  
+Updated at: 2025-05-05 11:23:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-05)  
 **drumstick**  
 In name:   
@@ -26,6 +26,7 @@ In name:
   
 In description:   
  - Italian Meat Sauce  
+ - Pepperoni Pizza Slice  
  - Chicago-Style Hot Dog  
   
 **pork**  
@@ -44,6 +45,7 @@ In name:
  - Chicken Noodle Soup  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-05-05)  
@@ -117,10 +119,6 @@ In name:
 In name:   
  - Chicken Drumstick BBQ Glazed  
   
-**Tuna**  
-In name:   
- - Tuna Salad  
-  
 **fish**  
 In name:   
   
@@ -142,6 +140,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Grilled Chicken Sandwich  
  - Chicken Drumstick BBQ Glazed  
  - Chicken Tinga  
@@ -153,9 +152,29 @@ In description:
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-05-05)  
+**Poke Bar**  
+In name:   
+ - Poke Bar Carsons (AYCTE)  
+ - Build Your Own Poke Bar Carsons  
+  
 **Shrimp**  
 In name:   
  - GF & DF Shrimp Scampi w/Garlic/Parsley  
+  
+In description:   
+ - Poke Bar Carsons (AYCTE)  
+  
+**Tuna**  
+In name:   
+  
+In description:   
+ - Poke Bar Carsons (AYCTE)  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Poke Bar Carsons (AYCTE)  
   
 **beef**  
 In name:   

@@ -1,6 +1,6 @@
 # 2025-05-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-05 10:19:26  
+Updated at: 2025-05-05 11:23:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-05)  
 **beef**  
 In name:   
@@ -11,6 +11,7 @@ In name:
  - Beef Ravioli Plain  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Grilled Cheeseburger  
  - Italian Meat Sauce  
   
@@ -25,9 +26,10 @@ In description:
 In name:   
  - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
- - Chicken Noodle Soup  
+ - Lemon Chicken Rice Soup  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-05-05)  
@@ -73,6 +75,10 @@ In name:
 In name:   
  - Island Spiced Beef Steak  
   
+**Shrimp**  
+In name:   
+ - Chipotle Shrimp  
+  
 **Cod**  
 In name:   
  - Caribbean Cod  
@@ -99,7 +105,6 @@ In description:
 In name:   
  - Beef & Chicken Meatballs  
  - Chicken Sausage Patties  
- - Chicken Tinga  
  - Chicken Noodle Soup  
   
 In description:   
@@ -120,10 +125,6 @@ In name:
 In description:   
  - Petite Fish Sandwich  
   
-**Tuna**  
-In name:   
- - Tuna Salad  
-  
 **fish**  
 In name:   
  - Petite Fish Sandwich  
@@ -136,7 +137,6 @@ In description:
 In name:   
  - Beef Stroganoff Creamy  
  - Beef Taco Meat  
- - Bulgogi Beef  
   
 **pork**  
 In name:   
@@ -144,16 +144,20 @@ In name:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
  - Lemon Chicken Rice Soup  
  - Chicken Tortilla Soup  
- - Bulgogi Chicken  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-05-05)  
+**BBQ Pork Sandwich**  
+In name:   
+ - BBQ Pork Sandwich  
+  
 **beef**  
 In name:   
  - Beef Tri Tip Carved w/ Chimichurri  
@@ -165,6 +169,8 @@ In description:
 **pork**  
 In name:   
  - Chicken Biscuit w/ Sausage (Pork) Gravy  
+ - Baked Pork Ham  
+ - BBQ Pork Sandwich  
   
 In description:   
  - Bacon, Egg & Cheese Bagel  
@@ -201,7 +207,6 @@ In description:
 **chicken**  
 In name:   
  - Mediterranean Chicken  
- - Chicken Noodle Soup  
   
 In description:   
  - Great Greens  
