@@ -1,6 +1,6 @@
 # 2025-05-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-05 10:19:38  
+Updated at: 2025-05-05 11:23:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-06)  
 **Pakoras**  
 In name:   
@@ -131,12 +131,6 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**Shrimp**  
-In name:   
-  
-In description:   
- - BYO Bar - Four Lakes Bulgogi  
-  
 **Tuna**  
 In name:   
  - Tuna Salad  
@@ -145,7 +139,8 @@ In name:
 In name:   
   
 In description:   
- - BYO Bar - Four Lakes Bulgogi  
+ - California Roll  (FujiSan)  
+ - Tempura Roll (FujiSan)  
   
 **lamb**  
 In name:   
@@ -156,7 +151,6 @@ In name:
  - Beef & Tater Tot Bake  
  - Beef Taco Meat  
  - Beef & Bean Chili  
- - Bulgogi Beef  
   
 **pork**  
 In name:   
@@ -165,7 +159,6 @@ In name:
 **chicken**  
 In name:   
  - Italian Chicken  
- - Bulgogi Chicken  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  

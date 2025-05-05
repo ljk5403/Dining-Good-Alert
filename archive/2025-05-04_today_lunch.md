@@ -1,6 +1,6 @@
 # 2025-05-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-05 09:18:35  
+Updated at: 2025-05-05 10:19:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-05)  
 **beef**  
 In name:   
@@ -77,10 +77,6 @@ In name:
 In name:   
  - Caribbean Cod  
   
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad  
-  
 **beef**  
 In name:   
  - Island Spiced Beef Steak  
@@ -149,7 +145,8 @@ In name:
 **chicken**  
 In name:   
  - Chicken Tinga  
- - Chicken Noodle Soup  
+ - Lemon Chicken Rice Soup  
+ - Chicken Tortilla Soup  
  - Bulgogi Chicken  
   
 In description:   
@@ -167,6 +164,7 @@ In description:
   
 **pork**  
 In name:   
+ - Chicken Biscuit w/ Sausage (Pork) Gravy  
   
 In description:   
  - Bacon, Egg & Cheese Bagel  
@@ -174,7 +172,8 @@ In description:
 **chicken**  
 In name:   
  - Chicken Tinga & Scallion Quesadilla  
- - Chicken Noodle Soup  
+ - Chicken Biscuit w/ Sausage (Pork) Gravy  
+ - Chicken Sausage Patty  
   
 In description:   
  - Pepperoni Pizza Slice  
