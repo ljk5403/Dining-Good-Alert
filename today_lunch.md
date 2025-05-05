@@ -1,6 +1,6 @@
 # 2025-05-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-05 01:27:39  
+Updated at: 2025-05-05 09:18:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-05)  
 **beef**  
 In name:   
@@ -69,10 +69,6 @@ In name:
  - Chicken Noodle Soup  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-05-05)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
 **steak**  
 In name:   
  - Island Spiced Beef Steak  
@@ -93,19 +89,25 @@ In name:
  - Barbacoa Beef w/Mango Habanero Sandwich  
  - Beef Taco Meat  
   
+In description:   
+ - Pepperoni Pizza Slice  
+  
 **pork**  
 In name:   
  - Italian Pork Sausage  
   
+In description:   
+ - Pizza Slice Hawaiian  
+  
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
- - Pizza Slice Mediterranean Chicken  
+ - Chicken Sausage Patties  
  - Chicken Tinga  
  - Chicken Noodle Soup  
   
 In description:   
- - Gordon's Great Greens  
+ - Pepperoni Pizza Slice  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-05-05)  
 **watermelon**  
@@ -116,12 +118,19 @@ In name:
 In name:   
  - Broccoli Rabe  
   
+**Cod**  
+In name:   
+  
+In description:   
+ - Petite Fish Sandwich  
+  
 **Tuna**  
 In name:   
  - Tuna Salad  
   
 **fish**  
 In name:   
+ - Petite Fish Sandwich  
   
 In description:   
  - Tempura Roll (FujiSan)  
@@ -133,12 +142,8 @@ In name:
  - Beef Taco Meat  
  - Bulgogi Beef  
   
-In description:   
- - Reuben Knockwurst (Pork) on Pretzel Bun  
-  
 **pork**  
 In name:   
- - Reuben Knockwurst (Pork) on Pretzel Bun  
  - Italian Pork Sausage  
   
 **chicken**  
