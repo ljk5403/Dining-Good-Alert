@@ -1,6 +1,6 @@
 # 2025-05-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-06 09:18:33  
+Updated at: 2025-05-06 10:24:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-06)  
 **Pakoras**  
 In name:   
@@ -139,6 +139,7 @@ In name:
  - Montreal Chicken  
  - Beef & Chicken Meatballs  
  - Chicken Sausage Patties  
+ - Chicken Chili - Recipe Contest 2025  
   
 In description:   
  - Pepperoni Pizza Slice  
@@ -157,10 +158,6 @@ In description:
 **mahi mahi**  
 In name:   
  - Blackened Mahi Mahi  
-  
-**Tuna**  
-In name:   
- - Tuna Salad  
   
 **fish**  
 In name:   
@@ -189,6 +186,7 @@ In name:
  - Smoked Chicken Breast  
  - Grilled Chicken & Cheese Sandwich  
  - Italian Chicken  
+ - Lemon Pepper Chicken Salad  
  - Bulgogi Chicken  
   
 In description:   
@@ -207,10 +205,13 @@ In description:
 In name:   
  - Guajillo Shrimp  
   
+**curry**  
+In name:   
+ - Soup Coconut Curry Cauliflower  
+  
 **beef**  
 In name:   
  - Pizza Slice Italian Beef  
- - Beef & Bean Chili  
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice  
@@ -229,6 +230,7 @@ In name:
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
  - Plant Based Sweet & Sour Chicken  
+ - Chicken Tortilla Soup  
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice  
