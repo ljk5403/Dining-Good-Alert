@@ -1,6 +1,6 @@
 # 2025-05-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-06 12:16:23  
+Updated at: 2025-05-06 13:25:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-06)  
 **Pakoras**  
 In name:   
@@ -102,10 +102,6 @@ In description:
 In name:   
  - Philly Cheesesteak Sandwich  
  - Tempeh Philly Cheesesteak Sandwich  
- - Spicy Steak Fajita  
-  
-In description:   
- - Montreal Chicken  
   
 **curry**  
 In name:   
@@ -117,26 +113,26 @@ In description:
 In name:   
  - Beef Sirloin Tips  
  - Beef & Chicken Meatballs  
- - Bulgogi Beef  
  - Beef Taco Meat  
   
 In description:   
  - Italian Meat Sauce  
  - Pepperoni Pizza Slice  
  - Philly Cheesesteak Sandwich  
- - Spicy Steak Fajita  
   
 **pork**  
 In name:   
+ - Roasted Pork Loin  
  - Pork Italian Sausage  
  - Pork Sausage Patties  
+ - Bulgogi Pork  
+ - Pork Carnita  
   
 In description:   
  - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
- - Montreal Chicken  
  - Beef & Chicken Meatballs  
  - Chicken Sausage Patties  
  - Chicken Chili - Recipe Contest 2025  
