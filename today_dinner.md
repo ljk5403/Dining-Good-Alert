@@ -1,6 +1,6 @@
 # 2025-05-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-05 18:16:52  
+Updated at: 2025-05-05 20:25:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-05)  
 **drumstick**  
 In name:   
@@ -10,7 +10,6 @@ In name:
 In name:   
   
 In description:   
- - Filipino Barbecue - Pork  
  - Beef Masaman Thai Curry  
   
 **curry**  
@@ -19,6 +18,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Goulash w/Egg Noodles  
  - Beef Masaman Thai Curry  
  - Beef Taco Meat  
  - Beef Barbacoa  
@@ -26,15 +26,15 @@ In name:
 In description:   
  - Italian Meat Sauce  
  - Pepperoni Pizza Slice  
- - Chicago-Style Hot Dog  
+ - Bratwurst  
   
 **pork**  
 In name:   
- - Filipino Barbecue - Pork  
  - Italian Pork Sausage  
   
 In description:   
  - Pizza Slice Sausage  
+ - Bratwurst  
   
 **chicken**  
 In name:   
@@ -76,13 +76,10 @@ In name:
 In name:   
  - Watermelon Slices  
   
-**Shrimp**  
-In name:   
- - Chipotle Shrimp  
-  
 **Cod**  
 In name:   
  - Lemon Pepper Cod Fillet  
+ - Battered Cod  
   
 **Tuna**  
 In name:   
@@ -97,7 +94,6 @@ In name:
 In description:   
  - Swedish Meatballs (AYCTE)  
  - Pepperoni Pizza Slice  
- - Blackened Hamburger  
  - Vegan Sloppy Joe  
   
 **pork**  
