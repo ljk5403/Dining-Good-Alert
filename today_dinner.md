@@ -1,6 +1,6 @@
 # 2025-05-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-06 16:17:08  
+Updated at: 2025-05-06 17:17:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-06)  
 **Pakoras**  
 In name:   
@@ -111,22 +111,26 @@ In name:
   
 In description:   
  - Italian Meat Sauce  
+ - Pepperoni Pizza Slice  
   
 **pork**  
 In name:   
- - Tavern Style Sausage Pizza (Pork)  
+ - Italian Pork Sausage  
  - Bulgogi Pork  
  - Pork Carnita  
  - Pork Sausage Patty  
+  
+In description:   
+ - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
  - Baked Chicken (2 piece)  
  - Beef & Chicken Meatballs  
- - Mediterranean Chicken  
  - Chicken Sausage Patty  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-05-06)  
@@ -187,7 +191,7 @@ In name:
 **beef**  
 In name:   
  - Pizza Slice Italian Beef  
- - Texas BBQ Sliced Beef Brisket  
+ - Beef Meatloaf  
  - Beef & Bean Chili  
   
 In description:   
