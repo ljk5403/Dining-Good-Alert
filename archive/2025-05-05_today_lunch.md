@@ -1,6 +1,6 @@
 # 2025-05-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-06 13:25:51  
+Updated at: 2025-05-06 15:20:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-06)  
 **Pakoras**  
 In name:   
@@ -100,6 +100,7 @@ In description:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-05-06)  
 **steak**  
 In name:   
+ - Brazilian Flank Steak  
  - Philly Cheesesteak Sandwich  
  - Tempeh Philly Cheesesteak Sandwich  
   
@@ -116,13 +117,13 @@ In name:
  - Beef Taco Meat  
   
 In description:   
+ - Brazilian Flank Steak  
  - Italian Meat Sauce  
  - Pepperoni Pizza Slice  
  - Philly Cheesesteak Sandwich  
   
 **pork**  
 In name:   
- - Roasted Pork Loin  
  - Pork Italian Sausage  
  - Pork Sausage Patties  
  - Bulgogi Pork  

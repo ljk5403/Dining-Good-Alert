@@ -1,6 +1,6 @@
 # 2025-05-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-06 15:20:21  
+Updated at: 2025-05-06 16:17:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-06)  
 **Pakoras**  
 In name:   
@@ -86,10 +86,6 @@ In description:
  - Station Recipe - Liz - Great Greens  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-05-06)  
-**steak**  
-In name:   
- - Spicy Steak Fajita  
-  
 **Cod**  
 In name:   
  - Basket Beer Battered Cod  
@@ -110,22 +106,25 @@ In name:
  - Corned Beef  
  - Beef Gravy  
  - Beef & Chicken Meatballs  
- - Bulgogi Beef  
  - Beef Taco Meat  
  - Beef & Bean Chili  
   
 In description:   
- - Spicy Steak Fajita  
+ - Italian Meat Sauce  
   
 **pork**  
 In name:   
  - Tavern Style Sausage Pizza (Pork)  
+ - Bulgogi Pork  
+ - Pork Carnita  
+ - Pork Sausage Patty  
   
 **chicken**  
 In name:   
  - Baked Chicken (2 piece)  
  - Beef & Chicken Meatballs  
  - Mediterranean Chicken  
+ - Chicken Sausage Patty  
   
 In description:   
  - Gordon's Great Greens  

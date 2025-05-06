@@ -1,6 +1,6 @@
 # 2025-05-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-06 13:25:52  
+Updated at: 2025-05-06 15:20:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-06)  
 **Pakoras**  
 In name:   
@@ -86,18 +86,24 @@ In description:
  - Station Recipe - Liz - Great Greens  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-05-06)  
-**broccoli rabe**  
-In name:   
-  
-In description:   
- - Tempeh w/Red Peppers & Broc Rabe  
-  
 **steak**  
 In name:   
  - Spicy Steak Fajita  
   
+**Cod**  
+In name:   
+ - Basket Beer Battered Cod  
+ - Basket Vegan Cod Beer Battered  
+  
+**fish**  
+In name:   
+  
 In description:   
- - Montreal Chicken  
+ - Basket Vegan Cod Beer Battered  
+  
+**curry**  
+In name:   
+ - Thai Veggie Meatballs w/ Green Curry  
   
 **beef**  
 In name:   
@@ -117,10 +123,9 @@ In name:
   
 **chicken**  
 In name:   
- - Montreal Chicken  
+ - Baked Chicken (2 piece)  
  - Beef & Chicken Meatballs  
  - Mediterranean Chicken  
- - Crispy Chicken Sandwich  
   
 In description:   
  - Gordon's Great Greens  
@@ -135,10 +140,6 @@ In name:
   
 In description:   
  - BYO Bar - Four Lakes Bulgogi  
-  
-**Tuna**  
-In name:   
- - Tuna Salad  
   
 **fish**  
 In name:   
@@ -163,7 +164,9 @@ In name:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Italian Chicken  
+ - Lemon Chicken Rice Soup  
  - Bulgogi Chicken  
   
 In description:   
