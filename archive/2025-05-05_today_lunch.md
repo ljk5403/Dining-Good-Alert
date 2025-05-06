@@ -1,6 +1,6 @@
 # 2025-05-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-06 01:26:41  
+Updated at: 2025-05-06 09:18:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-06)  
 **Pakoras**  
 In name:   
@@ -98,17 +98,14 @@ In description:
  - Station Recipe - Liz - Great Greens  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-05-06)  
-**drumstick**  
-In name:   
-  
-In description:   
- - Irish Roast Chicken w/Leeks and Bacon  
-  
 **steak**  
 In name:   
  - Philly Cheesesteak Sandwich  
  - Tempeh Philly Cheesesteak Sandwich  
  - Spicy Steak Fajita  
+  
+In description:   
+ - Montreal Chicken  
   
 **curry**  
 In name:   
@@ -122,25 +119,29 @@ In name:
  - Beef & Chicken Meatballs  
  - Beef Bulgogi Taco  
  - Beef Taco Meat  
- - Beef & Bean Chili  
   
 In description:   
+ - Italian Meat Sauce  
+ - Pepperoni Pizza Slice  
  - Philly Cheesesteak Sandwich  
  - Spicy Steak Fajita  
   
 **pork**  
 In name:   
- - Tavern Style Sausage Pizza (Pork)  
+ - Pork Italian Sausage  
+ - Pork Sausage Patties  
+  
+In description:   
+ - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
- - Irish Roast Chicken w/Leeks and Bacon  
+ - Montreal Chicken  
  - Beef & Chicken Meatballs  
- - Mediterranean Chicken  
  - Chicken Sausage Patties  
   
 In description:   
- - Gordon's Great Greens  
+ - Pepperoni Pizza Slice  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-05-06)  
 **watermelon**  
@@ -241,7 +242,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef & Bean Chili  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
@@ -255,6 +255,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Lemon Chicken Rice Soup  
  - Huli Huli Chicken  
   
 In description:   
