@@ -1,6 +1,6 @@
 # 2025-05-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-06 12:16:25  
+Updated at: 2025-05-06 13:25:52  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-06)  
 **Pakoras**  
 In name:   
@@ -66,7 +66,6 @@ In description:
 **beef**  
 In name:   
  - Beef Broccoli Stir Fry  
- - Plant-Based Beef & Broccoli Stir Fry  
  - Beef & Bean Chili  
   
 In description:   
