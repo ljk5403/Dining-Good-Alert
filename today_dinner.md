@@ -1,6 +1,6 @@
 # 2025-05-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-06 18:16:44  
+Updated at: 2025-05-06 20:26:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-06)  
 **Pakoras**  
 In name:   
@@ -11,18 +11,20 @@ In name:
   
 In description:   
  - Build Your Own Curry Bowl  
+ - Beef Masaman Thai Curry  
   
 **curry**  
 In name:   
  - Build Your Own Curry Bowl  
  - Build Your Own Curry Bowl - Rhetas  
+ - Beef Masaman Thai Curry  
  - Black Eyed Pea Curry w/ Rice  
  - Curry Potatoes  
   
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Poutine w/Beef Gravy  
+ - Beef Masaman Thai Curry  
  - Mediterranean Beef  
  - Beef & Bean Chili  
   
@@ -35,7 +37,7 @@ In name:
  - Beef & Chicken Meatballs  
  - Plant Based Chicken Strips  
  - Lemon Pepper Chicken Salad  
- - Chicken Vindaloo - w/ Rice  
+ - Crispy Chicken Sandwich  
  - Mediterranean Chicken  
   
 In description:   
@@ -63,9 +65,13 @@ In name:
 In description:   
  - Salmon Spicy Roll (FujiSan)  
   
+**curry**  
+In name:   
+ - Beef Curry Stew  
+  
 **beef**  
 In name:   
- - Beef Broccoli Stir Fry  
+ - Beef Curry Stew  
  - Beef & Bean Chili  
   
 In description:   
@@ -103,7 +109,7 @@ In name:
   
 **beef**  
 In name:   
- - Corned Beef  
+ - Beef Sirloin Tips  
  - Beef Gravy  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
@@ -125,7 +131,7 @@ In description:
   
 **chicken**  
 In name:   
- - Baked Chicken (2 piece)  
+ - Chicken Pot Pie w/Biscuit  
  - Beef & Chicken Meatballs  
  - Chicken Sausage Patty  
   
@@ -138,6 +144,10 @@ In description:
 In name:   
  - Watermelon Slices  
   
+**drumstick**  
+In name:   
+ - Chicken Drumstick BBQ Glazed  
+  
 **Shrimp**  
 In name:   
   
@@ -149,10 +159,6 @@ In name:
   
 In description:   
  - BYO Bar - Four Lakes Bulgogi  
-  
-**lamb**  
-In name:   
- - Smoked Leg of Lamb  
   
 **beef**  
 In name:   
@@ -169,6 +175,7 @@ In name:
 In name:   
  - Lemon Pepper Chicken Salad  
  - Italian Chicken  
+ - Chicken Drumstick BBQ Glazed  
  - Lemon Chicken Rice Soup  
  - Bulgogi Chicken  
   
