@@ -1,6 +1,6 @@
 # 2025-05-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-07 15:20:22  
+Updated at: 2025-05-07 16:15:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-07)  
 **pork**  
 In name:   
@@ -17,7 +17,6 @@ In name:
  - Pizza Slice BBQ Chicken & Bacon  
  - Lemon Pepper Chicken Salad  
  - Sesame Chicken  
- - Plant Based Sesame Chicken (AYCTE) (VN)  
  - Chicken Tortilla Soup  
   
 In description:   
@@ -79,20 +78,9 @@ In name:
 In description:   
  - BYO Bar - Street Taco - Gordon  
   
-**Shrimp**  
-In name:   
- - Sweet & Sour Shrimp  
-  
 **Tilapia**  
 In name:   
  - Blackened Tilapia  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Tempura Roll (FujiSan)  
- - California Roll  (FujiSan)  
   
 **beef**  
 In name:   
@@ -181,15 +169,9 @@ In description:
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-05-07)  
-**Salmon**  
+**Cod**  
 In name:   
- - Island Spiced Salmon  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Island Spiced Salmon  
+ - Baked Lemon Butter Cod  
   
 **curry**  
 In name:   
