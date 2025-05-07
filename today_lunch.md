@@ -1,6 +1,6 @@
 # 2025-05-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-07 11:24:10  
+Updated at: 2025-05-07 12:16:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-07)  
 **broccoli rabe**  
 In name:   
@@ -115,7 +115,6 @@ In name:
 In name:   
  - Broasted Chicken 2 pc  
  - Beef & Chicken Meatballs  
- - Lemon Pepper Chicken Salad  
  - Chicken Sausage Patties  
  - General Tso's Chicken  
  - Soup Lemony Chicken with Rice  

@@ -1,6 +1,6 @@
 # 2025-05-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-07 10:20:52  
+Updated at: 2025-05-07 11:24:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-07)  
 **broccoli rabe**  
 In name:   
@@ -28,7 +28,6 @@ In name:
  - Chicken Parmigiana  
  - Pizza Slice BBQ Chicken & Bacon  
  - Lemon Pepper Chicken Salad  
- - Sesame Chicken  
  - Fajita Chicken  
  - Chicken Tortilla Soup  
   
@@ -119,6 +118,7 @@ In name:
  - Lemon Pepper Chicken Salad  
  - Chicken Sausage Patties  
  - General Tso's Chicken  
+ - Soup Lemony Chicken with Rice  
   
 In description:   
  - Pepperoni Pizza Slice  
@@ -128,6 +128,12 @@ In description:
 **watermelon**  
 In name:   
  - Watermelon Slices  
+  
+**Shrimp**  
+In name:   
+  
+In description:   
+ - BYO Bar - Four Lakes Bulgogi  
   
 **Cod**  
 In name:   
@@ -139,10 +145,12 @@ In name:
 In description:   
  - Vietnamese Pork with Rice  
  - Miso Cod  
+ - BYO Bar - Four Lakes Bulgogi  
   
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
+ - Bulgogi Beef  
   
 In description:   
  - Italian Meat Sauce  
@@ -157,7 +165,8 @@ In name:
  - Lemon Pepper Chicken Salad  
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
- - Chicken Tortilla Soup  
+ - Lemon Chicken Rice Soup  
+ - Bulgogi Chicken  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
@@ -167,6 +176,7 @@ In description:
 **beef**  
 In name:   
  - Mediterranean Beef  
+ - Beef Chili  
   
 **pork**  
 In name:   
@@ -180,7 +190,6 @@ In description:
 **chicken**  
 In name:   
  - Mediterranean Chicken  
- - Chicken Tortilla Soup  
  - Chicken Sausage Patty  
  - Buffalo Chicken Sliders  
   

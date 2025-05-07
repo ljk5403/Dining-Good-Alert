@@ -1,6 +1,6 @@
 # 2025-05-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-07 10:20:55  
+Updated at: 2025-05-07 11:24:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-07)  
 **pork**  
 In name:   
@@ -138,13 +138,26 @@ In description:
 In name:   
  - Watermelon Slices  
   
+**Shrimp**  
+In name:   
+  
+In description:   
+ - BYO Bar - Four Lakes Bulgogi  
+  
 **Tilapia**  
 In name:   
  - Tilapia Chipotle Lime Crusted  
   
+**fish**  
+In name:   
+  
+In description:   
+ - BYO Bar - Four Lakes Bulgogi  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
+ - Bulgogi Beef  
   
 In description:   
  - Pork Bratwurst Sandwich  
@@ -162,6 +175,7 @@ In name:
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
  - Chicken Tortilla Soup  
+ - Bulgogi Chicken  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
