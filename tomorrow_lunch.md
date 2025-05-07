@@ -1,6 +1,6 @@
 # 2025-05-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-07 10:20:57  
+Updated at: 2025-05-07 11:24:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-08)  
 **fish**  
 In name:   
@@ -114,14 +114,27 @@ In name:
 In name:   
  - Jamaican Jerk Chicken Drumstick  
   
+**Shrimp**  
+In name:   
+  
+In description:   
+ - BYO Bar - Four Lakes Bulgogi  
+  
 **Tuna**  
 In name:   
  - Tuna Salad  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - BYO Bar - Four Lakes Bulgogi  
   
 **beef**  
 In name:   
  - Italian Beef Sandwich  
  - Beef Taco Meat  
+ - Bulgogi Beef  
   
 In description:   
  - Reuben  
@@ -139,6 +152,7 @@ In name:
  - Spicy Fajita Chicken  
  - Diced Chicken  
  - Chicken Dumpling Soup  
+ - Bulgogi Chicken  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  

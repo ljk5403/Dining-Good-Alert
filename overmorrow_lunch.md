@@ -1,6 +1,6 @@
 # 2025-05-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-07 10:21:05  
+Updated at: 2025-05-07 11:24:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-09)  
 **Poke Bar**  
 In name:   
@@ -167,6 +167,7 @@ In name:
   
 In description:   
  - Masala Spiced Salmon  
+ - California Roll  (FujiSan)  
   
 **curry**  
 In name:   
