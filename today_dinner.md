@@ -1,6 +1,6 @@
 # 2025-05-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-07 13:25:54  
+Updated at: 2025-05-07 15:20:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-07)  
 **pork**  
 In name:   
@@ -32,6 +32,10 @@ In name:
 In name:   
  - Tandoori Chicken  
   
+**Tilapia**  
+In name:   
+ - Tilapia Chipotle Lime Crusted  
+  
 **Tuna**  
 In name:   
  - Tuna Salad  
@@ -55,7 +59,7 @@ In description:
   
 **chicken**  
 In name:   
- - Sweet & Spicy Orange Chicken  
+ - Sweet & Sour Chicken  
  - Tandoori Chicken  
  - Chicken Tortilla Soup  
   
@@ -79,10 +83,6 @@ In description:
 In name:   
  - Sweet & Sour Shrimp  
   
-**Cod**  
-In name:   
- - Basque Style Cod  
-  
 **Tilapia**  
 In name:   
  - Blackened Tilapia  
@@ -100,7 +100,6 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Italian Meat Sauce  
  - Pepperoni Pizza Slice  
  - Meat Lovers w/ Bacon (Pork) Pizza Slice  
  - Vegan Taco Filling  
