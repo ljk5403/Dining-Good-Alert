@@ -1,6 +1,6 @@
 # 2025-05-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-07 09:18:58  
+Updated at: 2025-05-07 10:20:52  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-07)  
 **broccoli rabe**  
 In name:   
@@ -129,12 +129,6 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**Shrimp**  
-In name:   
-  
-In description:   
- - BYO Bar - Four Lakes Bulgogi  
-  
 **Cod**  
 In name:   
  - Miso Cod  
@@ -145,12 +139,10 @@ In name:
 In description:   
  - Vietnamese Pork with Rice  
  - Miso Cod  
- - BYO Bar - Four Lakes Bulgogi  
   
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Bulgogi Beef  
   
 In description:   
  - Italian Meat Sauce  
@@ -166,7 +158,6 @@ In name:
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
  - Chicken Tortilla Soup  
- - Bulgogi Chicken  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
