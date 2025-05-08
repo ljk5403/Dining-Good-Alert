@@ -1,6 +1,6 @@
 # 2025-05-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-08 09:16:26  
+Updated at: 2025-05-08 10:19:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-08)  
 **fish**  
 In name:   
@@ -83,15 +83,18 @@ In name:
   
 In description:   
  - Coconut Thai Curry Mahi Mahi  
+ - Beef Masaman Thai Curry  
   
 **curry**  
 In name:   
  - Coconut Thai Curry Mahi Mahi  
- - Seitan & Coconut Thai Curry  
+ - Coconut Tofu w/Red Curry Sauce  
+ - Beef Masaman Thai Curry  
   
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
+ - Beef Masaman Thai Curry  
  - Beef Taco Meat  
   
 In description:   
@@ -182,7 +185,7 @@ In description:
 **chicken**  
 In name:   
  - Butter Chicken  
- - Chicken Dumpling Soup  
+ - Chicken Tortilla Soup  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  

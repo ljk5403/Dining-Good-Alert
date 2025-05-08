@@ -1,6 +1,6 @@
 # 2025-05-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-08 10:19:51  
+Updated at: 2025-05-08 11:23:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-08)  
 **fish**  
 In name:   
@@ -110,7 +110,7 @@ In name:
   
 **chicken**  
 In name:   
- - Plant-Based Chicken & Dumplings  
+ - Plant-Based Chicken & Gravy (VN)  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Chicken Tinga  
@@ -198,7 +198,7 @@ In name:
   
 **curry**  
 In name:   
- - Indian Vegetable Curry  
+ - Curry Cauliflower & Butternut Squash  
   
 **beef**  
 In name:   
