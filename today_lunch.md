@@ -1,6 +1,6 @@
 # 2025-05-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-08 01:27:26  
+Updated at: 2025-05-08 09:16:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-08)  
 **fish**  
 In name:   
@@ -66,6 +66,10 @@ In name:
  - Lemon Pepper Chicken Salad  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-05-08)  
+**Shrimp**  
+In name:   
+ - Redhook Ale Breaded Shrimp  
+  
 **mahi mahi**  
 In name:   
  - Coconut Thai Curry Mahi Mahi  
@@ -91,6 +95,7 @@ In name:
  - Beef Taco Meat  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Pizza Slice Deluxe (Pork)  
  - Mushroom Swiss Burger  
   
@@ -98,21 +103,19 @@ In description:
 In name:   
  - Baked Pork Chops w/Dressing  
  - Pork Gravy with Vegetables  
- - Cubano (Pork) Pizza  
  - Pizza Slice Deluxe (Pork)  
   
 **chicken**  
 In name:   
- - Chicken Baked  (1 piece)  
  - Plant-Based Chicken & Dumplings  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
- - Spicy Fajita Chicken  
+ - Chicken Tinga  
  - Chicken Dumpling Soup  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Pizza Slice Deluxe (Pork)  
- - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-05-08)  
 **watermelon**  
@@ -123,27 +126,10 @@ In name:
 In name:   
  - Jamaican Jerk Chicken Drumstick  
   
-**Shrimp**  
-In name:   
-  
-In description:   
- - BYO Bar - Four Lakes Bulgogi  
-  
-**Tuna**  
-In name:   
- - Tuna Salad  
-  
-**fish**  
-In name:   
-  
-In description:   
- - BYO Bar - Four Lakes Bulgogi  
-  
 **beef**  
 In name:   
  - Italian Beef Sandwich  
  - Beef Taco Meat  
- - Bulgogi Beef  
   
 In description:   
  - Reuben  
@@ -158,10 +144,10 @@ In description:
 In name:   
  - Jamaican Jerk Chicken Drumstick  
  - Plant-Based Chicken Tenders  
+ - Lemon Pepper Chicken Salad  
  - Spicy Fajita Chicken  
  - Diced Chicken  
  - Chicken Dumpling Soup  
- - Bulgogi Chicken  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
@@ -226,7 +212,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Dumpling Soup  
  - Chicken Jollof Rice (Non-Halal)  
   
 In description:   

@@ -1,6 +1,6 @@
 # 2025-05-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-08 01:27:27  
+Updated at: 2025-05-08 09:16:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-08)  
 **Chicken Drummies**  
 In name:   
@@ -139,27 +139,10 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**Shrimp**  
-In name:   
-  
-In description:   
- - BYO Bar - Four Lakes Bulgogi  
-  
-**Tuna**  
-In name:   
- - Tuna Salad  
-  
-**fish**  
-In name:   
-  
-In description:   
- - BYO Bar - Four Lakes Bulgogi  
-  
 **beef**  
 In name:   
  - Beef Tri Tip Carved w/ Chimichurri  
  - Beef Taco Meat  
- - Bulgogi Beef  
   
 In description:   
  - Grilled Cheeseburger  
@@ -173,10 +156,10 @@ In description:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Diced Chicken  
  - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
- - Bulgogi Chicken  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
