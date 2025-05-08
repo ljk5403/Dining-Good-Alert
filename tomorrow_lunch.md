@@ -1,6 +1,6 @@
 # 2025-05-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-07 18:17:25  
+Updated at: 2025-05-07 20:26:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-08)  
 **fish**  
 In name:   
@@ -66,18 +66,28 @@ In name:
  - Lemon Pepper Chicken Salad  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-05-08)  
+**mahi mahi**  
+In name:   
+ - Coconut Thai Curry Mahi Mahi  
+  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
   
 **fish**  
 In name:   
- - Fish Sauce  
+  
+In description:   
+ - Coconut Thai Curry Mahi Mahi  
+  
+**curry**  
+In name:   
+ - Coconut Thai Curry Mahi Mahi  
+ - Seitan & Coconut Thai Curry  
   
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Protein - Beef Thinly Sliced  
  - Beef Taco Meat  
   
 In description:   
@@ -97,7 +107,6 @@ In name:
  - Plant-Based Chicken & Dumplings  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
- - Protein - Chicken Thinly Sliced  
  - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
   

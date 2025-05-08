@@ -1,7 +1,11 @@
 # 2025-05-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-07 18:17:20  
+Updated at: 2025-05-07 20:26:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-07)  
+**Chicken Drummies**  
+In name:   
+ - Chicken Drummies  
+  
 **pork**  
 In name:   
  - BBQ Pork Chop  
@@ -16,6 +20,7 @@ In name:
  - Chicken Pot Pie w/Biscuit  
  - Pizza Slice BBQ Chicken & Bacon  
  - Lemon Pepper Chicken Salad  
+ - Chicken Drummies  
  - Sesame Chicken  
  - Chicken Tortilla Soup  
   
@@ -112,7 +117,7 @@ In name:
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Plant Based Sweet & Sour Chicken  
- - Sweet & Sour Chicken  
+ - Sesame Chicken  
  - Chicken Tortilla Soup  
   
 In description:   
@@ -131,38 +136,22 @@ In name:
 In description:   
  - BYO Bar - Four Lakes Bulgogi  
   
-**Tilapia**  
-In name:   
- - Tilapia Chipotle Lime Crusted  
-  
 **fish**  
 In name:   
   
 In description:   
  - BYO Bar - Four Lakes Bulgogi  
   
-**beef**  
-In name:   
- - Beef & Chicken Meatballs  
- - Bulgogi Beef  
-  
-In description:   
- - Pork Bratwurst Sandwich  
- - Italian Meat Sauce  
-  
 **pork**  
 In name:   
- - Pork Bratwurst Sandwich  
+ - Pork Italian Sausage  
   
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
- - Beef & Chicken Meatballs  
- - Huli Huli Chicken  
  - Chicken Wings Boneless Plain  
- - Plant-Based Chicken Nuggets (6)  
+ - Protein Plant Based Chicken Tender  
  - Chicken Tortilla Soup  
- - Bulgogi Chicken  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
