@@ -1,6 +1,6 @@
 # 2025-05-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-08 12:15:55  
+Updated at: 2025-05-08 13:26:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-08)  
 **Chicken Drummies**  
 In name:   
@@ -111,7 +111,6 @@ In name:
   
 In description:   
  - Pizza Slice Deluxe (Pork)  
- - Chicago-Style Hot Dog  
  - Italian Meatball Sandwich  
   
 **pork**  
@@ -128,6 +127,7 @@ In name:
  - Tandoori Chicken  
  - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
+ - Chicken Sausage Patties  
   
 In description:   
  - Pizza Slice Deluxe (Pork)  

@@ -1,6 +1,6 @@
 # 2025-05-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-08 13:26:08  
+Updated at: 2025-05-08 15:20:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-08)  
 **fish**  
 In name:   
@@ -98,15 +98,18 @@ In name:
  - Beef Taco Meat  
   
 In description:   
+ - Bratwurst  
  - Pepperoni Pizza Slice  
  - Pizza Slice Deluxe (Pork)  
  - Mushroom Swiss Burger  
   
 **pork**  
 In name:   
- - Baked Pork Chops w/Dressing  
  - Pork Gravy with Vegetables  
  - Pizza Slice Deluxe (Pork)  
+  
+In description:   
+ - Bratwurst  
   
 **chicken**  
 In name:   
