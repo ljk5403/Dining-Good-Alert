@@ -1,6 +1,6 @@
 # 2025-05-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-08 16:17:20  
+Updated at: 2025-05-08 17:17:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-08)  
 **Chicken Drummies**  
 In name:   
@@ -110,12 +110,12 @@ In name:
  - Beef Taco Meat  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Pizza Slice Deluxe (Pork)  
  - Italian Meatball Sandwich  
   
 **pork**  
 In name:   
- - Cubano (Pork) Pizza  
  - Pizza Slice Deluxe (Pork)  
   
 **chicken**  
@@ -125,10 +125,10 @@ In name:
  - Giardiniera Chicken  
  - Tandoori Chicken  
  - Chicken Tinga  
- - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Pizza Slice Deluxe (Pork)  
  - Gordon's Great Greens  
  - Italian Meatball Sandwich  
