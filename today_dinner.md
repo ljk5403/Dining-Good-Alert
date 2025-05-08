@@ -1,6 +1,6 @@
 # 2025-05-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-08 15:20:19  
+Updated at: 2025-05-08 16:17:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-08)  
 **Chicken Drummies**  
 In name:   
@@ -38,7 +38,7 @@ In name:
  - Chicken Drummies  
  - Plant-Based Chicken Nuggets (6)  
  - Mediterranean Chicken  
- - Chicken Dumpling Soup  
+ - Soup Lemony Chicken with Rice  
   
 In description:   
  - Pepperoni Pizza Slice  
@@ -120,14 +120,13 @@ In name:
   
 **chicken**  
 In name:   
- - Shoyu Chicken  
  - Chicken Enchilada Bake  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Tandoori Chicken  
+ - Chicken Tinga  
  - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
- - Chicken Sausage Patties  
   
 In description:   
  - Pizza Slice Deluxe (Pork)  
