@@ -1,6 +1,6 @@
 # 2025-05-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-08 12:15:52  
+Updated at: 2025-05-08 13:26:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-08)  
 **fish**  
 In name:   
@@ -19,11 +19,11 @@ In description:
   
 **pork**  
 In name:   
+ - BBQ Pork Chop  
  - Cowboy Bean w/ Beef & Pork  
   
 **chicken**  
 In name:   
- - Huli Huli Chicken  
  - Pizza Slice Chicken Broccoli Alfredo  
  - Lemon Pepper Chicken Salad  
  - Chicken Breakfast Biscuit  
@@ -209,6 +209,7 @@ In description:
   
 **pork**  
 In name:   
+ - Spicy Greenbush Pork Loin  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
