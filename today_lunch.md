@@ -1,31 +1,30 @@
 # 2025-05-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-09 10:18:41  
+Updated at: 2025-05-09 11:22:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-09)  
-**Poke Bar**  
-In name:   
- - Build Your Own Poke Bar  
-  
 **clam**  
 In name:   
  - Clam Chowder (Pork)  
   
 **Cod**  
 In name:   
- - Basque Style Cod  
  - Battered Cod Fillet Sandwich w/ Cheese  
   
 In description:   
  - Clam Chowder (Pork)  
   
+**curry**  
+In name:   
+ - Chicken Curry  
+  
 **beef**  
 In name:   
+ - Beef Gravy  
  - Beef Taco Meat  
  - Beef & Chicken Meatballs  
   
 In description:   
  - Porkloin Fritter Plate  
- - Jaeger Sauce  
   
 **pork**  
 In name:   
@@ -40,6 +39,7 @@ In description:
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
+ - Chicken Curry  
  - Fajita Chicken  
  - Beef & Chicken Meatballs  
   
@@ -113,12 +113,14 @@ In description:
 **beef**  
 In name:   
  - Hot Beef Sandwich w/ Mashed Potatoes  
+ - Beef Gravy  
  - Beef & Chicken Meatballs  
  - Beef Barbacoa  
  - Beef Taco Meat  
   
 In description:   
  - Country Fried Steak  
+ - Country Gravy  
  - Thin Crust Tavern Style Pepperoni Pizza  
   
 **pork**  
@@ -184,15 +186,21 @@ In description:
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-05-09)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-05-09)  
+**clam**  
+In name:   
+ - Clam Strips  
+  
+**Shrimp**  
+In name:   
+ - Coconut Shrimp  
+  
 **Cod**  
 In name:   
- - Miso Cod  
+ - Battered Cod  
   
-**fish**  
+**curry**  
 In name:   
-  
-In description:   
- - Miso Cod  
+ - Garbanzo Bean Curry  
   
 **beef**  
 In name:   
@@ -213,6 +221,6 @@ In description:
 In name:   
  - Mediterranean Chicken  
  - Lemon Chicken Rice Soup  
- - Butter Chicken  
+ - Huli Huli Chicken  
   
   
