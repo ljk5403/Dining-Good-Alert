@@ -1,6 +1,6 @@
 # 2025-05-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-09 01:27:04  
+Updated at: 2025-05-09 09:17:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-09)  
 **Poke Bar**  
 In name:   
@@ -84,6 +84,10 @@ In name:
 In name:   
  - Appetizer -  Pakoras Vegetable (Veg)  
   
+**steak**  
+In name:   
+ - Country Fried Steak  
+  
 **clam**  
 In name:   
  - Clam Chowder (Pork)  
@@ -94,7 +98,6 @@ In name:
   
 **Cod**  
 In name:   
- - Baked Lemon Butter Cod  
   
 In description:   
  - Clam Chowder (Pork)  
@@ -115,12 +118,11 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Burnt Ends  
+ - Country Fried Steak  
  - Thin Crust Tavern Style Pepperoni Pizza  
   
 **pork**  
 In name:   
- - Baked Rigatoni w/ Pork Italian Sausage  
  - Clam Chowder (Pork)  
   
 **chicken**  
@@ -140,19 +142,9 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**clam**  
-In name:   
- - Clam Chowder (Pork)  
-  
 **Shrimp**  
 In name:   
  - Sauteed Shrimp  
-  
-**Cod**  
-In name:   
-  
-In description:   
- - Clam Chowder (Pork)  
   
 **Salmon**  
 In name:   
@@ -177,20 +169,14 @@ In description:
   
 **beef**  
 In name:   
- - Beef Fajita Meat  
  - Beef Taco Meat  
-  
-In description:   
- - Vegan Taco Filling  
-  
-**pork**  
-In name:   
- - Clam Chowder (Pork)  
   
 **chicken**  
 In name:   
  - Tikka Masala Chicken  
  - Chipotle BBQ Chicken Sandwich  
+ - Italian Chicken  
+ - Lemon Chicken Rice Soup  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
@@ -198,16 +184,9 @@ In description:
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-05-09)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-05-09)  
-**clam**  
-In name:   
- - Clam Chowder (Pork)  
-  
 **Cod**  
 In name:   
  - Miso Cod  
-  
-In description:   
- - Clam Chowder (Pork)  
   
 **fish**  
 In name:   
@@ -226,7 +205,6 @@ In description:
   
 **pork**  
 In name:   
- - Clam Chowder (Pork)  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
@@ -234,9 +212,7 @@ In description:
 **chicken**  
 In name:   
  - Mediterranean Chicken  
+ - Lemon Chicken Rice Soup  
  - Butter Chicken  
-  
-In description:   
- - Great Greens  
   
   
