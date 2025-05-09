@@ -1,6 +1,6 @@
 # 2025-05-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-09 13:25:09  
+Updated at: 2025-05-09 15:20:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-09)  
 **clam**  
 In name:   
@@ -76,6 +76,10 @@ In description:
 In name:   
  - Watermelon Slices  
   
+**Chicken Drummies**  
+In name:   
+ - Chicken Drummies  
+  
 **clam**  
 In name:   
  - Clam Chowder (Pork)  
@@ -122,7 +126,7 @@ In name:
 In name:   
  - Beef & Chicken Meatballs  
  - Chicken Sausage Patties  
- - Chicken Tenders Breaded  
+ - Chicken Drummies  
  - Plant-Based Chicken Nuggets (6)  
   
 In description:   
@@ -176,6 +180,10 @@ In description:
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-05-09)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-05-09)  
+**BBQ Pork Sandwich**  
+In name:   
+ - Carolina BBQ Pork Sandwich  
+  
 **clam**  
 In name:   
  - Clam Strips  
@@ -183,10 +191,6 @@ In name:
 **Shrimp**  
 In name:   
  - Coconut Shrimp  
-  
-**Cod**  
-In name:   
- - Battered Cod  
   
 **curry**  
 In name:   
@@ -203,6 +207,7 @@ In description:
   
 **pork**  
 In name:   
+ - Carolina BBQ Pork Sandwich  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  

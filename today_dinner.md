@@ -1,6 +1,6 @@
 # 2025-05-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-09 13:25:11  
+Updated at: 2025-05-09 15:20:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-09)  
 **Poke Bar**  
 In name:   
@@ -98,7 +98,6 @@ In name:
 **Shrimp**  
 In name:   
  - Sauteed Shrimp  
- - Shrimp Po-Boy Sandwich  
   
 **Cod**  
 In name:   
@@ -108,7 +107,6 @@ In description:
   
 **Tilapia**  
 In name:   
- - Tilapia Chipotle Lime Crusted  
  - Baked Tilapia w/ Tomato Tapenade  
   
 **lamb**  
@@ -125,34 +123,26 @@ In name:
  - Beef & Chicken Meatballs  
  - Beef Barbacoa  
  - Beef Taco Meat  
- - Beef Gravy  
  - Lamb & Beef Gyro Sandwich  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
- - BYO Bar - Poutine Bar - Gordon  
+ - Vegan Sloppy Joe  
   
 **pork**  
 In name:   
- - Baked Pork Ham  
  - Baked Rigatoni w/ Pork Italian Sausage  
  - Clam Chowder (Pork)  
-  
-In description:   
- - BYO Bar - Poutine Bar - Gordon  
- - Andouille Sausage  
   
 **chicken**  
 In name:   
  - Huli Huli Chicken  
  - Beef & Chicken Meatballs  
  - Butter Chicken  
- - Chicken Gravy  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
  - Gordon's Great Greens  
- - BYO Bar - Poutine Bar - Gordon  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-05-09)  
 **watermelon**  
@@ -173,18 +163,9 @@ In name:
 In description:   
  - Clam Chowder (Pork)  
   
-**Tuna**  
-In name:   
- - Tuna Salad  
- - Grilled Tuna & Swiss Melt  
-  
 **beef**  
 In name:   
  - Beef Taco Meat  
- - Beef Fajita Meat  
-  
-In description:   
- - Vegan Taco Filling  
   
 **pork**  
 In name:   
@@ -193,6 +174,8 @@ In name:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
+ - Taco Chicken  
   
 In description:   
  - BYO - MTO Breakfast Sandwich - Four Lake  
