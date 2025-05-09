@@ -1,11 +1,7 @@
 # 2025-05-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-09 15:20:08  
+Updated at: 2025-05-09 16:16:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-09)  
-**Poke Bar**  
-In name:   
- - Build Your Own Poke Bar  
-  
 **clam**  
 In name:   
  - Clam Chowder (Pork)  
@@ -35,6 +31,7 @@ In name:
   
 **pork**  
 In name:   
+ - Baked Pork Ham  
  - Hawaiian (Pork) Pizza Slice  
  - Pork Carnita  
  - Clam Chowder (Pork)  
@@ -87,10 +84,6 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**Pakoras**  
-In name:   
- - Appetizer -  Pakoras Vegetable (Veg)  
-  
 **clam**  
 In name:   
  - Clam Chowder (Pork)  
@@ -113,11 +106,6 @@ In name:
 In name:   
  - Lamb & Beef Gyro Sandwich  
   
-**curry**  
-In name:   
- - Indian Curry Garbanzo Beans  
- - Curry Potatoes  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
@@ -131,14 +119,12 @@ In description:
   
 **pork**  
 In name:   
- - Baked Rigatoni w/ Pork Italian Sausage  
  - Clam Chowder (Pork)  
   
 **chicken**  
 In name:   
  - Huli Huli Chicken  
  - Beef & Chicken Meatballs  
- - Butter Chicken  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
@@ -152,10 +138,6 @@ In name:
 **clam**  
 In name:   
  - Clam Chowder (Pork)  
-  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp  
   
 **Cod**  
 In name:   
@@ -183,6 +165,10 @@ In description:
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-05-09)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-05-09)  
+**BBQ Pork Sandwich**  
+In name:   
+ - Carolina BBQ Pork Sandwich  
+  
 **clam**  
 In name:   
  - Clam Chowder (Pork)  
@@ -195,36 +181,39 @@ In description:
   
 **Salmon**  
 In name:   
+ - Hoisin BBQ Glazed Salmon  
  - Island Spiced Salmon  
   
 **fish**  
 In name:   
   
 In description:   
+ - Hoisin BBQ Glazed Salmon  
  - Island Spiced Salmon  
   
 **beef**  
 In name:   
+ - Beef Taco Meat  
+ - Beef Meatballs  
   
 In description:   
- - Cocktail Smokies (Pork)  
  - Station Recipe - Deli Lowell AYCTE  
   
 **pork**  
 In name:   
- - Cocktail Smokies (Pork)  
+ - Carolina BBQ Pork Sandwich  
  - Clam Chowder (Pork)  
+ - Italian Pork Sausage  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
   
 **chicken**  
 In name:   
- - Crispy Buffalo Chicken Sandwich  
+ - Popcorn Chicken  
   
 In description:   
- - BYO Bar - Mac & Cheese  
- - Cocktail Smokies (Pork)  
  - Great Greens  
+ - Beef Meatballs  
   
   

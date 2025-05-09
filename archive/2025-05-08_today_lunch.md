@@ -1,6 +1,6 @@
 # 2025-05-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-09 15:20:05  
+Updated at: 2025-05-09 16:16:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-09)  
 **clam**  
 In name:   
@@ -125,7 +125,6 @@ In name:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
- - Chicken Sausage Patties  
  - Chicken Drummies  
  - Plant-Based Chicken Nuggets (6)  
   
