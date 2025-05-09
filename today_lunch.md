@@ -1,6 +1,6 @@
 # 2025-05-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-09 11:22:21  
+Updated at: 2025-05-09 12:15:52  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-09)  
 **clam**  
 In name:   
@@ -12,10 +12,6 @@ In name:
   
 In description:   
  - Clam Chowder (Pork)  
-  
-**curry**  
-In name:   
- - Chicken Curry  
   
 **beef**  
 In name:   
@@ -39,7 +35,7 @@ In description:
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
- - Chicken Curry  
+ - Chicken Creole  
  - Fajita Chicken  
  - Beef & Chicken Meatballs  
   
@@ -80,10 +76,6 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**Pakoras**  
-In name:   
- - Appetizer -  Pakoras Vegetable (Veg)  
-  
 **steak**  
 In name:   
  - Country Fried Steak  
@@ -101,14 +93,6 @@ In name:
   
 In description:   
  - Clam Chowder (Pork)  
-  
-**curry**  
-In name:   
- - Indian Curry Garbanzo Beans  
- - Curry Potatoes  
-  
-In description:   
- - Navarathan Korma (AYCTE)  
   
 **beef**  
 In name:   
@@ -133,7 +117,6 @@ In name:
  - Chicken Sausage Patties  
  - Chicken Tenders Breaded  
  - Plant-Based Chicken Nuggets (6)  
- - Butter Chicken  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
