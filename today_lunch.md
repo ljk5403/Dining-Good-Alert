@@ -1,6 +1,6 @@
 # 2025-05-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-08 18:17:54  
+Updated at: 2025-05-08 20:25:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-08)  
 **fish**  
 In name:   
@@ -28,6 +28,7 @@ In name:
  - Lemon Pepper Chicken Salad  
  - Chicken Breakfast Biscuit  
  - Mediterranean Chicken  
+ - Chicken Tortilla Soup  
  - Chicken Dumpling Soup  
  - Beef & Chicken Meatballs  
  - Plant Based Chicken Strips  

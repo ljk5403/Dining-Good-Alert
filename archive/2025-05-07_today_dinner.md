@@ -1,6 +1,6 @@
 # 2025-05-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-08 17:17:13  
+Updated at: 2025-05-08 18:17:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-08)  
 **Chicken Drummies**  
 In name:   
@@ -85,10 +85,6 @@ In name:
  - Lemon Pepper Chicken Salad  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-05-08)  
-**Tandoori Chicken**  
-In name:   
- - Tandoori Chicken  
-  
 **Shrimp**  
 In name:   
  - Coconut Shrimp  
@@ -97,8 +93,15 @@ In name:
 In name:   
  - Lemon Pepper Tuna Salad  
   
+**fish**  
+In name:   
+  
+In description:   
+ - Beef Masaman Thai Curry  
+  
 **curry**  
 In name:   
+ - Beef Masaman Thai Curry  
  - Seitan & Coconut Thai Curry  
   
 In description:   
@@ -107,6 +110,7 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
+ - Beef Masaman Thai Curry  
  - Beef Taco Meat  
   
 In description:   
@@ -123,7 +127,6 @@ In name:
  - Chicken Enchilada Bake  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
- - Tandoori Chicken  
  - Chicken Tinga  
  - Chicken Dumpling Soup  
   

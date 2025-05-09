@@ -1,6 +1,6 @@
 # 2025-05-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-08 18:17:57  
+Updated at: 2025-05-08 20:25:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-08)  
 **Chicken Drummies**  
 In name:   
@@ -85,9 +85,9 @@ In name:
  - Lemon Pepper Chicken Salad  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-05-08)  
-**Shrimp**  
+**catfish**  
 In name:   
- - Coconut Shrimp  
+ - Blackened Catfish  
   
 **Tuna**  
 In name:   
@@ -95,6 +95,7 @@ In name:
   
 **fish**  
 In name:   
+ - Blackened Catfish  
   
 In description:   
  - Beef Masaman Thai Curry  
@@ -109,6 +110,7 @@ In description:
   
 **beef**  
 In name:   
+ - Texas BBQ Sliced Beef Brisket  
  - Beef & Chicken Meatballs  
  - Beef Masaman Thai Curry  
  - Beef Taco Meat  
@@ -124,7 +126,6 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken Enchilada Bake  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Chicken Tinga  
@@ -141,13 +142,14 @@ In description:
 In name:   
  - Watermelon Slices  
   
+**Shrimp**  
+In name:   
+ - Coconut Shrimp  
+  
 **beef**  
 In name:   
  - Beef Tri Tip Carved w/ Chimichurri  
  - Beef Taco Meat  
-  
-In description:   
- - Grilled Cheeseburger  
   
 **pork**  
 In name:   
@@ -159,6 +161,7 @@ In description:
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
+ - Plant-Based Chicken Tenders  
  - Diced Chicken  
  - Spicy Fajita Chicken  
  - Chicken Dumpling Soup  
