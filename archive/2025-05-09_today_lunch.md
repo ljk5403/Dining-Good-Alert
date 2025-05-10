@@ -1,6 +1,6 @@
 # 2025-05-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-10 10:17:14  
+Updated at: 2025-05-10 11:20:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-10)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-05-10)  
 **watermelon**  
@@ -24,6 +24,10 @@ In name:
  - Lemon Pepper Chicken Salad  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-05-10)  
+**Cod**  
+In name:   
+ - Battered Cod  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
@@ -36,7 +40,6 @@ In description:
   
 **pork**  
 In name:   
- - Ancho Braised Pork  
  - Italian Pork Sausage  
  - Pork Carnita  
   
@@ -47,7 +50,6 @@ In name:
  - Chicken Tinga  
   
 In description:   
- - Ancho Braised Pork  
  - Pepperoni Pizza Slice  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-05-10)  
