@@ -1,6 +1,6 @@
 # 2025-05-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-10 01:23:18  
+Updated at: 2025-05-10 09:15:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-10)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-05-10)  
 **watermelon**  
@@ -27,10 +27,10 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - BBQ Beef Brisket Sandwich  
  - Beef Taco Meat  
   
 In description:   
+ - Italian Meat Sauce  
  - Pepperoni Pizza Slice  
  - Grilled Cheeseburger  
   
@@ -38,22 +38,17 @@ In description:
 In name:   
  - Ancho Braised Pork  
  - Italian Pork Sausage  
-  
-In description:   
- - Pizza Slice Sausage  
+ - Pork Carnita  
   
 **chicken**  
 In name:   
  - Chicken Enchilada Bake  
  - Beef & Chicken Meatballs  
- - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
- - Cream of Chicken & Wild Rice Soup  
   
 In description:   
  - Ancho Braised Pork  
  - Pepperoni Pizza Slice  
- - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-05-10)  
 **watermelon**  
