@@ -1,6 +1,6 @@
 # 2025-05-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-09 18:16:28  
+Updated at: 2025-05-09 20:22:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-09)  
 **clam**  
 In name:   
@@ -88,10 +88,6 @@ In name:
 In name:   
  - Clam Chowder (Pork)  
   
-**Shrimp**  
-In name:   
- - Sauteed Shrimp  
-  
 **Cod**  
 In name:   
   
@@ -100,7 +96,7 @@ In description:
   
 **Tilapia**  
 In name:   
- - Baked Tilapia w/ Tomato Tapenade  
+ - Blackened Tilapia  
   
 **lamb**  
 In name:   
@@ -108,6 +104,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Tortellini and Sauce  
  - Beef & Chicken Meatballs  
  - Beef Barbacoa  
  - Beef Taco Meat  
@@ -119,11 +116,11 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Italian Sausage  
  - Clam Chowder (Pork)  
   
 **chicken**  
 In name:   
- - Huli Huli Chicken  
  - Beef & Chicken Meatballs  
   
 In description:   
@@ -157,6 +154,7 @@ In name:
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
+ - Italian Chicken  
  - Taco Chicken  
   
 In description:   
