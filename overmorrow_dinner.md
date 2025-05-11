@@ -1,59 +1,61 @@
-# 2025-05-12 dinner  
+# 2025-05-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-10 20:38:54  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-12)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-05-12)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-05-12)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
+Updated at: 2025-05-11 01:24:30  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-13)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-05-13)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-05-13)  
 **steak**  
 In name:   
- - Pizza Slice Philly Cheesesteak  
+ - Spicy Steak Fajita  
   
-**Tuna**  
+**Salmon**  
 In name:   
- - Lemon Pepper Tuna Salad  
+ - Hoisin BBQ Glazed Salmon  
   
 **fish**  
 In name:   
   
 In description:   
- - Kung Pao Chicken  
+ - Hoisin BBQ Glazed Salmon  
   
 **beef**  
 In name:   
+ - Beef Tri Tip Carved w/ Chimichurri  
  - Beef & Chicken Meatballs  
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
+ - Beef Vindaloo  
  - Beef Taco Meat  
+ - Beef & Bean Chili  
+ - BBQ Beef Brisket Sandwich  
   
 In description:   
- - Pizza Slice Philly Cheesesteak  
- - Vegan Taco Filling  
- - Cowboy Burger  
+ - Italian Meat Sauce  
+ - Pepperoni Pizza Slice  
+ - Spicy Steak Fajita  
   
 **pork**  
 In name:   
- - Pork Loin Spicy Greenbush  
- - Italian Pork Sausage  
+ - Green Beans w/ Pork Bacon  
+ - Chicken Bacon (Pork) Ranch Pizza Slice  
+ - Pork & Beef Hard Salami  
   
 In description:   
- - Pizza Slice Sausage  
+ - Smoked Ham  
+ - Bacon  
   
 **chicken**  
 In name:   
- - Grilled Chicken Fillet  
- - Chicken Gravy  
  - Beef & Chicken Meatballs  
- - Kung Pao Chicken  
- - Plant-Based Chicken Lo Mein  
- - Chicken Tinga  
- - Chicken Noodle Soup  
+ - Giardiniera Chicken  
+ - Chicken Bacon (Pork) Ranch Pizza Slice  
+ - Diced Chicken  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Gordon's Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-05-12)  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-05-12)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-05-12)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-05-13)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-05-13)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-05-13)  
   
