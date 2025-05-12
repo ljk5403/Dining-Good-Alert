@@ -1,6 +1,6 @@
 # 2025-05-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-12 10:21:48  
+Updated at: 2025-05-12 11:23:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-14)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-05-14)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-05-14)  
@@ -17,8 +17,6 @@ In name:
  - Beef & Chicken Meatballs  
  - Roast Beef  
  - Pork & Beef Hard Salami  
- - Beef Barbacoa  
- - Beef Taco Meat  
   
 **pork**  
 In name:   
@@ -37,7 +35,6 @@ In name:
  - Beef & Chicken Meatballs  
  - Pizza Slice BBQ Chicken & Bacon  
  - Lemon Pepper Chicken Salad  
- - Greek Lemon Chicken  
  - Chicken Tortilla Soup  
  - Diced Chicken  
   
