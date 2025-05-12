@@ -1,9 +1,13 @@
 # 2025-05-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-12 13:26:04  
+Updated at: 2025-05-12 15:20:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-13)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-05-13)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-05-13)  
+**steak**  
+In name:   
+ - Spicy Steak Fajita  
+  
 **Salmon**  
 In name:   
  - Hoisin BBQ Glazed Salmon  
@@ -20,12 +24,13 @@ In name:
  - Beef & Chicken Meatballs  
  - Roast Beef  
  - Pork & Beef Hard Salami  
+ - Beef Taco Meat  
  - Beef & Bean Chili  
- - BBQ Beef Brisket Sandwich  
   
 In description:   
  - Italian Meat Sauce  
  - Pepperoni Pizza Slice  
+ - Spicy Steak Fajita  
   
 **pork**  
 In name:   
