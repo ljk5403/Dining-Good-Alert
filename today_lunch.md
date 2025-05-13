@@ -1,71 +1,49 @@
-# 2025-05-12 lunch  
+# 2025-05-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-12 20:27:04  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-12)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-05-12)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-05-12)  
-**watermelon**  
+Updated at: 2025-05-13 01:27:00  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-13)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-05-13)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-05-13)  
+**steak**  
 In name:   
- - Watermelon Slices  
-  
-**Cod**  
-In name:   
- - Vegan Cod Battered (2 pc)  
-  
-**Salmon**  
-In name:   
- - Baked Salmon with Mustard Sauce  
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Baked Salmon with Mustard Sauce  
- - Vegan Cod Battered (2 pc)  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Tikka Masala Chicken  
+ - Spicy Steak Fajita  
   
 **beef**  
 In name:   
- - Beef Stew  
- - Beef Stew w/ Buttermilk Biscuit  
+ - Texas BBQ Sliced Beef Brisket  
  - Beef & Chicken Meatballs  
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
+ - Beef Broccoli Stir Fry w/Teriyaki Sauce  
+ - Plant-Based Beef & Broccoli Stir Fry  
  - Beef Taco Meat  
+ - Beef & Bean Chili  
   
 In description:   
- - Pepperoni Pizza Slice  
- - Grilled Cheeseburger  
- - Vegan Taco Filling  
+ - Italian Meat Sauce  
+ - Pork Bratwurst Sandwich  
+ - Spicy Steak Fajita  
   
 **pork**  
 In name:   
- - Italian Pork Sausage  
+ - Pork & Beef Hard Salami  
+ - Pork Bratwurst Sandwich  
   
 In description:   
  - Pizza Slice Sausage  
+ - Smoked Ham  
   
 **chicken**  
 In name:   
- - Chicken Enchilada Bake  
  - Beef & Chicken Meatballs  
- - Chicken Sausage Patty  
- - Tikka Masala Chicken  
- - Chicken Tinga  
- - Chicken Noodle Soup  
+ - Giardiniera Chicken  
+ - Chicken Sausage Patties  
+ - Diced Chicken  
   
 In description:   
- - Pepperoni Pizza Slice  
  - Gordon's Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-05-12)  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-05-12)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-05-12)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-05-13)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-05-13)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-05-13)  
   

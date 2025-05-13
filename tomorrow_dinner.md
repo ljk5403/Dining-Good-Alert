@@ -1,59 +1,49 @@
-# 2025-05-13 dinner  
+# 2025-05-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-12 20:27:08  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-13)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-05-13)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-05-13)  
-**steak**  
+Updated at: 2025-05-13 01:27:02  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-14)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-05-14)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-05-14)  
+**watermelon**  
 In name:   
- - Spicy Steak Fajita  
+ - Watermelon Slices  
   
-**Salmon**  
+**drumstick**  
 In name:   
- - Hoisin BBQ Glazed Salmon  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Hoisin BBQ Glazed Salmon  
+ - Chicken Drumstick BBQ Glazed  
   
 **beef**  
 In name:   
- - Beef Tri Tip Carved w/ Chimichurri  
  - Beef & Chicken Meatballs  
  - Roast Beef  
  - Pork & Beef Hard Salami  
+ - Beef Barbacoa  
  - Beef Taco Meat  
- - Beef & Bean Chili  
-  
-In description:   
- - Italian Meat Sauce  
- - Pepperoni Pizza Slice  
- - Spicy Steak Fajita  
   
 **pork**  
 In name:   
- - Green Beans w/ Pork Bacon  
- - Chicken Bacon (Pork) Ranch Pizza Slice  
+ - Italian Pork Sausage  
  - Pork & Beef Hard Salami  
   
 In description:   
+ - Pizza Slice Sausage  
  - Smoked Ham  
  - Bacon  
   
 **chicken**  
 In name:   
+ - Chicken Drumstick BBQ Glazed  
+ - Chicken Pot Pie w/Biscuit  
  - Beef & Chicken Meatballs  
- - Giardiniera Chicken  
- - Chicken Bacon (Pork) Ranch Pizza Slice  
+ - Pizza Slice BBQ Chicken & Bacon  
+ - Lemon Pepper Chicken Salad  
+ - Chicken Tortilla Soup  
  - Diced Chicken  
   
 In description:   
- - Pepperoni Pizza Slice  
  - Gordon's Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-05-13)  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-05-13)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-05-13)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-05-14)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-05-14)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-05-14)  
   
