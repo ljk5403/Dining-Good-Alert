@@ -1,13 +1,9 @@
 # 2025-05-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-13 17:17:51  
+Updated at: 2025-05-13 18:17:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-13)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-05-13)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-05-13)  
-**steak**  
-In name:   
- - Spicy Steak Fajita  
-  
 **beef**  
 In name:   
  - Beef Tri Tip Carved w/ Chimichurri  
@@ -20,7 +16,6 @@ In name:
 In description:   
  - Italian Meat Sauce  
  - Pepperoni Pizza Slice  
- - Spicy Steak Fajita  
   
 **pork**  
 In name:   
@@ -34,9 +29,9 @@ In description:
   
 **chicken**  
 In name:   
- - Blackened Chicken  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
+ - Chicken Tinga  
  - Diced Chicken  
   
 In description:   
