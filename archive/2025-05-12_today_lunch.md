@@ -1,6 +1,6 @@
 # 2025-05-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-13 11:23:57  
+Updated at: 2025-05-13 12:16:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-13)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-05-13)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-05-13)  
@@ -21,6 +21,7 @@ In name:
   
 In description:   
  - Italian Meat Sauce  
+ - Pepperoni Pizza Slice  
  - Pork Bratwurst Sandwich  
  - Spicy Steak Fajita  
   
@@ -39,6 +40,9 @@ In name:
  - Giardiniera Chicken  
  - Chicken Sausage Patties  
  - Diced Chicken  
+  
+In description:   
+ - Pepperoni Pizza Slice  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-05-13)  
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-05-13)  
