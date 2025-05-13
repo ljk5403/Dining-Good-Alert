@@ -1,6 +1,6 @@
 # 2025-05-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-13 16:17:10  
+Updated at: 2025-05-13 17:17:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-13)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-05-13)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-05-13)  
@@ -16,7 +16,6 @@ In name:
  - Pork & Beef Hard Salami  
  - Beef Taco Meat  
  - Beef & Bean Chili  
- - BBQ Beef Brisket Sandwich  
   
 In description:   
  - Italian Meat Sauce  
