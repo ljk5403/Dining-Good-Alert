@@ -1,56 +1,51 @@
-# 2025-05-13 lunch  
+# 2025-05-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-13 20:25:33  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-13)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-05-13)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-05-13)  
-**steak**  
+Updated at: 2025-05-14 01:26:50  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-14)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-05-14)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-05-14)  
+**watermelon**  
 In name:   
- - Spicy Steak Fajita  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Tikka Masala Chicken  
+ - Watermelon Slices  
   
 **beef**  
 In name:   
- - Texas BBQ Sliced Beef Brisket  
+ - Beef Roast w/Mushroom Demi Glace  
  - Beef & Chicken Meatballs  
  - Roast Beef  
  - Pork & Beef Hard Salami  
- - Plant-Based Beef & Broccoli Stir Fry  
+ - Beef Barbacoa  
  - Beef Taco Meat  
- - Beef & Bean Chili  
   
 In description:   
- - Italian Meat Sauce  
  - Pepperoni Pizza Slice  
- - Pork Bratwurst Sandwich  
- - Spicy Steak Fajita  
+ - Fired Up Burger  
   
 **pork**  
 In name:   
+ - Italian Pork Sausage  
+ - Gluten Free Pork Sausage Pizza  
  - Pork & Beef Hard Salami  
- - Pork Bratwurst Sandwich  
+ - Imperial Pork Stir Fry  
   
 In description:   
- - Pizza Slice Sausage  
  - Smoked Ham  
   
 **chicken**  
 In name:   
+ - Broasted Chicken 2 pc  
+ - Plant-Based Chicken & Dumplings  
+ - Chicken Gravy  
  - Beef & Chicken Meatballs  
- - Giardiniera Chicken  
- - Chicken Sausage Patties  
- - Tikka Masala Chicken  
+ - Lemon Pepper Chicken Salad  
+ - Chicken Tortilla Soup  
  - Diced Chicken  
   
 In description:   
  - Pepperoni Pizza Slice  
+ - Gordon's Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-05-13)  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-05-13)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-05-13)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-05-14)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-05-14)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-05-14)  
   
