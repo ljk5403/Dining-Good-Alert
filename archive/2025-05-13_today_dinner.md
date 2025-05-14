@@ -1,6 +1,6 @@
 # 2025-05-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-14 15:17:11  
+Updated at: 2025-05-14 16:14:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-14)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-05-14)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-05-14)  
@@ -19,7 +19,7 @@ In name:
  - Pork & Beef Hard Salami  
   
 In description:   
- - Pepperoni Pizza Slice  
+ - Vegan Sloppy Joe  
   
 **pork**  
 In name:   
@@ -41,7 +41,6 @@ In name:
  - Diced Chicken  
   
 In description:   
- - Pepperoni Pizza Slice  
  - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-05-14)  
