@@ -1,13 +1,9 @@
 # 2025-05-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-14 01:26:50  
+Updated at: 2025-05-14 09:18:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-14)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-05-14)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-05-14)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
 **beef**  
 In name:   
  - Beef Roast w/Mushroom Demi Glace  
@@ -26,7 +22,6 @@ In name:
  - Italian Pork Sausage  
  - Gluten Free Pork Sausage Pizza  
  - Pork & Beef Hard Salami  
- - Imperial Pork Stir Fry  
   
 In description:   
  - Smoked Ham  
@@ -38,12 +33,12 @@ In name:
  - Chicken Gravy  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
+ - Sweet & Sour Chicken  
  - Chicken Tortilla Soup  
  - Diced Chicken  
   
 In description:   
  - Pepperoni Pizza Slice  
- - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-05-14)  
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-05-14)  
