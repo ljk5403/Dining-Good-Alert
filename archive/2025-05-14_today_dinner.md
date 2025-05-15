@@ -1,6 +1,6 @@
 # 2025-05-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-15 15:20:42  
+Updated at: 2025-05-15 16:17:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-15)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-05-15)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-05-15)  
@@ -31,6 +31,7 @@ In name:
  - Pork & Beef Hard Salami  
   
 In description:   
+ - Pizza Slice Sausage  
  - Smoked Ham  
  - Bacon  
   
