@@ -1,12 +1,31 @@
-# 2025-05-15 lunch  
+# 2025-05-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-14 20:23:59  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-15)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-05-15)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-05-15)  
-**Tuna**  
+Updated at: 2025-05-15 01:27:22  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-16)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-05-16)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-05-16)  
+**watermelon**  
 In name:   
- - Lemon Pepper Tuna Salad  
+ - Watermelon Slices  
+  
+**Tandoori Chicken**  
+In name:   
+ - Tandoori Chicken  
+  
+**clam**  
+In name:   
+ - Clam Chowder (Pork)  
+  
+**Shrimp**  
+In name:   
+ - Sauteed Shrimp  
+  
+**Cod**  
+In name:   
+ - Fried Cod Basket  
+  
+In description:   
+ - Clam Chowder (Pork)  
   
 **beef**  
 In name:   
@@ -15,32 +34,31 @@ In name:
  - Pork & Beef Hard Salami  
  - Beef Taco Meat  
   
+In description:   
+ - Pepperoni Pizza Slice  
+ - Pizza Sliced Smoked Brisket & Tots  
+  
 **pork**  
 In name:   
- - Hawaiian (Pork) Pizza Slice  
  - Pork & Beef Hard Salami  
- - Pork Carnita  
+ - Clam Chowder (Pork)  
   
 In description:   
- - Pizza Slice Sausage  
  - Smoked Ham  
   
 **chicken**  
 In name:   
- - Chicken Wings Bone-In Plain  
- - Chicken Wings Boneless Plain  
- - Plant-Based Chicken Nuggets (6)  
+ - Chicken Piece Seasoned Baked  
  - Beef & Chicken Meatballs  
- - Giardiniera Chicken  
- - Chicken Sausage Patties  
- - Shoyu Chicken  
- - Chicken Dumpling Soup  
+ - Tandoori Chicken  
+ - Chicken Tinga  
  - Diced Chicken  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Gordon's Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-05-15)  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-05-15)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-05-15)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-05-16)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-05-16)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-05-16)  
   
