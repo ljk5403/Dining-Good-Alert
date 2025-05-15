@@ -1,6 +1,6 @@
 # 2025-05-15 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-15 13:26:00  
+Updated at: 2025-05-15 15:20:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-15)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-05-15)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-05-15)  
@@ -28,6 +28,7 @@ In name:
 In description:   
  - Pizza Slice Sausage  
  - Smoked Ham  
+ - Bacon  
  - Bratwurst  
   
 **chicken**  
@@ -37,7 +38,6 @@ In name:
  - Plant-Based Chicken Nuggets (6)  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
- - Chicken Sausage Patties  
  - Shoyu Chicken  
  - Chicken Dumpling Soup  
  - Diced Chicken  
