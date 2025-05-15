@@ -1,6 +1,6 @@
 # 2025-05-15 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-15 01:27:18  
+Updated at: 2025-05-15 09:18:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-15)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-05-15)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-05-15)  
@@ -15,15 +15,19 @@ In name:
  - Pork & Beef Hard Salami  
  - Beef Taco Meat  
   
+In description:   
+ - Pepperoni Pizza Slice  
+ - Bratwurst  
+  
 **pork**  
 In name:   
- - Hawaiian (Pork) Pizza Slice  
  - Pork & Beef Hard Salami  
  - Pork Carnita  
   
 In description:   
  - Pizza Slice Sausage  
  - Smoked Ham  
+ - Bratwurst  
   
 **chicken**  
 In name:   
@@ -38,7 +42,7 @@ In name:
  - Diced Chicken  
   
 In description:   
- - Gordon's Great Greens  
+ - Pepperoni Pizza Slice  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-05-15)  
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-05-15)  
