@@ -1,6 +1,6 @@
 # 2025-05-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-16 10:17:06  
+Updated at: 2025-05-16 11:22:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-16)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-05-16)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-05-16)  
@@ -28,8 +28,6 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Roast Beef  
- - Pork & Beef Hard Salami  
  - Beef Taco Meat  
   
 In description:   
@@ -38,17 +36,13 @@ In description:
   
 **pork**  
 In name:   
- - Pork & Beef Hard Salami  
  - Clam Chowder (Pork)  
-  
-In description:   
- - Smoked Ham  
- - Bacon  
   
 **chicken**  
 In name:   
  - Chicken Piece Seasoned Baked  
  - Beef & Chicken Meatballs  
+ - Crispy Chicken Sandwich  
  - Chicken Tikka Masala  
  - Chicken Tinga  
  - Diced Chicken  

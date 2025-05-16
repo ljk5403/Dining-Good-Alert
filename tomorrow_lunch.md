@@ -1,6 +1,6 @@
 # 2025-05-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-16 11:22:44  
+Updated at: 2025-05-16 12:15:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-17)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-05-17)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-05-17)  
@@ -18,8 +18,6 @@ In name:
 In name:   
  - Beef Gravy  
  - Beef & Chicken Meatballs  
- - Roast Beef  
- - Pork & Beef Hard Salami  
  - Lamb & Beef Gyro Sandwich  
  - Beef Taco Meat  
   
@@ -33,12 +31,9 @@ In name:
  - Pork Frittata Trattoria  
  - Italian Pork Sausage  
  - Gluten Free Pork Pepperoni Pizza  
- - Pork & Beef Hard Salami  
   
 In description:   
  - Pizza Slice Sausage  
- - Smoked Ham  
- - Bacon  
   
 **chicken**  
 In name:   
