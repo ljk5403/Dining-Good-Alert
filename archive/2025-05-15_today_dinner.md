@@ -1,6 +1,6 @@
 # 2025-05-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-16 13:25:38  
+Updated at: 2025-05-16 15:20:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-16)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-05-16)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-05-16)  
@@ -25,8 +25,6 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Roast Beef  
- - Pork & Beef Hard Salami  
  - Beef Taco Meat  
   
 In description:   
@@ -37,14 +35,11 @@ In description:
 In name:   
  - French Market Pork Jambalaya  
  - Italian Pork Sausage  
- - Pork & Beef Hard Salami  
  - Clam Chowder (Pork)  
  - Baked Corn Dog (Pork)  
   
 In description:   
  - Pizza Slice Sausage  
- - Smoked Ham  
- - Bacon  
   
 **chicken**  
 In name:   

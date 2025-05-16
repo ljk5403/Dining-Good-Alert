@@ -1,6 +1,6 @@
 # 2025-05-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-16 15:20:06  
+Updated at: 2025-05-16 16:17:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-16)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-05-16)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-05-16)  
@@ -11,6 +11,10 @@ In name:
 **clam**  
 In name:   
  - Clam Chowder (Pork)  
+  
+**Shrimp**  
+In name:   
+ - Sauteed Shrimp  
   
 **Cod**  
 In name:   
@@ -28,13 +32,12 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Pepperoni Pizza Slice  
+ - Smoked Brisket & Tots Pizza Slice  
  - Baked Corn Dog (Pork)  
   
 **pork**  
 In name:   
  - French Market Pork Jambalaya  
- - Italian Pork Sausage  
  - Clam Chowder (Pork)  
  - Baked Corn Dog (Pork)  
   
@@ -49,7 +52,6 @@ In name:
   
 In description:   
  - French Market Pork Jambalaya  
- - Pepperoni Pizza Slice  
  - Gordon's Great Greens  
  - Baked Corn Dog (Pork)  
   
