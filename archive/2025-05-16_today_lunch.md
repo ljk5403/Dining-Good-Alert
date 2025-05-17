@@ -1,56 +1,54 @@
-# 2025-05-16 lunch  
+# 2025-05-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-16 20:24:53  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-16)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-05-16)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-05-16)  
-**clam**  
-In name:   
- - Clam Chowder (Pork)  
-  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp  
-  
-**Cod**  
-In name:   
- - Fried Cod Basket  
-  
-In description:   
- - Clam Chowder (Pork)  
-  
-**curry**  
+Updated at: 2025-05-17 01:24:30  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-17)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-05-17)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-05-17)  
+**fish**  
 In name:   
   
 In description:   
- - Chicken Tikka Masala  
+ - Tempura Roll (FujiSan)  
+  
+**lamb**  
+In name:   
+ - Lamb & Beef Gyro Sandwich  
   
 **beef**  
 In name:   
+ - Beef Gravy  
  - Beef & Chicken Meatballs  
+ - Lamb & Beef Gyro Sandwich  
  - Beef Taco Meat  
   
 In description:   
+ - Burnt Ends  
  - Pepperoni Pizza Slice  
- - Pizza Sliced Smoked Brisket & Tots  
+ - Gluten Free Pork Pepperoni Pizza  
   
 **pork**  
 In name:   
- - Clam Chowder (Pork)  
+ - Pork Frittata Trattoria  
+ - Italian Pork Sausage  
+ - Gluten Free Pork Pepperoni Pizza  
+  
+In description:   
+ - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
- - Chicken Piece Seasoned Baked  
  - Beef & Chicken Meatballs  
- - Crispy Chicken Sandwich  
- - Chicken Tikka Masala  
- - Chicken Tinga  
+ - Lemon Pepper Chicken Salad  
+ - Spicy Fajita Chicken  
+ - Cream of Chicken & Wild Rice Soup  
  - Diced Chicken  
   
 In description:   
  - Pepperoni Pizza Slice  
+ - Gluten Free Pork Pepperoni Pizza  
+ - Gordon's Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-05-16)  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-05-16)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-05-16)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-05-17)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-05-17)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-05-17)  
   
