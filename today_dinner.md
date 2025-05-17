@@ -1,61 +1,43 @@
-# 2025-05-16 dinner  
+# 2025-05-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-16 20:24:54  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-16)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-05-16)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-05-16)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
-**clam**  
-In name:   
- - Clam Chowder (Pork)  
-  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp  
-  
-**Cod**  
-In name:   
-  
-In description:   
- - Clam Chowder (Pork)  
-  
-**mahi mahi**  
-In name:   
- - Baked Mahi Mahi w/ Butter & Lemon  
-  
+Updated at: 2025-05-17 01:24:33  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-17)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-05-17)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-05-17)  
 **beef**  
 In name:   
+ - Beef Meatloaf  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
 In description:   
- - Smoked Brisket & Tots Pizza Slice  
- - Baked Corn Dog (Pork)  
+ - Pepperoni Pizza Slice  
+ - Gluten Free Pork Pepperoni Pizza  
   
 **pork**  
 In name:   
- - French Market Pork Jambalaya  
- - Clam Chowder (Pork)  
- - Baked Corn Dog (Pork)  
+ - Italian Pork Sausage  
+ - Gluten Free Pork Pepperoni Pizza  
   
 In description:   
  - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
+ - Chicken Enchilada Bake  
  - Beef & Chicken Meatballs  
- - Chicken Tinga  
+ - Lemon Pepper Chicken Salad  
+ - Spicy Chicken Fajita  
+ - Cream of Chicken & Wild Rice Soup  
  - Diced Chicken  
+ - Chicken Parmesan Sandwich  
   
 In description:   
- - French Market Pork Jambalaya  
+ - Pepperoni Pizza Slice  
+ - Gluten Free Pork Pepperoni Pizza  
  - Gordon's Great Greens  
- - Baked Corn Dog (Pork)  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-05-16)  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-05-16)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-05-16)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-05-17)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-05-17)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-05-17)  
   
