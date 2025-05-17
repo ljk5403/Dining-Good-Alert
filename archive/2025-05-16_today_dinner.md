@@ -1,6 +1,6 @@
 # 2025-05-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-17 15:18:38  
+Updated at: 2025-05-17 16:15:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-17)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-05-17)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-05-17)  
@@ -8,6 +8,7 @@ Updated at: 2025-05-17 15:18:38
 In name:   
  - Beef Meatloaf  
  - Beef & Chicken Meatballs  
+ - Beef Barbacoa  
  - Beef Taco Meat  
   
 In description:   
@@ -24,10 +25,9 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Enchilada Bake  
+ - Chicken Pot Pie w/Biscuit  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
- - Spicy Chicken Fajita  
  - Cream of Chicken & Wild Rice Soup  
  - Diced Chicken  
  - Chicken Parmesan Sandwich  
