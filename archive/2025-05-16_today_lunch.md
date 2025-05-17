@@ -1,6 +1,6 @@
 # 2025-05-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-17 01:24:30  
+Updated at: 2025-05-17 09:15:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-17)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-05-17)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-05-17)  
@@ -14,11 +14,19 @@ In description:
 In name:   
  - Lamb & Beef Gyro Sandwich  
   
+**curry**  
+In name:   
+  
+In description:   
+ - Chicken Tikka Masala  
+  
 **beef**  
 In name:   
+ - Beef Meatballs  
  - Beef Gravy  
  - Beef & Chicken Meatballs  
  - Lamb & Beef Gyro Sandwich  
+ - Beef Barbacoa  
  - Beef Taco Meat  
   
 In description:   
@@ -28,7 +36,6 @@ In description:
   
 **pork**  
 In name:   
- - Pork Frittata Trattoria  
  - Italian Pork Sausage  
  - Gluten Free Pork Pepperoni Pizza  
   
@@ -37,13 +44,14 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Tikka Masala  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
- - Spicy Fajita Chicken  
  - Cream of Chicken & Wild Rice Soup  
  - Diced Chicken  
   
 In description:   
+ - Beef Meatballs  
  - Pepperoni Pizza Slice  
  - Gluten Free Pork Pepperoni Pizza  
  - Gordon's Great Greens  
