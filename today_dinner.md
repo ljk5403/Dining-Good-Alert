@@ -1,6 +1,6 @@
 # 2025-05-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-18 13:23:32  
+Updated at: 2025-05-18 15:19:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-18)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-05-18)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-05-18)  
@@ -8,13 +8,16 @@ Updated at: 2025-05-18 13:23:32
 In name:   
  - Watermelon Slices  
   
+**BBQ Pork Sandwich**  
+In name:   
+ - BBQ Pork Sandwich  
+  
 **Tilapia**  
 In name:   
  - Lemon Bake Tilapia  
   
 **beef**  
 In name:   
- - Beef Tortellini and Sauce  
  - Beef & Chicken Meatballs  
  - Beef Barbacoa  
  - Beef Taco Meat  
@@ -24,12 +27,14 @@ In description:
   
 **pork**  
 In name:   
+ - BBQ Pork Sandwich  
   
 In description:   
  - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
+ - Breaded Chicken Parmigiana  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Lemon Chicken Rice Soup  
