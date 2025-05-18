@@ -1,6 +1,6 @@
 # 2025-05-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-18 09:15:22  
+Updated at: 2025-05-18 10:16:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-18)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-05-18)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-05-18)  
@@ -18,6 +18,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Meatballs  
  - Beef & Chicken Meatballs  
  - Beef Barbacoa  
  - Beef Taco Meat  
@@ -28,6 +29,7 @@ In description:
 **pork**  
 In name:   
  - Boneless Baked Pork Ham  
+ - Pork Italian Sausage  
   
 In description:   
  - Pizza Slice Sausage  
@@ -41,6 +43,7 @@ In name:
  - Diced Chicken  
   
 In description:   
+ - Beef Meatballs  
  - Pepperoni Pizza Slice  
  - Gordon's Great Greens  
   
