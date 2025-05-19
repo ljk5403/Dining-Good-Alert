@@ -1,6 +1,6 @@
 # 2025-05-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-19 10:20:19  
+Updated at: 2025-05-19 11:23:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-19)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-05-19)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-05-19)  
@@ -10,21 +10,18 @@ In name:
   
 **curry**  
 In name:   
-  
-In description:   
- - Tikka Masala Chicken  
+ - Thai Veggie Meatballs w/ Green Curry  
   
 **beef**  
 In name:   
  - Beef Pot Roast  
  - Beef & Chicken Meatballs  
- - Beef Taco Meat  
+ - Beef Barbacoa  
   
 In description:   
  - Gordon's OrderIt  
  - Pepperoni Pizza Slice  
- - Grilled Cheeseburger  
- - Vegan Taco Filling  
+ - BBQ Brisket Sandwich  
   
 **pork**  
 In name:   
@@ -37,16 +34,14 @@ In description:
 **chicken**  
 In name:   
  - Chicken Honey Lime w/ rice  
- - Mediterranean Chicken  
  - Beef & Chicken Meatballs  
- - Tikka Masala Chicken  
  - Chicken Tinga  
+ - Chicken Tortilla Soup  
  - Chicken Noodle Soup  
   
 In description:   
  - Gordon's OrderIt  
  - Pepperoni Pizza Slice  
- - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-05-19)  
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-05-19)  
