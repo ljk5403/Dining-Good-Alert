@@ -1,6 +1,6 @@
 # 2025-05-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-19 13:26:35  
+Updated at: 2025-05-19 15:20:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-19)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-05-19)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-05-19)  
@@ -11,11 +11,10 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Beef Taco Meat  
+ - Beef Barbacoa  
   
 In description:   
  - Pepperoni Pizza Slice  
- - Vegan Taco Filling  
  - Cowboy Burger  
   
 **pork**  
