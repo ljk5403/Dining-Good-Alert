@@ -1,12 +1,14 @@
 # 2025-05-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-20 16:16:57  
+Updated at: 2025-05-20 17:17:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-20)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-05-20)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-05-20)  
 **Cod**  
 In name:   
- - Battered Cod Fillet Sandwich w/ Cheese  
+  
+In description:   
+ - Petite Fish Sandwich  
   
 **mahi mahi**  
 In name:   
@@ -14,6 +16,7 @@ In name:
   
 **fish**  
 In name:   
+ - Petite Fish Sandwich  
  - Vegan Fish Sandwich  
   
 **beef**  
