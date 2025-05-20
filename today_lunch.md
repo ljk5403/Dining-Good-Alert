@@ -1,6 +1,6 @@
 # 2025-05-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-19 18:17:14  
+Updated at: 2025-05-19 20:27:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-19)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-05-19)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-05-19)  
@@ -11,6 +11,9 @@ In name:
 **curry**  
 In name:   
  - Thai Veggie Meatballs w/ Green Curry  
+  
+In description:   
+ - Tikka Masala Chicken  
   
 **beef**  
 In name:   
@@ -35,6 +38,7 @@ In description:
 In name:   
  - Chicken Honey Lime w/ rice  
  - Beef & Chicken Meatballs  
+ - Tikka Masala Chicken  
  - Chicken Tinga  
  - Chicken Tortilla Soup  
  - Chicken Noodle Soup  
