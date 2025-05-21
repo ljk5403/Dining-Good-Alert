@@ -1,6 +1,6 @@
 # 2025-05-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-20 18:16:57  
+Updated at: 2025-05-20 20:27:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-20)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-05-20)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-05-20)  
@@ -21,6 +21,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Meatloaf  
  - Beef & Chicken Meatballs  
  - Beef & Bean Chili  
   
@@ -36,7 +37,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Creole  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Chicken Tinga  
