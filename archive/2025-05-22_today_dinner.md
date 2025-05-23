@@ -1,6 +1,6 @@
 # 2025-05-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-23 15:20:06  
+Updated at: 2025-05-23 16:14:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-23)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-05-23)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-05-23)  
@@ -37,7 +37,6 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice  
- - Vegan Taco Filling  
   
 **pork**  
 In name:   
