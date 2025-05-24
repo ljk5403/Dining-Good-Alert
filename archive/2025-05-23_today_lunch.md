@@ -1,6 +1,6 @@
 # 2025-05-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-24 11:20:40  
+Updated at: 2025-05-24 12:14:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-24)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-05-24)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-05-24)  
@@ -25,9 +25,6 @@ In description:
 In name:   
  - Pork Italian Sausage  
  - Italian Pork Sausage  
-  
-In description:   
- - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
