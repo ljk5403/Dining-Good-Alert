@@ -1,15 +1,20 @@
 # 2025-05-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-24 13:23:07  
+Updated at: 2025-05-24 15:18:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-24)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-05-24)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-05-24)  
+**drumstick**  
+In name:   
+ - Chicken Drumstick BBQ Glazed  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
   
 In description:   
  - Pepperoni Pizza Slice  
+ - Italian Meat Sauce  
  - Grilled Cheeseburger  
   
 **pork**  
@@ -18,7 +23,7 @@ In name:
   
 **chicken**  
 In name:   
- - Greek Chicken  
+ - Chicken Drumstick BBQ Glazed  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Cream of Chicken & Wild Rice Soup  
