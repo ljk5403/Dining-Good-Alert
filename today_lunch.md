@@ -1,6 +1,6 @@
 # 2025-05-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-24 01:23:59  
+Updated at: 2025-05-24 09:15:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-24)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-05-24)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-05-24)  
@@ -16,13 +16,14 @@ In name:
 In name:   
  - Beef Tri Tip Carved w/ Chimichurri  
  - Beef & Chicken Meatballs  
- - Beef Taco Meat  
   
 In description:   
+ - Italian Meat Sauce  
  - Pepperoni Pizza Slice  
   
 **pork**  
 In name:   
+ - Pork Italian Sausage  
  - Italian Pork Sausage  
   
 In description:   
@@ -39,8 +40,6 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice  
- - Pollo Con Pico  
- - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-05-24)  
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-05-24)  

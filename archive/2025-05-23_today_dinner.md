@@ -1,35 +1,9 @@
-# 2025-05-23 dinner  
+# 2025-05-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-23 20:23:59  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-23)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-05-23)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-05-23)  
-**drumstick**  
-In name:   
- - Chicken Drumstick Teriyaki Glazed  
-  
-**clam**  
-In name:   
- - Clam Chowder (Pork)  
-  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp  
-  
-**Cod**  
-In name:   
- - Battered Cod  
- - Vegan Cod Battered (2 pc)  
-  
-In description:   
- - Clam Chowder (Pork)  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Vegan Cod Battered (2 pc)  
-  
+Updated at: 2025-05-24 01:24:00  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-24)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-05-24)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-05-24)  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
@@ -37,26 +11,30 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice  
+ - Grilled Cheeseburger  
   
 **pork**  
 In name:   
- - Pork Carnita  
- - Clam Chowder (Pork)  
+ - Herb Crusted Pork Loin  
+ - Italian Pork Sausage  
   
 In description:   
  - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
- - Chicken Drumstick Teriyaki Glazed  
+ - Greek Chicken  
  - Beef & Chicken Meatballs  
+ - Lemon Pepper Chicken Salad  
+ - Cream of Chicken & Wild Rice Soup  
  - Diced Chicken  
   
 In description:   
  - Pepperoni Pizza Slice  
+ - Pollo Con Pico  
  - Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-05-23)  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-05-23)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-05-23)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-05-24)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-05-24)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-05-24)  
   
