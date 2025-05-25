@@ -1,6 +1,6 @@
 # 2025-05-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-25 15:18:36  
+Updated at: 2025-05-25 16:15:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-25)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-05-25)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-05-25)  
@@ -8,8 +8,15 @@ Updated at: 2025-05-25 15:18:36
 In name:   
  - Chicken Drumstick BBQ Glazed  
   
+**fish**  
+In name:   
+  
+In description:   
+ - Veggie Meatballs (Veg)  
+  
 **beef**  
 In name:   
+ - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
 **pork**  
@@ -19,6 +26,7 @@ In name:
 **chicken**  
 In name:   
  - Chicken Drumstick BBQ Glazed  
+ - Beef & Chicken Meatballs  
  - Chicken Tinga  
  - Lemon Chicken Rice Soup  
  - Diced Chicken  
