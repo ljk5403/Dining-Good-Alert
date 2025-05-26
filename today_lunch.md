@@ -1,6 +1,6 @@
 # 2025-05-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-26 10:19:18  
+Updated at: 2025-05-26 11:22:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-26)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-05-26)  
 **watermelon**  
@@ -71,7 +71,7 @@ In name:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
- - Chicken Noodle Soup  
+ - Cream of Chicken & Wild Rice Soup  
   
 In description:   
  - Pepperoni Pizza Slice  
