@@ -1,6 +1,6 @@
 # 2025-05-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-26 12:15:40  
+Updated at: 2025-05-26 13:24:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-26)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-05-26)  
 **watermelon**  
@@ -62,11 +62,15 @@ In name:
 In description:   
  - Plant-Based Pepper Steak Stir Fry  
  - Pepperoni Pizza Slice  
+ - Pizza Slice Deluxe  
  - Grilled Cheeseburger  
   
 **pork**  
 In name:   
  - Italian Pork Sausage  
+  
+In description:   
+ - Pizza Slice Deluxe  
   
 **chicken**  
 In name:   
@@ -75,6 +79,7 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice  
+ - Pizza Slice Deluxe  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-05-26)  
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-05-26)  
