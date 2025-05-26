@@ -1,6 +1,6 @@
 # 2025-05-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-26 13:24:40  
+Updated at: 2025-05-26 15:19:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-26)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-05-26)  
 **watermelon**  
@@ -45,17 +45,18 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Stew  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
 In description:   
  - Pepperoni Pizza Slice  
  - Vegan Taco Filling  
- - Cowboy Burger  
+ - Grilled Hamburger  
   
 **pork**  
 In name:   
- - Pork Loin Spicy Greenbush  
+ - Ancho Braised Pork  
  - Italian Pork Sausage  
   
 In description:   
@@ -63,13 +64,13 @@ In description:
   
 **chicken**  
 In name:   
- - Grilled Chicken Fillet  
  - Chicken Gravy  
  - Beef & Chicken Meatballs  
  - Chicken Tinga  
  - Chicken Noodle Soup  
   
 In description:   
+ - Ancho Braised Pork  
  - Pepperoni Pizza Slice  
  - Great Greens  
   
