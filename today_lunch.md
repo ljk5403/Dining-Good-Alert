@@ -1,6 +1,6 @@
 # 2025-05-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-27 10:20:23  
+Updated at: 2025-05-27 11:23:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-27)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-05-27)  
 **Salmon**  
@@ -42,10 +42,6 @@ In description:
  - Station Recipe - Liz - Great Greens  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-05-27)  
-**steak**  
-In name:   
- - Spicy Steak Fajita  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
@@ -62,7 +58,6 @@ In name:
 In description:   
  - Pepperoni Pizza Slice  
  - Pork Bratwurst Sandwich  
- - Spicy Steak Fajita  
   
 **pork**  
 In name:   
@@ -78,6 +73,7 @@ In name:
  - Giardiniera Chicken  
  - Beef & Chicken Meatballs  
  - Chicken Sausage Patties  
+ - Chicken Tinga  
  - Diced Chicken  
   
 In description:   
