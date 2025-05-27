@@ -1,6 +1,6 @@
 # 2025-05-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-27 13:25:12  
+Updated at: 2025-05-27 15:20:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-29)  
 **Cod**  
 In name:   
@@ -68,24 +68,8 @@ In description:
 In name:   
  - Lemon Pepper Tuna Salad  
   
-**beef**  
-In name:   
- - Beef & Chicken Meatballs  
- - Roast Beef  
- - Pork & Beef Hard Salami  
-  
-**pork**  
-In name:   
- - Pork & Beef Hard Salami  
-  
-In description:   
- - Smoked Ham  
- - Bacon  
-  
 **chicken**  
 In name:   
- - Beef & Chicken Meatballs  
- - Giardiniera Chicken  
  - Chicken Dumpling Soup  
  - Diced Chicken  
   

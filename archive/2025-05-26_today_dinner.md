@@ -1,6 +1,6 @@
 # 2025-05-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-27 12:16:50  
+Updated at: 2025-05-27 13:25:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-27)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-05-27)  
 **beef**  
@@ -28,10 +28,6 @@ In description:
  - Station Recipe - Liz - Great Greens  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-05-27)  
-**steak**  
-In name:   
- - Spicy Steak Fajita  
-  
 **Salmon**  
 In name:   
  - Hoisin BBQ Glazed Salmon  
@@ -44,18 +40,15 @@ In description:
   
 **beef**  
 In name:   
- - Beef Tri Tip Carved w/ Chimichurri  
  - Beef & Chicken Meatballs  
  - Roast Beef  
  - Pork & Beef Hard Salami  
  - Beef Taco Meat  
  - Beef & Bean Chili  
- - BBQ Beef Brisket Sandwich  
   
 In description:   
  - Italian Meat Sauce  
  - Pepperoni Pizza Slice  
- - Spicy Steak Fajita  
   
 **pork**  
 In name:   
@@ -63,14 +56,15 @@ In name:
  - Pork & Beef Hard Salami  
   
 In description:   
- - Pizza Slice Sausage  
  - Smoked Ham  
  - Bacon  
   
 **chicken**  
 In name:   
+ - Blackened Chicken with Orange Sauce  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
+ - Chicken Tinga  
  - Diced Chicken  
   
 In description:   

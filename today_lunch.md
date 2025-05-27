@@ -1,6 +1,6 @@
 # 2025-05-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-27 13:25:06  
+Updated at: 2025-05-27 15:20:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-27)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-05-27)  
 **Salmon**  
@@ -46,15 +46,9 @@ In description:
 In name:   
  - Salmon  
   
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Roast Beef  
- - Pork & Beef Hard Salami  
  - Beef Taco Meat  
  - Beef & Bean Chili  
   
@@ -64,13 +58,10 @@ In description:
   
 **pork**  
 In name:   
- - Pork & Beef Hard Salami  
  - Pork Bratwurst Sandwich  
   
 In description:   
  - Pizza Slice Sausage  
- - Smoked Ham  
- - Bacon  
   
 **chicken**  
 In name:   

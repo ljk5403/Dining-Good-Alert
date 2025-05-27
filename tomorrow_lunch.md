@@ -1,6 +1,6 @@
 # 2025-05-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-27 13:25:09  
+Updated at: 2025-05-27 15:20:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-28)  
 **Tuna**  
 In name:   
@@ -80,8 +80,6 @@ In description:
 In name:   
  - Beef Roast w/Mushroom Demi Glace  
  - Beef & Chicken Meatballs  
- - Roast Beef  
- - Pork & Beef Hard Salami  
  - Beef Barbacoa  
  - Beef Taco Meat  
   
@@ -91,12 +89,9 @@ In description:
 **pork**  
 In name:   
  - Italian Pork Sausage  
- - Pork & Beef Hard Salami  
   
 In description:   
  - Pizza Slice Sausage  
- - Smoked Ham  
- - Bacon  
   
 **chicken**  
 In name:   

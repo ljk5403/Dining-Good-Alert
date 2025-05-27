@@ -1,6 +1,6 @@
 # 2025-05-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-27 13:25:10  
+Updated at: 2025-05-27 15:20:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-28)  
 **Tandoori Chicken**  
 In name:   
@@ -75,24 +75,8 @@ In description:
  - Station Recipe - Liz - Great Greens  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-05-28)  
-**beef**  
-In name:   
- - Beef & Chicken Meatballs  
- - Roast Beef  
- - Pork & Beef Hard Salami  
-  
-**pork**  
-In name:   
- - Italian Pork Sausage  
- - Pork & Beef Hard Salami  
-  
-In description:   
- - Smoked Ham  
- - Bacon  
-  
 **chicken**  
 In name:   
- - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Chicken Tortilla Soup  
  - Diced Chicken  
