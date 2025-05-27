@@ -1,23 +1,29 @@
-# 2025-05-26 lunch  
+# 2025-05-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-26 20:26:03  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-26)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-05-26)  
-**watermelon**  
+Updated at: 2025-05-27 01:27:08  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-27)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-05-27)  
+**Salmon**  
 In name:   
- - Melon Watermelon Whole Sliced  
+ - Ginger Glazed Salmon  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Ginger Glazed Salmon  
+  
+**curry**  
+In name:   
+  
+In description:   
+ - Navarathan Korma Liz w/Rice (Veg)(CN)  
   
 **beef**  
 In name:   
- - Beef Roast w/Mushroom Demi Glace  
+ - Beef & Bean Chili  
  - Roast Beef  
  - Pork & Beef Hard Salami  
-  
-In description:   
- - Cheeseburger  
- - Hamburger  
- - Grilled Cheeseburger  
- - Grilled Hamburger  
   
 **pork**  
 In name:   
@@ -29,59 +35,55 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Noodle Soup  
+ - Chicken Stir-Fry Coconut Lime(AYCTE)(CN)  
  - Lemon Pepper Chicken Salad  
   
 In description:   
  - Station Recipe - Liz - Great Greens  
   
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-05-26)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-05-27)  
 **steak**  
 In name:   
- - Plant-Based Pepper Steak Stir Fry  
-  
-**Salmon**  
-In name:   
- - Baked Salmon with Mustard Sauce  
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Baked Salmon with Mustard Sauce  
+ - Spicy Steak Fajita  
   
 **beef**  
 In name:   
- - Beef Stew  
+ - Texas BBQ Sliced Beef Brisket  
  - Beef & Chicken Meatballs  
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
+ - Beef Broccoli Stir Fry w/Teriyaki Sauce  
+ - Plant-Based Beef & Broccoli Stir Fry  
+ - Beef Taco Meat  
+ - Beef & Bean Chili  
   
 In description:   
- - Plant-Based Pepper Steak Stir Fry  
+ - Italian Meat Sauce  
  - Pepperoni Pizza Slice  
- - Pizza Slice Deluxe  
- - Grilled Cheeseburger  
+ - Pork Bratwurst Sandwich  
+ - Spicy Steak Fajita  
   
 **pork**  
 In name:   
- - Italian Pork Sausage  
+ - Pork & Beef Hard Salami  
+ - Pork Bratwurst Sandwich  
   
 In description:   
- - Pizza Slice Deluxe  
+ - Pizza Slice Sausage  
+ - Smoked Ham  
+ - Bacon  
   
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
- - Cream of Chicken & Wild Rice Soup  
+ - Giardiniera Chicken  
+ - Diced Chicken  
   
 In description:   
  - Pepperoni Pizza Slice  
- - Pizza Slice Deluxe  
+ - Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-05-26)  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-05-26)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-05-26)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-05-27)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-05-27)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-05-27)  
   
