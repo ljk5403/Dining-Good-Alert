@@ -1,6 +1,6 @@
 # 2025-05-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-27 13:25:07  
+Updated at: 2025-05-27 15:20:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-27)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-05-27)  
 **beef**  
@@ -41,29 +41,16 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Roast Beef  
- - Pork & Beef Hard Salami  
  - Beef Taco Meat  
  - Beef & Bean Chili  
   
 In description:   
- - Italian Meat Sauce  
  - Pepperoni Pizza Slice  
-  
-**pork**  
-In name:   
- - Green Beans w/ Pork Bacon  
- - Pork & Beef Hard Salami  
-  
-In description:   
- - Smoked Ham  
- - Bacon  
   
 **chicken**  
 In name:   
  - Blackened Chicken with Orange Sauce  
  - Beef & Chicken Meatballs  
- - Giardiniera Chicken  
  - Chicken Tinga  
  - Diced Chicken  
   
