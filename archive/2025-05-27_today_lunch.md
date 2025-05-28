@@ -1,11 +1,7 @@
 # 2025-05-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-28 10:19:23  
+Updated at: 2025-05-28 11:22:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-28)  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad  
-  
 **curry**  
 In name:   
  - Beef Bombay Curry  
@@ -32,6 +28,7 @@ In description:
 In name:   
  - Honey Mustard Chicken & Vegetables  
  - Pizza Slice Chicken Sriracha  
+ - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
  - Chicken Tortilla Soup  
  - Diced Chicken Breast  
