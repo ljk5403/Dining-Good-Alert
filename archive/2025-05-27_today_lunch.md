@@ -1,6 +1,6 @@
 # 2025-05-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-28 13:25:11  
+Updated at: 2025-05-28 15:20:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-28)  
 **curry**  
 In name:   
@@ -73,39 +73,6 @@ In description:
  - Station Recipe - Liz - Great Greens  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-05-28)  
-**beef**  
-In name:   
- - Beef Roast w/Mushroom Demi Glace  
- - Beef & Chicken Meatballs  
- - Beef Barbacoa  
- - Beef Taco Meat  
-  
-In description:   
- - Pepperoni Pizza Slice  
-  
-**pork**  
-In name:   
- - Italian Pork Sausage  
-  
-In description:   
- - Pizza Slice Sausage  
-  
-**chicken**  
-In name:   
- - Broasted Chicken 2 pc  
- - Plant-Based Chicken & Dumplings  
- - Chicken Gravy  
- - Beef & Chicken Meatballs  
- - Lemon Pepper Chicken Salad  
- - Sweet & Spicy Orange Chicken  
- - Sweet & Spicy Orange "Chicken"  
- - Chicken Tortilla Soup  
- - Diced Chicken  
-  
-In description:   
- - Pepperoni Pizza Slice  
- - Great Greens  
-  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-05-28)  
 **watermelon**  
 In name:   
