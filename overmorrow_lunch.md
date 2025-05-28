@@ -1,6 +1,6 @@
 # 2025-05-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-28 13:25:25  
+Updated at: 2025-05-28 15:20:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-30)  
 **steak**  
 In name:   
@@ -105,53 +105,6 @@ In description:
  - Station Recipe - Liz - Great Greens  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-05-30)  
-**Tandoori Chicken**  
-In name:   
- - Tandoori Chicken  
-  
-**clam**  
-In name:   
- - Clam Chowder (Pork)  
-  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp  
-  
-**Cod**  
-In name:   
- - Fried Cod Basket  
-  
-In description:   
- - Clam Chowder (Pork)  
-  
-**beef**  
-In name:   
- - Beef & Chicken Meatballs  
- - Beef Taco Meat  
-  
-In description:   
- - Pepperoni Pizza Slice  
-  
-**pork**  
-In name:   
- - Clam Chowder (Pork)  
-  
-In description:   
- - Pizza Slice Sausage  
-  
-**chicken**  
-In name:   
- - Chicken Piece Seasoned Baked  
- - Beef & Chicken Meatballs  
- - Chicken Sausage Patties  
- - Tandoori Chicken  
- - Chicken Tinga  
- - Diced Chicken  
-  
-In description:   
- - Pepperoni Pizza Slice  
- - Great Greens  
-  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-05-30)  
 **watermelon**  
 In name:   
