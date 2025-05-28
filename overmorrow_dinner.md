@@ -1,6 +1,6 @@
 # 2025-05-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-27 18:17:10  
+Updated at: 2025-05-27 20:27:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-29)  
 **Cod**  
 In name:   
@@ -68,12 +68,33 @@ In description:
 In name:   
  - Lemon Pepper Tuna Salad  
   
-**chicken**  
+**beef**  
 In name:   
- - Chicken Dumpling Soup  
- - Diced Chicken  
+ - Beef Tri Tip Carved w/ Chimichurri  
+ - Beef & Chicken Meatballs  
+ - Beef Taco Meat  
   
 In description:   
+ - Pepperoni Pizza Slice  
+  
+**pork**  
+In name:   
+ - Sri Lanka Deviled Pork  
+ - Pork Carnita  
+  
+In description:   
+ - Pizza Slice Sausage  
+  
+**chicken**  
+In name:   
+ - Beef & Chicken Meatballs  
+ - Giardiniera Chicken  
+ - Chicken Dumpling Soup  
+ - Diced Chicken  
+ - Chicken Banh Mi  
+  
+In description:   
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-05-29)  

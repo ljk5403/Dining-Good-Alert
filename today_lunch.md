@@ -1,6 +1,6 @@
 # 2025-05-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-27 18:17:05  
+Updated at: 2025-05-27 20:27:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-27)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-05-27)  
 **Salmon**  
@@ -49,6 +49,8 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
+ - Beef Broccoli Stir Fry w/Teriyaki Sauce  
+ - Plant-Based Beef & Broccoli Stir Fry  
  - Beef Taco Meat  
  - Beef & Bean Chili  
   
@@ -68,6 +70,7 @@ In name:
  - Sweet & Sour Chicken  
  - Giardiniera Chicken  
  - Beef & Chicken Meatballs  
+ - Chicken Sausage Patties  
  - Chicken Tinga  
  - Diced Chicken  
   

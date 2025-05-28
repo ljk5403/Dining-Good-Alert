@@ -1,6 +1,6 @@
 # 2025-05-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-27 18:17:06  
+Updated at: 2025-05-27 20:27:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-27)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-05-27)  
 **beef**  
@@ -43,6 +43,7 @@ In name:
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
  - Beef & Bean Chili  
+ - BBQ Beef Brisket Sandwich  
   
 In description:   
  - Pepperoni Pizza Slice  
