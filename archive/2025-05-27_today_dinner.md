@@ -1,6 +1,6 @@
 # 2025-05-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-28 16:17:10  
+Updated at: 2025-05-28 17:17:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-28)  
 **Tandoori Chicken**  
 In name:   
@@ -9,10 +9,6 @@ In name:
 **Shrimp**  
 In name:   
  - Blackened Shrimp  
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad  
   
 **curry**  
 In name:   
@@ -36,6 +32,7 @@ In name:
 **chicken**  
 In name:   
  - Maple Cider Chicken  
+ - Lemon Pepper Chicken Salad  
  - Chicken Shawarma Sandwich  
  - Tandoori Chicken  
  - Chicken Tinga  
