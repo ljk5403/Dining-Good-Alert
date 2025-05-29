@@ -1,61 +1,55 @@
-# 2025-05-28 dinner  
+# 2025-05-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-28 20:27:20  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-28)  
-**Tandoori Chicken**  
+Updated at: 2025-05-29 01:27:51  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-05-29)  
+**Cod**  
 In name:   
- - Tandoori Chicken  
-  
-**Shrimp**  
-In name:   
- - Blackened Shrimp  
-  
-**curry**  
-In name:   
- - Mixed Vegetable Curry  
+ - Mediterranean Baked Cod  
   
 **beef**  
 In name:   
- - Beef Taco Meat  
+ - Beef & Chicken Meatballs  
+ - Beef Mediterranean  
   
 In description:   
- - Meat Lovers w/ Bacon (Pork) Pizza Slice  
- - Pepperoni Pizza Slice  
- - Vegan Taco Filling  
+ - Bibimbap Bowl  
   
 **pork**  
 In name:   
- - Italian Pork Sausage  
- - Meat Lovers w/ Bacon (Pork) Pizza Slice  
- - Pork Carnita  
+  
+In description:   
+ - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
- - Maple Cider Chicken  
+ - Chicken Breast w/Red Pepper Cream  
+ - Plant Based Chicken Strips  
+ - Beef & Chicken Meatballs  
+ - Pizza Slice BBQ Chicken & Bacon  
  - Lemon Pepper Chicken Salad  
- - Chicken Shawarma Sandwich  
- - Tandoori Chicken  
- - Chicken Tinga  
- - Chicken Tortilla Soup  
+ - Mediterranean Chicken  
+ - Chicken Dumpling Soup  
   
 In description:   
- - Meat Lovers w/ Bacon (Pork) Pizza Slice  
- - Pepperoni Pizza Slice  
  - Great Greens  
   
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-05-28)  
-**watermelon**  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-05-29)  
+**Tuna**  
 In name:   
- - Melon Watermelon Whole Sliced  
+ - Tuna Salad  
+  
+**fish**  
+In name:   
+ - Vegan Fish Sandwich  
   
 **beef**  
 In name:   
+ - Beef Taco Mac & Cheese  
  - Roast Beef  
  - Pork & Beef Hard Salami  
   
 **pork**  
 In name:   
- - Baked Pork Ham  
  - Pork & Beef Hard Salami  
   
 In description:   
@@ -64,56 +58,42 @@ In description:
   
 **chicken**  
 In name:   
- - Greek Lemon Chicken w/ Rice  
- - Chicken Tortilla Soup  
- - Lemon Pepper Chicken Salad  
+ - Chicken Dumpling Soup  
   
 In description:   
  - Station Recipe - Liz - Great Greens  
   
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-05-28)  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-05-28)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-05-29)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-05-29)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
-  
-**Pakoras**  
-In name:   
- - Appetizer -  Pakoras Vegetable (Veg)  
-  
-**Salmon**  
-In name:   
- - Grilled Sesame Ginger Salmon  
   
 **Tuna**  
 In name:   
  - Tuna Salad Sandwich  
   
-**fish**  
-In name:   
-  
-In description:   
- - Grilled Sesame Ginger Salmon  
-  
-**curry**  
-In name:   
- - Beef Bombay Curry  
- - Indian Vegetable Curry  
-  
 **beef**  
 In name:   
- - Beef Bombay Curry  
- - Beef Barbacoa  
  - Beef Taco Meat  
+  
+**pork**  
+In name:   
+ - Pork Carnita  
+  
+In description:   
+ - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
- - Crispy Chicken Sandwich  
- - Chicken Tortilla Soup  
+ - Chicken Bruschetta Sandwich  
+ - Jamaican Jerk Chicken  
+ - Plant Based Protein Chicken Taco Filling  
+ - Chicken Dumpling Soup  
   
 In description:   
  - Great Greens  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-05-28)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-05-28)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-05-29)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-05-29)  
   

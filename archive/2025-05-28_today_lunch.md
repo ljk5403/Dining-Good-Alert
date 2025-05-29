@@ -1,57 +1,59 @@
-# 2025-05-28 lunch  
+# 2025-05-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-28 20:27:16  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-28)  
-**curry**  
+Updated at: 2025-05-29 01:27:48  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-29)  
+**Shrimp**  
 In name:   
- - Beef Bombay Curry  
- - Indian Vegetable Curry  
+ - Shrimp Po-Boy Sandwich  
+  
+**Cod**  
+In name:   
+ - Caribbean Cod  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Kung Pao Chicken  
   
 **beef**  
 In name:   
- - Beef Bombay Curry  
- - Beef Taco Meat  
+ - Beef Mediterranean  
   
 In description:   
- - Vegan Taco Filling  
+ - Pepperoni Pizza Slice  
+ - Italian Meat Sauce  
   
 **pork**  
 In name:   
- - Octoberfest Pork Loin  
- - Pork Carnita  
-  
-In description:   
- - Pizza Slice Sausage  
- - Italian Sausage w/ Pepper & Onions  
+ - Italian Pork Sausage  
   
 **chicken**  
 In name:   
- - Honey Mustard Chicken & Vegetables  
- - Pizza Slice Chicken Sriracha  
+ - Chicken Mole w/ Rice  
  - Lemon Pepper Chicken Salad  
- - Chicken Tinga  
- - Chicken Tortilla Soup  
- - Diced Chicken Breast  
+ - Kung Pao Chicken  
+ - Mediterranean Chicken  
+ - Chicken Dumpling Soup  
+ - Plant Based Chicken Strips  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-05-28)  
-**watermelon**  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-05-29)  
+**Tuna**  
 In name:   
- - Melon Watermelon Whole Sliced  
-  
-**steak**  
-In name:   
- - Beef Stir Fry Pepper Steak (CN)  
+ - Tuna Salad  
   
 **curry**  
 In name:   
- - Thai Chick'n w/ Green Curry Sauce (CN)  
+  
+In description:   
+ - Aloo Bodi Tama  
   
 **beef**  
 In name:   
- - Beef Stir Fry Pepper Steak (CN)  
  - Roast Beef  
  - Pork & Beef Hard Salami  
   
@@ -65,54 +67,48 @@ In description:
   
 **chicken**  
 In name:   
- - Dan Dan w/ Chicken - Testing 2023 (CN)  
- - Chicken Tortilla Soup  
- - Lemon Pepper Chicken Salad  
+ - Chicken Wings Boneless (CN)  
+ - Vegetarian "Chicken" Nuggets  
+ - Chicken Dumpling Soup  
   
 In description:   
  - Station Recipe - Liz - Great Greens  
   
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-05-28)  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-05-28)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-05-29)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-05-29)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
   
-**catfish**  
+**steak**  
 In name:   
- - Panfried Southern Catfish  
+ - Swiss Steak w/Brown Gravy  
   
 **Tuna**  
 In name:   
  - Tuna Salad Sandwich  
   
-**fish**  
-In name:   
- - Panfried Southern Catfish  
-  
 **beef**  
 In name:   
- - Beef Barbacoa  
  - Beef Taco Meat  
   
 In description:   
- - Vegan Sloppy Joe  
+ - Swiss Steak w/Brown Gravy  
+ - Pork Bratwurst Sandwich  
   
 **pork**  
 In name:   
-  
-In description:   
- - Grilled Ham & Swiss Sandwich  
+ - Pork Bratwurst Sandwich  
+ - Pork Carnita  
   
 **chicken**  
 In name:   
- - Plant-Based Chicken Nuggets (8)  
- - Chicken Wings Boneless Plain  
- - Chicken Tortilla Soup  
+ - Plant-Based Chicken Taco Filling  
+ - Chicken Dumpling Soup  
   
 In description:   
  - Great Greens  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-05-28)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-05-28)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-05-29)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-05-29)  
   
