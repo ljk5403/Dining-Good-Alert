@@ -1,6 +1,6 @@
 # 2025-05-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-30 10:19:33  
+Updated at: 2025-05-30 11:23:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-30)  
 **steak**  
 In name:   
@@ -16,10 +16,6 @@ In name:
   
 In description:   
  - Clam Chowder (Pork)  
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad  
   
 **curry**  
 In name:   
@@ -49,6 +45,7 @@ In description:
 **chicken**  
 In name:   
  - Jollof Rice w/ Chicken (Pork)  
+ - Lemon Pepper Chicken Salad  
  - Plant Based Protein Chicken Taco Filling  
  - Diced Chicken  
  - Beef & Chicken Meatballs  
