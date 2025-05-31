@@ -1,93 +1,59 @@
-# 2025-05-30 lunch  
+# 2025-05-31 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-30 20:25:19  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-30)  
+Updated at: 2025-05-31 01:24:37  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-05-31)  
 **steak**  
 In name:   
- - Pizza Slice Philly Cheesesteak  
+ - Beef Pepper Steak Stir Fry w/Teryiaki  
+ - Plant-Based Pepper Steak Stir Fry  
   
-**clam**  
+**Tuna**  
 In name:   
- - Clam Chowder (Pork)  
-  
-**Cod**  
-In name:   
- - Baked Cod Fillet w/Butter & Lemon  
-  
-In description:   
- - Clam Chowder (Pork)  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Coconut Vegetable Stew  
+ - Lemon Pepper Tuna Salad  
   
 **beef**  
 In name:   
- - Beef Barbacoa  
+ - Beef Pepper Steak Stir Fry w/Teryiaki  
  - Beef Taco Meat  
  - Beef & Chicken Meatballs  
   
 In description:   
- - Pizza Slice Philly Cheesesteak  
- - Grilled Cheeseburger  
- - Korean BBQ Lettuce Wraps  
+ - Pepperoni & Mushrooms Pizza  
+ - Italian Meatball Sandwich  
+ - Plant-Based Pepper Steak Stir Fry  
   
 **pork**  
 In name:   
- - Jollof Rice w/ Chicken (Pork)  
- - Clam Chowder (Pork)  
+ - BBQ Pork Chop  
+ - Pork Carnita  
   
 In description:   
  - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
- - Jollof Rice w/ Chicken (Pork)  
- - Lemon Pepper Chicken Salad  
- - Plant Based Protein Chicken Taco Filling  
- - Diced Chicken  
+ - Chicken Tinga  
+ - Cream of Chicken & Wild Rice Soup  
  - Beef & Chicken Meatballs  
+ - Plant Based Chicken Strips  
   
 In description:   
- - Great Greens  
+ - Pepperoni & Mushrooms Pizza  
+ - Italian Meatball Sandwich  
   
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-05-30)  
-**watermelon**  
-In name:   
- - Melon Watermelon Whole Sliced  
-  
-**clam**  
-In name:   
- - Clam Chowder (Pork)  
-  
-**Cod**  
-In name:   
-  
-In description:   
- - Clam Chowder (Pork)  
-  
-**catfish**  
-In name:   
- - Garlic Baked Catfish  
-  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-05-31)  
 **Tuna**  
 In name:   
  - Tuna Salad  
   
-**fish**  
-In name:   
- - Garlic Baked Catfish  
-  
 **beef**  
 In name:   
+ - Beef Stew w/ Buttermilk Biscuit  
  - Roast Beef  
  - Pork & Beef Hard Salami  
   
 **pork**  
 In name:   
- - Clam Chowder (Pork)  
  - Pork & Beef Hard Salami  
   
 In description:   
@@ -96,71 +62,40 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Piece Seasoned Baked  
+ - Cream of Chicken & Wild Rice Soup  
   
 In description:   
  - Station Recipe - Liz - Great Greens  
   
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-05-30)  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-05-30)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-05-31)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-05-31)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
   
-**clam**  
-In name:   
- - Clam Chowder (Pork)  
-  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp  
-  
-**Cod**  
-In name:   
-  
-In description:   
- - Clam Chowder (Pork)  
-  
-**mahi mahi**  
-In name:   
- - Coconut Thai Curry Mahi Mahi  
-  
 **Tuna**  
 In name:   
  - Tuna Salad Sandwich  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Coconut Thai Curry Mahi Mahi  
-  
-**curry**  
-In name:   
- - Coconut Thai Curry Mahi Mahi  
   
 **beef**  
 In name:   
  - Beef Taco Meat  
   
 In description:   
- - Mushroom Swiss Burger  
- - Mediterranean Nachos  
- - Mediterranean Rice Bowl  
- - Vegan Taco Filling  
+ - Chicago-Style Hot Dog  
   
 **pork**  
 In name:   
- - Clam Chowder (Pork)  
+ - Appetizer -  Fried Pork Potstickers  
   
 **chicken**  
 In name:   
+ - Spicy Chicken Fajita  
+ - Cream of Chicken & Wild Rice Soup  
   
 In description:   
- - Mediterranean Nachos  
- - Mediterranean Rice Bowl  
  - Great Greens  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-05-30)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-05-30)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-05-31)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-05-31)  
   
