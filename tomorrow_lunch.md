@@ -1,57 +1,59 @@
-# 2025-06-01 lunch  
+# 2025-06-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-05-31 20:51:10  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-01)  
-**Tuna**  
+Updated at: 2025-06-01 01:26:21  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-02)  
+**BBQ Pork Sandwich**  
 In name:   
- - Lemon Pepper Tuna Salad  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Chicken Ala King over Biscuit  
+ - BBQ Pork Sandwich  
   
 **beef**  
 In name:   
- - Beef French Dip Sandwich  
- - Beef Barbacoa  
+ - Texas BBQ Sliced Beef Brisket  
  - Beef Taco Meat  
   
 In description:   
- - Pepperoni Pizza Slice  
+ - Pepperoni & Mushrooms Pizza  
  - Vegan Taco Filling  
   
 **pork**  
 In name:   
- - Italian Pork Sausage  
+ - BBQ Pork Sandwich  
+ - Imperial Pork Stir Fry  
+ - Pork Carnita  
+  
+In description:   
+ - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
- - Chicken Ala King over Biscuit  
- - Pizza Slice BBQ Chicken & Bacon  
- - Sweet & Sour Chicken  
- - Plant Based Sweet & Sour Chicken  
- - Fajita Chicken  
- - Lemon Chicken Rice Soup  
+ - Lemon Pepper Chicken Salad  
+ - Chicken Tinga  
+ - Chicken Noodle Soup  
+ - Diced Chicken Breast  
   
 In description:   
- - Pepperoni Pizza Slice  
+ - Pepperoni & Mushrooms Pizza  
+ - Great Greens  
   
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-06-01)  
-**Tuna**  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-06-02)  
+**watermelon**  
 In name:   
- - Tuna Salad  
+ - Melon Watermelon Whole Sliced  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Thai BBQ Pork Ribs  
   
 **beef**  
 In name:   
- - Beef Tri Tip Carved w/ Chimichurri  
  - Roast Beef  
  - Pork & Beef Hard Salami  
   
 **pork**  
 In name:   
- - Stir Fry Vietnamese Pork w/rice (CN)  
+ - Thai BBQ Pork Ribs  
  - Pork & Beef Hard Salami  
   
 In description:   
@@ -60,42 +62,39 @@ In description:
   
 **chicken**  
 In name:   
- - Lemon Chicken Rice Soup  
+ - Chicken Parmigiana  
+ - Chicken Noodle Soup  
+ - Lemon Pepper Chicken Salad  
   
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-06-01)  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-06-01)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-06-02)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-06-02)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
   
-**Samosas**  
-In name:   
- - Samosas  
-  
-**Tuna**  
-In name:   
- - Tuna Salad Sandwich  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Tikka Masala Chicken  
-  
 **beef**  
 In name:   
- - Beef Barbacoa  
  - Beef Taco Meat  
+  
+In description:   
+ - BBQ Brisket Sandwich  
+ - Vegan Taco Filling  
+  
+**pork**  
+In name:   
+ - Italian Pork Sausage  
   
 **chicken**  
 In name:   
- - Crispy Chicken Sandwich  
- - Tikka Masala Chicken  
- - Lemon Chicken Rice Soup  
+ - Buffalo Chicken Wrap  
+ - Plant Based Chicken Strips  
+ - Lemon Pepper Chicken Salad  
+ - Chicken Tinga  
+ - Chicken Noodle Soup  
   
 In description:   
  - Great Greens  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-06-01)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-06-01)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-06-02)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-06-02)  
   
