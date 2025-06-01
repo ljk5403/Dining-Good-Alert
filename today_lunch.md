@@ -1,6 +1,6 @@
 # 2025-06-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-01 09:15:48  
+Updated at: 2025-06-01 10:17:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-01)  
 **Tuna**  
 In name:   
@@ -30,8 +30,6 @@ In name:
 In name:   
  - Chicken Ala King over Biscuit  
  - Pizza Slice BBQ Chicken & Bacon  
- - Sweet & Sour Chicken  
- - Plant Based Sweet & Sour Chicken  
  - Fajita Chicken  
   
 In description:   
