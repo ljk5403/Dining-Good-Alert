@@ -1,11 +1,7 @@
 # 2025-06-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-01 11:21:10  
+Updated at: 2025-06-01 12:15:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-01)  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad  
-  
 **curry**  
 In name:   
   
