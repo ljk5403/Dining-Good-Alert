@@ -1,6 +1,6 @@
 # 2025-06-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-01 09:15:49  
+Updated at: 2025-06-01 10:17:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-01)  
 **Salmon**  
 In name:   
@@ -14,24 +14,21 @@ In description:
   
 **beef**  
 In name:   
- - Beef Barbacoa  
- - Beef Taco Meat  
   
 In description:   
  - Pepperoni Pizza Slice  
- - Vegan Taco Filling  
   
 **pork**  
 In name:   
  - Italian Pork Sausage  
  - Hawaiian (Pork) Pizza Slice  
  - Pork Banh Mi  
+ - Jollof Rice w/ Chicken (Pork)  
   
 **chicken**  
 In name:   
  - Chicken Baked  (1 piece)  
- - Chicken Teriyaki Stir Fry  
- - Fajita Chicken  
+ - Jollof Rice w/ Chicken (Pork)  
   
 In description:   
  - Pepperoni Pizza Slice  

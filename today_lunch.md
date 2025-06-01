@@ -1,6 +1,6 @@
 # 2025-06-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-01 10:17:24  
+Updated at: 2025-06-01 11:21:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-01)  
 **Tuna**  
 In name:   
@@ -19,7 +19,6 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Pepperoni Pizza Slice  
  - Vegan Taco Filling  
   
 **pork**  
@@ -31,9 +30,6 @@ In name:
  - Chicken Ala King over Biscuit  
  - Pizza Slice BBQ Chicken & Bacon  
  - Fajita Chicken  
-  
-In description:   
- - Pepperoni Pizza Slice  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-06-01)  
 **Tuna**  
