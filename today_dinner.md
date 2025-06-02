@@ -1,6 +1,6 @@
 # 2025-06-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-02 15:20:19  
+Updated at: 2025-06-02 16:18:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-02)  
 **fish**  
 In name:   
@@ -94,12 +94,9 @@ In name:
   
 **beef**  
 In name:   
- - Beef Taco Meat  
   
 In description:   
- - Banh Mi Hot Dog  
  - Burnt Ends  
- - Vegan Taco Filling  
   
 **pork**  
 In name:   
@@ -110,7 +107,6 @@ In description:
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
- - Chicken Tinga  
  - Chicken Noodle Soup  
   
 In description:   
