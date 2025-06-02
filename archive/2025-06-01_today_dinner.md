@@ -1,43 +1,75 @@
-# 2025-06-01 dinner  
+# 2025-06-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-01 20:39:52  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-01)  
-**Salmon**  
-In name:   
- - Grilled Chipotle Salmon  
-  
+Updated at: 2025-06-02 01:29:03  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-02)  
 **fish**  
 In name:   
   
 In description:   
- - Grilled Chipotle Salmon  
+ - Filipino Barbecue - Pork  
+ - Kung Pao Chicken  
   
-**pork**  
+**curry**  
 In name:   
- - Italian Pork Sausage  
- - Pork Banh Mi  
- - Jollof Rice w/ Chicken (Pork)  
-  
-**chicken**  
-In name:   
- - Chicken Baked  (1 piece)  
- - Pizza Slice BBQ Chicken & Bacon  
- - Jollof Rice w/ Chicken (Pork)  
-  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-06-01)  
-**Tuna**  
-In name:   
- - Tuna Salad  
+ - Currywurst (Pork)  
+ - Vegan Currywurst  
   
 **beef**  
 In name:   
- - Wrap Lettuce Beef Korean BBQ (no nuts)  
- - Roast Beef  
- - Pork & Beef Hard Salami  
+ - Beef Taco Meat  
+  
+In description:   
+ - Italian Meat Sauce  
+ - Currywurst (Pork)  
+ - Vegan Taco Filling  
   
 **pork**  
 In name:   
- - Herb Crusted Pork Loin  
+ - Filipino Barbecue - Pork  
+ - Italian Pork Sausage  
+ - Chicken Bacon (Pork) Ranch Pizza  
+ - Currywurst (Pork)  
+ - Pork Carnita  
+  
+In description:   
+ - Pizza Slice Sausage  
+  
+**chicken**  
+In name:   
+ - Blackened Chicken with Orange Sauce  
+ - Chicken Bacon (Pork) Ranch Pizza  
+ - Lemon Pepper Chicken Salad  
+ - Kung Pao Chicken  
+ - Chicken Tinga  
+ - Chicken Noodle Soup  
+  
+In description:   
+ - Great Greens  
+  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-06-02)  
+**watermelon**  
+In name:   
+ - Melon Watermelon Whole Sliced  
+  
+**drumstick**  
+In name:   
+ - Chicken Drumstick Gochujang Glazed  
+  
+**Chicken Drumstick Gochujang Glazed**  
+In name:   
+ - Chicken Drumstick Gochujang Glazed  
+  
+**beef**  
+In name:   
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
+  
+In description:   
+ - Kielbasa (Pork) with Pierogis  
+  
+**pork**  
+In name:   
+ - Kielbasa (Pork) with Pierogis  
  - Pork & Beef Hard Salami  
   
 In description:   
@@ -46,48 +78,44 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Gravy  
- - Lemon Chicken Rice Soup  
+ - Chicken Drumstick Gochujang Glazed  
+ - Chicken Noodle Soup  
+ - Lemon Pepper Chicken Salad  
   
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-06-01)  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-06-01)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-06-02)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-06-02)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
   
-**steak**  
+**broccoli rabe**  
 In name:   
- - Country Fried Steak  
-  
-**Cod**  
-In name:   
- - Caribbean Cod  
-  
-**Tuna**  
-In name:   
- - Tuna Salad Sandwich  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Coconut Vegetable Stew  
+ - Broccoli Rabe  
   
 **beef**  
 In name:   
  - Beef Taco Meat  
   
 In description:   
- - Country Fried Steak  
+ - Banh Mi Hot Dog  
+ - Burnt Ends  
+ - Vegan Taco Filling  
+  
+**pork**  
+In name:   
+  
+In description:   
+ - Andouille Sausage  
   
 **chicken**  
 In name:   
- - Taco Chicken  
- - Lemon Chicken Rice Soup  
+ - Lemon Pepper Chicken Salad  
+ - Chicken Tinga  
+ - Chicken Noodle Soup  
   
 In description:   
  - Great Greens  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-06-01)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-06-01)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-06-02)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-06-02)  
   
