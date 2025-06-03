@@ -1,6 +1,6 @@
 # 2025-06-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-03 01:29:02  
+Updated at: 2025-06-03 09:19:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-03)  
 **drumstick**  
 In name:   
@@ -117,11 +117,6 @@ In name:
  - Beef Taco Meat  
  - Beef & Bean Chili  
   
-In description:   
- - Bacon Bleu Burger  
- - Mediterranean Nachos  
- - Mediterranean Rice Bowl  
-  
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
@@ -130,8 +125,6 @@ In name:
  - Taco Chicken  
   
 In description:   
- - Mediterranean Nachos  
- - Mediterranean Rice Bowl  
  - Great Greens  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-06-03)  

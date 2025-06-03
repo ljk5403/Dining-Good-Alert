@@ -1,6 +1,6 @@
 # 2025-06-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-03 01:29:00  
+Updated at: 2025-06-03 09:19:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-03)  
 **Shrimp**  
 In name:   
@@ -84,7 +84,6 @@ In name:
   
 **pork**  
 In name:   
- - Apple Cider Braised Pork  
  - Imperial Pork Stir Fry  
   
 **chicken**  
@@ -94,7 +93,6 @@ In name:
  - Taco Chicken  
   
 In description:   
- - Apple Cider Braised Pork  
  - Great Greens  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-06-03)  
