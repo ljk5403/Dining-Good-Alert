@@ -1,14 +1,26 @@
 # 2025-06-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-03 13:27:21  
+Updated at: 2025-06-03 15:21:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-03)  
 **drumstick**  
 In name:   
  - Chicken Drumstick BBQ Glazed  
   
+**Shrimp**  
+In name:   
+  
+In description:   
+ - Kimchee Reuben Sandwich  
+  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Kimchee Reuben Sandwich  
   
 **lamb**  
 In name:   
@@ -26,7 +38,7 @@ In description:
  - Sausage (Pork), Potatoes, & Peppers  
  - Pepperoni Pizza Slice  
  - Pizza Slice Gyro  
- - Pastrami & Swiss Sandwich  
+ - Kimchee Reuben Sandwich  
   
 **pork**  
 In name:   
@@ -110,7 +122,7 @@ In name:
   
 **drumstick**  
 In name:   
- - Smoked Chicken Drumstick  
+ - Chicken Drumstick  
   
 **beef**  
 In name:   
@@ -120,7 +132,7 @@ In name:
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
- - Smoked Chicken Drumstick  
+ - Chicken Drumstick  
  - Chicken Gravy  
  - Taco Chicken  
   
