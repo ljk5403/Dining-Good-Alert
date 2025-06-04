@@ -1,19 +1,7 @@
 # 2025-06-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-04 10:41:29  
+Updated at: 2025-06-04 11:20:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-04)  
-**Shrimp**  
-In name:   
-  
-In description:   
- - Kimchee Reuben Sandwich  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Kimchee Reuben Sandwich  
-  
 **curry**  
 In name:   
   
@@ -27,7 +15,7 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Kimchee Reuben Sandwich  
+ - Reuben  
   
 **pork**  
 In name:   

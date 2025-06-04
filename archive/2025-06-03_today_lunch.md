@@ -1,6 +1,6 @@
 # 2025-06-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-04 09:15:38  
+Updated at: 2025-06-04 10:41:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-04)  
 **beef**  
 In name:   
@@ -68,16 +68,9 @@ In name:
 In name:   
  - Watermelon Slices  
   
-**beef**  
-In name:   
- - Beef Barbacoa  
- - Beef Taco Meat  
-  
 **chicken**  
 In name:   
  - Chicken Pot Pie w/ Biscuit  
- - Plant-Based Chicken Nuggets (8)  
- - Chicken Wings Boneless Plain  
  - Lemon Pepper Chicken Salad  
  - Chicken Tortilla Soup  
   
