@@ -1,6 +1,6 @@
 # 2025-06-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-05 16:17:29  
+Updated at: 2025-06-05 17:16:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-05)  
 **Tuna**  
 In name:   
@@ -27,7 +27,6 @@ In description:
 In name:   
  - Chicken Breast w/Red Pepper Cream  
  - Plant-Based Chicken & Dumplings  
- - Plant Based Chicken Strips  
  - Beef & Chicken Meatballs  
  - Butter Chicken  
  - Mediterranean Chicken  
