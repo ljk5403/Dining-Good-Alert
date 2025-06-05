@@ -1,6 +1,6 @@
 # 2025-06-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-05 09:18:49  
+Updated at: 2025-06-05 10:20:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-05)  
 **Shrimp**  
 In name:   
@@ -12,7 +12,7 @@ In name:
   
 **curry**  
 In name:   
- - Squash Curry  
+ - Mixed Vegetable Curry  
   
 In description:   
  - Madras Chicken w/Basmati Rice  

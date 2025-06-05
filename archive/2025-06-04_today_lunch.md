@@ -1,6 +1,6 @@
 # 2025-06-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-05 01:28:39  
+Updated at: 2025-06-05 09:18:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-05)  
 **Shrimp**  
 In name:   
@@ -82,7 +82,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Taco Meat  
   
 In description:   
  - Grilled Flank Steak  
@@ -90,16 +89,13 @@ In description:
   
 **pork**  
 In name:   
- - Pork Carnita  
   
 In description:   
  - Grilled Cuban Sandwich  
   
 **chicken**  
 In name:   
- - Italian Chicken  
  - Lemon Pepper Chicken Salad  
- - Plant-Based Chicken Taco Filling  
  - Chicken Dumpling Soup  
   
 In description:   
