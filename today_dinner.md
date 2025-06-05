@@ -1,6 +1,6 @@
 # 2025-06-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-05 01:28:42  
+Updated at: 2025-06-05 09:18:52  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-05)  
 **Tuna**  
 In name:   
@@ -123,7 +123,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Taco Meat  
   
 In description:   
  - Grilled Cheeseburger  
@@ -131,12 +130,10 @@ In description:
 **pork**  
 In name:   
  - Spicy Greenbush Pork Loin  
- - Pork Carnita  
   
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
- - Plant-Based Chicken Taco Filling  
  - Chicken Dumpling Soup  
   
 In description:   
