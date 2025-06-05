@@ -1,6 +1,6 @@
 # 2025-06-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-05 10:20:20  
+Updated at: 2025-06-05 11:24:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-05)  
 **Shrimp**  
 In name:   
@@ -85,13 +85,6 @@ In name:
   
 In description:   
  - Grilled Flank Steak  
- - Grilled Cuban Sandwich  
-  
-**pork**  
-In name:   
-  
-In description:   
- - Grilled Cuban Sandwich  
   
 **chicken**  
 In name:   
