@@ -1,6 +1,6 @@
 # 2025-06-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-06 13:26:35  
+Updated at: 2025-06-06 15:21:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-06)  
 **clam**  
 In name:   
@@ -177,10 +177,6 @@ In name:
 In name:   
  - Clam Chowder (Pork)  
   
-**Shrimp**  
-In name:   
- - Sauteed Shrimp  
-  
 **Cod**  
 In name:   
   
@@ -193,11 +189,9 @@ In name:
   
 **beef**  
 In name:   
- - Beef Taco Meat  
   
 In description:   
  - Plant-Based Pepper Steak Stir Fry  
- - Vegan Taco Filling  
   
 **pork**  
 In name:   
