@@ -1,6 +1,6 @@
 # 2025-06-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-06 16:17:34  
+Updated at: 2025-06-06 17:17:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-06)  
 **clam**  
 In name:   
@@ -46,6 +46,7 @@ In name:
 In name:   
  - Chicken Tenders Breaded  
  - Plant-Based Chicken Tenders  
+ - Plant Based Chicken Strips  
  - Diced Chicken Breast  
  - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
