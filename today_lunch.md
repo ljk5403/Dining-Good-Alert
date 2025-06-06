@@ -1,6 +1,6 @@
 # 2025-06-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-06 01:28:25  
+Updated at: 2025-06-06 09:18:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-06)  
 **drumstick**  
 In name:   
@@ -120,7 +120,6 @@ In name:
   
 **fish**  
 In name:   
- - Vegan Fish Sandwich  
   
 In description:   
  - Blackened Salmon  
@@ -130,8 +129,6 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Mediterranean Nachos  
- - Mediterranean Rice Bowl  
  - Vegan Taco Filling  
   
 **pork**  
@@ -141,12 +138,9 @@ In name:
 **chicken**  
 In name:   
  - Plant-Based Chicken & Dumplings  
- - Grilled Chicken Sandwich  
  - Lemon Pepper Chicken Salad  
   
 In description:   
- - Mediterranean Nachos  
- - Mediterranean Rice Bowl  
  - Great Greens  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-06-06)  

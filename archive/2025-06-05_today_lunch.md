@@ -1,99 +1,154 @@
-# 2025-06-05 lunch  
+# 2025-06-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-05 20:27:17  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-05)  
+Updated at: 2025-06-06 01:28:25  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-06)  
+**drumstick**  
+In name:   
+ - Chicken Drumstick Gochujang Glazed  
+  
+**Chicken Drumstick Gochujang Glazed**  
+In name:   
+ - Chicken Drumstick Gochujang Glazed  
+  
+**clam**  
+In name:   
+ - Clam Chowder (Pork)  
+  
 **Shrimp**  
 In name:   
- - Shrimp & Pork Jambalaya  
+ - Pizza Slice Shrimp Pesto  
+ - Chipotle Shrimp  
   
-**Tuna**  
+**Cod**  
 In name:   
- - Lemon Pepper Tuna Salad  
-  
-**curry**  
-In name:   
- - Mixed Vegetable Curry  
+ - Miso Cod  
   
 In description:   
- - Madras Chicken w/Basmati Rice  
+ - Clam Chowder (Pork)  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Miso Cod  
   
 **beef**  
 In name:   
- - Beef Mediterranean  
- - Beef & Chicken Meatballs  
+ - Beef Taco Meat  
   
 In description:   
- - Pepperoni Pizza Slice  
- - Pizza Slice Deluxe (Pork)  
- - Grilled Cheeseburger  
+ - Vegan Taco Filling  
   
 **pork**  
 In name:   
- - Shrimp & Pork Jambalaya  
- - Pizza Slice Deluxe (Pork)  
+ - Clam Chowder (Pork)  
+  
+In description:   
+ - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
- - Madras Chicken w/Basmati Rice  
- - Mediterranean Chicken  
- - Chicken Dumpling Soup  
- - Beef & Chicken Meatballs  
- - Plant Based Chicken Strips  
+ - Chicken Drumstick Gochujang Glazed  
+ - Lemon Pepper Chicken Salad  
+ - Sesame Chicken  
+ - Chicken Tinga  
+ - Diced Chicken Breast  
   
 In description:   
- - Shrimp & Pork Jambalaya  
- - Pepperoni Pizza Slice  
- - Pizza Slice Deluxe (Pork)  
  - Great Greens  
   
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-06-05)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-06-06)  
+**watermelon**  
+In name:   
+ - Melon Watermelon Whole Sliced  
+  
+**clam**  
+In name:   
+ - Clam Chowder (Pork)  
+  
+**Cod**  
+In name:   
+  
+In description:   
+ - Clam Chowder (Pork)  
+  
+**Tilapia**  
+In name:   
+ - Blackened Tilapia Tacos  
+  
 **Tuna**  
 In name:   
  - Tuna Salad  
   
 **beef**  
 In name:   
- - Beef Taco Meat  
  - Roast Beef  
  - Pork & Beef Hard Salami  
   
 **pork**  
 In name:   
+ - Clam Chowder (Pork)  
  - Pork & Beef Hard Salami  
   
 In description:   
  - Smoked Ham  
  - Bacon  
   
-**chicken**  
-In name:   
- - Chicken Tinga  
- - Chicken Dumpling Soup  
-  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-06-05)  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-06-05)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-06-06)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-06-06)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
   
-**steak**  
+**clam**  
 In name:   
- - Grilled Flank Steak  
+ - Clam Chowder (Pork)  
+  
+**Shrimp**  
+In name:   
+ - Sauteed Shrimp  
+  
+**Cod**  
+In name:   
+  
+In description:   
+ - Clam Chowder (Pork)  
+  
+**Salmon**  
+In name:   
+ - Blackened Salmon  
+  
+**fish**  
+In name:   
+ - Vegan Fish Sandwich  
+  
+In description:   
+ - Blackened Salmon  
   
 **beef**  
 In name:   
+ - Beef Taco Meat  
   
 In description:   
- - Grilled Flank Steak  
+ - Mediterranean Nachos  
+ - Mediterranean Rice Bowl  
+ - Vegan Taco Filling  
+  
+**pork**  
+In name:   
+ - Clam Chowder (Pork)  
   
 **chicken**  
 In name:   
+ - Plant-Based Chicken & Dumplings  
+ - Grilled Chicken Sandwich  
  - Lemon Pepper Chicken Salad  
- - Chicken Dumpling Soup  
   
 In description:   
+ - Mediterranean Nachos  
+ - Mediterranean Rice Bowl  
  - Great Greens  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-06-05)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-06-05)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-06-06)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-06-06)  
   
