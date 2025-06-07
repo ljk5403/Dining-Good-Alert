@@ -1,6 +1,6 @@
 # 2025-06-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-07 10:17:46  
+Updated at: 2025-06-07 11:20:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-07)  
 **watermelon**  
 In name:   
@@ -114,20 +114,9 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**steak**  
-In name:   
- - Philly Cheesesteak Sandwich  
-  
 **beef**  
 In name:   
  - Beef Taco Meat  
-  
-In description:   
- - Philly Cheesesteak Sandwich  
-  
-**pork**  
-In name:   
- - Appetizer -  Fried Pork Potstickers  
   
 **chicken**  
 In name:   
