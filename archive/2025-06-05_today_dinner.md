@@ -1,6 +1,6 @@
 # 2025-06-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-06 17:17:35  
+Updated at: 2025-06-06 18:17:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-06)  
 **clam**  
 In name:   
@@ -17,16 +17,9 @@ In name:
 In description:   
  - Clam Chowder (Pork)  
   
-**Salmon**  
-In name:   
- - Blackened Salmon Salad  
-  
 **fish**  
 In name:   
  - Vegan Fish Sandwich  
-  
-In description:   
- - Blackened Salmon Salad  
   
 **beef**  
 In name:   
@@ -49,6 +42,7 @@ In name:
  - Plant Based Chicken Strips  
  - Diced Chicken Breast  
  - Lemon Pepper Chicken Salad  
+ - Crispy Chicken Sandwich  
  - Chicken Tinga  
   
 In description:   
