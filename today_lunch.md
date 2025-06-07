@@ -1,6 +1,6 @@
 # 2025-06-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-07 11:20:55  
+Updated at: 2025-06-07 12:15:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-07)  
 **watermelon**  
 In name:   
@@ -33,7 +33,6 @@ In name:
 **chicken**  
 In name:   
  - Spicy Lo Mein w/Chicken  
- - Plant-Based Chicken Lo Mein  
  - Chicken Tinga  
  - Cream of Chicken & Wild Rice Soup  
   
