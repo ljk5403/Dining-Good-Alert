@@ -1,6 +1,6 @@
 # 2025-06-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-07 13:23:53  
+Updated at: 2025-06-07 15:18:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-07)  
 **watermelon**  
 In name:   
@@ -127,7 +127,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Taco Meat  
   
 In description:   
  - Pork Bratwurst Sandwich  
@@ -139,7 +138,6 @@ In name:
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
- - Spicy Chicken Fajita  
  - Cream of Chicken & Wild Rice Soup  
   
 In description:   
