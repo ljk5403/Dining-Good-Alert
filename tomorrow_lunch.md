@@ -1,143 +1,156 @@
-# 2025-06-07 lunch  
+# 2025-06-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-06 20:27:13  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-07)  
-**watermelon**  
-In name:   
-  
-In description:   
- - Fresh Fruit Salad (VN)  
-  
-**Shrimp**  
-In name:   
- - Manicotti Shrimp Alfredo  
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad  
-  
-**beef**  
-In name:   
- - Beef Taco Meat  
-  
-In description:   
- - Pepperoni Pizza Slice  
- - Chicago-Style Hot Dog  
-  
-**pork**  
-In name:   
- - Boneless Baked Pork Ham  
- - Pork Carnita  
- - Italian Pork Sausage  
-  
-**chicken**  
-In name:   
- - Spicy Lo Mein w/Chicken  
- - Plant-Based Chicken Lo Mein  
- - Chicken Tinga  
- - Cream of Chicken & Wild Rice Soup  
-  
-In description:   
- - Pepperoni Pizza Slice  
- - Great Greens  
-  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-06-07)  
-**Tuna**  
-In name:   
- - Tuna Salad  
-  
-**beef**  
-In name:   
- - Homemade Beef Lasagna  
- - Roast Beef  
- - Pork & Beef Hard Salami  
-  
-**pork**  
-In name:   
- - Pork & Beef Hard Salami  
-  
-In description:   
- - Smoked Ham  
- - Bacon  
-  
-**chicken**  
-In name:   
- - Cream of Chicken & Wild Rice Soup  
-  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-06-07)  
-**drumstick**  
-In name:   
- - Chicken Drumstick Gochujang Glazed  
-  
-**Chicken Drumstick Gochujang Glazed**  
-In name:   
- - Chicken Drumstick Gochujang Glazed  
-  
-**beef**  
-In name:   
- - Beef Tri Tip Carved w/ Chimichurri  
- - Beef & Chicken Meatballs  
- - Roast Beef  
- - Pork & Beef Hard Salami  
- - Beef Taco Meat  
-  
-In description:   
- - Pepperoni Pizza Slice  
-  
-**pork**  
-In name:   
- - Italian Pork Sausage  
- - Pork & Beef Hard Salami  
- - Pork Sausage Patties  
-  
-In description:   
- - Pizza Slice Sausage  
- - Smoked Ham  
- - Bacon  
-  
-**chicken**  
-In name:   
- - Chicken Drumstick Gochujang Glazed  
- - Beef & Chicken Meatballs  
- - Lemon Pepper Chicken Salad  
- - Crispy Buffalo Chicken Sandwich  
- - Cream of Chicken & Wild Rice Soup  
- - Diced Chicken  
-  
-In description:   
- - Pepperoni Pizza Slice  
- - Pollo Con Pico  
- - Great Greens  
-  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-06-07)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
+Updated at: 2025-06-07 01:25:16  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-08)  
 **steak**  
 In name:   
  - Philly Cheesesteak Sandwich  
   
-**beef**  
+**Salmon**  
 In name:   
- - Beef Taco Meat  
+ - Masala Spiced Salmon  
+  
+**fish**  
+In name:   
   
 In description:   
- - Philly Cheesesteak Sandwich  
+ - Masala Spiced Salmon  
   
-**pork**  
+**curry**  
 In name:   
- - Appetizer -  Fried Pork Potstickers  
+ - Squash Curry  
+  
+In description:   
+ - Tikka Masala Chicken  
+ - Tofu & Vegetable Tikka Masala  
+  
+**beef**  
+In name:   
+ - Beef Barbacoa  
+ - Beef Taco Meat  
+ - Beef Ravioli Plain  
+  
+In description:   
+ - Pepperoni Pizza Slice  
+ - Philly Cheesesteak Sandwich  
   
 **chicken**  
 In name:   
+ - Chicken & Vegetables w/Dijon Vinaigrette  
  - Lemon Pepper Chicken Salad  
- - Spicy Chicken Fajita  
- - Cream of Chicken & Wild Rice Soup  
+ - Tikka Masala Chicken  
+ - Fajita Chicken  
+ - Lemon Chicken Rice Soup  
+ - Diced Chicken Breast  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Great Greens  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-06-07)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-06-07)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-06-08)  
+**lamb**  
+In name:   
+ - Lamb & Beef Gyro Sandwich  
+  
+**beef**  
+In name:   
+ - Lamb & Beef Gyro Sandwich  
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
+  
+**pork**  
+In name:   
+ - Pork & Beef Hard Salami  
+  
+In description:   
+ - Smoked Ham  
+ - Bacon  
+  
+**chicken**  
+In name:   
+ - Baked BBQ Chicken  
+ - Lemon Chicken Rice Soup  
+  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-06-08)  
+**steak**  
+In name:   
+ - Plant-Based Pepper Steak Stir Fry  
+  
+**Shrimp**  
+In name:   
+ - Coconut Shrimp  
+  
+**beef**  
+In name:   
+ - Beef & Chicken Meatballs  
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
+ - Beef Barbacoa  
+ - Beef Taco Meat  
+  
+In description:   
+ - Plant-Based Pepper Steak Stir Fry  
+ - Pepperoni Pizza Slice  
+  
+**pork**  
+In name:   
+ - Pork Miso w/Yakisoba Noodles  
+ - Pork & Beef Hard Salami  
+  
+In description:   
+ - Pizza Slice Sausage  
+ - Smoked Ham  
+  
+**chicken**  
+In name:   
+ - Beef & Chicken Meatballs  
+ - Giardiniera Chicken  
+ - Grilled Chicken Sandwich  
+ - Lemon Chicken Rice Soup  
+ - Diced Chicken  
+  
+In description:   
+ - Pork Miso w/Yakisoba Noodles  
+ - Pepperoni Pizza Slice  
+ - Great Greens  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-06-08)  
+**watermelon**  
+In name:   
+ - Watermelon Slices  
+  
+**Samosas**  
+In name:   
+ - Samosas  
+  
+**curry**  
+In name:   
+  
+In description:   
+ - Tikka Masala Chicken  
+  
+**beef**  
+In name:   
+ - Beef Barbacoa  
+ - Beef Taco Meat  
+  
+In description:   
+ - Corn Dog (Pork)  
+  
+**pork**  
+In name:   
+ - Corn Dog (Pork)  
+  
+**chicken**  
+In name:   
+ - Tikka Masala Chicken  
+ - Lemon Pepper Chicken Salad  
+ - Lemon Chicken Rice Soup  
+  
+In description:   
+ - Corn Dog (Pork)  
+ - Great Greens  
+  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-06-08)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-06-08)  
   
