@@ -1,6 +1,6 @@
 # 2025-06-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-08 11:20:54  
+Updated at: 2025-06-08 12:14:52  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-08)  
 **steak**  
 In name:   
@@ -22,7 +22,7 @@ In name:
   
 In description:   
  - Tikka Masala Chicken  
- - Tofu & Vegetable Tikka Masala  
+ - Chicken Tikka Masala  
   
 **beef**  
 In name:   
@@ -39,6 +39,7 @@ In name:
  - Chicken & Vegetables w/Dijon Vinaigrette  
  - Lemon Pepper Chicken Salad  
  - Tikka Masala Chicken  
+ - Chicken Tikka Masala  
  - Fajita Chicken  
  - Chicken Chili  
  - Diced Chicken Breast  
