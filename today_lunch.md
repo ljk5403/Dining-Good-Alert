@@ -1,6 +1,6 @@
 # 2025-06-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-08 10:18:28  
+Updated at: 2025-06-08 11:20:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-08)  
 **steak**  
 In name:   
@@ -119,36 +119,17 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**Samosas**  
-In name:   
- - Samosas  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Tikka Masala Chicken  
-  
 **beef**  
 In name:   
- - Beef Barbacoa  
  - Beef Taco Meat  
-  
-In description:   
- - Corn Dog (Pork)  
-  
-**pork**  
-In name:   
- - Corn Dog (Pork)  
   
 **chicken**  
 In name:   
- - Tikka Masala Chicken  
  - Lemon Pepper Chicken Salad  
+ - Chicken Tinga  
  - Lemon Chicken Rice Soup  
   
 In description:   
- - Corn Dog (Pork)  
  - Great Greens  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-06-08)  
