@@ -1,6 +1,6 @@
 # 2025-06-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-08 16:15:57  
+Updated at: 2025-06-08 17:16:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-08)  
 **lamb**  
 In name:   
@@ -115,22 +115,12 @@ In name:
 In description:   
  - Citrus Couscous (VN) (AYCTE)  
   
-**beef**  
-In name:   
- - Beef Barbacoa  
- - Beef Taco Meat  
-  
-In description:   
- - Spicy Italian Meatball Sandwich  
-  
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
- - Diced Chicken  
  - Lemon Chicken Rice Soup  
   
 In description:   
- - Spicy Italian Meatball Sandwich  
  - Great Greens  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-06-08)  
