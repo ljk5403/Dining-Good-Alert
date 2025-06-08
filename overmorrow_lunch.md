@@ -1,59 +1,63 @@
-# 2025-06-09 lunch  
+# 2025-06-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-07 20:43:50  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-09)  
-**Tuna**  
+Updated at: 2025-06-08 01:26:26  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-10)  
+**Shrimp**  
 In name:   
- - Lemon Pepper Tuna Salad  
+ - Redhook Ale Breaded Shrimp  
+  
+**beef**  
+In name:   
+ - Beef Mediterranean  
+ - Beef & Bean Chili  
+  
+In description:   
+ - Pepperoni Pizza Slice  
+ - Pork Bratwurst Sandwich  
+  
+**pork**  
+In name:   
+ - Pork Bratwurst Sandwich  
+ - Imperial Pork Stir Fry  
+ - Italian Pork Sausage  
+  
+In description:   
+ - Chorizo Sauce  
+  
+**chicken**  
+In name:   
+ - Jamaican Jerk Chicken  
+ - Lemon Pepper Chicken Salad  
+ - Mediterranean Chicken  
+ - Plant Based Chicken Strips  
+  
+In description:   
+ - Pepperoni Pizza Slice  
+ - Great Greens  
+ - Chorizo Sauce  
+  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-06-10)  
+**Salmon**  
+In name:   
+ - Ginger Glazed Salmon  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Ginger Glazed Salmon  
   
 **curry**  
 In name:   
   
 In description:   
- - Chicken Korma  
- - Vegetable Korma  
+ - Navarathan Korma Liz w/Rice (Veg)(CN)  
   
 **beef**  
 In name:   
- - Beef Sirloin Tips  
- - Sub - Beef Taco Meat Filling  
- - Beef Barbacoa  
- - Beef & Chicken Meatballs  
-  
-**pork**  
-In name:   
- - Autumn Pork Tenderloin  
-  
-In description:   
- - Pizza Slice Sausage  
-  
-**chicken**  
-In name:   
- - Jerk Chicken Sandwich  
- - Chicken Korma  
- - Chicken Tinga  
- - Chicken Noodle Soup  
- - Beef & Chicken Meatballs  
-  
-In description:   
- - Great Greens  
-  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-06-09)  
-**watermelon**  
-In name:   
- - Melon Watermelon Whole Sliced  
-  
-**beef**  
-In name:   
- - Beef Roast w/Mushroom Demi Glace  
+ - Beef & Bean Chili  
  - Roast Beef  
  - Pork & Beef Hard Salami  
-  
-In description:   
- - Cheeseburger  
- - Hamburger  
- - Grilled Cheeseburger  
- - Grilled Hamburger  
   
 **pork**  
 In name:   
@@ -65,48 +69,40 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Noodle Soup  
+ - Chicken Stir-Fry Coconut Lime(AYCTE)(CN)  
  - Lemon Pepper Chicken Salad  
   
 In description:   
  - Station Recipe - Liz - Great Greens  
   
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-06-09)  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-06-09)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-06-10)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-06-10)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
   
-**broccoli rabe**  
+**Tuna**  
 In name:   
-  
-In description:   
- - Tempeh w/Red Peppers & Broc Rabe  
+ - Tuna Salad Sandwich  
   
 **beef**  
 In name:   
- - Roast Beef & Cheddar Panini on Rye  
+ - Beef French Dip Sandwich  
  - Beef Taco Meat  
-  
-In description:   
- - Vegan Taco Filling  
+ - Beef & Bean Chili  
   
 **pork**  
 In name:   
- - Baked Pork Ham  
-  
-In description:   
- - Andouille Sausage  
+ - Pork & Broccoli Stir Fry  
   
 **chicken**  
 In name:   
- - Lemon Pepper Chicken Salad  
- - Chicken Tinga  
- - Chicken Noodle Soup  
+ - Grilled Chicken Sandwich  
+ - Taco Chicken  
   
 In description:   
  - Great Greens  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-06-09)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-06-09)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-06-10)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-06-10)  
   
