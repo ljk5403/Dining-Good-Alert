@@ -1,6 +1,6 @@
 # 2025-06-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-07 17:16:38  
+Updated at: 2025-06-07 18:18:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-07)  
 **watermelon**  
 In name:   
