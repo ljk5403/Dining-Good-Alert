@@ -1,6 +1,6 @@
 # 2025-06-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-09 01:29:31  
+Updated at: 2025-06-09 09:19:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-11)  
 **Tandoori Chicken**  
 In name:   
@@ -144,8 +144,6 @@ In name:
 **beef**  
 In name:   
  - Beef Bombay Curry  
- - Beef Barbacoa  
- - Beef Taco Meat  
   
 **chicken**  
 In name:   

@@ -1,6 +1,6 @@
 # 2025-06-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-09 01:29:29  
+Updated at: 2025-06-09 09:19:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-10)  
 **Shrimp**  
 In name:   
@@ -135,7 +135,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Taco Meat  
  - Beef & Bean Chili  
   
 In description:   
@@ -149,7 +148,6 @@ In name:
   
 **chicken**  
 In name:   
- - Taco Chicken  
   
 In description:   
  - Mediterranean Nachos  

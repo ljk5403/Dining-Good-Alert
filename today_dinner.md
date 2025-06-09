@@ -1,6 +1,6 @@
 # 2025-06-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-09 01:29:27  
+Updated at: 2025-06-09 09:19:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-09)  
 **Tuna**  
 In name:   
@@ -120,15 +120,6 @@ In name:
 In name:   
  - Seitan & Coconut Thai Curry  
   
-**beef**  
-In name:   
- - Big Texan Beef Sandwich (Half)  
- - Beef Taco Meat  
-  
-In description:   
- - Build Your Own Maki Mono Bar  
- - Vegan Taco Filling  
-  
 **pork**  
 In name:   
  - Pork Adobo  
@@ -136,11 +127,9 @@ In name:
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
- - Chicken Tinga  
  - Chicken Noodle Soup  
   
 In description:   
- - Build Your Own Maki Mono Bar  
  - Great Greens  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-06-09)  

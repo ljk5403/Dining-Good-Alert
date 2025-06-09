@@ -1,6 +1,6 @@
 # 2025-06-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-09 01:29:28  
+Updated at: 2025-06-09 09:19:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-10)  
 **Shrimp**  
 In name:   
@@ -88,7 +88,6 @@ In name:
 **beef**  
 In name:   
  - Beef French Dip Sandwich  
- - Beef Taco Meat  
  - Beef & Bean Chili  
   
 **pork**  
@@ -98,7 +97,6 @@ In name:
 **chicken**  
 In name:   
  - Grilled Chicken Sandwich  
- - Taco Chicken  
   
 In description:   
  - Great Greens  
