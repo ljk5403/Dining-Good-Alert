@@ -1,6 +1,6 @@
 # 2025-06-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-09 10:20:23  
+Updated at: 2025-06-09 11:24:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-09)  
 **Tuna**  
 In name:   
@@ -22,7 +22,7 @@ In name:
   
 **pork**  
 In name:   
- - Autumn Pork Tenderloin  
+ - Pork Chop (1)  
   
 In description:   
  - Pizza Slice Sausage  
