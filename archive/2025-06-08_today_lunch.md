@@ -1,6 +1,6 @@
 # 2025-06-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-09 11:24:31  
+Updated at: 2025-06-09 12:16:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-09)  
 **Tuna**  
 In name:   
@@ -82,6 +82,16 @@ In name:
   
 In description:   
  - Tempeh w/Red Peppers & Broc Rabe  
+  
+**Salmon**  
+In name:   
+ - Tuscan Butter Salmon  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Tuscan Butter Salmon  
   
 **beef**  
 In name:   
