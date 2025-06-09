@@ -1,6 +1,6 @@
 # 2025-06-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-09 01:29:26  
+Updated at: 2025-06-09 09:19:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-09)  
 **Tuna**  
 In name:   
@@ -86,22 +86,14 @@ In description:
 **beef**  
 In name:   
  - Roast Beef & Cheddar Panini on Rye  
- - Beef Taco Meat  
-  
-In description:   
- - Vegan Taco Filling  
   
 **pork**  
 In name:   
  - Baked Pork Ham  
   
-In description:   
- - Andouille Sausage  
-  
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
- - Chicken Tinga  
  - Chicken Noodle Soup  
   
 In description:   
