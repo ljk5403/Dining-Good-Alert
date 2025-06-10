@@ -1,6 +1,6 @@
 # 2025-06-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-10 13:26:45  
+Updated at: 2025-06-10 15:20:52  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-10)  
 **Shrimp**  
 In name:   
@@ -25,9 +25,6 @@ In name:
  - Beef Mediterranean  
  - Beef & Bean Chili  
   
-In description:   
- - Reuben  
-  
 **pork**  
 In name:   
  - Pork Belly Char Sui  
@@ -40,6 +37,7 @@ In name:
  - Beef & Chicken Meatballs  
  - Plant Based Chicken Strips  
  - Lemon Pepper Chicken Salad  
+ - Crispy Chicken Sandwich  
  - Mediterranean Chicken  
   
 In description:   
@@ -71,55 +69,6 @@ In description:
  - Station Recipe - Liz - Great Greens  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-06-10)  
-**steak**  
-In name:   
- - Spicy Steak Fajita  
-  
-**Salmon**  
-In name:   
- - Hoisin BBQ Glazed Salmon  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Hoisin BBQ Glazed Salmon  
-  
-**beef**  
-In name:   
- - Beef Tri Tip Carved w/ Chimichurri  
- - Beef & Chicken Meatballs  
- - Roast Beef  
- - Pork & Beef Hard Salami  
- - Beef Taco Meat  
- - Beef & Bean Chili  
- - BBQ Beef Brisket Sandwich  
-  
-In description:   
- - Italian Meat Sauce  
- - Pepperoni Pizza Slice  
- - Spicy Steak Fajita  
-  
-**pork**  
-In name:   
- - Green Beans w/ Pork Bacon  
- - Pork & Beef Hard Salami  
-  
-In description:   
- - Pizza Slice Sausage  
- - Smoked Ham  
- - Bacon  
-  
-**chicken**  
-In name:   
- - Beef & Chicken Meatballs  
- - Giardiniera Chicken  
- - Diced Chicken  
-  
-In description:   
- - Pepperoni Pizza Slice  
- - Great Greens  
-  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-06-10)  
 **watermelon**  
 In name:   
