@@ -1,6 +1,6 @@
 # 2025-06-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-10 01:27:52  
+Updated at: 2025-06-10 09:19:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-10)  
 **Shrimp**  
 In name:   
@@ -89,10 +89,6 @@ In name:
 In name:   
  - Beef French Dip Sandwich  
  - Beef & Bean Chili  
-  
-**pork**  
-In name:   
- - Pork & Broccoli Stir Fry  
   
 **chicken**  
 In name:   
