@@ -1,6 +1,6 @@
 # 2025-06-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-10 01:27:55  
+Updated at: 2025-06-10 09:19:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-10)  
 **Shrimp**  
 In name:   
@@ -137,11 +137,6 @@ In name:
 In name:   
  - Beef & Bean Chili  
   
-In description:   
- - Grilled Cheeseburger  
- - Mediterranean Nachos  
- - Mediterranean Rice Bowl  
-  
 **pork**  
 In name:   
  - BBQ Pork Chop  
@@ -150,8 +145,6 @@ In name:
 In name:   
   
 In description:   
- - Mediterranean Nachos  
- - Mediterranean Rice Bowl  
  - Great Greens  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-06-10)  
