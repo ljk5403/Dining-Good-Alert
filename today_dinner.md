@@ -1,11 +1,7 @@
 # 2025-06-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-11 16:17:56  
+Updated at: 2025-06-11 17:17:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-11)  
-**Tandoori Chicken**  
-In name:   
- - Tandoori Chicken  
-  
 **Shrimp**  
 In name:   
  - Blackened Shrimp  
@@ -16,10 +12,12 @@ In name:
   
 **curry**  
 In name:   
+ - Beef Bombay Curry  
  - Mixed Vegetable Curry  
   
 **beef**  
 In name:   
+ - Beef Bombay Curry  
  - Beef Taco Meat  
   
 In description:   
@@ -37,7 +35,6 @@ In name:
 In name:   
  - Maple Cider Chicken  
  - Chicken Shawarma Sandwich  
- - Tandoori Chicken  
  - Chicken Tinga  
  - Chicken Tortilla Soup  
   
