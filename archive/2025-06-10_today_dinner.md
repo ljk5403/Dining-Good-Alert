@@ -1,6 +1,6 @@
 # 2025-06-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-11 09:17:30  
+Updated at: 2025-06-11 10:20:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-11)  
 **Tandoori Chicken**  
 In name:   
@@ -80,10 +80,6 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**Pakoras**  
-In name:   
- - Appetizer -  Pakoras Vegetable (Veg)  
-  
 **Salmon**  
 In name:   
  - Grilled Sesame Ginger Salmon  
@@ -97,15 +93,6 @@ In name:
   
 In description:   
  - Grilled Sesame Ginger Salmon  
-  
-**curry**  
-In name:   
- - Beef Bombay Curry  
- - Indian Vegetable Curry  
-  
-**beef**  
-In name:   
- - Beef Bombay Curry  
   
 **chicken**  
 In name:   
