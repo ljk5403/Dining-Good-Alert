@@ -1,6 +1,6 @@
 # 2025-06-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-12 01:28:20  
+Updated at: 2025-06-12 09:18:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-12)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-06-12)  
 **Tuna**  
@@ -88,9 +88,8 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Bruschetta Sandwich  
  - Jamaican Jerk Chicken  
- - Chicken Dumpling Soup  
+ - Chicken Noodle Soup  
   
 In description:   
  - Great Greens  
