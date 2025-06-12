@@ -1,14 +1,11 @@
 # 2025-06-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-12 01:28:16  
+Updated at: 2025-06-12 09:18:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-12)  
-**Shrimp**  
-In name:   
- - Shrimp Po-Boy Sandwich  
-  
 **Cod**  
 In name:   
  - Caribbean Cod  
+ - Battered Cod Fillet Sandwich w/ Cheese  
   
 **fish**  
 In name:   
@@ -101,7 +98,7 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken Dumpling Soup  
+ - Chicken Noodle Soup  
   
 In description:   
  - Great Greens  
