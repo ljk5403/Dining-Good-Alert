@@ -1,83 +1,44 @@
-# 2025-06-13 dinner  
+# 2025-06-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-11 20:28:05  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-13)  
-**clam**  
-In name:   
- - Clam Chowder (Pork)  
-  
-**Cod**  
-In name:   
-  
-In description:   
- - Clam Chowder (Pork)  
-  
-**Tilapia**  
-In name:   
- - Blackened Tilapia  
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad  
-  
+Updated at: 2025-06-12 01:28:34  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-14)  
 **beef**  
 In name:   
- - Beef Barbacoa  
+ - Southwestern Corned Beef Hash  
+ - Sliced BBQ Beef Brisket Sandwich  
  - Beef Taco Meat  
   
 In description:   
- - Burnt Ends  
  - Pepperoni Pizza Slice  
   
 **pork**  
 In name:   
- - Clam Chowder (Pork)  
+ - Biscuits & Pork Gravy  
+ - Italian Pork Sausage  
+ - Pork Carnita  
   
 **chicken**  
 In name:   
- - Diced Chicken Breast  
- - Crispy Chicken Sandwich  
- - VN Sand Chicken Paradise  
- - Plant Based Protein Chicken Taco Filling  
- - Fajita Chicken  
+ - General Tso's Chicken  
+ - Chicken Tinga  
+ - Cream of Chicken & Wild Rice Soup  
   
 In description:   
  - Pepperoni Pizza Slice  
- - Great Greens  
   
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-06-13)  
-**watermelon**  
-In name:   
- - Melon Watermelon Whole Sliced  
-  
-**steak**  
-In name:   
- - Sand Beef Philly Cheesesteak (CN)  
-  
-**clam**  
-In name:   
- - Clam Chowder (Pork)  
-  
-**Cod**  
-In name:   
-  
-In description:   
- - Clam Chowder (Pork)  
-  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-06-14)  
 **Tuna**  
 In name:   
  - Tuna Salad  
   
 **beef**  
 In name:   
- - Sand Beef Philly Cheesesteak (CN)  
- - Plant-Based Beef & Broccoli Stir Fry  
+ - Beef & Chicken Meatballs (4 each) CN  
  - Roast Beef  
  - Pork & Beef Hard Salami  
   
 **pork**  
 In name:   
- - Clam Chowder (Pork)  
  - Pork & Beef Hard Salami  
   
 In description:   
@@ -86,37 +47,17 @@ In description:
   
 **chicken**  
 In name:   
- - Sand Chicken Buffalo on Pretzel Bun (CN)  
+ - Beef & Chicken Meatballs (4 each) CN  
+ - Diced Chicken Breast  
+ - Cream of Chicken & Wild Rice Soup  
   
 In description:   
  - Station Recipe - Liz - Great Greens  
   
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-06-13)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
-**steak**  
-In name:   
- - Spicy Steak Fajita  
-  
-**clam**  
-In name:   
- - Clam Chowder (Pork)  
-  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp  
-  
-**Cod**  
-In name:   
- - Lemon Pepper Cod Fillet  
-  
-In description:   
- - Clam Chowder (Pork)  
-  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-06-14)  
 **beef**  
 In name:   
+ - Beef Meatloaf  
  - Beef & Chicken Meatballs  
  - Roast Beef  
  - Pork & Beef Hard Salami  
@@ -124,16 +65,11 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice  
- - Vegan Taco Filling  
- - Spicy Steak Fajita  
- - Baked Corn Dog (Pork)  
   
 **pork**  
 In name:   
- - French Market Pork Jambalaya  
+ - Italian Pork Sausage  
  - Pork & Beef Hard Salami  
- - Clam Chowder (Pork)  
- - Baked Corn Dog (Pork)  
   
 In description:   
  - Pizza Slice Sausage  
@@ -142,73 +78,41 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Enchilada Bake  
  - Beef & Chicken Meatballs  
+ - Lemon Pepper Chicken Salad  
+ - Chicken Tinga  
+ - Cream of Chicken & Wild Rice Soup  
  - Diced Chicken  
+ - Chicken Parmesan Sandwich  
   
 In description:   
- - French Market Pork Jambalaya  
  - Pepperoni Pizza Slice  
  - Gordon's Great Greens  
- - Baked Corn Dog (Pork)  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-06-13)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-06-14)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
-  
-**Drunken Noodles**  
-In name:   
- - Drunken Noodles  
-  
-**steak**  
-In name:   
- - Plant-Based Pepper Steak Stir Fry  
-  
-**clam**  
-In name:   
- - Clam Chowder (Pork)  
-  
-**Shrimp**  
-In name:   
-  
-In description:   
- - Drunken Noodles  
-  
-**Cod**  
-In name:   
-  
-In description:   
- - Clam Chowder (Pork)  
   
 **Tuna**  
 In name:   
  - Tuna Salad Sandwich  
   
-**fish**  
-In name:   
- - Vegan Fish Sandwich  
-  
-In description:   
- - Drunken Noodles  
-  
-**beef**  
-In name:   
-  
-In description:   
- - Fired Up Burger  
- - Plant-Based Pepper Steak Stir Fry  
-  
 **pork**  
 In name:   
- - Clam Chowder (Pork)  
+  
+In description:   
+ - Brewer's Club Sandwich w/ Bacon Sauce  
   
 **chicken**  
 In name:   
- - Sweet & Spicy Orange Chicken  
+ - Cream of Chicken & Wild Rice Soup  
   
 In description:   
+ - BYO Bar - Mac & Cheese  
  - Great Greens  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-06-13)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-06-13)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-06-14)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-06-14)  
   
