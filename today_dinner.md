@@ -1,6 +1,6 @@
 # 2025-06-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-13 01:28:10  
+Updated at: 2025-06-13 09:18:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-13)  
 **clam**  
 In name:   
@@ -160,10 +160,6 @@ In name:
 In name:   
  - Drunken Noodles  
   
-**steak**  
-In name:   
- - Plant-Based Pepper Steak Stir Fry  
-  
 **clam**  
 In name:   
  - Clam Chowder (Pork)  
@@ -196,7 +192,6 @@ In name:
   
 In description:   
  - Fired Up Burger  
- - Plant-Based Pepper Steak Stir Fry  
   
 **pork**  
 In name:   
@@ -204,7 +199,6 @@ In name:
   
 **chicken**  
 In name:   
- - Sweet & Spicy Orange Chicken  
   
 In description:   
  - Great Greens  
