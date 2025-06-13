@@ -1,6 +1,6 @@
 # 2025-06-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-13 01:28:09  
+Updated at: 2025-06-13 09:18:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-13)  
 **steak**  
 In name:   
@@ -103,10 +103,6 @@ In description:
  - Station Recipe - Liz - Great Greens  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-06-13)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
 **Tandoori Chicken**  
 In name:   
  - Tandoori Chicken  
@@ -161,7 +157,6 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice  
- - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-06-13)  
 **watermelon**  
@@ -201,8 +196,6 @@ In name:
   
 In description:   
  - Mushroom Swiss Burger  
- - Mediterranean Nachos  
- - Mediterranean Rice Bowl  
   
 **pork**  
 In name:   
@@ -212,8 +205,6 @@ In name:
 In name:   
   
 In description:   
- - Mediterranean Nachos  
- - Mediterranean Rice Bowl  
  - Great Greens  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-06-13)  
