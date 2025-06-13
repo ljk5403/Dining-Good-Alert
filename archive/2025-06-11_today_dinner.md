@@ -1,6 +1,6 @@
 # 2025-06-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-12 17:17:37  
+Updated at: 2025-06-12 18:17:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-12)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-06-12)  
 **Tuna**  
@@ -33,13 +33,16 @@ In description:
  - Station Recipe - Liz - Great Greens  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-06-12)  
+**Shrimp**  
+In name:   
+ - Coconut Shrimp  
+  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
   
 **beef**  
 In name:   
- - Beef Tri Tip Carved w/ Chimichurri  
  - Beef & Chicken Meatballs  
  - Roast Beef  
  - Pork & Beef Hard Salami  
@@ -50,7 +53,6 @@ In description:
   
 **pork**  
 In name:   
- - Sri Lanka Deviled Pork  
  - Pork & Beef Hard Salami  
  - Pork Carnita  
   
