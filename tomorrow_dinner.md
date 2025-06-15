@@ -1,56 +1,75 @@
-# 2025-06-15 dinner  
+# 2025-06-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-14 20:45:45  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-15)  
-**Salmon**  
-In name:   
- - Grilled Chipotle Salmon  
-  
+Updated at: 2025-06-15 01:25:20  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-16)  
 **fish**  
 In name:   
   
 In description:   
- - Grilled Chipotle Salmon  
+ - Filipino Barbecue - Pork  
+ - Kung Pao Chicken  
+  
+**curry**  
+In name:   
+ - Currywurst (Pork)  
+ - Vegan Currywurst  
   
 **beef**  
 In name:   
- - Beef Barbacoa  
  - Beef Taco Meat  
   
 In description:   
- - Pepperoni Pizza Slice  
+ - Italian Meat Sauce  
+ - Currywurst (Pork)  
  - Vegan Taco Filling  
   
 **pork**  
 In name:   
+ - Filipino Barbecue - Pork  
  - Italian Pork Sausage  
- - Hawaiian (Pork) Pizza Slice  
- - Pork Banh Mi  
+ - Chicken Bacon (Pork) Ranch Pizza  
+ - Currywurst (Pork)  
+ - Pork Carnita  
+  
+In description:   
+ - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
- - Chicken Baked  (1 piece)  
- - Chicken Teriyaki Stir Fry  
- - Fajita Chicken  
- - Lemon Chicken Rice Soup  
+ - Blackened Chicken with Orange Sauce  
+ - Chicken Bacon (Pork) Ranch Pizza  
+ - Lemon Pepper Chicken Salad  
+ - Kung Pao Chicken  
+ - Chicken Tinga  
+ - Chicken Noodle Soup  
   
 In description:   
- - Pepperoni Pizza Slice  
+ - Great Greens  
   
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-06-15)  
-**Tuna**  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-06-16)  
+**watermelon**  
 In name:   
- - Tuna Salad  
+ - Melon Watermelon Whole Sliced  
+  
+**drumstick**  
+In name:   
+ - Chicken Drumstick Gochujang Glazed  
+  
+**Chicken Drumstick Gochujang Glazed**  
+In name:   
+ - Chicken Drumstick Gochujang Glazed  
   
 **beef**  
 In name:   
- - Wrap Lettuce Beef Korean BBQ (no nuts)  
  - Roast Beef  
  - Pork & Beef Hard Salami  
   
+In description:   
+ - Kielbasa (Pork) with Pierogis  
+  
 **pork**  
 In name:   
- - Herb Crusted Pork Loin  
+ - Kielbasa (Pork) with Pierogis  
  - Pork & Beef Hard Salami  
   
 In description:   
@@ -59,32 +78,35 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Gravy  
- - Lemon Chicken Rice Soup  
+ - Chicken Drumstick Gochujang Glazed  
+ - Chicken Noodle Soup  
+ - Lemon Pepper Chicken Salad  
   
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-06-15)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-06-16)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
   
-**Tilapia**  
+**Tuna**  
 In name:   
- - Lemon Bake Tilapia  
+ - Lemon Pepper Tuna Salad  
   
 **beef**  
 In name:   
+ - Beef Stroganoff Creamy - UM (AYCTE) w/o  
  - Beef & Chicken Meatballs  
  - Roast Beef  
  - Pork & Beef Hard Salami  
- - Beef Barbacoa  
  - Beef Taco Meat  
   
 In description:   
  - Pepperoni Pizza Slice  
+ - Vegan Taco Filling  
+ - Bacon Cheeseburger  
   
 **pork**  
 In name:   
- - Gnocchi w/ Pork Chorizo Sauce  
+ - Italian Pork Sausage  
  - Pork & Beef Hard Salami  
   
 In description:   
@@ -95,44 +117,46 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
- - Giardiniera Chicken  
- - Lemon Chicken Rice Soup  
- - Diced Chicken  
+ - Chicken Tinga  
+ - Chicken Noodle Soup  
   
 In description:   
- - Gnocchi w/ Pork Chorizo Sauce  
  - Pepperoni Pizza Slice  
  - Gordon's Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-06-15)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-06-16)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
   
-**Tuna**  
+**drumstick**  
 In name:   
- - Tuna Salad Sandwich  
+ - Chicken Drumstick Gochujang Glazed  
+  
+**Chicken Drumstick Gochujang Glazed**  
+In name:   
+ - Chicken Drumstick Gochujang Glazed  
   
 **beef**  
 In name:   
- - Wrap Lettuce Beef Korean BBQ (no nuts)  
   
 In description:   
- - Grilled Cheeseburger  
+ - Sliced Kielbasa (Pork)  
   
 **pork**  
 In name:   
- - Herb Crusted Pork Loin  
+ - Italian Pork Sausage  
+ - Sliced Kielbasa (Pork)  
   
 **chicken**  
 In name:   
- - Diced Chicken  
- - Chicken Gravy  
- - Lemon Chicken Rice Soup  
+ - Lemon Pepper Chicken Salad  
+ - Chicken Drumstick Gochujang Glazed  
+ - Chicken Noodle Soup  
   
 In description:   
  - Great Greens  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-06-15)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-06-15)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-06-16)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-06-16)  
   
