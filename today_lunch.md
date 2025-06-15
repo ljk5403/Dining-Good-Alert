@@ -1,6 +1,6 @@
 # 2025-06-15 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-15 01:25:17  
+Updated at: 2025-06-15 09:15:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-15)  
 **Tuna**  
 In name:   
@@ -64,10 +64,6 @@ In name:
  - Lemon Chicken Rice Soup  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-06-15)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
 **catfish**  
 In name:   
  - Blackened Catfish  
@@ -100,13 +96,12 @@ In description:
 In name:   
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
- - Grilled Chicken Sandwich  
+ - Crispy Chicken Sandwich  
  - Lemon Chicken Rice Soup  
  - Diced Chicken  
   
 In description:   
  - Pepperoni Pizza Slice  
- - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-06-15)  
 **watermelon**  
