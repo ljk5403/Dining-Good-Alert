@@ -1,6 +1,6 @@
 # 2025-06-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-16 10:20:34  
+Updated at: 2025-06-16 11:24:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-16)  
 **fish**  
 In name:   
@@ -139,9 +139,11 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Taco Meat  
   
 In description:   
  - Sliced Kielbasa (Pork)  
+ - Vegan Taco Filling  
   
 **pork**  
 In name:   
@@ -152,6 +154,7 @@ In name:
 In name:   
  - Lemon Pepper Chicken Salad  
  - Chicken Drumstick Gochujang Glazed  
+ - Chicken Tinga  
  - Chicken Noodle Soup  
   
 In description:   

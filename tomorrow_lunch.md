@@ -1,6 +1,6 @@
 # 2025-06-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-16 10:20:36  
+Updated at: 2025-06-16 11:24:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-17)  
 **Shrimp**  
 In name:   
@@ -129,6 +129,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Taco Meat  
  - Beef & Bean Chili  
   
 **pork**  
@@ -141,6 +142,8 @@ In name:
  - Grilled BBQ Chicken Sandwich  
  - Plant Based Sweet & Sour Chicken  
  - Lemon Pepper Chicken Salad  
+ - Taco Chicken  
+ - Plant-Based Chicken Taco Filling  
   
 In description:   
  - Great Greens  

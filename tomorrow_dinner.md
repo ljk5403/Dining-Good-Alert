@@ -1,6 +1,6 @@
 # 2025-06-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-16 10:20:38  
+Updated at: 2025-06-16 11:24:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-17)  
 **drumstick**  
 In name:   
@@ -116,6 +116,7 @@ In name:
 In name:   
  - Beef Mediterranean  
  - Beef Broccoli Stir Fry w/Teriyaki Sauce  
+ - Beef Taco Meat  
  - Beef & Bean Chili  
   
 In description:   
@@ -126,6 +127,8 @@ In name:
  - Lemon Pepper Chicken Salad  
  - Mediterranean Chicken  
  - Teriyaki Chicken Fillet  
+ - Plant-Based Chicken Taco Filling  
+ - Taco Chicken  
   
 In description:   
  - Great Greens  

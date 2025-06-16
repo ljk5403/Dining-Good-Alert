@@ -1,6 +1,6 @@
 # 2025-06-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-16 10:20:43  
+Updated at: 2025-06-16 11:24:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-18)  
 **Shrimp**  
 In name:   
@@ -118,6 +118,11 @@ In description:
 **watermelon**  
 In name:   
  - Watermelon Slices  
+  
+**beef**  
+In name:   
+ - Beef Barbacoa  
+ - Beef Taco Meat  
   
 **chicken**  
 In name:   

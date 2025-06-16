@@ -1,6 +1,6 @@
 # 2025-06-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-16 10:20:31  
+Updated at: 2025-06-16 11:24:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-16)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -100,7 +100,6 @@ In description:
 In name:   
  - Italian Pork Sausage  
  - Pork & Beef Hard Salami  
- - Pork Sausage Patties  
   
 In description:   
  - Gordon's OrderIt  
@@ -112,6 +111,7 @@ In description:
 In name:   
  - Chicken Honey Lime w/ rice  
  - Beef & Chicken Meatballs  
+ - Chicken Sausage Patties  
  - Chicken Tenders Breaded  
  - Chicken Tinga  
  - Chicken Noodle Soup  
@@ -132,6 +132,13 @@ In name:
 In description:   
  - Thai BBQ Pork Ribs  
   
+**beef**  
+In name:   
+ - Beef Taco Meat  
+  
+In description:   
+ - Vegan Taco Filling  
+  
 **pork**  
 In name:   
  - Thai BBQ Pork Ribs  
@@ -145,7 +152,7 @@ In name:
  - Chicken Parmigiana  
  - Buffalo Chicken Wrap  
  - Plant Based Chicken Strips  
- - Lemon Pepper Chicken Salad  
+ - Chicken Tinga  
  - Chicken Noodle Soup  
   
 In description:   
