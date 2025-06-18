@@ -1,6 +1,6 @@
 # 2025-06-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-18 01:28:05  
+Updated at: 2025-06-18 09:18:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-18)  
 **beef**  
 In name:   
@@ -63,10 +63,6 @@ In name:
  - Lemon Pepper Chicken Salad  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-06-18)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
 **Tilapia**  
 In name:   
  - Baked Tilapia w/ Tomato Tapenade  
@@ -104,7 +100,6 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice  
- - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-06-18)  
 **watermelon**  

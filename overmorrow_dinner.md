@@ -1,6 +1,6 @@
 # 2025-06-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-18 01:28:24  
+Updated at: 2025-06-18 09:19:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-20)  
 **clam**  
 In name:   
@@ -117,6 +117,7 @@ In name:
 **Shrimp**  
 In name:   
  - Sauteed Shrimp  
+ - Shrimp Curry  
  - Chipotle Shrimp  
  - Shrimp Po-Boy Sandwich  
   
@@ -133,6 +134,13 @@ In name:
   
 In description:   
  - Vegan Cod Battered (2 pc)  
+  
+**curry**  
+In name:   
+ - Shrimp Curry  
+  
+In description:   
+ - Navarathan Korma (AYCTE)  
   
 **beef**  
 In name:   
