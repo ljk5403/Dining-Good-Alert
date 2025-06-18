@@ -1,6 +1,6 @@
 # 2025-06-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-18 10:20:47  
+Updated at: 2025-06-18 11:24:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-18)  
 **beef**  
 In name:   
@@ -63,9 +63,13 @@ In name:
  - Lemon Pepper Chicken Salad  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-06-18)  
-**Tilapia**  
+**catfish**  
 In name:   
- - Baked Tilapia w/ Tomato Tapenade  
+ - Blackened Catfish  
+  
+**fish**  
+In name:   
+ - Blackened Catfish  
   
 **beef**  
 In name:   
@@ -92,7 +96,6 @@ In description:
 **chicken**  
 In name:   
  - Broasted Chicken 2 pc  
- - Chicken Gravy  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Chicken Tortilla Soup  
