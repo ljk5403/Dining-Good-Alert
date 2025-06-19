@@ -1,6 +1,6 @@
 # 2025-06-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-19 10:19:37  
+Updated at: 2025-06-19 11:23:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-19)  
 **Shrimp**  
 In name:   
@@ -96,8 +96,6 @@ In name:
 In name:   
  - Beef Goulash w/Egg Noodles  
  - Beef & Chicken Meatballs  
- - Roast Beef  
- - Pork & Beef Hard Salami  
  - Beef Curry Masaman Thai  
  - Beef Taco Meat  
   
@@ -107,14 +105,11 @@ In description:
   
 **pork**  
 In name:   
- - Pork & Beef Hard Salami  
  - Pork Sausage Patty  
  - Pork Carnita  
   
 In description:   
  - Pizza Slice Sausage  
- - Smoked Ham  
- - Bacon  
   
 **chicken**  
 In name:   
@@ -126,7 +121,6 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice  
- - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-06-19)  
 **watermelon**  
@@ -138,7 +132,14 @@ In name:
  - Beef Taco Meat  
   
 In description:   
+ - Grilled Cuban Sandwich  
  - Pepperoni Pizza Slice  
+  
+**pork**  
+In name:   
+  
+In description:   
+ - Grilled Cuban Sandwich  
   
 **chicken**  
 In name:   
