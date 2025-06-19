@@ -1,6 +1,6 @@
 # 2025-06-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-19 01:28:06  
+Updated at: 2025-06-19 09:18:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-19)  
 **Shrimp**  
 In name:   
@@ -81,8 +81,15 @@ In description:
 In name:   
  - Lemon Pepper Tuna Salad  
   
+**fish**  
+In name:   
+  
+In description:   
+ - Beef Curry Masaman Thai  
+  
 **curry**  
 In name:   
+ - Beef Curry Masaman Thai  
  - Vegan Curry Stew  
   
 **beef**  
@@ -91,6 +98,7 @@ In name:
  - Beef & Chicken Meatballs  
  - Roast Beef  
  - Pork & Beef Hard Salami  
+ - Beef Curry Masaman Thai  
  - Beef Taco Meat  
   
 In description:   
@@ -113,7 +121,6 @@ In name:
  - Montreal Chicken  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
- - Jamaican Jerk Chicken  
  - Chicken Dumpling Soup  
  - Diced Chicken  
   
