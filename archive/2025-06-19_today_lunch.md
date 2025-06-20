@@ -1,6 +1,6 @@
 # 2025-06-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-20 12:16:22  
+Updated at: 2025-06-20 13:26:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-20)  
 **drumstick**  
 In name:   
@@ -119,11 +119,16 @@ In description:
 In name:   
  - Lemon Pepper Tuna Salad  
   
+**curry**  
+In name:   
+ - Beef Bombay Curry w/Basmati Rice  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
  - Roast Beef  
  - Pork & Beef Hard Salami  
+ - Beef Bombay Curry w/Basmati Rice  
  - Beef Taco Meat  
   
 In description:   
@@ -145,7 +150,6 @@ In name:
  - Brazilian Chicken w/ Salsa Vinaigrette  
  - Beef & Chicken Meatballs  
  - Chicken Sausage Patty  
- - Butter Chicken  
  - Diced Chicken  
   
 In description:   

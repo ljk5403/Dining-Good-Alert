@@ -1,6 +1,6 @@
 # 2025-06-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-20 13:26:25  
+Updated at: 2025-06-20 15:20:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-20)  
 **clam**  
 In name:   
@@ -123,11 +123,14 @@ In name:
   
 **Cod**  
 In name:   
- - Battered Cod  
  - Vegan Cod Battered (2 pc)  
   
 In description:   
  - Clam Chowder (Pork)  
+  
+**Tilapia**  
+In name:   
+ - Blackened Tilapia  
   
 **fish**  
 In name:   
@@ -138,9 +141,6 @@ In description:
 **curry**  
 In name:   
  - Shrimp Curry  
-  
-In description:   
- - Navarathan Korma (AYCTE)  
   
 **beef**  
 In name:   
