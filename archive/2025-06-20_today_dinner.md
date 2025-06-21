@@ -1,6 +1,6 @@
 # 2025-06-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-21 16:15:55  
+Updated at: 2025-06-21 17:16:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-21)  
 **watermelon**  
 In name:   
@@ -101,13 +101,11 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Pepperoni Pizza Slice  
  - Grilled Cheeseburger  
   
 **pork**  
 In name:   
  - Roasted Pork Loin  
- - Italian Pork Sausage  
  - Pork & Beef Hard Salami  
   
 In description:   
@@ -126,7 +124,6 @@ In name:
  - Diced Chicken  
   
 In description:   
- - Pepperoni Pizza Slice  
  - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-06-21)  
