@@ -1,6 +1,6 @@
 # 2025-06-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-21 10:17:39  
+Updated at: 2025-06-21 11:21:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-21)  
 **watermelon**  
 In name:   
@@ -75,7 +75,7 @@ In name:
   
 **beef**  
 In name:   
- - Beef Tri Tip Carved w/ Chimichurri  
+ - Beef Pot Roast  
  - Beef & Chicken Meatballs  
  - Roast Beef  
  - Pork & Beef Hard Salami  
@@ -99,7 +99,6 @@ In description:
 In name:   
  - Chicken Drumstick Gochujang Glazed  
  - Beef & Chicken Meatballs  
- - Lemon Pepper Chicken Salad  
  - Crispy Buffalo Chicken Sandwich  
  - Chicken Tinga  
  - Cream of Chicken & Wild Rice Soup  
@@ -107,7 +106,6 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice  
- - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-06-21)  
 **watermelon**  
