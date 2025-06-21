@@ -1,6 +1,6 @@
 # 2025-06-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-21 12:15:27  
+Updated at: 2025-06-21 13:23:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-21)  
 **watermelon**  
 In name:   
@@ -94,7 +94,7 @@ In description:
   
 **pork**  
 In name:   
- - Herb Crusted Pork Loin  
+ - Roasted Pork Loin  
  - Italian Pork Sausage  
  - Pork & Beef Hard Salami  
   
