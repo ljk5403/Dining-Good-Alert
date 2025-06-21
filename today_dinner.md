@@ -1,6 +1,6 @@
 # 2025-06-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-21 13:23:42  
+Updated at: 2025-06-21 15:18:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-21)  
 **watermelon**  
 In name:   
@@ -81,6 +81,18 @@ In name:
  - Cream of Chicken & Wild Rice Soup  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-06-21)  
+**drumstick**  
+In name:   
+ - Chicken Drumstick Gochujang Glazed  
+  
+**Chicken Drumstick Gochujang Glazed**  
+In name:   
+ - Chicken Drumstick Gochujang Glazed  
+  
+**curry**  
+In name:   
+ - Thai Veggie Meatballs w/ Green Curry  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
@@ -106,6 +118,7 @@ In description:
 **chicken**  
 In name:   
  - Greek Chicken  
+ - Chicken Drumstick Gochujang Glazed  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
