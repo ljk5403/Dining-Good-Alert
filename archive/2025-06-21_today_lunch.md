@@ -1,6 +1,6 @@
 # 2025-06-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-22 09:16:10  
+Updated at: 2025-06-22 10:17:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-22)  
 **steak**  
 In name:   
@@ -82,8 +82,13 @@ In name:
 In name:   
  - Coconut Shrimp  
   
+**curry**  
+In name:   
+ - Beef Bombay Curry w/Basmati Rice  
+  
 **beef**  
 In name:   
+ - Beef Bombay Curry w/Basmati Rice  
  - Beef & Chicken Meatballs  
  - Roast Beef  
  - Pork & Beef Hard Salami  
@@ -96,13 +101,13 @@ In description:
   
 **pork**  
 In name:   
- - Pork Miso w/Yakisoba Noodles  
  - Andouille Pork Sausage  
  - Pork & Beef Hard Salami  
   
 In description:   
  - Pizza Slice Sausage  
  - Smoked Ham  
+ - Bacon  
   
 **chicken**  
 In name:   
@@ -111,7 +116,6 @@ In name:
  - Diced Chicken  
   
 In description:   
- - Pork Miso w/Yakisoba Noodles  
  - Pepperoni Pizza Slice  
  - Gordon's Great Greens  
   
