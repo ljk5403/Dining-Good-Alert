@@ -1,6 +1,6 @@
 # 2025-06-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-22 13:24:25  
+Updated at: 2025-06-22 15:19:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-22)  
 **lamb**  
 In name:   
@@ -77,6 +77,7 @@ In description:
 **pork**  
 In name:   
  - Pork Chop (1)  
+ - Italian Pork Sausage  
  - Pork & Beef Hard Salami  
   
 In description:   
@@ -88,7 +89,6 @@ In description:
 In name:   
  - Chicken Creole  
  - Beef & Chicken Meatballs  
- - Giardiniera Chicken  
  - Lemon Chicken Rice Soup  
  - Diced Chicken  
  - Chicken Tenders Breaded  
