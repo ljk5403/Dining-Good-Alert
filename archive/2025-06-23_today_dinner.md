@@ -1,6 +1,6 @@
 # 2025-06-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-24 16:18:06  
+Updated at: 2025-06-24 17:18:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-24)  
 **Shrimp**  
 In name:   
@@ -86,13 +86,18 @@ In name:
  - Petite Fish Sandwich  
  - Vegan Fish Sandwich  
   
+**curry**  
+In name:   
+  
+In description:   
+ - Chicken Tikka Masala  
+  
 **beef**  
 In name:   
  - Beef Tri Tip Carved w/ Chimichurri  
  - Beef & Chicken Meatballs  
  - Roast Beef  
  - Pork & Beef Hard Salami  
- - Beef Vindaloo  
  - Beef & Bean Chili  
   
 In description:   
@@ -113,6 +118,7 @@ In description:
 In name:   
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
+ - Chicken Tikka Masala  
  - Diced Chicken  
   
 In description:   
