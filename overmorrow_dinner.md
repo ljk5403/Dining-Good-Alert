@@ -1,6 +1,6 @@
 # 2025-06-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-24 13:27:06  
+Updated at: 2025-06-24 15:21:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-26)  
 **Cod**  
 In name:   
@@ -84,7 +84,6 @@ In name:
  - Beef & Chicken Meatballs  
  - Roast Beef  
  - Pork & Beef Hard Salami  
- - Beef Taco Meat  
   
 In description:   
  - Pepperoni Pizza Slice  
@@ -94,7 +93,6 @@ In name:
  - Sri Lanka Deviled Pork  
  - Pork & Beef Hard Salami  
  - Vietnamese Pork with Rice  
- - Pork Carnita  
   
 In description:   
  - Pizza Slice Sausage  
