@@ -1,6 +1,6 @@
 # 2025-06-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-24 10:20:46  
+Updated at: 2025-06-24 11:24:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-24)  
 **Shrimp**  
 In name:   
@@ -83,7 +83,6 @@ In name:
  - Roast Beef  
  - Pork & Beef Hard Salami  
  - Beef Broccoli Stir Fry w/Teriyaki Sauce  
- - Plant-Based Beef & Broccoli Stir Fry  
  - Beef Taco Meat  
  - Beef & Bean Chili  
   
@@ -122,10 +121,6 @@ In name:
 In name:   
  - Ginger Glazed Salmon  
   
-**Tuna**  
-In name:   
- - Tuna Salad Sandwich  
-  
 **fish**  
 In name:   
   
@@ -151,6 +146,7 @@ In name:
 In name:   
  - Chicken Stir-Fry Coconut Lime(AYCTE)(CN)  
  - Grilled Chicken Sandwich  
+ - Lemon Pepper Chicken Salad  
  - Plant-Based Chicken Taco Filling  
  - Taco Chicken  
   
