@@ -1,6 +1,6 @@
 # 2025-06-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-25 15:21:12  
+Updated at: 2025-06-25 16:17:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-27)  
 **clam**  
 In name:   
@@ -96,6 +96,10 @@ In description:
 In name:   
  - Watermelon Slices  
   
+**steak**  
+In name:   
+ - Spicy Steak Fajita  
+  
 **clam**  
 In name:   
  - Clam Chowder (Pork)  
@@ -121,9 +125,12 @@ In name:
  - Beef & Chicken Meatballs  
  - Roast Beef  
  - Pork & Beef Hard Salami  
+ - Beef Taco Meat  
   
 In description:   
  - Pepperoni Pizza Slice  
+ - Vegan Taco Filling  
+ - Spicy Steak Fajita  
  - Baked Corn Dog (Pork)  
   
 **pork**  

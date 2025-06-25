@@ -1,6 +1,6 @@
 # 2025-06-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-25 15:21:07  
+Updated at: 2025-06-25 16:17:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-25)  
 **Tandoori Chicken**  
 In name:   
@@ -88,6 +88,8 @@ In name:
  - Beef & Chicken Meatballs  
  - Roast Beef  
  - Pork & Beef Hard Salami  
+ - Beef Barbacoa  
+ - Beef Taco Meat  
   
 In description:   
  - Pepperoni Pizza Slice  
@@ -125,10 +127,6 @@ In name:
 In name:   
  - Appetizer -  Pakoras Vegetable (Veg)  
   
-**Tuna**  
-In name:   
- - Tuna Salad Sandwich  
-  
 **curry**  
 In name:   
  - Beef Bombay Curry  
@@ -146,6 +144,7 @@ In name:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Crispy Chicken Sandwich  
  - Greek Lemon Chicken w/ Rice  
  - Chicken Tortilla Soup  
