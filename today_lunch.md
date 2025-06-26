@@ -1,6 +1,6 @@
 # 2025-06-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-26 01:29:05  
+Updated at: 2025-06-26 09:18:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-26)  
 **Shrimp**  
 In name:   
@@ -92,6 +92,7 @@ In description:
   
 **pork**  
 In name:   
+ - Italian Pork Sausage  
  - Pork & Beef Hard Salami  
  - Pork Sausage Patties  
  - Pork Carnita  
@@ -106,7 +107,6 @@ In name:
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
  - Beef & Chicken Meatballs  
- - Giardiniera Chicken  
  - Shoyu Chicken  
  - Chicken Dumpling Soup  
  - Diced Chicken  
@@ -123,10 +123,6 @@ In name:
 **steak**  
 In name:   
  - Beef Stir Fry Pepper Steak (CN)  
-  
-**Tuna**  
-In name:   
- - Tuna Salad Sandwich  
   
 **curry**  
 In name:   
@@ -148,6 +144,7 @@ In name:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
  - Chicken Dumpling Soup  
   
