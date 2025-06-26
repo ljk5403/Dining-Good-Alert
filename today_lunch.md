@@ -1,6 +1,6 @@
 # 2025-06-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-26 09:18:22  
+Updated at: 2025-06-26 10:20:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-26)  
 **Shrimp**  
 In name:   
@@ -81,6 +81,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Stew w/ Buttermilk Biscuit  
  - Beef & Chicken Meatballs  
  - Roast Beef  
  - Pork & Beef Hard Salami  
@@ -106,6 +107,7 @@ In name:
  - Chicken Wings Bone-In Plain  
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
+ - Chicken Pot Pie w/Biscuit  
  - Beef & Chicken Meatballs  
  - Shoyu Chicken  
  - Chicken Dumpling Soup  

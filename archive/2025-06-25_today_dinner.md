@@ -1,6 +1,6 @@
 # 2025-06-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-26 01:29:09  
+Updated at: 2025-06-26 09:18:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-26)  
 **Cod**  
 In name:   
@@ -118,10 +118,6 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**Tuna**  
-In name:   
- - Tuna Salad Sandwich  
-  
 **fish**  
 In name:   
  - Vegan Fish Sandwich  
@@ -139,6 +135,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Chicken Bruschetta Sandwich  
  - Chicken Tinga  
  - Chicken Dumpling Soup  
