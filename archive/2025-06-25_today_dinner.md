@@ -1,6 +1,6 @@
 # 2025-06-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-26 16:17:38  
+Updated at: 2025-06-26 17:18:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-26)  
 **Cod**  
 In name:   
@@ -68,12 +68,6 @@ In description:
 In name:   
  - Lemon Pepper Tuna Salad  
   
-**fish**  
-In name:   
-  
-In description:   
- - Vietnamese Pork with Rice  
-  
 **curry**  
 In name:   
  - Green Curry Tofu & Vegetables  
@@ -92,8 +86,9 @@ In description:
 **pork**  
 In name:   
  - Sri Lanka Deviled Pork  
+ - Italian Pork Sausage  
  - Pork & Beef Hard Salami  
- - Vietnamese Pork with Rice  
+ - Imperial Pork Stir Fry  
  - Pork Carnita  
   
 In description:   
@@ -104,7 +99,6 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
- - Giardiniera Chicken  
  - Chicken Dumpling Soup  
  - Diced Chicken  
  - Chicken Banh Mi  
