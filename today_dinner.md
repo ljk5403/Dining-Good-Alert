@@ -1,6 +1,6 @@
 # 2025-06-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-27 16:15:56  
+Updated at: 2025-06-27 17:19:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-27)  
 **clam**  
 In name:   
@@ -104,10 +104,6 @@ In name:
 In name:   
  - Clam Chowder (Pork)  
   
-**Shrimp**  
-In name:   
- - Sauteed Shrimp  
-  
 **Cod**  
 In name:   
  - Lemon Pepper Cod Fillet  
@@ -136,6 +132,7 @@ In description:
 **pork**  
 In name:   
  - French Market Pork Jambalaya  
+ - Italian Pork Sausage  
  - Pork & Beef Hard Salami  
  - Clam Chowder (Pork)  
  - Baked Corn Dog (Pork)  
