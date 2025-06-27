@@ -1,6 +1,6 @@
 # 2025-06-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-27 12:16:32  
+Updated at: 2025-06-27 13:26:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-27)  
 **steak**  
 In name:   
@@ -107,10 +107,6 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**Tandoori Chicken**  
-In name:   
- - Tandoori Chicken  
-  
 **steak**  
 In name:   
  - Spicy Steak Fajita  
@@ -131,6 +127,7 @@ In name:
  - Beef & Chicken Meatballs  
  - Roast Beef  
  - Pork & Beef Hard Salami  
+ - Halal Beef Hamburger  
  - Beef Taco Meat  
   
 In description:   
@@ -142,6 +139,7 @@ In description:
 In name:   
  - Italian Pork Sausage  
  - Pork & Beef Hard Salami  
+ - Imperial Pork Stir Fry  
  - Clam Chowder (Pork)  
   
 In description:   
@@ -154,7 +152,6 @@ In name:
  - Shoyu Chicken  
  - Beef & Chicken Meatballs  
  - Chicken Sausage Patties  
- - Tandoori Chicken  
  - Diced Chicken  
   
 In description:   
