@@ -1,6 +1,6 @@
 # 2025-06-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-27 01:28:38  
+Updated at: 2025-06-27 09:18:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-27)  
 **clam**  
 In name:   
@@ -181,10 +181,6 @@ In name:
 In description:   
  - Clam Chowder (Pork)  
   
-**Tuna**  
-In name:   
- - Tuna Salad Sandwich  
-  
 **curry**  
 In name:   
  - Currywurst (Pork)  
@@ -207,6 +203,7 @@ In name:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
   
 In description:   
  - Great Greens  

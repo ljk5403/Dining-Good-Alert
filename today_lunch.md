@@ -1,6 +1,6 @@
 # 2025-06-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-27 01:28:34  
+Updated at: 2025-06-27 09:18:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-27)  
 **steak**  
 In name:   
@@ -154,6 +154,7 @@ In description:
 **chicken**  
 In name:   
  - Chicken Piece Seasoned Baked  
+ - Shoyu Chicken  
  - Beef & Chicken Meatballs  
  - Chicken Sausage Patties  
  - Tandoori Chicken  
@@ -186,10 +187,6 @@ In description:
 In name:   
  - Garlic Baked Catfish  
   
-**Tuna**  
-In name:   
- - Tuna Salad Sandwich  
-  
 **fish**  
 In name:   
  - Garlic Baked Catfish  
@@ -211,6 +208,7 @@ In name:
 In name:   
  - Chicken Piece Seasoned Baked  
  - Mediterranean Chicken  
+ - Lemon Pepper Chicken Salad  
   
 In description:   
  - Great Greens  
