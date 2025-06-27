@@ -1,6 +1,6 @@
 # 2025-06-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-27 12:16:39  
+Updated at: 2025-06-27 13:26:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-28)  
 **steak**  
 In name:   
@@ -68,12 +68,6 @@ In description:
  - Station Recipe - Liz - Great Greens  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-06-28)  
-**fish**  
-In name:   
-  
-In description:   
- - Tempura Roll (FujiSan)  
-  
 **lamb**  
 In name:   
  - Lamb & Beef Gyro Sandwich  
