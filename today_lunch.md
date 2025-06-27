@@ -1,6 +1,6 @@
 # 2025-06-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-27 09:18:29  
+Updated at: 2025-06-27 10:19:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-27)  
 **steak**  
 In name:   
@@ -119,10 +119,6 @@ In name:
 In name:   
  - Clam Chowder (Pork)  
   
-**Shrimp**  
-In name:   
- - Sauteed Shrimp  
-  
 **Cod**  
 In name:   
  - Battered Cod  
@@ -144,6 +140,7 @@ In description:
   
 **pork**  
 In name:   
+ - Italian Pork Sausage  
  - Pork & Beef Hard Salami  
  - Clam Chowder (Pork)  
   
