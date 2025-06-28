@@ -1,6 +1,6 @@
 # 2025-06-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-28 15:19:12  
+Updated at: 2025-06-28 16:16:34  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-28)  
 **beef**  
 In name:   
@@ -78,7 +78,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Enchilada Bake  
+ - Shoyu Chicken  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
