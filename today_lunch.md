@@ -1,6 +1,6 @@
 # 2025-06-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-28 11:21:29  
+Updated at: 2025-06-28 12:15:34  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-28)  
 **steak**  
 In name:   
@@ -104,7 +104,7 @@ In name:
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Breaded Chicken Tenders  
- - Cream of Chicken & Wild Rice Soup  
+ - Chicken Noodle Soup  
  - Diced Chicken  
   
 In description:   
