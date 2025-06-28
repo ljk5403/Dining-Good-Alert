@@ -1,6 +1,6 @@
 # 2025-06-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-28 16:16:42  
+Updated at: 2025-06-28 17:16:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-29)  
 **Salmon**  
 In name:   
@@ -67,6 +67,10 @@ In name:
 In name:   
  - Watermelon Slices  
   
+**drumstick**  
+In name:   
+ - Chicken Drumstick BBQ Glazed  
+  
 **Tilapia**  
 In name:   
  - Lemon Bake Tilapia  
@@ -84,7 +88,6 @@ In description:
   
 **pork**  
 In name:   
- - Gnocchi w/ Pork Chorizo Sauce  
  - Pork & Beef Hard Salami  
   
 In description:   
@@ -94,13 +97,13 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Drumstick BBQ Glazed  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Lemon Chicken Rice Soup  
  - Diced Chicken  
   
 In description:   
- - Gnocchi w/ Pork Chorizo Sauce  
  - Pepperoni Pizza Slice  
  - Gordon's Great Greens  
   
