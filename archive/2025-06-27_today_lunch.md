@@ -1,6 +1,6 @@
 # 2025-06-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-28 01:25:31  
+Updated at: 2025-06-28 09:15:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-28)  
 **steak**  
 In name:   
@@ -74,17 +74,12 @@ In name:
 In description:   
  - Tempura Roll (FujiSan)  
   
-**lamb**  
-In name:   
- - Lamb & Beef Gyro Sandwich  
-  
 **beef**  
 In name:   
  - Beef Gravy  
  - Beef & Chicken Meatballs  
  - Roast Beef  
  - Pork & Beef Hard Salami  
- - Lamb & Beef Gyro Sandwich  
  - Beef Taco Meat  
   
 In description:   
@@ -107,6 +102,7 @@ In name:
  - Blackened Chicken with Orange Sauce  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
+ - Breaded Chicken Tenders  
  - Chicken Tinga  
  - Cream of Chicken & Wild Rice Soup  
  - Diced Chicken  
