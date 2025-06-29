@@ -1,6 +1,6 @@
 # 2025-06-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-29 09:16:11  
+Updated at: 2025-06-29 10:17:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-29)  
 **Tuna**  
 In name:   
@@ -93,6 +93,7 @@ In description:
 **pork**  
 In name:   
  - Boneless Baked Pork Ham  
+ - Pork Italian Sausage  
  - Pork & Beef Hard Salami  
   
 In description:   
@@ -102,7 +103,6 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
- - Giardiniera Chicken  
  - Grilled Chicken Sandwich  
  - Chicken Tinga  
  - Lemon Chicken Rice Soup  
