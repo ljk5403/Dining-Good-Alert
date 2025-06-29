@@ -1,6 +1,6 @@
 # 2025-06-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-29 10:17:45  
+Updated at: 2025-06-29 11:21:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-29)  
 **Tuna**  
 In name:   
@@ -76,10 +76,6 @@ In name:
 In name:   
  - Blackened Catfish  
   
-**curry**  
-In name:   
- - Thai Veggie Meatballs w/ Green Curry  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
@@ -89,6 +85,7 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice  
+ - Bratwurst  
   
 **pork**  
 In name:   
@@ -99,18 +96,17 @@ In name:
 In description:   
  - Pizza Slice Sausage  
  - Smoked Ham  
+ - Bratwurst  
   
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
- - Grilled Chicken Sandwich  
  - Chicken Tinga  
  - Lemon Chicken Rice Soup  
  - Diced Chicken  
   
 In description:   
  - Pepperoni Pizza Slice  
- - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-06-29)  
 **watermelon**  
