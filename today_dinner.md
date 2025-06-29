@@ -1,6 +1,6 @@
 # 2025-06-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-29 15:19:37  
+Updated at: 2025-06-29 16:16:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-06-29)  
 **Salmon**  
 In name:   
@@ -118,12 +118,12 @@ In name:
   
 **beef**  
 In name:   
- - Wrap Lettuce Beef Korean BBQ (no nuts)  
  - Beef Barbacoa  
  - Beef Taco Meat  
   
 In description:   
  - Grilled Cheeseburger  
+ - Korean BBQ Lettuce Wraps  
   
 **pork**  
 In name:   
