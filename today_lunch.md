@@ -1,6 +1,6 @@
 # 2025-06-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-29 01:27:08  
+Updated at: 2025-06-29 09:16:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-29)  
 **Tuna**  
 In name:   
@@ -85,7 +85,6 @@ In name:
  - Beef & Chicken Meatballs  
  - Roast Beef  
  - Pork & Beef Hard Salami  
- - Beef Barbacoa  
  - Beef Taco Meat  
   
 In description:   
@@ -105,6 +104,7 @@ In name:
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Grilled Chicken Sandwich  
+ - Chicken Tinga  
  - Lemon Chicken Rice Soup  
  - Diced Chicken  
   
