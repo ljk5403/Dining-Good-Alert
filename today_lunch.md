@@ -1,6 +1,6 @@
 # 2025-06-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-30 01:29:46  
+Updated at: 2025-06-30 09:18:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-30)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -71,9 +71,9 @@ In name:
 In name:   
  - Watermelon Slices  
   
-**steak**  
+**Cod**  
 In name:   
- - Brazilian Flank Steak  
+ - Lemon Pepper Cod Fillet  
   
 **Tuna**  
 In name:   
@@ -95,7 +95,6 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Brazilian Flank Steak  
  - Pepperoni Pizza Slice  
  - Vegan Taco Filling  
   
@@ -110,8 +109,9 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Honey Lime w/ rice  
+ - Baked BBQ Chicken  
  - Beef & Chicken Meatballs  
+ - Chicken Sausage Patty  
  - Chicken Tenders Breaded  
  - Plant-Based Chicken Nuggets (6)  
  - Chicken Tinga  
