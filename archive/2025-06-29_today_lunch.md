@@ -1,6 +1,6 @@
 # 2025-06-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-06-30 09:18:55  
+Updated at: 2025-06-30 10:21:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-06-30)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -83,9 +83,6 @@ In name:
 In name:   
  - Beef Bombay Curry  
   
-In description:   
- - Chana Saag w/ Tofu  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
@@ -128,7 +125,6 @@ In name:
   
 **beef**  
 In name:   
- - 1849 BBQ Beef Brisket Slider  
  - Beef Taco Meat  
   
 In description:   
@@ -136,6 +132,7 @@ In description:
   
 **pork**  
 In name:   
+ - Herb Crusted Pork Loin  
  - Italian Pork Sausage  
   
 In description:   
@@ -143,6 +140,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Seasoned Baked Chicken Quarters  
  - Buffalo Chicken Wrap  
  - Plant Based Chicken Strips  
  - Lemon Pepper Chicken Salad  
