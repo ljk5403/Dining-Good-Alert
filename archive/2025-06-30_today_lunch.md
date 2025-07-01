@@ -1,6 +1,6 @@
 # 2025-07-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-01 01:29:28  
+Updated at: 2025-07-01 09:18:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-01)  
 **Shrimp**  
 In name:   
@@ -93,6 +93,7 @@ In description:
 In name:   
  - BBQ Pork Chop  
  - Pork & Beef Hard Salami  
+ - Pork Carnita  
   
 In description:   
  - Pizza Slice Sausage  
@@ -107,7 +108,6 @@ In name:
  - Chicken Sausage Patties  
  - Plant Based Sesame Chicken (AYCTE) (VN)  
  - Sesame Chicken  
- - Spicy Chicken Fajita  
  - Diced Chicken  
   
 In description:   
