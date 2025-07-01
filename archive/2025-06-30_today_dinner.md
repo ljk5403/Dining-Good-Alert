@@ -1,6 +1,6 @@
 # 2025-07-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-01 16:17:48  
+Updated at: 2025-07-01 17:17:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-01)  
 **drumstick**  
 In name:   
@@ -84,7 +84,6 @@ In description:
   
 **pork**  
 In name:   
- - Italian Pork Sausage  
  - Pork & Beef Hard Salami  
  - Edamame Fried Rice w/ Pork Potsticker  
  - Pork Carnita  
@@ -97,6 +96,7 @@ In description:
 **chicken**  
 In name:   
  - Chicken Creole  
+ - Giardiniera Chicken  
  - Beef & Chicken Meatballs  
  - Diced Chicken  
   
