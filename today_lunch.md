@@ -1,6 +1,6 @@
 # 2025-07-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-02 09:18:36  
+Updated at: 2025-07-02 10:20:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-02)  
 **beef**  
 In name:   
@@ -96,7 +96,6 @@ In name:
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Chicken Tortilla Soup  
- - Diced Chicken  
   
 In description:   
  - Pepperoni Pizza Slice  
