@@ -1,6 +1,6 @@
 # 2025-07-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-02 10:20:31  
+Updated at: 2025-07-02 11:23:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-02)  
 **beef**  
 In name:   
@@ -67,14 +67,14 @@ In name:
 In name:   
  - Watermelon Slices  
   
-**Tilapia**  
+**Cod**  
 In name:   
- - Baked Tilapia w/ Tomato Tapenade  
+ - Lemon Pepper Cod Fillet  
   
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Beef Bulgogi Taco  
+ - Shredded Beef Bulgogi Nachos  
  - Beef Barbacoa  
  - Beef Taco Meat  
   
