@@ -1,6 +1,6 @@
 # 2025-07-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-02 13:27:14  
+Updated at: 2025-07-02 15:19:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-02)  
 **beef**  
 In name:   
@@ -110,6 +110,9 @@ In name:
 In name:   
  - Beef Barbacoa  
  - Beef Taco Meat  
+  
+In description:   
+ - Grilled Hamburger  
   
 **chicken**  
 In name:   
