@@ -1,18 +1,86 @@
-# 2025-07-02 dinner  
+# 2025-07-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-02 20:38:35  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-02)  
-**Shrimp**  
+Updated at: 2025-07-03 01:29:31  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-03)  
+**Tuna**  
 In name:   
+ - Lemon Pepper Tuna Salad  
+  
+**beef**  
+In name:   
+ - Beef & Chicken Meatballs  
+ - Beef Bulgogi Bao Bun  
+ - Beef Mediterranean  
   
 In description:   
- - Kimchee Reuben Sandwich  
+ - Pork Bangers & Mash Plate  
+ - Pepperoni Pizza Slice  
   
-**fish**  
+**pork**  
 In name:   
+ - Pork Bangers & Mash Plate  
   
 In description:   
- - Kimchee Reuben Sandwich  
+ - Chorizo Sauce  
+  
+**chicken**  
+In name:   
+ - Chicken Breast w/Red Pepper Cream  
+ - Plant-Based Chicken & Dumplings  
+ - Plant Based Chicken Strips  
+ - Beef & Chicken Meatballs  
+ - Butter Chicken  
+ - Mediterranean Chicken  
+ - Chicken Dumpling Soup  
+  
+In description:   
+ - Chorizo Sauce  
+ - Pepperoni Pizza Slice  
+ - Great Greens  
+  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-07-03)  
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
+**beef**  
+In name:   
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
+  
+In description:   
+ - BYO Bar - Mac & Cheese (CN)  
+  
+**pork**  
+In name:   
+ - Pork & Beef Hard Salami  
+  
+In description:   
+ - BYO Bar - Mac & Cheese (CN)  
+ - Smoked Ham  
+ - Bacon  
+  
+**chicken**  
+In name:   
+ - Plant-Based Chicken Nuggets (6)  
+ - Appetizer -  Chicken Popcorn (CN)  
+ - Chicken Dumpling Soup  
+  
+In description:   
+ - BYO Bar - Mac & Cheese (CN)  
+  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-07-03)  
+**corn bake**  
+In name:   
+ - Sweet Corn Bake (Veg)  
+  
+**steak**  
+In name:   
+ - Grilled Flank Steak  
+  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad  
   
 **curry**  
 In name:   
@@ -23,90 +91,19 @@ In description:
   
 **beef**  
 In name:   
- - Beef Barbacoa  
- - Beef Taco Meat  
-  
-In description:   
- - Kimchee Reuben Sandwich  
-  
-**pork**  
-In name:   
- - Italian Pork Sausage  
- - Tavern Style Sausage Pizza (Pork)  
-  
-**chicken**  
-In name:   
- - Lemon Pepper Chicken Salad  
- - Tikka Masala Chicken  
- - Plant Based Protein Chicken Taco Filling  
- - Chicken Tinga  
- - Chicken Tortilla Soup  
-  
-In description:   
- - Great Greens  
-  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-07-02)  
-**watermelon**  
-In name:   
- - Melon Watermelon Whole Sliced  
-  
-**beef**  
-In name:   
- - Roast Beef  
- - Pork & Beef Hard Salami  
-  
-**pork**  
-In name:   
- - Pork & Beef Hard Salami  
-  
-In description:   
- - Smoked Ham  
- - Bacon  
-  
-**chicken**  
-In name:   
- - Chicken Honey Lime w/ rice  
- - Chicken Tortilla Soup  
- - Lemon Pepper Chicken Salad  
-  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-07-02)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
-**Chicken Drummies**  
-In name:   
- - Chicken Drummies  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Beef Masaman Thai Curry  
-  
-**curry**  
-In name:   
- - Beef Masaman Thai Curry  
-  
-**beef**  
-In name:   
  - Beef & Chicken Meatballs  
  - Roast Beef  
  - Pork & Beef Hard Salami  
- - Beef Masaman Thai Curry  
- - Beef Barbacoa  
  - Beef Taco Meat  
   
 In description:   
- - Italian Meat Sauce  
+ - Grilled Flank Steak  
  - Pepperoni Pizza Slice  
- - Cowboy Burger  
   
 **pork**  
 In name:   
- - Roasted Pork Loin  
- - Italian Pork Sausage  
  - Pork & Beef Hard Salami  
+ - Pork Carnita  
   
 In description:   
  - Pizza Slice Sausage  
@@ -115,39 +112,44 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Drummies  
+ - Chipotle Chicken Baked Pasta  
  - Beef & Chicken Meatballs  
- - Lemon Pepper Chicken Salad  
- - Chicken Tortilla Soup  
+ - Giardiniera Chicken  
+ - Tikka Masala Chicken  
+ - Chicken Dumpling Soup  
  - Diced Chicken  
+ - Jerk Chicken Sandwich  
   
 In description:   
  - Pepperoni Pizza Slice  
  - Gordon's Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-07-02)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-07-03)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
   
 **beef**  
 In name:   
- - Beef Ravioli w/Tomato Sauce  
- - Beef Barbacoa  
  - Beef Taco Meat  
+  
+In description:   
+ - Grilled Cheeseburger  
+  
+**pork**  
+In name:   
+ - Spicy Greenbush Pork Loin  
+ - Pork Carnita  
   
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
- - Crispy Chicken Sandwich  
- - Chicken Wings Boneless Plain  
- - Plant-Based Chicken Nuggets (6)  
- - Mediterranean Chicken  
- - Chicken Tortilla Soup  
+ - Plant-Based Chicken Taco Filling  
+ - Chicken Dumpling Soup  
   
 In description:   
  - Great Greens  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-07-02)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-07-02)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-07-03)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-07-03)  
   
