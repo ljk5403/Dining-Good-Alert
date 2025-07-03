@@ -1,6 +1,6 @@
 # 2025-07-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-03 15:20:02  
+Updated at: 2025-07-03 16:17:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-03)  
 **Tuna**  
 In name:   
@@ -129,8 +129,13 @@ In description:
 In name:   
  - Watermelon Slices  
   
+**steak**  
+In name:   
+ - Beef Flank Steak  
+  
 **beef**  
 In name:   
+ - Beef Flank Steak  
  - Beef Taco Meat  
   
 In description:   
