@@ -1,6 +1,6 @@
 # 2025-07-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-04 13:25:57  
+Updated at: 2025-07-04 15:20:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-04)  
 **clam**  
 In name:   
@@ -106,10 +106,6 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**drumstick**  
-In name:   
- - Chicken Drumstick Teriyaki Glazed  
-  
 **steak**  
 In name:   
  - Spicy Steak Fajita  
@@ -126,8 +122,8 @@ In name:
   
 **Cod**  
 In name:   
- - Vegan Cod Battered (2 pc)  
  - Battered Cod  
+ - Vegan Cod Battered (2 pc)  
   
 In description:   
  - Clam Chowder (Pork)  
@@ -169,7 +165,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Drumstick Teriyaki Glazed  
  - Beef & Chicken Meatballs  
  - Diced Chicken  
   

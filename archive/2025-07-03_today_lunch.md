@@ -1,6 +1,6 @@
 # 2025-07-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-04 12:16:18  
+Updated at: 2025-07-04 13:25:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-04)  
 **drumstick**  
 In name:   
@@ -130,6 +130,7 @@ In name:
  - Beef & Chicken Meatballs  
  - Roast Beef  
  - Pork & Beef Hard Salami  
+ - Beef Goulash w/Egg Noodles  
  - Beef Taco Meat  
   
 In description:   
@@ -151,7 +152,6 @@ In description:
 In name:   
  - Brazilian Chicken w/ Salsa Vinaigrette  
  - Beef & Chicken Meatballs  
- - Butter Chicken  
  - Diced Chicken  
   
 In description:   
