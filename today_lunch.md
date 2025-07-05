@@ -1,6 +1,6 @@
 # 2025-07-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-05 12:15:47  
+Updated at: 2025-07-05 13:23:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-05)  
 **watermelon**  
 In name:   
@@ -65,10 +65,6 @@ In name:
  - Cream of Chicken & Wild Rice Soup  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-07-05)  
-**steak**  
-In name:   
- - Grilled Flank Steak  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
@@ -76,7 +72,6 @@ In name:
  - Pork & Beef Hard Salami  
   
 In description:   
- - Grilled Flank Steak  
  - Pepperoni Pizza Slice  
   
 **pork**  
