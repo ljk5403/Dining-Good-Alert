@@ -1,6 +1,6 @@
 # 2025-07-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-06 10:17:40  
+Updated at: 2025-07-06 11:21:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-06)  
 **steak**  
 In name:   
@@ -102,12 +102,14 @@ In name:
 In description:   
  - Pizza Slice Sausage  
  - Smoked Ham  
+ - Bacon  
   
 **chicken**  
 In name:   
  - Chipotle Chicken Baked Pasta  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
+ - Lemon Pepper Chicken Salad  
  - Lemon Chicken Rice Soup  
  - Diced Chicken  
   
