@@ -1,6 +1,6 @@
 # 2025-07-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-07 13:27:17  
+Updated at: 2025-07-07 15:21:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-07)  
 **Tuna**  
 In name:   
@@ -86,8 +86,6 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Roast Beef  
- - Pork & Beef Hard Salami  
  - Beef Taco Meat  
   
 In description:   
@@ -99,12 +97,9 @@ In description:
 In name:   
  - Pork Loin Spicy Greenbush  
  - Italian Pork Sausage  
- - Pork & Beef Hard Salami  
   
 In description:   
  - Pizza Slice Sausage  
- - Smoked Ham  
- - Bacon  
   
 **chicken**  
 In name:   
@@ -125,6 +120,12 @@ In description:
 In name:   
  - Watermelon Slices  
   
+**fish**  
+In name:   
+  
+In description:   
+ - BYO- Maki Noodle Bowl- Four Lakes  
+  
 **curry**  
 In name:   
  - Seitan & Coconut Thai Curry  
@@ -135,6 +136,7 @@ In name:
  - Beef Taco Meat  
   
 In description:   
+ - BYO- Maki Noodle Bowl- Four Lakes  
  - Vegan Taco Filling  
   
 **pork**  
@@ -148,6 +150,7 @@ In name:
  - Chicken Chili  
   
 In description:   
+ - BYO- Maki Noodle Bowl- Four Lakes  
  - Great Greens  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-07-07)  
