@@ -1,6 +1,6 @@
 # 2025-07-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-06 17:18:16  
+Updated at: 2025-07-06 18:17:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-06)  
 **lamb**  
 In name:   
@@ -102,6 +102,10 @@ In name:
 **Salmon**  
 In name:   
  - Tuscan Butter Salmon  
+  
+**mahi mahi**  
+In name:   
+ - Baked Mahi Mahi w/ Butter & Lemon  
   
 **fish**  
 In name:   
