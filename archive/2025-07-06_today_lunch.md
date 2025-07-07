@@ -1,158 +1,172 @@
-# 2025-07-06 lunch  
+# 2025-07-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-06 20:43:25  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-06)  
+Updated at: 2025-07-07 01:30:13  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-07)  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad  
+  
+**curry**  
+In name:   
+  
+In description:   
+ - Chicken Korma  
+ - Vegetable Korma  
+  
+**beef**  
+In name:   
+ - Beef Sirloin Tips  
+ - Sub - Beef Taco Meat Filling  
+ - Beef Barbacoa  
+ - Beef & Chicken Meatballs  
+  
+**pork**  
+In name:   
+ - Autumn Pork Tenderloin  
+  
+In description:   
+ - Pizza Slice Sausage  
+  
+**chicken**  
+In name:   
+ - Jerk Chicken Sandwich  
+ - Chicken Korma  
+ - Chicken Tinga  
+ - Chicken Noodle Soup  
+ - Beef & Chicken Meatballs  
+  
+In description:   
+ - Great Greens  
+  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-07-07)  
+**watermelon**  
+In name:   
+ - Melon Watermelon Whole Sliced  
+  
+**beef**  
+In name:   
+ - Beef Roast w/Mushroom Demi Glace  
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
+  
+In description:   
+ - Cheeseburger  
+ - Hamburger  
+ - Grilled Cheeseburger  
+ - Grilled Hamburger  
+  
+**pork**  
+In name:   
+ - Pork & Beef Hard Salami  
+  
+In description:   
+ - Smoked Ham  
+ - Bacon  
+  
+**chicken**  
+In name:   
+ - Chicken Noodle Soup  
+ - Lemon Pepper Chicken Salad  
+  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-07-07)  
+**watermelon**  
+In name:   
+ - Watermelon Slices  
+  
 **steak**  
 In name:   
- - Pizza Slice Philly Cheesesteak  
- - Philly Cheesesteak Sandwich  
+ - Plant-Based Pepper Steak Stir Fry  
   
 **Salmon**  
 In name:   
- - Masala Spiced Salmon  
+ - Baked Salmon with Mustard Sauce  
+  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad  
   
 **fish**  
 In name:   
   
 In description:   
- - Masala Spiced Salmon  
+ - Baked Salmon with Mustard Sauce  
   
 **curry**  
 In name:   
- - Squash Curry  
   
 In description:   
  - Tikka Masala Chicken  
- - Tofu & Vegetable Tikka Masala  
   
 **beef**  
 In name:   
- - Beef Barbacoa  
- - Beef Taco Meat  
- - Beef Ravioli Plain  
-  
-In description:   
- - Pizza Slice Philly Cheesesteak  
- - Pepperoni Pizza Slice  
- - Philly Cheesesteak Sandwich  
-  
-**chicken**  
-In name:   
- - Chicken & Vegetables w/Dijon Vinaigrette  
- - Lemon Pepper Chicken Salad  
- - Tikka Masala Chicken  
- - Fajita Chicken  
- - Lemon Chicken Rice Soup  
- - Diced Chicken Breast  
-  
-In description:   
- - Pepperoni Pizza Slice  
- - Great Greens  
-  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-07-06)  
-**lamb**  
-In name:   
- - Lamb & Beef Gyro Sandwich  
-  
-**beef**  
-In name:   
- - Lamb & Beef Gyro Sandwich  
- - Roast Beef  
- - Pork & Beef Hard Salami  
-  
-**pork**  
-In name:   
- - Pork & Beef Hard Salami  
-  
-In description:   
- - Smoked Ham  
- - Bacon  
-  
-**chicken**  
-In name:   
- - Baked BBQ Chicken  
- - Lemon Chicken Rice Soup  
-  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-07-06)  
-**steak**  
-In name:   
- - Plant-Based Pepper Steak Stir Fry  
-  
-**Shrimp**  
-In name:   
- - Coconut Shrimp  
-  
-**beef**  
-In name:   
+ - Beef Stew  
  - Beef & Chicken Meatballs  
  - Roast Beef  
  - Pork & Beef Hard Salami  
- - Beef Barbacoa  
  - Beef Taco Meat  
   
 In description:   
  - Plant-Based Pepper Steak Stir Fry  
  - Pepperoni Pizza Slice  
- - Grilled Cheeseburger  
+ - Pork Bratwurst Sandwich  
+ - Vegan Taco Filling  
   
 **pork**  
 In name:   
+ - Italian Pork Sausage  
  - Pork & Beef Hard Salami  
+ - Pork Bratwurst Sandwich  
   
 In description:   
  - Pizza Slice Sausage  
  - Smoked Ham  
- - Bacon  
   
 **chicken**  
 In name:   
- - Chipotle Chicken Baked Pasta  
  - Beef & Chicken Meatballs  
- - Giardiniera Chicken  
- - Lemon Pepper Chicken Salad  
- - Lemon Chicken Rice Soup  
- - Diced Chicken  
+ - Tikka Masala Chicken  
+ - Chicken Tinga  
+ - Chicken Noodle Soup  
   
 In description:   
  - Pepperoni Pizza Slice  
+ - Gordon's Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-07-06)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-07-07)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
   
-**Samosas**  
-In name:   
- - Samosas  
-  
-**curry**  
+**broccoli rabe**  
 In name:   
   
 In description:   
- - Tikka Masala Chicken  
+ - Tempeh w/Red Peppers & Broc Rabe  
   
 **beef**  
 In name:   
- - Beef Barbacoa  
+ - Roast Beef & Cheddar Panini on Rye  
  - Beef Taco Meat  
   
 In description:   
- - Corn Dog (Pork)  
+ - Vegan Taco Filling  
   
 **pork**  
 In name:   
- - Corn Dog (Pork)  
+ - Baked Pork Ham  
+  
+In description:   
+ - Andouille Sausage  
   
 **chicken**  
 In name:   
- - Tikka Masala Chicken  
  - Lemon Pepper Chicken Salad  
- - Lemon Chicken Rice Soup  
+ - Chicken Tinga  
+ - Chicken Noodle Soup  
   
 In description:   
- - Corn Dog (Pork)  
  - Great Greens  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-07-06)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-07-06)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-07-07)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-07-07)  
   

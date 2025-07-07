@@ -1,6 +1,6 @@
 # 2025-07-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-07 01:30:16  
+Updated at: 2025-07-07 09:19:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-07)  
 **Tuna**  
 In name:   
@@ -145,7 +145,7 @@ In name:
 In name:   
  - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
- - Chicken Noodle Soup  
+ - Chicken Chili  
   
 In description:   
  - Great Greens  
