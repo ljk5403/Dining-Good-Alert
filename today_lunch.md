@@ -1,6 +1,6 @@
 # 2025-07-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-07 10:19:43  
+Updated at: 2025-07-07 11:25:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-07)  
 **Tuna**  
 In name:   
@@ -69,10 +69,6 @@ In name:
  - Lemon Pepper Chicken Salad  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-07-07)  
-**steak**  
-In name:   
- - Plant-Based Pepper Steak Stir Fry  
-  
 **Salmon**  
 In name:   
  - Baked Salmon with Mustard Sauce  
@@ -89,6 +85,7 @@ In description:
   
 **curry**  
 In name:   
+ - Thai Veggie Meatballs w/ Green Curry  
   
 In description:   
  - Tikka Masala Chicken  
@@ -102,7 +99,6 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Plant-Based Pepper Steak Stir Fry  
  - Pepperoni Pizza Slice  
  - Grilled Cheeseburger  
  - Vegan Taco Filling  
@@ -138,6 +134,16 @@ In name:
 In description:   
  - Tempeh w/Red Peppers & Broc Rabe  
   
+**Salmon**  
+In name:   
+ - Smoked Salmon  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Smoked Salmon  
+  
 **beef**  
 In name:   
  - Roast Beef & Cheddar Panini on Rye  
@@ -157,10 +163,8 @@ In description:
 In name:   
  - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
+ - Mediterranean Chicken  
  - Chicken Chili  
-  
-In description:   
- - Great Greens  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-07-07)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-07-07)  
