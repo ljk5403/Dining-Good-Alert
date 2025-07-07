@@ -1,6 +1,6 @@
 # 2025-07-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-07 12:17:04  
+Updated at: 2025-07-07 13:27:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-07)  
 **Tuna**  
 In name:   
@@ -69,26 +69,19 @@ In name:
  - Lemon Pepper Chicken Salad  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-07-07)  
-**Salmon**  
+**steak**  
 In name:   
- - Baked Salmon with Mustard Sauce  
+  
+In description:   
+ - Montreal Chicken  
   
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
   
-**fish**  
-In name:   
-  
-In description:   
- - Baked Salmon with Mustard Sauce  
-  
 **curry**  
 In name:   
  - Thai Veggie Meatballs w/ Green Curry  
-  
-In description:   
- - Tikka Masala Chicken  
   
 **beef**  
 In name:   
@@ -114,9 +107,10 @@ In description:
   
 **chicken**  
 In name:   
+ - Montreal Chicken  
  - Beef & Chicken Meatballs  
  - Chicken Sausage Patties  
- - Tikka Masala Chicken  
+ - Greek Chicken  
  - Chicken Tinga  
  - Chicken Noodle Soup  
   
