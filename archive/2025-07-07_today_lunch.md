@@ -1,6 +1,6 @@
 # 2025-07-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-08 01:29:19  
+Updated at: 2025-07-08 09:18:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-08)  
 **Shrimp**  
 In name:   
@@ -91,11 +91,13 @@ In name:
 In description:   
  - Italian Meat Sauce  
  - Pepperoni Pizza Slice  
+ - Pork Bratwurst Sandwich  
  - Spicy Steak Fajita  
   
 **pork**  
 In name:   
  - Pork & Beef Hard Salami  
+ - Pork Bratwurst Sandwich  
   
 In description:   
  - Pizza Slice Sausage  
@@ -106,12 +108,10 @@ In name:
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Chicken Sausage Patties  
- - Crispy Chicken Sandwich  
  - Diced Chicken  
   
 In description:   
  - Pepperoni Pizza Slice  
- - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-07-08)  
 **watermelon**  
@@ -136,6 +136,7 @@ In name:
 In name:   
  - Grilled Chicken Sandwich  
  - Taco Chicken  
+ - Mediterranean Chicken  
   
 In description:   
  - Great Greens  
