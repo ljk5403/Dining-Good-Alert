@@ -1,6 +1,6 @@
 # 2025-07-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-08 11:25:04  
+Updated at: 2025-07-08 12:17:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-08)  
 **Shrimp**  
 In name:   
@@ -81,8 +81,6 @@ In name:
 In name:   
  - Texas BBQ Sliced Beef Brisket  
  - Beef & Chicken Meatballs  
- - Roast Beef  
- - Pork & Beef Hard Salami  
  - Beef Broccoli Stir Fry w/Teriyaki Sauce  
  - Plant-Based Beef & Broccoli Stir Fry  
  - Beef Taco Meat  
@@ -94,11 +92,9 @@ In description:
   
 **pork**  
 In name:   
- - Pork & Beef Hard Salami  
   
 In description:   
  - Pizza Slice Sausage  
- - Smoked Ham  
   
 **chicken**  
 In name:   
@@ -129,6 +125,7 @@ In name:
 **pork**  
 In name:   
  - Pork & Broccoli Stir Fry  
+ - Pork Adobo  
   
 **chicken**  
 In name:   
