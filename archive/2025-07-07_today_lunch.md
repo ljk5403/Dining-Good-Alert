@@ -1,6 +1,6 @@
 # 2025-07-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-08 09:18:31  
+Updated at: 2025-07-08 10:20:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-08)  
 **Shrimp**  
 In name:   
@@ -118,9 +118,9 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**Tuna**  
+**mahi mahi**  
 In name:   
- - Tuna Salad Sandwich  
+ - Baked Mahi Mahi w/ Butter & Lemon  
   
 **beef**  
 In name:   
@@ -135,6 +135,7 @@ In name:
 **chicken**  
 In name:   
  - Grilled Chicken Sandwich  
+ - Lemon Pepper Chicken Salad  
  - Taco Chicken  
  - Mediterranean Chicken  
   
