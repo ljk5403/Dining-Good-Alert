@@ -1,6 +1,6 @@
 # 2025-07-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-08 15:21:17  
+Updated at: 2025-07-08 16:18:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-08)  
 **Shrimp**  
 In name:   
@@ -94,8 +94,6 @@ In description:
 In name:   
  - Beef Tri Tip Carved w/ Chimichurri  
  - Beef & Chicken Meatballs  
- - Roast Beef  
- - Pork & Beef Hard Salami  
  - Beef Vindaloo  
  - Beef Taco Meat  
  - Beef & Bean Chili  
@@ -108,12 +106,9 @@ In description:
 **pork**  
 In name:   
  - Green Beans w/ Pork Bacon  
- - Pork & Beef Hard Salami  
   
 In description:   
  - Pizza Slice Sausage  
- - Smoked Ham  
- - Bacon  
   
 **chicken**  
 In name:   
