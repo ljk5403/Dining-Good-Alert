@@ -1,6 +1,6 @@
 # 2025-07-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-07 18:18:05  
+Updated at: 2025-07-07 20:39:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-07)  
 **Tuna**  
 In name:   
@@ -83,6 +83,10 @@ In name:
 In description:   
  - Kung Pao Chicken  
   
+**curry**  
+In name:   
+ - Thai Veggie Meatballs w/ Green Curry  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
@@ -107,7 +111,6 @@ In name:
  - Chicken Gravy  
  - Beef & Chicken Meatballs  
  - Kung Pao Chicken  
- - Plant-Based Chicken Lo Mein  
  - Chicken Tinga  
  - Chicken Noodle Soup  
   
