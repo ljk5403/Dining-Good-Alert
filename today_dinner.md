@@ -1,6 +1,6 @@
 # 2025-07-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-08 18:18:41  
+Updated at: 2025-07-08 20:40:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-08)  
 **Shrimp**  
 In name:   
@@ -92,7 +92,6 @@ In description:
   
 **beef**  
 In name:   
- - Beef Tri Tip Carved w/ Chimichurri  
  - Beef & Chicken Meatballs  
  - Beef Vindaloo  
  - Beef Taco Meat  
