@@ -1,6 +1,6 @@
 # 2025-07-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-09 10:20:44  
+Updated at: 2025-07-09 11:23:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-09)  
 **Tuna**  
 In name:   
@@ -127,10 +127,6 @@ In name:
 In name:   
  - Panfried Southern Catfish  
   
-**Tuna**  
-In name:   
- - Tuna Salad Sandwich  
-  
 **fish**  
 In name:   
  - Panfried Southern Catfish  
@@ -153,6 +149,7 @@ In description:
 In name:   
  - Plant-Based Chicken Nuggets (8)  
  - Chicken Wings Boneless Plain  
+ - Lemon Pepper Chicken Salad  
  - Chicken Tortilla Soup  
   
 In description:   
