@@ -1,6 +1,6 @@
 # 2025-07-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-10 10:21:09  
+Updated at: 2025-07-10 11:25:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-10)  
 **Cod**  
 In name:   
@@ -79,8 +79,6 @@ In name:
 In name:   
  - Beef Tri Tip Carved w/ Chimichurri  
  - Beef & Chicken Meatballs  
- - Roast Beef  
- - Pork & Beef Hard Salami  
  - Beef Taco Meat  
   
 In description:   
@@ -89,14 +87,11 @@ In description:
 **pork**  
 In name:   
  - Sri Lanka Deviled Pork  
- - Pork & Beef Hard Salami  
  - Vietnamese Pork with Rice  
  - Pork Carnita  
   
 In description:   
  - Pizza Slice Sausage  
- - Smoked Ham  
- - Bacon  
   
 **chicken**  
 In name:   
