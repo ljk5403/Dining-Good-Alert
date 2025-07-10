@@ -1,6 +1,6 @@
 # 2025-07-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-10 12:18:48  
+Updated at: 2025-07-10 13:27:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-10)  
 **Shrimp**  
 In name:   
@@ -117,10 +117,6 @@ In name:
 In name:   
  - Poke Bar  
   
-**steak**  
-In name:   
- - Swiss Steak w/Brown Gravy  
-  
 **Shrimp**  
 In name:   
   
@@ -139,7 +135,6 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Swiss Steak w/Brown Gravy  
  - Pork Bratwurst Sandwich  
   
 **pork**  
@@ -149,6 +144,7 @@ In name:
   
 **chicken**  
 In name:   
+ - Baked BBQ Chicken  
  - Plant-Based Chicken Taco Filling  
  - Chicken Chili  
   
