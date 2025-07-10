@@ -1,6 +1,6 @@
 # 2025-07-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-10 10:21:06  
+Updated at: 2025-07-10 11:24:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-10)  
 **Shrimp**  
 In name:   
@@ -79,8 +79,6 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Roast Beef  
- - Pork & Beef Hard Salami  
  - Beef Taco Meat  
   
 In description:   
@@ -89,12 +87,10 @@ In description:
   
 **pork**  
 In name:   
- - Pork & Beef Hard Salami  
  - Pork Carnita  
   
 In description:   
  - Pizza Slice Sausage  
- - Smoked Ham  
  - Bratwurst  
   
 **chicken**  
