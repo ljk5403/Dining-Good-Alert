@@ -1,6 +1,6 @@
 # 2025-07-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-10 15:21:01  
+Updated at: 2025-07-10 16:19:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-11)  
 **clam**  
 In name:   
@@ -123,8 +123,6 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Roast Beef  
- - Pork & Beef Hard Salami  
  - Beef Taco Meat  
   
 In description:   
@@ -136,14 +134,11 @@ In description:
 **pork**  
 In name:   
  - French Market Pork Jambalaya  
- - Pork & Beef Hard Salami  
  - Clam Chowder (Pork)  
  - Baked Corn Dog (Pork)  
   
 In description:   
  - Pizza Slice Sausage  
- - Smoked Ham  
- - Bacon  
   
 **chicken**  
 In name:   
