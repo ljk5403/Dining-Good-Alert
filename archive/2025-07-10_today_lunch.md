@@ -1,6 +1,6 @@
 # 2025-07-11 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-11 01:29:31  
+Updated at: 2025-07-11 09:19:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-11)  
 **steak**  
 In name:   
@@ -100,10 +100,6 @@ In name:
  - Chicken Piece Seasoned Baked  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-07-11)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
 **Tandoori Chicken**  
 In name:   
  - Tandoori Chicken  
@@ -153,7 +149,6 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice  
- - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-07-11)  
 **watermelon**  
