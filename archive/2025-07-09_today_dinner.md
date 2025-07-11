@@ -1,6 +1,6 @@
 # 2025-07-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-10 17:18:18  
+Updated at: 2025-07-10 18:18:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-10)  
 **Cod**  
 In name:   
@@ -128,7 +128,7 @@ In description:
 **chicken**  
 In name:   
  - Chicken Bruschetta Sandwich  
- - Jamaican Jerk Chicken  
+ - Baked BBQ Chicken  
  - Plant Based Protein Chicken Taco Filling  
  - Chicken Dumpling Soup  
   
