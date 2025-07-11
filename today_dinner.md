@@ -1,6 +1,6 @@
 # 2025-07-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-11 15:21:09  
+Updated at: 2025-07-11 16:18:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-11)  
 **clam**  
 In name:   
@@ -175,6 +175,10 @@ In name:
 In description:   
  - Clam Chowder (Pork)  
   
+**mahi mahi**  
+In name:   
+ - Coconut Thai Curry Mahi Mahi  
+  
 **Tuna**  
 In name:   
  - Tuna Salad Sandwich  
@@ -185,6 +189,11 @@ In name:
   
 In description:   
  - Drunken Noodles  
+ - Coconut Thai Curry Mahi Mahi  
+  
+**curry**  
+In name:   
+ - Coconut Thai Curry Mahi Mahi  
   
 **beef**  
 In name:   
