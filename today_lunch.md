@@ -1,6 +1,6 @@
 # 2025-07-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-12 09:17:01  
+Updated at: 2025-07-12 10:18:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-12)  
 **steak**  
 In name:   
@@ -67,7 +67,7 @@ In name:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-07-12)  
 **BBQ Pork Sandwich**  
 In name:   
- - Carolina BBQ Pork Sandwich  
+ - BBQ Pork Sandwich  
   
 **fish**  
 In name:   
@@ -88,7 +88,7 @@ In description:
 **pork**  
 In name:   
  - Italian Pork Sausage  
- - Carolina BBQ Pork Sandwich  
+ - BBQ Pork Sandwich  
   
 In description:   
  - Pizza Slice Sausage  
