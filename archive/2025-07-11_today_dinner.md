@@ -1,6 +1,6 @@
 # 2025-07-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-12 15:19:42  
+Updated at: 2025-07-12 16:17:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-12)  
 **beef**  
 In name:   
@@ -54,7 +54,6 @@ In name:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-07-12)  
 **beef**  
 In name:   
- - Beef Meatloaf  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
@@ -63,6 +62,7 @@ In description:
   
 **pork**  
 In name:   
+ - Sri Lanka Deviled Pork  
  - Italian Pork Sausage  
   
 In description:   
@@ -75,7 +75,7 @@ In name:
  - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
  - Cream of Chicken & Wild Rice Soup  
- - Chicken Parmesan Sandwich  
+ - Crispy Buffalo Chicken Sandwich  
   
 In description:   
  - Pepperoni Pizza Slice  
