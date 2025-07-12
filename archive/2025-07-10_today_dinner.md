@@ -1,6 +1,6 @@
 # 2025-07-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-11 17:18:51  
+Updated at: 2025-07-11 18:18:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-11)  
 **clam**  
 In name:   
@@ -210,6 +210,7 @@ In name:
 **chicken**  
 In name:   
  - Sweet & Spicy Orange Chicken  
+ - Taco Chicken  
   
 In description:   
  - Great Greens  
