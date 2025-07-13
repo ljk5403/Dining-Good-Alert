@@ -1,6 +1,6 @@
 # 2025-07-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-12 17:17:41  
+Updated at: 2025-07-12 18:19:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-12)  
 **beef**  
 In name:   
@@ -90,10 +90,6 @@ In name:
 In name:   
  - Tuna Salad Sandwich  
   
-**beef**  
-In name:   
- - Beef Taco Meat  
-  
 **pork**  
 In name:   
   
@@ -103,6 +99,7 @@ In description:
 **chicken**  
 In name:   
  - Spicy Fajita Chicken  
+ - Chicken Tinga  
  - Cream of Chicken & Wild Rice Soup  
   
 In description:   
