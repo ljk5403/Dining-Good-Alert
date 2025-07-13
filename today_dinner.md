@@ -1,6 +1,6 @@
 # 2025-07-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-13 15:19:42  
+Updated at: 2025-07-13 16:16:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-13)  
 **Salmon**  
 In name:   
@@ -67,9 +67,15 @@ In name:
 In name:   
  - Watermelon Slices  
   
-**Tilapia**  
+**Salmon**  
 In name:   
- - Lemon Bake Tilapia  
+ - Hoisin BBQ Glazed Salmon  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Hoisin BBQ Glazed Salmon  
   
 **beef**  
 In name:   
@@ -134,6 +140,7 @@ In name:
 In description:   
  - Grilled Cheeseburger  
  - Country Fried Steak  
+ - Country Gravy  
   
 **chicken**  
 In name:   
