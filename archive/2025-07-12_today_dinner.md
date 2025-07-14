@@ -1,6 +1,6 @@
 # 2025-07-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-13 17:18:02  
+Updated at: 2025-07-13 18:19:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-13)  
 **Salmon**  
 In name:   
@@ -114,7 +114,6 @@ In name:
   
 **steak**  
 In name:   
- - Island Spiced Beef Steak  
  - Country Fried Steak  
   
 **Cod**  
@@ -133,7 +132,6 @@ In description:
   
 **beef**  
 In name:   
- - Island Spiced Beef Steak  
  - Beef Barbacoa  
  - Beef Taco Meat  
   
