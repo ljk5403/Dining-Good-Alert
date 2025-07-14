@@ -1,6 +1,6 @@
 # 2025-07-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-14 01:31:22  
+Updated at: 2025-07-14 09:20:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-14)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -143,7 +143,7 @@ In name:
  - Plant Based Chicken Strips  
  - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
- - Chicken Noodle Soup  
+ - Chicken Chili  
   
 In description:   
  - Chorizo Sauce  
