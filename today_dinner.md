@@ -1,31 +1,17 @@
-# 2025-07-14 dinner  
+# 2025-07-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-14 20:46:17  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-14)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-07-14)  
-**watermelon**  
-In name:   
- - Melon Watermelon Whole Sliced  
-  
-**drumstick**  
-In name:   
- - Chicken Drumstick Gochujang Glazed  
-  
-**Chicken Drumstick Gochujang Glazed**  
-In name:   
- - Chicken Drumstick Gochujang Glazed  
-  
+Updated at: 2025-07-15 01:30:38  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-15)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-07-15)  
 **beef**  
 In name:   
+ - Beef Broccoli Stir Fry w/Teriyaki Sauce  
+ - Beef & Bean Chili  
  - Roast Beef  
  - Pork & Beef Hard Salami  
   
-In description:   
- - Kielbasa (Pork) with Pierogis  
-  
 **pork**  
 In name:   
- - Kielbasa (Pork) with Pierogis  
  - Pork & Beef Hard Salami  
   
 In description:   
@@ -34,82 +20,75 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Drumstick Gochujang Glazed  
- - Chicken Noodle Soup  
+ - Teriyaki Chicken Fillet  
  - Lemon Pepper Chicken Salad  
   
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-07-14)  
-**watermelon**  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-07-15)  
+**steak**  
 In name:   
- - Watermelon Slices  
+ - Spicy Steak Fajita  
   
-**Tuna**  
+**mahi mahi**  
 In name:   
- - Lemon Pepper Tuna Salad  
+ - Island Spiced Mahi Mahi  
   
 **beef**  
 In name:   
- - Beef Stroganoff Creamy - UM (AYCTE) w/o  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
+ - Beef & Bean Chili  
   
 In description:   
  - Pepperoni Pizza Slice  
- - Vegan Taco Filling  
- - Bacon Cheeseburger  
+ - Spicy Steak Fajita  
+ - Banh Mi Hot Dog  
   
 **pork**  
 In name:   
- - Italian Pork Sausage  
+ - Edamame Fried Rice w/ Pork Potsticker  
   
 In description:   
  - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
+ - Chicken Creole  
  - Beef & Chicken Meatballs  
- - Sweet & Spicy Orange Chicken  
- - Chicken Tinga  
- - Chicken Noodle Soup  
+ - Giardiniera Chicken  
   
 In description:   
  - Pepperoni Pizza Slice  
  - Gordon's Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-07-14)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-07-15)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
   
-**broccoli rabe**  
+**drumstick**  
 In name:   
- - Broccoli Rabe  
+ - Smoked Chicken Drumstick  
   
 **beef**  
 In name:   
+ - Mediterranean Beef  
  - Beef Taco Meat  
+ - Beef & Bean Chili  
   
 In description:   
- - Banh Mi Hot Dog  
- - Vegan Taco Filling  
-  
-**pork**  
-In name:   
-  
-In description:   
- - Andouille Sausage  
- - Chorizo Sauce  
+ - Bacon Bleu Burger  
   
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
- - Chicken Tinga  
- - Chicken Noodle Soup  
+ - Mediterranean Chicken  
+ - Smoked Chicken Drumstick  
+ - Chicken Gravy  
+ - Taco Chicken  
   
 In description:   
- - Chorizo Sauce  
  - Great Greens  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-07-14)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-07-14)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-07-15)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-07-15)  
   
