@@ -1,6 +1,6 @@
 # 2025-07-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-16 10:22:00  
+Updated at: 2025-07-16 11:26:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-16)  
 **beef**  
 In name:   
@@ -9,6 +9,7 @@ In name:
   
 In description:   
  - Burnt Ends  
+ - Pepperoni & Mushrooms Pizza  
   
 **pork**  
 In name:   
@@ -22,7 +23,6 @@ In description:
 In name:   
  - Chicken Pot Pie w/Biscuit  
  - Plant-Based Chicken & Dumplings  
- - Pizza Slice BBQ Chicken & Bacon  
  - Lemon Pepper Chicken Salad  
  - Chicken Breakfast Biscuit  
  - Plant Based Protein Chicken Taco Filling  
@@ -30,6 +30,7 @@ In name:
  - Chicken Tortilla Soup  
   
 In description:   
+ - Pepperoni & Mushrooms Pizza  
  - Pork Miso w/Yakisoba Noodles  
  - Great Greens  
   
@@ -114,6 +115,7 @@ In name:
 **chicken**  
 In name:   
  - Chicken Pot Pie w/ Biscuit  
+ - Baked BBQ Chicken  
  - Plant-Based Chicken Nuggets (8)  
  - Chicken Wings Boneless Plain  
  - Lemon Pepper Chicken Salad  
