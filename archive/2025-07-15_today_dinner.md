@@ -1,6 +1,6 @@
 # 2025-07-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-16 13:29:04  
+Updated at: 2025-07-16 15:21:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-16)  
 **Shrimp**  
 In name:   
@@ -137,6 +137,7 @@ In name:
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
  - Mediterranean Chicken  
+ - Chicken Pot Pie w/Biscuit  
  - Chicken Tortilla Soup  
   
 In description:   
