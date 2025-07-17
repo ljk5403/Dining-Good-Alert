@@ -1,6 +1,6 @@
 # 2025-07-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-17 17:19:18  
+Updated at: 2025-07-17 18:19:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-17)  
 **beef**  
 In name:   
@@ -71,6 +71,10 @@ In description:
 In name:   
  - Sweet Corn Bake (Veg)  
   
+**Tandoori Chicken**  
+In name:   
+ - Tandoori Chicken  
+  
 **steak**  
 In name:   
  - Grilled Flank Steak  
@@ -106,7 +110,7 @@ In name:
  - Cajun Chicken Pasta  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
- - Shoyu Chicken  
+ - Tandoori Chicken  
  - Chicken Dumpling Soup  
  - Crispy Chicken Sandwich  
   
@@ -122,10 +126,6 @@ In name:
 **Poke Bar**  
 In name:   
  - Poke Bar  
-  
-**steak**  
-In name:   
- - Grilled Flank Steak  
   
 **Shrimp**  
 In name:   
@@ -145,7 +145,6 @@ In name:
   
 In description:   
  - Grilled Cheeseburger  
- - Grilled Flank Steak  
   
 **pork**  
 In name:   
