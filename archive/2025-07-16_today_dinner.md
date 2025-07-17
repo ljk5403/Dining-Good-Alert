@@ -1,6 +1,6 @@
 # 2025-07-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-17 13:29:01  
+Updated at: 2025-07-17 15:21:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-17)  
 **beef**  
 In name:   
@@ -83,7 +83,6 @@ In name:
 In name:   
   
 In description:   
- - Tikka Masala Chicken  
  - Tofu & Vegetable Tikka Masala  
   
 **beef**  
@@ -107,7 +106,7 @@ In name:
  - Cajun Chicken Pasta  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
- - Tikka Masala Chicken  
+ - Shoyu Chicken  
  - Chicken Dumpling Soup  
  - Crispy Chicken Sandwich  
   
@@ -120,12 +119,33 @@ In description:
 In name:   
  - Watermelon Slices  
   
+**Poke Bar**  
+In name:   
+ - Poke Bar  
+  
+**steak**  
+In name:   
+ - Grilled Flank Steak  
+  
+**Shrimp**  
+In name:   
+  
+In description:   
+ - Poke Bar  
+  
+**Tuna**  
+In name:   
+  
+In description:   
+ - Poke Bar  
+  
 **beef**  
 In name:   
  - Beef Taco Meat  
   
 In description:   
  - Grilled Cheeseburger  
+ - Grilled Flank Steak  
   
 **pork**  
 In name:   
