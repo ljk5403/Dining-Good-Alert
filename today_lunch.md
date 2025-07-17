@@ -1,6 +1,6 @@
 # 2025-07-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-17 10:21:48  
+Updated at: 2025-07-17 11:25:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-17)  
 **Shrimp**  
 In name:   
@@ -79,10 +79,6 @@ In name:
 In name:   
  - Lemon Pepper Tuna Salad  
   
-**curry**  
-In name:   
- - Vegan Curry Stew  
-  
 **beef**  
 In name:   
  - Beef Goulash w/Egg Noodles  
@@ -138,7 +134,7 @@ In name:
  - Italian Chicken  
  - Lemon Pepper Chicken Salad  
  - Plant-Based Chicken Taco Filling  
- - Chicken Dumpling Soup  
+ - Chicken Chili  
   
 In description:   
  - Great Greens  
