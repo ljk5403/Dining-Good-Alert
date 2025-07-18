@@ -1,6 +1,6 @@
 # 2025-07-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-18 01:30:22  
+Updated at: 2025-07-18 09:19:34  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-18)  
 **drumstick**  
 In name:   
@@ -106,7 +106,6 @@ In name:
 **Shrimp**  
 In name:   
  - Sauteed Shrimp  
- - Chipotle Shrimp  
   
 **Cod**  
 In name:   
@@ -127,7 +126,6 @@ In name:
 In description:   
  - Pepperoni Pizza Slice  
  - Italian Meatball Sandwich  
- - Vegan Taco Filling  
   
 **pork**  
 In name:   
@@ -141,6 +139,7 @@ In name:
  - Brazilian Chicken w/ Salsa Vinaigrette  
  - Beef & Chicken Meatballs  
  - Butter Chicken  
+ - Chicken Tinga  
   
 In description:   
  - Pepperoni Pizza Slice  
