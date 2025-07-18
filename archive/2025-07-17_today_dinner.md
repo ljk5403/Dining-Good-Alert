@@ -1,6 +1,6 @@
 # 2025-07-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-18 13:27:53  
+Updated at: 2025-07-18 15:21:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-18)  
 **clam**  
 In name:   
@@ -123,17 +123,13 @@ In name:
   
 **Cod**  
 In name:   
- - Battered Cod  
- - Vegan Cod Battered (2 pc)  
   
 In description:   
  - Clam Chowder (Pork)  
   
-**fish**  
+**mahi mahi**  
 In name:   
-  
-In description:   
- - Vegan Cod Battered (2 pc)  
+ - Island Spiced Mahi Mahi  
   
 **curry**  
 In name:   
