@@ -1,6 +1,6 @@
 # 2025-07-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-19 13:26:28  
+Updated at: 2025-07-19 15:20:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-19)  
 **watermelon**  
 In name:   
@@ -82,24 +82,28 @@ In name:
  - Cream of Chicken & Wild Rice Soup  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-07-19)  
+**steak**  
+In name:   
+ - Beef Flank Steak  
+  
+In description:   
+ - Montreal Chicken  
+  
 **beef**  
 In name:   
+ - Beef Flank Steak  
  - Beef & Chicken Meatballs  
   
 In description:   
  - Pepperoni Pizza Slice  
  - Grilled Cheeseburger  
   
-**pork**  
-In name:   
- - Herb Crusted Pork Loin  
-  
 **chicken**  
 In name:   
- - Greek Chicken  
+ - Montreal Chicken  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
- - Cream of Chicken & Wild Rice Soup  
+ - Lemon Chicken Rice Soup  
   
 In description:   
  - Pepperoni Pizza Slice  

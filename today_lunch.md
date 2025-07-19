@@ -1,6 +1,6 @@
 # 2025-07-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-19 13:26:27  
+Updated at: 2025-07-19 15:20:34  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-19)  
 **watermelon**  
 In name:   
@@ -84,6 +84,7 @@ In name:
 In name:   
  - Beef Tri Tip Carved w/ Chimichurri  
  - Beef Meatballs  
+ - Beef & Chicken Meatballs  
   
 In description:   
  - Pepperoni Pizza Slice  
@@ -95,10 +96,9 @@ In name:
 **chicken**  
 In name:   
  - Chicken Drumstick Gochujang Glazed  
+ - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Crispy Buffalo Chicken Sandwich  
- - Greek Lemon Chicken  
- - Cream of Chicken & Wild Rice Soup  
  - Lemon Chicken Soup  
   
 In description:   

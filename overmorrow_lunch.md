@@ -1,6 +1,6 @@
 # 2025-07-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-19 13:26:31  
+Updated at: 2025-07-19 15:20:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-21)  
 **Tuna**  
 In name:   
@@ -95,16 +95,19 @@ In description:
 **beef**  
 In name:   
  - Beef Stew  
+ - Beef & Chicken Meatballs  
   
 In description:   
  - Pork Bratwurst Sandwich  
   
 **pork**  
 In name:   
+ - Italian Pork Sausage  
  - Pork Bratwurst Sandwich  
   
 **chicken**  
 In name:   
+ - Beef & Chicken Meatballs  
  - Tikka Masala Chicken  
  - Chicken Noodle Soup  
   
