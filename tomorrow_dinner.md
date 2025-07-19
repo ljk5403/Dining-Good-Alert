@@ -1,6 +1,6 @@
 # 2025-07-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-19 12:17:29  
+Updated at: 2025-07-19 13:26:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-20)  
 **lamb**  
 In name:   
@@ -63,18 +63,31 @@ In name:
 In name:   
  - Watermelon Slices  
   
+**beef**  
+In name:   
+ - Beef & Chicken Meatballs  
+  
+In description:   
+ - Pepperoni Pizza Slice  
+  
 **pork**  
 In name:   
  - Boneless Baked Pork Ham  
   
+In description:   
+ - Pizza Slice Sausage  
+  
 **chicken**  
 In name:   
  - Chicken Pot Pie w/Biscuit  
+ - Beef & Chicken Meatballs  
+ - Giardiniera Chicken  
  - Lemon Chicken Rice Soup  
  - Chicken Tenders Breaded  
  - Plant-Based Chicken Nuggets (6)  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-07-20)  
