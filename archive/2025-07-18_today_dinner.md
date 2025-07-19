@@ -1,6 +1,6 @@
 # 2025-07-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-19 15:20:35  
+Updated at: 2025-07-19 16:17:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-19)  
 **watermelon**  
 In name:   
@@ -124,6 +124,7 @@ In description:
 **pork**  
 In name:   
  - Pork Bratwurst Sandwich  
+ - Pork Carnita  
   
 **chicken**  
 In name:   
