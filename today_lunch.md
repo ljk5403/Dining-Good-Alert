@@ -1,6 +1,6 @@
 # 2025-07-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-19 09:17:08  
+Updated at: 2025-07-19 10:18:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-19)  
 **watermelon**  
 In name:   
@@ -8,16 +8,23 @@ In name:
 In description:   
  - Fresh Fruit Salad (VN)  
   
-**Shrimp**  
-In name:   
- - Manicotti Shrimp Alfredo  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
   
+**fish**  
+In name:   
+  
+In description:   
+ - Beef Masaman Thai Curry  
+  
+**curry**  
+In name:   
+ - Beef Masaman Thai Curry  
+  
 **beef**  
 In name:   
+ - Beef Masaman Thai Curry  
  - Beef Taco Meat  
   
 In description:   
@@ -32,7 +39,7 @@ In name:
   
 **chicken**  
 In name:   
- - Spicy Lo Mein w/Chicken  
+ - Chicken Breast w/Balsamic BBQ Sauce  
  - Plant-Based Chicken Lo Mein  
  - Chicken Tinga  
  - Cream of Chicken & Wild Rice Soup  
@@ -76,31 +83,16 @@ In name:
 **beef**  
 In name:   
  - Beef Tri Tip Carved w/ Chimichurri  
- - Beef & Chicken Meatballs  
- - Beef Taco Meat  
-  
-In description:   
- - Pepperoni Pizza Slice  
-  
-**pork**  
-In name:   
- - Italian Pork Sausage  
-  
-In description:   
- - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
  - Chicken Drumstick Gochujang Glazed  
- - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Crispy Buffalo Chicken Sandwich  
- - Chicken Tinga  
  - Cream of Chicken & Wild Rice Soup  
  - Lemon Chicken Soup  
   
 In description:   
- - Pepperoni Pizza Slice  
  - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-07-19)  

@@ -1,6 +1,6 @@
 # 2025-07-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-19 09:17:13  
+Updated at: 2025-07-19 10:18:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-19)  
 **watermelon**  
 In name:   
@@ -84,31 +84,21 @@ In name:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-07-19)  
 **beef**  
 In name:   
- - Beef & Chicken Meatballs  
- - Beef Taco Meat  
   
 In description:   
- - Pepperoni Pizza Slice  
  - Grilled Cheeseburger  
   
 **pork**  
 In name:   
  - Herb Crusted Pork Loin  
- - Italian Pork Sausage  
-  
-In description:   
- - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
  - Greek Chicken  
- - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
- - Chicken Tinga  
  - Cream of Chicken & Wild Rice Soup  
   
 In description:   
- - Pepperoni Pizza Slice  
  - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-07-19)  

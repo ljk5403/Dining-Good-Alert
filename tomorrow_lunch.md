@@ -1,6 +1,6 @@
 # 2025-07-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-19 09:17:17  
+Updated at: 2025-07-19 10:18:52  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-20)  
 **steak**  
 In name:   
@@ -88,31 +88,21 @@ In name:
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs  
- - Beef Barbacoa  
- - Beef Taco Meat  
   
 In description:   
  - Plant-Based Pepper Steak Stir Fry  
- - Pepperoni Pizza Slice  
  - Chicago-Style Hot Dog  
   
 **pork**  
 In name:   
  - Pork Miso w/Yakisoba Noodles  
   
-In description:   
- - Pizza Slice Sausage  
-  
 **chicken**  
 In name:   
- - Beef & Chicken Meatballs  
- - Giardiniera Chicken  
  - Lemon Chicken Rice Soup  
   
 In description:   
  - Pork Miso w/Yakisoba Noodles  
- - Pepperoni Pizza Slice  
  - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-07-20)  

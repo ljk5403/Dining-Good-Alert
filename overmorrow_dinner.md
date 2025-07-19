@@ -1,6 +1,6 @@
 # 2025-07-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-19 09:17:28  
+Updated at: 2025-07-19 10:18:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-21)  
 **Tuna**  
 In name:   
@@ -85,34 +85,23 @@ In description:
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs  
- - Beef Taco Meat  
   
 In description:   
- - Pepperoni Pizza Slice  
- - Vegan Taco Filling  
  - Cowboy Burger  
   
 **pork**  
 In name:   
  - Pork Loin Spicy Greenbush  
- - Italian Pork Sausage  
-  
-In description:   
- - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
  - Grilled Chicken Fillet  
  - Chicken Gravy  
- - Beef & Chicken Meatballs  
  - Kung Pao Chicken  
  - Plant-Based Chicken Lo Mein  
- - Chicken Tinga  
  - Chicken Noodle Soup  
   
 In description:   
- - Pepperoni Pizza Slice  
  - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-07-21)  
