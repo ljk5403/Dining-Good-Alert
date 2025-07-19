@@ -1,6 +1,6 @@
 # 2025-07-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-19 01:27:46  
+Updated at: 2025-07-19 09:17:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-19)  
 **watermelon**  
 In name:   
@@ -85,7 +85,6 @@ In description:
 **pork**  
 In name:   
  - Italian Pork Sausage  
- - Pork Sausage Patties  
   
 In description:   
  - Pizza Slice Sausage  
@@ -98,6 +97,7 @@ In name:
  - Crispy Buffalo Chicken Sandwich  
  - Chicken Tinga  
  - Cream of Chicken & Wild Rice Soup  
+ - Lemon Chicken Soup  
   
 In description:   
  - Pepperoni Pizza Slice  
