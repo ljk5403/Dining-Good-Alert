@@ -1,6 +1,6 @@
 # 2025-07-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-20 13:26:36  
+Updated at: 2025-07-20 15:21:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-20)  
 **lamb**  
 In name:   
@@ -90,9 +90,21 @@ In description:
 In name:   
  - Watermelon Slices  
   
+**drumstick**  
+In name:   
+ - Smoked Chicken Drumstick  
+  
+**steak**  
+In name:   
+ - Beef Flank Steak  
+  
 **Salmon**  
 In name:   
  - Tuscan Butter Salmon  
+  
+**mahi mahi**  
+In name:   
+ - Baked Mahi Mahi w/ Butter & Lemon  
   
 **fish**  
 In name:   
@@ -110,14 +122,21 @@ In description:
 In name:   
  - Beef Barbacoa  
  - Beef Taco Meat  
+ - Beef Flank Steak  
   
 In description:   
  - Spicy Italian Meatball Sandwich  
+  
+**pork**  
+In name:   
+ - Pork Loin Spicy Greenbush  
+ - Pork Carnita  
   
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
  - Diced Chicken  
+ - Smoked Chicken Drumstick  
  - Lemon Chicken Rice Soup  
   
 In description:   
