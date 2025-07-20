@@ -1,6 +1,6 @@
 # 2025-07-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-20 15:21:00  
+Updated at: 2025-07-20 16:17:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-20)  
 **lamb**  
 In name:   
@@ -78,7 +78,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Pot Pie w/Biscuit  
+ - Chipotle Chicken Baked Pasta  
  - Beef & Chicken Meatballs  
  - Lemon Chicken Rice Soup  
   
