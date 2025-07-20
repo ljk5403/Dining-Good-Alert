@@ -1,6 +1,6 @@
 # 2025-07-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-19 18:20:18  
+Updated at: 2025-07-19 20:51:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-19)  
 **watermelon**  
 In name:   
@@ -86,9 +86,6 @@ In name:
 In name:   
  - Beef Flank Steak  
   
-In description:   
- - Montreal Chicken  
-  
 **beef**  
 In name:   
  - Beef Flank Steak  
@@ -100,7 +97,7 @@ In description:
   
 **chicken**  
 In name:   
- - Montreal Chicken  
+ - Chipotle Chicken Baked Pasta  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Lemon Chicken Rice Soup  
