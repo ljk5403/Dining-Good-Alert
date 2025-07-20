@@ -1,6 +1,6 @@
 # 2025-07-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-20 12:16:34  
+Updated at: 2025-07-20 13:26:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-22)  
 **Shrimp**  
 In name:   
@@ -73,16 +73,29 @@ In name:
  - Lemon Pepper Chicken Salad  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-07-22)  
+**steak**  
+In name:   
+ - Spicy Steak Fajita  
+  
 **beef**  
 In name:   
  - Texas BBQ Sliced Beef Brisket  
  - Beef & Chicken Meatballs  
  - Beef Broccoli Stir Fry w/Teriyaki Sauce  
  - Plant-Based Beef & Broccoli Stir Fry  
+ - Beef Taco Meat  
  - Beef & Bean Chili  
   
 In description:   
  - Italian Meat Sauce  
+ - Pepperoni Pizza Slice  
+ - Spicy Steak Fajita  
+  
+**pork**  
+In name:   
+  
+In description:   
+ - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
@@ -91,6 +104,7 @@ In name:
  - Crispy Chicken Sandwich  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-07-22)  
