@@ -1,6 +1,6 @@
 # 2025-07-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-20 10:18:57  
+Updated at: 2025-07-20 11:22:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-20)  
 **steak**  
 In name:   
@@ -94,11 +94,18 @@ In description:
  - Plant-Based Pepper Steak Stir Fry  
  - Chicago-Style Hot Dog  
   
+**pork**  
+In name:   
+  
+In description:   
+ - Pizza Slice Sausage  
+  
 **chicken**  
 In name:   
  - Chicken Creole  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
+ - Chicken Salad  
  - Lemon Chicken Rice Soup  
   
 In description:   
