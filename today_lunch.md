@@ -1,6 +1,6 @@
 # 2025-07-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-20 13:26:32  
+Updated at: 2025-07-20 15:20:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-20)  
 **steak**  
 In name:   
@@ -120,6 +120,10 @@ In name:
 In name:   
  - Samosas  
   
+**steak**  
+In name:   
+ - Beef Flank Steak  
+  
 **curry**  
 In name:   
   
@@ -130,6 +134,7 @@ In description:
 In name:   
  - Beef Barbacoa  
  - Beef Taco Meat  
+ - Beef Flank Steak  
   
 In description:   
  - Corn Dog (Pork)  
