@@ -1,6 +1,6 @@
 # 2025-07-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-21 10:21:28  
+Updated at: 2025-07-21 11:25:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-21)  
 **Tuna**  
 In name:   
@@ -130,6 +130,16 @@ In description:
 **steak**  
 In name:   
  - Beef Flank Steak  
+  
+**Salmon**  
+In name:   
+ - Oven Roasted Salmon (AYCTE)  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Oven Roasted Salmon (AYCTE)  
   
 **beef**  
 In name:   
