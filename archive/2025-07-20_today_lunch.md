@@ -1,6 +1,6 @@
 # 2025-07-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-21 09:20:58  
+Updated at: 2025-07-21 10:21:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-21)  
 **Tuna**  
 In name:   
@@ -127,10 +127,15 @@ In name:
 In description:   
  - Tempeh w/Red Peppers & Broc Rabe  
   
+**steak**  
+In name:   
+ - Beef Flank Steak  
+  
 **beef**  
 In name:   
  - Roast Beef & Cheddar Panini on Rye  
  - Beef Taco Meat  
+ - Beef Flank Steak  
   
 In description:   
  - Vegan Taco Filling  
