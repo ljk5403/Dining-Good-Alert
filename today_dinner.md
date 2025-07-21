@@ -1,6 +1,6 @@
 # 2025-07-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-21 15:22:09  
+Updated at: 2025-07-21 16:18:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-21)  
 **Tuna**  
 In name:   
@@ -137,6 +137,7 @@ In description:
 **pork**  
 In name:   
  - Pork Adobo  
+ - Baked Pork Ham  
   
 **chicken**  
 In name:   
