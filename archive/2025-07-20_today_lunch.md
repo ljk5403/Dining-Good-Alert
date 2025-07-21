@@ -1,6 +1,6 @@
 # 2025-07-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-21 11:25:24  
+Updated at: 2025-07-21 12:19:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-21)  
 **Tuna**  
 In name:   
@@ -67,19 +67,13 @@ In name:
  - Lemon Pepper Chicken Salad  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-07-21)  
-**Salmon**  
+**Tilapia**  
 In name:   
- - Baked Salmon with Mustard Sauce  
+ - Blackened Tilapia  
   
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Baked Salmon with Mustard Sauce  
   
 **curry**  
 In name:   
@@ -130,16 +124,6 @@ In description:
 **steak**  
 In name:   
  - Beef Flank Steak  
-  
-**Salmon**  
-In name:   
- - Oven Roasted Salmon (AYCTE)  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Oven Roasted Salmon (AYCTE)  
   
 **beef**  
 In name:   
