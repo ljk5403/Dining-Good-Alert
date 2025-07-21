@@ -1,6 +1,6 @@
 # 2025-07-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-21 12:19:26  
+Updated at: 2025-07-21 13:29:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-21)  
 **Tuna**  
 In name:   
@@ -67,6 +67,14 @@ In name:
  - Lemon Pepper Chicken Salad  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-07-21)  
+**drumstick**  
+In name:   
+ - Chicken Drumstick Gochujang Glazed  
+  
+**Chicken Drumstick Gochujang Glazed**  
+In name:   
+ - Chicken Drumstick Gochujang Glazed  
+  
 **Tilapia**  
 In name:   
  - Blackened Tilapia  
@@ -84,7 +92,6 @@ In description:
   
 **beef**  
 In name:   
- - Beef Stew  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
@@ -102,6 +109,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Drumstick Gochujang Glazed  
  - Beef & Chicken Meatballs  
  - Tikka Masala Chicken  
  - Chicken Tinga  
