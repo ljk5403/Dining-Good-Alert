@@ -1,6 +1,6 @@
 # 2025-07-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-21 01:30:37  
+Updated at: 2025-07-21 09:20:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-21)  
 **Tuna**  
 In name:   
@@ -67,10 +67,6 @@ In name:
  - Lemon Pepper Chicken Salad  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-07-21)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
 **Salmon**  
 In name:   
  - Baked Salmon with Mustard Sauce  
@@ -100,13 +96,12 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice  
- - Pork Bratwurst Sandwich  
+ - Grilled Cheeseburger  
  - Vegan Taco Filling  
   
 **pork**  
 In name:   
  - Italian Pork Sausage  
- - Pork Bratwurst Sandwich  
   
 In description:   
  - Pizza Slice Sausage  
@@ -120,7 +115,6 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice  
- - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-07-21)  
 **watermelon**  
@@ -152,7 +146,7 @@ In description:
 In name:   
  - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
- - Chicken Noodle Soup  
+ - Chicken Chili  
   
 In description:   
  - Great Greens  
