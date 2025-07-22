@@ -1,6 +1,6 @@
 # 2025-07-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-22 11:26:24  
+Updated at: 2025-07-22 12:19:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-24)  
 **Shrimp**  
 In name:   
@@ -99,6 +99,7 @@ In name:
  - Plant-Based Chicken Nuggets (6)  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
+ - Chicken Sausage Patties  
  - Shoyu Chicken  
  - Chicken Dumpling Soup  
   
