@@ -1,6 +1,6 @@
 # 2025-07-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-22 01:30:32  
+Updated at: 2025-07-22 09:20:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-22)  
 **Shrimp**  
 In name:   
@@ -105,7 +105,6 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice  
- - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-07-22)  
 **watermelon**  
