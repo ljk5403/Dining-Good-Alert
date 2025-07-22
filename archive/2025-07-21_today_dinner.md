@@ -1,6 +1,6 @@
 # 2025-07-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-22 15:22:49  
+Updated at: 2025-07-22 16:18:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-22)  
 **Shrimp**  
 In name:   
@@ -121,10 +121,6 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**Tuna**  
-In name:   
- - Tuna Salad Sandwich  
-  
 **curry**  
 In name:   
  - Curry Cauliflower & Butternut Squash  
@@ -144,6 +140,7 @@ In name:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Mediterranean Chicken  
  - Taco Chicken  
   
