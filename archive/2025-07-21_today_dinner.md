@@ -1,6 +1,6 @@
 # 2025-07-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-22 13:29:47  
+Updated at: 2025-07-22 15:22:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-22)  
 **Shrimp**  
 In name:   
@@ -78,34 +78,31 @@ In name:
 In description:   
  - Petite Fish Sandwich  
   
-**Salmon**  
+**catfish**  
 In name:   
- - Hoisin BBQ Glazed Salmon  
+ - Blackened Catfish  
   
 **fish**  
 In name:   
+ - Blackened Catfish  
  - Petite Fish Sandwich  
  - Vegan Fish Sandwich  
   
-In description:   
- - Hoisin BBQ Glazed Salmon  
-  
 **beef**  
 In name:   
- - Beef Tri Tip Carved w/ Chimichurri  
  - Beef & Chicken Meatballs  
  - Beef Vindaloo  
  - Beef Taco Meat  
  - Beef & Bean Chili  
   
 In description:   
- - Italian Meat Sauce  
  - Pepperoni Pizza Slice  
+ - Italian Meat Sauce  
  - Spicy Steak Fajita  
   
 **pork**  
 In name:   
- - Green Beans w/ Pork Bacon  
+ - BBQ Pork Chop  
   
 In description:   
  - Pizza Slice Sausage  
