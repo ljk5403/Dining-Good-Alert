@@ -1,6 +1,6 @@
 # 2025-07-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-23 01:30:50  
+Updated at: 2025-07-23 09:21:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-23)  
 **Tuna**  
 In name:   
@@ -81,6 +81,10 @@ In name:
 In name:   
  - Grilled Flank Steak  
   
+**Cod**  
+In name:   
+ - Battered Cod  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
@@ -100,7 +104,6 @@ In description:
   
 **chicken**  
 In name:   
- - Broasted Chicken 2 pc  
  - Plant-Based Chicken & Dumplings  
  - Chicken Gravy  
  - Beef & Chicken Meatballs  
@@ -121,10 +124,6 @@ In name:
 **catfish**  
 In name:   
  - Panfried Southern Catfish  
-  
-**Tuna**  
-In name:   
- - Tuna Salad Sandwich  
   
 **fish**  
 In name:   
@@ -148,6 +147,7 @@ In description:
 In name:   
  - Plant-Based Chicken Nuggets (8)  
  - Chicken Wings Boneless Plain  
+ - Lemon Pepper Chicken Salad  
  - Chicken Tortilla Soup  
   
 In description:   

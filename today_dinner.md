@@ -1,6 +1,6 @@
 # 2025-07-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-23 01:30:52  
+Updated at: 2025-07-23 09:21:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-23)  
 **Tandoori Chicken**  
 In name:   
@@ -121,10 +121,6 @@ In name:
 In name:   
  - Grilled Sesame Ginger Salmon  
   
-**Tuna**  
-In name:   
- - Tuna Salad Sandwich  
-  
 **fish**  
 In name:   
   
@@ -136,6 +132,9 @@ In name:
  - Beef Bombay Curry  
  - Indian Vegetable Curry  
   
+In description:   
+ - Pakora Sauce  
+  
 **beef**  
 In name:   
  - Beef Bombay Curry  
@@ -144,6 +143,7 @@ In name:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Crispy Chicken Sandwich  
  - Chicken Tortilla Soup  
   
