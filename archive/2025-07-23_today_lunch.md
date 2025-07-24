@@ -1,6 +1,6 @@
 # 2025-07-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-24 15:20:43  
+Updated at: 2025-07-24 16:19:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-24)  
 **Shrimp**  
 In name:   
@@ -148,7 +148,7 @@ In name:
 In name:   
  - Lemon Pepper Chicken Salad  
  - Plant-Based Chicken Taco Filling  
- - Chicken Dumpling Soup  
+ - Chicken Chili  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-07-24)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-07-24)  
