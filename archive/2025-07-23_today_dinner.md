@@ -1,64 +1,55 @@
-# 2025-07-23 dinner  
+# 2025-07-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-23 20:44:08  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-23)  
-**Tandoori Chicken**  
+Updated at: 2025-07-24 01:31:20  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-24)  
+**Cod**  
 In name:   
- - Tandoori Chicken  
-  
-**Shrimp**  
-In name:   
- - Blackened Shrimp  
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad  
-  
-**curry**  
-In name:   
- - Mixed Vegetable Curry  
+ - Mediterranean Baked Cod  
   
 **beef**  
 In name:   
- - Beef Taco Meat  
+ - Beef & Chicken Meatballs  
+ - Beef Mediterranean  
   
 In description:   
- - Meat Lovers w/ Bacon (Pork) Pizza Slice  
- - Pepperoni Pizza Slice  
- - Vegan Taco Filling  
+ - Bibimbap Bowl  
   
 **pork**  
 In name:   
- - Italian Pork Sausage  
- - Meat Lovers w/ Bacon (Pork) Pizza Slice  
- - Pork Carnita  
+  
+In description:   
+ - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
- - Maple Cider Chicken  
- - Chicken Shawarma Sandwich  
- - Tandoori Chicken  
- - Chicken Tinga  
- - Chicken Tortilla Soup  
+ - Chicken Breast w/Red Pepper Cream  
+ - Plant Based Chicken Strips  
+ - Beef & Chicken Meatballs  
+ - Pizza Slice BBQ Chicken & Bacon  
+ - Lemon Pepper Chicken Salad  
+ - Mediterranean Chicken  
+ - Chicken Dumpling Soup  
   
 In description:   
- - Meat Lovers w/ Bacon (Pork) Pizza Slice  
- - Pepperoni Pizza Slice  
  - Great Greens  
   
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-07-23)  
-**watermelon**  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-07-24)  
+**Tuna**  
 In name:   
- - Melon Watermelon Whole Sliced  
+ - Tuna Salad  
+  
+**fish**  
+In name:   
+ - Vegan Fish Sandwich  
   
 **beef**  
 In name:   
+ - Beef Taco Mac & Cheese  
  - Roast Beef  
  - Pork & Beef Hard Salami  
   
 **pork**  
 In name:   
- - Baked Pork Ham  
  - Pork & Beef Hard Salami  
   
 In description:   
@@ -67,23 +58,27 @@ In description:
   
 **chicken**  
 In name:   
- - Greek Lemon Chicken w/ Rice  
- - Chicken Tortilla Soup  
- - Lemon Pepper Chicken Salad  
+ - Chicken Dumpling Soup  
   
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-07-23)  
-**watermelon**  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-07-24)  
+**Tuna**  
 In name:   
- - Watermelon Slices  
+ - Lemon Pepper Tuna Salad  
   
-**Tilapia**  
+**fish**  
 In name:   
- - Island Spiced Tilapia  
+  
+In description:   
+ - Vietnamese Pork with Rice  
+  
+**curry**  
+In name:   
+ - Green Curry Tofu & Vegetables  
   
 **beef**  
 In name:   
+ - Beef Tri Tip Carved w/ Chimichurri  
  - Beef & Chicken Meatballs  
- - Beef Barbacoa  
  - Beef Taco Meat  
   
 In description:   
@@ -91,65 +86,57 @@ In description:
   
 **pork**  
 In name:   
- - Italian Pork Sausage  
+ - Vietnamese Pork with Rice  
+ - Pork Carnita  
   
 In description:   
  - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
- - Chicken Pot Pie w/Biscuit  
  - Beef & Chicken Meatballs  
- - Lemon Pepper Chicken Salad  
- - Greek Lemon Chicken  
- - Chicken Tortilla Soup  
+ - Giardiniera Chicken  
+ - Chicken Dumpling Soup  
+ - Chicken Banh Mi  
   
 In description:   
  - Pepperoni Pizza Slice  
  - Gordon's Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-07-23)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-07-24)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
   
-**Pakoras**  
+**drumstick**  
 In name:   
- - Appetizer -  Pakoras Vegetable (Veg)  
+ - Jamaican Jerk Chicken Drumstick  
   
-**Salmon**  
+**Tuna**  
 In name:   
- - Grilled Sesame Ginger Salmon  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Grilled Sesame Ginger Salmon  
-  
-**curry**  
-In name:   
- - Beef Bombay Curry  
- - Indian Vegetable Curry  
-  
-In description:   
- - Pakora Sauce  
+ - Tuna Salad Sandwich  
   
 **beef**  
 In name:   
- - Beef Bombay Curry  
- - Beef Barbacoa  
  - Beef Taco Meat  
+  
+**pork**  
+In name:   
+ - Pork Carnita  
+  
+In description:   
+ - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
- - Lemon Pepper Chicken Salad  
- - Crispy Chicken Sandwich  
- - Chicken Tortilla Soup  
+ - Chicken Bruschetta Sandwich  
+ - Jamaican Jerk Chicken Drumstick  
+ - Plant Based Protein Chicken Taco Filling  
+ - Chicken Dumpling Soup  
   
 In description:   
  - Great Greens  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-07-23)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-07-23)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-07-24)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-07-24)  
   

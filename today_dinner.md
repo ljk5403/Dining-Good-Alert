@@ -1,6 +1,6 @@
 # 2025-07-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-24 01:31:20  
+Updated at: 2025-07-24 09:21:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-24)  
 **Cod**  
 In name:   
@@ -112,10 +112,6 @@ In name:
 In name:   
  - Jamaican Jerk Chicken Drumstick  
   
-**Tuna**  
-In name:   
- - Tuna Salad Sandwich  
-  
 **beef**  
 In name:   
  - Beef Taco Meat  
@@ -129,6 +125,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Chicken Bruschetta Sandwich  
  - Jamaican Jerk Chicken Drumstick  
  - Plant Based Protein Chicken Taco Filling  
