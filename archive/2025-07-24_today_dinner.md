@@ -1,6 +1,6 @@
 # 2025-07-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-25 01:31:15  
+Updated at: 2025-07-25 09:18:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-25)  
 **clam**  
 In name:   
@@ -181,10 +181,6 @@ In name:
 In description:   
  - Clam Chowder (Pork)  
   
-**Tuna**  
-In name:   
- - Tuna Salad Sandwich  
-  
 **fish**  
 In name:   
  - Vegan Fish Sandwich  
@@ -207,6 +203,7 @@ In name:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Sweet & Spicy Orange Chicken  
   
 In description:   
