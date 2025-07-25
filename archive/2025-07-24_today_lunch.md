@@ -1,6 +1,6 @@
 # 2025-07-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-25 11:25:32  
+Updated at: 2025-07-25 12:19:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-25)  
 **steak**  
 In name:   
@@ -202,9 +202,6 @@ In name:
 In name:   
  - Mediterranean Chicken  
  - Lemon Pepper Chicken Salad  
-  
-In description:   
- - Great Greens  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-07-25)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-07-25)  
