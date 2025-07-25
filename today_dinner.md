@@ -1,6 +1,6 @@
 # 2025-07-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-25 13:28:58  
+Updated at: 2025-07-25 15:21:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-25)  
 **clam**  
 In name:   
@@ -156,10 +156,6 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**Drunken Noodles**  
-In name:   
- - Drunken Noodles  
-  
 **steak**  
 In name:   
  - Plant-Based Pepper Steak Stir Fry  
@@ -172,9 +168,6 @@ In name:
 In name:   
  - Sauteed Shrimp  
   
-In description:   
- - Drunken Noodles  
-  
 **Cod**  
 In name:   
   
@@ -185,11 +178,9 @@ In description:
 In name:   
  - Vegan Fish Sandwich  
   
-In description:   
- - Drunken Noodles  
-  
 **beef**  
 In name:   
+ - Beef French Dip Sandwich  
  - Beef Taco Meat  
   
 In description:   
