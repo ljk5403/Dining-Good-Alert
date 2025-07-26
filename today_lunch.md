@@ -1,6 +1,6 @@
 # 2025-07-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-26 01:28:26  
+Updated at: 2025-07-26 09:17:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-26)  
 **steak**  
 In name:   
@@ -71,19 +71,12 @@ In name:
 In description:   
  - Tempura Roll (FujiSan)  
   
-**lamb**  
-In name:   
- - Lamb & Beef Gyro Sandwich  
-  
 **beef**  
 In name:   
  - Beef Gravy  
  - Beef & Chicken Meatballs  
- - Lamb & Beef Gyro Sandwich  
- - Beef Taco Meat  
   
 In description:   
- - Burnt Ends  
  - Pepperoni Pizza Slice  
   
 **pork**  
@@ -99,12 +92,11 @@ In name:
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Chicken Sausage Patties  
- - Chicken Tinga  
+ - Crispy Chicken Sandwich  
  - Cream of Chicken & Wild Rice Soup  
   
 In description:   
  - Pepperoni Pizza Slice  
- - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-07-26)  
 **watermelon**  
