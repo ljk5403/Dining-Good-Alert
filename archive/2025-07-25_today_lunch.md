@@ -1,6 +1,6 @@
 # 2025-07-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-26 13:26:56  
+Updated at: 2025-07-26 15:20:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-26)  
 **steak**  
 In name:   
@@ -75,6 +75,7 @@ In description:
 In name:   
  - Beef Tri Tip Carved w/ Chimichurri  
  - Beef Gravy  
+ - Beef Barbacoa  
  - Beef & Chicken Meatballs  
   
 In description:   
@@ -86,7 +87,6 @@ In name:
   
 **chicken**  
 In name:   
- - Shoyu Chicken  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Crispy Chicken Sandwich  
