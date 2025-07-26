@@ -1,6 +1,6 @@
 # 2025-07-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-26 01:28:27  
+Updated at: 2025-07-26 09:17:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-26)  
 **beef**  
 In name:   
@@ -54,7 +54,6 @@ In name:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-07-26)  
 **beef**  
 In name:   
- - Beef Meatloaf  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
