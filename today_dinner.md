@@ -1,6 +1,6 @@
 # 2025-07-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-26 12:18:24  
+Updated at: 2025-07-26 13:26:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-26)  
 **beef**  
 In name:   
@@ -58,6 +58,10 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice  
+  
+**pork**  
+In name:   
+ - Roasted Pork Loin  
   
 **chicken**  
 In name:   

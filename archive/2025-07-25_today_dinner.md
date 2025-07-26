@@ -1,6 +1,6 @@
 # 2025-07-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-26 11:22:59  
+Updated at: 2025-07-26 12:18:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-26)  
 **beef**  
 In name:   
@@ -55,24 +55,15 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Beef Taco Meat  
   
 In description:   
  - Pepperoni Pizza Slice  
-  
-**pork**  
-In name:   
- - Italian Pork Sausage  
-  
-In description:   
- - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
  - Chicken Enchilada Bake  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
- - Chicken Tinga  
  - Cream of Chicken & Wild Rice Soup  
  - Chicken Parmesan Sandwich  
   
