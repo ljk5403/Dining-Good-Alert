@@ -1,6 +1,6 @@
 # 2025-07-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-26 13:26:57  
+Updated at: 2025-07-26 15:20:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-26)  
 **beef**  
 In name:   
@@ -55,6 +55,7 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
+ - Barbacoa Beef w/Mango Habanero Sandwich  
   
 In description:   
  - Pepperoni Pizza Slice  
@@ -69,7 +70,6 @@ In name:
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Cream of Chicken & Wild Rice Soup  
- - Chicken Parmesan Sandwich  
   
 In description:   
  - Pepperoni Pizza Slice  
