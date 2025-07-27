@@ -1,6 +1,6 @@
 # 2025-07-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-27 15:21:00  
+Updated at: 2025-07-27 16:17:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-27)  
 **Salmon**  
 In name:   
@@ -109,39 +109,43 @@ In name:
   
 **steak**  
 In name:   
- - Island Spiced Beef Steak  
+ - Swiss Steak w/Brown Gravy  
   
-**Cod**  
+**mahi mahi**  
 In name:   
- - Caribbean Cod  
+ - Coconut Thai Curry Mahi Mahi  
   
-**Tuna**  
-In name:   
- - Tuna Salad Sandwich  
-  
-**curry**  
+**fish**  
 In name:   
   
 In description:   
- - Coconut Vegetable Stew  
+ - Coconut Thai Curry Mahi Mahi  
+  
+**curry**  
+In name:   
+ - Beef Bombay Curry  
+ - Coconut Thai Curry Mahi Mahi  
   
 **beef**  
 In name:   
- - Island Spiced Beef Steak  
- - Beef Barbacoa  
+ - Beef Bombay Curry  
  - Beef Taco Meat  
   
 In description:   
  - Bratwurst  
+ - Swiss Steak w/Brown Gravy  
   
 **pork**  
 In name:   
+ - BBQ Pork Chop  
+ - Pork Carnita  
   
 In description:   
  - Bratwurst  
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Diced Chicken  
  - Lemon Chicken Rice Soup  
   

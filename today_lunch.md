@@ -1,6 +1,6 @@
 # 2025-07-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-27 15:20:59  
+Updated at: 2025-07-27 16:17:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-27)  
 **Tuna**  
 In name:   
@@ -115,19 +115,19 @@ In name:
 In name:   
  - Samosas  
   
-**Tuna**  
-In name:   
- - Tuna Salad Sandwich  
-  
 **beef**  
 In name:   
- - Beef Barbacoa  
  - Beef Taco Meat  
+  
+**pork**  
+In name:   
+ - Pork Carnita  
   
 **chicken**  
 In name:   
  - Crispy Chicken Sandwich  
  - Chicken Korma  
+ - Lemon Pepper Chicken Salad  
  - Lemon Chicken Rice Soup  
   
 In description:   
