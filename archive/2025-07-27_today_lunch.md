@@ -1,6 +1,6 @@
 # 2025-07-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-28 12:20:56  
+Updated at: 2025-07-28 13:30:52  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-28)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -122,12 +122,17 @@ In description:
 In name:   
  - Watermelon Slices  
   
+**steak**  
+In name:   
+ - Island Spiced Beef Steak  
+  
 **Tuna**  
 In name:   
  - Tuna Salad  
   
 **beef**  
 In name:   
+ - Island Spiced Beef Steak  
  - Beef Taco Meat  
   
 In description:   
