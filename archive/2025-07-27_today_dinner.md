@@ -1,6 +1,6 @@
 # 2025-07-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-28 13:30:54  
+Updated at: 2025-07-28 15:22:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-28)  
 **fish**  
 In name:   
@@ -100,7 +100,6 @@ In name:
 In description:   
  - Pepperoni Pizza Slice  
  - Vegan Taco Filling  
- - Bacon Cheeseburger  
   
 **pork**  
 In name:   
@@ -129,6 +128,16 @@ In name:
 In name:   
  - Broccoli Rabe  
   
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
+**curry**  
+In name:   
+  
+In description:   
+ - Coconut Vegetable Stew  
+  
 **beef**  
 In name:   
  - Beef Taco Meat  
@@ -146,7 +155,6 @@ In description:
   
 **chicken**  
 In name:   
- - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
  - Chicken Noodle Soup  
   
