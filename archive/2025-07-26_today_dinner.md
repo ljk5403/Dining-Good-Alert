@@ -1,6 +1,6 @@
 # 2025-07-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-27 17:18:37  
+Updated at: 2025-07-27 18:19:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-27)  
 **Salmon**  
 In name:   
@@ -78,13 +78,14 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Pepperoni Pizza Slice  
  - Gordon's Buona Cucina  
+ - Pepperoni Pizza Slice  
  - Grilled Cheeseburger  
   
 **pork**  
 In name:   
  - Gnocchi w/ Pork Chorizo Sauce  
+ - Pizza Slice Sausage (Pork)  
   
 In description:   
  - Gordon's Buona Cucina  
@@ -98,8 +99,8 @@ In name:
   
 In description:   
  - Gnocchi w/ Pork Chorizo Sauce  
- - Pepperoni Pizza Slice  
  - Gordon's Buona Cucina  
+ - Pepperoni Pizza Slice  
  - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-07-27)  
