@@ -1,6 +1,6 @@
 # 2025-07-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-28 09:21:35  
+Updated at: 2025-07-28 10:22:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-28)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -122,6 +122,10 @@ In description:
 In name:   
  - Watermelon Slices  
   
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
 **beef**  
 In name:   
  - Beef Taco Meat  
@@ -141,7 +145,6 @@ In description:
 In name:   
  - Buffalo Chicken Wrap  
  - Plant Based Chicken Strips  
- - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
  - Chicken Noodle Soup  
   
