@@ -1,6 +1,6 @@
 # 2025-07-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-28 10:22:32  
+Updated at: 2025-07-28 11:26:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-28)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -108,8 +108,8 @@ In description:
 In name:   
  - Chicken Honey Lime w/ rice  
  - Beef & Chicken Meatballs  
+ - Chicken Sausage Patties  
  - Chicken Tenders Breaded  
- - Plant-Based Chicken Nuggets (6)  
  - Chicken Tinga  
  - Chicken Noodle Soup  
   
