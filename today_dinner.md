@@ -1,6 +1,6 @@
 # 2025-07-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-29 01:31:34  
+Updated at: 2025-07-29 09:23:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-29)  
 **drumstick**  
 In name:   
@@ -111,6 +111,10 @@ In name:
 In name:   
  - Smoked Chicken Drumstick  
   
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
 **beef**  
 In name:   
  - Mediterranean Beef  
@@ -122,7 +126,6 @@ In description:
   
 **chicken**  
 In name:   
- - Lemon Pepper Chicken Salad  
  - Mediterranean Chicken  
  - Smoked Chicken Drumstick  
  - Chicken Gravy  
