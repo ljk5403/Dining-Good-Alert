@@ -1,6 +1,6 @@
 # 2025-07-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-29 13:30:59  
+Updated at: 2025-07-29 15:23:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-29)  
 **drumstick**  
 In name:   
@@ -124,6 +124,11 @@ In name:
 In description:   
  - Bacon Bleu Burger  
   
+**pork**  
+In name:   
+ - Apple Cider Braised Pork  
+ - Imperial Pork Stir Fry  
+  
 **chicken**  
 In name:   
  - Mediterranean Chicken  
@@ -132,6 +137,7 @@ In name:
  - Taco Chicken  
   
 In description:   
+ - Apple Cider Braised Pork  
  - Great Greens  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-07-29)  
