@@ -1,6 +1,6 @@
 # 2025-07-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-30 11:26:11  
+Updated at: 2025-07-30 12:20:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-30)  
 **beef**  
 In name:   
@@ -113,7 +113,7 @@ In name:
 **chicken**  
 In name:   
  - Chicken Pot Pie w/ Biscuit  
- - Plant-Based Chicken Nuggets (8)  
+ - Plant-Based Chicken Nuggets (6)  
  - Chicken Wings Boneless Plain  
  - Chicken Tortilla Soup  
   
