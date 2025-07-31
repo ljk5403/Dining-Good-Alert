@@ -1,6 +1,6 @@
 # 2025-07-31 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-31 12:19:40  
+Updated at: 2025-07-31 13:30:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-31)  
 **Shrimp**  
 In name:   
@@ -83,12 +83,13 @@ In name:
   
 **curry**  
 In name:   
+ - Beef Bombay Curry  
  - Vegan Curry Stew  
   
 **beef**  
 In name:   
- - Beef Goulash w/Egg Noodles  
  - Beef & Chicken Meatballs  
+ - Beef Bombay Curry  
  - Beef Taco Meat  
   
 In description:   
@@ -98,6 +99,7 @@ In description:
   
 **pork**  
 In name:   
+ - BBQ Pork Chop  
  - Pork Carnita  
   
 In description:   
@@ -109,7 +111,6 @@ In name:
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Chicken Sausage Patties  
- - Jamaican Jerk Chicken  
  - Chicken Dumpling Soup  
   
 In description:   
