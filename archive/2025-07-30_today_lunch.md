@@ -1,6 +1,6 @@
 # 2025-07-31 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-31 01:31:20  
+Updated at: 2025-07-31 09:21:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-31)  
 **Shrimp**  
 In name:   
@@ -113,7 +113,6 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice  
- - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-07-31)  
 **watermelon**  
@@ -123,6 +122,10 @@ In name:
 **steak**  
 In name:   
  - Grilled Flank Steak  
+  
+**Tuna**  
+In name:   
+ - Tuna Salad  
   
 **beef**  
 In name:   
@@ -134,17 +137,16 @@ In description:
 **pork**  
 In name:   
  - Cuban Pork Sandwich  
- - Pork Carnita  
+  
+In description:   
+ - Andouille Sausage  
   
 **chicken**  
 In name:   
- - Italian Chicken  
- - Lemon Pepper Chicken Salad  
+ - Mediterranean Chicken  
  - Plant-Based Chicken Taco Filling  
+ - Spicy Chicken Fajita  
  - Chicken Dumpling Soup  
-  
-In description:   
- - Great Greens  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-07-31)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-07-31)  

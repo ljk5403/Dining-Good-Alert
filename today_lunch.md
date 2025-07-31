@@ -1,6 +1,6 @@
 # 2025-07-31 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-31 09:21:03  
+Updated at: 2025-07-31 10:21:52  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-31)  
 **Shrimp**  
 In name:   
@@ -94,6 +94,7 @@ In name:
 In description:   
  - Pepperoni Pizza Slice  
  - Grilled Cheeseburger  
+ - Vegan Taco Filling  
   
 **pork**  
 In name:   
