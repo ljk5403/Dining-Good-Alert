@@ -1,6 +1,6 @@
 # 2025-07-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-30 18:19:34  
+Updated at: 2025-07-30 20:45:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-30)  
 **Shrimp**  
 In name:   
@@ -78,20 +78,14 @@ In name:
 In name:   
  - Chicken Drummies  
   
-**fish**  
-In name:   
-  
-In description:   
- - Beef Masaman Thai Curry  
-  
 **curry**  
 In name:   
- - Beef Masaman Thai Curry  
+ - Beef Bombay Curry  
   
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Beef Masaman Thai Curry  
+ - Beef Bombay Curry  
  - Beef Barbacoa  
  - Beef Taco Meat  
   
