@@ -1,6 +1,6 @@
 # 2025-07-31 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-31 16:19:12  
+Updated at: 2025-07-31 17:19:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-31)  
 **Tuna**  
 In name:   
@@ -82,13 +82,6 @@ In name:
 In name:   
  - Lemon Pepper Tuna Salad  
   
-**curry**  
-In name:   
-  
-In description:   
- - Tikka Masala Chicken  
- - Tofu & Vegetable Tikka Masala  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
@@ -111,7 +104,6 @@ In name:
  - Cajun Chicken Pasta  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
- - Tikka Masala Chicken  
  - Chicken Dumpling Soup  
  - Crispy Chicken Sandwich  
   
