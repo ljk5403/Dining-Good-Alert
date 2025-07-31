@@ -1,6 +1,6 @@
 # 2025-07-31 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-31 13:30:20  
+Updated at: 2025-07-31 15:22:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-07-31)  
 **Tuna**  
 In name:   
@@ -128,6 +128,10 @@ In name:
 In name:   
  - Poke Bar  
   
+**steak**  
+In name:   
+ - Grilled Flank Steak  
+  
 **Shrimp**  
 In name:   
   
@@ -146,16 +150,17 @@ In name:
   
 In description:   
  - Grilled Cheeseburger  
+ - Grilled Flank Steak  
   
 **pork**  
 In name:   
  - Spicy Greenbush Pork Loin  
- - Pork Carnita  
   
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
  - Plant-Based Chicken Taco Filling  
+ - Spicy Chicken Fajita  
  - Chicken Dumpling Soup  
   
 In description:   
