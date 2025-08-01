@@ -1,6 +1,6 @@
 # 2025-08-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-01 17:19:21  
+Updated at: 2025-08-01 18:19:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-01)  
 **clam**  
 In name:   
@@ -106,9 +106,11 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**drumstick**  
+**steak**  
 In name:   
- - Chicken Drumstick Teriyaki Glazed  
+  
+In description:   
+ - Montreal Chicken  
   
 **clam**  
 In name:   
@@ -160,7 +162,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Drumstick Teriyaki Glazed  
+ - Montreal Chicken  
  - Beef & Chicken Meatballs  
   
 In description:   
@@ -171,10 +173,6 @@ In description:
 **watermelon**  
 In name:   
  - Watermelon Slices  
-  
-**drumstick**  
-In name:   
- - Smoked Chicken Drumstick  
   
 **steak**  
 In name:   
@@ -213,7 +211,6 @@ In name:
 In name:   
  - Lemon Pepper Chicken Salad  
  - Sweet & Spicy Orange Chicken  
- - Smoked Chicken Drumstick  
   
 In description:   
  - Great Greens  

@@ -1,6 +1,6 @@
 # 2025-08-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-01 16:19:14  
+Updated at: 2025-08-01 17:19:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-01)  
 **clam**  
 In name:   
@@ -117,7 +117,6 @@ In name:
 **Shrimp**  
 In name:   
  - Shrimp Curry  
- - Chipotle Shrimp  
  - Shrimp Po-Boy Sandwich  
   
 **Cod**  
@@ -153,6 +152,7 @@ In description:
 **pork**  
 In name:   
  - Italian Pork Sausage  
+ - Pork Carnita  
  - Clam Chowder (Pork)  
   
 In description:   
