@@ -1,6 +1,6 @@
 # 2025-08-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-01 11:26:41  
+Updated at: 2025-08-01 12:20:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-01)  
 **clam**  
 In name:   
@@ -172,6 +172,10 @@ In description:
 In name:   
  - Watermelon Slices  
   
+**drumstick**  
+In name:   
+ - Smoked Chicken Drumstick  
+  
 **steak**  
 In name:   
  - Grilled Steak Hero  
@@ -191,10 +195,6 @@ In name:
 In description:   
  - Clam Chowder (Pork)  
   
-**mahi mahi**  
-In name:   
- - Baked Mahi Mahi w/ Butter & Lemon  
-  
 **beef**  
 In name:   
  - Beef Taco Meat  
@@ -212,6 +212,7 @@ In name:
 In name:   
  - Lemon Pepper Chicken Salad  
  - Sweet & Spicy Orange Chicken  
+ - Smoked Chicken Drumstick  
   
 In description:   
  - Great Greens  
