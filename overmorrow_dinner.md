@@ -1,6 +1,6 @@
 # 2025-08-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-07-31 18:19:43  
+Updated at: 2025-07-31 20:55:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-02)  
 **watermelon**  
 In name:   
@@ -100,7 +100,7 @@ In description:
   
 **chicken**  
 In name:   
- - Greek Chicken  
+ - Bone-in Greek Chicken  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
