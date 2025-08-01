@@ -1,6 +1,6 @@
 # 2025-08-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-01 01:32:31  
+Updated at: 2025-08-01 09:21:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-01)  
 **drumstick**  
 In name:   
@@ -103,11 +103,6 @@ In name:
 In name:   
  - Clam Chowder (Pork)  
   
-**Shrimp**  
-In name:   
- - Sauteed Shrimp  
- - Chipotle Shrimp  
-  
 **Cod**  
 In name:   
  - Basque Style Cod  
@@ -131,6 +126,8 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Italian Sausage  
+ - Pork Carnita  
  - Clam Chowder (Pork)  
   
 In description:   
@@ -166,23 +163,22 @@ In name:
 In description:   
  - Clam Chowder (Pork)  
   
-**Salmon**  
+**Tuna**  
 In name:   
- - Blackened Salmon  
+ - Tuna Salad  
   
-**fish**  
+**curry**  
 In name:   
- - Vegan Fish Sandwich  
-  
-In description:   
- - Blackened Salmon  
+ - Vegetable Coconut Curry w/Rice  
   
 **beef**  
 In name:   
+ - Beef Hot Dog  
  - Mediterranean Beef  
  - Beef Taco Meat  
   
 In description:   
+ - Burnt Ends  
  - Vegan Taco Filling  
   
 **pork**  
@@ -191,13 +187,7 @@ In name:
   
 **chicken**  
 In name:   
- - Plant-Based Chicken & Dumplings  
- - Grilled Chicken Sandwich  
  - Mediterranean Chicken  
- - Lemon Pepper Chicken Salad  
-  
-In description:   
- - Great Greens  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-08-01)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-08-01)  
