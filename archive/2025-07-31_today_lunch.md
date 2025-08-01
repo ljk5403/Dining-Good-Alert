@@ -1,0 +1,155 @@
+# 2025-07-31 lunch  
+*THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
+Updated at: 2025-07-31 20:55:43  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-07-31)  
+**Shrimp**  
+In name:   
+ - Shrimp & Pork Jambalaya  
+  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad  
+  
+**curry**  
+In name:   
+ - Squash Curry  
+  
+In description:   
+ - Madras Chicken w/Basmati Rice  
+  
+**beef**  
+In name:   
+ - Beef Mediterranean  
+ - Beef & Chicken Meatballs  
+  
+In description:   
+ - Pepperoni Pizza Slice  
+ - Pizza Slice Deluxe (Pork)  
+ - Grilled Cheeseburger  
+  
+**pork**  
+In name:   
+ - Shrimp & Pork Jambalaya  
+ - Pizza Slice Deluxe (Pork)  
+  
+**chicken**  
+In name:   
+ - Madras Chicken w/Basmati Rice  
+ - Mediterranean Chicken  
+ - Chicken Dumpling Soup  
+ - Beef & Chicken Meatballs  
+ - Plant Based Chicken Strips  
+  
+In description:   
+ - Shrimp & Pork Jambalaya  
+ - Pepperoni Pizza Slice  
+ - Pizza Slice Deluxe (Pork)  
+ - Great Greens  
+  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-07-31)  
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
+**beef**  
+In name:   
+ - Beef Taco Meat  
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
+  
+**pork**  
+In name:   
+ - Pork & Beef Hard Salami  
+  
+In description:   
+ - Smoked Ham  
+ - Bacon  
+  
+**chicken**  
+In name:   
+ - Chicken Tinga  
+ - Chicken Dumpling Soup  
+  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-07-31)  
+**steak**  
+In name:   
+  
+In description:   
+ - Montreal Chicken  
+  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad  
+  
+**curry**  
+In name:   
+ - Beef Bombay Curry  
+ - Vegan Curry Stew  
+  
+**beef**  
+In name:   
+ - Beef & Chicken Meatballs  
+ - Beef Bombay Curry  
+ - Beef Taco Meat  
+  
+In description:   
+ - Pepperoni Pizza Slice  
+ - Grilled Cheeseburger  
+ - Vegan Taco Filling  
+  
+**pork**  
+In name:   
+ - BBQ Pork Chop  
+ - Pork Carnita  
+  
+In description:   
+ - Pizza Slice Sausage  
+  
+**chicken**  
+In name:   
+ - Montreal Chicken  
+ - Beef & Chicken Meatballs  
+ - Giardiniera Chicken  
+ - Chicken Sausage Patties  
+ - Chicken Dumpling Soup  
+  
+In description:   
+ - Pepperoni Pizza Slice  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-07-31)  
+**watermelon**  
+In name:   
+ - Watermelon Slices  
+  
+**steak**  
+In name:   
+ - Grilled Flank Steak  
+  
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
+**beef**  
+In name:   
+ - Beef Taco Meat  
+  
+In description:   
+ - Grilled Flank Steak  
+  
+**pork**  
+In name:   
+ - Cuban Pork Sandwich  
+  
+In description:   
+ - Andouille Sausage  
+  
+**chicken**  
+In name:   
+ - Mediterranean Chicken  
+ - Plant-Based Chicken Taco Filling  
+ - Spicy Chicken Fajita  
+ - Chicken Dumpling Soup  
+  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-07-31)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-07-31)  
+  
