@@ -1,6 +1,6 @@
 # 2025-08-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-02 12:16:25  
+Updated at: 2025-08-02 13:27:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-02)  
 **watermelon**  
 In name:   
@@ -73,13 +73,17 @@ In name:
 In name:   
  - Chicken Drumstick Gochujang Glazed  
   
+**steak**  
+In name:   
+ - Grilled Flank Steak  
+  
 **beef**  
 In name:   
- - Beef Tri Tip Carved w/ Chimichurri  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
 In description:   
+ - Grilled Flank Steak  
  - Pepperoni Pizza Slice  
   
 **pork**  
