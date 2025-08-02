@@ -1,6 +1,6 @@
 # 2025-08-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-02 09:18:00  
+Updated at: 2025-08-02 10:19:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-02)  
 **watermelon**  
 In name:   
@@ -94,7 +94,6 @@ In name:
  - Chicken Drumstick Gochujang Glazed  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
- - Chicken Sausage Patties  
  - Crispy Buffalo Chicken Sandwich  
  - Chicken Tinga  
  - Cream of Chicken & Wild Rice Soup  
