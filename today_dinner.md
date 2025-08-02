@@ -1,6 +1,6 @@
 # 2025-08-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-01 18:19:27  
+Updated at: 2025-08-01 20:41:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-01)  
 **clam**  
 In name:   
@@ -174,6 +174,10 @@ In description:
 In name:   
  - Watermelon Slices  
   
+**drumstick**  
+In name:   
+ - Chicken Drumstick  
+  
 **steak**  
 In name:   
  - Grilled Steak Hero  
@@ -211,6 +215,7 @@ In name:
 In name:   
  - Lemon Pepper Chicken Salad  
  - Sweet & Spicy Orange Chicken  
+ - Chicken Drumstick  
   
 In description:   
  - Great Greens  
