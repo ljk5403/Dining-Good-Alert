@@ -1,6 +1,6 @@
 # 2025-08-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-03 15:21:40  
+Updated at: 2025-08-03 16:18:34  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-03)  
 **lamb**  
 In name:   
@@ -63,6 +63,10 @@ In name:
 In name:   
  - Watermelon Slices  
   
+**mahi mahi**  
+In name:   
+ - Island Spiced Mahi Mahi  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
@@ -82,7 +86,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Pot Pie w/Biscuit  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Lemon Chicken Rice Soup  

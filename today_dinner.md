@@ -1,6 +1,6 @@
 # 2025-08-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-03 16:18:34  
+Updated at: 2025-08-03 17:19:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-03)  
 **lamb**  
 In name:   
@@ -74,11 +74,13 @@ In name:
  - Beef Taco Meat  
   
 In description:   
+ - Italian Meat Sauce  
  - Pepperoni Pizza Slice  
   
 **pork**  
 In name:   
  - Boneless Baked Pork Ham  
+ - Pork Italian Sausage  
   
 In description:   
  - Chorizo Sauce  
