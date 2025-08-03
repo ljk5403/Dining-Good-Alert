@@ -1,6 +1,6 @@
 # 2025-08-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-03 13:28:06  
+Updated at: 2025-08-03 15:21:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-03)  
 **lamb**  
 In name:   
@@ -77,6 +77,7 @@ In name:
  - Boneless Baked Pork Ham  
   
 In description:   
+ - Chorizo Sauce  
  - Pizza Slice Sausage  
   
 **chicken**  
@@ -89,6 +90,7 @@ In name:
  - Plant-Based Chicken Nuggets (6)  
   
 In description:   
+ - Chorizo Sauce  
  - Pepperoni Pizza Slice  
  - Gordon's Great Greens  
   

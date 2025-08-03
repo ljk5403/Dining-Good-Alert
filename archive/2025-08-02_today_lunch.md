@@ -1,6 +1,6 @@
 # 2025-08-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-03 12:17:43  
+Updated at: 2025-08-03 13:28:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-03)  
 **steak**  
 In name:   
@@ -74,6 +74,14 @@ In name:
  - Lemon Chicken Rice Soup  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-08-03)  
+**drumstick**  
+In name:   
+ - Chicken Drumstick Gochujang Glazed  
+  
+**Chicken Drumstick Gochujang Glazed**  
+In name:   
+ - Chicken Drumstick Gochujang Glazed  
+  
 **steak**  
 In name:   
  - Grilled Flank Steak  
@@ -92,7 +100,6 @@ In description:
   
 **pork**  
 In name:   
- - BBQ Pork Chop  
  - Pork Italian Sausage  
   
 In description:   
@@ -100,6 +107,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Drumstick Gochujang Glazed  
  - Beef & Chicken Meatballs  
  - Chicken Chili  
   
