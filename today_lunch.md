@@ -1,6 +1,6 @@
 # 2025-08-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-03 10:19:28  
+Updated at: 2025-08-03 11:23:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-03)  
 **steak**  
 In name:   
@@ -86,12 +86,14 @@ In name:
   
 In description:   
  - Grilled Flank Steak  
+ - Italian Meat Sauce  
  - Pepperoni Pizza Slice  
  - Chicago-Style Hot Dog  
   
 **pork**  
 In name:   
  - BBQ Pork Chop  
+ - Pork Italian Sausage  
   
 In description:   
  - Pizza Slice Sausage  
