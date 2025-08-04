@@ -1,6 +1,6 @@
 # 2025-08-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-04 10:23:04  
+Updated at: 2025-08-04 11:27:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-04)  
 **Tuna**  
 In name:   
@@ -118,7 +118,7 @@ In name:
  - Beef & Chicken Meatballs  
  - Tikka Masala Chicken  
  - Chicken Tinga  
- - Chicken Noodle Soup  
+ - Chicken Chili - Recipe Contest 2025  
   
 In description:   
  - Pepperoni Pizza Slice  

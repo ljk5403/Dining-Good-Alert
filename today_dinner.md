@@ -1,6 +1,6 @@
 # 2025-08-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-04 10:23:08  
+Updated at: 2025-08-04 11:27:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-04)  
 **Tuna**  
 In name:   
@@ -109,7 +109,7 @@ In name:
  - Kung Pao Chicken  
  - Plant-Based Chicken Lo Mein  
  - Chicken Tinga  
- - Chicken Noodle Soup  
+ - Chicken Chili - Recipe Contest 2025  
   
 In description:   
  - Pepperoni Pizza Slice  
