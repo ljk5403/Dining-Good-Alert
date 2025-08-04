@@ -1,6 +1,6 @@
 # 2025-08-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-04 12:23:40  
+Updated at: 2025-08-04 13:31:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-04)  
 **Tuna**  
 In name:   
@@ -73,19 +73,17 @@ In name:
 In name:   
  - Watermelon Slices  
   
-**Salmon**  
+**steak**  
 In name:   
- - Baked Salmon with Mustard Sauce  
+ - Grilled Flank Steak  
+  
+**Cod**  
+In name:   
+ - Lemon Pepper Cod Fillet  
   
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Baked Salmon with Mustard Sauce  
   
 **curry**  
 In name:   
@@ -96,11 +94,11 @@ In description:
   
 **beef**  
 In name:   
- - Beef Stew  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
 In description:   
+ - Grilled Flank Steak  
  - Pepperoni Pizza Slice  
  - Pork Bratwurst Sandwich  
  - Vegan Taco Filling  
