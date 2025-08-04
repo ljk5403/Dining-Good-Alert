@@ -1,6 +1,6 @@
 # 2025-08-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-04 17:20:19  
+Updated at: 2025-08-04 18:19:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-04)  
 **Tuna**  
 In name:   
@@ -73,15 +73,19 @@ In name:
 In name:   
  - Watermelon Slices  
   
+**drumstick**  
+In name:   
+ - Chicken Drumstick BBQ Glazed  
+  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
   
-**fish**  
+**curry**  
 In name:   
   
 In description:   
- - Kung Pao Chicken  
+ - Chicken Tikka Masala  
   
 **beef**  
 In name:   
@@ -95,7 +99,7 @@ In description:
   
 **pork**  
 In name:   
- - Pork Loin Spicy Greenbush  
+ - Boneless Baked Pork Ham  
  - Italian Pork Sausage  
   
 In description:   
@@ -103,10 +107,9 @@ In description:
   
 **chicken**  
 In name:   
- - Grilled Chicken Fillet  
- - Chicken Gravy  
+ - Chicken Drumstick BBQ Glazed  
  - Beef & Chicken Meatballs  
- - Kung Pao Chicken  
+ - Chicken Tikka Masala  
  - Plant-Based Chicken Lo Mein  
  - Chicken Tinga  
  - Chicken Chili - Recipe Contest 2025  
