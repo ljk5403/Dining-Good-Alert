@@ -1,0 +1,149 @@
+# 2025-08-04 dinner  
+*THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
+Updated at: 2025-08-04 20:48:49  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-04)  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad  
+  
+**beef**  
+In name:   
+ - Beef Broccoli Stir Fry  
+ - Beef Barbacoa  
+ - Beef Taco Meat  
+  
+In description:   
+ - Kielbasa with Pierogis  
+ - Italian Meat Sauce  
+ - Pizza Slice - Bacon Cheeseburger  
+ - Pepperoni Pizza Slice  
+  
+**pork**  
+In name:   
+ - Italian Pork Sausage  
+  
+In description:   
+ - Kielbasa with Pierogis  
+  
+**chicken**  
+In name:   
+ - Chicken Parmesan Sandwich  
+ - Chicken Tinga  
+ - Chicken Noodle Soup  
+  
+In description:   
+ - Pepperoni Pizza Slice  
+ - Great Greens  
+  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-08-04)  
+**watermelon**  
+In name:   
+ - Melon Watermelon Whole Sliced  
+  
+**curry**  
+In name:   
+ - Currywurst (Pork)  
+ - Coconut Tofu w/Red Curry Sauce  
+  
+**beef**  
+In name:   
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
+  
+In description:   
+ - Currywurst (Pork)  
+  
+**pork**  
+In name:   
+ - Currywurst (Pork)  
+ - Pork & Beef Hard Salami  
+  
+In description:   
+ - Smoked Ham  
+ - Bacon  
+  
+**chicken**  
+In name:   
+ - Chicken Pot Pie w/ Biscuit (AYCTE)(CN)  
+ - Chicken Noodle Soup  
+ - Lemon Pepper Chicken Salad  
+  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-08-04)  
+**watermelon**  
+In name:   
+ - Watermelon Slices  
+  
+**drumstick**  
+In name:   
+ - Chicken Drumstick BBQ Glazed  
+  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad  
+  
+**beef**  
+In name:   
+ - Beef & Chicken Meatballs  
+ - Beef Taco Meat  
+  
+In description:   
+ - Pepperoni Pizza Slice  
+ - Vegan Taco Filling  
+ - Cowboy Burger  
+  
+**pork**  
+In name:   
+ - Boneless Baked Pork Ham  
+ - Italian Pork Sausage  
+ - Bulgogi Pork  
+  
+In description:   
+ - Pizza Slice Sausage  
+  
+**chicken**  
+In name:   
+ - Chicken Drumstick BBQ Glazed  
+ - Beef & Chicken Meatballs  
+ - Plant-Based Chicken Lo Mein  
+ - Chicken Tinga  
+ - Chicken Chili - Recipe Contest 2025  
+  
+In description:   
+ - Pepperoni Pizza Slice  
+ - Gordon's Great Greens  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-08-04)  
+**watermelon**  
+In name:   
+ - Watermelon Slices  
+  
+**curry**  
+In name:   
+ - Seitan & Coconut Thai Curry  
+  
+**beef**  
+In name:   
+ - Big Texan Beef Sandwich (Half)  
+ - Beef Taco Meat  
+  
+In description:   
+ - Build Your Own Maki Mono Bar  
+ - Vegan Taco Filling  
+  
+**pork**  
+In name:   
+ - Pork Adobo  
+  
+**chicken**  
+In name:   
+ - Lemon Pepper Chicken Salad  
+ - Chicken Tinga  
+ - Chicken Noodle Soup  
+  
+In description:   
+ - Build Your Own Maki Mono Bar  
+ - Great Greens  
+  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-08-04)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-08-04)  
+  
