@@ -1,6 +1,6 @@
 # 2025-08-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-06 12:21:51  
+Updated at: 2025-08-06 13:29:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-06)  
 **Tandoori Chicken**  
 In name:   
@@ -76,6 +76,10 @@ In name:
 In name:   
  - Watermelon Slices  
   
+**Shrimp**  
+In name:   
+ - Sweet & Sour Shrimp  
+  
 **Tilapia**  
 In name:   
  - Island Spiced Tilapia  
@@ -101,7 +105,6 @@ In name:
  - Chicken Pot Pie w/Biscuit  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
- - Bone-in Greek Chicken  
  - Chicken Tortilla Soup  
   
 In description:   
