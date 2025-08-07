@@ -1,6 +1,6 @@
 # 2025-08-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-07 16:17:46  
+Updated at: 2025-08-07 17:20:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-07)  
 **Cod**  
 In name:   
@@ -83,6 +83,7 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice  
+ - Vegan Taco Filling  
   
 **pork**  
 In name:   
