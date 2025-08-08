@@ -1,6 +1,6 @@
 # 2025-08-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-08 11:23:37  
+Updated at: 2025-08-08 12:15:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-08)  
 **steak**  
 In name:   
@@ -106,6 +106,7 @@ In name:
   
 **steak**  
 In name:   
+ - Beef Flank Steak  
  - Spicy Steak Fajita  
   
 **clam**  
@@ -125,6 +126,7 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Flank Steak  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
@@ -142,7 +144,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Piece Seasoned Baked  
  - Beef & Chicken Meatballs  
  - Tandoori Chicken  
   
