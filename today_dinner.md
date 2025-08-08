@@ -1,6 +1,6 @@
 # 2025-08-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-07 18:19:56  
+Updated at: 2025-08-07 20:46:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-07)  
 **Cod**  
 In name:   
@@ -77,7 +77,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Tri Tip Carved w/ Chimichurri  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
