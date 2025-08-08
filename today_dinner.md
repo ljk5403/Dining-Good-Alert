@@ -1,6 +1,6 @@
 # 2025-08-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-08 16:18:01  
+Updated at: 2025-08-08 17:18:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-08)  
 **clam**  
 In name:   
@@ -97,6 +97,10 @@ In name:
 In name:   
  - Spicy Steak Fajita  
   
+**BBQ Pork Sandwich**  
+In name:   
+ - BBQ Pork Sandwich  
+  
 **clam**  
 In name:   
  - Clam Chowder (Pork)  
@@ -130,7 +134,7 @@ In description:
   
 **pork**  
 In name:   
- - French Market Pork Jambalaya  
+ - BBQ Pork Sandwich  
  - Clam Chowder (Pork)  
  - Baked Corn Dog (Pork)  
   
@@ -143,7 +147,6 @@ In name:
  - Chicken Curry  
   
 In description:   
- - French Market Pork Jambalaya  
  - Pepperoni Pizza Slice  
  - Gordon's Great Greens  
  - Baked Corn Dog (Pork)  
