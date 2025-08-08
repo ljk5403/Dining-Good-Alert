@@ -1,6 +1,6 @@
 # 2025-08-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-08 17:18:30  
+Updated at: 2025-08-08 18:18:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-08)  
 **clam**  
 In name:   
@@ -101,10 +101,6 @@ In name:
 In name:   
  - BBQ Pork Sandwich  
   
-**clam**  
-In name:   
- - Clam Chowder (Pork)  
-  
 **Shrimp**  
 In name:   
  - Sauteed Shrimp  
@@ -112,9 +108,6 @@ In name:
 **Cod**  
 In name:   
  - Lemon Pepper Cod Fillet  
-  
-In description:   
- - Clam Chowder (Pork)  
   
 **curry**  
 In name:   
@@ -135,7 +128,6 @@ In description:
 **pork**  
 In name:   
  - BBQ Pork Sandwich  
- - Clam Chowder (Pork)  
  - Baked Corn Dog (Pork)  
   
 In description:   
