@@ -1,6 +1,6 @@
 # 2025-08-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-09 13:26:52  
+Updated at: 2025-08-09 15:20:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-09)  
 **beef**  
 In name:   
@@ -58,7 +58,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Meatloaf  
  - Texas BBQ Sliced Beef Brisket  
  - Beef & Chicken Meatballs  
   
@@ -67,11 +66,9 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Enchilada Bake  
  - Chicken Drummies  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
- - Cream of Chicken & Wild Rice Soup  
  - Chicken Parmesan Sandwich  
   
 In description:   
