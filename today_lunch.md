@@ -1,6 +1,6 @@
 # 2025-08-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-09 01:28:15  
+Updated at: 2025-08-09 09:17:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-09)  
 **steak**  
 In name:   
@@ -77,29 +77,19 @@ In name:
   
 **beef**  
 In name:   
- - Beef Gravy  
  - Beef & Chicken Meatballs  
+ - Beef Gravy  
  - Lamb & Beef Gyro Sandwich  
- - Beef Taco Meat  
   
 In description:   
  - Burnt Ends  
  - Pepperoni Pizza Slice  
-  
-**pork**  
-In name:   
- - Italian Pork Sausage  
-  
-In description:   
- - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
  - Blackened Chicken  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
- - Chicken Sausage Patties  
- - Chicken Tinga  
  - Cream of Chicken & Wild Rice Soup  
   
 In description:   
