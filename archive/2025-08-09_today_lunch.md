@@ -1,6 +1,6 @@
 # 2025-08-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-10 01:28:06  
+Updated at: 2025-08-10 09:17:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-10)  
 **Tuna**  
 In name:   
@@ -89,18 +89,9 @@ In name:
 In description:   
  - Pepperoni Pizza Slice  
   
-**pork**  
-In name:   
- - Boneless Baked Pork Ham  
-  
-In description:   
- - Pizza Slice Sausage  
-  
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
- - Giardiniera Chicken  
- - Grilled Chicken Sandwich  
  - Lemon Chicken Rice Soup  
   
 In description:   
@@ -112,19 +103,9 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**Samosas**  
-In name:   
- - Samosas  
-  
 **Tuna**  
 In name:   
  - Tuna Salad Sandwich  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Tikka Masala Chicken  
   
 **beef**  
 In name:   
@@ -139,8 +120,6 @@ In name:
 **chicken**  
 In name:   
  - Chicken Sausage Patty  
- - Crispy Chicken Sandwich  
- - Tikka Masala Chicken  
  - Lemon Chicken Rice Soup  
   
 In description:   
