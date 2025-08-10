@@ -1,6 +1,6 @@
 # 2025-08-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-10 10:18:39  
+Updated at: 2025-08-10 11:23:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-10)  
 **Salmon**  
 In name:   
@@ -91,7 +91,7 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
- - Lemon Chicken Rice Soup  
+ - Chicken Chili - Recipe Contest 2025  
   
 In description:   
  - Gnocchi w/ Pork Chorizo Sauce  
