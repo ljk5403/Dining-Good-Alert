@@ -1,6 +1,6 @@
 # 2025-08-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-10 18:18:14  
+Updated at: 2025-08-10 20:47:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-10)  
 **Salmon**  
 In name:   
@@ -67,6 +67,10 @@ In name:
 In name:   
  - Watermelon Slices  
   
+**Chicken Drummies**  
+In name:   
+ - Chicken Drummies  
+  
 **Tilapia**  
 In name:   
  - Lemon Bake Tilapia  
@@ -83,18 +87,17 @@ In description:
   
 **pork**  
 In name:   
- - Gnocchi w/ Pork Chorizo Sauce  
   
 In description:   
  - Gordon's Buona Cucina  
   
 **chicken**  
 In name:   
+ - Chicken Drummies  
  - Beef & Chicken Meatballs  
  - Chicken Chili - Recipe Contest 2025  
   
 In description:   
- - Gnocchi w/ Pork Chorizo Sauce  
  - Pepperoni Pizza Slice  
  - Gordon's Buona Cucina  
  - Gordon's Great Greens  
