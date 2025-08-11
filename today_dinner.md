@@ -1,6 +1,6 @@
 # 2025-08-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-11 13:29:58  
+Updated at: 2025-08-11 15:19:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-11)  
 **fish**  
 In name:   
@@ -129,8 +129,13 @@ In name:
 In name:   
  - Broccoli Rabe  
   
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
 **beef**  
 In name:   
+ - BBQ Beef Brisket Sandwich  
  - Beef Taco Meat  
   
 In description:   
@@ -146,7 +151,6 @@ In description:
   
 **chicken**  
 In name:   
- - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
  - Chicken Noodle Soup  
   
