@@ -1,6 +1,6 @@
 # 2025-08-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-12 11:25:10  
+Updated at: 2025-08-12 12:18:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-12)  
 **Shrimp**  
 In name:   
@@ -117,6 +117,10 @@ In description:
 In name:   
  - Watermelon Slices  
   
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
 **lamb**  
 In name:   
  - Lamb & Beef Gyro Sandwich  
@@ -135,7 +139,6 @@ In name:
 **chicken**  
 In name:   
  - Plant Based Sweet & Sour Chicken  
- - Lemon Pepper Chicken Salad  
  - Taco Chicken  
   
 In description:   
