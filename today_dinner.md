@@ -1,6 +1,6 @@
 # 2025-08-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-11 18:17:52  
+Updated at: 2025-08-11 20:37:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-11)  
 **fish**  
 In name:   
@@ -87,6 +87,10 @@ In name:
 In name:   
  - Watermelon Slices  
   
+**steak**  
+In name:   
+ - Spicy Steak Fajita  
+  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
@@ -100,6 +104,7 @@ In name:
 In description:   
  - Pepperoni Pizza Slice  
  - Vegan Taco Filling  
+ - Spicy Steak Fajita  
  - Bacon Cheeseburger  
   
 **pork**  
