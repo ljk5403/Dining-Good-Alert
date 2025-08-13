@@ -1,6 +1,6 @@
 # 2025-08-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-12 18:18:16  
+Updated at: 2025-08-12 20:38:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-12)  
 **drumstick**  
 In name:   
@@ -83,11 +83,11 @@ In name:
 In description:   
  - Pepperoni Pizza Slice  
  - Spicy Steak Fajita  
- - Banh Mi Hot Dog  
   
 **pork**  
 In name:   
  - Edamame Fried Rice w/ Pork Potsticker  
+ - Pork Bratwurst Sandwich  
   
 In description:   
  - Pizza Slice Sausage  
