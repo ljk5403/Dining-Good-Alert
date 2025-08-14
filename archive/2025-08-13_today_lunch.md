@@ -1,6 +1,6 @@
 # 2025-08-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-14 01:30:25  
+Updated at: 2025-08-14 09:19:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-14)  
 **Shrimp**  
 In name:   
@@ -113,7 +113,6 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice  
- - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-08-14)  
 **watermelon**  
@@ -123,6 +122,10 @@ In name:
 **steak**  
 In name:   
  - Grilled Flank Steak  
+  
+**Tuna**  
+In name:   
+ - Tuna Salad  
   
 **beef**  
 In name:   
@@ -139,9 +142,8 @@ In name:
 **chicken**  
 In name:   
  - Italian Chicken  
- - Lemon Pepper Chicken Salad  
  - Plant-Based Chicken Taco Filling  
- - Chicken Dumpling Soup  
+ - Soup Chicken Noodle  
   
 In description:   
  - Great Greens  
