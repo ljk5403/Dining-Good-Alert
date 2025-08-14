@@ -1,6 +1,6 @@
 # 2025-08-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-14 16:17:50  
+Updated at: 2025-08-14 17:18:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-14)  
 **Tuna**  
 In name:   
