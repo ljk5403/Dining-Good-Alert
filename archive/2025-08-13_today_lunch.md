@@ -1,6 +1,6 @@
 # 2025-08-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-14 09:19:13  
+Updated at: 2025-08-14 10:20:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-14)  
 **Shrimp**  
 In name:   
@@ -107,7 +107,7 @@ In name:
  - Montreal Chicken  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
- - Sausage Links Chicken (halal) (AYCTE)  
+ - Chicken Sausage Patties  
  - Jamaican Jerk Chicken  
  - Chicken Dumpling Soup  
   

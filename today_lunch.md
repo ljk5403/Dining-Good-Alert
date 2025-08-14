@@ -1,6 +1,6 @@
 # 2025-08-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-14 10:20:48  
+Updated at: 2025-08-14 11:25:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-14)  
 **Shrimp**  
 In name:   
@@ -87,7 +87,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Goulash w/Egg Noodles  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
@@ -137,7 +136,6 @@ In description:
 **pork**  
 In name:   
  - Cuban Pork Sandwich  
- - Pork Carnita  
   
 **chicken**  
 In name:   
