@@ -1,6 +1,6 @@
 # 2025-08-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-14 18:18:19  
+Updated at: 2025-08-14 20:39:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-14)  
 **Tuna**  
 In name:   
@@ -78,6 +78,10 @@ In name:
 In name:   
  - Grilled Flank Steak  
   
+**mahi mahi**  
+In name:   
+ - Island Spiced Mahi Mahi  
+  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
@@ -107,7 +111,6 @@ In description:
   
 **chicken**  
 In name:   
- - Cajun Chicken Pasta  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Tikka Masala Chicken  
