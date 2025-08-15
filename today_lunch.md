@@ -1,6 +1,6 @@
 # 2025-08-15 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-15 10:19:46  
+Updated at: 2025-08-15 11:23:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-15)  
 **drumstick**  
 In name:   
@@ -145,7 +145,6 @@ In name:
 In description:   
  - Pepperoni Pizza Slice  
  - Italian Meatball Sandwich  
- - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-08-15)  
 **watermelon**  
@@ -170,6 +169,10 @@ In description:
 In name:   
  - Blackened Salmon  
   
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
 **fish**  
 In name:   
  - Vegan Fish Sandwich  
@@ -179,11 +182,10 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Mediterranean  
  - Beef Taco Meat  
   
 In description:   
- - Mediterranean Nachos  
- - Mediterranean Rice Bowl  
  - Vegan Taco Filling  
   
 **pork**  
@@ -194,11 +196,9 @@ In name:
 In name:   
  - Plant-Based Chicken & Dumplings  
  - Grilled Chicken Sandwich  
- - Lemon Pepper Chicken Salad  
+ - Mediterranean Chicken  
   
 In description:   
- - Mediterranean Nachos  
- - Mediterranean Rice Bowl  
  - Great Greens  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-08-15)  
