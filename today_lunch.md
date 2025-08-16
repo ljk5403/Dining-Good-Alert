@@ -1,6 +1,6 @@
 # 2025-08-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-16 01:26:56  
+Updated at: 2025-08-16 09:15:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-16)  
 **watermelon**  
 In name:   
@@ -77,7 +77,6 @@ In name:
 In name:   
  - Beef Tri Tip Carved w/ Chimichurri  
  - Beef & Chicken Meatballs  
- - Beef Taco Meat  
   
 In description:   
  - Pepperoni Pizza Slice  
@@ -94,14 +93,11 @@ In name:
  - Chicken Drumstick Gochujang Glazed  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
- - Sausage Links Chicken (halal) (AYCTE)  
  - Crispy Buffalo Chicken Sandwich  
- - Chicken Tinga  
  - Cream of Chicken & Wild Rice Soup  
   
 In description:   
  - Pepperoni Pizza Slice  
- - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-08-16)  
 **watermelon**  

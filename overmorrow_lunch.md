@@ -1,6 +1,6 @@
 # 2025-08-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-16 01:27:10  
+Updated at: 2025-08-16 09:16:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-18)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-08-18)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-08-18)  
@@ -19,13 +19,11 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Beef Taco Meat  
   
 In description:   
  - Gordon's OrderIt  
  - Country Fried Steak  
  - Gluten Free Pepperoni Pizza Quarter  
- - Vegan Taco Filling  
   
 **pork**  
 In name:   
@@ -45,7 +43,6 @@ In name:
  - Chicken Tenders Breaded  
  - Plant-Based Chicken Nuggets (6)  
  - General Tso's Chicken  
- - Chicken Tinga  
  - Lemon Chicken Rice Soup  
  - Diced Chicken  
   

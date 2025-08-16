@@ -1,6 +1,6 @@
 # 2025-08-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-16 01:27:07  
+Updated at: 2025-08-16 09:16:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-17)  
 **lamb**  
 In name:   
@@ -66,8 +66,6 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Beef Barbacoa  
- - Beef Taco Meat  
   
 In description:   
  - Pepperoni Pizza Slice  

@@ -1,6 +1,6 @@
 # 2025-08-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-16 01:27:14  
+Updated at: 2025-08-16 09:16:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-18)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-08-18)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-08-18)  
@@ -31,13 +31,11 @@ In name:
 In description:   
  - Gordon's OrderIt  
  - Gluten Free Pepperoni Pizza Quarter  
- - Vegan Taco Filling  
  - Mushroom Swiss Burger  
   
 **pork**  
 In name:   
  - Italian Pork Sausage  
- - Ancho Pork Rice Bowl  
   
 In description:   
  - Gordon's OrderIt  
@@ -55,7 +53,6 @@ In name:
 In description:   
  - Gordon's OrderIt  
  - Gluten Free Pepperoni Pizza Quarter  
- - Ancho Pork Rice Bowl  
  - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-08-18)  

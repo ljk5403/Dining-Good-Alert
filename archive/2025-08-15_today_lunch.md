@@ -1,7 +1,70 @@
-# 2025-08-15 lunch  
+# 2025-08-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-15 20:26:36  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-15)  
+Updated at: 2025-08-16 01:26:56  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-16)  
+**watermelon**  
+In name:   
+  
+In description:   
+ - Fresh Fruit Salad (VN)  
+  
+**Shrimp**  
+In name:   
+ - Manicotti Shrimp Alfredo  
+  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad  
+  
+**beef**  
+In name:   
+ - Beef Taco Meat  
+  
+In description:   
+ - Pepperoni Pizza Slice  
+ - Chicago-Style Hot Dog  
+  
+**pork**  
+In name:   
+ - Boneless Baked Pork Ham  
+ - Pork Carnita  
+ - Italian Pork Sausage  
+  
+**chicken**  
+In name:   
+ - Spicy Lo Mein w/Chicken  
+ - Plant-Based Chicken Lo Mein  
+ - Chicken Tinga  
+ - Cream of Chicken & Wild Rice Soup  
+  
+In description:   
+ - Pepperoni Pizza Slice  
+ - Great Greens  
+  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-08-16)  
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
+**beef**  
+In name:   
+ - Homemade Beef Lasagna  
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
+  
+**pork**  
+In name:   
+ - Pork & Beef Hard Salami  
+  
+In description:   
+ - Smoked Ham  
+ - Bacon  
+  
+**chicken**  
+In name:   
+ - Cream of Chicken & Wild Rice Soup  
+  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-08-16)  
 **drumstick**  
 In name:   
  - Chicken Drumstick Gochujang Glazed  
@@ -10,38 +73,18 @@ In name:
 In name:   
  - Chicken Drumstick Gochujang Glazed  
   
-**clam**  
-In name:   
- - Clam Chowder (Pork)  
-  
-**Shrimp**  
-In name:   
- - Pizza Slice Shrimp Pesto  
- - Chipotle Shrimp  
-  
-**Cod**  
-In name:   
- - Miso Cod  
-  
-In description:   
- - Clam Chowder (Pork)  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Miso Cod  
-  
 **beef**  
 In name:   
+ - Beef Tri Tip Carved w/ Chimichurri  
+ - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
 In description:   
- - Vegan Taco Filling  
+ - Pepperoni Pizza Slice  
   
 **pork**  
 In name:   
- - Clam Chowder (Pork)  
+ - Italian Pork Sausage  
   
 In description:   
  - Pizza Slice Sausage  
@@ -49,158 +92,46 @@ In description:
 **chicken**  
 In name:   
  - Chicken Drumstick Gochujang Glazed  
+ - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
- - Sesame Chicken  
+ - Sausage Links Chicken (halal) (AYCTE)  
+ - Crispy Buffalo Chicken Sandwich  
  - Chicken Tinga  
- - Diced Chicken Breast  
+ - Cream of Chicken & Wild Rice Soup  
   
 In description:   
- - Great Greens  
+ - Pepperoni Pizza Slice  
+ - Gordon's Great Greens  
   
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-08-15)  
-**watermelon**  
-In name:   
- - Melon Watermelon Whole Sliced  
-  
-**clam**  
-In name:   
- - Clam Chowder (Pork)  
-  
-**Cod**  
-In name:   
-  
-In description:   
- - Clam Chowder (Pork)  
-  
-**Tilapia**  
-In name:   
- - Blackened Tilapia Tacos  
-  
-**Tuna**  
-In name:   
- - Tuna Salad  
-  
-**beef**  
-In name:   
- - Roast Beef  
- - Pork & Beef Hard Salami  
-  
-**pork**  
-In name:   
- - Clam Chowder (Pork)  
- - Pork & Beef Hard Salami  
-  
-In description:   
- - Smoked Ham  
- - Bacon  
-  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-08-15)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-08-16)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
   
-**clam**  
+**steak**  
 In name:   
- - Clam Chowder (Pork)  
-  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp  
- - Chipotle Shrimp  
-  
-**Cod**  
-In name:   
- - Basque Style Cod  
-  
-In description:   
- - Clam Chowder (Pork)  
-  
-**curry**  
-In name:   
- - Coconut Tofu w/Red Curry Sauce  
+ - Philly Cheesesteak Sandwich  
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
 In description:   
- - Pepperoni Pizza Slice  
- - Italian Meatball Sandwich  
- - Vegan Taco Filling  
+ - Philly Cheesesteak Sandwich  
   
 **pork**  
 In name:   
- - Clam Chowder (Pork)  
-  
-In description:   
- - Pizza Slice Sausage  
+ - Appetizer -  Fried Pork Potstickers  
   
 **chicken**  
 In name:   
- - Brazilian Chicken w/ Salsa Vinaigrette  
- - Beef & Chicken Meatballs  
- - Butter Chicken  
-  
-In description:   
- - Pepperoni Pizza Slice  
- - Italian Meatball Sandwich  
-  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-08-15)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
-**clam**  
-In name:   
- - Clam Chowder (Pork)  
-  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp  
-  
-**Cod**  
-In name:   
-  
-In description:   
- - Clam Chowder (Pork)  
-  
-**Salmon**  
-In name:   
- - Blackened Salmon  
-  
-**Tuna**  
-In name:   
- - Tuna Salad  
-  
-**fish**  
-In name:   
- - Vegan Fish Sandwich  
-  
-In description:   
- - Blackened Salmon  
-  
-**beef**  
-In name:   
- - Beef Mediterranean  
- - Beef Taco Meat  
-  
-In description:   
- - Vegan Taco Filling  
-  
-**pork**  
-In name:   
- - Clam Chowder (Pork)  
-  
-**chicken**  
-In name:   
- - Plant-Based Chicken & Dumplings  
- - Grilled Chicken Sandwich  
- - Mediterranean Chicken  
+ - Lemon Pepper Chicken Salad  
+ - Spicy Chicken Fajita  
+ - Cream of Chicken & Wild Rice Soup  
   
 In description:   
  - Great Greens  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-08-15)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-08-15)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-08-16)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-08-16)  
   
