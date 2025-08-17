@@ -1,6 +1,6 @@
 # 2025-08-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-17 01:27:52  
+Updated at: 2025-08-17 09:16:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-19)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-08-19)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-08-19)  
@@ -15,8 +15,6 @@ In name:
  - Beef Tri Tip Carved w/ Chimichurri  
  - Beef & Chicken Meatballs  
  - Pizza Slice Italian Beef  
- - Roast Beef  
- - Pork & Beef Hard Salami  
   
 In description:   
  - Pizza Slice Deluxe (Pork)  
@@ -25,14 +23,8 @@ In description:
 **pork**  
 In name:   
  - Pizza Slice Deluxe (Pork)  
- - Pork & Beef Hard Salami  
  - Pork Bratwurst Sandwich  
  - Pork Adobo  
-  
-In description:   
- - Build Your Own Breakfast Sandwich  
- - Smoked Ham  
- - Bacon  
   
 **chicken**  
 In name:   
@@ -40,7 +32,6 @@ In name:
  - Beef & Chicken Meatballs  
  - Pulled Chicken Thigh  
  - Cream of Chicken & Wild Rice Soup  
- - Diced Chicken  
   
 In description:   
  - Pizza Slice Deluxe (Pork)  
@@ -58,8 +49,6 @@ In name:
 **beef**  
 In name:   
  - Beef Pita Kabaub  
- - Roast Beef  
- - Pork & Beef Hard Salami  
  - Beef Taco Meat  
  - Mediterranean Beef  
   
@@ -68,21 +57,17 @@ In description:
   
 **pork**  
 In name:   
- - Pork & Beef Hard Salami  
  - Pork Carnita  
-  
-In description:   
- - Build Your Own Breakfast Sandwich  
- - Smoked Ham  
- - Bacon  
   
 **chicken**  
 In name:   
  - Chicken Breast w/Red Pepper Cream  
  - Italian Chicken  
  - Cream of Chicken & Wild Rice Soup  
- - Diced Chicken  
  - Mediterranean Chicken  
+  
+In description:   
+ - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-08-19)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-08-19)  

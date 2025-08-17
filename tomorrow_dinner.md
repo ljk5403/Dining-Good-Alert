@@ -1,6 +1,6 @@
 # 2025-08-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-17 01:27:49  
+Updated at: 2025-08-17 09:16:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-18)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-08-18)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-08-18)  
@@ -40,7 +40,6 @@ In name:
 In description:   
  - Gordon's OrderIt  
  - Pizza Slice Sausage  
- - Build Your Own Breakfast Sandwich  
   
 **chicken**  
 In name:   
@@ -48,7 +47,6 @@ In name:
  - Beef & Chicken Meatballs  
  - Pizza Slice Chicken Tomatillo  
  - Lemon Chicken Rice Soup  
- - Diced Chicken  
   
 In description:   
  - Gordon's OrderIt  
@@ -87,8 +85,6 @@ In name:
   
 **beef**  
 In name:   
- - Roast Beef  
- - Pork & Beef Hard Salami  
  - Barbacoa Beef w/Mango Habanero Sandwich  
   
 In description:   
@@ -97,19 +93,12 @@ In description:
   
 **pork**  
 In name:   
- - Pork & Beef Hard Salami  
  - Italian Pork Sausage  
  - German Plate (Pork)  
-  
-In description:   
- - Build Your Own Breakfast Sandwich  
- - Smoked Ham  
- - Bacon  
   
 **chicken**  
 In name:   
  - Lemon Chicken Rice Soup  
- - Diced Chicken  
   
 In description:   
  - Station Recipe - Great Greens - FLM  
