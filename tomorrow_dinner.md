@@ -1,6 +1,6 @@
 # 2025-08-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-16 18:16:58  
+Updated at: 2025-08-16 20:44:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-17)  
 **lamb**  
 In name:   
