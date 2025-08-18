@@ -1,83 +1,80 @@
-# 2025-08-19 dinner  
+# 2025-08-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-17 20:45:06  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-19)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-08-19)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-08-19)  
-**steak**  
+Updated at: 2025-08-18 01:32:20  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-20)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-08-20)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-08-20)  
+**Beef Alicha**  
 In name:   
+ - Beef Alicha  
   
-In description:   
- - Pizza Slice Italian Beef  
+**Cod**  
+In name:   
+ - Caribbean Cod  
   
 **beef**  
 In name:   
+ - Beef Alicha  
+ - Plant-Based Beef Bean & Carrot Stir Fry  
  - Beef & Chicken Meatballs  
- - Pizza Slice Italian Beef  
+ - Beef & Bean Chili  
   
 In description:   
- - Pizza Slice Deluxe (Pork)  
+ - Italian Meat Sauce  
+ - Pizza Slice Reuben  
+ - Blackened Hamburger  
   
 **pork**  
 In name:   
- - BBQ Pork Chop  
- - Pizza Slice Deluxe (Pork)  
+ - Italian Pork Sausage  
+ - Gluten Free Pork Sausage Pizza Quarter  
   
 **chicken**  
 In name:   
- - Baked BBQ Chicken  
  - Beef & Chicken Meatballs  
- - Pulled Chicken Thigh  
- - Bone-in Greek Chicken  
- - Cream of Chicken & Wild Rice Soup  
+ - Lemon Pepper Chicken Salad  
+ - General Tso's Chicken  
   
 In description:   
- - Pizza Slice Deluxe (Pork)  
  - Gordon's Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-08-19)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-08-20)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
-  
-**Shrimp**  
-In name:   
- - Shrimp & Avocado Tostada  
-  
-**Salmon**  
-In name:   
- - Smoked Salmon  
   
 **Tuna**  
 In name:   
  - Tuna Salad  
   
-**fish**  
+**curry**  
 In name:   
-  
-In description:   
- - Smoked Salmon  
-  
-**lamb**  
-In name:   
- - Lamb & Beef Gyro Sandwich  
+ - Thai Veggie Meatballs w/ Green Curry  
   
 **beef**  
 In name:   
- - Lamb & Beef Gyro Sandwich  
+ - Beef & Chicken Meatballs  
+ - Beef Sirloin Tips  
+ - Beef & Bean Chili  
   
 In description:   
- - Vegan Tostadas  
+ - Grilled Cheeseburger  
+ - Vegan Sloppy Joe  
+ - Italian Meat Sauce  
+  
+**pork**  
+In name:   
+ - BBQ Pork Chop  
   
 **chicken**  
 In name:   
- - Italian Chicken  
- - Chicken Creole  
- - Cream of Chicken & Wild Rice Soup  
+ - Beef & Chicken Meatballs  
+ - Chicken Wings Boneless Plain  
+ - Plant-Based Chicken Nuggets (6)  
   
 In description:   
  - Station Recipe - Great Greens - FLM  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-08-19)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-08-19)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-08-20)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-08-20)  
   
