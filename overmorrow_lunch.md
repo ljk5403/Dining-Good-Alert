@@ -1,6 +1,6 @@
 # 2025-08-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-18 10:21:21  
+Updated at: 2025-08-18 11:25:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-20)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-08-20)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-08-20)  
@@ -12,11 +12,13 @@ In name:
 In name:   
  - Beef Harissa  
  - Beef & Chicken Meatballs  
+ - Beef Taco Meat  
  - Beef & Bean Chili  
   
 In description:   
  - Italian Meat Sauce  
  - Pizza Slice Reuben  
+ - Vegan Taco Filling  
   
 **pork**  
 In name:   

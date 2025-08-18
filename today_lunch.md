@@ -1,6 +1,6 @@
 # 2025-08-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-18 10:21:12  
+Updated at: 2025-08-18 11:25:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-18)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-08-18)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-08-18)  
@@ -15,11 +15,12 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
+ - Beef Taco Meat  
   
 In description:   
- - Gordon's OrderIt  
  - Country Fried Steak  
  - Gluten Free Pepperoni Pizza Quarter  
+ - Vegan Taco Filling  
   
 **pork**  
 In name:   
@@ -27,7 +28,6 @@ In name:
  - Italian Pork Sausage  
   
 In description:   
- - Gordon's OrderIt  
  - Pizza Slice Sausage  
   
 **chicken**  
@@ -38,10 +38,10 @@ In name:
  - Chicken Tenders Breaded  
  - Plant-Based Chicken Nuggets (6)  
  - General Tso's Chicken  
+ - Chicken Tinga  
  - Lemon Chicken Rice Soup  
   
 In description:   
- - Gordon's OrderIt  
  - Gluten Free Pepperoni Pizza Quarter  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-08-18)  
@@ -56,10 +56,6 @@ In name:
 **Shrimp**  
 In name:   
  - Redhook Ale Breaded Shrimp  
-  
-**Tuna**  
-In name:   
- - Tuna Salad  
   
 **curry**  
 In name:   
@@ -79,6 +75,7 @@ In name:
 **chicken**  
 In name:   
  - Chicken Fajita Torta  
+ - Lemon Pepper Chicken Salad  
  - Butter Chicken  
  - Chicken Chili  
  - Diced Chicken  

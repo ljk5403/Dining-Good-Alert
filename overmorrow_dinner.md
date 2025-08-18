@@ -1,6 +1,6 @@
 # 2025-08-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-18 10:21:24  
+Updated at: 2025-08-18 11:25:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-20)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-08-20)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-08-20)  
@@ -22,12 +22,14 @@ In name:
 In description:   
  - Italian Meat Sauce  
  - Pizza Slice Reuben  
+ - Vegetarian Hot Tamale Pie  
  - Blackened Hamburger  
   
 **pork**  
 In name:   
  - Italian Pork Sausage  
  - Gluten Free Pork Sausage Pizza Quarter  
+ - Pork Tamale with Oaxaca  
   
 **chicken**  
 In name:   
@@ -36,6 +38,7 @@ In name:
  - General Tso's Chicken  
   
 In description:   
+ - Pork Tamale with Oaxaca  
  - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-08-20)  
