@@ -1,6 +1,6 @@
 # 2025-08-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-18 15:19:04  
+Updated at: 2025-08-18 16:16:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-18)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-08-18)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-08-18)  
@@ -77,6 +77,9 @@ In name:
 In name:   
  - Shrimp Curry  
  - Curry Potatoes  
+  
+In description:   
+ - Pakora Sauce  
   
 **beef**  
 In name:   
