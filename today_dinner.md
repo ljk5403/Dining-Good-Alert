@@ -1,6 +1,6 @@
 # 2025-08-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-18 13:29:03  
+Updated at: 2025-08-18 15:19:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-18)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-08-18)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-08-18)  
@@ -29,9 +29,7 @@ In name:
  - Stir Fry Beef with Oyster Sauce  
   
 In description:   
- - Gordon's OrderIt  
  - Gluten Free Pepperoni Pizza Quarter  
- - Vegan Taco Filling  
  - Mushroom Swiss Burger  
   
 **pork**  
@@ -40,7 +38,6 @@ In name:
  - Ancho Pork Rice Bowl  
   
 In description:   
- - Gordon's OrderIt  
  - Pizza Slice Sausage  
   
 **chicken**  
@@ -51,7 +48,6 @@ In name:
  - Lemon Chicken Rice Soup  
   
 In description:   
- - Gordon's OrderIt  
  - Gluten Free Pepperoni Pizza Quarter  
  - Ancho Pork Rice Bowl  
  - Gordon's Great Greens  
@@ -72,10 +68,6 @@ In name:
 **Shrimp**  
 In name:   
  - Shrimp Curry  
-  
-**Tuna**  
-In name:   
- - Tuna Salad  
   
 **fish**  
 In name:   
@@ -101,6 +93,7 @@ In name:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Lemon Chicken Rice Soup  
   
 In description:   
