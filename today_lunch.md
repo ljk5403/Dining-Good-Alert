@@ -1,6 +1,6 @@
 # 2025-08-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-18 12:18:43  
+Updated at: 2025-08-18 13:29:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-18)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-08-18)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-08-18)  
@@ -49,9 +49,9 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**Samosas**  
+**Pakoras**  
 In name:   
- - Samosas  
+ - Appetizer -  Pakoras Vegetable (Veg)  
   
 **Shrimp**  
 In name:   
@@ -67,6 +67,7 @@ In description:
 **beef**  
 In name:   
  - Beef Goulash w/Egg Noodles  
+ - Beef Mediterranean  
   
 **pork**  
 In name:   
@@ -76,7 +77,6 @@ In name:
 In name:   
  - Chicken Fajita Torta  
  - Lemon Pepper Chicken Salad  
- - Butter Chicken  
  - Chicken Chili  
  - Diced Chicken  
   
