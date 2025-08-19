@@ -1,6 +1,6 @@
 # 2025-08-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-19 15:20:37  
+Updated at: 2025-08-19 16:17:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-19)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-08-19)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-08-19)  
@@ -26,6 +26,7 @@ In name:
  - Baked BBQ Chicken  
  - Beef & Chicken Meatballs  
  - Pulled Chicken Thigh  
+ - Chicken Sausage Patty  
  - Bone-in Greek Chicken  
  - Chicken Fajitas w/Rice & Beans  
  - Cream of Chicken & Wild Rice Soup  
@@ -42,10 +43,6 @@ In name:
 **Salmon**  
 In name:   
  - Smoked Salmon  
-  
-**Tuna**  
-In name:   
- - Tuna Salad  
   
 **fish**  
 In name:   
@@ -68,6 +65,7 @@ In name:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Italian Chicken  
  - Chicken Creole  
  - Chicken Breast w/Red Pepper Cream  
