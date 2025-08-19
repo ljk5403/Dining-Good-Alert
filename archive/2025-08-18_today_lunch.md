@@ -1,6 +1,6 @@
 # 2025-08-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-19 12:16:31  
+Updated at: 2025-08-19 13:24:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-19)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-08-19)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-08-19)  
@@ -13,7 +13,6 @@ In description:
   
 **beef**  
 In name:   
- - Beef Tri Tip Carved w/ Chimichurri  
  - Beef & Chicken Meatballs  
  - Pizza Slice Italian Beef  
  - Beef Taco Meat  
@@ -25,6 +24,7 @@ In description:
   
 **pork**  
 In name:   
+ - Herb Crusted Pork Loin  
  - Pizza Slice Deluxe (Pork)  
  - Pork Bratwurst Sandwich  
  - Pork Adobo  

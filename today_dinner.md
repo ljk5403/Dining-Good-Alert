@@ -1,6 +1,6 @@
 # 2025-08-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-19 13:24:57  
+Updated at: 2025-08-19 15:20:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-19)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-08-19)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-08-19)  
@@ -8,13 +8,9 @@ Updated at: 2025-08-19 13:24:57
 In name:   
  - Beef Steak Fajita Plate w/Rice & Beans  
   
-In description:   
- - Pizza Slice Italian Beef  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Pizza Slice Italian Beef  
  - Beef Steak Fajita Plate w/Rice & Beans  
   
 In description:   
@@ -43,10 +39,6 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**Shrimp**  
-In name:   
- - Shrimp & Avocado Tostada  
-  
 **Salmon**  
 In name:   
  - Smoked Salmon  
@@ -68,14 +60,17 @@ In name:
 **beef**  
 In name:   
  - Lamb & Beef Gyro Sandwich  
+ - Beef Taco Meat  
   
-In description:   
- - Vegan Tostadas  
+**pork**  
+In name:   
+ - Pork Carnita  
   
 **chicken**  
 In name:   
  - Italian Chicken  
  - Chicken Creole  
+ - Chicken Breast w/Red Pepper Cream  
  - Cream of Chicken & Wild Rice Soup  
   
 In description:   
