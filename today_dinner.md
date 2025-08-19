@@ -1,6 +1,6 @@
 # 2025-08-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-18 18:17:34  
+Updated at: 2025-08-18 20:26:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-18)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-08-18)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-08-18)  
@@ -8,9 +8,13 @@ Updated at: 2025-08-18 18:17:34
 In name:   
  - Watermelon Slices  
   
-**Salmon**  
+**drumstick**  
 In name:   
- - Masala Spiced Salmon  
+ - Chicken Drumstick Gochujang Glazed  
+  
+**Chicken Drumstick Gochujang Glazed**  
+In name:   
+ - Chicken Drumstick Gochujang Glazed  
   
 **Tuna**  
 In name:   
@@ -20,7 +24,6 @@ In name:
 In name:   
   
 In description:   
- - Masala Spiced Salmon  
  - Stir Fry Beef with Oyster Sauce  
   
 **beef**  
@@ -34,6 +37,7 @@ In description:
   
 **pork**  
 In name:   
+ - Apricot Glazed Pork  
  - Italian Pork Sausage  
  - Ancho Pork Rice Bowl  
   
@@ -42,7 +46,7 @@ In description:
   
 **chicken**  
 In name:   
- - Mediterranean Chicken  
+ - Chicken Drumstick Gochujang Glazed  
  - Beef & Chicken Meatballs  
  - Pizza Slice Chicken Tomatillo  
  - Lemon Chicken Rice Soup  
@@ -61,12 +65,9 @@ In name:
 In name:   
  - Appetizer -  Pakoras Vegetable (Veg)  
   
-**steak**  
-In name:   
- - Country Fried Steak  
-  
 **Shrimp**  
 In name:   
+ - Redhook Ale Breaded Shrimp  
  - Shrimp Curry  
   
 **fish**  
@@ -87,7 +88,6 @@ In name:
   
 In description:   
  - German Plate (Pork)  
- - Country Fried Steak  
   
 **pork**  
 In name:   
