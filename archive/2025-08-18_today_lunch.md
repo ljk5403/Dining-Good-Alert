@@ -1,85 +1,80 @@
-# 2025-08-18 lunch  
+# 2025-08-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-18 20:26:24  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-18)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-08-18)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-08-18)  
+Updated at: 2025-08-19 01:29:09  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-19)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-08-19)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-08-19)  
 **steak**  
 In name:   
- - Country Fried Steak  
+ - Spicy Steak Fajita  
   
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad  
+In description:   
+ - Pizza Slice Italian Beef  
   
 **beef**  
 In name:   
+ - Beef Tri Tip Carved w/ Chimichurri  
  - Beef & Chicken Meatballs  
+ - Pizza Slice Italian Beef  
  - Beef Taco Meat  
   
 In description:   
- - Country Fried Steak  
- - Gluten Free Pepperoni Pizza Quarter  
- - Vegan Taco Filling  
+ - Pizza Slice Deluxe (Pork)  
+ - Pork Bratwurst Sandwich  
+ - Spicy Steak Fajita  
   
 **pork**  
 In name:   
- - Herb Crusted Pork Loin  
- - Italian Pork Sausage  
-  
-In description:   
- - Pizza Slice Sausage  
+ - Pizza Slice Deluxe (Pork)  
+ - Pork Sausage Country Gravy w/ Biscuit  
+ - Pork Bratwurst Sandwich  
+ - Pork Adobo  
   
 **chicken**  
 In name:   
- - Plant-Based Chicken & Gravy (VN)  
+ - Chicken Breast w/Red Pepper Cream  
  - Beef & Chicken Meatballs  
- - Pizza Slice Chicken Tomatillo  
- - Chicken Tenders Breaded  
- - Plant-Based Chicken Nuggets (6)  
- - General Tso's Chicken  
- - Chicken Tinga  
- - Lemon Chicken Rice Soup  
+ - Pulled Chicken Thigh  
+ - Sausage Links Chicken (halal) (AYCTE)  
+ - Plant Based Protein Chicken Taco Filling  
+ - Cream of Chicken & Wild Rice Soup  
   
 In description:   
- - Gluten Free Pepperoni Pizza Quarter  
+ - Pizza Slice Deluxe (Pork)  
+ - Gordon's Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-08-18)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-08-19)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
   
-**Pakoras**  
+**Tuna**  
 In name:   
- - Appetizer -  Pakoras Vegetable (Veg)  
-  
-**Shrimp**  
-In name:   
- - Redhook Ale Breaded Shrimp  
-  
-**curry**  
-In name:   
- - Curry Potatoes  
-  
-In description:   
- - Tofu & Vegetable Tikka Masala  
+ - Tuna Salad  
   
 **beef**  
 In name:   
- - Beef Goulash w/Egg Noodles  
- - Beef Mediterranean  
+ - Beef Pita Kabaub  
+ - Beef Taco Meat  
+ - Mediterranean Beef  
+  
+In description:   
+ - Grilled Cheeseburger  
   
 **pork**  
 In name:   
- - Italian Pork Sausage  
+ - Pork Carnita  
   
 **chicken**  
 In name:   
- - Chicken Fajita Torta  
- - Lemon Pepper Chicken Salad  
- - Chicken Chili  
- - Diced Chicken  
+ - Chicken Breast w/Red Pepper Cream  
+ - Italian Chicken  
+ - Cream of Chicken & Wild Rice Soup  
+ - Mediterranean Chicken  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-08-18)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-08-18)  
+In description:   
+ - Station Recipe - Great Greens - FLM  
+  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-08-19)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-08-19)  
   
