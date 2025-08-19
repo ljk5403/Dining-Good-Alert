@@ -1,107 +1,86 @@
-# 2025-08-18 dinner  
+# 2025-08-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-18 20:26:28  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-18)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-08-18)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-08-18)  
-**watermelon**  
+Updated at: 2025-08-19 01:29:11  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-19)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-08-19)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-08-19)  
+**steak**  
 In name:   
- - Watermelon Slices  
-  
-**drumstick**  
-In name:   
- - Chicken Drumstick Gochujang Glazed  
-  
-**Chicken Drumstick Gochujang Glazed**  
-In name:   
- - Chicken Drumstick Gochujang Glazed  
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad  
-  
-**fish**  
-In name:   
+ - Beef Steak Fajita Plate w/Rice & Beans  
   
 In description:   
- - Stir Fry Beef with Oyster Sauce  
+ - Pizza Slice Italian Beef  
   
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Stir Fry Beef with Oyster Sauce  
+ - Pizza Slice Italian Beef  
+ - Beef Steak Fajita Plate w/Rice & Beans  
   
 In description:   
- - Gluten Free Pepperoni Pizza Quarter  
- - Mushroom Swiss Burger  
+ - Pizza Slice Deluxe (Pork)  
   
 **pork**  
 In name:   
- - Apricot Glazed Pork  
- - Italian Pork Sausage  
- - Ancho Pork Rice Bowl  
-  
-In description:   
- - Pizza Slice Sausage  
+ - BBQ Pork Chop  
+ - Pizza Slice Deluxe (Pork)  
   
 **chicken**  
 In name:   
- - Chicken Drumstick Gochujang Glazed  
+ - Baked BBQ Chicken  
  - Beef & Chicken Meatballs  
- - Pizza Slice Chicken Tomatillo  
- - Lemon Chicken Rice Soup  
+ - Pulled Chicken Thigh  
+ - Bone-in Greek Chicken  
+ - Chicken Fajitas w/Rice & Beans  
+ - Cream of Chicken & Wild Rice Soup  
   
 In description:   
- - Gluten Free Pepperoni Pizza Quarter  
- - Ancho Pork Rice Bowl  
+ - Pizza Slice Deluxe (Pork)  
  - Gordon's Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-08-18)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-08-19)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
-  
-**Pakoras**  
-In name:   
- - Appetizer -  Pakoras Vegetable (Veg)  
   
 **Shrimp**  
 In name:   
- - Redhook Ale Breaded Shrimp  
- - Shrimp Curry  
+ - Shrimp & Avocado Tostada  
+  
+**Salmon**  
+In name:   
+ - Smoked Salmon  
+  
+**Tuna**  
+In name:   
+ - Tuna Salad  
   
 **fish**  
 In name:   
- - Vegan Fish Sandwich  
-  
-**curry**  
-In name:   
- - Shrimp Curry  
- - Curry Potatoes  
   
 In description:   
- - Pakora Sauce  
+ - Smoked Salmon  
+  
+**lamb**  
+In name:   
+ - Lamb & Beef Gyro Sandwich  
   
 **beef**  
 In name:   
- - Barbacoa Beef w/Mango Habanero Sandwich  
+ - Lamb & Beef Gyro Sandwich  
   
 In description:   
- - German Plate (Pork)  
-  
-**pork**  
-In name:   
- - Italian Pork Sausage  
- - German Plate (Pork)  
+ - Vegan Tostadas  
   
 **chicken**  
 In name:   
- - Lemon Pepper Chicken Salad  
- - Lemon Chicken Rice Soup  
+ - Italian Chicken  
+ - Chicken Creole  
+ - Cream of Chicken & Wild Rice Soup  
   
 In description:   
  - Station Recipe - Great Greens - FLM  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-08-18)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-08-18)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-08-19)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-08-19)  
   
