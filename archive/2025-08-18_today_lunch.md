@@ -1,6 +1,6 @@
 # 2025-08-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-19 01:29:09  
+Updated at: 2025-08-19 09:18:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-19)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-08-19)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-08-19)  
@@ -48,10 +48,6 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**Tuna**  
-In name:   
- - Tuna Salad  
-  
 **beef**  
 In name:   
  - Beef Pita Kabaub  
@@ -69,6 +65,7 @@ In name:
 In name:   
  - Chicken Breast w/Red Pepper Cream  
  - Italian Chicken  
+ - Lemon Pepper Chicken Salad  
  - Cream of Chicken & Wild Rice Soup  
  - Mediterranean Chicken  
   
