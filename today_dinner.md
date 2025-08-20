@@ -1,6 +1,6 @@
 # 2025-08-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-20 12:16:22  
+Updated at: 2025-08-20 13:27:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-20)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-08-20)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-08-20)  
@@ -23,7 +23,7 @@ In description:
  - Italian Meat Sauce  
  - Pizza Slice Reuben  
  - Vegetarian Hot Tamale Pie  
- - Blackened Hamburger  
+ - Blackened Blended Hamburger  
   
 **pork**  
 In name:   
@@ -64,7 +64,7 @@ In name:
  - Beef & Bean Chili  
   
 In description:   
- - Grilled Cheeseburger  
+ - Grilled Blended Burger w/ Cheese  
  - Vegan Sloppy Joe  
  - Italian Meat Sauce  
   
