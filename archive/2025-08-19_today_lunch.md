@@ -1,6 +1,6 @@
 # 2025-08-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-20 12:16:20  
+Updated at: 2025-08-20 13:27:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-20)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-08-20)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-08-20)  
@@ -32,7 +32,6 @@ In name:
 In name:   
  - Plant-Based Chicken Lo Mein  
  - Chicken Gravy  
- - Brazilian Chicken w/ Salsa Vinaigrette  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Sweet & Spicy Orange Chicken  
