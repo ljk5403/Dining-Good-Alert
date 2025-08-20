@@ -1,73 +1,89 @@
-# 2025-08-21 lunch  
+# 2025-08-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-19 20:24:55  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-21)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-08-21)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-08-21)  
+Updated at: 2025-08-20 01:29:09  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-22)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-08-22)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-08-22)  
+**watermelon**  
+In name:   
+ - Watermelon Slices  
+  
+**Tandoori Chicken**  
+In name:   
+ - Tandoori Chicken  
+  
+**clam**  
+In name:   
+ - Clam Chowder (Pork)  
+  
 **Shrimp**  
 In name:   
- - Shrimp Curry  
+ - Sauteed Shrimp  
+  
+**Cod**  
+In name:   
+ - Battered Cod  
+ - Vegan Cod Battered (2 pc)  
   
 In description:   
- - Portabella Mushroom Bulgogi Tacos  
- - Beef Bulgogi Tacos  
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad  
+ - Clam Chowder (Pork)  
   
 **fish**  
 In name:   
   
 In description:   
- - Portabella Mushroom Bulgogi Tacos  
- - Beef Bulgogi Tacos  
+ - Vegan Cod Battered (2 pc)  
   
 **curry**  
 In name:   
- - Shrimp Curry  
- - Thai Veggie Meatballs w/ Green Curry  
-  
-In description:   
- - Madras Chicken w/Basmati Rice  
+ - Lentil Chickpea Red Curry  
   
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Beef Bulgogi Tacos  
+ - Beef Barbacoa  
  - Beef Taco Meat  
-  
-In description:   
- - Grilled Cheeseburger  
   
 **pork**  
 In name:   
- - Pork Sausage Country Gravy w/ Biscuit  
- - Pork Carnita  
-  
-In description:   
- - Pizza Breakfast Meat w/Bacon  
+ - Tavern Style Sausage Pizza (Pork)  
+ - Clam Chowder (Pork)  
   
 **chicken**  
 In name:   
- - Madras Chicken w/Basmati Rice  
+ - Chicken Piece Seasoned Baked  
  - Beef & Chicken Meatballs  
- - Mediterranean Chicken  
- - Pizza Slice Chicken Broccoli Alfredo  
- - Sausage Links Chicken (halal) (AYCTE)  
- - Chicken Noodle Soup  
+ - Crispy Chicken Sandwich  
+ - Tandoori Chicken  
   
 In description:   
  - Gordon's Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-08-21)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-08-22)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
   
-**Poke Bar**  
+**clam**  
 In name:   
- - Build Your Own Poke Bar  
+ - Clam Chowder (Pork)  
+  
+**Shrimp**  
+In name:   
+ - Sauteed Shrimp  
+  
+In description:   
+ - BYO Bar - Four Lakes Bulgogi  
+  
+**Cod**  
+In name:   
+  
+In description:   
+ - Clam Chowder (Pork)  
+  
+**Salmon**  
+In name:   
+ - Blackened Salmon  
   
 **Tuna**  
 In name:   
@@ -77,34 +93,27 @@ In name:
 In name:   
   
 In description:   
- - Thai BBQ Pork Ribs  
- - Beef Masaman Thai Curry  
-  
-**curry**  
-In name:   
- - Beef Masaman Thai Curry  
+ - Blackened Salmon  
+ - BYO Bar - Four Lakes Bulgogi  
   
 **beef**  
 In name:   
- - Beef Masaman Thai Curry  
- - Beef Taco Meat  
+ - Bulgogi Beef  
   
 **pork**  
 In name:   
- - Thai BBQ Pork Ribs  
-  
-In description:   
- - Andouille Sausage  
+ - Hot Turkey & BLT (Pork) Croissant  
+ - Clam Chowder (Pork)  
   
 **chicken**  
 In name:   
- - Plant-Based Chicken Tenders  
- - Chicken Tinga  
- - Chicken Noodle Soup  
+ - Chicken Quesadilla  
+ - Pizza Slice BBQ Chicken & Bacon  
+ - Bulgogi Chicken  
   
 In description:   
  - Station Recipe - Great Greens - FLM  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-08-21)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-08-21)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-08-22)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-08-22)  
   

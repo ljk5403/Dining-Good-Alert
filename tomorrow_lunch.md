@@ -1,79 +1,110 @@
-# 2025-08-20 lunch  
+# 2025-08-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-19 20:24:50  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-20)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-08-20)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-08-20)  
-**Tilapia**  
+Updated at: 2025-08-20 01:29:00  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-21)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-08-21)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-08-21)  
+**Shrimp**  
 In name:   
- - Blackened Tilapia  
+ - Shrimp Curry  
+  
+In description:   
+ - Portabella Mushroom Bulgogi Tacos  
+ - Beef Bulgogi Tacos  
+  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Portabella Mushroom Bulgogi Tacos  
+ - Beef Bulgogi Tacos  
+  
+**curry**  
+In name:   
+ - Shrimp Curry  
+ - Thai Veggie Meatballs w/ Green Curry  
+  
+In description:   
+ - Madras Chicken w/Basmati Rice  
   
 **beef**  
 In name:   
- - Beef Harissa  
  - Beef & Chicken Meatballs  
+ - Beef Bulgogi Tacos  
  - Beef Taco Meat  
- - Beef & Bean Chili  
   
 In description:   
- - Italian Meat Sauce  
- - Pizza Slice Reuben  
- - Vegan Taco Filling  
+ - Grilled Cheeseburger  
   
 **pork**  
 In name:   
- - Italian Pork Sausage  
- - Gluten Free Pork Sausage Pizza Quarter  
+ - Pork Sausage Country Gravy w/ Biscuit  
+ - Pork Carnita  
+  
+In description:   
+ - Pizza Breakfast Meat w/Bacon  
   
 **chicken**  
 In name:   
- - Plant-Based Chicken Lo Mein  
- - Chicken Gravy  
+ - Madras Chicken w/Basmati Rice  
  - Beef & Chicken Meatballs  
- - Lemon Pepper Chicken Salad  
- - Sweet & Spicy Orange Chicken  
- - Plant Based Sweet & Sour Chicken  
+ - Mediterranean Chicken  
+ - Pizza Slice Chicken Broccoli Alfredo  
+ - Sausage Links Chicken (halal) (AYCTE)  
+ - Chicken Noodle Soup  
   
 In description:   
  - Gordon's Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-08-20)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-08-21)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
   
-**steak**  
+**Poke Bar**  
 In name:   
- - Ham Steak  
+ - Build Your Own Poke Bar  
   
 **Tuna**  
 In name:   
  - Tuna Salad  
   
-**beef**  
+**fish**  
 In name:   
- - Beef & Chicken Meatballs  
- - Beef & Bean Chili  
   
 In description:   
- - Italian Meat Sauce  
+ - Thai BBQ Pork Ribs  
+ - Beef Masaman Thai Curry  
+  
+**curry**  
+In name:   
+ - Beef Masaman Thai Curry  
+  
+**beef**  
+In name:   
+ - Beef Masaman Thai Curry  
+ - Beef Taco Meat  
   
 **pork**  
 In name:   
- - Cuban Pork Sandwich  
+ - Thai BBQ Pork Ribs  
   
 In description:   
- - Ham Steak  
+ - Andouille Sausage  
   
 **chicken**  
 In name:   
- - Beef & Chicken Meatballs  
- - Chicken Wings Boneless Plain  
- - Plant-Based Chicken Nuggets (6)  
+ - Plant-Based Chicken Tenders  
+ - Chicken Tinga  
+ - Chicken Noodle Soup  
   
 In description:   
  - Station Recipe - Great Greens - FLM  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-08-20)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-08-20)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-08-21)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-08-21)  
   

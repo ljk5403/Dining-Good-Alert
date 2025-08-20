@@ -1,86 +1,95 @@
-# 2025-08-20 dinner  
+# 2025-08-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-19 20:24:53  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-20)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-08-20)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-08-20)  
-**Beef Alicha**  
+Updated at: 2025-08-20 01:29:05  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-21)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-08-21)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-08-21)  
+**Tandoori Chicken**  
 In name:   
- - Beef Alicha  
+ - Grilled Tandoori Chicken Sandwich  
   
-**Cod**  
+**Shrimp**  
 In name:   
- - Caribbean Cod  
+ - Shrimp Teriyaki Stir Fry  
+  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad  
   
 **beef**  
 In name:   
- - Beef Alicha  
- - Plant-Based Beef Bean & Carrot Stir Fry  
  - Beef & Chicken Meatballs  
- - Beef & Bean Chili  
+ - Beef Enchilada Bake  
   
 In description:   
- - Italian Meat Sauce  
- - Pizza Slice Reuben  
- - Vegetarian Hot Tamale Pie  
- - Blackened Hamburger  
+ - Chicago-Style Hot Dog  
   
 **pork**  
 In name:   
- - Italian Pork Sausage  
- - Gluten Free Pork Sausage Pizza Quarter  
- - Pork Tamale with Oaxaca  
+ - Herb Crusted Pork Loin  
   
 In description:   
- - Huevos Rancheros  
+ - Pizza Breakfast Meat w/Bacon  
   
 **chicken**  
 In name:   
+ - Blackened Chicken  
  - Beef & Chicken Meatballs  
- - Lemon Pepper Chicken Salad  
- - General Tso's Chicken  
+ - Mediterranean Chicken  
+ - Pizza Slice Chicken Broccoli Alfredo  
+ - Chicken Noodle Soup  
+ - Grilled Tandoori Chicken Sandwich  
   
 In description:   
- - Pork Tamale with Oaxaca  
  - Gordon's Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-08-20)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-08-21)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
+  
+**Cod**  
+In name:   
+  
+In description:   
+ - Fish Tacos  
   
 **Tuna**  
 In name:   
  - Tuna Salad  
   
+**fish**  
+In name:   
+ - Fish Tacos  
+ - Vegetarian "Fish" Tacos  
+  
 **curry**  
 In name:   
- - Thai Veggie Meatballs w/ Green Curry  
+ - Curry Cauliflower & Butternut Squash  
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs  
- - Beef Sirloin Tips  
- - Beef & Bean Chili  
+ - Beef Meatloaf  
   
 In description:   
- - Grilled Cheeseburger  
- - Vegan Sloppy Joe  
- - Italian Meat Sauce  
+ - Pork Bratwurst Sandwich  
   
 **pork**  
 In name:   
- - BBQ Pork Chop  
+ - Pork Bratwurst Sandwich  
+  
+In description:   
+ - Andouille Sausage  
   
 **chicken**  
 In name:   
- - Beef & Chicken Meatballs  
- - Chicken Wings Boneless Plain  
- - Plant-Based Chicken Nuggets (6)  
+ - Baked BBQ Chicken Quarters  
+ - Chicken Noodle Soup  
   
 In description:   
+ - Collard Greens w/Bacon  
  - Station Recipe - Great Greens - FLM  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-08-20)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-08-20)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-08-21)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-08-21)  
   
