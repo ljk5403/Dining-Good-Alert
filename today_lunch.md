@@ -1,12 +1,16 @@
 # 2025-08-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-20 01:28:52  
+Updated at: 2025-08-20 09:19:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-20)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-08-20)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-08-20)  
-**Tilapia**  
+**catfish**  
 In name:   
- - Blackened Tilapia  
+ - Blackened Catfish  
+  
+**fish**  
+In name:   
+ - Blackened Catfish  
   
 **beef**  
 In name:   
@@ -18,7 +22,6 @@ In name:
 In description:   
  - Italian Meat Sauce  
  - Pizza Slice Reuben  
- - Vegan Taco Filling  
   
 **pork**  
 In name:   
@@ -34,9 +37,6 @@ In name:
  - Sweet & Spicy Orange Chicken  
  - Plant Based Sweet & Sour Chicken  
   
-In description:   
- - Gordon's Great Greens  
-  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-08-20)  
 **watermelon**  
 In name:   
@@ -45,10 +45,6 @@ In name:
 **steak**  
 In name:   
  - Ham Steak  
-  
-**Tuna**  
-In name:   
- - Tuna Salad  
   
 **beef**  
 In name:   
@@ -68,6 +64,7 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
+ - Lemon Pepper Chicken Salad  
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
   
