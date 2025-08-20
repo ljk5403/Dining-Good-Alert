@@ -1,6 +1,6 @@
 # 2025-08-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-20 13:27:24  
+Updated at: 2025-08-20 15:20:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-20)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-08-20)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-08-20)  
@@ -30,9 +30,8 @@ In name:
  - Italian Pork Sausage  
  - Gluten Free Pork Sausage Pizza Quarter  
  - Pork Tamale with Oaxaca  
-  
-In description:   
- - Huevos Rancheros  
+ - Pork Sweet Longanisa  
+ - Lumpianisa Pork  
   
 **chicken**  
 In name:   
@@ -48,10 +47,6 @@ In description:
 **watermelon**  
 In name:   
  - Watermelon Slices  
-  
-**Tuna**  
-In name:   
- - Tuna Salad  
   
 **curry**  
 In name:   
@@ -74,6 +69,7 @@ In name:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Beef & Chicken Meatballs  
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
