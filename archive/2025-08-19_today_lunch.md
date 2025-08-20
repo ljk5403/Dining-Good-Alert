@@ -1,6 +1,6 @@
 # 2025-08-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-20 10:19:50  
+Updated at: 2025-08-20 11:23:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-20)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-08-20)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-08-20)  
@@ -22,11 +22,11 @@ In name:
 In description:   
  - Italian Meat Sauce  
  - Pizza Slice Reuben  
+ - Gluten Free Pepperoni Pizza Quarter  
   
 **pork**  
 In name:   
  - Italian Pork Sausage  
- - Gluten Free Pork Sausage Pizza Quarter  
   
 **chicken**  
 In name:   
@@ -37,6 +37,9 @@ In name:
  - Lemon Pepper Chicken Salad  
  - Sweet & Spicy Orange Chicken  
  - Plant Based Sweet & Sour Chicken  
+  
+In description:   
+ - Gluten Free Pepperoni Pizza Quarter  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-08-20)  
 **watermelon**  
