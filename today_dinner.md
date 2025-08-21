@@ -1,12 +1,18 @@
 # 2025-08-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-20 18:17:03  
+Updated at: 2025-08-20 20:23:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-20)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-08-20)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-08-20)  
 **Beef Alicha**  
 In name:   
  - Beef Alicha  
+  
+**steak**  
+In name:   
+  
+In description:   
+ - Italian Beef Pizza Quarter  
   
 **Cod**  
 In name:   
@@ -17,6 +23,7 @@ In name:
  - Beef Alicha  
  - Plant-Based Beef Bean & Carrot Stir Fry  
  - Beef & Chicken Meatballs  
+ - Italian Beef Pizza Quarter  
  - Beef & Bean Chili  
   
 In description:   
