@@ -1,6 +1,6 @@
 # 2025-08-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-21 13:26:36  
+Updated at: 2025-08-21 15:19:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-21)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-08-21)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-08-21)  
@@ -54,14 +54,13 @@ In name:
 In description:   
  - Fish Tacos  
   
-**Tuna**  
-In name:   
- - Tuna Salad  
-  
 **fish**  
 In name:   
  - Fish Tacos  
  - Vegetarian "Fish" Tacos  
+  
+In description:   
+ - Thai BBQ Pork Ribs  
   
 **curry**  
 In name:   
@@ -78,6 +77,7 @@ In description:
 **pork**  
 In name:   
  - Pork Bratwurst Sandwich  
+ - Thai BBQ Pork Ribs  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
@@ -85,6 +85,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Baked BBQ Chicken Quarters  
  - Chicken Noodle Soup  
   
