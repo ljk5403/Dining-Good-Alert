@@ -1,6 +1,6 @@
 # 2025-08-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-21 01:37:19  
+Updated at: 2025-08-21 09:18:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-21)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-08-21)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-08-21)  
@@ -57,9 +57,6 @@ In name:
  - Sausage Links Chicken (halal) (AYCTE)  
  - Chicken Noodle Soup  
   
-In description:   
- - Gordon's Great Greens  
-  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-08-21)  
 **watermelon**  
 In name:   
@@ -68,10 +65,6 @@ In name:
 **Poke Bar**  
 In name:   
  - Build Your Own Poke Bar  
-  
-**Tuna**  
-In name:   
- - Tuna Salad  
   
 **fish**  
 In name:   
@@ -103,6 +96,7 @@ In description:
 **chicken**  
 In name:   
  - Plant-Based Chicken Tenders  
+ - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
  - Chicken Noodle Soup  
   
