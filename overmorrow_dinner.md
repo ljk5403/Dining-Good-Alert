@@ -1,128 +1,82 @@
-# 2025-08-22 dinner  
+# 2025-08-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-20 20:23:55  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-22)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-08-22)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-08-22)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
-**corn bake**  
-In name:   
- - Sweet Corn Bake (Veg)  
-  
-**clam**  
-In name:   
- - Clam Chowder (Pork)  
-  
+Updated at: 2025-08-21 01:37:26  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-23)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-08-23)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-08-23)  
 **Shrimp**  
 In name:   
- - Sauteed Shrimp  
-  
-**Cod**  
-In name:   
-  
-In description:   
- - Clam Chowder (Pork)  
- - Petite Fish Sandwich  
-  
-**Tilapia**  
-In name:   
- - Baked Tilapia w/ Tomato Tapenade  
-  
-**fish**  
-In name:   
- - Petite Fish Sandwich  
- - Vegan Fish Sandwich  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Tikka Masala Chicken  
- - Tofu & Vegetable Tikka Masala  
+ - Shrimp Creole  
   
 **beef**  
 In name:   
- - Texas BBQ Sliced Beef Brisket  
  - Beef & Chicken Meatballs  
- - Shredded Beef Flauta  
+ - Beef Taco Meat  
   
 In description:   
- - Kielbasa with Pierogis  
+ - Italian Meat Sauce  
+ - Pepperoni Pizza Slice  
+ - Gluten Free Pepperoni Pizza Quarter  
+ - Chicago-Style Hot Dog  
   
 **pork**  
 In name:   
- - Tavern Style Sausage Pizza (Pork)  
- - Clam Chowder (Pork)  
+ - Italian Pork Sausage  
   
 In description:   
- - Kielbasa with Pierogis  
+ - Chicken Sausage Gumbo  
+ - Pizza Slice Sausage  
+ - Kale, Sausage & Potato Soup  
   
 **chicken**  
 In name:   
+ - Chicken Sausage Gumbo  
  - Beef & Chicken Meatballs  
- - Tikka Masala Chicken  
- - Chicken and Cheese Flauta  
+ - Lemon Pepper Chicken Salad  
+ - Chicken Tinga  
+ - Sausage Links Chicken (halal) (AYCTE)  
   
 In description:   
- - Shredded Beef Flauta  
+ - Pepperoni Pizza Slice  
+ - Gluten Free Pepperoni Pizza Quarter  
  - Gordon's Great Greens  
+ - Kale, Sausage & Potato Soup  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-08-22)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-08-23)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
-  
-**clam**  
-In name:   
- - Clam Chowder (Pork)  
-  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp  
- - Blackened Shrimp  
-  
-**Cod**  
-In name:   
-  
-In description:   
- - Clam Chowder (Pork)  
   
 **Tuna**  
 In name:   
  - Tuna Salad  
   
-**lamb**  
-In name:   
- - Lamb Vindaloo  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Lamb Vindaloo  
-  
 **beef**  
 In name:   
+ - Beef Taco Meat  
   
 In description:   
- - Meat Lovers w/ Bacon (Pork) Pizza Slice  
+ - Station Recipe - Deli  AYCTE FLM  
   
 **pork**  
 In name:   
- - New Orleans Turkey Melt w/ Pork  
- - Meat Lovers w/ Bacon (Pork) Pizza Slice  
- - Clam Chowder (Pork)  
+  
+In description:   
+ - Station Recipe - Deli  AYCTE FLM  
+ - Kale, Sausage & Potato Soup  
   
 **chicken**  
 In name:   
+ - Chicken Tenders Breaded  
+ - Plant-Based Chicken Nuggets (6)  
+ - Giardiniera Chicken  
+ - General Tso's Chicken  
+ - Taco Chicken  
   
 In description:   
- - Meat Lovers w/ Bacon (Pork) Pizza Slice  
  - Station Recipe - Great Greens - FLM  
+ - Kale, Sausage & Potato Soup  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-08-22)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-08-22)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-08-23)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-08-23)  
   
