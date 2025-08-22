@@ -1,124 +1,89 @@
-# 2025-08-22 lunch  
+# 2025-08-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-21 20:24:32  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-22)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-08-22)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-08-22)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
-**Tandoori Chicken**  
-In name:   
- - Tandoori Chicken  
-  
-**clam**  
-In name:   
- - Clam Chowder (Pork)  
-  
+Updated at: 2025-08-22 01:28:25  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-23)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-08-23)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-08-23)  
 **Shrimp**  
 In name:   
- - Sauteed Shrimp  
+ - Coconut Shrimp  
   
-**Cod**  
+**lamb**  
 In name:   
- - Battered Cod  
- - Vegan Cod Battered (2 pc)  
-  
-In description:   
- - Clam Chowder (Pork)  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Vegan Cod Battered (2 pc)  
+ - Lamb & Beef Gyro Sandwich  
   
 **curry**  
 In name:   
- - Lentil Chickpea Red Curry  
+ - Beef Curry Stew  
   
 **beef**  
 In name:   
+ - Beef Curry Stew  
  - Beef & Chicken Meatballs  
- - Beef Barbacoa  
+ - Lamb & Beef Gyro Sandwich  
  - Beef Taco Meat  
+  
+In description:   
+ - Italian Meat Sauce  
+ - Pepperoni Pizza Slice  
+ - Gluten Free Pepperoni Pizza Quarter  
   
 **pork**  
 In name:   
- - Tavern Style Sausage Pizza (Pork)  
- - Clam Chowder (Pork)  
+ - Italian Pork Sausage  
+  
+In description:   
+ - Pizza Slice Sausage  
+ - Kale, Sausage & Potato Soup  
   
 **chicken**  
 In name:   
- - Chicken Piece Seasoned Baked  
  - Beef & Chicken Meatballs  
- - Crispy Chicken Sandwich  
- - Tandoori Chicken  
+ - Lemon Pepper Chicken Salad  
+ - Sausage Links Chicken (halal) (AYCTE)  
+ - Chicken Tinga  
   
 In description:   
+ - Pepperoni Pizza Slice  
+ - Gluten Free Pepperoni Pizza Quarter  
  - Gordon's Great Greens  
+ - Kale, Sausage & Potato Soup  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-08-22)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-08-23)  
 **watermelon**  
 In name:   
  - Watermelon Slices  
-  
-**clam**  
-In name:   
- - Clam Chowder (Pork)  
-  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp  
-  
-In description:   
- - BYO Bar - Four Lakes Bulgogi  
-  
-**Cod**  
-In name:   
-  
-In description:   
- - Clam Chowder (Pork)  
-  
-**Salmon**  
-In name:   
- - Blackened Salmon  
   
 **Tuna**  
 In name:   
  - Tuna Salad  
   
-**fish**  
-In name:   
-  
-In description:   
- - BYO Bar - Four Lakes Bulgogi  
-  
 **beef**  
 In name:   
- - Bulgogi Beef  
+ - Beef Taco Meat  
   
 In description:   
+ - Sliced Kielbasa (Pork)  
+ - Grilled Blended Burger w/ Cheese  
  - Station Recipe - Deli  AYCTE FLM  
   
 **pork**  
 In name:   
- - Hot Turkey & BLT (Pork) Croissant  
- - Clam Chowder (Pork)  
+ - Sliced Kielbasa (Pork)  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
+ - Kale, Sausage & Potato Soup  
   
 **chicken**  
 In name:   
- - Chicken Quesadilla  
- - Pizza Slice BBQ Chicken & Bacon  
- - Bulgogi Chicken  
+ - Giardiniera Chicken  
+ - Taco Chicken  
   
 In description:   
  - Station Recipe - Great Greens - FLM  
+ - Kale, Sausage & Potato Soup  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-08-22)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-08-22)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-08-23)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-08-23)  
   

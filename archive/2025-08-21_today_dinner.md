@@ -1,0 +1,97 @@
+# 2025-08-21 dinner  
+*THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
+Updated at: 2025-08-21 20:24:30  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-21)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-08-21)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-08-21)  
+**Tandoori Chicken**  
+In name:   
+ - Grilled Tandoori Chicken Sandwich  
+  
+**Shrimp**  
+In name:   
+ - Shrimp Teriyaki Stir Fry  
+  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad  
+  
+**beef**  
+In name:   
+ - Beef & Chicken Meatballs  
+ - Beef Enchilada Bake  
+  
+In description:   
+ - Chicago-Style Hot Dog  
+  
+**pork**  
+In name:   
+ - Herb Crusted Pork Loin  
+  
+In description:   
+ - Pizza Breakfast Meat w/Bacon  
+  
+**chicken**  
+In name:   
+ - Blackened Chicken  
+ - Beef & Chicken Meatballs  
+ - Mediterranean Chicken  
+ - Chicken Noodle Soup  
+ - Grilled Tandoori Chicken Sandwich  
+  
+In description:   
+ - Gordon's Great Greens  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-08-21)  
+**watermelon**  
+In name:   
+ - Watermelon Slices  
+  
+**Cod**  
+In name:   
+  
+In description:   
+ - Fish Tacos  
+  
+**fish**  
+In name:   
+ - Fish Tacos  
+ - Vegetarian "Fish" Tacos  
+  
+In description:   
+ - Thai BBQ Pork Ribs  
+  
+**curry**  
+In name:   
+ - Curry Cauliflower & Butternut Squash  
+  
+**beef**  
+In name:   
+ - Beef Meatloaf  
+  
+In description:   
+ - Station Recipe - Deli  AYCTE FLM  
+ - Pork Bratwurst Sandwich  
+  
+**pork**  
+In name:   
+ - Pork Bratwurst Sandwich  
+ - Thai BBQ Pork Ribs  
+  
+In description:   
+ - Station Recipe - Deli  AYCTE FLM  
+ - Andouille Sausage  
+  
+**chicken**  
+In name:   
+ - Lemon Pepper Chicken Salad  
+ - Baked BBQ Chicken Quarters  
+ - Chicken Noodle Soup  
+  
+In description:   
+ - Collard Greens w/Bacon  
+ - Station Recipe - Great Greens - FLM  
+  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-08-21)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-08-21)  
+  
