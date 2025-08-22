@@ -1,6 +1,6 @@
 # 2025-08-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-22 09:18:00  
+Updated at: 2025-08-22 10:18:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-22)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-08-22)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-08-22)  
@@ -72,9 +72,6 @@ In name:
 In name:   
  - Sauteed Shrimp  
   
-In description:   
- - BYO Bar - Four Lakes Bulgogi  
-  
 **Cod**  
 In name:   
   
@@ -85,19 +82,8 @@ In description:
 In name:   
  - Blackened Salmon  
   
-**Tuna**  
-In name:   
- - Tuna Salad  
-  
-**fish**  
-In name:   
-  
-In description:   
- - BYO Bar - Four Lakes Bulgogi  
-  
 **beef**  
 In name:   
- - Bulgogi Beef  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
@@ -113,8 +99,8 @@ In description:
 **chicken**  
 In name:   
  - Chicken Quesadilla  
+ - Lemon Pepper Chicken Salad  
  - Pizza Slice BBQ Chicken & Bacon  
- - Bulgogi Chicken  
   
 In description:   
  - Station Recipe - Great Greens - FLM  
