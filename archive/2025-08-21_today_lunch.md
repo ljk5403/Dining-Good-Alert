@@ -1,6 +1,6 @@
 # 2025-08-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-22 12:16:41  
+Updated at: 2025-08-22 13:26:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-22)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-08-22)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-08-22)  
@@ -46,12 +46,12 @@ In name:
   
 **pork**  
 In name:   
+ - Herb Crusted Pork Loin  
  - Tavern Style Sausage Pizza (Pork)  
  - Clam Chowder (Pork)  
   
 **chicken**  
 In name:   
- - Chicken Piece Seasoned Baked  
  - Beef & Chicken Meatballs  
  - Crispy Chicken Sandwich  
  - Tandoori Chicken  
