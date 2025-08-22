@@ -1,6 +1,6 @@
 # 2025-08-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-22 13:26:16  
+Updated at: 2025-08-22 15:20:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-22)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-08-22)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-08-22)  
@@ -40,7 +40,7 @@ In name:
 In name:   
   
 In description:   
- - Tikka Masala Chicken  
+ - Madras Chicken w/basmati rice  
  - Tofu & Vegetable Tikka Masala  
   
 **beef**  
@@ -50,20 +50,18 @@ In name:
  - Shredded Beef Flauta  
   
 In description:   
- - Kielbasa with Pierogis  
+ - Sliced Kielbasa (Pork)  
   
 **pork**  
 In name:   
  - Tavern Style Sausage Pizza (Pork)  
  - Clam Chowder (Pork)  
-  
-In description:   
- - Kielbasa with Pierogis  
+ - Sliced Kielbasa (Pork)  
   
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
- - Tikka Masala Chicken  
+ - Madras Chicken w/basmati rice  
  - Chicken and Cheese Flauta  
   
 In description:   
@@ -89,10 +87,6 @@ In name:
   
 In description:   
  - Clam Chowder (Pork)  
-  
-**Tuna**  
-In name:   
- - Tuna Salad  
   
 **lamb**  
 In name:   
@@ -122,6 +116,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice  
