@@ -1,6 +1,6 @@
 # 2025-08-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-23 13:23:12  
+Updated at: 2025-08-23 15:18:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-23)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-08-23)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-08-23)  
@@ -25,7 +25,6 @@ In name:
   
 In description:   
  - Chicken Sausage Gumbo  
- - Pizza Slice Sausage  
  - Kale, Sausage & Potato Soup  
   
 **chicken**  
@@ -34,7 +33,6 @@ In name:
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
- - Sausage Links Chicken (halal) (AYCTE)  
   
 In description:   
  - Pepperoni Pizza Slice  

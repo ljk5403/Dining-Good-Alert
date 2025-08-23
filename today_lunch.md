@@ -1,6 +1,6 @@
 # 2025-08-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-23 15:18:20  
+Updated at: 2025-08-23 16:15:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-23)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-08-23)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-08-23)  
@@ -78,6 +78,7 @@ In description:
 In name:   
  - Giardiniera Chicken  
  - Taco Chicken  
+ - Chicken Salad  
   
 In description:   
  - Station Recipe - Great Greens - FLM  
