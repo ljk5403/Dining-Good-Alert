@@ -1,6 +1,6 @@
 # 2025-08-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-22 18:16:53  
+Updated at: 2025-08-22 20:21:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-22)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-08-22)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-08-22)  
@@ -11,6 +11,10 @@ In name:
 **corn bake**  
 In name:   
  - Sweet Corn Bake (Veg)  
+  
+**drumstick**  
+In name:   
+ - Chicken Drumstick Teriyaki Glazed  
   
 **clam**  
 In name:   
@@ -45,7 +49,6 @@ In description:
   
 **beef**  
 In name:   
- - Texas BBQ Sliced Beef Brisket  
  - Beef & Chicken Meatballs  
  - Shredded Beef Flauta  
   
@@ -60,6 +63,7 @@ In name:
   
 **chicken**  
 In name:   
+ - Chicken Drumstick Teriyaki Glazed  
  - Beef & Chicken Meatballs  
  - Madras Chicken w/basmati rice  
  - Chicken and Cheese Flauta  
