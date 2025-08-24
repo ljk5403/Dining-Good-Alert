@@ -1,6 +1,6 @@
 # 2025-08-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-24 13:24:14  
+Updated at: 2025-08-24 15:19:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-24)  
 **Cod**  
 In name:   
@@ -25,6 +25,7 @@ In name:
 **chicken**  
 In name:   
  - Chicken & Vegetables w/Dijon Vinaigrette  
+ - Plant Based Chicken Strips  
  - Lemon Pepper Chicken Salad  
  - Crispy Buffalo Chicken Sandwich  
  - Chicken Enchilada Bake  
