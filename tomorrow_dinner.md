@@ -1,6 +1,6 @@
 # 2025-08-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-24 16:15:57  
+Updated at: 2025-08-24 17:17:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-25)  
 **Shrimp**  
 In name:   
@@ -200,11 +200,16 @@ In name:
   
 In description:   
  - Burnt Ends  
+ - Cocktail Smokies (Pork)  
   
 **pork**  
 In name:   
  - Hawaiian (Pork) Pizza Slice  
  - Thai BBQ Pork Ribs  
+ - Cocktail Smokies (Pork)  
+  
+In description:   
+ - Andouille Sausage  
   
 **chicken**  
 In name:   
@@ -212,9 +217,11 @@ In name:
  - Chicken Salad  
  - Lemon Chicken Rice Soup  
  - Blackened Chicken Sandwich  
+ - App Chicken Popcorn - BYO Bar  
   
 In description:   
  - Great Greens  
+ - Cocktail Smokies (Pork)  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-08-25)  
 **beef**  

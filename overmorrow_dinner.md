@@ -1,6 +1,6 @@
 # 2025-08-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-24 16:16:02  
+Updated at: 2025-08-24 17:17:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-26)  
 **Tuna**  
 In name:   
@@ -199,11 +199,13 @@ In description:
 **pork**  
 In name:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice  
+ - Pork Belly for Street Taco - Carson  
   
 **chicken**  
 In name:   
  - Chicken Salad  
  - Cream of Chicken & Wild Rice Soup  
+ - Grilled Chicken Fillet  
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice  
