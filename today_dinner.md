@@ -1,6 +1,6 @@
 # 2025-08-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-23 18:16:25  
+Updated at: 2025-08-23 20:41:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-23)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-08-23)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-08-23)  
@@ -8,23 +8,27 @@ Updated at: 2025-08-23 18:16:25
 In name:   
  - Shrimp Creole  
   
+**lamb**  
+In name:   
+ - Lamb & Beef Gyro Sandwich  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Beef Taco Meat  
+ - Lamb & Beef Gyro Sandwich  
   
 In description:   
  - Italian Meat Sauce  
- - Pepperoni Pizza Slice  
  - Gluten Free Pepperoni Pizza Quarter  
- - Chicago-Style Hot Dog  
   
 **pork**  
 In name:   
  - Italian Pork Sausage  
+ - Pork Carnita  
   
 In description:   
  - Chicken Sausage Gumbo  
+ - Pizza Slice Sausage  
  - Kale, Sausage & Potato Soup  
   
 **chicken**  
@@ -35,7 +39,6 @@ In name:
  - Chicken Tinga  
   
 In description:   
- - Pepperoni Pizza Slice  
  - Gluten Free Pepperoni Pizza Quarter  
  - Gordon's Great Greens  
  - Kale, Sausage & Potato Soup  
