@@ -1,6 +1,6 @@
 # 2025-08-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-24 16:15:53  
+Updated at: 2025-08-24 17:17:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-24)  
 **Cod**  
 In name:   
@@ -155,6 +155,10 @@ In description:
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-08-24)  
+**Chicken Drummies**  
+In name:   
+ - Chicken Drummies  
+  
 **Salmon**  
 In name:   
  - Blackened Salmon  
@@ -177,6 +181,7 @@ In description:
 In name:   
  - Chicken Salad  
  - Chicken Tortilla Soup  
+ - Chicken Drummies  
   
 In description:   
  - Pizza Pepperoni & Banana Pepper  
