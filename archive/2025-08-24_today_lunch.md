@@ -1,6 +1,6 @@
 # 2025-08-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-25 12:14:55  
+Updated at: 2025-08-25 13:27:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-25)  
 **beef**  
 In name:   
@@ -80,6 +80,7 @@ In name:
 **curry**  
 In name:   
  - Beef Curry Stew  
+ - Thai Veggie Meatballs w/ Green Curry  
   
 **beef**  
 In name:   

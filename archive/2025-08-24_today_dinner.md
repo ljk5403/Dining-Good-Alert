@@ -1,6 +1,6 @@
 # 2025-08-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-25 12:15:00  
+Updated at: 2025-08-25 13:27:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-25)  
 **Shrimp**  
 In name:   
@@ -72,6 +72,7 @@ In name:
   
 **steak**  
 In name:   
+ - Island Spiced Beef Steak  
  - Pizza Slice Philly Cheesesteak  
  - Smothered Steak Burrito  
  - Philly Cheesesteak Sandwich  
@@ -95,7 +96,7 @@ In description:
   
 **beef**  
 In name:   
- - Beef Goulash w/Egg Noodles  
+ - Island Spiced Beef Steak  
  - Beef & Chicken Meatballs  
   
 In description:   
