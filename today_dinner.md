@@ -1,6 +1,6 @@
 # 2025-08-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-25 17:17:53  
+Updated at: 2025-08-25 18:17:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-25)  
 **Shrimp**  
 In name:   
@@ -76,7 +76,6 @@ In name:
  - Pizza Slice Philly Cheesesteak  
  - Smothered Steak Burrito  
  - Philly Cheesesteak Sandwich  
- - Tempeh Philly Cheesesteak Sandwich  
   
 **Tuna**  
 In name:   
@@ -117,6 +116,7 @@ In name:
  - Beef & Chicken Meatballs  
  - Spicy Lo Mein w/Chicken  
  - Lemon Chicken Rice Soup  
+ - Diced Chicken  
   
 In description:   
  - Gluten Free Pepperoni Pizza Quarter  
@@ -133,6 +133,10 @@ In name:
   
 In description:   
  - Irish Roast Chicken w/Leeks and Bacon  
+  
+**Samosas**  
+In name:   
+ - Samosas  
   
 **Pakoras**  
 In name:   

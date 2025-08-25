@@ -1,6 +1,6 @@
 # 2025-08-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-25 16:17:09  
+Updated at: 2025-08-25 17:17:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-25)  
 **beef**  
 In name:   
@@ -114,6 +114,7 @@ In name:
  - Sesame Chicken  
  - Chicken Tinga  
  - Lemon Chicken Rice Soup  
+ - Diced Chicken  
   
 In description:   
  - Gluten Free Pepperoni Pizza Quarter  

@@ -1,6 +1,6 @@
 # 2025-08-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-25 16:17:11  
+Updated at: 2025-08-25 17:17:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-25)  
 **Shrimp**  
 In name:   
@@ -78,10 +78,6 @@ In name:
  - Philly Cheesesteak Sandwich  
  - Tempeh Philly Cheesesteak Sandwich  
   
-**Salmon**  
-In name:   
- - Baked Salmon with Mustard Sauce  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
@@ -94,6 +90,7 @@ In description:
   
 **curry**  
 In name:   
+ - Thai Veggie Meatballs w/ Green Curry  
   
 In description:   
  - Jollof Rice - 25  
@@ -137,9 +134,9 @@ In name:
 In description:   
  - Irish Roast Chicken w/Leeks and Bacon  
   
-**Samosas**  
+**Pakoras**  
 In name:   
- - Samosas  
+ - Appetizer -  Pakoras Vegetable (Veg)  
   
 **Salmon**  
 In name:   
