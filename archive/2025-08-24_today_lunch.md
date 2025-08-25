@@ -1,6 +1,6 @@
 # 2025-08-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-25 13:27:29  
+Updated at: 2025-08-25 15:20:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-25)  
 **beef**  
 In name:   
@@ -136,6 +136,7 @@ In description:
   
 **curry**  
 In name:   
+ - Chicken Curry  
  - Vegetable Coconut Curry w/Rice  
  - Curry Potatoes  
   
@@ -161,7 +162,7 @@ In description:
 In name:   
  - Sweet & Spicy Orange Chicken  
  - Crispy Chicken Sandwich  
- - Butter Chicken  
+ - Chicken Curry  
  - Lemon Chicken Rice Soup  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-08-25)  

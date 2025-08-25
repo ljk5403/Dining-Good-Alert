@@ -1,6 +1,6 @@
 # 2025-08-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-25 13:27:32  
+Updated at: 2025-08-25 15:20:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-25)  
 **Shrimp**  
 In name:   
@@ -141,6 +141,10 @@ In name:
 In name:   
  - Smoked Salmon  
   
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
 **fish**  
 In name:   
   
@@ -152,10 +156,12 @@ In description:
 In name:   
  - Seitan & Coconut Thai Curry  
  - Chicken Curry  
+ - Vegetable Coconut Curry w/Rice  
  - Curry Potatoes  
   
 **beef**  
 In name:   
+ - Beef Ravioli w/Tomato Sauce  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
@@ -169,7 +175,6 @@ In description:
   
 **chicken**  
 In name:   
- - Lemon Pepper Chicken Salad  
  - Crispy Chicken Sandwich  
  - Irish Roast Chicken w/Leeks and Bacon  
  - Chicken Curry  

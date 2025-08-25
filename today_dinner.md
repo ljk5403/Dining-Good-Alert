@@ -1,6 +1,6 @@
 # 2025-08-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-25 15:20:13  
+Updated at: 2025-08-25 16:17:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-25)  
 **Shrimp**  
 In name:   
@@ -77,6 +77,10 @@ In name:
  - Smothered Steak Burrito  
  - Philly Cheesesteak Sandwich  
  - Tempeh Philly Cheesesteak Sandwich  
+  
+**Salmon**  
+In name:   
+ - Baked Salmon with Mustard Sauce  
   
 **Tuna**  
 In name:   
@@ -178,7 +182,6 @@ In name:
  - Crispy Chicken Sandwich  
  - Irish Roast Chicken w/Leeks and Bacon  
  - Chicken Curry  
- - Butter Chicken  
  - Lemon Chicken Rice Soup  
   
 In description:   
@@ -191,11 +194,9 @@ In name:
 In description:   
  - Tempeh w/Red Peppers & Broc Rabe  
   
-**fish**  
+**Shrimp**  
 In name:   
-  
-In description:   
- - Thai BBQ Pork Ribs  
+ - Coconut Shrimp  
   
 **curry**  
 In name:   
@@ -211,7 +212,6 @@ In description:
 **pork**  
 In name:   
  - Hawaiian (Pork) Pizza Slice  
- - Thai BBQ Pork Ribs  
  - Cocktail Smokies (Pork)  
   
 In description:   
