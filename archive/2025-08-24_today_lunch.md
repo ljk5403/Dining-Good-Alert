@@ -1,6 +1,6 @@
 # 2025-08-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-25 11:23:27  
+Updated at: 2025-08-25 12:14:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-25)  
 **beef**  
 In name:   
@@ -118,6 +118,10 @@ In name:
 In name:   
  - Appetizer -  Pakoras Vegetable (Veg)  
   
+**Salmon**  
+In name:   
+ - Smoked Salmon  
+  
 **Tuna**  
 In name:   
  - Tuna Salad  
@@ -133,6 +137,9 @@ In description:
 In name:   
  - Vegetable Coconut Curry w/Rice  
  - Curry Potatoes  
+  
+In description:   
+ - Pakora Sauce  
   
 **beef**  
 In name:   
@@ -155,9 +162,6 @@ In name:
  - Crispy Chicken Sandwich  
  - Butter Chicken  
  - Lemon Chicken Rice Soup  
-  
-In description:   
- - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-08-25)  
 **BBQ Pork Sandwich**  
