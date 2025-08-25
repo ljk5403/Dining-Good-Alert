@@ -1,11 +1,7 @@
 # 2025-08-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-25 10:19:55  
+Updated at: 2025-08-25 11:23:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-25)  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad  
-  
 **beef**  
 In name:   
  - Beef Taco Meat  
@@ -25,6 +21,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Chicken Teriyaki Stir Fry  
  - Chicken Tinga  
  - Plant Based Protein Chicken Taco Filling  
@@ -121,6 +118,10 @@ In name:
 In name:   
  - Appetizer -  Pakoras Vegetable (Veg)  
   
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
 **fish**  
 In name:   
   
@@ -135,6 +136,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Ravioli w/Tomato Sauce  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
@@ -145,14 +147,12 @@ In name:
  - Italian Pork Sausage  
   
 In description:   
- - Grilled Turkey Bacon Club Sandwich  
  - Station Recipe - Deli  AYCTE FLM  
   
 **chicken**  
 In name:   
  - Sweet & Spicy Orange Chicken  
  - Crispy Chicken Sandwich  
- - Lemon Pepper Chicken Salad  
  - Butter Chicken  
  - Lemon Chicken Rice Soup  
   
