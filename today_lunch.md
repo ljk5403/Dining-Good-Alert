@@ -1,6 +1,6 @@
 # 2025-08-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-26 01:28:46  
+Updated at: 2025-08-26 09:17:34  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-26)  
 **Tuna**  
 In name:   
@@ -89,7 +89,6 @@ In name:
 **steak**  
 In name:   
  - Grilled Flank Steak  
- - Spicy Steak Fajita  
   
 **beef**  
 In name:   
@@ -99,7 +98,6 @@ In name:
 In description:   
  - Grilled Flank Steak  
  - Pepperoni Pizza Slice  
- - Spicy Steak Fajita  
   
 **pork**  
 In name:   
@@ -113,9 +111,10 @@ In name:
  - Beef & Chicken Meatballs  
  - Pulled Chicken Thigh  
  - Pizza Slice Chicken Sriracha  
- - Sausage Links Chicken (halal) (AYCTE)  
+ - Chicken Sausage Patties  
  - Jerk Chicken Sandwich  
  - Plant Based Protein Chicken Taco Filling  
+ - Spicy Chicken Fajita  
  - Cream of Chicken & Wild Rice Soup  
   
 In description:   
