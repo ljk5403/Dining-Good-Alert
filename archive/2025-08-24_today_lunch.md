@@ -1,6 +1,6 @@
 # 2025-08-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-25 17:17:44  
+Updated at: 2025-08-25 18:17:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-25)  
 **beef**  
 In name:   
@@ -130,6 +130,10 @@ In name:
 In name:   
  - Appetizer -  Pakoras Vegetable (Veg)  
   
+**steak**  
+In name:   
+ - Grilled Flank Steak  
+  
 **Salmon**  
 In name:   
  - Smoked Salmon  
@@ -160,6 +164,7 @@ In name:
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
+ - Grilled Flank Steak  
   
 **pork**  
 In name:   

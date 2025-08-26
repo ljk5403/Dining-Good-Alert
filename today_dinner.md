@@ -1,6 +1,6 @@
 # 2025-08-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-25 18:17:09  
+Updated at: 2025-08-25 20:25:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-25)  
 **Shrimp**  
 In name:   
@@ -70,9 +70,16 @@ In description:
 In name:   
  - Watermelon Slices  
   
+**Beef Alicha**  
+In name:   
+ - Beef Alicha  
+  
+**Tandoori Chicken**  
+In name:   
+ - Tandoori Chicken  
+  
 **steak**  
 In name:   
- - Island Spiced Beef Steak  
  - Pizza Slice Philly Cheesesteak  
  - Smothered Steak Burrito  
  - Philly Cheesesteak Sandwich  
@@ -80,12 +87,6 @@ In name:
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Poulet Braise  
   
 **curry**  
 In name:   
@@ -96,10 +97,11 @@ In description:
   
 **beef**  
 In name:   
- - Island Spiced Beef Steak  
+ - Beef Alicha  
  - Beef & Chicken Meatballs  
   
 In description:   
+ - Italian Meat Sauce  
  - Pizza Slice Philly Cheesesteak  
  - Gluten Free Pepperoni Pizza Quarter  
  - Smothered Steak Burrito  
@@ -117,11 +119,11 @@ In name:
  - Spicy Lo Mein w/Chicken  
  - Lemon Chicken Rice Soup  
  - Diced Chicken  
+ - Tandoori Chicken  
   
 In description:   
  - Gluten Free Pepperoni Pizza Quarter  
  - Gordon's Great Greens  
- - Poulet Braise  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-08-25)  
 **watermelon**  
@@ -166,7 +168,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Ravioli w/Tomato Sauce  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  

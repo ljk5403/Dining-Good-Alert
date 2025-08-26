@@ -1,6 +1,6 @@
 # 2025-08-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-25 18:17:06  
+Updated at: 2025-08-25 20:25:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-25)  
 **beef**  
 In name:   
@@ -179,7 +179,7 @@ In name:
  - Sweet & Spicy Orange Chicken  
  - Crispy Chicken Sandwich  
  - Chicken Curry  
- - Lemon Chicken Rice Soup  
+ - Chicken Noodle Soup  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-08-25)  
 **BBQ Pork Sandwich**  
