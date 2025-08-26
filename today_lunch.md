@@ -1,6 +1,6 @@
 # 2025-08-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-26 13:25:51  
+Updated at: 2025-08-26 15:19:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-26)  
 **curry**  
 In name:   
@@ -83,13 +83,9 @@ In name:
  - Cream of Chicken & Wild Rice Soup  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-08-26)  
-**steak**  
+**Tilapia**  
 In name:   
- - Grilled Flank Steak  
-  
-**Cod**  
-In name:   
- - Lemon Pepper Cod Fillet  
+ - Baked Tilapia w/Dill Wine Sauce  
   
 **beef**  
 In name:   
@@ -97,7 +93,6 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Grilled Flank Steak  
  - Pepperoni Pizza Slice  
   
 **pork**  
@@ -125,6 +120,10 @@ In description:
 In name:   
  - Watermelon Slices  
   
+**steak**  
+In name:   
+ - Brazilian Flank Steak  
+  
 **Tuna**  
 In name:   
  - Tuna Salad  
@@ -144,10 +143,10 @@ In name:
 In description:   
  - Grilled Blended Burger w/ Cheese  
  - Station Recipe - Deli  AYCTE FLM  
+ - Brazilian Flank Steak  
   
 **pork**  
 In name:   
- - Ancho Braised Pork  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
@@ -155,12 +154,10 @@ In description:
 **chicken**  
 In name:   
  - Brazilian Chicken w/ Salsa Vinaigrette  
- - Crispy Chicken Sandwich  
  - Italian Chicken  
  - Cream of Chicken & Wild Rice Soup  
   
 In description:   
- - Ancho Braised Pork  
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-08-26)  
