@@ -1,11 +1,7 @@
 # 2025-08-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-26 10:19:34  
+Updated at: 2025-08-26 11:22:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-26)  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad  
-  
 **curry**  
 In name:   
  - Curry Squash  
@@ -30,6 +26,7 @@ In name:
 **chicken**  
 In name:   
  - Honey Mustard Chicken & Vegetables  
+ - Lemon Pepper Chicken Salad  
  - Chicken Tikka Masala  
  - Mediterranean Chicken  
  - Cream of Chicken & Wild Rice Soup  
@@ -119,7 +116,6 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice  
- - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-08-26)  
 **watermelon**  
