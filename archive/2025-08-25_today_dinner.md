@@ -1,6 +1,6 @@
 # 2025-08-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-26 13:25:54  
+Updated at: 2025-08-26 15:20:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-26)  
 **curry**  
 In name:   
@@ -86,15 +86,9 @@ In name:
 In name:   
  - Steak Street Taco  
   
-**Salmon**  
+**Tilapia**  
 In name:   
- - Hoisin BBQ Glazed Salmon  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Hoisin BBQ Glazed Salmon  
+ - Baked Tilapia w/Dill Wine Sauce  
   
 **lamb**  
 In name:   

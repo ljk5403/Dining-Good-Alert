@@ -1,6 +1,6 @@
 # 2025-08-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-26 15:20:01  
+Updated at: 2025-08-26 16:15:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-26)  
 **curry**  
 In name:   
@@ -102,14 +102,14 @@ In name:
 In description:   
  - Pepperoni Pizza Slice  
  - Steak Street Taco  
- - Porkloin Fritter Plate  
- - Jaeger Sauce  
   
 **pork**  
 In name:   
  - Green Beans w/ Pork Bacon  
  - Pork Miso w/Yakisoba Noodles  
- - Porkloin Fritter Plate  
+  
+In description:   
+ - Ham and Veg Spicy Hawaiian Stiry Fry  
   
 **chicken**  
 In name:   
@@ -132,6 +132,10 @@ In name:
 **broccoli rabe**  
 In name:   
  - Broccoli Rabe  
+  
+**Tuna**  
+In name:   
+ - Tuna Salad  
   
 **fish**  
 In name:   
@@ -156,7 +160,6 @@ In description:
   
 **chicken**  
 In name:   
- - Lemon Pepper Chicken Salad  
  - Italian Chicken  
  - Chicken Piece Seasoned Baked  
  - Chicken Empanada with Green Chili  
