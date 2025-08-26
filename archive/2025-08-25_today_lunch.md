@@ -1,6 +1,6 @@
 # 2025-08-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-26 11:22:08  
+Updated at: 2025-08-26 12:16:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-26)  
 **curry**  
 In name:   
@@ -13,6 +13,7 @@ In description:
 **beef**  
 In name:   
  - Beef Mediterranean  
+ - Beef & Bean Chili  
  - Beef & Chicken Meatballs  
   
 In description:   
@@ -29,7 +30,6 @@ In name:
  - Lemon Pepper Chicken Salad  
  - Chicken Tikka Masala  
  - Mediterranean Chicken  
- - Cream of Chicken & Wild Rice Soup  
  - Beef & Chicken Meatballs  
  - Plant Based Chicken Strips  
   

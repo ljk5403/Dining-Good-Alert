@@ -1,6 +1,6 @@
 # 2025-08-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-26 12:16:20  
+Updated at: 2025-08-26 13:25:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-26)  
 **curry**  
 In name:   
@@ -87,6 +87,10 @@ In name:
 In name:   
  - Grilled Flank Steak  
   
+**Cod**  
+In name:   
+ - Lemon Pepper Cod Fillet  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
@@ -108,7 +112,6 @@ In name:
  - Beef & Chicken Meatballs  
  - Pulled Chicken Thigh  
  - Pizza Slice Chicken Sriracha  
- - Chicken Sausage Patties  
  - Jerk Chicken Sandwich  
  - Plant Based Protein Chicken Taco Filling  
  - Spicy Chicken Fajita  
@@ -152,6 +155,7 @@ In description:
 **chicken**  
 In name:   
  - Brazilian Chicken w/ Salsa Vinaigrette  
+ - Crispy Chicken Sandwich  
  - Italian Chicken  
  - Cream of Chicken & Wild Rice Soup  
   
