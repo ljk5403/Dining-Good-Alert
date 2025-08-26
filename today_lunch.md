@@ -1,6 +1,6 @@
 # 2025-08-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-26 09:17:34  
+Updated at: 2025-08-26 10:19:34  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-26)  
 **Tuna**  
 In name:   
@@ -12,7 +12,7 @@ In name:
  - Squash Curry  
   
 In description:   
- - Chicken Korma  
+ - Chicken Tikka Masala  
   
 **beef**  
 In name:   
@@ -21,7 +21,7 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice  
- - Blended Patty Melt  
+ - Pastrami Reuben  
   
 **pork**  
 In name:   
@@ -30,7 +30,7 @@ In name:
 **chicken**  
 In name:   
  - Honey Mustard Chicken & Vegetables  
- - Chicken Korma  
+ - Chicken Tikka Masala  
  - Mediterranean Chicken  
  - Cream of Chicken & Wild Rice Soup  
  - Beef & Chicken Meatballs  
@@ -126,6 +126,10 @@ In description:
 In name:   
  - Watermelon Slices  
   
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
 **fish**  
 In name:   
   
@@ -137,7 +141,6 @@ In description:
 In name:   
  - Beef French Dip Sandwich  
  - Beef Taco Meat  
- - Mediterranean Beef  
   
 In description:   
  - Grilled Blended Burger w/ Cheese  
@@ -154,9 +157,7 @@ In description:
 In name:   
  - Brazilian Chicken w/ Salsa Vinaigrette  
  - Italian Chicken  
- - Lemon Pepper Chicken Salad  
  - Cream of Chicken & Wild Rice Soup  
- - Mediterranean Chicken  
   
 In description:   
  - Ancho Braised Pork  
