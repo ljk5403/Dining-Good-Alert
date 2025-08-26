@@ -1,11 +1,7 @@
 # 2025-08-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-26 10:19:40  
+Updated at: 2025-08-26 11:22:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-27)  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad  
-  
 **beef**  
 In name:   
  - Beef Broccoli Stir Fry w/Teriyaki Sauce  
@@ -27,6 +23,7 @@ In name:
 **chicken**  
 In name:   
  - Chicken Breast w/Balsamic BBQ Sauce  
+ - Lemon Pepper Chicken Salad  
  - Fajita Chicken  
   
 In description:   

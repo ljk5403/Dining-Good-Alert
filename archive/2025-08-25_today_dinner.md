@@ -1,6 +1,6 @@
 # 2025-08-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-26 09:17:36  
+Updated at: 2025-08-26 10:19:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-26)  
 **Tuna**  
 In name:   
@@ -12,7 +12,7 @@ In name:
  - Squash Curry  
   
 In description:   
- - Chicken Korma  
+ - Chicken Tikka Masala  
   
 **beef**  
 In name:   
@@ -36,7 +36,7 @@ In name:
  - Plant Based Chicken Strips  
  - Crispy Chicken Sandwich  
  - VN Sand Chicken Paradise  
- - Chicken Korma  
+ - Chicken Tikka Masala  
  - Mediterranean Chicken  
  - Cream of Chicken & Wild Rice Soup  
   
@@ -153,7 +153,6 @@ In description:
 In name:   
  - Beef Harissa  
  - Empanada Beef Picadillo  
- - Mediterranean Beef  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
@@ -171,7 +170,6 @@ In name:
  - Chicken Piece Seasoned Baked  
  - Chicken Empanada with Green Chili  
  - Cream of Chicken & Wild Rice Soup  
- - Mediterranean Chicken  
   
 In description:   
  - Empanada Beef Picadillo  

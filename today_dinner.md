@@ -1,11 +1,7 @@
 # 2025-08-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-26 10:19:37  
+Updated at: 2025-08-26 11:22:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-26)  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad  
-  
 **curry**  
 In name:   
  - Curry Squash  
@@ -34,6 +30,7 @@ In description:
 In name:   
  - Beef & Chicken Meatballs  
  - Plant Based Chicken Strips  
+ - Lemon Pepper Chicken Salad  
  - Crispy Chicken Sandwich  
  - VN Sand Chicken Paradise  
  - Chicken Tikka Masala  
