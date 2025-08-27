@@ -1,132 +1,86 @@
-# 2025-08-26 lunch  
+# 2025-08-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-26 20:22:42  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-26)  
-**curry**  
+Updated at: 2025-08-27 01:26:51  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-27)  
+**Tuna**  
 In name:   
- - Curry Squash  
- - Squash Curry  
-  
-In description:   
- - Chicken Tikka Masala  
+ - Lemon Pepper Tuna Salad  
   
 **beef**  
 In name:   
- - Beef Mediterranean  
+ - Beef Broccoli Stir Fry w/Teriyaki Sauce  
+ - Plant-Based Beef & Broccoli Stir Fry  
+ - Beef Taco Meat  
  - Beef & Bean Chili  
- - Beef & Chicken Meatballs  
   
 In description:   
- - Pepperoni Pizza Slice  
- - Pastrami Reuben  
+ - Thin Crust Tavern Style Pepperoni Pizza  
+ - Italian Meat Sauce  
   
 **pork**  
 In name:   
- - Pork Spicy Citrus w/Bl Beans & Rice  
+ - Tavern Style Sausage Pizza (Pork)  
+ - New Orleans Turkey Melt w/ Pork  
+ - Pork Carnita  
+ - Italian Pork Sausage  
   
 **chicken**  
 In name:   
- - Honey Mustard Chicken & Vegetables  
- - Lemon Pepper Chicken Salad  
- - Chicken Tikka Masala  
- - Mediterranean Chicken  
- - Beef & Chicken Meatballs  
- - Plant Based Chicken Strips  
+ - Chicken Breast w/Balsamic BBQ Sauce  
+ - Fajita Chicken  
   
 In description:   
- - Pork Spicy Citrus w/Bl Beans & Rice  
- - Pepperoni Pizza Slice  
+ - Thin Crust Tavern Style Pepperoni Pizza  
  - Great Greens  
   
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-08-26)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-08-27)  
 **watermelon**  
 In name:   
  - Melon Watermelon Whole Sliced  
   
-**Salmon**  
+**Pakoras**  
 In name:   
- - Salmon Philly Roll (FujiSan)  
- - Salmon Spicy Roll (FujiSan)  
-  
-**Tilapia**  
-In name:   
- - Tilapia Chipotle Lime Crusted  
-  
-**Tuna**  
-In name:   
- - Tuna Salad  
+ - Appetizer -  Pakoras Vegetable (Veg)  
   
 **fish**  
 In name:   
- - Vietnamese Pork with Rice (No Fish)  
   
 In description:   
- - Salmon Spicy Roll (FujiSan)  
+ - Thai BBQ Pork Ribs  
+  
+**lamb**  
+In name:   
+  
+In description:   
+ - Rogan Josh  
   
 **curry**  
 In name:   
+ - Curry Potatoes  
   
 In description:   
- - Chana Saag w/ Tofu  
- - Cauliflower Masala Taco  
+ - Pakora Sauce  
   
 **beef**  
 In name:   
- - Beef Chimichurri Taco  
+ - Beef & Bean Chili  
   
 **pork**  
 In name:   
- - Vietnamese Pork with Rice (No Fish)  
+ - Thai BBQ Pork Ribs  
   
 **chicken**  
 In name:   
- - Cream of Chicken & Wild Rice Soup  
-  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-08-26)  
-**Tilapia**  
-In name:   
- - Baked Tilapia w/Dill Wine Sauce  
-  
-**beef**  
-In name:   
- - Beef & Chicken Meatballs  
- - Beef Taco Meat  
+ - Chicken Biryani  
   
 In description:   
- - Pepperoni Pizza Slice  
+ - Rogan Josh  
   
-**pork**  
-In name:   
- - Pork Sausage Country Gravy w/ Biscuit  
-  
-In description:   
- - Ham and Veg Spicy Hawaiian Stiry Fry  
-  
-**chicken**  
-In name:   
- - Beef & Chicken Meatballs  
- - Pulled Chicken Thigh  
- - Pizza Slice Chicken Sriracha  
- - Jerk Chicken Sandwich  
- - Plant Based Protein Chicken Taco Filling  
- - Spicy Chicken Fajita  
- - Cream of Chicken & Wild Rice Soup  
-  
-In description:   
- - Pepperoni Pizza Slice  
-  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-08-26)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-08-27)  
 **steak**  
 In name:   
- - Brazilian Flank Steak  
-  
-**Tuna**  
-In name:   
- - Tuna Salad  
+ - Pepper Steak Stir Fry  
+ - Plant-Based Pepper Steak Stir Fry  
   
 **fish**  
 In name:   
@@ -137,94 +91,137 @@ In description:
   
 **beef**  
 In name:   
- - Beef French Dip Sandwich  
+ - Beef & Chicken Meatballs  
  - Beef Taco Meat  
+ - Beef & Bean Chili  
   
 In description:   
- - Grilled Blended Burger w/ Cheese  
- - Station Recipe - Deli  AYCTE FLM  
- - Brazilian Flank Steak  
+ - Italian Meat Sauce  
+ - Pepper Steak Stir Fry  
+ - Plant-Based Pepper Steak Stir Fry  
+ - Vegan Taco Filling  
   
 **pork**  
 In name:   
-  
-In description:   
- - Station Recipe - Deli  AYCTE FLM  
- - Kale, Sausage & Potato Soup  
+ - Island Spiced Pork w/ Pineapple Salsa  
+ - Gnocchi w/ Pork Chorizo Sauce  
+ - Italian Pork Sausage  
+ - Gluten Free Pork Sausage Pizza Quarter  
   
 **chicken**  
 In name:   
- - Brazilian Chicken w/ Salsa Vinaigrette  
- - Italian Chicken  
- - Cream of Chicken & Wild Rice Soup  
+ - Baked Chicken (2 piece)  
+ - Chicken Gravy  
+ - Beef & Chicken Meatballs  
+ - Pizza Slice BBQ Chicken & Bacon  
+ - Lemon Pepper Chicken Salad  
+  
+In description:   
+ - Gnocchi w/ Pork Chorizo Sauce  
+ - Gordon's Great Greens  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-08-27)  
+**watermelon**  
+In name:   
+ - Watermelon Slices  
+  
+**catfish**  
+In name:   
+ - Fried Catfish  
+  
+**fish**  
+In name:   
+ - Fried Catfish  
+  
+In description:   
+ - California Roll  (FujiSan)  
+ - Tempura Roll (FujiSan)  
+  
+**beef**  
+In name:   
+ - Beef & Chicken Meatballs  
+ - Beef & Bean Chili  
+ - Protein - Beef Thinly Sliced  
+  
+In description:   
+ - Bolognese Sauce  
+ - Station Recipe - Deli  AYCTE FLM  
+  
+**pork**  
+In name:   
+ - Baked Pork Ham  
+  
+In description:   
+ - Grilled Ham & Swiss Sandwich  
+ - Bolognese Sauce  
+ - Station Recipe - Deli  AYCTE FLM  
+  
+**chicken**  
+In name:   
+ - Crispy Chicken Sandwich  
+ - Beef & Chicken Meatballs  
+ - Lemon Pepper Chicken Salad  
+ - Chicken Wings Boneless Plain  
+ - Plant-Based Chicken Nuggets (6)  
+ - Protein - Chicken Thinly Sliced  
   
 In description:   
  - Station Recipe - Great Greens - FLM  
- - Kale, Sausage & Potato Soup  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-08-26)  
-**Shrimp**  
-In name:   
- - Brazillian Shrimp in Coconut Sauce  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Coconut Vegetable Stew  
-  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-08-27)  
 **beef**  
 In name:   
+ - Beef & Bean Chili  
   
 In description:   
- - Meat Lovers w/ Bacon (Pork) Pizza Slice  
- - Pepperoni Pizza Slice  
- - Reuben  
+ - Sausage (Pork) & Pepperoni Pizza Slice  
+ - Pizza Slice Deluxe (Pork)  
   
 **pork**  
 In name:   
- - Meat Lovers w/ Bacon (Pork) Pizza Slice  
- - Pork Sausage Links  
+ - Pork Chop Adobo (1)  
+ - Sausage (Pork) & Pepperoni Pizza Slice  
+ - Pizza Slice Deluxe (Pork)  
   
 **chicken**  
 In name:   
- - Chicken Wings Boneless Plain  
- - Plant-Based Chicken Nuggets (6)  
- - Cream of Chicken & Wild Rice Soup  
+ - Bulgogi Chicken Thighs  
+ - Sausage Links Chicken (halal) (AYCTE)  
+ - Buffalo Chicken Sliders  
   
 In description:   
- - Meat Lovers w/ Bacon (Pork) Pizza Slice  
- - Pepperoni Pizza Slice  
+ - Sausage (Pork) & Pepperoni Pizza Slice  
+ - Pizza Slice Deluxe (Pork)  
  - Great Greens  
   
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-08-26)  
-**Salmon**  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-08-27)  
+**steak**  
 In name:   
- - Honey Citrus Salmon  
+ - Swiss Steak w/Brown Gravy  
   
-**curry**  
-In name:   
- - Red Curry Chicken  
- - Seitan & Coconut Thai Curry  
-  
-**beef**  
+**fish**  
 In name:   
   
 In description:   
+ - Crab Rangoon  
+  
+**beef**  
+In name:   
+ - Beef & Bean Chili  
+  
+In description:   
  - Station Recipe - Deli Lowell AYCTE  
- - Pork Jaeger Schnitzel Plate  
+ - Swiss Steak w/Brown Gravy  
   
 **pork**  
 In name:   
- - Pork Jaeger Schnitzel Plate  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
   
 **chicken**  
 In name:   
- - Cream of Chicken & Wild Rice Soup  
- - Red Curry Chicken  
+ - Mediterranean Chicken  
   
 In description:   
  - Great Greens  
