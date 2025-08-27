@@ -1,6 +1,6 @@
 # 2025-08-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-27 09:17:47  
+Updated at: 2025-08-27 10:19:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-27)  
 **Tuna**  
 In name:   
@@ -82,6 +82,10 @@ In name:
  - Pepper Steak Stir Fry  
  - Plant-Based Pepper Steak Stir Fry  
   
+**Shrimp**  
+In name:   
+ - Coconut Shrimp  
+  
 **fish**  
 In name:   
   
@@ -103,9 +107,8 @@ In description:
   
 **pork**  
 In name:   
- - Island Spiced Pork w/ Pineapple Salsa  
- - Gnocchi w/ Pork Chorizo Sauce  
  - Italian Pork Sausage  
+ - Gnocchi w/ Pork Chorizo Sauce  
  - Gluten Free Pork Sausage Pizza Quarter  
   
 **chicken**  
