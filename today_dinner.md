@@ -1,6 +1,6 @@
 # 2025-08-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-27 16:16:25  
+Updated at: 2025-08-27 17:16:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-27)  
 **steak**  
 In name:   
@@ -99,8 +99,6 @@ In name:
   
 In description:   
  - Miso Cod  
- - California Roll  (FujiSan)  
- - Tempura Roll (FujiSan)  
   
 **beef**  
 In name:   
@@ -144,9 +142,9 @@ In name:
 In name:   
  - BBQ Pork Sandwich  
   
-**Cod**  
+**mahi mahi**  
 In name:   
- - Lemon Pepper Cod Fillet  
+ - Baked Mahi Mahi w/ Butter & Lemon  
   
 **Tuna**  
 In name:   

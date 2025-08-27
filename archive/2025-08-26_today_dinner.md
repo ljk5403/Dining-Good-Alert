@@ -1,6 +1,6 @@
 # 2025-08-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-27 15:19:43  
+Updated at: 2025-08-27 16:16:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-27)  
 **steak**  
 In name:   
@@ -19,6 +19,7 @@ In description:
   
 **beef**  
 In name:   
+ - Plant-Based Beef & Broccoli Stir Fry  
  - Beef & Bean Chili  
   
 In description:   
@@ -31,8 +32,8 @@ In name:
  - Filipino Barbecue - Pork  
  - Italian Pork Sausage  
  - Tavern Style Sausage Pizza (Pork)  
- - Pork Sweet Longanisa  
  - Lumpianisa Pork  
+ - Pork Sweet Longanisa  
  - Ancho Pork Rice Bowl  
   
 **chicken**  
@@ -143,9 +144,13 @@ In name:
 In name:   
  - BBQ Pork Sandwich  
   
-**mahi mahi**  
+**Cod**  
 In name:   
- - Baked Mahi Mahi w/ Butter & Lemon  
+ - Lemon Pepper Cod Fillet  
+  
+**Tuna**  
+In name:   
+ - Tuna Salad  
   
 **fish**  
 In name:   
@@ -174,7 +179,6 @@ In description:
   
 **chicken**  
 In name:   
- - Lemon Pepper Chicken Salad  
  - Beef & Chicken Meatballs  
  - Chicken Drumstick Teriyaki Glazed  
  - Chicken Wings Boneless Plain  
