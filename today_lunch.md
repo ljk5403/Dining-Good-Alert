@@ -1,6 +1,6 @@
 # 2025-08-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-27 15:19:39  
+Updated at: 2025-08-27 16:16:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-27)  
 **Tuna**  
 In name:   
@@ -139,7 +139,6 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Beef & Bean Chili  
  - Protein - Beef Thinly Sliced  
   
 In description:   
@@ -160,6 +159,7 @@ In name:
  - Beef & Chicken Meatballs  
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
+ - Chicken Chili  
  - Protein - Chicken Thinly Sliced  
   
 In description:   
