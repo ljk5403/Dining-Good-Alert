@@ -1,6 +1,6 @@
 # 2025-08-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-26 18:16:09  
+Updated at: 2025-08-26 20:22:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-26)  
 **curry**  
 In name:   
@@ -150,6 +150,7 @@ In name:
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
+ - Kale, Sausage & Potato Soup  
   
 **chicken**  
 In name:   
@@ -159,6 +160,7 @@ In name:
   
 In description:   
  - Station Recipe - Great Greens - FLM  
+ - Kale, Sausage & Potato Soup  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-08-26)  
 **Shrimp**  

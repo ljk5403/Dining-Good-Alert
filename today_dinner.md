@@ -1,6 +1,6 @@
 # 2025-08-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-26 18:16:11  
+Updated at: 2025-08-26 20:22:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-26)  
 **curry**  
 In name:   
@@ -78,17 +78,10 @@ In name:
  - Cream of Chicken & Wild Rice Soup  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-08-26)  
-**drumstick**  
-In name:   
- - Chicken Drumstick BBQ Glazed  
-  
 **steak**  
 In name:   
+ - Grilled Flank Steak  
  - Steak Street Taco  
-  
-**Tilapia**  
-In name:   
- - Baked Tilapia w/Dill Wine Sauce  
   
 **lamb**  
 In name:   
@@ -100,21 +93,23 @@ In name:
  - Lamb & Beef Gyro Sandwich  
   
 In description:   
+ - Grilled Flank Steak  
  - Pepperoni Pizza Slice  
  - Steak Street Taco  
   
 **pork**  
 In name:   
+ - Baked Pork Ham  
  - Green Beans w/ Pork Bacon  
  - Pork Miso w/Yakisoba Noodles  
   
 **chicken**  
 In name:   
- - Chicken Drumstick BBQ Glazed  
  - Beef & Chicken Meatballs  
  - Pulled Chicken Thigh  
  - Pizza Slice Chicken Sriracha  
  - Cream of Chicken & Wild Rice Soup  
+ - Chicken Paprikash  
   
 In description:   
  - Pepperoni Pizza Slice  
@@ -159,7 +154,7 @@ In description:
 In name:   
  - Italian Chicken  
  - Chicken Piece Seasoned Baked  
- - Chicken Empanada with Green Chili  
+ - Brazilian Chicken Salsa Plate  
  - Cream of Chicken & Wild Rice Soup  
   
 In description:   
