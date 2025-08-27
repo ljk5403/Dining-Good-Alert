@@ -1,6 +1,6 @@
 # 2025-08-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-27 13:25:52  
+Updated at: 2025-08-27 15:19:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-27)  
 **Tuna**  
 In name:   
@@ -11,7 +11,6 @@ In name:
  - Beef Broccoli Stir Fry w/Teriyaki Sauce  
  - Plant-Based Beef & Broccoli Stir Fry  
  - Beef Taco Meat  
- - Beef & Bean Chili  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
@@ -28,6 +27,7 @@ In name:
 In name:   
  - Chicken Breast w/Balsamic BBQ Sauce  
  - Fajita Chicken  
+ - Chicken Tortilla Soup  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
@@ -86,13 +86,6 @@ In name:
 In name:   
  - Coconut Shrimp  
   
-**fish**  
-In name:   
-  
-In description:   
- - California Roll  (FujiSan)  
- - Tempura Roll (FujiSan)  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
@@ -113,7 +106,6 @@ In name:
   
 **chicken**  
 In name:   
- - Baked Chicken (2 piece)  
  - Chicken Gravy  
  - Beef & Chicken Meatballs  
  - Pizza Slice BBQ Chicken & Bacon  
