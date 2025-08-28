@@ -1,6 +1,6 @@
 # 2025-08-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-28 16:16:04  
+Updated at: 2025-08-28 17:16:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-28)  
 **Tilapia**  
 In name:   
@@ -63,9 +63,20 @@ In name:
 In name:   
  - Lemon Pepper Tuna Salad  
   
+**fish**  
+In name:   
+  
+In description:   
+ - Beef Masaman Thai Curry  
+  
+**curry**  
+In name:   
+ - Beef Masaman Thai Curry  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
+ - Beef Masaman Thai Curry  
  - BBQ Beef Brisket Sandwich  
   
 In description:   
@@ -73,6 +84,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Italian Sausage  
   
 In description:   
  - Pizza Slice Sausage  
@@ -81,7 +93,6 @@ In description:
 In name:   
  - Chicken Paprikash  
  - Beef & Chicken Meatballs  
- - Mediterranean Chicken  
  - Bone-in Greek Chicken  
  - Chicken Empanada with Green Chili  
  - Chicken Noodle Soup  
@@ -149,7 +160,7 @@ In name:
   
 **beef**  
 In name:   
- - Beef Sirloin Tips  
+ - Beef Broccoli Stir Fry w/Teriyaki Sauce  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
