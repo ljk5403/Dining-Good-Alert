@@ -1,6 +1,6 @@
 # 2025-08-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-27 18:16:21  
+Updated at: 2025-08-27 20:22:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-27)  
 **steak**  
 In name:   
@@ -165,7 +165,6 @@ In name:
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
- - Bolognese Sauce  
   
 **pork**  
 In name:   
@@ -173,7 +172,6 @@ In name:
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
- - Bolognese Sauce  
   
 **chicken**  
 In name:   
