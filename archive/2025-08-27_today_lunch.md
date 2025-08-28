@@ -1,6 +1,6 @@
 # 2025-08-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-28 12:15:50  
+Updated at: 2025-08-28 13:25:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-28)  
 **Tuna**  
 In name:   
@@ -199,7 +199,7 @@ In description:
 **chicken**  
 In name:   
  - Chicken Noodle Soup  
- - Chicken Sausage Patties  
+ - Halal Chicken Sausage Link  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
