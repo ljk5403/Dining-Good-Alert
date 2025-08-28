@@ -1,16 +1,10 @@
 # 2025-08-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-28 10:19:02  
+Updated at: 2025-08-28 11:23:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-28)  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Tempura Roll (FujiSan)  
   
 **lamb**  
 In name:   
@@ -29,6 +23,7 @@ In description:
 In name:   
  - Pork Tamale Pie  
  - Loaded Potato Bacon (Pork) Pizza Slice  
+ - BBQ Pork Spare Ribs  
   
 **chicken**  
 In name:   
@@ -114,8 +109,8 @@ In name:
  - Buffalo Chicken Wings Boneless  
  - BBQ Chicken Wings Bone-In  
  - Buffalo Chicken Wings Bone-In  
- - Beef & Chicken Meatballs  
  - Mediterranean Chicken  
+ - Beef & Chicken Meatballs  
  - Pizza Slice BBQ Chicken & Bacon  
  - Sausage Links Chicken (halal) (AYCTE)  
  - Chicken Noodle Soup  
@@ -134,7 +129,6 @@ In name:
   
 **steak**  
 In name:   
- - Swiss Steak w/Brown Gravy  
  - Country Fried Steak  
   
 **Tuna**  
@@ -146,7 +140,6 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Swiss Steak w/Brown Gravy  
  - Vegan Sloppy Joe  
  - Country Fried Steak  
  - Grilled Blended Burger w/ Cheese  
@@ -163,7 +156,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Sausage Patty  
  - Chicken Noodle Soup  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-08-28)  
@@ -176,6 +168,10 @@ In name:
  - Brazilian Flank Steak  
  - Ham Steak  
   
+**Shrimp**  
+In name:   
+ - Coconut Shrimp  
+  
 **Tilapia**  
 In name:   
  - Blackened Tilapia Po-Boy Sandwich  
@@ -184,7 +180,6 @@ In name:
 In name:   
   
 In description:   
- - Chicken Korma  
  - Navarathan Korma (AYCTE)  
   
 **beef**  
@@ -203,7 +198,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Korma  
  - Chicken Noodle Soup  
   
 In description:   
