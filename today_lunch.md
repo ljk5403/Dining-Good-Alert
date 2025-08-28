@@ -1,6 +1,6 @@
 # 2025-08-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-28 01:27:37  
+Updated at: 2025-08-28 09:18:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-28)  
 **Tuna**  
 In name:   
@@ -136,6 +136,10 @@ In name:
  - Swiss Steak w/Brown Gravy  
  - Country Fried Steak  
   
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
 **beef**  
 In name:   
  - Beef Taco Meat  
@@ -154,14 +158,12 @@ In name:
 In description:   
  - Andouille Sausage  
  - Station Recipe - Deli  AYCTE FLM  
+ - Bacon Slice  
   
 **chicken**  
 In name:   
- - Lemon Pepper Chicken Salad  
+ - Chicken Sausage Patty  
  - Chicken Noodle Soup  
-  
-In description:   
- - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-08-28)  
 **Samosas**  
