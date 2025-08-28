@@ -1,6 +1,6 @@
 # 2025-08-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-28 01:27:40  
+Updated at: 2025-08-28 09:18:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-28)  
 **Tilapia**  
 In name:   
@@ -104,6 +104,10 @@ In name:
 In name:   
  - Build Your Own Poke Bar  
   
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
 **beef**  
 In name:   
  - Beef Hot Dog  
@@ -121,11 +125,12 @@ In name:
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
+ - Bacon Slice  
  - Andouille Sausage  
   
 **chicken**  
 In name:   
- - Lemon Pepper Chicken Salad  
+ - Chicken Sausage Patty  
  - Chicken Noodle Soup  
   
 In description:   

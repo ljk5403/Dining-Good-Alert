@@ -1,6 +1,6 @@
 # 2025-08-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-28 09:18:13  
+Updated at: 2025-08-28 10:19:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-28)  
 **Tuna**  
 In name:   
@@ -116,6 +116,7 @@ In name:
  - Buffalo Chicken Wings Bone-In  
  - Beef & Chicken Meatballs  
  - Mediterranean Chicken  
+ - Pizza Slice BBQ Chicken & Bacon  
  - Sausage Links Chicken (halal) (AYCTE)  
  - Chicken Noodle Soup  
   
