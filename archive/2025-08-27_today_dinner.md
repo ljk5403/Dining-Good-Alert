@@ -1,6 +1,6 @@
 # 2025-08-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-28 13:25:59  
+Updated at: 2025-08-28 15:19:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-28)  
 **Tilapia**  
 In name:   
@@ -70,7 +70,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Meatloaf  
  - Beef Gravy  
  - Beef & Chicken Meatballs  
  - BBQ Beef Brisket Sandwich  
@@ -86,8 +85,10 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Paprikash  
  - Beef & Chicken Meatballs  
  - Mediterranean Chicken  
+ - Bone-in Greek Chicken  
  - Chicken Empanada with Green Chili  
  - Chicken Noodle Soup  
  - Chicken Parmigiana  

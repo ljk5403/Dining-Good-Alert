@@ -1,6 +1,6 @@
 # 2025-08-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-28 15:19:44  
+Updated at: 2025-08-28 16:16:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-28)  
 **Tilapia**  
 In name:   
@@ -9,12 +9,6 @@ In name:
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Tempura Roll (FujiSan)  
   
 **beef**  
 In name:   
@@ -34,6 +28,7 @@ In name:
  - Beef & Chicken Meatballs  
  - Plant Based Chicken Strips  
  - Chicken Shawarma Sandwich  
+ - Honey Mustard Chicken & Vegetables  
  - Mediterranean Chicken  
  - Chicken Noodle Soup  
   
@@ -70,7 +65,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Gravy  
  - Beef & Chicken Meatballs  
  - BBQ Beef Brisket Sandwich  
   
@@ -105,6 +99,10 @@ In name:
 In name:   
  - Build Your Own Poke Bar  
   
+**steak**  
+In name:   
+ - Country Fried Steak  
+  
 **Tuna**  
 In name:   
  - Tuna Salad  
@@ -116,7 +114,8 @@ In name:
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
- - Fired Up Blended Burger  
+ - Country Fried Steak  
+ - Vegan Sloppy Joe  
   
 **pork**  
 In name:   
@@ -190,6 +189,7 @@ In name:
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
+ - Brown Gravy  
   
 **pork**  
 In name:   
