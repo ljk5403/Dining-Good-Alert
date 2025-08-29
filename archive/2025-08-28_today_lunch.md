@@ -1,6 +1,6 @@
 # 2025-08-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-29 01:26:57  
+Updated at: 2025-08-29 09:16:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-29)  
 **drumstick**  
 In name:   
@@ -91,12 +91,6 @@ In name:
 In name:   
  - Pizza Slice 16" Tandoori Chicken (AYCTE)  
   
-**steak**  
-In name:   
-  
-In description:   
- - Montreal Chicken  
-  
 **clam**  
 In name:   
  - Clam Chowder (Pork)  
@@ -133,13 +127,10 @@ In name:
   
 **chicken**  
 In name:   
- - Montreal Chicken  
+ - Chicken Pot Pie w/Biscuit  
  - Beef & Chicken Meatballs  
  - Pizza Slice 16" Tandoori Chicken (AYCTE)  
  - Jamaican Jerk Chicken  
-  
-In description:   
- - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-08-29)  
 **watermelon**  
@@ -163,9 +154,17 @@ In name:
 In description:   
  - Clam Chowder (Pork)  
   
+**Salmon**  
+In name:   
+ - Smoked Salmon  
+  
 **mahi mahi**  
 In name:   
  - Island Spiced Mahi Mahi  
+  
+**Tuna**  
+In name:   
+ - Tuna Salad  
   
 **fish**  
 In name:   
@@ -180,13 +179,11 @@ In name:
  - Bulgogi Beef  
   
 In description:   
- - Mushroom Swiss Blended Burger  
  - Station Recipe - Deli  AYCTE FLM  
  - Vegan Taco Filling  
   
 **pork**  
 In name:   
- - Chicken Grilled Cordon Bleu (Pork)  
  - Clam Chowder (Pork)  
   
 In description:   
@@ -194,13 +191,9 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Grilled Cordon Bleu (Pork)  
+ - Baked BBQ Chicken  
  - Crispy Chicken Sandwich  
- - Lemon Pepper Chicken Salad  
  - Bulgogi Chicken  
-  
-In description:   
- - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-08-29)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-08-29)  
