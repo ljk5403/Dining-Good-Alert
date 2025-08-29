@@ -1,6 +1,6 @@
 # 2025-08-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-29 15:18:57  
+Updated at: 2025-08-29 16:15:34  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-29)  
 **clam**  
 In name:   
@@ -55,6 +55,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Plant Based Chicken Strips  
  - Diced Chicken Breast  
  - Chicken Mole w/ Rice  
   
@@ -197,6 +198,10 @@ In description:
 In name:   
  - Tilapia Piccata  
   
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
 **fish**  
 In name:   
   
@@ -229,8 +234,6 @@ In description:
   
 **chicken**  
 In name:   
- - Lemon Pepper Chicken Salad  
- - Grilled Chicken Sandwich  
  - Chicken and Cheese Flauta  
  - Bulgogi Chicken  
   
