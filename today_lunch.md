@@ -1,6 +1,6 @@
 # 2025-08-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-29 11:22:06  
+Updated at: 2025-08-29 12:15:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-29)  
 **drumstick**  
 In name:   
@@ -130,6 +130,7 @@ In name:
  - Chicken Pot Pie w/Biscuit  
  - Beef & Chicken Meatballs  
  - Pizza Slice 16" Tandoori Chicken (AYCTE)  
+ - Halal Chicken Sausage Link  
  - Jamaican Jerk Chicken  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-08-29)  
