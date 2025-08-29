@@ -1,6 +1,6 @@
 # 2025-08-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-29 12:15:22  
+Updated at: 2025-08-29 13:23:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-29)  
 **drumstick**  
 In name:   
@@ -114,9 +114,14 @@ In name:
 In name:   
  - Blackened Catfish Po-Boy Sandwich  
   
+**lamb**  
+In name:   
+ - Lamb & Beef Gyro Sandwich  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
+ - Lamb & Beef Gyro Sandwich  
  - Beef Barbacoa  
  - Beef Taco Meat  
   
@@ -131,7 +136,6 @@ In name:
  - Beef & Chicken Meatballs  
  - Pizza Slice 16" Tandoori Chicken (AYCTE)  
  - Halal Chicken Sausage Link  
- - Jamaican Jerk Chicken  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-08-29)  
 **watermelon**  
@@ -227,7 +231,6 @@ In description:
 **chicken**  
 In name:   
  - Shoyu Chicken  
- - Plant-Based Chicken Tenders  
  - Moroccan Chicken Tagine  
   
 In description:   
