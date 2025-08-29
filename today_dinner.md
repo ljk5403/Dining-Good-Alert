@@ -1,6 +1,6 @@
 # 2025-08-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-28 18:16:45  
+Updated at: 2025-08-28 20:22:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-28)  
 **Tilapia**  
 In name:   
@@ -59,24 +59,17 @@ In name:
 In name:   
  - Shrimp with Bell Peppers  
   
+**Cod**  
+In name:   
+ - Lemon Pepper Cod Fillet  
+  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
   
-**fish**  
-In name:   
-  
-In description:   
- - Beef Masaman Thai Curry  
-  
-**curry**  
-In name:   
- - Beef Masaman Thai Curry  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Beef Masaman Thai Curry  
  - BBQ Beef Brisket Sandwich  
   
 In description:   
@@ -91,7 +84,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Paprikash  
+ - Breaded Chicken Parmigiana  
  - Beef & Chicken Meatballs  
  - Bone-in Greek Chicken  
  - Chicken Empanada with Green Chili  
@@ -110,10 +103,6 @@ In name:
 In name:   
  - Build Your Own Poke Bar  
   
-**steak**  
-In name:   
- - Country Fried Steak  
-  
 **Tuna**  
 In name:   
  - Tuna Salad  
@@ -125,7 +114,6 @@ In name:
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
- - Country Fried Steak  
  - Vegan Sloppy Joe  
   
 **pork**  

@@ -1,6 +1,6 @@
 # 2025-08-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-28 17:16:39  
+Updated at: 2025-08-28 18:16:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-28)  
 **Tilapia**  
 In name:   
@@ -141,6 +141,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Plant-Based Chicken Nuggets (6)  
  - Chicken Noodle Soup  
   
 In description:   
