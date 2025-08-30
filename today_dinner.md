@@ -1,6 +1,6 @@
 # 2025-08-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-30 12:13:30  
+Updated at: 2025-08-30 13:22:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-30)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-08-30)  
 **watermelon**  
@@ -76,9 +76,14 @@ In description:
 In name:   
  - Watermelon Slices  
   
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
 **beef**  
 In name:   
  - Beef Taco Meat  
+ - Beef Fajita  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
@@ -93,10 +98,8 @@ In description:
   
 **chicken**  
 In name:   
- - Lemon Pepper Chicken Salad  
  - Giardiniera Chicken  
  - Sesame Chicken  
- - Taco Chicken  
   
 In description:   
  - Station Recipe - Great Greens - FLM  
