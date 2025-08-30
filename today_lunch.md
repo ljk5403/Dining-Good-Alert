@@ -1,6 +1,6 @@
 # 2025-08-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-30 01:23:41  
+Updated at: 2025-08-30 09:14:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-30)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-08-30)  
 **watermelon**  
@@ -27,9 +27,13 @@ In description:
 In name:   
  - Carolina BBQ Pork Sandwich  
   
-**Tilapia**  
+**catfish**  
 In name:   
- - Tilapia Veracruz  
+ - Island Spiced Catfish  
+  
+**fish**  
+In name:   
+ - Island Spiced Catfish  
   
 **beef**  
 In name:   
@@ -61,14 +65,9 @@ In name:
 In description:   
  - Pepperoni Pizza Slice  
  - Gluten Free Pepperoni Pizza Quarter  
- - Gordon's Great Greens  
  - Kale, Sausage & Potato Soup  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-08-30)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
 **beef**  
 In name:   
  - Beef Taco Meat  
@@ -92,7 +91,6 @@ In name:
  - Taco Chicken  
   
 In description:   
- - Station Recipe - Great Greens - FLM  
  - Kale, Sausage & Potato Soup  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-08-30)  
