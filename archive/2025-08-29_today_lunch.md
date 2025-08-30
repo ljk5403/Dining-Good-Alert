@@ -1,6 +1,6 @@
 # 2025-08-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-30 10:15:37  
+Updated at: 2025-08-30 11:19:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-30)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-08-30)  
 **watermelon**  
@@ -57,6 +57,7 @@ In description:
 **chicken**  
 In name:   
  - Chicken Breast w/Balsamic BBQ Sauce  
+ - Chicken Empanada with Green Chili  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Sausage Links Chicken (halal) (AYCTE)  
@@ -68,6 +69,10 @@ In description:
  - Kale, Sausage & Potato Soup  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-08-30)  
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
 **beef**  
 In name:   
  - Beef Taco Meat  
@@ -87,7 +92,6 @@ In description:
 **chicken**  
 In name:   
  - Giardiniera Chicken  
- - Lemon Pepper Chicken Salad  
  - Taco Chicken  
   
 In description:   
