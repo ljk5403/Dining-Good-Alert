@@ -1,6 +1,6 @@
 # 2025-08-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-29 18:16:12  
+Updated at: 2025-08-29 20:18:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-29)  
 **clam**  
 In name:   
@@ -58,6 +58,7 @@ In name:
  - Plant Based Chicken Strips  
  - Diced Chicken Breast  
  - Chicken Mole w/ Rice  
+ - Chicken Adobo  
   
 In description:   
  - Chorizo Sauce  
@@ -103,10 +104,6 @@ In name:
 In name:   
  - Watermelon Slices  
   
-**Tandoori Chicken**  
-In name:   
- - Pizza Slice 16" Tandoori Chicken (AYCTE)  
-  
 **clam**  
 In name:   
  - Clam Chowder (Pork)  
@@ -150,9 +147,9 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Beef Carne Guisada  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Baked Corn Dog (Pork)  
   
 **pork**  
@@ -165,11 +162,12 @@ In name:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
- - Pizza Slice 16" Tandoori Chicken (AYCTE)  
+ - Chicken Empanada with Green Chili  
  - Plant-Based Chicken Nuggets (6)  
   
 In description:   
  - French Market Pork Jambalaya  
+ - Pepperoni Pizza Slice  
  - Gordon's Great Greens  
  - Baked Corn Dog (Pork)  
   
