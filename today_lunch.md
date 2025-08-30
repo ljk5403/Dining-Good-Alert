@@ -1,6 +1,6 @@
 # 2025-08-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-30 13:22:33  
+Updated at: 2025-08-30 15:17:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-30)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-08-30)  
 **watermelon**  
@@ -76,6 +76,7 @@ In name:
 **beef**  
 In name:   
  - Beef Taco Meat  
+ - Beef Fajita  
   
 In description:   
  - Chicago-Style Hot Dog  
@@ -92,7 +93,6 @@ In description:
 **chicken**  
 In name:   
  - Giardiniera Chicken  
- - Taco Chicken  
   
 In description:   
  - Kale, Sausage & Potato Soup  

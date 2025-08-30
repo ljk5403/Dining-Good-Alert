@@ -1,6 +1,6 @@
 # 2025-08-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-30 13:22:35  
+Updated at: 2025-08-30 15:17:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-30)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-08-30)  
 **watermelon**  
@@ -50,6 +50,7 @@ In description:
 **pork**  
 In name:   
  - Italian Pork Sausage  
+ - Pork Bratwurst Sandwich  
   
 In description:   
  - Pizza Slice Sausage  
@@ -61,7 +62,6 @@ In name:
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
- - Sausage Links Chicken (halal) (AYCTE)  
  - Chicken Tenders Breaded  
  - Plant-Based Chicken Nuggets (6)  
   
