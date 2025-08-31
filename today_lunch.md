@@ -1,6 +1,6 @@
 # 2025-08-31 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-31 01:24:57  
+Updated at: 2025-08-31 09:14:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-31)  
 **steak**  
 In name:   
@@ -59,6 +59,7 @@ In name:
 In description:   
  - Italian Meat Sauce  
  - Pepperoni Pizza Slice  
+ - Baked Corn Dog  
  - Vegan Taco Filling  
   
 **pork**  
@@ -68,18 +69,18 @@ In name:
   
 In description:   
  - Pizza Slice Sausage  
+ - Baked Corn Dog  
   
 **chicken**  
 In name:   
  - Chicken Drumstick Mango Habanero  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
- - Grilled Chicken Sandwich  
  - Chicken Tortilla Soup  
   
 In description:   
  - Pepperoni Pizza Slice  
- - Gordon's Great Greens  
+ - Baked Corn Dog  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-08-31)  
 **watermelon**  

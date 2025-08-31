@@ -1,39 +1,55 @@
-# 2025-08-30 lunch  
+# 2025-08-31 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-30 20:27:12  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-30)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-08-30)  
-**watermelon**  
+Updated at: 2025-08-31 01:24:57  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-31)  
+**steak**  
 In name:   
- - Melon Watermelon Whole Sliced  
+ - Ham Steak  
   
-**pork**  
-In name:   
- - Pork Sausage Links  
-  
-In description:   
- - Kale, Sausage & Potato Soup  
-  
-**chicken**  
-In name:   
- - Sausage Links Chicken (halal) (AYCTE)  
- - Lemon Pepper Chicken Salad  
-  
-In description:   
- - Kale, Sausage & Potato Soup  
-  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-08-30)  
 **BBQ Pork Sandwich**  
 In name:   
  - Carolina BBQ Pork Sandwich  
   
-**catfish**  
+**curry**  
 In name:   
- - Island Spiced Catfish  
   
-**fish**  
+In description:   
+ - Chicken Ala King over Biscuit  
+  
+**beef**  
 In name:   
- - Island Spiced Catfish  
+ - Beef Taco Meat  
+  
+In description:   
+ - Pepperoni Pizza Slice  
+ - Vegan Taco Filling  
+  
+**pork**  
+In name:   
+ - Carolina BBQ Pork Sandwich  
+ - Pork Carnita  
+  
+In description:   
+ - Ham Steak  
+  
+**chicken**  
+In name:   
+ - Chicken Ala King over Biscuit  
+ - Plant-Based Chicken & Gravy (VN)  
+ - Chicken Salad  
+ - Fajita Chicken  
+ - Chicken Tortilla Soup  
+ - Sausage Links Chicken (halal) (AYCTE)  
+  
+In description:   
+ - Pepperoni Pizza Slice  
+ - Great Greens  
+  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-08-31)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-08-31)  
+**drumstick**  
+In name:   
+ - Chicken Drumstick Mango Habanero  
   
 **beef**  
 In name:   
@@ -43,60 +59,89 @@ In name:
 In description:   
  - Italian Meat Sauce  
  - Pepperoni Pizza Slice  
- - Gluten Free Pepperoni Pizza Quarter  
+ - Vegan Taco Filling  
   
 **pork**  
 In name:   
- - Italian Pork Sausage  
- - Carolina BBQ Pork Sandwich  
+ - Jerk Pork Chop  
+ - Pork Carnita  
   
 In description:   
  - Pizza Slice Sausage  
- - Kale, Sausage & Potato Soup  
   
 **chicken**  
 In name:   
- - Chicken Breast w/Balsamic BBQ Sauce  
+ - Chicken Drumstick Mango Habanero  
  - Beef & Chicken Meatballs  
- - Lemon Pepper Chicken Salad  
- - Sausage Links Chicken (halal) (AYCTE)  
- - Chicken Tinga  
+ - Giardiniera Chicken  
+ - Grilled Chicken Sandwich  
+ - Chicken Tortilla Soup  
   
 In description:   
  - Pepperoni Pizza Slice  
- - Gluten Free Pepperoni Pizza Quarter  
- - Kale, Sausage & Potato Soup  
+ - Gordon's Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-08-30)  
-**Tuna**  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-08-31)  
+**watermelon**  
 In name:   
- - Tuna Salad  
- - Poke Tuna (*Raw)  
+ - Watermelon Slices  
   
 **beef**  
 In name:   
+ - Beef & Chicken Meatballs  
  - Beef Taco Meat  
- - Beef Fajita  
   
 In description:   
- - Chicago-Style Hot Dog  
+ - Italian Meat Sauce  
  - Station Recipe - Deli  AYCTE FLM  
   
 **pork**  
 In name:   
+ - Quiche Pork Sausage & Cheddar  
  - Pork Sausage Links  
+ - Pork Carnita  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
- - Kale, Sausage & Potato Soup  
   
 **chicken**  
 In name:   
- - Giardiniera Chicken  
+ - Sausage Links Chicken (halal) (AYCTE)  
+ - Crispy Chicken Sandwich  
+ - Plant Based Chicken Strips  
+ - Beef & Chicken Meatballs  
+ - Lemon Pepper Chicken Salad  
+ - Chicken Tortilla Soup  
   
 In description:   
- - Kale, Sausage & Potato Soup  
+ - Station Recipe - Great Greens - FLM  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-08-30)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-08-30)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-08-31)  
+**beef**  
+In name:   
+  
+In description:   
+ - Pizza Pepperoni & Banana Pepper  
+ - Chicago-Style Hot Dog  
+  
+**pork**  
+In name:   
+ - Pork Adobo  
+ - Pork Sausage Patty  
+  
+In description:   
+ - Pizza Slice Sausage  
+ - Egg, Sausage & Cheese English Muffin  
+  
+**chicken**  
+In name:   
+ - Jamaican Jerk Chicken  
+ - Chicken Gravy  
+ - Chicken Tortilla Soup  
+  
+In description:   
+ - Pizza Pepperoni & Banana Pepper  
+ - Great Greens  
+  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-08-31)  
   
