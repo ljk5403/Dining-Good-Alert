@@ -1,6 +1,6 @@
 # 2025-08-31 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-31 12:13:47  
+Updated at: 2025-08-31 13:23:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-31)  
 **steak**  
 In name:   
@@ -47,9 +47,9 @@ In description:
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-08-31)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-08-31)  
-**drumstick**  
+**Cod**  
 In name:   
- - Chicken Drumstick Mango Habanero  
+ - Lemon Pepper Cod Fillet  
   
 **beef**  
 In name:   
@@ -73,7 +73,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Drumstick Mango Habanero  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Chicken Tortilla Soup  
@@ -86,6 +85,11 @@ In description:
 **watermelon**  
 In name:   
  - Watermelon Slices  
+  
+**Tuna**  
+In name:   
+ - Tuna Salad  
+ - Poke Tuna (*Raw)  
   
 **beef**  
 In name:   
@@ -111,7 +115,6 @@ In name:
  - Crispy Chicken Sandwich  
  - Plant Based Chicken Strips  
  - Beef & Chicken Meatballs  
- - Lemon Pepper Chicken Salad  
  - Chicken Tortilla Soup  
   
 In description:   
