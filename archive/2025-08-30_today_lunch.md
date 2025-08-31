@@ -1,0 +1,102 @@
+# 2025-08-30 lunch  
+*THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
+Updated at: 2025-08-30 20:27:12  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-30)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-08-30)  
+**watermelon**  
+In name:   
+ - Melon Watermelon Whole Sliced  
+  
+**pork**  
+In name:   
+ - Pork Sausage Links  
+  
+In description:   
+ - Kale, Sausage & Potato Soup  
+  
+**chicken**  
+In name:   
+ - Sausage Links Chicken (halal) (AYCTE)  
+ - Lemon Pepper Chicken Salad  
+  
+In description:   
+ - Kale, Sausage & Potato Soup  
+  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-08-30)  
+**BBQ Pork Sandwich**  
+In name:   
+ - Carolina BBQ Pork Sandwich  
+  
+**catfish**  
+In name:   
+ - Island Spiced Catfish  
+  
+**fish**  
+In name:   
+ - Island Spiced Catfish  
+  
+**beef**  
+In name:   
+ - Beef & Chicken Meatballs  
+ - Beef Taco Meat  
+  
+In description:   
+ - Italian Meat Sauce  
+ - Pepperoni Pizza Slice  
+ - Gluten Free Pepperoni Pizza Quarter  
+  
+**pork**  
+In name:   
+ - Italian Pork Sausage  
+ - Carolina BBQ Pork Sandwich  
+  
+In description:   
+ - Pizza Slice Sausage  
+ - Kale, Sausage & Potato Soup  
+  
+**chicken**  
+In name:   
+ - Chicken Breast w/Balsamic BBQ Sauce  
+ - Beef & Chicken Meatballs  
+ - Lemon Pepper Chicken Salad  
+ - Sausage Links Chicken (halal) (AYCTE)  
+ - Chicken Tinga  
+  
+In description:   
+ - Pepperoni Pizza Slice  
+ - Gluten Free Pepperoni Pizza Quarter  
+ - Kale, Sausage & Potato Soup  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-08-30)  
+**Tuna**  
+In name:   
+ - Tuna Salad  
+ - Poke Tuna (*Raw)  
+  
+**beef**  
+In name:   
+ - Beef Taco Meat  
+ - Beef Fajita  
+  
+In description:   
+ - Chicago-Style Hot Dog  
+ - Station Recipe - Deli  AYCTE FLM  
+  
+**pork**  
+In name:   
+ - Pork Sausage Links  
+  
+In description:   
+ - Station Recipe - Deli  AYCTE FLM  
+ - Kale, Sausage & Potato Soup  
+  
+**chicken**  
+In name:   
+ - Giardiniera Chicken  
+  
+In description:   
+ - Kale, Sausage & Potato Soup  
+  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-08-30)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-08-30)  
+  
