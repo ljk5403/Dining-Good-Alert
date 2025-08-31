@@ -1,6 +1,6 @@
 # 2025-08-31 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-31 15:18:23  
+Updated at: 2025-08-31 16:15:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-31)  
 **beef**  
 In name:   
@@ -81,7 +81,6 @@ In name:
   
 **beef**  
 In name:   
- - Barbacoa Beef w/Mango Habanero Sandwich  
  - Beef & Chicken Meatballs  
  - Beef Bombay Curry  
  - Beef Taco Meat  
@@ -100,8 +99,8 @@ In description:
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad  
+ - Crispy Chicken Sandwich  
  - Beef & Chicken Meatballs  
- - Plant Based Chicken Strips  
  - Chicken Tortilla Soup  
   
 In description:   
@@ -116,6 +115,10 @@ In name:
 **Shrimp**  
 In name:   
  - Shrimp & Krab Salad  
+  
+**Salmon**  
+In name:   
+ - Blackened Salmon  
   
 **fish**  
 In name:   
@@ -143,7 +146,6 @@ In description:
   
 **chicken**  
 In name:   
- - Brazilian Chicken w/ Salsa Vinaigrette  
  - Chicken Tortilla Soup  
  - Chicken Drummies  
   
