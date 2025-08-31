@@ -1,6 +1,6 @@
 # 2025-09-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-31 15:18:38  
+Updated at: 2025-08-31 16:15:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-02)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-09-02)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-09-02)  
@@ -17,8 +17,8 @@ In name:
 **pork**  
 In name:   
  - Jalapeno Popper (Pork) Pizza Slice  
- - Sweet Pork Longanisa  
- - Pork Lumpianisa  
+ - Filipino Pork Sausage  
+ - FIipino Pork  
   
 In description:   
  - Pizza Slice Sausage  

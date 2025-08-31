@@ -1,6 +1,6 @@
 # 2025-08-31 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-31 13:23:15  
+Updated at: 2025-08-31 15:18:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-08-31)  
 **steak**  
 In name:   
@@ -47,9 +47,13 @@ In description:
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-08-31)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-08-31)  
-**Cod**  
+**catfish**  
 In name:   
- - Lemon Pepper Cod Fillet  
+ - Blackened Catfish  
+  
+**fish**  
+In name:   
+ - Blackened Catfish  
   
 **beef**  
 In name:   
