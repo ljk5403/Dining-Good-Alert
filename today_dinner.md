@@ -1,6 +1,6 @@
 # 2025-08-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-30 18:15:45  
+Updated at: 2025-08-30 20:27:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-30)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-08-30)  
 **watermelon**  
@@ -32,6 +32,10 @@ In description:
  - Kale, Sausage & Potato Soup  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-08-30)  
+**Cod**  
+In name:   
+ - Lemon Pepper Cod Fillet  
+  
 **fish**  
 In name:   
  - Vegan Fish Sandwich  
@@ -54,7 +58,6 @@ In description:
 **pork**  
 In name:   
  - Italian Pork Sausage  
- - Pork Bratwurst Sandwich  
   
 In description:   
  - Pizza Slice Sausage  
@@ -62,7 +65,6 @@ In description:
   
 **chicken**  
 In name:   
- - Huli Huli Chicken  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
