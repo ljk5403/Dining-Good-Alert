@@ -1,6 +1,6 @@
 # 2025-08-31 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-31 17:16:08  
+Updated at: 2025-08-31 18:16:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-31)  
 **beef**  
 In name:   
@@ -92,6 +92,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Carnita  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  

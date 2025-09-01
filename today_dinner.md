@@ -1,6 +1,6 @@
 # 2025-08-31 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-08-31 18:16:03  
+Updated at: 2025-08-31 20:43:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-08-31)  
 **beef**  
 In name:   
@@ -31,13 +31,8 @@ In description:
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-08-31)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-08-31)  
-**curry**  
-In name:   
- - Mango Beef Curry  
-  
 **beef**  
 In name:   
- - Mango Beef Curry  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
   
@@ -49,7 +44,7 @@ In description:
   
 **pork**  
 In name:   
- - Pork Loin Apricot Glazed  
+ - Roasted Pork Loin  
  - Pork Carnita  
   
 In description:   
@@ -57,6 +52,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Empanada with Green Chili  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Chicken Tortilla Soup  
