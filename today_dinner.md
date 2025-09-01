@@ -1,6 +1,6 @@
 # 2025-09-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-01 13:24:44  
+Updated at: 2025-09-01 15:18:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-01)  
 **Shrimp**  
 In name:   
@@ -128,10 +128,6 @@ In name:
 In name:   
  - Coconut Thai Curry Mahi Mahi  
   
-**Tuna**  
-In name:   
- - Tuna Salad  
-  
 **fish**  
 In name:   
   
@@ -161,6 +157,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Crispy Buffalo Chicken Sandwich  
  - Maple Cider Chicken  
  - Lemon Chicken Rice Soup  
