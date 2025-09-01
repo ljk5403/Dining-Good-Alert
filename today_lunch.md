@@ -1,6 +1,6 @@
 # 2025-09-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-01 10:17:53  
+Updated at: 2025-09-01 11:21:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-01)  
 **beef**  
 In name:   
@@ -27,7 +27,7 @@ In name:
  - Chicken Salad  
  - Chicken Tinga  
  - Plant Based Protein Chicken Taco Filling  
- - Lemon Chicken Rice Soup  
+ - Chicken Noodle Soup  
   
 In description:   
  - Pizza Slice Deluxe (Pork)  
@@ -69,10 +69,6 @@ In name:
 **watermelon**  
 In name:   
  - Watermelon Slices  
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad  
   
 **lamb**  
 In name:   
@@ -146,7 +142,6 @@ In description:
   
 **beef**  
 In name:   
- - 1849 BBQ Beef Brisket Slider  
  - BBQ Beef Brisket Sliders  
  - Lamb & Beef Gyro Sandwich  
   
