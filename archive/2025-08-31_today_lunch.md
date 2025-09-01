@@ -1,6 +1,6 @@
 # 2025-09-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-01 01:30:29  
+Updated at: 2025-09-01 09:17:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-01)  
 **beef**  
 In name:   
@@ -121,10 +121,6 @@ In name:
 In name:   
  - Samosas  
   
-**Tuna**  
-In name:   
- - Tuna Salad  
-  
 **fish**  
 In name:   
   
@@ -162,6 +158,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Lemon Chicken Rice Soup  
   
 In description:   
@@ -179,7 +176,7 @@ In description:
 **chicken**  
 In name:   
  - Pizza Slice Chicken Alfredo  
- - Spicy Lo Mein w/Chicken  
+ - General Tso's Chicken  
  - Lemon Chicken Rice Soup  
  - Sausage Links Chicken (halal) (AYCTE)  
  - Blackened Chicken Sandwich  

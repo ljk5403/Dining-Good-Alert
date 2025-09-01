@@ -1,6 +1,6 @@
 # 2025-09-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-01 09:17:19  
+Updated at: 2025-09-01 10:17:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-01)  
 **beef**  
 In name:   
@@ -74,6 +74,10 @@ In name:
 In name:   
  - Lemon Pepper Tuna Salad  
   
+**lamb**  
+In name:   
+ - Lamb & Beef Gyro Sandwich  
+  
 **curry**  
 In name:   
  - Mixed Vegetable Curry  
@@ -85,12 +89,12 @@ In description:
 In name:   
  - Beef Vindaloo  
  - Beef & Chicken Meatballs  
+ - Lamb & Beef Gyro Sandwich  
  - Beef Taco Meat  
   
 In description:   
  - Pizza Slice - Bacon Cheeseburger  
  - Gluten Free Pepperoni Pizza Quarter  
- - Reuben  
  - Vegan Taco Filling  
   
 **pork**  
