@@ -1,6 +1,6 @@
 # 2025-09-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-01 15:18:22  
+Updated at: 2025-09-01 16:15:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-01)  
 **Shrimp**  
 In name:   
@@ -85,6 +85,7 @@ In name:
 **beef**  
 In name:   
  - Traditional Beef Shepard's Pie  
+ - Beef Vindaloo  
  - Beef & Chicken Meatballs  
   
 In description:   
@@ -120,6 +121,10 @@ In name:
 In name:   
  - Broccoli Rabe  
   
+**drumstick**  
+In name:   
+ - Chicken Drumstick BBQ Glazed  
+  
 **Pakoras**  
 In name:   
  - Appetizer -  Pakoras Vegetable (Veg)  
@@ -139,11 +144,16 @@ In description:
 In name:   
  - Black Eyed Pea Curry w/ Rice  
  - Coconut Thai Curry Mahi Mahi  
+ - Beef Bombay Curry  
  - Curry Potatoes  
+  
+In description:   
+ - Pakora Sauce  
   
 **beef**  
 In name:   
- - Beef Stew  
+ - Beef Stew w/ Buttermilk Biscuit  
+ - Beef Bombay Curry  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
@@ -159,7 +169,7 @@ In description:
 In name:   
  - Lemon Pepper Chicken Salad  
  - Crispy Buffalo Chicken Sandwich  
- - Maple Cider Chicken  
+ - Chicken Drumstick BBQ Glazed  
  - Lemon Chicken Rice Soup  
   
 In description:   
