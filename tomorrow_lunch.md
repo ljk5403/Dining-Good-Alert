@@ -1,6 +1,6 @@
 # 2025-09-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-02 09:18:01  
+Updated at: 2025-09-02 10:19:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-03)  
 **beef**  
 In name:   
@@ -76,7 +76,7 @@ In name:
   
 In description:   
  - California Roll  (FujiSan)  
- - Tempura Roll (FujiSan)  
+ - Nori Roll - Tempura (FujiSan)  
   
 **curry**  
 In name:   
@@ -107,7 +107,7 @@ In name:
  - Beef & Chicken Meatballs  
  - Chicken Bacon (Pork) Ranch Pizza  
  - Lemon Pepper Chicken Salad  
- - Sweet & Spicy Orange Chicken  
+ - Orange Sweet & Spicy Chicken  
  - Plant Based Sweet & Sour Chicken  
   
 In description:   
