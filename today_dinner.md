@@ -1,6 +1,6 @@
 # 2025-09-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-01 18:16:25  
+Updated at: 2025-09-01 20:23:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-01)  
 **Shrimp**  
 In name:   
@@ -69,17 +69,23 @@ In name:
 In name:   
  - Steak Street Taco  
   
-**Shrimp**  
+**mahi mahi**  
 In name:   
- - Shrimp Curry  
+ - Coconut Thai Curry Mahi Mahi  
   
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
   
+**fish**  
+In name:   
+  
+In description:   
+ - Coconut Thai Curry Mahi Mahi  
+  
 **curry**  
 In name:   
- - Shrimp Curry  
+ - Coconut Thai Curry Mahi Mahi  
  - Coconut Tofu w/Red Curry Sauce  
   
 **beef**  
@@ -103,7 +109,8 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
- - Lemon Chicken Rice Soup  
+ - Chicken Tinga  
+ - Cream of Chicken & Wild Rice Soup  
  - BYO - MTO Chicken Wrap - Gordon  
  - Chicken Thigh Strip  
   

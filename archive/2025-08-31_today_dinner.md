@@ -1,6 +1,6 @@
 # 2025-09-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-01 17:16:26  
+Updated at: 2025-09-01 18:16:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-01)  
 **Shrimp**  
 In name:   
@@ -85,7 +85,6 @@ In name:
 **beef**  
 In name:   
  - Traditional Beef Shepard's Pie  
- - Beef Vindaloo  
  - Beef & Chicken Meatballs  
   
 In description:   
