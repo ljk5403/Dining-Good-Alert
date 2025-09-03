@@ -1,6 +1,6 @@
 # 2025-09-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-03 09:17:58  
+Updated at: 2025-09-03 10:18:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-03)  
 **beef**  
 In name:   
@@ -120,10 +120,6 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**Tuna**  
-In name:   
- - Tuna Salad  
-  
 **beef**  
 In name:   
  - Beef Hot Tamale Pie  
@@ -146,6 +142,7 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
+ - Lemon Pepper Chicken Salad  
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
  - Protein - Chicken Thinly Sliced  
