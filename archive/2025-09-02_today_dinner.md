@@ -1,6 +1,6 @@
 # 2025-09-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-03 13:25:13  
+Updated at: 2025-09-03 15:19:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-03)  
 **Beef Alicha**  
 In name:   
@@ -151,10 +151,6 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**Tuna**  
-In name:   
- - Tuna Salad  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
@@ -174,6 +170,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Beef & Chicken Meatballs  
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
