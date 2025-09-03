@@ -1,6 +1,6 @@
 # 2025-09-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-03 16:15:18  
+Updated at: 2025-09-03 17:15:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-03)  
 **Beef Alicha**  
 In name:   
@@ -244,6 +244,7 @@ In name:
  - Tandoori Chicken  
  - Beef & Chicken Meatballs  
  - Diced Chicken Breast  
+ - Moroccan Chicken Tagine  
   
 In description:   
  - Great Greens  
