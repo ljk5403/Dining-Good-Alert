@@ -1,6 +1,6 @@
 # 2025-09-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-03 01:26:02  
+Updated at: 2025-09-03 09:17:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-03)  
 **beef**  
 In name:   
@@ -107,6 +107,7 @@ In name:
  - Beef & Chicken Meatballs  
  - Chicken Bacon (Pork) Ranch Pizza  
  - Lemon Pepper Chicken Salad  
+ - Halal Chicken Sausage Link  
  - Orange Sweet & Spicy Chicken  
  - Plant Based Sweet & Sour Chicken  
   
@@ -148,9 +149,6 @@ In name:
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
  - Protein - Chicken Thinly Sliced  
-  
-In description:   
- - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-09-03)  
 **Salmon**  
