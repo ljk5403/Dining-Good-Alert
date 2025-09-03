@@ -1,13 +1,13 @@
 # 2025-09-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-03 10:18:50  
+Updated at: 2025-09-03 11:21:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-03)  
 **beef**  
 In name:   
  - Beef Taco Meat  
  - Beef Fajita Meat  
  - Beef & Bean Chili  
- - Beef Pasta Tortellini  
+ - Beef Ravioli Plain  
   
 In description:   
  - Pepperoni & Mushrooms Pizza  
@@ -78,12 +78,6 @@ In description:
  - California Roll  (FujiSan)  
  - Nori Roll - Tempura (FujiSan)  
   
-**curry**  
-In name:   
-  
-In description:   
- - Tikka Masala Pizza  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
@@ -98,7 +92,7 @@ In description:
 In name:   
  - Italian Pork Sausage  
  - Chicken Bacon (Pork) Ranch Pizza  
- - Gluten Free Pork Sausage Pizza Quarter  
+ - Hawaiian (Pork) Pizza Slice  
   
 **chicken**  
 In name:   
@@ -112,7 +106,6 @@ In name:
  - Plant Based Sweet & Sour Chicken  
   
 In description:   
- - Tikka Masala Pizza  
  - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-09-03)  
@@ -181,6 +174,10 @@ In description:
  - Great Greens  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-09-03)  
+**Cod**  
+In name:   
+ - Battered Cod  
+  
 **curry**  
 In name:   
   

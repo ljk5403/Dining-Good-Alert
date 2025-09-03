@@ -1,6 +1,6 @@
 # 2025-09-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-03 10:18:55  
+Updated at: 2025-09-03 11:21:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-03)  
 **Beef Alicha**  
 In name:   
@@ -8,7 +8,7 @@ In name:
   
 **Cod**  
 In name:   
- - Panko Crusted Cod w/ Lemon Sauce  
+ - Lemon Pepper Cod Fillet  
   
 **lamb**  
 In name:   
@@ -43,7 +43,6 @@ In name:
  - Chicken Salad  
   
 In description:   
- - Panko Crusted Cod w/ Lemon Sauce  
  - Pepperoni & Mushrooms Pizza  
  - Great Greens  
   
