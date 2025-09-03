@@ -1,6 +1,6 @@
 # 2025-09-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-03 11:21:51  
+Updated at: 2025-09-03 12:14:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-03)  
 **beef**  
 In name:   
@@ -109,10 +109,6 @@ In description:
  - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-09-03)  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
 **beef**  
 In name:   
  - Beef Hot Tamale Pie  

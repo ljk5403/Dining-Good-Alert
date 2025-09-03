@@ -1,6 +1,6 @@
 # 2025-09-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-03 12:14:56  
+Updated at: 2025-09-03 13:25:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-03)  
 **beef**  
 In name:   
@@ -15,6 +15,7 @@ In description:
 **pork**  
 In name:   
  - Pork Adobo  
+ - Pork Italian Sausage  
  - Italian Pork Sausage  
   
 In description:   
@@ -70,13 +71,6 @@ In name:
 **Tilapia**  
 In name:   
  - Baked Tilapia w/ Tomato Tapenade  
-  
-**fish**  
-In name:   
-  
-In description:   
- - California Roll  (FujiSan)  
- - Nori Roll - Tempura (FujiSan)  
   
 **beef**  
 In name:   

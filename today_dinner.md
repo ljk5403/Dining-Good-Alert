@@ -1,6 +1,6 @@
 # 2025-09-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-03 12:14:58  
+Updated at: 2025-09-03 13:25:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-03)  
 **Beef Alicha**  
 In name:   
@@ -72,12 +72,12 @@ In name:
   
 **curry**  
 In name:   
+ - Chicken Curry  
  - Sub - Vegetable Coconut Curry - Monsoon  
  - Indian Fish Curry  
  - Curry Potatoes  
   
 In description:   
- - Tikka Masala Chicken  
  - Pakora Sauce  
   
 **beef**  
@@ -90,7 +90,7 @@ In description:
   
 **chicken**  
 In name:   
- - Tikka Masala Chicken  
+ - Chicken Curry  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-09-03)  
 **Cod**  
