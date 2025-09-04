@@ -1,6 +1,6 @@
 # 2025-09-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-04 01:26:31  
+Updated at: 2025-09-04 09:16:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-04)  
 **Cod**  
 In name:   
@@ -79,7 +79,6 @@ In name:
 **pork**  
 In name:   
  - Cajun Rice w/ Pork & Black Eyed Peas  
- - Pizza Slice BBQ Pulled Pork  
  - Pork Sausage Country Gravy w/ Biscuit  
  - Pork Carnita  
   
@@ -88,6 +87,7 @@ In name:
  - Plant-Based Chicken Etouffee  
  - Beef & Chicken Meatballs  
  - Mediterranean Chicken  
+ - BBQ Chicken Flatbread Pizza  
  - Sausage Links Chicken (halal) (AYCTE)  
  - Chicken Bruschetta Sandwich  
  - Chicken Shawarma Sandwich  
@@ -119,7 +119,6 @@ In name:
 In description:   
  - Grilled Flank Steak  
  - Grilled Blended Burger w/ Cheese  
- - Station Recipe - Deli  AYCTE FLM  
  - Pizza Slice Deluxe (Pork)  
   
 **pork**  
@@ -128,11 +127,11 @@ In name:
   
 In description:   
  - Andouille Sausage  
- - Station Recipe - Deli  AYCTE FLM  
   
 **chicken**  
 In name:   
  - Cajun Chicken Pasta  
+ - Lemon Pepper Chicken Salad  
  - Chicken Noodle Soup  
   
 In description:   
