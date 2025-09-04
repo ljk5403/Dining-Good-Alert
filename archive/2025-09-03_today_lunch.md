@@ -1,6 +1,6 @@
 # 2025-09-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-04 13:24:49  
+Updated at: 2025-09-04 15:19:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-04)  
 **Cod**  
 In name:   
@@ -86,7 +86,6 @@ In name:
 In name:   
  - Plant-Based Chicken Etouffee  
  - Beef & Chicken Meatballs  
- - Mediterranean Chicken  
  - BBQ Chicken Flatbread Pizza  
  - Sausage Links Chicken (halal) (AYCTE)  
  - Chicken Bruschetta Sandwich  
@@ -118,7 +117,7 @@ In description:
   
 **pork**  
 In name:   
- - Gluten Free Pork Sausage Pizza  
+ - Pizza Slice Sausage (Pork)  
   
 In description:   
  - Andouille Sausage  
