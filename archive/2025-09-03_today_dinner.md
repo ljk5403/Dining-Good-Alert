@@ -1,6 +1,6 @@
 # 2025-09-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-04 15:19:05  
+Updated at: 2025-09-04 16:15:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-04)  
 **Salmon**  
 In name:   
@@ -92,7 +92,6 @@ In description:
   
 **pork**  
 In name:   
- - Pizza Slice BBQ Pulled Pork  
  - Jerk Pork Chop  
  - Carolina BBQ Pork Sandwich  
   
@@ -101,6 +100,7 @@ In name:
  - Chicken French  
  - Beef & Chicken Meatballs  
  - Mediterranean Chicken  
+ - BBQ Chicken Flatbread Pizza  
  - Chicken Tamale with Oaxaca  
  - Chicken Noodle Soup  
   
@@ -116,27 +116,22 @@ In name:
 In name:   
  - Build Your Own Poke Bar  
   
-**duck**  
+**steak**  
 In name:   
- - Duck Curry  
+ - Beef Flank Steak  
+  
+**Cod**  
+In name:   
+ - Baked Lemon Butter Cod  
   
 **Tuna**  
 In name:   
  - Tuna Salad  
   
-**fish**  
-In name:   
-  
-In description:   
- - Duck Curry  
-  
-**curry**  
-In name:   
- - Duck Curry  
-  
 **beef**  
 In name:   
  - Beef Quesadilla  
+ - Beef Flank Steak  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
@@ -166,7 +161,6 @@ In name:
 **Tilapia**  
 In name:   
  - Lemon Bake Tilapia  
- - Blackened Tilapia Po-Boy Sandwich  
   
 **fish**  
 In name:   
@@ -179,6 +173,7 @@ In name:
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
+ - Sloppy Joe  
   
 **pork**  
 In name:   
@@ -214,6 +209,7 @@ In description:
 **pork**  
 In name:   
  - Appetizer -  Fried Pork Potstickers  
+ - Imperial Pork Stir Fry  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
