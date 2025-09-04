@@ -1,6 +1,6 @@
 # 2025-09-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-04 09:16:53  
+Updated at: 2025-09-04 10:18:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-04)  
 **Cod**  
 In name:   
@@ -109,21 +109,15 @@ In name:
 In name:   
  - Grilled Flank Steak  
   
-**Tuna**  
-In name:   
- - Tuna Salad  
-  
 **beef**  
 In name:   
   
 In description:   
  - Grilled Flank Steak  
  - Grilled Blended Burger w/ Cheese  
- - Pizza Slice Deluxe (Pork)  
   
 **pork**  
 In name:   
- - Pizza Slice Deluxe (Pork)  
   
 In description:   
  - Andouille Sausage  
@@ -132,10 +126,10 @@ In description:
 In name:   
  - Cajun Chicken Pasta  
  - Lemon Pepper Chicken Salad  
+ - BBQ Chicken Flatbread Pizza  
  - Chicken Noodle Soup  
   
 In description:   
- - Pizza Slice Deluxe (Pork)  
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-09-04)  
