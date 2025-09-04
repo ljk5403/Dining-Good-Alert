@@ -1,6 +1,6 @@
 # 2025-09-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-03 18:15:15  
+Updated at: 2025-09-03 20:18:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-03)  
 **Beef Alicha**  
 In name:   
@@ -24,7 +24,6 @@ In description:
 **beef**  
 In name:   
  - Beef Alicha  
- - Beef Pasta Tortellini  
  - Beef & Bean Chili  
   
 In description:   
@@ -33,6 +32,7 @@ In description:
 **pork**  
 In name:   
  - Italian Pork Sausage  
+ - Pulled Pork Sliders  
  - Pork Belly for Street Taco - Carson  
   
 In description:   
@@ -112,9 +112,6 @@ In description:
 In name:   
  - Thai Veggie Meatballs w/ Green Curry  
   
-In description:   
- - Tikka Masala Pizza  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
@@ -129,6 +126,7 @@ In name:
  - Roasted Pork Loin  
  - Italian Pork Sausage  
  - Chicken Bacon (Pork) Ranch Pizza  
+ - Hawaiian (Pork) Pizza Slice  
  - Gluten Free Pork Sausage Pizza Quarter  
   
 In description:   
@@ -143,7 +141,6 @@ In name:
  - Sweet & Sour Chicken  
   
 In description:   
- - Tikka Masala Pizza  
  - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-09-03)  
@@ -160,7 +157,6 @@ In name:
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
  - Blackened Blended Hamburger  
- - Italian Meat Sauce  
   
 **pork**  
 In name:   
