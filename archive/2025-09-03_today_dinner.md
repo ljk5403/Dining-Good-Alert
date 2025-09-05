@@ -1,6 +1,6 @@
 # 2025-09-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-04 17:16:25  
+Updated at: 2025-09-04 18:16:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-04)  
 **Salmon**  
 In name:   
@@ -91,6 +91,7 @@ In description:
   
 **pork**  
 In name:   
+ - Italian Pork Sausage  
  - Jerk Pork Chop  
  - Carolina BBQ Pork Sandwich  
   
@@ -98,7 +99,6 @@ In name:
 In name:   
  - Huli Huli Chicken  
  - Beef & Chicken Meatballs  
- - Mediterranean Chicken  
  - BBQ Chicken Flatbread Pizza  
  - Chicken Tamale with Oaxaca  
  - Chicken Noodle Soup  
@@ -115,10 +115,6 @@ In name:
 In name:   
  - Build Your Own Poke Bar  
   
-**steak**  
-In name:   
- - Beef Flank Steak  
-  
 **Cod**  
 In name:   
  - Baked Lemon Butter Cod  
@@ -130,7 +126,6 @@ In name:
 **beef**  
 In name:   
  - Beef Quesadilla  
- - Beef Flank Steak  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  

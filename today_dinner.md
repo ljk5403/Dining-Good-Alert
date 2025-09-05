@@ -1,6 +1,6 @@
 # 2025-09-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-04 18:16:21  
+Updated at: 2025-09-04 20:20:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-04)  
 **Salmon**  
 In name:   
@@ -69,10 +69,6 @@ In name:
  - Chicken Noodle Soup  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-09-04)  
-**steak**  
-In name:   
- - Brazilian Flank Steak  
-  
 **BBQ Pork Sandwich**  
 In name:   
  - Carolina BBQ Pork Sandwich  
@@ -83,23 +79,23 @@ In name:
   
 **beef**  
 In name:   
+ - Roast Beef  
  - Beef & Chicken Meatballs  
   
 In description:   
- - Brazilian Flank Steak  
  - Chicago-Style Hot Dog  
   
 **pork**  
 In name:   
+ - Roasted Pork Loin  
  - Italian Pork Sausage  
- - Jerk Pork Chop  
  - Carolina BBQ Pork Sandwich  
   
 **chicken**  
 In name:   
- - Huli Huli Chicken  
  - Beef & Chicken Meatballs  
  - BBQ Chicken Flatbread Pizza  
+ - Sesame Chicken  
  - Chicken Tamale with Oaxaca  
  - Chicken Noodle Soup  
   
@@ -115,13 +111,19 @@ In name:
 In name:   
  - Build Your Own Poke Bar  
   
-**Cod**  
-In name:   
- - Baked Lemon Butter Cod  
-  
 **Tuna**  
 In name:   
  - Tuna Salad  
+  
+**lamb**  
+In name:   
+ - Lamb Vindaloo  
+  
+**curry**  
+In name:   
+  
+In description:   
+ - Lamb Vindaloo  
   
 **beef**  
 In name:   
