@@ -1,6 +1,6 @@
 # 2025-09-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-05 01:26:48  
+Updated at: 2025-09-05 09:16:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-05)  
 **steak**  
 In name:   
@@ -163,13 +163,9 @@ In name:
 In description:   
  - Clam Chowder (Pork)  
   
-**Salmon**  
+**Tilapia**  
 In name:   
- - Grilled Chipotle Salmon  
-  
-**Tuna**  
-In name:   
- - Tuna Salad  
+ - Island Spiced Tilapia  
   
 **fish**  
 In name:   
@@ -179,6 +175,8 @@ In description:
   
 **beef**  
 In name:   
+ - Roast Beef  
+ - Pork & Beef Hard Salami  
  - Beef Taco Meat  
  - Bulgogi Beef  
   
@@ -190,20 +188,21 @@ In description:
 In name:   
  - Smoked Pulled Pork Sandwich  
  - Sliced Kielbasa (Pork)  
+ - Pork & Beef Hard Salami  
  - Pork Carnita  
  - Clam Chowder (Pork)  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
+ - Bacon Slice  
+ - Bacon  
   
 **chicken**  
 In name:   
  - Plant-Based Chicken & Dumplings  
  - Grilled Chicken Sandwich  
+ - Lemon Pepper Chicken Salad  
  - Bulgogi Chicken  
-  
-In description:   
- - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-09-05)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-09-05)  
@@ -213,7 +212,6 @@ In name:
   
 **Cod**  
 In name:   
- - Battered Cod  
   
 In description:   
  - Clam Chowder (Pork)  
