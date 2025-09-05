@@ -1,6 +1,6 @@
 # 2025-09-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-05 10:17:57  
+Updated at: 2025-09-05 11:20:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-05)  
 **steak**  
 In name:   
@@ -141,6 +141,7 @@ In name:
  - Honey Lime Chicken Breast  
  - Plant-Based Chicken Lo Mein  
  - Beef & Chicken Meatballs  
+ - Sausage Links Chicken (halal) (AYCTE)  
   
 In description:   
  - Gordon's Great Greens  
@@ -185,7 +186,6 @@ In name:
   
 In description:   
  - Sliced Kielbasa (Pork)  
- - Station Recipe - Deli  AYCTE FLM  
   
 **pork**  
 In name:   
@@ -196,7 +196,6 @@ In name:
  - Clam Chowder (Pork)  
   
 In description:   
- - Station Recipe - Deli  AYCTE FLM  
  - Bacon Slice  
  - Bacon  
   

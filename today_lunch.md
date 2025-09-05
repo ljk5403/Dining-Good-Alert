@@ -1,6 +1,6 @@
 # 2025-09-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-05 11:20:39  
+Updated at: 2025-09-05 12:15:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-05)  
 **steak**  
 In name:   
@@ -19,12 +19,10 @@ In description:
 **catfish**  
 In name:   
  - Island Spiced Catfish  
- - Catfish Nuggets w/ Remoulade Sauce  
   
 **fish**  
 In name:   
  - Island Spiced Catfish  
- - Catfish Nuggets w/ Remoulade Sauce  
   
 **curry**  
 In name:   
@@ -217,10 +215,6 @@ In name:
   
 In description:   
  - Clam Chowder (Pork)  
-  
-**fish**  
-In name:   
- - Vegan Fish Fillet (VN)  
   
 **beef**  
 In name:   
