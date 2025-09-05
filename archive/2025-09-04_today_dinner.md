@@ -1,6 +1,6 @@
 # 2025-09-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-05 15:19:12  
+Updated at: 2025-09-05 16:15:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-05)  
 **drumstick**  
 In name:   
@@ -135,6 +135,7 @@ In name:
  - Clam Chowder (Pork)  
   
 In description:   
+ - Gnocchi w/ Sausage & Roast Veg  
  - Kielbasa with Pierogis  
   
 **chicken**  
@@ -176,7 +177,6 @@ In name:
   
 **fish**  
 In name:   
- - Vegan Fish Sandwich  
  - Fish Tacos  
  - Vegetarian "Fish" Tacos  
   
