@@ -1,6 +1,6 @@
 # 2025-09-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-06 01:23:27  
+Updated at: 2025-09-06 09:13:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-06)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-09-06)  
 **watermelon**  
@@ -24,9 +24,9 @@ In description:
  - Kale, Sausage & Potato Soup  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-09-06)  
-**drumstick**  
+**Chicken Drummies**  
 In name:   
- - Chicken Drumstick BBQ Glazed  
+ - Chicken Drummies  
   
 **beef**  
 In name:   
@@ -49,7 +49,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Drumstick BBQ Glazed  
+ - Chicken Drummies  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Sausage Links Chicken (halal) (AYCTE)  
@@ -85,6 +85,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Sausage Patty  
   
 In description:   
  - Andouille Sausage  
