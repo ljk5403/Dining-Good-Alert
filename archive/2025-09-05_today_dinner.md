@@ -1,6 +1,6 @@
 # 2025-09-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-06 13:21:24  
+Updated at: 2025-09-06 15:17:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-06)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-09-06)  
 **watermelon**  
@@ -66,10 +66,6 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**Tuna**  
-In name:   
- - Tuna Salad  
-  
 **beef**  
 In name:   
  - Beef Broccoli Stir Fry  
@@ -87,6 +83,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad  
  - Crispy Chicken Sandwich  
  - Plant-Based Chicken Tenders  
  - Giardiniera Chicken  
