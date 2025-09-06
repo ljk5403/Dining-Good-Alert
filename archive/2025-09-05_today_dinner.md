@@ -1,6 +1,6 @@
 # 2025-09-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-06 15:17:02  
+Updated at: 2025-09-06 16:13:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-06)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-09-06)  
 **watermelon**  
@@ -53,7 +53,7 @@ In name:
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
- - Sausage Links Chicken (halal) (AYCTE)  
+ - Halal Chicken Sausage Link  
   
 In description:   
  - Pepperoni Pizza Slice  
