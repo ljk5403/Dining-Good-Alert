@@ -1,6 +1,6 @@
 # 2025-09-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-05 18:15:50  
+Updated at: 2025-09-05 20:18:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-05)  
 **drumstick**  
 In name:   
@@ -72,9 +72,9 @@ In name:
 In description:   
  - Clam Chowder (Pork)  
   
-**Tilapia**  
+**Salmon**  
 In name:   
- - Blackened Tilapia  
+ - Blackened Salmon  
   
 **beef**  
 In name:   
@@ -88,7 +88,7 @@ In name:
   
 **chicken**  
 In name:   
- - Butter Chicken  
+ - Chicken Fajita Meat  
  - Lemon Pepper Chicken Salad  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-09-05)  
@@ -117,9 +117,7 @@ In name:
   
 **curry**  
 In name:   
-  
-In description:   
- - Chana Saag w/ Tofu  
+ - Thai Veggie Meatballs w/ Green Curry  
   
 **beef**  
 In name:   
@@ -127,16 +125,16 @@ In name:
  - Shredded Beef Flauta  
   
 In description:   
- - Kielbasa with Pierogis  
+ - Sliced Kielbasa (Pork)  
   
 **pork**  
 In name:   
  - Tavern Style Sausage Pizza (Pork)  
  - Clam Chowder (Pork)  
+ - Sliced Kielbasa (Pork)  
   
 In description:   
  - Gnocchi w/ Sausage & Roast Veg  
- - Kielbasa with Pierogis  
   
 **chicken**  
 In name:   
@@ -159,7 +157,6 @@ In name:
   
 **Shrimp**  
 In name:   
- - Sauteed Shrimp  
   
 In description:   
  - BYO Bar - Four Lakes Bulgogi  
@@ -191,9 +188,11 @@ In name:
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
  - Grilled Blended Burger w/ Cheese  
+ - Sliced Kielbasa (Pork)  
   
 **pork**  
 In name:   
+ - Sliced Kielbasa (Pork)  
  - Clam Chowder (Pork)  
   
 In description:   
@@ -201,6 +200,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Plant Based Chicken Strips  
  - Chicken Coq Au Vin Blanc w/Bacon  
  - Bulgogi Chicken  
   
