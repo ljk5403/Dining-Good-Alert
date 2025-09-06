@@ -1,6 +1,6 @@
 # 2025-09-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-06 16:13:46  
+Updated at: 2025-09-06 17:14:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-06)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-09-06)  
 **watermelon**  
@@ -50,6 +50,7 @@ In description:
 **chicken**  
 In name:   
  - Cajun Chicken Pasta  
+ - Chicken Gravy  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
  - Chicken Tinga  
