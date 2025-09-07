@@ -1,6 +1,6 @@
 # 2025-09-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-07 16:14:43  
+Updated at: 2025-09-07 17:15:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-07)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -84,15 +84,10 @@ In name:
 In name:   
  - Tuna Salad  
   
-**lamb**  
-In name:   
- - Lamb Vindaloo  
-  
 **curry**  
 In name:   
   
 In description:   
- - Lamb Vindaloo  
  - Citrus Couscous (VN) (AYCTE)  
   
 **beef**  
@@ -118,7 +113,6 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
- - Chicken Coq Au Vin Blanc w/Bacon  
  - Chicken Tortilla Soup  
   
 In description:   
