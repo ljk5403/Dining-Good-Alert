@@ -1,6 +1,6 @@
 # 2025-09-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-07 10:14:56  
+Updated at: 2025-09-07 11:18:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-07)  
 **Tuna**  
 In name:   
@@ -37,7 +37,7 @@ In name:
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs  
+ - Beef Meatballs  
  - Beef Taco Meat  
   
 In description:   
@@ -49,6 +49,7 @@ In description:
 **pork**  
 In name:   
  - Jerk Pork Chop  
+ - Pork Italian Sausage  
  - Pork Carnita  
   
 In description:   
@@ -56,11 +57,10 @@ In description:
   
 **chicken**  
 In name:   
- - Beef & Chicken Meatballs  
- - Giardiniera Chicken  
  - Chicken Tortilla Soup  
   
 In description:   
+ - Beef Meatballs  
  - Pepperoni Pizza Slice  
  - Gordon's Great Greens  
   
@@ -89,12 +89,11 @@ In name:
  - Pork Carnita  
   
 In description:   
- - Station Recipe - Deli  AYCTE FLM  
  - Breakfast Ham  
+ - Station Recipe - Deli  AYCTE FLM  
   
 **chicken**  
 In name:   
- - Sausage Links Chicken (halal) (AYCTE)  
  - Beef & Chicken Meatballs  
  - Plant Based Chicken Strips  
  - Chicken Tortilla Soup  
@@ -115,12 +114,12 @@ In name:
   
 In description:   
  - Sausage (Pork) & Pepperoni Pizza Slice  
+ - Pizza Pepperoni & Banana Pepper  
  - Mushroom Swiss Blended Burger  
   
 **pork**  
 In name:   
  - Sausage (Pork) & Pepperoni Pizza Slice  
- - Chicken Bacon (Pork) Ranch Pizza  
  - Vietnamese Pork  
  - Pork Sausage Patty  
   
@@ -130,11 +129,12 @@ In description:
 **chicken**  
 In name:   
  - Maple Cider Chicken  
- - Chicken Bacon (Pork) Ranch Pizza  
  - Chicken Tortilla Soup  
+ - Halal Chicken Sausage Link  
   
 In description:   
  - Sausage (Pork) & Pepperoni Pizza Slice  
+ - Pizza Pepperoni & Banana Pepper  
  - Great Greens  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-09-07)  
