@@ -1,6 +1,6 @@
 # 2025-09-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-06 18:14:58  
+Updated at: 2025-09-06 20:25:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-06)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-09-06)  
 **watermelon**  
@@ -31,7 +31,7 @@ In description:
 In name:   
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
- - Chili & Cheese Beef Hot Dog  
+ - Beef Hot Dog  
   
 In description:   
  - Italian Meat Sauce  
@@ -42,6 +42,7 @@ In description:
 In name:   
  - Herb Crusted Pork Loin  
  - Italian Pork Sausage  
+ - Pork Carnita  
   
 In description:   
  - Pizza Slice Sausage  
@@ -49,11 +50,9 @@ In description:
   
 **chicken**  
 In name:   
- - Cajun Chicken Pasta  
  - Chicken Gravy  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
- - Chicken Tinga  
  - Halal Chicken Sausage Link  
   
 In description:   
