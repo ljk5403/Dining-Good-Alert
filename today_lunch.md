@@ -1,6 +1,6 @@
 # 2025-09-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-08 12:15:57  
+Updated at: 2025-09-08 13:26:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-08)  
 **beef**  
 In name:   
@@ -122,10 +122,6 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**broccoli rabe**  
-In name:   
- - Broccoli Rabe  
-  
 **Pakoras**  
 In name:   
  - Appetizer -  Pakoras Vegetable (Veg)  
@@ -171,13 +167,17 @@ In name:
  - Lemon Chicken Rice Soup  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-09-08)  
+**steak**  
+In name:   
+ - Beef Flank Steak  
+  
 **BBQ Pork Sandwich**  
 In name:   
  - BBQ Pork Sandwich  
   
 **beef**  
 In name:   
- - Beef Tri Tip Carved w/ Chimichurri  
+ - Beef Flank Steak  
   
 **pork**  
 In name:   

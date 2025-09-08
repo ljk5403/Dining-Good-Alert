@@ -1,6 +1,6 @@
 # 2025-09-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-08 11:21:03  
+Updated at: 2025-09-08 12:15:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-08)  
 **beef**  
 In name:   
@@ -79,19 +79,9 @@ In name:
 In name:   
  - Watermelon Slices  
   
-**steak**  
-In name:   
- - Island Spiced Beef Steak  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Vietnamese Pork  
   
 **curry**  
 In name:   
@@ -100,7 +90,6 @@ In name:
   
 **beef**  
 In name:   
- - Island Spiced Beef Steak  
  - Hot Beef Sandwich w/ Mashed Potatoes  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
@@ -116,11 +105,11 @@ In name:
  - Italian Pork Sausage  
  - Pizza Slice Deluxe (Pork)  
  - Currywurst (Pork)  
- - Vietnamese Pork  
   
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
+ - Sweet & Spicy Orange Chicken  
  - Chicken Tinga  
  - Chicken Noodle Soup  
   
