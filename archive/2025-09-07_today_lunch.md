@@ -1,6 +1,6 @@
 # 2025-09-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-08 01:28:35  
+Updated at: 2025-09-08 09:18:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-08)  
 **Tuna**  
 In name:   
@@ -182,9 +182,6 @@ In description:
 In name:   
  - Chicken Vindaloo  
  - Lemon Chicken Rice Soup  
-  
-In description:   
- - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-09-08)  
 **BBQ Pork Sandwich**  
