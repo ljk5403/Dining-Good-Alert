@@ -1,6 +1,6 @@
 # 2025-09-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-08 10:17:57  
+Updated at: 2025-09-08 11:21:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-08)  
 **drumstick**  
 In name:   
@@ -13,10 +13,6 @@ In name:
 **Tilapia**  
 In name:   
  - Tilapia Veracruz  
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad  
   
 **fish**  
 In name:   
@@ -50,6 +46,7 @@ In description:
 **chicken**  
 In name:   
  - Chicken Drumstick BBQ Glazed  
+ - Chicken Salad  
  - Lemon Chicken Rice Soup  
   
 In description:   
