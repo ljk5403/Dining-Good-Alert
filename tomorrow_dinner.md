@@ -1,7 +1,16 @@
 # 2025-09-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-08 18:16:43  
+Updated at: 2025-09-08 18:42:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-09)  
+**Coconut**  
+In name:   
+  
+In description:   
+ - Lemon Grass Tofu  
+ - Curry Mango - Pork  
+ - -Chocolate Cake w/ Choc Frost (VN)  
+ - Cookie Chocolate Chip  
+  
 **Pakoras**  
 In name:   
  - Appetizer -  Pakoras Vegetable (Veg)  
@@ -51,6 +60,13 @@ In description:
  - Great Greens  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-09-09)  
+**Coconut**  
+In name:   
+  
+In description:   
+ - -Chocolate Cake w/ Choc Frost (VN)  
+ - Ice Cream  
+  
 **watermelon**  
 In name:   
  - Melon Watermelon Whole Sliced  
@@ -84,6 +100,15 @@ In name:
  - Cream of Chicken & Wild Rice Soup  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-09-09)  
+**Coconut**  
+In name:   
+  
+In description:   
+ - Yogurt Bar  
+ - -Chocolate Cake w/ Choc Frost (VN)  
+ - Cookie Chocolate Chip  
+ - BBQ Beyond Burger (VN)  
+  
 **broccoli rabe**  
 In name:   
   
@@ -124,6 +149,22 @@ In description:
  - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-09-09)  
+**Coconut**  
+In name:   
+  
+In description:   
+ - Station Recipe - Deli  AYCTE FLM  
+ - Mushroom Bulgogi Bao Bun  
+ - Beef Bulgogi Bao Bun  
+ - Station Recipe - Great Greens - FLM  
+ - -Chocolate Cake w/ Choc Frost (VN)  
+ - Cookie Chocolate Chip  
+  
+**Bulgogi**  
+In name:   
+ - Mushroom Bulgogi Bao Bun  
+ - Beef Bulgogi Bao Bun  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices  
@@ -162,6 +203,13 @@ In description:
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-09-09)  
+**Coconut**  
+In name:   
+ - Chicken Stir-Fry Coconut Lime  
+  
+In description:   
+ - -Chocolate Cake w/ Choc Frost (VN)  
+  
 **steak**  
 In name:   
   
@@ -200,6 +248,14 @@ In description:
  - Great Greens  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-09-09)  
+**Coconut**  
+In name:   
+  
+In description:   
+ - -Chocolate Cake w/ Choc Frost (VN)  
+ - Cookie Chocolate Chip  
+ - Station Recipe - Deli Lowell AYCTE  
+  
 **curry**  
 In name:   
  - Garbanzo Bean Curry  

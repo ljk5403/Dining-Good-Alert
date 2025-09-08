@@ -1,7 +1,15 @@
 # 2025-09-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-08 18:16:40  
+Updated at: 2025-09-08 18:42:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-09)  
+**Coconut**  
+In name:   
+  
+In description:   
+ - Crispy Buffalo Chik'n Sandwich (VN)  
+ - -Chocolate Cake w/ Choc Frost (VN)  
+ - Cookie Chocolate Chip  
+  
 **Pakoras**  
 In name:   
  - Appetizer -  Pakoras Vegetable (Veg)  
@@ -43,6 +51,16 @@ In description:
  - Great Greens  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-09-09)  
+**Coconut**  
+In name:   
+  
+In description:   
+ - Veggie Focaccia Sandwich  
+ - -Chocolate Cake w/ Choc Frost (VN)  
+ - Ice Cream  
+ - Beef Curry Stew  
+ - Vegan Curry Stew  
+  
 **watermelon**  
 In name:   
  - Melon Watermelon Whole Sliced  
@@ -83,6 +101,15 @@ In name:
  - Cream of Chicken & Wild Rice Soup  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-09-09)  
+**Coconut**  
+In name:   
+  
+In description:   
+ - Curry Cauliflower & Butternut Squash  
+ - Yogurt Bar  
+ - -Chocolate Cake w/ Choc Frost (VN)  
+ - Cookie Chocolate Chip  
+  
 **drumstick**  
 In name:   
   
@@ -134,6 +161,16 @@ In description:
  - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-09-09)  
+**Coconut**  
+In name:   
+  
+In description:   
+ - Beyond Brat (VN)  
+ - Station Recipe - Deli  AYCTE FLM  
+ - Station Recipe - Great Greens - FLM  
+ - -Chocolate Cake w/ Choc Frost (VN)  
+ - Cookie Chocolate Chip  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices  
@@ -175,6 +212,14 @@ In description:
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-09-09)  
+**Coconut**  
+In name:   
+  
+In description:   
+ - Plant-Based Chicken Nuggets (6)  
+ - Plant Based Sweet & Sour Chicken  
+ - -Chocolate Cake w/ Choc Frost (VN)  
+  
 **steak**  
 In name:   
   
@@ -213,6 +258,14 @@ In description:
  - Great Greens  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-09-09)  
+**Coconut**  
+In name:   
+  
+In description:   
+ - -Chocolate Cake w/ Choc Frost (VN)  
+ - Cookie Chocolate Chip  
+ - Station Recipe - Deli Lowell AYCTE  
+  
 **drumstick**  
 In name:   
  - Chicken Drumstick BBQ Glazed  

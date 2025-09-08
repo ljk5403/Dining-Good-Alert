@@ -1,6 +1,6 @@
 # 2025-09-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-08 17:17:01  
+Updated at: 2025-09-08 18:16:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-08)  
 **drumstick**  
 In name:   
@@ -13,12 +13,6 @@ In name:
 **Tilapia**  
 In name:   
  - Tilapia Veracruz  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Thai BBQ Pork Ribs  
   
 **curry**  
 In name:   
@@ -38,7 +32,6 @@ In description:
 In name:   
  - Sausage (Pork), Potatoes, & Peppers  
  - Italian Pork Sausage  
- - Thai BBQ Pork Ribs  
   
 In description:   
  - Pizza Slice Sausage  
@@ -47,6 +40,7 @@ In description:
 In name:   
  - Chicken Drumstick BBQ Glazed  
  - Chicken Salad  
+ - Dan Dan w/ Chicken  
  - Lemon Chicken Rice Soup  
   
 In description:   
@@ -147,10 +141,6 @@ In name:
 In name:   
  - Shrimp Po-Boy Sandwich  
   
-**Salmon**  
-In name:   
- - Salmon Tandoori Roasted  
-  
 **mahi mahi**  
 In name:   
  - Coconut Thai Curry Mahi Mahi  
@@ -179,7 +169,6 @@ In name:
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
- - Grilled Hamburger  
   
 **pork**  
 In name:   

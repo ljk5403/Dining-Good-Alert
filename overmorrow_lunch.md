@@ -1,6 +1,6 @@
 # 2025-09-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-08 18:16:47  
+Updated at: 2025-09-08 18:42:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-10)  
 **broccoli rabe**  
 In name:   
@@ -41,6 +41,14 @@ In description:
  - Great Greens  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-09-10)  
+**Coconut**  
+In name:   
+  
+In description:   
+ - Tofu & Vegetable Tikka Masala  
+ - Ice Cream  
+ - Cookie M&M  
+  
 **watermelon**  
 In name:   
  - Melon Watermelon Whole Sliced  
@@ -72,6 +80,15 @@ In name:
  - Chicken Teriyaki Stir Fry  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-09-10)  
+**Coconut**  
+In name:   
+  
+In description:   
+ - VEGAN Thai Chick'n w/ Green Curry (VN)  
+ - Vegan Grilled Cheese Sandwich  
+ - Vegan General Tso's Chick'n Stir Fry  
+ - Yogurt Bar  
+  
 **mahi mahi**  
 In name:   
  - Baked Mahi Mahi w/ Butter & Lemon  
@@ -123,6 +140,15 @@ In description:
  - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-09-10)  
+**Coconut**  
+In name:   
+  
+In description:   
+ - Station Recipe - Deli  AYCTE FLM  
+ - Plant-Based Chicken Nuggets (6)  
+ - Station Recipe - Great Greens - FLM  
+ - -Brownie Raspberry Bar  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices  
@@ -182,6 +208,15 @@ In description:
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-09-10)  
+**Coconut**  
+In name:   
+  
+In description:   
+ - Duck Curry  
+ - Eggplant Curry  
+ - Chocolate Chip Cookie  
+ - Crispy Buffalo Chik'n Sandwich (VN)  
+  
 **duck**  
 In name:   
  - Duck Curry  
@@ -219,6 +254,14 @@ In description:
  - Great Greens  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-09-10)  
+**Coconut**  
+In name:   
+  
+In description:   
+ - Station Recipe - Deli Lowell AYCTE  
+ - Chicken Curry - Mango  
+ - Lemon Grass Tofu  
+  
 **Shrimp**  
 In name:   
  - Sauteed Shrimp  

@@ -1,6 +1,6 @@
 # 2025-09-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-08 18:16:51  
+Updated at: 2025-09-08 18:42:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-10)  
 **clam**  
 In name:   
@@ -33,6 +33,14 @@ In description:
  - Great Greens  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-09-10)  
+**Coconut**  
+In name:   
+  
+In description:   
+ - Sweet & Spicy Orange Chick'n  
+ - Ice Cream  
+ - Cookie M&M  
+  
 **watermelon**  
 In name:   
  - Melon Watermelon Whole Sliced  
@@ -59,6 +67,13 @@ In name:
  - Madras Chicken w/Basmati Rice  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-09-10)  
+**Coconut**  
+In name:   
+  
+In description:   
+ - Plant Based Sweet & Sour Chicken  
+ - Yogurt Bar  
+  
 **Chicken Drummies**  
 In name:   
  - Chicken Drummies  
@@ -111,6 +126,15 @@ In description:
  - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-09-10)  
+**Coconut**  
+In name:   
+  
+In description:   
+ - Station Recipe - Deli  AYCTE FLM  
+ - Plant-Based Chicken Nuggets (6)  
+ - Station Recipe - Great Greens - FLM  
+ - -Brownie Raspberry Bar  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices  
@@ -154,6 +178,12 @@ In description:
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-09-10)  
+**Coconut**  
+In name:   
+  
+In description:   
+ - Chocolate Chip Cookie  
+  
 **Salmon**  
 In name:   
  - Island Spiced Salmon  
@@ -185,6 +215,12 @@ In description:
  - Great Greens  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-09-10)  
+**Coconut**  
+In name:   
+  
+In description:   
+ - Station Recipe - Deli Lowell AYCTE  
+  
 **beef**  
 In name:   
  - Beef & Bean Chili  
