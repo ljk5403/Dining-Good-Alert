@@ -17,7 +17,7 @@ dinning_hall_tuple = ('rhetas-market', 'lizs-market', 'gordon-avenue-market', 'f
 meals_tuple = ('lunch', 'dinner')
 
 good_dish_category = ['clam', 'Shrimp', 'Cod','duck', 'squid', 'octopus', 'Salmon', 'mahi mahi', 'catfish', 'Tilapia', 'Tuna', 'fish', 'lamb', 'goat', 'curry', 'beef', 'pork', 'chicken']
-good_dish_name_T0 =['Moroccan Style Lamb Stuffed Peppers', 'lobster', 'crayfish', 'watermelon', 'Drunken Noodles', 'Beef Alicha', 'Pepper, Onion, & Mushroom Saute', 'Poke Bar', 'corn bake', 'Rapini', 'broccoli rabe', 'drumstick', 'Chicken Drumstick Gochujang Glazed', 'Chicken Drummies', 'Tandoori Chicken', 'Samosas', 'Pakoras', 'steak']
+good_dish_name_T0 =['Coconut','Moroccan Style Lamb Stuffed Peppers', 'lobster', 'crayfish', 'watermelon', 'Drunken Noodles', 'Beef Alicha', 'Pepper, Onion, & Mushroom Saute', 'Poke Bar', 'corn bake', 'Rapini', 'broccoli rabe', 'drumstick', 'Chicken Drumstick Gochujang Glazed', 'Chicken Drummies', 'Tandoori Chicken', 'Samosas', 'Pakoras', 'steak']
 good_dish_name_T1 =['BBQ Pork Sandwich']
 
 good_dish_list = good_dish_name_T0 + good_dish_name_T1 + good_dish_category
