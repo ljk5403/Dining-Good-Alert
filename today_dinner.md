@@ -1,10 +1,14 @@
 # 2025-09-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-07 18:15:07  
+Updated at: 2025-09-07 20:24:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-07)  
 **BBQ Pork Sandwich**  
 In name:   
  - BBQ Pork Sandwich  
+  
+**Shrimp**  
+In name:   
+ - Sweet & Sour Shrimp  
   
 **Tuna**  
 In name:   
@@ -31,7 +35,6 @@ In description:
 In name:   
  - Chicken Tenders Breaded  
  - Plant-Based Chicken Tenders  
- - Chicken Teriyaki Stir Fry  
  - Fajita Chicken  
  - Chicken Tortilla Soup  
   
@@ -41,6 +44,14 @@ In description:
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-09-07)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-09-07)  
+**catfish**  
+In name:   
+ - Blackened Catfish  
+  
+**fish**  
+In name:   
+ - Blackened Catfish  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
@@ -50,12 +61,11 @@ In description:
  - Italian Meat Sauce  
  - Pepperoni Pizza Slice  
  - Vegan Taco Filling  
+ - Fired Up Blended Burger  
   
 **pork**  
 In name:   
- - Boneless Baked Pork Ham  
  - Pork Carnita  
- - Pulled Pork Sandwich with Maw Maw Slaw  
   
 In description:   
  - Pizza Slice Sausage  
@@ -98,8 +108,6 @@ In name:
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
- - Grilled Blended Burger w/ Cheese  
- - Baked Corn Dog  
   
 **pork**  
 In name:   
@@ -108,7 +116,7 @@ In name:
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
- - Baked Corn Dog  
+ - Italian Sausage w/ Pepper & Onions  
   
 **chicken**  
 In name:   
@@ -116,7 +124,6 @@ In name:
  - Chicken Tortilla Soup  
   
 In description:   
- - Baked Corn Dog  
  - French Market Pork Jambalaya  
  - Station Recipe - Great Greens - FLM  
   
