@@ -1,11 +1,7 @@
 # 2025-09-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-08 10:17:54  
+Updated at: 2025-09-08 11:21:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-08)  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad  
-  
 **beef**  
 In name:   
  - Texas BBQ Sliced Beef Brisket  
@@ -26,9 +22,10 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Salad  
  - Noodles Sesame w/ Chicken  
  - Chicken Tinga  
- - Lemon Chicken Rice Soup  
+ - Chicken Noodle Soup  
   
 In description:   
  - Great Greens  
@@ -125,12 +122,11 @@ In name:
 In name:   
  - Beef & Chicken Meatballs  
  - Chicken Tinga  
- - Lemon Chicken Rice Soup  
+ - Chicken Noodle Soup  
   
 In description:   
  - Pizza Slice Deluxe (Pork)  
  - Gluten Free Pepperoni Pizza Quarter  
- - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-09-08)  
 **watermelon**  
@@ -158,21 +154,23 @@ In description:
   
 **curry**  
 In name:   
+ - Chicken Curry  
  - Indian Curry Garbanzo Beans  
  - Curry Potatoes  
+  
+In description:   
+ - Pakora Sauce  
   
 **beef**  
 In name:   
  - Beef Stroganoff Creamy  
   
 In description:   
- - Reuben Knockwurst (Pork) on Pretzel Bun  
  - Grilled Blended Burger w/ Cheese  
  - Station Recipe - Deli  AYCTE FLM  
   
 **pork**  
 In name:   
- - Reuben Knockwurst (Pork) on Pretzel Bun  
  - Italian Pork Sausage  
   
 In description:   
@@ -180,7 +178,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Vindaloo  
+ - Chicken Curry  
  - Lemon Chicken Rice Soup  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-09-08)  
@@ -192,25 +190,22 @@ In name:
 In name:   
  - Beef Tri Tip Carved w/ Chimichurri  
   
-In description:   
- - Pepperoni Pizza Slice  
- - Pizza Slice Cheeseburger  
-  
 **pork**  
 In name:   
  - BBQ Pork Sandwich  
   
 In description:   
+ - Pizza Slice Hawaiian  
  - Bacon, Egg & Cheese Bagel  
   
 **chicken**  
 In name:   
  - Chicken Tinga & Scallion Quesadilla  
+ - Pizza Slice Chicken Alfredo  
  - Lemon Chicken Rice Soup  
  - Sausage Links Chicken (halal) (AYCTE)  
   
 In description:   
- - Pepperoni Pizza Slice  
  - Great Greens  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-09-08)  
