@@ -1,6 +1,6 @@
 # 2025-09-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-08 15:19:54  
+Updated at: 2025-09-08 16:15:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-08)  
 **drumstick**  
 In name:   
@@ -82,6 +82,7 @@ In name:
   
 **steak**  
 In name:   
+ - Grilled Flank Steak  
  - Smothered Steak Burrito  
   
 **Tuna**  
@@ -106,7 +107,7 @@ In name:
  - Beef Broccoli Stir Fry w/Teriyaki Sauce  
   
 In description:   
- - Swedish Meatballs (AYCTE)  
+ - Grilled Flank Steak  
  - Pizza Slice Deluxe (Pork)  
  - Gluten Free Pepperoni Pizza Quarter  
  - Smothered Steak Burrito  
@@ -124,7 +125,6 @@ In name:
  - Crispy Chicken Sandwich  
   
 In description:   
- - Swedish Meatballs (AYCTE)  
  - Pizza Slice Deluxe (Pork)  
  - Gluten Free Pepperoni Pizza Quarter  
  - Gordon's Great Greens  
@@ -175,9 +175,11 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Stroganoff Creamy  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
+ - Grilled Hamburger  
   
 **pork**  
 In name:   
@@ -201,13 +203,12 @@ In name:
  - Texas BBQ Sliced Beef Brisket  
   
 In description:   
- - Pepperoni Pizza Slice  
- - Pizza Slice Cheeseburger  
  - Brazilian Pork Feijoada  
  - Cocktail Smokies (Pork)  
   
 **pork**  
 In name:   
+ - Hawaiian (Pork) Pizza Slice  
  - Brazilian Pork Feijoada  
  - Cocktail Smokies (Pork)  
   
@@ -216,12 +217,12 @@ In description:
   
 **chicken**  
 In name:   
+ - Pizza Slice Chicken Alfredo  
  - Lemon Chicken Rice Soup  
  - Blackened Chicken Sandwich  
  - App Chicken Popcorn - BYO Bar  
   
 In description:   
- - Pepperoni Pizza Slice  
  - Great Greens  
  - Cocktail Smokies (Pork)  
   
