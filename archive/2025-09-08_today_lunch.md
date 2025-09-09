@@ -1,6 +1,6 @@
 # 2025-09-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-09 01:27:46  
+Updated at: 2025-09-09 09:16:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-09)  
 **Coconut**  
 In name:   
@@ -153,7 +153,7 @@ In name:
  - Irish Roast Chicken w/Leeks and Bacon  
  - Beef & Chicken Meatballs  
  - Pulled Chicken Thigh  
- - Sausage Links Chicken (halal) (AYCTE)  
+ - Chicken Sausage Patties  
  - Tandoori Chicken  
  - Cream of Chicken & Wild Rice Soup  
   

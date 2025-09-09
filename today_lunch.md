@@ -1,6 +1,6 @@
 # 2025-09-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-09 09:16:10  
+Updated at: 2025-09-09 10:20:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-09)  
 **Coconut**  
 In name:   
@@ -165,7 +165,6 @@ In description:
 In name:   
   
 In description:   
- - Beyond Brat (VN)  
  - Station Recipe - Deli  AYCTE FLM  
  - Station Recipe - Great Greens - FLM  
  - -Chocolate Cake w/ Choc Frost (VN)  
@@ -201,7 +200,6 @@ In description:
 **chicken**  
 In name:   
  - Smoked Chicken Breast  
- - Grilled Chicken Sandwich  
  - Crispy Chicken Sandwich  
  - Italian Chicken  
  - Cream of Chicken & Wild Rice Soup  
@@ -224,8 +222,13 @@ In description:
 In name:   
  - Guajillo Shrimp  
   
+**Tuna**  
+In name:   
+ - Poke Tuna (*Raw)  
+  
 **beef**  
 In name:   
+ - Beef Chili  
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice  
@@ -245,7 +248,6 @@ In name:
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
  - Plant Based Sweet & Sour Chicken  
- - Cream of Chicken & Wild Rice Soup  
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice  
