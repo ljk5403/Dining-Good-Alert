@@ -1,6 +1,6 @@
 # 2025-09-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-09 13:22:24  
+Updated at: 2025-09-09 15:19:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-09)  
 **Coconut**  
 In name:   
@@ -175,13 +175,21 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**mahi mahi**  
+**drumstick**  
 In name:   
- - Blackened Mahi Mahi  
+ - Chicken Drumstick BBQ Glazed  
+  
+**catfish**  
+In name:   
+ - Blackened Catfish  
   
 **Tuna**  
 In name:   
  - Tuna Salad  
+  
+**fish**  
+In name:   
+ - Blackened Catfish  
   
 **beef**  
 In name:   
@@ -200,7 +208,7 @@ In description:
   
 **chicken**  
 In name:   
- - Smoked Chicken Breast  
+ - Chicken Drumstick BBQ Glazed  
  - Crispy Chicken Sandwich  
  - Italian Chicken  
  - Cream of Chicken & Wild Rice Soup  
