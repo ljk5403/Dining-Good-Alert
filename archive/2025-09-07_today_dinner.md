@@ -1,7 +1,16 @@
 # 2025-09-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-08 18:16:36  
+Updated at: 2025-09-08 18:42:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-08)  
+**Coconut**  
+In name:   
+  
+In description:   
+ - Thai Veggie Meatballs w/ Green Curry  
+ - VEGAN Thai Chick'n w/ Green Curry (VN)  
+ - *Nanaimo Bar  
+ - Cookie Chocolate Chip  
+  
 **drumstick**  
 In name:   
  - Chicken Drumstick BBQ Glazed  
@@ -47,6 +56,14 @@ In description:
  - Great Greens  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-09-08)  
+**Coconut**  
+In name:   
+  
+In description:   
+ - Ice Cream  
+ - *Nanaimo Bar  
+ - Cookie Chocolate Chip  
+  
 **watermelon**  
 In name:   
  - Melon Watermelon Whole Sliced  
@@ -70,6 +87,15 @@ In name:
  - Lemon Chicken Rice Soup  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-09-08)  
+**Coconut**  
+In name:   
+  
+In description:   
+ - Yogurt Bar  
+ - *Nanaimo Bar  
+ - Vegan Mocha Brownie (VN)  
+ - Crispy Chik'n Sandwich (VN)  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices  
@@ -98,7 +124,6 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Beef Broccoli Stir Fry w/Teriyaki Sauce  
   
 In description:   
  - Grilled Flank Steak  
@@ -111,6 +136,7 @@ In name:
  - Herb Crusted Pork Loin  
  - Italian Pork Sausage  
  - Pizza Slice Deluxe (Pork)  
+ - Pork Chop (1)  
   
 **chicken**  
 In name:   
@@ -125,6 +151,16 @@ In description:
  - Poulet Braise  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-09-08)  
+**Coconut**  
+In name:   
+ - Coconut Thai Curry Mahi Mahi  
+  
+In description:   
+ - Station Recipe - Deli  AYCTE FLM  
+ - Blackened Beyond Burger  
+ - Station Recipe - Great Greens - FLM  
+ - *Nanaimo Bar  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices  
@@ -187,6 +223,12 @@ In description:
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-09-08)  
+**Coconut**  
+In name:   
+  
+In description:   
+ - *Nanaimo Bar  
+  
 **beef**  
 In name:   
  - Texas BBQ Sliced Beef Brisket  
@@ -216,6 +258,14 @@ In description:
  - Cocktail Smokies (Pork)  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-09-08)  
+**Coconut**  
+In name:   
+  
+In description:   
+ - *Nanaimo Bar  
+ - Station Recipe - Deli Lowell AYCTE  
+ - Shrimp Curry - Mango  
+  
 **Shrimp**  
 In name:   
  - Shrimp Curry - Mango  

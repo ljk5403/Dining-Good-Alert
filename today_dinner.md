@@ -1,6 +1,6 @@
 # 2025-09-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-08 18:42:02  
+Updated at: 2025-09-08 20:21:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-08)  
 **Coconut**  
 In name:   
@@ -30,7 +30,7 @@ In name:
   
 **beef**  
 In name:   
- - Beef Ravioli Plain  
+ - Beef Tortellini  
   
 In description:   
  - Sausage (Pork), Potatoes, & Peppers  
@@ -49,7 +49,6 @@ In description:
 In name:   
  - Chicken Drumstick BBQ Glazed  
  - Chicken Salad  
- - Dan Dan w/ Chicken  
  - Lemon Chicken Rice Soup  
   
 In description:   
@@ -68,9 +67,9 @@ In description:
 In name:   
  - Melon Watermelon Whole Sliced  
   
-**Tilapia**  
+**Cod**  
 In name:   
- - Tilapia Chipotle Lime Crusted  
+ - Lemon Pepper Cod Fillet  
   
 **Tuna**  
 In name:   
@@ -102,8 +101,12 @@ In name:
   
 **steak**  
 In name:   
+ - Beef Sirloin Steak  
  - Grilled Flank Steak  
- - Smothered Steak Burrito  
+  
+**Salmon**  
+In name:   
+ - Ginger Glazed Salmon  
   
 **Tuna**  
 In name:   
@@ -123,17 +126,16 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Sirloin Steak  
  - Beef & Chicken Meatballs  
   
 In description:   
  - Grilled Flank Steak  
  - Pizza Slice Deluxe (Pork)  
  - Gluten Free Pepperoni Pizza Quarter  
- - Smothered Steak Burrito  
   
 **pork**  
 In name:   
- - Herb Crusted Pork Loin  
  - Italian Pork Sausage  
  - Pizza Slice Deluxe (Pork)  
  - Pork Chop (1)  
@@ -201,7 +203,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Stroganoff Creamy  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
@@ -212,7 +213,6 @@ In name:
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
- - Hot Ham Sandwich  
   
 **chicken**  
 In name:   

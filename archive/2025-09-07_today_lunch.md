@@ -1,7 +1,14 @@
 # 2025-09-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-08 18:16:32  
+Updated at: 2025-09-08 18:41:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-08)  
+**Coconut**  
+In name:   
+  
+In description:   
+ - *Nanaimo Bar  
+ - Cookie Chocolate Chip  
+  
 **beef**  
 In name:   
  - Texas BBQ Sliced Beef Brisket  
@@ -31,6 +38,15 @@ In description:
  - Great Greens  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-09-08)  
+**Coconut**  
+In name:   
+  
+In description:   
+ - Lamb & Beef Gyro Sandwich  
+ - Ice Cream  
+ - *Nanaimo Bar  
+ - Cookie Chocolate Chip  
+  
 **watermelon**  
 In name:   
  - Melon Watermelon Whole Sliced  
@@ -75,6 +91,16 @@ In name:
  - Lemon Chicken Rice Soup  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-09-08)  
+**Coconut**  
+In name:   
+  
+In description:   
+ - Vegan Currywurst  
+ - Yogurt Bar  
+ - *Nanaimo Bar  
+ - Vegan Mocha Brownie (VN)  
+ - Cookie M&M  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices  
@@ -118,6 +144,16 @@ In description:
  - Gluten Free Pepperoni Pizza Quarter  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-09-08)  
+**Coconut**  
+In name:   
+  
+In description:   
+ - Vegan Buffalo Chick'n Sandwich  
+ - Station Recipe - Deli  AYCTE FLM  
+ - Chicken Curry  
+ - *Nanaimo Bar  
+ - Chocolate Chip Cookie  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices  
@@ -167,6 +203,13 @@ In name:
  - Lemon Chicken Rice Soup  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-09-08)  
+**Coconut**  
+In name:   
+  
+In description:   
+ - Lemon Grass Tofu  
+ - *Nanaimo Bar  
+  
 **steak**  
 In name:   
  - Beef Flank Steak  
@@ -198,6 +241,13 @@ In description:
  - Great Greens  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-09-08)  
+**Coconut**  
+In name:   
+  
+In description:   
+ - *Nanaimo Bar  
+ - Station Recipe - Deli Lowell AYCTE  
+  
 **Beef Alicha**  
 In name:   
  - Beef Alicha  
