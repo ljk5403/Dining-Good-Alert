@@ -1,6 +1,6 @@
 # 2025-09-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-09 12:15:22  
+Updated at: 2025-09-09 13:22:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-09)  
 **Coconut**  
 In name:   
@@ -31,15 +31,16 @@ In name:
  - Beef & Chicken Meatballs  
   
 In description:   
+ - Sausage (Pork), Potatoes, & Peppers  
  - Thin Crust Tavern Style Pepperoni Pizza  
   
 **pork**  
 In name:   
  - Cajun Rice w/ Pork & Black Eyed Peas  
+ - Sausage (Pork), Potatoes, & Peppers  
   
 **chicken**  
 In name:   
- - Chicken Creole  
  - Tikka Masala Chicken  
  - Mediterranean Chicken  
  - Cream of Chicken & Wild Rice Soup  
