@@ -1,108 +1,19 @@
-# 2025-09-08 dinner  
+# 2025-09-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-08 20:21:49  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-08)  
+Updated at: 2025-09-09 01:27:50  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-09)  
 **Coconut**  
 In name:   
   
 In description:   
- - Thai Veggie Meatballs w/ Green Curry  
- - VEGAN Thai Chick'n w/ Green Curry (VN)  
- - *Nanaimo Bar  
+ - Lemon Grass Tofu  
+ - Curry Mango - Pork  
+ - -Chocolate Cake w/ Choc Frost (VN)  
  - Cookie Chocolate Chip  
   
-**drumstick**  
+**Pakoras**  
 In name:   
- - Chicken Drumstick BBQ Glazed  
-  
-**clam**  
-In name:   
- - Clam Strip Po-Boy Sandwich  
-  
-**Tilapia**  
-In name:   
- - Tilapia Veracruz  
-  
-**curry**  
-In name:   
- - Thai Veggie Meatballs w/ Green Curry  
- - VEGAN Thai Chick'n w/ Green Curry (VN)  
-  
-**beef**  
-In name:   
- - Beef Tortellini  
-  
-In description:   
- - Sausage (Pork), Potatoes, & Peppers  
- - Italian Meat Sauce  
- - Chicago-Style Hot Dog  
-  
-**pork**  
-In name:   
- - Sausage (Pork), Potatoes, & Peppers  
- - Italian Pork Sausage  
-  
-In description:   
- - Pizza Slice Sausage  
-  
-**chicken**  
-In name:   
- - Chicken Drumstick BBQ Glazed  
- - Chicken Salad  
- - Lemon Chicken Rice Soup  
-  
-In description:   
- - Great Greens  
-  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-09-08)  
-**Coconut**  
-In name:   
-  
-In description:   
- - Ice Cream  
- - *Nanaimo Bar  
- - Cookie Chocolate Chip  
-  
-**watermelon**  
-In name:   
- - Melon Watermelon Whole Sliced  
-  
-**Cod**  
-In name:   
- - Lemon Pepper Cod Fillet  
-  
-**Tuna**  
-In name:   
- - Tuna Salad  
-  
-**beef**  
-In name:   
- - Beef & Chicken Meatballs  
-  
-**chicken**  
-In name:   
- - Chicken Shawarma Sandwich  
- - Beef & Chicken Meatballs  
- - Lemon Chicken Rice Soup  
-  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-09-08)  
-**Coconut**  
-In name:   
-  
-In description:   
- - Yogurt Bar  
- - *Nanaimo Bar  
- - Vegan Mocha Brownie (VN)  
- - Crispy Chik'n Sandwich (VN)  
-  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
-**steak**  
-In name:   
- - Beef Sirloin Steak  
- - Grilled Flank Steak  
+ - Appetizer -  Pakoras Vegetable (Veg)  
   
 **Salmon**  
 In name:   
@@ -116,72 +27,54 @@ In name:
 In name:   
   
 In description:   
- - Poulet Braise  
+ - Miso Turnip Puree  
   
 **curry**  
 In name:   
-  
-In description:   
- - Jollof Rice - 25  
+ - Curry Mango - Pork  
+ - Black Eyed Pea Curry w/ Rice  
   
 **beef**  
 In name:   
- - Beef Sirloin Steak  
  - Beef & Chicken Meatballs  
+ - Poutine w/Beef Gravy  
+ - Beef Mediterranean  
   
 In description:   
- - Grilled Flank Steak  
- - Pizza Slice Deluxe (Pork)  
- - Gluten Free Pepperoni Pizza Quarter  
+ - Thin Crust Tavern Style Pepperoni Pizza  
   
 **pork**  
 In name:   
- - Italian Pork Sausage  
- - Pizza Slice Deluxe (Pork)  
- - Pork Chop (1)  
+ - Curry Mango - Pork  
   
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs  
- - Lemon Chicken Rice Soup  
- - Crispy Chicken Sandwich  
+ - Plant Based Chicken Strips  
+ - Chicken Vindaloo  
+ - Mediterranean Chicken  
+ - Cream of Chicken & Wild Rice Soup  
   
 In description:   
- - Pizza Slice Deluxe (Pork)  
- - Gluten Free Pepperoni Pizza Quarter  
- - Gordon's Great Greens  
- - Poulet Braise  
+ - Thin Crust Tavern Style Pepperoni Pizza  
+ - Great Greens  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-09-08)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-09-09)  
 **Coconut**  
 In name:   
- - Coconut Thai Curry Mahi Mahi  
   
 In description:   
- - Station Recipe - Deli  AYCTE FLM  
- - Blackened Beyond Burger  
- - Station Recipe - Great Greens - FLM  
- - *Nanaimo Bar  
+ - -Chocolate Cake w/ Choc Frost (VN)  
+ - Ice Cream  
   
 **watermelon**  
 In name:   
- - Watermelon Slices  
+ - Melon Watermelon Whole Sliced  
   
-**drumstick**  
+**Salmon**  
 In name:   
- - Chicken Drumstick BBQ Glazed  
-  
-**Samosas**  
-In name:   
- - Samosas  
-  
-**Shrimp**  
-In name:   
- - Shrimp Po-Boy Sandwich  
-  
-**mahi mahi**  
-In name:   
- - Coconut Thai Curry Mahi Mahi  
+ - Salmon Philly Roll (FujiSan)  
+ - Salmon Spicy Roll (FujiSan)  
   
 **Tuna**  
 In name:   
@@ -191,106 +84,197 @@ In name:
 In name:   
   
 In description:   
- - Coconut Thai Curry Mahi Mahi  
- - California Roll  (FujiSan)  
- - Nori Roll - Tempura (FujiSan)  
-  
-**curry**  
-In name:   
- - Curry Potatoes  
- - Coconut Thai Curry Mahi Mahi  
- - Indian Curry Garbanzo Beans  
+ - Salmon Spicy Roll (FujiSan)  
   
 **beef**  
+In name:   
+ - Beef Broccoli Stir Fry  
+  
+**pork**  
+In name:   
+ - Chicken Bacon (Pork) Ranch Pizza  
+  
+**chicken**  
+In name:   
+ - Chicken Bacon (Pork) Ranch Pizza  
+ - Cream of Chicken & Wild Rice Soup  
+  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-09-09)  
+**Coconut**  
+In name:   
+  
+In description:   
+ - Yogurt Bar  
+ - -Chocolate Cake w/ Choc Frost (VN)  
+ - Cookie Chocolate Chip  
+ - BBQ Beyond Burger (VN)  
+  
+**broccoli rabe**  
+In name:   
+  
+In description:   
+ - Tempeh w/Red Peppers & Broc Rabe  
+  
+**beef**  
+In name:   
+ - Beef Gravy  
+ - Texas BBQ Sliced Beef Brisket  
+ - Beef & Chicken Meatballs  
+ - Beef Harissa  
+ - Empanada Beef Picadillo  
+  
+In description:   
+ - Porkloin Fritter Plate  
+ - Jaeger Sauce  
+ - Reuben  
+  
+**pork**  
+In name:   
+ - Cubano (Pork) Pizza  
+ - Porkloin Fritter Plate  
+  
+In description:   
+ - Pizza Slice Sausage  
+  
+**chicken**  
+In name:   
+ - Baked BBQ Chicken  
+ - Pulled Chicken Thigh  
+ - Beef & Chicken Meatballs  
+ - Chicken Empanada with Green Chili  
+ - Cream of Chicken & Wild Rice Soup  
+  
+In description:   
+ - Empanada Beef Picadillo  
+ - Gordon's Great Greens  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-09-09)  
+**Coconut**  
 In name:   
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
+ - Mushroom Bulgogi Bao Bun  
+ - Beef Bulgogi Bao Bun  
+ - Station Recipe - Great Greens - FLM  
+ - -Chocolate Cake w/ Choc Frost (VN)  
+ - Cookie Chocolate Chip  
+  
+**Bulgogi**  
+In name:   
+ - Mushroom Bulgogi Bao Bun  
+ - Beef Bulgogi Bao Bun  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices  
+  
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
+**lamb**  
+In name:   
+ - Smoked Leg of Lamb  
+  
+**beef**  
+In name:   
+ - Traditional Beef Shepard's Pie  
+ - Beef Bulgogi Bao Bun  
+ - Mediterranean Beef  
+  
+In description:   
+ - Station Recipe - Deli  AYCTE FLM  
+ - Chicago-Style Hot Dog  
   
 **pork**  
 In name:   
- - Italian Pork Sausage  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
   
 **chicken**  
 In name:   
- - Chicken Drumstick BBQ Glazed  
- - Lemon Chicken Rice Soup  
+ - Italian Chicken  
+ - Cream of Chicken & Wild Rice Soup  
+ - Mediterranean Chicken  
   
 In description:   
  - Station Recipe - Great Greens - FLM  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-09-08)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-09-09)  
 **Coconut**  
 In name:   
+ - Chicken Stir-Fry Coconut Lime  
   
 In description:   
- - *Nanaimo Bar  
-  
-**beef**  
-In name:   
- - Texas BBQ Sliced Beef Brisket  
-  
-In description:   
- - Brazilian Pork Feijoada  
- - Cocktail Smokies (Pork)  
-  
-**pork**  
-In name:   
- - Hawaiian (Pork) Pizza Slice  
- - Brazilian Pork Feijoada  
- - Cocktail Smokies (Pork)  
-  
-In description:   
- - Andouille Sausage  
-  
-**chicken**  
-In name:   
- - Pizza Slice Chicken Alfredo  
- - Lemon Chicken Rice Soup  
- - Blackened Chicken Sandwich  
- - App Chicken Popcorn - BYO Bar  
-  
-In description:   
- - Great Greens  
- - Cocktail Smokies (Pork)  
-  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-09-08)  
-**Coconut**  
-In name:   
-  
-In description:   
- - *Nanaimo Bar  
- - Station Recipe - Deli Lowell AYCTE  
- - Shrimp Curry - Mango  
+ - -Chocolate Cake w/ Choc Frost (VN)  
   
 **Shrimp**  
 In name:   
- - Shrimp Curry - Mango  
+ - GF & DF Shrimp Scampi w/Garlic/Parsley  
   
 **curry**  
 In name:   
- - Shrimp Curry - Mango  
+ - Mixed Vegetable Curry  
   
 **beef**  
 In name:   
   
 In description:   
- - Station Recipe - Deli Lowell AYCTE  
+ - Meat Lovers w/ Bacon (Pork) Pizza Slice  
+ - Pepperoni Pizza Slice  
+ - Southwest Blended Burger  
   
 **pork**  
 In name:   
- - Herb Crusted Pork Loin  
+ - Meat Lovers w/ Bacon (Pork) Pizza Slice  
+ - Pork Belly for Street Taco - Carson  
+  
+**chicken**  
+In name:   
+ - Chicken Stir-Fry Coconut Lime  
+ - Cream of Chicken & Wild Rice Soup  
+ - Grilled Chicken Fillet  
+  
+In description:   
+ - Meat Lovers w/ Bacon (Pork) Pizza Slice  
+ - Pepperoni Pizza Slice  
+ - Great Greens  
+  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-09-09)  
+**Coconut**  
+In name:   
+  
+In description:   
+ - -Chocolate Cake w/ Choc Frost (VN)  
+ - Cookie Chocolate Chip  
+ - Station Recipe - Deli Lowell AYCTE  
+  
+**curry**  
+In name:   
+ - Garbanzo Bean Curry  
+ - Currywurst (Pork)  
+  
+**beef**  
+In name:   
+ - Beef Stir Fry w/ Snow Peas  
+  
+In description:   
+ - Station Recipe - Deli Lowell AYCTE  
+ - Currywurst (Pork)  
+  
+**pork**  
+In name:   
+ - Currywurst (Pork)  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
   
 **chicken**  
 In name:   
- - Lemon Chicken Rice Soup  
- - Breaded Chicken Parmigiana  
+ - Cream of Chicken & Wild Rice Soup  
+ - Autumn Chicken  
   
 In description:   
  - Great Greens  
