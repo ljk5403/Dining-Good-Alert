@@ -1,6 +1,6 @@
 # 2025-09-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-09 15:19:11  
+Updated at: 2025-09-09 16:14:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-09)  
 **Coconut**  
 In name:   
@@ -162,14 +162,23 @@ In description:
 In name:   
  - Mushroom Bulgogi Bao Bun  
  - Beef Bulgogi Bao Bun  
+ - Bulgogi Chicken  
   
 **watermelon**  
 In name:   
  - Watermelon Slices  
   
+**catfish**  
+In name:   
+ - Blackened Catfish  
+  
 **Tuna**  
 In name:   
  - Tuna Salad  
+  
+**fish**  
+In name:   
+ - Blackened Catfish  
   
 **lamb**  
 In name:   
@@ -194,6 +203,7 @@ In description:
 **chicken**  
 In name:   
  - Italian Chicken  
+ - Bulgogi Chicken  
  - Cream of Chicken & Wild Rice Soup  
  - Mediterranean Chicken  
   
@@ -248,6 +258,10 @@ In description:
  - -Chocolate Cake w/ Choc Frost (VN)  
  - Station Recipe - Deli Lowell AYCTE  
   
+**Tandoori Chicken**  
+In name:   
+ - Tandoori Chicken  
+  
 **curry**  
 In name:   
  - Garbanzo Bean Curry  
@@ -272,6 +286,7 @@ In description:
 In name:   
  - Cream of Chicken & Wild Rice Soup  
  - Autumn Chicken  
+ - Tandoori Chicken  
   
 In description:   
  - Great Greens  

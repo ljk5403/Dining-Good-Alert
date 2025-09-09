@@ -1,6 +1,6 @@
 # 2025-09-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-09 13:22:27  
+Updated at: 2025-09-09 15:19:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-09)  
 **Coconut**  
 In name:   
@@ -37,11 +37,11 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Poutine w/Beef Gravy  
  - Beef Mediterranean  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza  
+ - Grilled Blended Burger w/ Cheese  
   
 **pork**  
 In name:   
@@ -124,14 +124,11 @@ In name:
  - Empanada Beef Picadillo  
   
 In description:   
- - Porkloin Fritter Plate  
- - Jaeger Sauce  
  - Reuben  
   
 **pork**  
 In name:   
  - Cubano (Pork) Pizza  
- - Porkloin Fritter Plate  
   
 In description:   
  - Pizza Slice Sausage  
@@ -143,6 +140,7 @@ In name:
  - Beef & Chicken Meatballs  
  - Chicken Empanada with Green Chili  
  - Cream of Chicken & Wild Rice Soup  
+ - Chicken Paprikash  
   
 In description:   
  - Empanada Beef Picadillo  
@@ -248,7 +246,6 @@ In name:
   
 In description:   
  - -Chocolate Cake w/ Choc Frost (VN)  
- - Cookie Chocolate Chip  
  - Station Recipe - Deli Lowell AYCTE  
   
 **curry**  
