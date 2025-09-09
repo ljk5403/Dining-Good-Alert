@@ -1,6 +1,6 @@
 # 2025-09-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-09 17:14:45  
+Updated at: 2025-09-09 18:15:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-09)  
 **Coconut**  
 In name:   
@@ -115,6 +115,12 @@ In name:
 In description:   
  - Tempeh w/Red Peppers & Broc Rabe  
   
+**drumstick**  
+In name:   
+  
+In description:   
+ - Irish Roast Chicken w/Leeks and Bacon  
+  
 **beef**  
 In name:   
  - Beef Gravy  
@@ -136,7 +142,7 @@ In description:
   
 **chicken**  
 In name:   
- - Baked BBQ Chicken  
+ - Irish Roast Chicken w/Leeks and Bacon  
  - Beef & Chicken Meatballs  
  - Chicken Empanada with Green Chili  
  - Cream of Chicken & Wild Rice Soup  
@@ -162,23 +168,14 @@ In description:
 In name:   
  - Mushroom Bulgogi Bao Bun  
  - Beef Bulgogi Bao Bun  
- - Bulgogi Chicken  
   
 **watermelon**  
 In name:   
  - Watermelon Slices  
   
-**catfish**  
-In name:   
- - Blackened Catfish  
-  
 **Tuna**  
 In name:   
  - Tuna Salad  
-  
-**fish**  
-In name:   
- - Blackened Catfish  
   
 **lamb**  
 In name:   
@@ -203,7 +200,6 @@ In description:
 **chicken**  
 In name:   
  - Italian Chicken  
- - Bulgogi Chicken  
  - Cream of Chicken & Wild Rice Soup  
  - Mediterranean Chicken  
   

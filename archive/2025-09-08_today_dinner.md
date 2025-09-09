@@ -1,6 +1,6 @@
 # 2025-09-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-09 16:14:59  
+Updated at: 2025-09-09 17:14:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-09)  
 **Coconut**  
 In name:   
@@ -128,6 +128,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Italian Sausage  
  - Cubano (Pork) Pizza  
   
 In description:   
@@ -136,7 +137,6 @@ In description:
 **chicken**  
 In name:   
  - Baked BBQ Chicken  
- - Pulled Chicken Thigh  
  - Beef & Chicken Meatballs  
  - Chicken Empanada with Green Chili  
  - Cream of Chicken & Wild Rice Soup  
