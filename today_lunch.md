@@ -1,6 +1,6 @@
 # 2025-09-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-10 13:25:43  
+Updated at: 2025-09-10 15:19:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-10)  
 **broccoli rabe**  
 In name:   
@@ -91,12 +91,6 @@ In description:
 **mahi mahi**  
 In name:   
  - Blackened Mahi Mahi  
-  
-**fish**  
-In name:   
-  
-In description:   
- - California Roll  (FujiSan)  
   
 **curry**  
 In name:   
@@ -201,7 +195,6 @@ In name:
 In description:   
  - Duck Curry  
  - Eggplant Curry  
- - Chocolate Chip Cookie  
  - -Chocolate Cake w/ Choc Frost (VN)  
  - Crispy Buffalo Chik'n Sandwich (VN)  
   
