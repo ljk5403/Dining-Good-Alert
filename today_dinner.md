@@ -1,6 +1,6 @@
 # 2025-09-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-09 18:15:51  
+Updated at: 2025-09-09 20:19:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-09)  
 **Coconut**  
 In name:   
@@ -121,15 +121,19 @@ In name:
 In description:   
  - Irish Roast Chicken w/Leeks and Bacon  
   
+**steak**  
+In name:   
+ - Brazilian Flank Steak  
+  
 **beef**  
 In name:   
  - Beef Gravy  
- - Texas BBQ Sliced Beef Brisket  
  - Beef & Chicken Meatballs  
  - Beef Harissa  
  - Empanada Beef Picadillo  
   
 In description:   
+ - Brazilian Flank Steak  
  - Reuben  
   
 **pork**  
@@ -200,7 +204,7 @@ In description:
 **chicken**  
 In name:   
  - Italian Chicken  
- - Cream of Chicken & Wild Rice Soup  
+ - Chicken Tortilla Soup  
  - Mediterranean Chicken  
   
 In description:   
