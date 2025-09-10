@@ -1,6 +1,6 @@
 # 2025-09-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-10 09:16:54  
+Updated at: 2025-09-10 10:18:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-10)  
 **broccoli rabe**  
 In name:   
@@ -206,36 +206,28 @@ In description:
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-09-10)  
 **Coconut**  
 In name:   
+ - Coconut Shrimp  
   
 In description:   
- - Duck Curry  
  - Eggplant Curry  
  - Chocolate Chip Cookie  
  - -Chocolate Cake w/ Choc Frost (VN)  
  - Crispy Buffalo Chik'n Sandwich (VN)  
   
-**duck**  
+**Shrimp**  
 In name:   
- - Duck Curry  
+ - Coconut Shrimp  
   
 **Tuna**  
 In name:   
  - Poke Tuna (*Raw)  
   
-**fish**  
-In name:   
-  
-In description:   
- - Duck Curry  
-  
 **curry**  
 In name:   
- - Duck Curry  
  - Eggplant Curry  
   
 **beef**  
 In name:   
- - Beef & Bean Chili  
   
 In description:   
  - Sausage (Pork) & Pepperoni Pizza Slice  
@@ -252,6 +244,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Cream of Chicken & Wild Rice Soup  
  - Sausage Links Chicken (halal) (AYCTE)  
  - Buffalo Chicken Sliders  
   
@@ -265,9 +258,14 @@ In description:
 In name:   
   
 In description:   
+ - Cookie M&M  
  - Station Recipe - Deli Lowell AYCTE  
  - Chicken Curry - Mango  
  - Lemon Grass Tofu  
+  
+**Bulgogi**  
+In name:   
+ - Sub - Beef Korean BBQ (Bulgogi]  
   
 **Shrimp**  
 In name:   
@@ -283,13 +281,13 @@ In description:
 **beef**  
 In name:   
  - Beef & Bean Chili  
+ - Sub - Beef Korean BBQ (Bulgogi]  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
   
 **pork**  
 In name:   
- - Sri Lanka Deviled Pork  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
