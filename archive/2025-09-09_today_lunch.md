@@ -1,6 +1,6 @@
 # 2025-09-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-10 01:26:52  
+Updated at: 2025-09-10 09:16:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-10)  
 **broccoli rabe**  
 In name:   
@@ -87,11 +87,10 @@ In description:
  - VEGAN Thai Chick'n w/ Green Curry (VN)  
  - Vegan Grilled Cheese Sandwich  
  - Vegan General Tso's Chick'n Stir Fry  
- - Yogurt Bar  
   
-**mahi mahi**  
+**Tilapia**  
 In name:   
- - Baked Mahi Mahi w/ Butter & Lemon  
+ - Blackened Tilapia  
   
 **fish**  
 In name:   
@@ -137,7 +136,6 @@ In description:
  - Gnocchi w/ Pork Chorizo Sauce  
  - Pepperoni Pizza Slice  
  - Meat Lovers w/ Bacon (Pork) Pizza Slice  
- - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-09-10)  
 **Coconut**  
@@ -185,7 +183,6 @@ In name:
  - Protein - Beef Thinly Sliced  
   
 In description:   
- - Bolognese Sauce  
  - Station Recipe - Deli  AYCTE FLM  
   
 **pork**  
@@ -194,7 +191,6 @@ In name:
  - BBQ Pork Sandwich  
   
 In description:   
- - Bolognese Sauce  
  - Station Recipe - Deli  AYCTE FLM  
   
 **chicken**  
@@ -215,11 +211,16 @@ In description:
  - Duck Curry  
  - Eggplant Curry  
  - Chocolate Chip Cookie  
+ - -Chocolate Cake w/ Choc Frost (VN)  
  - Crispy Buffalo Chik'n Sandwich (VN)  
   
 **duck**  
 In name:   
  - Duck Curry  
+  
+**Tuna**  
+In name:   
+ - Poke Tuna (*Raw)  
   
 **fish**  
 In name:   
