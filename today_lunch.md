@@ -1,6 +1,6 @@
 # 2025-09-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-10 11:22:04  
+Updated at: 2025-09-10 12:14:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-10)  
 **broccoli rabe**  
 In name:   
@@ -88,9 +88,9 @@ In description:
  - Vegan Grilled Cheese Sandwich  
  - Vegan General Tso's Chick'n Stir Fry  
   
-**Tilapia**  
+**mahi mahi**  
 In name:   
- - Blackened Tilapia  
+ - Blackened Mahi Mahi  
   
 **fish**  
 In name:   
@@ -155,10 +155,6 @@ In name:
 In name:   
  - BBQ Pork Sandwich  
   
-**Cod**  
-In name:   
- - Miso Cod  
-  
 **Tuna**  
 In name:   
  - Tuna Salad  
@@ -169,7 +165,6 @@ In name:
   
 In description:   
  - Vietnamese Pork  
- - Miso Cod  
   
 **curry**  
 In name:   
@@ -207,24 +202,31 @@ In description:
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-09-10)  
 **Coconut**  
 In name:   
- - Coconut Shrimp  
   
 In description:   
+ - Duck Curry  
  - Eggplant Curry  
  - Chocolate Chip Cookie  
  - -Chocolate Cake w/ Choc Frost (VN)  
  - Crispy Buffalo Chik'n Sandwich (VN)  
   
-**Shrimp**  
+**duck**  
 In name:   
- - Coconut Shrimp  
+ - Duck Curry  
   
 **Tuna**  
 In name:   
  - Poke Tuna (*Raw)  
   
+**fish**  
+In name:   
+  
+In description:   
+ - Duck Curry  
+  
 **curry**  
 In name:   
+ - Duck Curry  
  - Eggplant Curry  
   
 **beef**  
