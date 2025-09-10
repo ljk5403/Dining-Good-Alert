@@ -1,6 +1,6 @@
 # 2025-09-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-10 15:19:19  
+Updated at: 2025-09-10 16:15:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-10)  
 **Tuna**  
 In name:   
@@ -76,7 +76,6 @@ In name:
   
 **Shrimp**  
 In name:   
- - Sweet & Sour Shrimp  
  - Shrimp & Green Chile Burrito  
   
 **Cod**  
@@ -113,6 +112,7 @@ In name:
  - Chicken Drummies  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
+ - Sweet & Sour Chicken  
  - Plant Based Sweet & Sour Chicken  
   
 In description:   
@@ -143,6 +143,12 @@ In name:
 In name:   
  - Tuna Salad  
   
+**fish**  
+In name:   
+  
+In description:   
+ - Vietnamese Pork  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
@@ -156,6 +162,7 @@ In description:
   
 **pork**  
 In name:   
+ - Vietnamese Pork  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
@@ -181,7 +188,7 @@ In description:
   
 **Salmon**  
 In name:   
- - Island Spiced Salmon  
+ - Blackened Salmon  
   
 **curry**  
 In name:   
