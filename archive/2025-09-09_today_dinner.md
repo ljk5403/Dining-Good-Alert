@@ -1,6 +1,6 @@
 # 2025-09-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-10 16:15:17  
+Updated at: 2025-09-10 17:16:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-10)  
 **Tuna**  
 In name:   
@@ -186,10 +186,6 @@ In name:
 In description:   
  - Chocolate Chip Cookie  
   
-**Salmon**  
-In name:   
- - Blackened Salmon  
-  
 **curry**  
 In name:   
   
@@ -209,6 +205,7 @@ In description:
 In name:   
  - Pizza Slice Deluxe (Pork)  
  - Sausage (Pork) & Pepperoni Pizza Slice  
+ - Jerk Pork Chop  
  - Italian Pork Sausage  
   
 **chicken**  
