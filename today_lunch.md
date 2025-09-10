@@ -1,6 +1,6 @@
 # 2025-09-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-10 12:14:59  
+Updated at: 2025-09-10 13:25:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-10)  
 **broccoli rabe**  
 In name:   
@@ -96,7 +96,6 @@ In name:
 In name:   
   
 In description:   
- - Nori Roll - Tempura (FujiSan)  
  - California Roll  (FujiSan)  
   
 **curry**  
@@ -151,10 +150,6 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**BBQ Pork Sandwich**  
-In name:   
- - BBQ Pork Sandwich  
-  
 **Tuna**  
 In name:   
  - Tuna Salad  
@@ -184,13 +179,13 @@ In description:
 **pork**  
 In name:   
  - Vietnamese Pork  
- - BBQ Pork Sandwich  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
   
 **chicken**  
 In name:   
+ - Grilled BBQ Chicken Sandwich  
  - Beef & Chicken Meatballs  
  - Chicken Wings Boneless Plain  
  - Plant-Based Chicken Nuggets (6)  
@@ -266,10 +261,6 @@ In description:
  - Chicken Curry - Mango  
  - Lemon Grass Tofu  
   
-**Bulgogi**  
-In name:   
- - Sub - Beef Korean BBQ (Bulgogi]  
-  
 **Shrimp**  
 In name:   
  - Sauteed Shrimp  
@@ -284,7 +275,7 @@ In description:
 **beef**  
 In name:   
  - Beef & Bean Chili  
- - Sub - Beef Korean BBQ (Bulgogi]  
+ - Beef Stir Fry w/ Snow Peas  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
