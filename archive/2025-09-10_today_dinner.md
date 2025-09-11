@@ -1,6 +1,6 @@
 # 2025-09-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-11 15:16:48  
+Updated at: 2025-09-11 16:14:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-11)  
 **Coconut**  
 In name:   
@@ -136,7 +136,6 @@ In name:
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
- - Vegan Roasted Vegetable Panini  
  - Station Recipe - Great Greens - FLM  
  - Cookie M&M  
   
@@ -168,6 +167,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Bratwurst Sandwich  
  - Apple Cider Braised Pork  
   
 In description:   
@@ -236,7 +236,6 @@ In description:
 In name:   
   
 In description:   
- - Cookie M&M  
  - Station Recipe - Deli Lowell AYCTE  
   
 **beef**  
