@@ -1,6 +1,6 @@
 # 2025-09-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-11 01:27:22  
+Updated at: 2025-09-11 09:17:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-11)  
 **Coconut**  
 In name:   
@@ -234,30 +234,10 @@ In description:
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-09-11)  
 **Coconut**  
 In name:   
- - Coconut Thai Curry Mahi Mahi  
   
 In description:   
  - Cookie M&M  
  - Station Recipe - Deli Lowell AYCTE  
- - Tofu & Vegetable Tikka Masala  
-  
-**mahi mahi**  
-In name:   
- - Coconut Thai Curry Mahi Mahi  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Coconut Thai Curry Mahi Mahi  
-  
-**curry**  
-In name:   
- - Coconut Thai Curry Mahi Mahi  
- - Japanese Chicken Curry  
-  
-In description:   
- - Tofu & Vegetable Tikka Masala  
   
 **beef**  
 In name:   
@@ -267,7 +247,6 @@ In description:
   
 **pork**  
 In name:   
- - Baked Rigatoni w/ Pork Italian Sausage  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
@@ -275,7 +254,6 @@ In description:
 **chicken**  
 In name:   
  - Chicken Noodle Soup  
- - Japanese Chicken Curry  
   
 In description:   
  - Great Greens  
