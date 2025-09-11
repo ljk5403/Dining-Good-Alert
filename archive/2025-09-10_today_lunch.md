@@ -1,6 +1,6 @@
 # 2025-09-11 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-11 13:21:14  
+Updated at: 2025-09-11 15:16:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-11)  
 **Coconut**  
 In name:   
@@ -103,7 +103,7 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken Baked  (1 piece)  
+ - Chicken Peruvian w/ Rice  
  - Beef & Chicken Meatballs  
  - Sausage Links Chicken (halal) (AYCTE)  
  - Chicken Noodle Soup  

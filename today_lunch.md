@@ -1,6 +1,6 @@
 # 2025-09-11 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-11 15:16:45  
+Updated at: 2025-09-11 16:14:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-11)  
 **Coconut**  
 In name:   
@@ -117,7 +117,6 @@ In name:
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
- - Station Recipe - Great Greens - FLM  
  - Cookie M&M  
  - Chocolate Chip Cookie  
   
@@ -156,9 +155,6 @@ In name:
  - Mediterranean Chicken  
  - Plant-Based Chicken Tenders  
  - Chicken Noodle Soup  
-  
-In description:   
- - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-09-11)  
 **Coconut**  
