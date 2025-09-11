@@ -1,6 +1,6 @@
 # 2025-09-11 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-11 12:14:53  
+Updated at: 2025-09-11 13:21:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-11)  
 **Coconut**  
 In name:   
@@ -129,10 +129,6 @@ In name:
 In name:   
  - Build Your Own Poke Bar  
   
-**drumstick**  
-In name:   
- - Jamaican Jerk Chicken Drumstick  
-  
 **Tuna**  
 In name:   
  - Tuna Salad  
@@ -157,7 +153,6 @@ In description:
   
 **chicken**  
 In name:   
- - Jamaican Jerk Chicken Drumstick  
  - Mediterranean Chicken  
  - Plant-Based Chicken Tenders  
  - Chicken Noodle Soup  
