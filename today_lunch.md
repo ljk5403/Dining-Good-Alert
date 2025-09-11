@@ -1,6 +1,6 @@
 # 2025-09-11 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-11 01:27:18  
+Updated at: 2025-09-11 09:17:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-11)  
 **Coconut**  
 In name:   
@@ -95,6 +95,7 @@ In description:
 In name:   
  - Baked Pork Chops w/Dressing  
  - Pork Gravy with Vegetables  
+ - Italian Pork Sausage  
  - Pork Sausage Country Gravy w/ Biscuit  
  - Filipino Pork Sausage  
  - FIipino Pork  
@@ -104,7 +105,6 @@ In name:
 In name:   
  - Chicken Baked  (1 piece)  
  - Beef & Chicken Meatballs  
- - Mediterranean Chicken  
  - Sausage Links Chicken (halal) (AYCTE)  
  - Chicken Noodle Soup  
   
@@ -139,7 +139,6 @@ In name:
 **beef**  
 In name:   
  - Italian Beef Sandwich  
- - Roast Beef & Cheddar Panini on Rye  
  - Beef Taco Meat  
   
 In description:   
@@ -148,6 +147,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Bratwurst Sandwich  
   
 In description:   
  - Andouille Sausage  
@@ -170,6 +170,8 @@ In name:
 In description:   
  - Butter Chicken  
  - Cookie M&M  
+ - Blueberry Muffin (VN)  
+ - Chocolate Chip Cookie  
  - Blackened Beyond Burger  
   
 **Samosas**  
@@ -187,6 +189,10 @@ In name:
 **Tilapia**  
 In name:   
  - Blackened Tilapia Po-Boy Sandwich  
+  
+**Tuna**  
+In name:   
+ - Poke Tuna (*Raw)  
   
 **beef**  
 In name:   
