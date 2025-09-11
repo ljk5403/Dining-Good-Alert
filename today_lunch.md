@@ -1,6 +1,6 @@
 # 2025-09-11 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-11 10:16:26  
+Updated at: 2025-09-11 11:21:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-11)  
 **Coconut**  
 In name:   
@@ -119,6 +119,7 @@ In description:
  - Station Recipe - Deli  AYCTE FLM  
  - Station Recipe - Great Greens - FLM  
  - Cookie M&M  
+ - Chocolate Chip Cookie  
   
 **watermelon**  
 In name:   
@@ -142,7 +143,7 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Grilled Blended Burger w/ Cheese  
+ - Bolognese Sauce  
  - Station Recipe - Deli  AYCTE FLM  
   
 **pork**  
@@ -151,13 +152,13 @@ In name:
   
 In description:   
  - Andouille Sausage  
+ - Bolognese Sauce  
  - Station Recipe - Deli  AYCTE FLM  
   
 **chicken**  
 In name:   
  - Jamaican Jerk Chicken Drumstick  
  - Plant-Based Chicken Tenders  
- - Chicken Dumpling Soup  
  - Chicken Noodle Soup  
   
 In description:   
@@ -221,7 +222,6 @@ In description:
 In name:   
   
 In description:   
- - Cookie M&M  
  - Station Recipe - Deli Lowell AYCTE  
  - Rendang Ayam  
  - Lamb & Beef Gyro Sandwich  
