@@ -1,6 +1,6 @@
 # 2025-09-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-10 18:16:14  
+Updated at: 2025-09-10 20:21:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-10)  
 **Tuna**  
 In name:   
@@ -35,7 +35,6 @@ In name:
 In description:   
  - Sweet & Spicy Orange Chick'n  
  - Ice Cream  
- - Cookie M&M  
   
 **watermelon**  
 In name:   
@@ -82,13 +81,6 @@ In name:
 In name:   
  - Basque Style Cod  
   
-**fish**  
-In name:   
-  
-In description:   
- - Nori Roll - Tempura (FujiSan)  
- - California Roll  (FujiSan)  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
@@ -127,9 +119,7 @@ In name:
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
- - Plant-Based Chicken Nuggets (6)  
  - Station Recipe - Great Greens - FLM  
- - -Brownie Raspberry Bar  
   
 **watermelon**  
 In name:   
@@ -143,15 +133,8 @@ In name:
 In name:   
  - Tuna Salad  
   
-**fish**  
-In name:   
-  
-In description:   
- - Vietnamese Pork  
-  
 **beef**  
 In name:   
- - Beef & Chicken Meatballs  
  - Beef & Bean Chili  
  - Protein - Beef Thinly Sliced  
   
@@ -162,7 +145,7 @@ In description:
   
 **pork**  
 In name:   
- - Vietnamese Pork  
+ - Pork Italian Sausage  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
@@ -170,10 +153,9 @@ In description:
   
 **chicken**  
 In name:   
- - Beef & Chicken Meatballs  
  - Huli Huli Chicken  
  - Chicken Wings Boneless Plain  
- - Plant-Based Chicken Nuggets (6)  
+ - Plant-Based Chicken Tenders  
  - Protein - Chicken Thinly Sliced  
   
 In description:   
