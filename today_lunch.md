@@ -1,6 +1,6 @@
 # 2025-09-11 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-11 11:21:59  
+Updated at: 2025-09-11 12:14:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-11)  
 **Coconut**  
 In name:   
@@ -158,6 +158,7 @@ In description:
 **chicken**  
 In name:   
  - Jamaican Jerk Chicken Drumstick  
+ - Mediterranean Chicken  
  - Plant-Based Chicken Tenders  
  - Chicken Noodle Soup  
   
