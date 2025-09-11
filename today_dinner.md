@@ -1,6 +1,6 @@
 # 2025-09-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-11 17:16:13  
+Updated at: 2025-09-11 18:16:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-11)  
 **Coconut**  
 In name:   
@@ -101,6 +101,12 @@ In name:
 In name:   
  - Lemon Pepper Tuna Salad  
   
+**fish**  
+In name:   
+  
+In description:   
+ - Kung Pao Chicken  
+  
 **curry**  
 In name:   
   
@@ -112,6 +118,7 @@ In name:
  - Beef & Chicken Meatballs  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Italian Meatball Sandwich  
   
 **chicken**  
@@ -119,13 +126,14 @@ In name:
  - Huli Huli Chicken  
  - Beef & Chicken Meatballs  
  - Mediterranean Chicken  
- - Spicy Lo Mein w/Chicken  
+ - Kung Pao Chicken  
  - Plant-Based Chicken Lo Mein  
  - Chicken Fajita Meat  
  - Chicken Noodle Soup  
  - Breaded Chicken Parmigiana  
   
 In description:   
+ - Pepperoni Pizza Slice  
  - Build Your Own Southwest Bowl  
  - Gordon's Great Greens  
  - Italian Meatball Sandwich  
@@ -167,7 +175,6 @@ In description:
   
 **pork**  
 In name:   
- - Pork Bratwurst Sandwich  
  - Apple Cider Braised Pork  
   
 In description:   
