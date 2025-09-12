@@ -1,6 +1,6 @@
 # 2025-09-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-12 09:16:47  
+Updated at: 2025-09-12 10:17:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-12)  
 **Coconut**  
 In name:   
@@ -143,6 +143,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Gravy  
  - Beef & Chicken Meatballs  
  - Beef Barbacoa  
  - Beef Taco Meat  
