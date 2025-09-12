@@ -1,0 +1,248 @@
+# 2025-09-11 lunch  
+*THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
+Updated at: 2025-09-11 20:17:57  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-11)  
+**Coconut**  
+In name:   
+  
+In description:   
+ - Cookie M&M  
+  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Nori Roll - Tempura (FujiSan)  
+  
+**curry**  
+In name:   
+ - Garbanzo Bean Curry  
+  
+**beef**  
+In name:   
+ - Cowboy Bean w/ Beef & Pork  
+ - Beef Mediterranean  
+ - Beef & Chicken Meatballs  
+  
+In description:   
+ - Pepperoni Pizza Slice  
+  
+**pork**  
+In name:   
+ - Cowboy Bean w/ Beef & Pork  
+  
+**chicken**  
+In name:   
+ - Huli Huli Chicken  
+ - Pizza Slice Chicken Broccoli Alfredo  
+ - Chicken Breakfast Biscuit  
+ - Mediterranean Chicken  
+ - Chicken Noodle Soup  
+ - Beef & Chicken Meatballs  
+ - Plant Based Chicken Strips  
+  
+In description:   
+ - Pepperoni Pizza Slice  
+ - Great Greens  
+  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-09-11)  
+**Coconut**  
+In name:   
+  
+In description:   
+ - Crispy Buffalo Chik'n Sandwich (VN)  
+ - Ice Cream  
+ - Vegan Portobello Mushroom Stroganoff  
+  
+**watermelon**  
+In name:   
+ - Melon Watermelon Whole Sliced  
+  
+**beef**  
+In name:   
+ - Beef Stroganoff Creamy - UM (AYCTE) w/o  
+  
+**chicken**  
+In name:   
+ - Crispy Buffalo Chicken Sandwich  
+ - Chicken Noodle Soup  
+  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-09-11)  
+**Coconut**  
+In name:   
+  
+In description:   
+ - Yogurt Bar  
+ - Cookie M&M  
+  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad  
+  
+**beef**  
+In name:   
+ - Beef & Chicken Meatballs  
+ - Beef Taco Meat  
+  
+In description:   
+ - Mushroom Swiss Blended Burger  
+  
+**pork**  
+In name:   
+ - Baked Pork Chops w/Dressing  
+ - Pork Gravy with Vegetables  
+ - Italian Pork Sausage  
+ - Pork Sausage Country Gravy w/ Biscuit  
+ - Filipino Pork Sausage  
+ - FIipino Pork  
+ - Pork Carnita  
+  
+**chicken**  
+In name:   
+ - Chicken Peruvian w/ Rice  
+ - Beef & Chicken Meatballs  
+ - Sausage Links Chicken (halal) (AYCTE)  
+ - Chicken Noodle Soup  
+  
+In description:   
+ - Gordon's Great Greens  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-09-11)  
+**Coconut**  
+In name:   
+  
+In description:   
+ - Station Recipe - Deli  AYCTE FLM  
+ - Cookie M&M  
+ - Chocolate Chip Cookie  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices  
+  
+**Poke Bar**  
+In name:   
+ - Build Your Own Poke Bar  
+  
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
+**beef**  
+In name:   
+ - Italian Beef Sandwich  
+ - Beef Taco Meat  
+  
+In description:   
+ - Bolognese Sauce  
+ - Station Recipe - Deli  AYCTE FLM  
+  
+**pork**  
+In name:   
+ - Pork Bratwurst Sandwich  
+  
+In description:   
+ - Andouille Sausage  
+ - Bolognese Sauce  
+ - Station Recipe - Deli  AYCTE FLM  
+  
+**chicken**  
+In name:   
+ - Mediterranean Chicken  
+ - Plant-Based Chicken Tenders  
+ - Chicken Tortilla Soup  
+  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-09-11)  
+**Coconut**  
+In name:   
+  
+In description:   
+ - Butter Chicken  
+ - Cookie M&M  
+ - Blueberry Muffin (VN)  
+ - Chocolate Chip Cookie  
+ - Blackened Beyond Burger  
+  
+**Samosas**  
+In name:   
+ - Samosas  
+  
+**steak**  
+In name:   
+ - Ham Steak  
+  
+**Cod**  
+In name:   
+ - Greek Cod  
+  
+**Tilapia**  
+In name:   
+ - Blackened Tilapia Po-Boy Sandwich  
+  
+**Tuna**  
+In name:   
+ - Poke Tuna (*Raw)  
+  
+**beef**  
+In name:   
+  
+In description:   
+ - Thin Crust Tavern Style Pepperoni Pizza  
+  
+**pork**  
+In name:   
+ - Tavern Style Sausage Pizza (Pork)  
+  
+In description:   
+ - Ham Steak  
+  
+**chicken**  
+In name:   
+ - Butter Chicken  
+ - Chicken Noodle Soup  
+  
+In description:   
+ - Thin Crust Tavern Style Pepperoni Pizza  
+ - Great Greens  
+  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-09-11)  
+**Coconut**  
+In name:   
+  
+In description:   
+ - Station Recipe - Deli Lowell AYCTE  
+ - Rendang Ayam  
+ - Lamb & Beef Gyro Sandwich  
+  
+**lamb**  
+In name:   
+ - Lamb & Beef Gyro Sandwich  
+  
+**beef**  
+In name:   
+ - Lamb & Beef Gyro Sandwich  
+  
+In description:   
+ - Station Recipe - Deli Lowell AYCTE  
+ - Zupa Gulaszowa  
+  
+**pork**  
+In name:   
+  
+In description:   
+ - Station Recipe - Deli Lowell AYCTE  
+ - Zupa Gulaszowa  
+  
+**chicken**  
+In name:   
+ - Chicken Noodle Soup  
+  
+In description:   
+ - Great Greens  
+ - Rendang Ayam  
+  
+  

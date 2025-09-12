@@ -1,307 +1,127 @@
-# 2025-09-12 dinner  
+# 2025-09-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-11 20:18:06  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-12)  
+Updated at: 2025-09-12 01:27:07  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-13)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-09-13)  
 **Coconut**  
 In name:   
+ - *Bar Coconut Macaroon  
   
 In description:   
- - *Cupcake Spiced with Maple Cin Frosting  
- - *Cupcake Nut-Free German Chocolate  
- - Cookie Chocolate Chip  
- - Cookie M&M  
-  
-**Poke Bar**  
-In name:   
- - Build Your Own Poke Bar  
-  
-**clam**  
-In name:   
- - Clam Chowder (Pork)  
-  
-**Cod**  
-In name:   
- - Cod w/ Roasted Fruit Salsa  
-  
-In description:   
- - Fish Tacos  
- - Clam Chowder (Pork)  
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad  
-  
-**fish**  
-In name:   
- - Fish Tacos  
-  
-**pork**  
-In name:   
- - Pork Sausage Patty  
- - Hawaiian (Pork) Pizza Slice  
- - Ancho Braised Pork  
- - Clam Chowder (Pork)  
-  
-In description:   
- - Pizza Slice Sausage  
-  
-**chicken**  
-In name:   
-  
-In description:   
- - Ancho Braised Pork  
- - Great Greens  
-  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-09-12)  
-**Coconut**  
-In name:   
-  
-In description:   
- - Breaded Chik'n Parm (Vegan)  
- - *Cupcake Spiced with Maple Cin Frosting  
  - Ice Cream  
- - *Cupcake Nut-Free German Chocolate  
- - Cookie Chocolate Chip  
   
 **watermelon**  
 In name:   
  - Melon Watermelon Whole Sliced  
   
-**clam**  
-In name:   
- - Clam Chowder (Pork)  
-  
-**Cod**  
-In name:   
-  
-In description:   
- - Clam Chowder (Pork)  
-  
 **beef**  
 In name:   
- - Beef & Tater Tot Bake  
-  
-In description:   
- - Baked Corn Dog (Pork)  
+ - Beef Enchilada Bake  
   
 **pork**  
 In name:   
- - Baked Corn Dog (Pork)  
- - Grilled Chicken Monterey Sandwich (Pork)  
- - Clam Chowder (Pork)  
+  
+In description:   
+ - Kale, Sausage & Potato Soup  
   
 **chicken**  
 In name:   
- - Breaded Chicken Parmigiana  
- - Grilled Chicken Monterey Sandwich (Pork)  
  - Lemon Pepper Chicken Salad  
   
 In description:   
- - Baked Corn Dog (Pork)  
+ - Kale, Sausage & Potato Soup  
   
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-09-12)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-09-13)  
 **Coconut**  
 In name:   
+ - *Bar Coconut Macaroon  
   
 In description:   
- - Pizza Slice Gyro  
- - Butter Chicken  
- - Lentil Chickpea Red Curry  
  - Yogurt Bar  
- - *Cupcake Spiced with Maple Cin Frosting  
- - *Cupcake Nut-Free German Chocolate  
- - Cookie M&M  
  - Cookie Chocolate Chip  
- - Plant-Based Chicken Nuggets (6)  
- - Veggie Focaccia Sandwich  
-  
-**watermelon**  
-In name:   
- - Watermelon Slices  
-  
-**clam**  
-In name:   
- - Clam Chowder (Pork)  
+ - Beyond Burger (VN)  
   
 **Shrimp**  
 In name:   
- - Sauteed Shrimp  
- - Shrimp Po-Boy Sandwich  
-  
-**Cod**  
-In name:   
-  
-In description:   
- - Clam Chowder (Pork)  
-  
-**squid**  
-In name:   
-  
-In description:   
- - Fried Calamari  
-  
-**lamb**  
-In name:   
-  
-In description:   
- - Pizza Slice Gyro  
-  
-**curry**  
-In name:   
- - Lentil Chickpea Red Curry  
+ - Popcorn Shrimp Basket  
   
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
- - Beef Birria Tacos  
+ - Beef Taco Meat  
   
 In description:   
- - Pizza Slice Gyro  
+ - Italian Meat Sauce  
+ - Pepperoni Pizza Slice  
+ - Gluten Free Pepperoni Pizza Quarter  
+ - Grilled Blended Burger w/ Cheese  
   
 **pork**  
 In name:   
- - Chicken Bacon (Pork) Ranch Pizza  
- - Clam Chowder (Pork)  
+ - Coffee Crusted Pork Loin  
+ - Italian Pork Sausage  
+  
+In description:   
+ - Pizza Slice Sausage  
+ - Kale, Sausage & Potato Soup  
   
 **chicken**  
 In name:   
- - Chicken Breast Con Pollo  
  - Beef & Chicken Meatballs  
- - Chicken Bacon (Pork) Ranch Pizza  
- - Butter Chicken  
- - Chicken Birria Tacos  
- - Plant-Based Chicken Nuggets (6)  
+ - Lemon Pepper Chicken Salad  
+ - Chicken Tinga  
+ - Sausage Links Chicken (halal) (AYCTE)  
   
 In description:   
+ - Pepperoni Pizza Slice  
+ - Gluten Free Pepperoni Pizza Quarter  
  - Gordon's Great Greens  
+ - Kale, Sausage & Potato Soup  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-09-12)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-09-13)  
 **Coconut**  
 In name:   
+ - *Bar Coconut Macaroon  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
- - Beyond Brat - No Bun  
+ - Plant-Based Chicken Nuggets (6)  
  - Station Recipe - Great Greens - FLM  
- - *Cupcake Spiced with Maple Cin Frosting  
- - *Cupcake Nut-Free German Chocolate  
  - Cookie Chocolate Chip  
- - Cookie M&M  
-  
-**Bulgogi**  
-In name:   
- - BYO Bar - Four Lakes Bulgogi  
- - Bulgogi Beef  
- - Bulgogi Chicken  
- - Bulgogi Portabella Mushrooms  
- - Build Your Own Bulgogi Bar - Four Lakes  
   
 **watermelon**  
 In name:   
  - Watermelon Slices  
-  
-**clam**  
-In name:   
- - Clam Chowder (Pork)  
-  
-**Shrimp**  
-In name:   
-  
-In description:   
- - BYO Bar - Four Lakes Bulgogi  
-  
-**Cod**  
-In name:   
- - Battered Cod Fillet Sandwich w/ Cheese  
-  
-In description:   
- - Clam Chowder (Pork)  
   
 **Tuna**  
 In name:   
  - Tuna Salad  
- - Grilled Tuna & Swiss Melt  
-  
-**fish**  
-In name:   
-  
-In description:   
- - BYO Bar - Four Lakes Bulgogi  
   
 **beef**  
 In name:   
- - Beef Fajita Meat  
- - Empanada Beef Picadillo  
- - Bulgogi Beef  
+ - Beef Taco Meat  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
   
 **pork**  
 In name:   
- - Denver Scramble (Pork)  
- - Clam Chowder (Pork)  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
+ - Kale, Sausage & Potato Soup  
   
 **chicken**  
 In name:   
- - Chicken Empanada with Green Chili  
- - Bulgogi Chicken  
+ - Popcorn Chicken  
+ - Plant-Based Chicken Nuggets (6)  
+ - Giardiniera Chicken  
+ - Spicy Lo Mein w/Chicken  
   
 In description:   
- - Empanada Beef Picadillo  
  - Station Recipe - Great Greens - FLM  
+ - Kale, Sausage & Potato Soup  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-09-12)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-09-12)  
-**Coconut**  
-In name:   
-  
-In description:   
- - *Cupcake Spiced with Maple Cin Frosting  
- - *Cupcake Nut-Free German Chocolate  
- - Cookie Chocolate Chip  
- - Cookie M&M  
- - Station Recipe - Deli Lowell AYCTE  
-  
-**steak**  
-In name:   
- - Country Fried Steak  
-  
-**clam**  
-In name:   
- - Clam Chowder (Pork)  
-  
-**Cod**  
-In name:   
-  
-In description:   
- - Clam Chowder (Pork)  
-  
-**beef**  
-In name:   
- - Plant-Based Beef Lo Mein  
-  
-In description:   
- - Station Recipe - Deli Lowell AYCTE  
- - Country Fried Steak  
- - Brazilian Pork Feijoada  
-  
-**pork**  
-In name:   
- - Clam Chowder (Pork)  
- - Brazilian Pork Feijoada  
-  
-In description:   
- - Station Recipe - Deli Lowell AYCTE  
-  
-**chicken**  
-In name:   
- - Wisconsin Harvest Chicken Breast  
-  
-In description:   
- - Great Greens  
-  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-09-13)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-09-13)  
   
