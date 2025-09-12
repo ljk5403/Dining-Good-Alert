@@ -1,6 +1,6 @@
 # 2025-09-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-12 13:20:57  
+Updated at: 2025-09-12 15:18:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-12)  
 **Coconut**  
 In name:   
@@ -119,6 +119,10 @@ In description:
 In name:   
  - Watermelon Slices  
   
+**drumstick**  
+In name:   
+ - Chicken Drumstick BBQ Glazed  
+  
 **clam**  
 In name:   
  - Clam Chowder (Pork)  
@@ -165,7 +169,7 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken Breast Con Pollo  
+ - Chicken Drumstick BBQ Glazed  
  - Beef & Chicken Meatballs  
  - Chicken Bacon (Pork) Ranch Pizza  
  - Butter Chicken  
@@ -219,7 +223,6 @@ In description:
 **Tuna**  
 In name:   
  - Tuna Salad  
- - Grilled Tuna & Swiss Melt  
   
 **fish**  
 In name:   

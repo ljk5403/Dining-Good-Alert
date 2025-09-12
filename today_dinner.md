@@ -1,6 +1,6 @@
 # 2025-09-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-12 15:18:47  
+Updated at: 2025-09-12 16:14:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-12)  
 **Coconut**  
 In name:   
@@ -238,6 +238,7 @@ In name:
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
+ - Bolognese Sauce  
   
 **pork**  
 In name:   
@@ -246,6 +247,7 @@ In name:
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
+ - Bolognese Sauce  
   
 **chicken**  
 In name:   
@@ -285,6 +287,8 @@ In description:
 **beef**  
 In name:   
  - Plant-Based Beef Lo Mein  
+ - Beef Hot Dog  
+ - Beef Stir Fry w/ Snow Peas  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE  
@@ -302,6 +306,7 @@ In description:
 **chicken**  
 In name:   
  - Wisconsin Harvest Chicken Breast  
+ - Chicken Stir Fry  
   
 In description:   
  - Great Greens  
