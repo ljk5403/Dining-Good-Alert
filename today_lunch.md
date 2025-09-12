@@ -1,6 +1,6 @@
 # 2025-09-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-12 13:20:54  
+Updated at: 2025-09-12 15:18:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-12)  
 **Coconut**  
 In name:   
@@ -107,9 +107,7 @@ In description:
 In name:   
   
 In description:   
- - Thai Veggie Meatballs w/ Green Curry  
  - Pizza Slice Gyro  
- - Plant-Based Chicken Nuggets (6)  
  - *Cupcake Spiced with Maple Cin Frosting  
  - *Cupcake Nut-Free German Chocolate  
  - Cookie M&M  
@@ -125,7 +123,6 @@ In name:
   
 **Cod**  
 In name:   
- - Baked Lemon Butter Cod  
   
 In description:   
  - Clam Chowder (Pork)  
@@ -136,10 +133,6 @@ In name:
 In description:   
  - Pizza Slice Gyro  
   
-**curry**  
-In name:   
- - Thai Veggie Meatballs w/ Green Curry  
-  
 **beef**  
 In name:   
  - Beef Gravy  
@@ -148,7 +141,6 @@ In name:
  - Beef Taco Meat  
   
 In description:   
- - Burnt Ends  
  - Pizza Slice Gyro  
   
 **pork**  
@@ -160,8 +152,6 @@ In name:
 In name:   
  - Beef & Chicken Meatballs  
  - Chicken Bacon (Pork) Ranch Pizza  
- - Chicken Tenders Breaded  
- - Plant-Based Chicken Nuggets (6)  
  - Bone-in Greek Chicken  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-09-12)  
