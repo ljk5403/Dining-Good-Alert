@@ -1,6 +1,6 @@
 # 2025-09-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-12 11:18:35  
+Updated at: 2025-09-12 12:14:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-12)  
 **Coconut**  
 In name:   
@@ -169,7 +169,6 @@ In name:
  - Beef & Chicken Meatballs  
  - Chicken Bacon (Pork) Ranch Pizza  
  - Butter Chicken  
- - Chicken Birria Tacos  
  - Plant-Based Chicken Nuggets (6)  
   
 In description:   

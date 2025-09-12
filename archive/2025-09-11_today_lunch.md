@@ -1,6 +1,6 @@
 # 2025-09-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-12 10:17:47  
+Updated at: 2025-09-12 11:18:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-12)  
 **Coconut**  
 In name:   
@@ -171,6 +171,7 @@ In name:
   
 In description:   
  - Vegan Curry Stew  
+ - Sweet Potato & Oatmeal Bake  
  - Beyond Burger (VN)  
  - Beyond Brat - No Bun  
  - Station Recipe - Deli  AYCTE FLM  
@@ -209,9 +210,9 @@ In name:
 In description:   
  - Clam Chowder (Pork)  
   
-**Salmon**  
+**catfish**  
 In name:   
- - Masala Spiced Salmon  
+ - Island Spiced Catfish  
   
 **Tuna**  
 In name:   
@@ -219,6 +220,7 @@ In name:
   
 **fish**  
 In name:   
+ - Island Spiced Catfish  
   
 In description:   
  - BYO Bar - Four Lakes Bulgogi  
@@ -252,7 +254,6 @@ In description:
 **chicken**  
 In name:   
  - Tikka Masala Chicken  
- - Chipotle BBQ Chicken Sandwich  
  - Chicken Parmesan Sandwich  
  - Bulgogi Chicken  
   
@@ -268,8 +269,6 @@ In name:
 In description:   
  - *Cupcake Spiced with Maple Cin Frosting  
  - *Cupcake Nut-Free German Chocolate  
- - Cookie Chocolate Chip  
- - Cookie M&M  
  - Station Recipe - Deli Lowell AYCTE  
   
 **steak**  
@@ -304,6 +303,7 @@ In description:
 **chicken**  
 In name:   
  - Huli Huli Chicken  
+ - Chicken Teriyaki Stir Fry  
   
 In description:   
  - Great Greens  
