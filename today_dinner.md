@@ -1,6 +1,6 @@
 # 2025-09-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-11 18:16:19  
+Updated at: 2025-09-11 20:18:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-11)  
 **Coconut**  
 In name:   
@@ -33,6 +33,7 @@ In name:
  - Beef Mediterranean  
   
 In description:   
+ - Italian Meat Sauce  
  - Pepperoni Pizza Slice  
   
 **chicken**  
@@ -85,17 +86,12 @@ In name:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-09-11)  
 **Coconut**  
 In name:   
- - Coconut Shrimp  
  - Coconut Vegetable Stew  
   
 In description:   
  - Yogurt Bar  
  - Cookie M&M  
  - Breaded Chik'n Parm (Vegan)  
-  
-**Shrimp**  
-In name:   
- - Coconut Shrimp  
   
 **Tuna**  
 In name:   
@@ -116,10 +112,17 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
+ - Beef Taco Meat  
   
 In description:   
  - Pepperoni Pizza Slice  
- - Italian Meatball Sandwich  
+ - Baked Corn Dog (Pork)  
+  
+**pork**  
+In name:   
+ - Filipino Pork Sausage  
+ - Pork Carnita  
+ - Baked Corn Dog (Pork)  
   
 **chicken**  
 In name:   
@@ -127,16 +130,15 @@ In name:
  - Beef & Chicken Meatballs  
  - Mediterranean Chicken  
  - Kung Pao Chicken  
+ - Spicy Lo Mein w/Chicken  
  - Plant-Based Chicken Lo Mein  
- - Chicken Fajita Meat  
  - Chicken Noodle Soup  
  - Breaded Chicken Parmigiana  
   
 In description:   
  - Pepperoni Pizza Slice  
- - Build Your Own Southwest Bowl  
  - Gordon's Great Greens  
- - Italian Meatball Sandwich  
+ - Baked Corn Dog (Pork)  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-09-11)  
 **Coconut**  
@@ -150,7 +152,6 @@ In description:
 **Flauta**  
 In name:   
  - Shredded Beef Flauta  
- - Chicken and Cheese Flauta  
   
 **watermelon**  
 In name:   
@@ -172,19 +173,21 @@ In name:
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
  - Grilled Blended Burger w/ Cheese  
+ - Bolognese Sauce  
   
 **pork**  
 In name:   
  - Apple Cider Braised Pork  
+ - Pork Carnita  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
  - Andouille Sausage  
+ - Bolognese Sauce  
   
 **chicken**  
 In name:   
- - Chicken and Cheese Flauta  
- - Chicken Noodle Soup  
+ - Chicken Tortilla Soup  
   
 In description:   
  - Apple Cider Braised Pork  
