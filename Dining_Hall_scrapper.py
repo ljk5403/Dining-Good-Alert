@@ -66,17 +66,19 @@ def get_menu_dict(data, date : datetime):
                 if "synced_ingredients" in d["food"]:
                     menu_dict[food_name] = str(d["food"]["synced_ingredients"])
                     #print(d["food"]["name"], ": ", d["food"]["synced_ingredients"])
-    return menu_dict
+    print("menu_dict: ",menu_dict)
+    sys.exit()
+    return menu_dict #TODO: add "location" to menu_dict
 
 def find_dish(dish : str, menu_dict):
     exact_dishes = []
-    relevent_dishes = []
+    relevant_dishes = []
     for key, value in menu_dict.items():
         if dish.casefold() in key.casefold():
             exact_dishes.append(key)
         elif dish.casefold() in value.casefold():
-            relevent_dishes.append(key)
-    return exact_dishes, relevent_dishes
+            relevant_dishes.append(key)
+    return exact_dishes, relevant_dishes #TODO: add "location" to xx_dishes
 
 def find_good_dishes(dish_list, menu_dict):
     good_dishes_menu = {}
