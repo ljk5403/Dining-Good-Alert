@@ -1,6 +1,6 @@
 # 2025-09-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-13 12:12:35  
+Updated at: 2025-09-13 13:21:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-13)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-09-13)  
 **Coconut**  
@@ -46,10 +46,14 @@ In description:
  - *Cupcake Spiced with Maple Cin Frosting  
  - *Cupcake Nut-Free German Chocolate  
   
+**steak**  
+In name:   
+ - Beef Flank Steak  
+  
 **beef**  
 In name:   
  - Beef Carne Guisada  
- - Beef Sirloin Tips  
+ - Beef Flank Steak  
  - Beef & Chicken Meatballs  
  - BBQ Beef Brisket Sandwich  
  - Beef Taco Meat  
