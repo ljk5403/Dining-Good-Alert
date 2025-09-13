@@ -1,6 +1,6 @@
 # 2025-09-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-12 18:15:20  
+Updated at: 2025-09-12 20:14:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-12)  
 **Coconut**  
 In name:   
@@ -39,7 +39,6 @@ In name:
 In name:   
  - Pork Sausage Patty  
  - Hawaiian (Pork) Pizza Slice  
- - Ancho Braised Pork  
  - Clam Chowder (Pork)  
   
 In description:   
@@ -49,7 +48,6 @@ In description:
 In name:   
   
 In description:   
- - Ancho Braised Pork  
  - Great Greens  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-09-12)  
@@ -105,7 +103,6 @@ In name:
   
 In description:   
  - Pizza Slice Gyro  
- - Butter Chicken  
  - Lentil Chickpea Red Curry  
  - Yogurt Bar  
  - *Cupcake Spiced with Maple Cin Frosting  
@@ -119,9 +116,9 @@ In description:
 In name:   
  - Watermelon Slices  
   
-**drumstick**  
+**steak**  
 In name:   
- - Chicken Drumstick BBQ Glazed  
+ - Grilled Flank Steak  
   
 **clam**  
 In name:   
@@ -129,7 +126,6 @@ In name:
   
 **Shrimp**  
 In name:   
- - Sauteed Shrimp  
  - Shrimp Po-Boy Sandwich  
   
 **Cod**  
@@ -138,6 +134,10 @@ In name:
   
 In description:   
  - Clam Chowder (Pork)  
+  
+**mahi mahi**  
+In name:   
+ - Blackened Mahi Mahi  
   
 **lamb**  
 In name:   
@@ -155,19 +155,19 @@ In name:
  - Beef Birria Tacos  
   
 In description:   
+ - Grilled Flank Steak  
  - Pizza Slice Gyro  
   
 **pork**  
 In name:   
+ - Pork Italian Sausage  
  - Chicken Bacon (Pork) Ranch Pizza  
  - Clam Chowder (Pork)  
   
 **chicken**  
 In name:   
- - Chicken Drumstick BBQ Glazed  
  - Beef & Chicken Meatballs  
  - Chicken Bacon (Pork) Ranch Pizza  
- - Butter Chicken  
  - Plant-Based Chicken Nuggets (6)  
   
 In description:   
@@ -179,12 +179,9 @@ In name:
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
- - Beyond Brat - No Bun  
  - Station Recipe - Great Greens - FLM  
  - *Cupcake Spiced with Maple Cin Frosting  
  - *Cupcake Nut-Free German Chocolate  
- - Cookie Chocolate Chip  
- - Cookie M&M  
   
 **Bulgogi**  
 In name:   
@@ -227,8 +224,8 @@ In description:
   
 **beef**  
 In name:   
- - Beef Fajita Meat  
- - Empanada Beef Picadillo  
+ - Beef Mediterranean  
+ - Beef Taco Meat  
  - Bulgogi Beef  
   
 In description:   
@@ -246,11 +243,9 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Empanada with Green Chili  
  - Bulgogi Chicken  
   
 In description:   
- - Empanada Beef Picadillo  
  - Station Recipe - Great Greens - FLM  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-09-12)  

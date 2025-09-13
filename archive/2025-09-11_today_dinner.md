@@ -1,6 +1,6 @@
 # 2025-09-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-12 17:15:30  
+Updated at: 2025-09-12 18:15:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-12)  
 **Coconut**  
 In name:   
@@ -134,15 +134,10 @@ In name:
   
 **Cod**  
 In name:   
+ - Fried Cod Basket  
   
 In description:   
  - Clam Chowder (Pork)  
-  
-**squid**  
-In name:   
-  
-In description:   
- - Fried Calamari  
   
 **lamb**  
 In name:   
