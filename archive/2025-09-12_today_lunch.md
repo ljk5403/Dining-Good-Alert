@@ -1,6 +1,6 @@
 # 2025-09-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-13 01:23:21  
+Updated at: 2025-09-13 09:13:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-13)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-09-13)  
 **Coconut**  
@@ -42,8 +42,9 @@ In name:
  - *Bar Coconut Macaroon  
   
 In description:   
- - Yogurt Bar  
  - Cookie Chocolate Chip  
+ - *Cupcake Spiced with Maple Cin Frosting  
+ - *Cupcake Nut-Free German Chocolate  
   
 **beef**  
 In name:   
@@ -60,6 +61,7 @@ In description:
 **pork**  
 In name:   
  - Italian Pork Sausage  
+ - Chicken Bacon (Pork) Ranch Pizza Slice  
   
 In description:   
  - Pizza Slice Sausage  
@@ -69,6 +71,7 @@ In description:
 In name:   
  - Chicken Enchilada Bake  
  - Beef & Chicken Meatballs  
+ - Chicken Bacon (Pork) Ranch Pizza Slice  
  - Lemon Pepper Chicken Salad  
  - Sausage Links Chicken (halal) (AYCTE)  
  - Chicken Tinga  
@@ -76,7 +79,6 @@ In name:
 In description:   
  - Pepperoni Pizza Slice  
  - Gluten Free Pepperoni Pizza Quarter  
- - Gordon's Great Greens  
  - Kale, Sausage & Potato Soup  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-09-13)  
