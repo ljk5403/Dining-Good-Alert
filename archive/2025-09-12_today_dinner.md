@@ -1,6 +1,6 @@
 # 2025-09-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-13 15:16:34  
+Updated at: 2025-09-13 16:13:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-13)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-09-13)  
 **Coconut**  
@@ -67,7 +67,6 @@ In name:
  - Blackened Chicken  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
- - Sausage Links Chicken (halal) (AYCTE)  
   
 In description:   
  - Pepperoni Pizza Slice  
