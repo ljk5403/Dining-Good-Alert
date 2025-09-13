@@ -1,6 +1,6 @@
 # 2025-09-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-13 13:21:12  
+Updated at: 2025-09-13 15:16:34  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-13)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-09-13)  
 **Coconut**  
@@ -41,10 +41,6 @@ In description:
  - Cookie Chocolate Chip  
  - Beyond Burger (VN)  
   
-**Shrimp**  
-In name:   
- - Popcorn Shrimp Basket  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs  
@@ -60,6 +56,7 @@ In description:
 In name:   
  - Coffee Crusted Pork Loin  
  - Italian Pork Sausage  
+ - Pork Carnita  
   
 In description:   
  - Pizza Slice Sausage  
@@ -67,9 +64,9 @@ In description:
   
 **chicken**  
 In name:   
+ - Blackened Chicken  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
- - Chicken Tinga  
  - Sausage Links Chicken (halal) (AYCTE)  
   
 In description:   

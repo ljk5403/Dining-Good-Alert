@@ -1,6 +1,6 @@
 # 2025-09-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-13 13:21:08  
+Updated at: 2025-09-13 15:16:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-13)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-09-13)  
 **Coconut**  
@@ -55,7 +55,6 @@ In name:
  - Beef Carne Guisada  
  - Beef Flank Steak  
  - Beef & Chicken Meatballs  
- - BBQ Beef Brisket Sandwich  
  - Beef Taco Meat  
   
 In description:   
@@ -78,6 +77,7 @@ In name:
  - Chicken Bacon (Pork) Ranch Pizza Slice  
  - Lemon Pepper Chicken Salad  
  - Sausage Links Chicken (halal) (AYCTE)  
+ - Breaded Chicken Tenders  
  - Chicken Tinga  
   
 In description:   
