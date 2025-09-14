@@ -1,6 +1,6 @@
 # 2025-09-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-14 01:24:07  
+Updated at: 2025-09-14 09:14:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-14)  
 **Coconut**  
 In name:   
@@ -51,8 +51,13 @@ In name:
   
 In description:   
  - Beyond Brat (VN)  
- - Yogurt Bar  
  - Cookie Chocolate Chip  
+ - *Cupcake Spiced with Maple Cin Frosting  
+ - *Cupcake Nut-Free German Chocolate  
+  
+**Cod**  
+In name:   
+ - Panko Crusted Cod w/ Lemon Sauce  
   
 **beef**  
 In name:   
@@ -67,7 +72,6 @@ In description:
   
 **pork**  
 In name:   
- - Chicken Grilled Cordon Bleu (Pork)  
  - Pork Carnita  
   
 In description:   
@@ -75,14 +79,13 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Grilled Cordon Bleu (Pork)  
  - Beef & Chicken Meatballs  
  - Giardiniera Chicken  
  - Chicken Tortilla Soup  
   
 In description:   
+ - Panko Crusted Cod w/ Lemon Sauce  
  - Pepperoni Pizza Slice  
- - Gordon's Great Greens  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-09-14)  
 **Coconut**  

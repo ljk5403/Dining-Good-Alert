@@ -1,37 +1,50 @@
-# 2025-09-13 dinner  
+# 2025-09-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-13 20:25:18  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-13)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-09-13)  
+Updated at: 2025-09-14 01:24:08  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-14)  
 **Coconut**  
 In name:   
  - *Bar Coconut Macaroon  
   
 In description:   
- - Ice Cream  
+ - Lamb & Beef Gyro Sandwich  
+ - Plant Based Sweet & Sour Chicken  
+ - Cookie M&M  
   
-**watermelon**  
+**lamb**  
 In name:   
- - Melon Watermelon Whole Sliced  
+ - Lamb & Beef Gyro Sandwich  
   
 **beef**  
 In name:   
- - Beef Enchilada Bake  
+ - Lamb & Beef Gyro Sandwich  
+ - Beef Taco Meat  
+  
+In description:   
+ - Pepperoni Pizza Slice  
+ - Vegan Taco Filling  
   
 **pork**  
 In name:   
-  
-In description:   
- - Kale, Sausage & Potato Soup  
+ - Biscuits & Pork Gravy  
+ - Italian Pork Sausage  
+ - Pork Carnita  
   
 **chicken**  
 In name:   
+ - Blackened Chicken  
  - Lemon Pepper Chicken Salad  
+ - Sweet & Sour Chicken  
+ - Plant Based Sweet & Sour Chicken  
+ - Fajita Chicken  
+ - Chicken Tortilla Soup  
   
 In description:   
- - Kale, Sausage & Potato Soup  
+ - Pepperoni Pizza Slice  
+ - Great Greens  
   
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-09-13)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-09-14)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-09-14)  
 **Coconut**  
 In name:   
  - *Bar Coconut Macaroon  
@@ -39,57 +52,115 @@ In name:
 In description:   
  - Yogurt Bar  
  - Cookie Chocolate Chip  
- - Beyond Burger (VN)  
+ - Lamb & Beef Gyro Sandwich  
+  
+**Tilapia**  
+In name:   
+ - Tilapia Veracruz  
+  
+**lamb**  
+In name:   
+ - Lamb & Beef Gyro Sandwich  
   
 **beef**  
 In name:   
+ - Beef Tri Tip Carved w/ Chimichurri  
  - Beef & Chicken Meatballs  
  - Beef Taco Meat  
+ - Lamb & Beef Gyro Sandwich  
   
 In description:   
  - Italian Meat Sauce  
  - Pepperoni Pizza Slice  
- - Gluten Free Pepperoni Pizza Quarter  
- - Grilled Blended Burger w/ Cheese  
+ - Vegan Taco Filling  
+ - Vegan Sloppy Joe  
   
 **pork**  
 In name:   
- - BBQ Pork Chop  
- - Italian Pork Sausage  
  - Pork Carnita  
   
 In description:   
- - Chicken Sausage Gumbo  
  - Pizza Slice Sausage  
- - Kale, Sausage & Potato Soup  
   
 **chicken**  
 In name:   
- - Chicken Sausage Gumbo  
  - Beef & Chicken Meatballs  
- - Lemon Pepper Chicken Salad  
+ - Giardiniera Chicken  
+ - Chicken Tortilla Soup  
   
 In description:   
  - Pepperoni Pizza Slice  
- - Gluten Free Pepperoni Pizza Quarter  
  - Gordon's Great Greens  
- - Kale, Sausage & Potato Soup  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-09-13)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-09-14)  
 **Coconut**  
 In name:   
  - *Bar Coconut Macaroon  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
- - Plant-Based Chicken Nuggets (6)  
- - Chicken Curry  
+ - Supreme Veggie Burger (VN)  
  - Station Recipe - Great Greens - FLM  
- - Cookie Chocolate Chip  
+ - Cookie M&M  
   
 **watermelon**  
 In name:   
  - Watermelon Slices  
+  
+**steak**  
+In name:   
+ - Rosemary Cabernet Flank Steak  
+  
+**Tuna**  
+In name:   
+ - Tuna Salad  
+  
+**beef**  
+In name:   
+ - Beef Hot Dog  
+ - Beef & Chicken Meatballs  
+ - Beef Taco Meat  
+  
+In description:   
+ - Station Recipe - Deli  AYCTE FLM  
+ - Italian Meat Sauce  
+ - Rosemary Cabernet Flank Steak  
+  
+**pork**  
+In name:   
+ - Pork Carnita  
+  
+In description:   
+ - Station Recipe - Deli  AYCTE FLM  
+  
+**chicken**  
+In name:   
+ - Beef & Chicken Meatballs  
+ - Plant Based Chicken Strips  
+ - Chicken Pot Pie w/Biscuit  
+ - Chicken Tortilla Soup  
+  
+In description:   
+ - Station Recipe - Great Greens - FLM  
+  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-09-14)  
+**Coconut**  
+In name:   
+ - *Bar Coconut Macaroon  
+  
+In description:   
+ - Curry Cauliflower & Butternut Squash  
+ - Cookie M&M  
+ - BBQ Beyond Burger (VN)  
+ - Chick'n Nuggets (4)  
+  
+**Chicken Drummies**  
+In name:   
+ - Chicken Drummies  
+  
+**Shrimp**  
+In name:   
+ - Shrimp De Jonge  
   
 **Tuna**  
 In name:   
@@ -97,36 +168,32 @@ In name:
   
 **curry**  
 In name:   
- - Chicken Curry  
+ - Curry Cauliflower & Butternut Squash  
   
 **beef**  
 In name:   
- - Beef Taco Meat  
+ - Beef Meatloaf  
+ - Beef Gravy  
   
 In description:   
- - Station Recipe - Deli  AYCTE FLM  
+ - Pizza Pepperoni & Banana Pepper  
+ - Mushroom Swiss Blended Burger  
   
 **pork**  
 In name:   
- - Appetizer -  Fried Pork Potstickers  
   
 In description:   
- - Station Recipe - Deli  AYCTE FLM  
- - Kale, Sausage & Potato Soup  
+ - Pizza Slice Sausage  
   
 **chicken**  
 In name:   
- - Popcorn Chicken  
- - Plant-Based Chicken Nuggets (6)  
- - Giardiniera Chicken  
- - Plant Based Chicken Strips  
- - Spicy Lo Mein w/Chicken  
- - Chicken Curry  
+ - Chicken Tortilla Soup  
+ - Lemon Chicken Rice Soup  
+ - Chicken Drummies  
   
 In description:   
- - Station Recipe - Great Greens - FLM  
- - Kale, Sausage & Potato Soup  
+ - Pizza Pepperoni & Banana Pepper  
+ - Great Greens  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-09-13)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-09-13)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-09-14)  
   
