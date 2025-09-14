@@ -1,6 +1,6 @@
 # 2025-09-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-14 16:14:09  
+Updated at: 2025-09-14 17:15:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-14)  
 **Coconut**  
 In name:   
@@ -124,7 +124,6 @@ In description:
   
 **pork**  
 In name:   
- - Pork Carnita  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
@@ -134,6 +133,7 @@ In name:
  - Beef & Chicken Meatballs  
  - Plant Based Chicken Strips  
  - Chicken Pot Pie w/Biscuit  
+ - Taco Chicken  
  - Chicken Tortilla Soup  
   
 In description:   
