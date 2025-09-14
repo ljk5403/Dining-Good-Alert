@@ -1,6 +1,6 @@
 # 2025-09-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-13 18:14:40  
+Updated at: 2025-09-13 20:25:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-13)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-09-13)  
 **Coconut**  
@@ -54,17 +54,18 @@ In description:
   
 **pork**  
 In name:   
- - Coffee Crusted Pork Loin  
+ - BBQ Pork Chop  
  - Italian Pork Sausage  
  - Pork Carnita  
   
 In description:   
+ - Chicken Sausage Gumbo  
  - Pizza Slice Sausage  
  - Kale, Sausage & Potato Soup  
   
 **chicken**  
 In name:   
- - Blackened Chicken  
+ - Chicken Sausage Gumbo  
  - Beef & Chicken Meatballs  
  - Lemon Pepper Chicken Salad  
   
@@ -82,6 +83,7 @@ In name:
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
  - Plant-Based Chicken Nuggets (6)  
+ - Chicken Curry  
  - Station Recipe - Great Greens - FLM  
  - Cookie Chocolate Chip  
   
@@ -93,6 +95,10 @@ In name:
 In name:   
  - Tuna Salad  
   
+**curry**  
+In name:   
+ - Chicken Curry  
+  
 **beef**  
 In name:   
  - Beef Taco Meat  
@@ -102,6 +108,7 @@ In description:
   
 **pork**  
 In name:   
+ - Appetizer -  Fried Pork Potstickers  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
@@ -112,7 +119,9 @@ In name:
  - Popcorn Chicken  
  - Plant-Based Chicken Nuggets (6)  
  - Giardiniera Chicken  
+ - Plant Based Chicken Strips  
  - Spicy Lo Mein w/Chicken  
+ - Chicken Curry  
   
 In description:   
  - Station Recipe - Great Greens - FLM  
