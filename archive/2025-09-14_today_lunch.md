@@ -1,6 +1,6 @@
 # 2025-09-15 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-15 10:19:26  
+Updated at: 2025-09-15 11:22:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-15)  
 **Coconut**  
 In name:   
@@ -90,8 +90,8 @@ In name:
   
 In description:   
  - Plant-Based Chicken Nuggets (6)  
- - Dairy Free Sour Cream  
  - Yogurt Bar  
+ - Cookie Chocolate Chip  
  - -Midnight Cake  
   
 **watermelon**  
@@ -144,12 +144,12 @@ In name:
  - Sweetened Coconut Flakes  
   
 In description:   
- - Chicken Fajita Torta  
  - Station Recipe - Deli  AYCTE FLM  
  - Vegan Smoked Gouda  
  - Tofu & Vegetable Tikka Masala  
  - Station Recipe - Great Greens - FLM  
  - -Midnight Cake  
+ - M&M Cookie  
   
 **watermelon**  
 In name:   
@@ -205,7 +205,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Fajita Torta  
  - Tikka Masala Chicken  
  - Lemon Chicken Rice Soup  
  - Diced Chicken  
