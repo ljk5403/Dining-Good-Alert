@@ -1,6 +1,6 @@
 # 2025-09-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-15 15:18:52  
+Updated at: 2025-09-15 16:15:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-15)  
 **Coconut**  
 In name:   
@@ -131,7 +131,6 @@ In name:
   
 In description:   
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
- - Vegan Taco Filling @ *Gordon Que Rico*  
  - Mushroom Swiss Blended Burger @ *Fired Up*  
   
 **pork**  
@@ -141,13 +140,13 @@ In name:
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 **chicken**  
 In name:   
  - Bone-in Greek Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pizza Slice Chicken Tomatillo @ *Gordon Capital City Pizza*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
  - BYO - MTO Chicken Wrap - Gordon @ *Gordon Eggcetera*  
  - Chicken Thigh Strip @ *Gordon Eggcetera*  
   
@@ -155,6 +154,7 @@ In description:
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
  - Ancho Pork Rice Bowl @ *Gordon Que Rico*  
  - Gordon's Great Greens @ *Great Greens*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-09-15)  
 **Coconut**  
@@ -306,6 +306,7 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Stir Fry w/ Snow Peas @ *Lowell Market*  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE @ *Delicious*  
@@ -314,6 +315,7 @@ In description:
 **pork**  
 In name:   
  - Baked Corn Dog (Pork) @ *Lowell Market*  
+ - BBQ Pork Chop @ *Lowell Market*  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE @ *Delicious*  
@@ -322,6 +324,7 @@ In description:
 In name:   
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - General Tso's Chicken @ *Lowell Market*  
+ - Brazilian Chicken w/ Salsa Vinaigrette @ *Lowell Market*  
   
 In description:   
  - Great Greens @ *Great Greens*  
