@@ -1,6 +1,6 @@
 # 2025-09-15 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-15 12:15:21  
+Updated at: 2025-09-15 13:25:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-15)  
 **Coconut**  
 In name:   
@@ -27,6 +27,7 @@ In name:
  - Chicken Bacon (Pork) Ranch Pizza  
  - Imperial Pork Stir Fry  
  - Pork Carnita  
+ - Pork Italian Sausage  
   
 In description:   
  - Pizza Slice Sausage  
@@ -37,7 +38,6 @@ In name:
  - Chicken Bacon (Pork) Ranch Pizza  
  - Chicken Tinga  
  - Chicken Noodle Soup  
- - Diced Chicken Breast  
   
 In description:   
  - Great Greens  
