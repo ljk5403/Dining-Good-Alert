@@ -1,6 +1,6 @@
 # 2025-09-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-14 18:15:10  
+Updated at: 2025-09-14 20:25:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-16)  
 **Coconut**  
 In name:   

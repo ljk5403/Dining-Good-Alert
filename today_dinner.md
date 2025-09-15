@@ -1,6 +1,6 @@
 # 2025-09-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-14 18:15:04  
+Updated at: 2025-09-14 20:25:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-14)  
 **Coconut**  
 In name:   
@@ -10,6 +10,10 @@ In description:
  - Lamb & Beef Gyro Sandwich  
  - Plant Based Sweet & Sour Chicken  
  - Cookie M&M  
+  
+**Shrimp**  
+In name:   
+ - Sweet & Sour Shrimp  
   
 **lamb**  
 In name:   
@@ -32,9 +36,8 @@ In name:
   
 **chicken**  
 In name:   
- - Blackened Chicken  
+ - Mediterranean Chicken  
  - Lemon Pepper Chicken Salad  
- - Sweet & Sour Chicken  
  - Plant Based Sweet & Sour Chicken  
  - Fajita Chicken  
  - Chicken Tortilla Soup  
@@ -54,13 +57,24 @@ In description:
  - Cookie Chocolate Chip  
  - Lamb & Beef Gyro Sandwich  
   
+**Shrimp**  
+In name:   
+ - Redhook Ale Breaded Shrimp  
+  
+**Cod**  
+In name:   
+ - Cracker Crusted Cod w/ Lemon Sauce  
+  
+**fish**  
+In name:   
+ - Vegan Fish Fillet (VN)  
+  
 **lamb**  
 In name:   
  - Lamb & Beef Gyro Sandwich  
   
 **beef**  
 In name:   
- - Beef Tri Tip Carved w/ Chimichurri  
  - Beef & Chicken Meatballs  
  - Beef Carne Guisada  
  - Lamb & Beef Gyro Sandwich  
@@ -85,6 +99,7 @@ In name:
  - Chicken Tortilla Soup  
   
 In description:   
+ - Cracker Crusted Cod w/ Lemon Sauce  
  - Pepperoni Pizza Slice  
  - Gordon's Great Greens  
   
@@ -124,6 +139,7 @@ In description:
   
 **pork**  
 In name:   
+ - Italian Pork Sausage  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM  
