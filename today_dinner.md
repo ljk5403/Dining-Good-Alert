@@ -1,6 +1,6 @@
 # 2025-09-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-15 17:15:43  
+Updated at: 2025-09-15 18:15:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-15)  
 **Coconut**  
 In name:   
@@ -201,9 +201,6 @@ In name:
  - Shrimp Curry @ *Que Rico*  
  - Curry Potatoes @ *Que Rico*  
   
-In description:   
- - Chicken Tikka Masala @ *Que Rico*  
-  
 **beef**  
 In name:   
  - Roast Beef @ *Delicious*  
@@ -212,6 +209,7 @@ In name:
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
+ - Blackened Blended Hamburger @ *Fired Up*  
  - German Plate (Pork) @ *1849*  
  - Country Fried Steak @ *1849*  
   
@@ -229,7 +227,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Tikka Masala @ *Que Rico*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Diced Chicken @ *Great Greens*  
   
