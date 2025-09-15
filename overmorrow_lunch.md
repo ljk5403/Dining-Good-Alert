@@ -1,6 +1,6 @@
 # 2025-09-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-15 10:19:33  
+Updated at: 2025-09-15 11:22:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-17)  
 **Coconut**  
 In name:   
@@ -83,7 +83,6 @@ In name:
 In description:   
  - Vegan Grilled Cheese Sandwich  
  - Plant Based Sweet & Sour Chicken  
- - Dairy Free Sour Cream  
  - Yogurt Bar  
   
 **Tilapia**  

@@ -1,6 +1,6 @@
 # 2025-09-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-15 10:19:29  
+Updated at: 2025-09-15 11:22:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-16)  
 **Coconut**  
 In name:   
@@ -116,7 +116,6 @@ In name:
 In description:   
  - Veggie Bratwurst  
  - Poke Bar  
- - Dairy Free Sour Cream  
  - Yogurt Bar  
  - Cookie Chocolate Chip  
  - -Chocolate Caramel Bar  
