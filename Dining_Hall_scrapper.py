@@ -57,34 +57,41 @@ def get_menu_raw(target_url):
 def get_menu_dict(data, date : datetime):
     menu_dict = {}
     target_menu=next((d for d in data["days"] if d["date"] == date.strftime('%Y-%m-%d')), None)
+    menu_info = target_menu["menu_info"]
     for d in target_menu["menu_items"]:
         if isinstance(d["food"], dict):
             if "name" in d["food"]:
                 #print(d["food"]["name"])
                 food_name = d["food"]["name"]
-                menu_dict[food_name] = ""
+                location_name = menu_info[str(d["menu_id"])]["section_options"]["display_name"]
+                menu_dict[food_name] = {
+                    "location": location_name
+                }
                 if "synced_ingredients" in d["food"]:
-                    menu_dict[food_name] = str(d["food"]["synced_ingredients"])
+                    menu_dict[food_name]["ingredients"] = str(d["food"]["synced_ingredients"])
                     #print(d["food"]["name"], ": ", d["food"]["synced_ingredients"])
-    print("menu_dict: ",menu_dict)
-    sys.exit()
+    #print("menu_dict: ",menu_dict)
+    #sys.exit()
     return menu_dict #TODO: add "location" to menu_dict
 
 def find_dish(dish : str, menu_dict):
-    exact_dishes = []
-    relevant_dishes = []
+    exact_dishes = {}
+    relevant_dishes = {}
     for key, value in menu_dict.items():
-        if dish.casefold() in key.casefold():
-            exact_dishes.append(key)
-        elif dish.casefold() in value.casefold():
-            relevant_dishes.append(key)
+        #print(value)
+        dish_name = key
+        dish_ingredients = value.get("ingredients", "") or ""
+        if dish.casefold() in dish_name.casefold():
+            exact_dishes[key] = value
+        elif dish.casefold() in dish_ingredients.casefold():
+            relevant_dishes[key] = value
     return exact_dishes, relevant_dishes #TODO: add "location" to xx_dishes
 
 def find_good_dishes(dish_list, menu_dict):
     good_dishes_menu = {}
     for dish in dish_list:
         a, b = find_dish(dish, menu_dict)
-        if a != [] or b != []:
+        if a != {} or b != {}:
             good_dishes_menu[dish] = (a,b)
     return good_dishes_menu
 
@@ -154,9 +161,9 @@ def summary_generator(date : datetime = None, reldate : str =None):
         add_spaces_to_file(filename)
         print("Successfully updated " + filename)
 
-def print_as_list_in_md(my_list:list, my_file):
-    for item in my_list:
-        print(f" - {item}", file=my_file)
+def print_as_list_in_md(my_dict:dict, my_file):
+    for key, value in my_dict.items():
+        print(f" - {key} @ *{value["location"]}*", file=my_file)
     print("", file=my_file  )
 
 # TODO: telegram bot auto push?
@@ -196,6 +203,16 @@ if __name__ == '__main__':
 
 
 # Below are tests
+
+def raw_test4(): #20250912
+    #today = datetime.now(zone)
+    fixed_date = datetime(2025, 9, 12, tzinfo=zone)
+    summary_generator()
+    #summary = find_good_dishes_someday_somewhere_somemeal(good_dish_list, fixed_date, "gordon-avenue-market", "dinner")
+    #pprint.pprint(json.dumps(summary, indent=4, sort_keys=True), compact=True)
+    
+
+
 
 def raw_test3():
     today = datetime.now(zone)
