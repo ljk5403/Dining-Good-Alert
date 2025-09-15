@@ -1,6 +1,6 @@
 # 2025-09-15 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-15 09:18:14  
+Updated at: 2025-09-15 10:19:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-15)  
 **Coconut**  
 In name:   
@@ -245,7 +245,6 @@ In description:
 In name:   
  - Pizza Slice Chicken Alfredo  
  - Lemon Chicken Rice Soup  
- - Cream of Chicken & Wild Rice Soup  
  - Sausage Links Chicken (halal) (AYCTE)  
  - Blackened Chicken Sandwich  
   

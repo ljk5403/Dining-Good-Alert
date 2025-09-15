@@ -1,6 +1,6 @@
 # 2025-09-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-15 09:18:17  
+Updated at: 2025-09-15 10:19:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-16)  
 **Coconut**  
 In name:   
@@ -183,7 +183,6 @@ In description:
  - Station Recipe - Deli  AYCTE FLM  
  - Vegan Smoked Gouda  
  - Que Rico  
- - Dairy Free Sour Cream  
  - Station Recipe - Great Greens - FLM  
  - -Chocolate Caramel Bar  
  - Cookie Chocolate Chip  
@@ -246,7 +245,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef & Bean Chili  
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice  
