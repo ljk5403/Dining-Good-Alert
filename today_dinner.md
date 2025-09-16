@@ -1,6 +1,6 @@
 # 2025-09-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-16 16:15:23  
+Updated at: 2025-09-16 17:15:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-16)  
 **Coconut**  
 In name:   
@@ -13,6 +13,10 @@ In description:
 **Samosas**  
 In name:   
  - Samosas @ *Global Kitchen*  
+  
+**Salmon**  
+In name:   
+ - Ginger Glazed Salmon @ *1849*  
   
 **Tuna**  
 In name:   
@@ -40,10 +44,6 @@ In name:
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Pizza Slice Gyro @ *Capital City Pizza*  
-  
-**pork**  
-In name:   
- - Southern Style Pork Spare Ribs @ *1849*  
   
 **chicken**  
 In name:   
@@ -207,10 +207,10 @@ In name:
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
- - Grilled Blended Burger w/ Cheese @ *Fired Up*  
   
 **pork**  
 In name:   
+ - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
@@ -219,7 +219,6 @@ In description:
 In name:   
  - Italian Chicken @ *Global Kitchen*  
  - Chicken Creole @ *1849*  
- - Chicken Tinga @ *Que Rico*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
  - Diced Chicken @ *Great Greens*  
  - Mediterranean Chicken @ *Create-A-Bowl*  

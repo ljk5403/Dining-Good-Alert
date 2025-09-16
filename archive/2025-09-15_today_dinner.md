@@ -1,6 +1,6 @@
 # 2025-09-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-16 15:19:20  
+Updated at: 2025-09-16 16:15:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-16)  
 **Coconut**  
 In name:   
@@ -13,10 +13,6 @@ In description:
 **Samosas**  
 In name:   
  - Samosas @ *Global Kitchen*  
-  
-**Salmon**  
-In name:   
- - Oven Roasted Salmon (AYCTE) @ *1849*  
   
 **Tuna**  
 In name:   
@@ -44,6 +40,10 @@ In name:
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Pizza Slice Gyro @ *Capital City Pizza*  
+  
+**pork**  
+In name:   
+ - Southern Style Pork Spare Ribs @ *1849*  
   
 **chicken**  
 In name:   
@@ -171,12 +171,12 @@ In description:
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-09-16)  
 **Coconut**  
 In name:   
+ - Coconut Shrimp @ *1849*  
  - Vanilla Coconut Milk Yogurt @ *Great Greens*  
  - Sweetened Coconut Flakes @ *Great Greens*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
- - Vegan Smoked Gouda @ *Delicious*  
  - Lamb & Beef Gyro Sandwich @ *Fired Up*  
  - Cucumber Tzatziki Sauce @ *Fired Up*  
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
@@ -189,11 +189,7 @@ In name:
   
 **Shrimp**  
 In name:   
- - Fried Popcorn Shrimp @ *1849*  
-  
-**Salmon**  
-In name:   
- - Smoked Salmon @ *1849*  
+ - Coconut Shrimp @ *1849*  
   
 **Tuna**  
 In name:   
@@ -205,24 +201,19 @@ In name:
   
 **beef**  
 In name:   
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
  - Lamb & Beef Gyro Sandwich @ *Fired Up*  
  - Beef Taco Meat @ *Que Rico*  
  - Mediterranean Beef @ *Create-A-Bowl*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
+ - Grilled Blended Burger w/ Cheese @ *Fired Up*  
   
 **pork**  
 In name:   
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
- - Bacon Slice @ *Delicious*  
- - Smoked Ham @ *Delicious*  
- - Bacon @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -286,12 +277,16 @@ In name:
   
 In description:   
  - -Chocolate Caramel Bar @ *Bakery*  
- - Cookie Chocolate Chip @ *Bakery*  
+ - -Midnight Cake @ *Bakery*  
  - Station Recipe - Deli Lowell AYCTE @ *Delicious*  
   
 **lamb**  
 In name:   
  - Leg of Lamb @ *Lowell Market*  
+  
+**curry**  
+In name:   
+ - Japanese Chicken Curry @ *Lowell Market*  
   
 **beef**  
 In name:   
@@ -310,7 +305,7 @@ In description:
 **chicken**  
 In name:   
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
- - Chicken & Vegetables w/Dijon Vinaigrette @ *Lowell Market*  
+ - Japanese Chicken Curry @ *Lowell Market*  
  - Beef & Chicken Meatballs @ *Lowell Market*  
  - Diced Chicken Breast @ *Lowell Market*  
   
