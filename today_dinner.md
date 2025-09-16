@@ -1,6 +1,6 @@
 # 2025-09-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-16 17:15:48  
+Updated at: 2025-09-16 18:12:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-16)  
 **Coconut**  
 In name:   
@@ -34,7 +34,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Beef Street Taco @ *Fired Up*  
  - Beef Vindaloo @ *Global Kitchen*  
  - Plant-Based Beef Curry Squash @ *Global Kitchen*  
@@ -45,10 +44,13 @@ In description:
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Pizza Slice Gyro @ *Capital City Pizza*  
   
+**pork**  
+In name:   
+ - Pork Italian Sausage @ *Buona Cucina*  
+  
 **chicken**  
 In name:   
  - Za'tar and Lemon Grilled Chicken @ *1849*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Mediterranean Chicken @ *Que Rico*  
   
