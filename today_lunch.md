@@ -1,6 +1,6 @@
 # 2025-09-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-16 01:27:33  
+Updated at: 2025-09-16 09:18:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-16)  
 **Coconut**  
 In name:   
@@ -116,7 +116,6 @@ In name:
 In description:   
  - Veggie Bratwurst @ *Gordon Fired Up*  
  - Poke Bar @ *Gordon Global Kitchen*  
- - Yogurt Bar @ *Great Greens*  
  - Cookie Chocolate Chip @ *Buckingham Bakery*  
  - -Chocolate Caramel Bar @ *Buckingham Bakery*  
   
@@ -169,7 +168,6 @@ In name:
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Gordon Capital City Pizza*  
- - Gordon's Great Greens @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-09-16)  
 **Coconut**  
@@ -210,7 +208,6 @@ In description:
 **pork**  
 In name:   
  - Pork & Beef Hard Salami @ *Delicious*  
- - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
@@ -222,6 +219,7 @@ In description:
 In name:   
  - Chicken Breast w/Red Pepper Cream @ *1849*  
  - Italian Chicken @ *Global Kitchen*  
+ - Chicken Tinga @ *Que Rico*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
  - Diced Chicken @ *Great Greens*  
  - Mediterranean Chicken @ *Create-A-Bowl*  
