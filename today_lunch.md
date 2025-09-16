@@ -1,6 +1,6 @@
 # 2025-09-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-16 15:19:17  
+Updated at: 2025-09-16 16:15:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-16)  
 **Coconut**  
 In name:   
@@ -180,7 +180,6 @@ In name:
 In description:   
  - Three Grain Blend @ *1849*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
- - Vegan Smoked Gouda @ *Delicious*  
  - Que Rico @ *Que Rico*  
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
  - -Chocolate Caramel Bar @ *Buckingham Bakery*  
@@ -201,8 +200,6 @@ In name:
 **beef**  
 In name:   
  - Beef Pita Kabaub @ *1849*  
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
  - Beef Taco Meat @ *Que Rico*  
  - Mediterranean Beef @ *Create-A-Bowl*  
   
@@ -212,13 +209,9 @@ In description:
   
 **pork**  
 In name:   
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
- - Bacon Slice @ *Delicious*  
- - Smoked Ham @ *Delicious*  
- - Bacon @ *Delicious*  
   
 **chicken**  
 In name:   

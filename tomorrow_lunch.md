@@ -1,6 +1,6 @@
 # 2025-09-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-16 15:19:24  
+Updated at: 2025-09-16 16:15:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-17)  
 **Coconut**  
 In name:   
@@ -136,7 +136,6 @@ In description:
  - Vegan French Toast @ *1849*  
  - Cuban Pork Sandwich @ *Fired Up*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
- - Vegan Smoked Gouda @ *Delicious*  
  - Plant-Based Chicken Nuggets (6) @ *Que Rico*  
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
   
@@ -155,8 +154,6 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Global Kitchen*  
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
  - Beef & Bean Chili @ *Great Greens*  
  - Protein - Beef Thinly Sliced @ *Create-A-Bowl*  
   
@@ -167,14 +164,10 @@ In description:
 **pork**  
 In name:   
  - Cuban Pork Sandwich @ *Fired Up*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Ham Steak @ *1849*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
- - Bacon Slice @ *Delicious*  
- - Smoked Ham @ *Delicious*  
- - Bacon @ *Delicious*  
   
 **chicken**  
 In name:   

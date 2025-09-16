@@ -1,6 +1,6 @@
 # 2025-09-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-16 13:25:48  
+Updated at: 2025-09-16 15:19:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-16)  
 **Coconut**  
 In name:   
@@ -155,7 +155,6 @@ In name:
  - BBQ Pork Chop @ *1849*  
  - Pizza Slice Deluxe (Pork) @ *Gordon Capital City Pizza*  
  - Filipino Pork Sausage @ *Gordon Eggcetera*  
- - FIipino Pork @ *Gordon Eggcetera*  
   
 **chicken**  
 In name:   
@@ -179,6 +178,7 @@ In description:
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
  - Vegan Smoked Gouda @ *Delicious*  
  - Lamb & Beef Gyro Sandwich @ *Fired Up*  
+ - Cucumber Tzatziki Sauce @ *Fired Up*  
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
  - -Chocolate Caramel Bar @ *Buckingham Bakery*  
  - Cookie Chocolate Chip @ *Buckingham Bakery*  
@@ -190,7 +190,6 @@ In name:
 **Shrimp**  
 In name:   
  - Fried Popcorn Shrimp @ *1849*  
- - Tostada Shrimp & Avocado @ *Que Rico*  
   
 **Salmon**  
 In name:   
@@ -209,11 +208,11 @@ In name:
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
  - Lamb & Beef Gyro Sandwich @ *Fired Up*  
+ - Beef Taco Meat @ *Que Rico*  
  - Mediterranean Beef @ *Create-A-Bowl*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
- - Vegan Tostadas @ *Que Rico*  
   
 **pork**  
 In name:   
@@ -229,6 +228,7 @@ In description:
 In name:   
  - Italian Chicken @ *Global Kitchen*  
  - Chicken Creole @ *1849*  
+ - Chicken Tinga @ *Que Rico*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
  - Diced Chicken @ *Great Greens*  
  - Mediterranean Chicken @ *Create-A-Bowl*  

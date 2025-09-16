@@ -1,6 +1,6 @@
 # 2025-09-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-16 15:19:28  
+Updated at: 2025-09-16 16:15:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-17)  
 **Coconut**  
 In name:   
@@ -144,7 +144,6 @@ In name:
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
- - Vegan Smoked Gouda @ *Delicious*  
  - Thai Veggie Meatballs w/ Green Curry @ *1849*  
  - Plant-Based Chicken Nuggets (6) @ *Que Rico*  
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
@@ -163,8 +162,6 @@ In name:
   
 **beef**  
 In name:   
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Beef Sirloin Tips @ *1849*  
  - Beef & Bean Chili @ *Great Greens*  
@@ -178,14 +175,10 @@ In description:
   
 **pork**  
 In name:   
- - Pork & Beef Hard Salami @ *Delicious*  
  - BBQ Pork Chop @ *1849*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
- - Bacon Slice @ *Delicious*  
- - Smoked Ham @ *Delicious*  
- - Bacon @ *Delicious*  
   
 **chicken**  
 In name:   

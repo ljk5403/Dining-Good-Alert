@@ -1,6 +1,6 @@
 # 2025-09-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-16 15:19:31  
+Updated at: 2025-09-16 16:15:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-18)  
 **Coconut**  
 In name:   
@@ -157,7 +157,6 @@ In description:
  - Beef Masaman Thai Curry @ *1849*  
  - Lemon Grass Tofu @ *1849*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
- - Vegan Smoked Gouda @ *Delicious*  
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
  - -Dark Chocolate Avocado Pudding @ *Buckingham Bakery*  
  - Cookie M&M @ *Buckingham Bakery*  
@@ -188,8 +187,6 @@ In name:
 **beef**  
 In name:   
  - Beef Masaman Thai Curry @ *1849*  
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -198,14 +195,10 @@ In description:
 **pork**  
 In name:   
  - Thai BBQ Pork Ribs @ *1849*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Andouille Sausage @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
- - Bacon Slice @ *Delicious*  
- - Smoked Ham @ *Delicious*  
- - Bacon @ *Delicious*  
   
 **chicken**  
 In name:   
