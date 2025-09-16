@@ -1,6 +1,6 @@
 # 2025-09-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-16 10:19:32  
+Updated at: 2025-09-16 11:22:34  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-16)  
 **Coconut**  
 In name:   
@@ -116,7 +116,8 @@ In name:
 In description:   
  - Veggie Bratwurst @ *Gordon Fired Up*  
  - Poke Bar @ *Gordon Global Kitchen*  
- - Cookie Chocolate Chip @ *Buckingham Bakery*  
+ - Cookie M&M @ *Buckingham Bakery*  
+ - -Midnight Cake @ *Buckingham Bakery*  
  - -Chocolate Caramel Bar @ *Buckingham Bakery*  
   
 **Poke Bar**  
@@ -147,6 +148,7 @@ In name:
  - Beef Tri Tip Carved w/ Chimichurri @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pizza Slice Italian Beef @ *Gordon Capital City Pizza*  
+ - Beef Barbacoa @ *Gordon Que Rico*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
@@ -184,7 +186,6 @@ In description:
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
  - -Chocolate Caramel Bar @ *Buckingham Bakery*  
  - Cookie Chocolate Chip @ *Buckingham Bakery*  
- - Cucumber Tzatziki Sauce @ *Create-A-Bowl*  
   
 **watermelon**  
 In name:   

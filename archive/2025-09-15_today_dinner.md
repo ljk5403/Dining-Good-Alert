@@ -1,6 +1,6 @@
 # 2025-09-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-16 10:19:37  
+Updated at: 2025-09-16 11:22:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-16)  
 **Coconut**  
 In name:   
@@ -182,7 +182,6 @@ In description:
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
  - -Chocolate Caramel Bar @ *Buckingham Bakery*  
  - Cookie Chocolate Chip @ *Buckingham Bakery*  
- - Cucumber Tzatziki Sauce @ *Create-A-Bowl*  
   
 **watermelon**  
 In name:   
