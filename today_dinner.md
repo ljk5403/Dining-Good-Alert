@@ -1,6 +1,6 @@
 # 2025-09-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-15 18:15:21  
+Updated at: 2025-09-15 20:19:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-15)  
 **Coconut**  
 In name:   
@@ -110,7 +110,6 @@ In description:
  - Yogurt Bar @ *Great Greens*  
  - -Midnight Cake @ *Buckingham Bakery*  
  - BYO - MTO Chicken Wrap - Gordon @ *Gordon Eggcetera*  
- - Chick'n Nuggets (4) @ *Gordon Eggcetera*  
  - Beyond Burger (VN) @ *Fired Up*  
   
 **watermelon**  
@@ -165,6 +164,7 @@ In name:
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
  - Vegan Smoked Gouda @ *Delicious*  
+ - Chick'n Nuggets @ *Fired Up*  
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
  - -Midnight Cake @ *Buckingham Bakery*  
   
@@ -190,7 +190,6 @@ In name:
   
 **fish**  
 In name:   
- - Vegan Fish Sandwich @ *Fired Up*  
   
 In description:   
  - California Roll  (FujiSan) @ *Create-A-Bowl*  
@@ -209,7 +208,6 @@ In name:
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
- - Blackened Blended Hamburger @ *Fired Up*  
  - German Plate (Pork) @ *1849*  
  - Country Fried Steak @ *1849*  
   
