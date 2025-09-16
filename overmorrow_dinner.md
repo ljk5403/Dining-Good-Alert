@@ -1,6 +1,6 @@
 # 2025-09-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-16 09:18:16  
+Updated at: 2025-09-16 10:20:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-18)  
 **Coconut**  
 In name:   
@@ -225,6 +225,8 @@ In description:
 In name:   
   
 In description:   
+ - -Dark Chocolate Avocado Pudding @ *Bakery*  
+ - Cookie M&M @ *Bakery*  
  - Blackened Beyond Burger @ *Fired Up*  
   
 **Shrimp**  
@@ -235,10 +237,25 @@ In name:
 In name:   
  - Blackened Tilapia Po-Boy Sandwich @ *Fired Up*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
+**beef**  
+In name:   
+  
+In description:   
+ - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
+  
 **pork**  
 In name:   
+ - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
  - Shrimp & Pork Andouille Sausage @ *Global*  
  - Green Beans w/ Pork Bacon @ *Global*  
+ - Sub - Pork Sausage Cooked @ *Eggcetera*  
+  
+In description:   
+ - Lumberjack Bowl w/Bacon @ *Eggcetera*  
   
 **chicken**  
 In name:   
@@ -247,6 +264,7 @@ In name:
  - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
+ - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
  - Shrimp & Pork Andouille Sausage @ *Global*  
  - Great Greens @ *Great Greens*  
   

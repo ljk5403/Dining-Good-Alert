@@ -1,6 +1,6 @@
 # 2025-09-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-16 09:18:05  
+Updated at: 2025-09-16 10:19:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-16)  
 **Coconut**  
 In name:   
@@ -122,6 +122,7 @@ In description:
 **Poke Bar**  
 In name:   
  - Poke Bar @ *Gordon Global Kitchen*  
+ - Build Your Own Poke Bar @ *Gordon Global Kitchen*  
   
 **steak**  
 In name:   
@@ -235,6 +236,7 @@ In description:
  - Plant-Based Chicken Nuggets (6) @ *Carson's 1849:  Available Between 11am-2pm*  
  - -Chocolate Caramel Bar @ *Bakery:  Available Between 11am-4pm*  
  - Cookie Chocolate Chip @ *Bakery:  Available Between 11am-4pm*  
+ - -Midnight Cake @ *Bakery:  Available Between 11am-4pm*  
   
 **Shrimp**  
 In name:   
