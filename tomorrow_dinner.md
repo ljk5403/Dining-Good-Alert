@@ -1,6 +1,6 @@
 # 2025-09-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-16 10:19:48  
+Updated at: 2025-09-16 11:22:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-17)  
 **Coconut**  
 In name:   
@@ -156,10 +156,6 @@ In name:
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
-  
-**fish**  
-In name:   
- - Fish Sauce @ *Create-A-Bowl*  
   
 **curry**  
 In name:   

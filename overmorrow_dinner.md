@@ -1,6 +1,6 @@
 # 2025-09-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-16 10:20:00  
+Updated at: 2025-09-16 11:22:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-18)  
 **Coconut**  
 In name:   
@@ -149,7 +149,7 @@ In description:
 **Coconut**  
 In name:   
  - Vanilla Coconut Milk Yogurt @ *Great Greens*  
- - Sweetened Coconut Flakes @ *Create-A-Bowl*  
+ - Sweetened Coconut Flakes @ *Great Greens*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
@@ -164,9 +164,9 @@ In description:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**Shrimp**  
+**Poke Bar**  
 In name:   
- - Steamed Shrimp @ *Create-A-Bowl*  
+ - Build Your Own Poke Bar @ *Create-A-Bowl*  
   
 **Cod**  
 In name:   
@@ -177,7 +177,6 @@ In description:
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
- - Poke Tuna (*Raw) @ *Create-A-Bowl*  
   
 **fish**  
 In name:   

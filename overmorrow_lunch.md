@@ -1,6 +1,6 @@
 # 2025-09-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-16 10:19:54  
+Updated at: 2025-09-16 11:22:52  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-18)  
 **Coconut**  
 In name:   
@@ -88,7 +88,6 @@ In description:
  - Thai Veggie Meatballs w/ Green Curry @ *1849*  
  - Taco Filling Chickpea (VN) Top 9 Free @ *Gordon Que Rico*  
  - Yogurt Bar @ *Great Greens*  
- - Cookie M&M @ *Buckingham Bakery*  
  - -Dark Chocolate Avocado Pudding @ *Buckingham Bakery*  
   
 **Bulgogi**  
@@ -152,7 +151,7 @@ In description:
 **Coconut**  
 In name:   
  - Vanilla Coconut Milk Yogurt @ *Great Greens*  
- - Sweetened Coconut Flakes @ *Create-A-Bowl*  
+ - Sweetened Coconut Flakes @ *Great Greens*  
   
 In description:   
  - Beef Masaman Thai Curry @ *1849*  
@@ -167,14 +166,13 @@ In description:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**Shrimp**  
+**Poke Bar**  
 In name:   
- - Steamed Shrimp @ *Create-A-Bowl*  
+ - Build Your Own Poke Bar @ *Create-A-Bowl*  
   
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
- - Poke Tuna (*Raw) @ *Create-A-Bowl*  
   
 **fish**  
 In name:   
