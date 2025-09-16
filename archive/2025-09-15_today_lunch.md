@@ -1,6 +1,6 @@
 # 2025-09-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-16 12:15:33  
+Updated at: 2025-09-16 13:25:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-16)  
 **Coconut**  
 In name:   
@@ -145,7 +145,7 @@ In description:
   
 **beef**  
 In name:   
- - Beef Tri Tip Carved w/ Chimichurri @ *1849*  
+ - Beef Goulash @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pizza Slice Italian Beef @ *Gordon Capital City Pizza*  
  - Beef Barbacoa @ *Gordon Que Rico*  
@@ -191,6 +191,10 @@ In description:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**drumstick**  
+In name:   
+ - Chicken Drumstick BBQ Glazed @ *1849*  
+  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
@@ -220,6 +224,7 @@ In description:
 **chicken**  
 In name:   
  - Chicken Breast w/Red Pepper Cream @ *1849*  
+ - Chicken Drumstick BBQ Glazed @ *1849*  
  - Italian Chicken @ *Global Kitchen*  
  - Chicken Tinga @ *Que Rico*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
