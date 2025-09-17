@@ -1,6 +1,6 @@
 # 2025-09-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-17 11:22:20  
+Updated at: 2025-09-17 12:15:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-17)  
 **Tuna**  
 In name:   
@@ -15,13 +15,13 @@ In name:
 **pork**  
 In name:   
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
+ - Pork Carnita @ *Que Rico*  
  - Italian Pork Sausage @ *Buona Cucina*  
   
 **chicken**  
 In name:   
  - Marrakech Chicken Breast @ *1849*  
  - Spicy Lo Mein w/Chicken @ *Global Kitchen*  
- - Chicken Tinga @ *Que Rico*  
  - Chicken Tortilla Soup @ *Great Greens*  
   
 In description:   
