@@ -1,6 +1,6 @@
 # 2025-09-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-17 13:25:21  
+Updated at: 2025-09-17 15:18:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-17)  
 **Tuna**  
 In name:   
@@ -149,8 +149,13 @@ In description:
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-09-17)  
+**steak**  
+In name:   
+ - Beef Flank Steak @ *Global Kitchen:  Available Between 11am-2pm*  
+  
 **beef**  
 In name:   
+ - Beef Flank Steak @ *Global Kitchen:  Available Between 11am-2pm*  
  - BBQ Beef Brisket Sandwich @ *Fired Up:  Available Between 11am-2pm*  
   
 In description:   
