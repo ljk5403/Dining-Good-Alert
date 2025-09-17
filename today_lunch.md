@@ -1,6 +1,6 @@
 # 2025-09-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-17 01:27:48  
+Updated at: 2025-09-17 09:17:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-17)  
 **Tuna**  
 In name:   
@@ -62,15 +62,9 @@ In name:
  - Diced Chicken @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-09-17)  
-**Vanilla Coconut Milk Yogurt**  
+**Salmon**  
 In name:   
-  
-In description:   
- - Yogurt Bar @ *Great Greens*  
-  
-**Tilapia**  
-In name:   
- - Blackened Tilapia @ *1849*  
+ - Masala Spiced Salmon @ *1849*  
   
 **fish**  
 In name:   
@@ -105,9 +99,6 @@ In name:
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
  - Orange Sweet & Spicy Chicken @ *Gordon Global Kitchen*  
  - Plant Based Sweet & Sour Chicken @ *Gordon Global Kitchen*  
-  
-In description:   
- - Gordon's Great Greens @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-09-17)  
 **Vanilla Coconut Milk Yogurt**  
