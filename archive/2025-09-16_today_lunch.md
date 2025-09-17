@@ -1,6 +1,6 @@
 # 2025-09-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-17 12:15:03  
+Updated at: 2025-09-17 13:25:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-17)  
 **Tuna**  
 In name:   
@@ -21,6 +21,7 @@ In name:
 **chicken**  
 In name:   
  - Marrakech Chicken Breast @ *1849*  
+ - Crispy Chicken Sandwich @ *Fired Up*  
  - Spicy Lo Mein w/Chicken @ *Global Kitchen*  
  - Chicken Tortilla Soup @ *Great Greens*  
   
@@ -62,9 +63,9 @@ In name:
  - Diced Chicken @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-09-17)  
-**Salmon**  
+**Tilapia**  
 In name:   
- - Masala Spiced Salmon @ *1849*  
+ - Blackened Tilapia @ *1849*  
   
 **fish**  
 In name:   
@@ -97,6 +98,7 @@ In name:
  - Chicken Gravy @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
+ - Chicken Tenders Breaded @ *Gordon Fired Up*  
  - Orange Sweet & Spicy Chicken @ *Gordon Global Kitchen*  
  - Plant Based Sweet & Sour Chicken @ *Gordon Global Kitchen*  
   
@@ -129,7 +131,6 @@ In description:
   
 **pork**  
 In name:   
- - Pork Frittata Trattoria @ *1849*  
  - Cuban Pork Sandwich @ *Fired Up*  
   
 In description:   
