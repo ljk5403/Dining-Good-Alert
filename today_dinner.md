@@ -1,10 +1,14 @@
 # 2025-09-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-16 18:59:00  
+Updated at: 2025-09-16 20:19:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-16)  
 **Samosas**  
 In name:   
  - Samosas @ *Global Kitchen*  
+  
+**Pakoras**  
+In name:   
+ - Appetizer -  Pakoras Vegetable (Veg) @ *Global Kitchen*  
   
 **Cod**  
 In name:   
@@ -20,15 +24,10 @@ In name:
 In description:   
  - Pizza Slice Gyro @ *Capital City Pizza*  
   
-**curry**  
-In name:   
- - Plant-Based Beef Curry Squash @ *Global Kitchen*  
-  
 **beef**  
 In name:   
  - Beef Street Taco @ *Fired Up*  
  - Beef Vindaloo @ *Global Kitchen*  
- - Plant-Based Beef Curry Squash @ *Global Kitchen*  
  - Mediterranean Beef @ *Que Rico*  
  - Beef & Bean Chili @ *Great Greens*  
   
@@ -100,29 +99,12 @@ In name:
 In description:   
  - Yogurt Bar @ *Great Greens*  
   
-**Poke Bar**  
-In name:   
- - Poke Bar @ *Gordon Global Kitchen*  
- - Build Your Own Poke Bar @ *Gordon Global Kitchen*  
-  
 **steak**  
 In name:   
  - Beef Steak Fajita Plate w/Rice & Beans @ *Gordon Que Rico*  
   
 In description:   
  - Pizza Slice Italian Beef @ *Gordon Capital City Pizza*  
-  
-**Shrimp**  
-In name:   
-  
-In description:   
- - Poke Bar @ *Gordon Global Kitchen*  
-  
-**Tuna**  
-In name:   
-  
-In description:   
- - Poke Bar @ *Gordon Global Kitchen*  
   
 **beef**  
 In name:   
@@ -141,7 +123,6 @@ In name:
   
 **chicken**  
 In name:   
- - Baked BBQ Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Chicken Fajitas w/Rice & Beans @ *Gordon Que Rico*  
@@ -192,7 +173,6 @@ In description:
 In name:   
  - Italian Chicken @ *Global Kitchen*  
  - Chicken Creole @ *1849*  
- - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
  - Diced Chicken @ *Great Greens*  
  - Mediterranean Chicken @ *Create-A-Bowl*  
   

@@ -1,6 +1,6 @@
 # 2025-09-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-16 18:58:58  
+Updated at: 2025-09-16 20:19:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-16)  
 **Samosas**  
 In name:   
@@ -183,7 +183,6 @@ In name:
  - Chicken Drumstick BBQ Glazed @ *1849*  
  - Italian Chicken @ *Global Kitchen*  
  - Chicken Tinga @ *Que Rico*  
- - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
  - Diced Chicken @ *Great Greens*  
  - Mediterranean Chicken @ *Create-A-Bowl*  
   

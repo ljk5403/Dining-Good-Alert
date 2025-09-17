@@ -1,22 +1,14 @@
 # 2025-09-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-16 17:15:48  
+Updated at: 2025-09-16 18:59:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-16)  
-**Coconut**  
-In name:   
-  
-In description:   
- - Pizza Slice Gyro @ *Capital City Pizza*  
- - -Chocolate Caramel Bar @ *Buckingham Bakery*  
- - Cookie Chocolate Chip @ *Buckingham Bakery*  
-  
 **Samosas**  
 In name:   
  - Samosas @ *Global Kitchen*  
   
-**Salmon**  
+**Cod**  
 In name:   
- - Ginger Glazed Salmon @ *1849*  
+ - Caribbean Cod @ *1849*  
   
 **Tuna**  
 In name:   
@@ -34,7 +26,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Beef Street Taco @ *Fired Up*  
  - Beef Vindaloo @ *Global Kitchen*  
  - Plant-Based Beef Curry Squash @ *Global Kitchen*  
@@ -45,10 +36,13 @@ In description:
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Pizza Slice Gyro @ *Capital City Pizza*  
   
+**pork**  
+In name:   
+ - Pork Italian Sausage @ *Buona Cucina*  
+  
 **chicken**  
 In name:   
  - Za'tar and Lemon Grilled Chicken @ *1849*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Mediterranean Chicken @ *Que Rico*  
   
@@ -57,16 +51,9 @@ In description:
  - Great Greens @ *Great Greens*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-09-16)  
-**Coconut**  
+**Vanilla Coconut Milk Yogurt**  
 In name:   
  - Vanilla Coconut Milk Yogurt @ *Great Greens*  
- - Sweetened Coconut Flakes @ *Great Greens*  
-  
-In description:   
- - Crispy Chik'n Sandwich (VN) @ *Global Kitchen*  
- - Ice Cream @ *Buckingham Bakery*  
- - -Chocolate Caramel Bar @ *Buckingham Bakery*  
- - Green Goddess Dressing @ *Great Greens*  
   
 **watermelon**  
 In name:   
@@ -107,15 +94,11 @@ In name:
  - Diced Chicken @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-09-16)  
-**Coconut**  
+**Vanilla Coconut Milk Yogurt**  
 In name:   
   
 In description:   
- - Poke Bar @ *Gordon Global Kitchen*  
- - Taco Filling Chickpea (VN) Top 9 Free @ *Gordon Que Rico*  
  - Yogurt Bar @ *Great Greens*  
- - Cookie Chocolate Chip @ *Buckingham Bakery*  
- - -Chocolate Caramel Bar @ *Buckingham Bakery*  
   
 **Poke Bar**  
 In name:   
@@ -169,19 +152,9 @@ In description:
  - Gordon's Great Greens @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-09-16)  
-**Coconut**  
+**Vanilla Coconut Milk Yogurt**  
 In name:   
- - Coconut Shrimp @ *1849*  
  - Vanilla Coconut Milk Yogurt @ *Great Greens*  
- - Sweetened Coconut Flakes @ *Great Greens*  
-  
-In description:   
- - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
- - Lamb & Beef Gyro Sandwich @ *Fired Up*  
- - Cucumber Tzatziki Sauce @ *Fired Up*  
- - Station Recipe - Great Greens - FLM @ *Great Greens*  
- - -Chocolate Caramel Bar @ *Buckingham Bakery*  
- - Cookie Chocolate Chip @ *Buckingham Bakery*  
   
 **watermelon**  
 In name:   
@@ -227,13 +200,6 @@ In description:
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-09-16)  
-**Coconut**  
-In name:   
-  
-In description:   
- - -Chocolate Caramel Bar @ *Bakery*  
- - Cookie Chocolate Chip @ *Bakery*  
-  
 **catfish**  
 In name:   
  - Blackened Catfish @ *Carson's 1849*  
@@ -271,14 +237,6 @@ In description:
  - Great Greens @ *Great Greens*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-09-16)  
-**Coconut**  
-In name:   
-  
-In description:   
- - -Chocolate Caramel Bar @ *Bakery*  
- - -Midnight Cake @ *Bakery*  
- - Station Recipe - Deli Lowell AYCTE @ *Delicious*  
-  
 **lamb**  
 In name:   
  - Leg of Lamb @ *Lowell Market*  
