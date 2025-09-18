@@ -1,6 +1,6 @@
 # 2025-09-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-18 12:15:13  
+Updated at: 2025-09-18 13:26:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-18)  
 **Tuna**  
 In name:   
@@ -153,7 +153,6 @@ In description:
   
 **chicken**  
 In name:   
- - Plant-Based Chicken Tenders @ *Fired Up*  
  - Chicken Tinga @ *Que Rico*  
  - Chicken Noodle Soup @ *Great Greens*  
   
@@ -165,6 +164,10 @@ In description:
 In name:   
  - Ham Steak @ *Eggcetera:  Available Between 11am-2pm*  
   
+**Shrimp**  
+In name:   
+ - Coconut Shrimp @ *Carson's 1849:  Available Between 11am-2pm*  
+  
 **Cod**  
 In name:   
   
@@ -175,13 +178,6 @@ In description:
 In name:   
  - Vegan Fish Sandwich @ *Fired Up:  Available Between 11am-2pm*  
  - Petite Fish Sandwich @ *Fired Up:  Available Between 11am-2pm*  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Chana Saag w/ Tofu @ *Carson's 1849:  Available Between 11am-2pm*  
- - Tikka Masala Chicken @ *Carson's 1849:  Available Between 11am-2pm*  
   
 **beef**  
 In name:   
@@ -200,7 +196,6 @@ In description:
   
 **chicken**  
 In name:   
- - Tikka Masala Chicken @ *Carson's 1849:  Available Between 11am-2pm*  
  - Lemon Chicken Rice Soup @ *Great Greens:  Available Between 11am-4pm*  
   
 In description:   
