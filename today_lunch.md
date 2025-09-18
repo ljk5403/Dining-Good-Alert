@@ -1,6 +1,6 @@
 # 2025-09-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-18 10:19:00  
+Updated at: 2025-09-18 11:22:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-18)  
 **Tuna**  
 In name:   
@@ -30,7 +30,7 @@ In name:
 **chicken**  
 In name:   
  - Mediterranean Chicken @ *Que Rico*  
- - Chicken Dumpling Soup @ *Great Greens*  
+ - Chicken Noodle Soup @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
   
@@ -112,10 +112,6 @@ In description:
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-09-18)  
-**Vanilla Coconut Milk Yogurt**  
-In name:   
- - Vanilla Coconut Milk Yogurt @ *Great Greens*  
-  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -160,7 +156,6 @@ In name:
  - Plant-Based Chicken Tenders @ *Fired Up*  
  - Chicken Tinga @ *Que Rico*  
  - Chicken Noodle Soup @ *Great Greens*  
- - Diced Chicken @ *Great Greens*  
   
 In description:   
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
@@ -206,13 +201,21 @@ In description:
 **chicken**  
 In name:   
  - Tikka Masala Chicken @ *Carson's 1849:  Available Between 11am-2pm*  
- - Chicken Noodle Soup @ *Great Greens:  Available Between 11am-4pm*  
+ - Lemon Chicken Rice Soup @ *Great Greens:  Available Between 11am-4pm*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza:  Available Between 11am-4pm*  
  - Great Greens @ *Great Greens:  Available Between 11am-4pm*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-09-18)  
+**steak**  
+In name:   
+ - Swiss Steak w/Brown Gravy @ *Lowell Market*  
+  
+**Cod**  
+In name:   
+ - Lemon Pepper Cod Fillet @ *Lowell Market*  
+  
 **curry**  
 In name:   
  - Beef Curry Stew @ *Lowell Market*  
@@ -223,6 +226,7 @@ In name:
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE @ *Delicious*  
+ - Swiss Steak w/Brown Gravy @ *Lowell Market*  
   
 **pork**  
 In name:   

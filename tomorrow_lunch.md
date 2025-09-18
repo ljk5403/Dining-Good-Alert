@@ -1,6 +1,6 @@
 # 2025-09-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-18 10:19:07  
+Updated at: 2025-09-18 11:22:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-19)  
 **Salmon**  
 In name:   
@@ -132,10 +132,6 @@ In description:
  - Gordon's Great Greens @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-09-19)  
-**Vanilla Coconut Milk Yogurt**  
-In name:   
- - Vanilla Coconut Milk Yogurt @ *Great Greens*  
-  
 **Bulgogi**  
 In name:   
  - BYO Bar - Four Lakes Bulgogi @ *Create-A-Bowl*  
@@ -194,7 +190,6 @@ In description:
 In name:   
  - Chicken Quesadilla @ *Fired Up*  
  - Pizza Slice BBQ Chicken & Bacon @ *Que Rico*  
- - Diced Chicken @ *Great Greens*  
  - Bulgogi Chicken @ *Create-A-Bowl*  
   
 In description:   

@@ -1,6 +1,6 @@
 # 2025-09-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-18 10:19:17  
+Updated at: 2025-09-18 11:22:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-20)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-09-20)  
 **watermelon**  
@@ -78,7 +78,9 @@ In description:
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-09-20)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
- - Vanilla Coconut Milk Yogurt @ *Great Greens*  
+  
+In description:   
+ - Great Greans - Yogurt Bar @ *Great Greens*  
   
 **watermelon**  
 In name:   
@@ -109,7 +111,6 @@ In name:
  - Giardiniera Chicken @ *Global Kitchen*  
  - General Tso's Chicken @ *1849*  
  - Taco Chicken @ *Que Rico*  
- - Diced Chicken @ *Great Greens*  
   
 In description:   
  - Station Recipe - Great Greens - FLM @ *Great Greens*  

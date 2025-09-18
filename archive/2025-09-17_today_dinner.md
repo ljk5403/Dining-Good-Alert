@@ -1,6 +1,6 @@
 # 2025-09-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-18 09:17:58  
+Updated at: 2025-09-18 10:19:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-18)  
 **drumstick**  
 In name:   
@@ -43,19 +43,9 @@ In description:
  - Great Greens @ *Great Greens*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-09-18)  
-**Vanilla Coconut Milk Yogurt**  
-In name:   
- - Vanilla Coconut Milk Yogurt @ *Great Greens*  
-  
 **watermelon**  
 In name:   
  - Melon Watermelon Whole Sliced @ *Great Greens*  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Maple Tahini Dressing @ *Great Greens*  
   
 **chicken**  
 In name:   
@@ -64,7 +54,6 @@ In name:
  - Plant-Based Chicken Nuggets (6) @ *Global Kitchen*  
  - Chicken Wings Boneless Plain @ *Global Kitchen*  
  - Chicken Noodle Soup @ *Great Greens*  
- - Diced Chicken @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-09-18)  
 **Vanilla Coconut Milk Yogurt**  
