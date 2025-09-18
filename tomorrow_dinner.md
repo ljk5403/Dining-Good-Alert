@@ -1,6 +1,6 @@
 # 2025-09-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-18 09:18:02  
+Updated at: 2025-09-18 10:19:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-19)  
 **Shrimp**  
 In name:   
@@ -41,10 +41,6 @@ In description:
  - Great Greens @ *Great Greens*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-09-19)  
-**Vanilla Coconut Milk Yogurt**  
-In name:   
- - Vanilla Coconut Milk Yogurt @ *Great Greens*  
-  
 **watermelon**  
 In name:   
  - Melon Watermelon Whole Sliced @ *Great Greens*  
@@ -66,9 +62,6 @@ In name:
  - Beef Masaman Thai Curry @ *1849*  
  - Coconut Tofu w/Red Curry Sauce @ *1849*  
   
-In description:   
- - Maple Tahini Dressing @ *Great Greens*  
-  
 **beef**  
 In name:   
  - Beef Masaman Thai Curry @ *1849*  
@@ -82,7 +75,6 @@ In name:
 **chicken**  
 In name:   
  - Sausage Links Chicken (halal) (AYCTE) @ *Global Kitchen*  
- - Diced Chicken @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-09-19)  

@@ -1,12 +1,8 @@
 # 2025-09-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-18 09:18:05  
+Updated at: 2025-09-18 10:19:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-20)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-09-20)  
-**Vanilla Coconut Milk Yogurt**  
-In name:   
- - Vanilla Coconut Milk Yogurt @ *Great Greens*  
-  
 **watermelon**  
 In name:   
  - Melon Watermelon Whole Sliced @ *Great Greens*  
@@ -14,12 +10,6 @@ In name:
 **steak**  
 In name:   
  - Pepper Steak Stir Fry @ *Global Kitchen*  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Maple Tahini Dressing @ *Great Greens*  
   
 **beef**  
 In name:   
@@ -35,7 +25,6 @@ In description:
   
 **chicken**  
 In name:   
- - Diced Chicken @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   

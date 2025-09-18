@@ -1,6 +1,6 @@
 # 2025-09-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-18 01:27:13  
+Updated at: 2025-09-18 09:17:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-18)  
 **Tuna**  
 In name:   
@@ -67,12 +67,6 @@ In name:
  - Diced Chicken @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-09-18)  
-**Vanilla Coconut Milk Yogurt**  
-In name:   
-  
-In description:   
- - Yogurt Bar @ *Great Greens*  
-  
 **Bulgogi**  
 In name:   
  - Portabella Mushroom Bulgogi Tacos @ *Gordon Global Kitchen*  
@@ -110,14 +104,12 @@ In name:
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Grilled Blended Burger w/ Cheese @ *Gordon Fired Up*  
   
 **pork**  
 In name:   
  - Pork Carnita @ *Gordon Que Rico*  
-  
-In description:   
- - Pizza Breakfast Meat w/Bacon @ *Gordon Capital City Pizza*  
   
 **chicken**  
 In name:   
@@ -128,7 +120,7 @@ In name:
  - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
- - Gordon's Great Greens @ *Great Greens*  
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-09-18)  
 **Vanilla Coconut Milk Yogurt**  

@@ -1,6 +1,6 @@
 # 2025-09-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-18 09:18:00  
+Updated at: 2025-09-18 10:19:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-19)  
 **Salmon**  
 In name:   
@@ -42,10 +42,6 @@ In description:
  - Great Greens @ *Great Greens*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-09-19)  
-**Vanilla Coconut Milk Yogurt**  
-In name:   
- - Vanilla Coconut Milk Yogurt @ *Great Greens*  
-  
 **watermelon**  
 In name:   
  - Melon Watermelon Whole Sliced @ *Great Greens*  
@@ -62,12 +58,6 @@ In name:
 In description:   
  - Clam Chowder (Pork) @ *Great Greens*  
   
-**curry**  
-In name:   
-  
-In description:   
- - Maple Tahini Dressing @ *Great Greens*  
-  
 **beef**  
 In name:   
   
@@ -81,7 +71,6 @@ In name:
   
 **chicken**  
 In name:   
- - Diced Chicken @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-09-19)  
