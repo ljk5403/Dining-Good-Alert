@@ -1,6 +1,6 @@
 # 2025-09-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-17 18:15:25  
+Updated at: 2025-09-17 20:18:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-17)  
 **drumstick**  
 In name:   
@@ -55,6 +55,7 @@ In name:
  - Curry Potatoes @ *Global Kitchen*  
   
 In description:   
+ - Chicken Tikka Masala @ *Global Kitchen*  
  - Tofu & Vegetable Tikka Masala @ *Global Kitchen*  
  - Maple Tahini Dressing @ *Great Greens*  
   
@@ -65,7 +66,7 @@ In name:
 **chicken**  
 In name:   
  - Bone-in Greek Chicken @ *1849*  
- - Butter Chicken @ *Global Kitchen*  
+ - Chicken Tikka Masala @ *Global Kitchen*  
  - Diced Chicken @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-09-17)  
@@ -139,7 +140,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Beef Sirloin Tips @ *1849*  
  - Beef & Bean Chili @ *Great Greens*  
  - Protein - Beef Thinly Sliced @ *Create-A-Bowl*  
@@ -148,10 +148,10 @@ In description:
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
  - Grilled Blended Burger w/ Cheese @ *Fired Up*  
  - Vegan Sloppy Joe @ *Fired Up*  
- - Italian Meat Sauce @ *Global Kitchen*  
   
 **pork**  
 In name:   
+ - Andouille Pork Sausage @ *Global Kitchen*  
  - BBQ Pork Chop @ *1849*  
   
 In description:   
@@ -159,7 +159,6 @@ In description:
   
 **chicken**  
 In name:   
- - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Chicken Wings Boneless Plain @ *Que Rico*  
  - Plant-Based Chicken Nuggets (6) @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
