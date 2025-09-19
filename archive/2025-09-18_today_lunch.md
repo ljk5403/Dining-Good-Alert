@@ -1,6 +1,6 @@
 # 2025-09-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-19 12:14:49  
+Updated at: 2025-09-19 13:25:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-19)  
 **Salmon**  
 In name:   
@@ -128,6 +128,10 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**steak**  
+In name:   
+ - Beef Flank Steak @ *1849*  
+  
 **mahi mahi**  
 In name:   
  - Blackened Mahi Mahi @ *1849*  
@@ -156,6 +160,7 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Flank Steak @ *1849*  
  - Beef Fajita Meat @ *Global Kitchen*  
  - Bulgogi Beef @ *Create-A-Bowl*  
   
@@ -194,6 +199,7 @@ In description:
 **curry**  
 In name:   
  - Beef Curry Stew @ *Lowell Market*  
+ - Vegan Curry Stew @ *Lowell Market*  
   
 In description:   
  - Tikka Masala Chicken @ *Lowell Market*  

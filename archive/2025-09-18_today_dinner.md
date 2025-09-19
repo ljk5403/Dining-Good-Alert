@@ -1,6 +1,6 @@
 # 2025-09-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-19 12:14:51  
+Updated at: 2025-09-19 13:25:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-19)  
 **Cod**  
 In name:   
@@ -18,6 +18,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Po Boy Sandwich @ *Fired Up*  
   
 In description:   
  - Burnt Ends @ *1849*  
@@ -31,7 +32,6 @@ In name:
 **chicken**  
 In name:   
  - Diced Chicken Breast @ *Buona Cucina*  
- - Breaded Chicken Tenders @ *Fired Up*  
  - Chicken Peruvian w/ Rice @ *Que Rico*  
   
 In description:   
@@ -89,10 +89,6 @@ In name:
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
-  
-**corn bake**  
-In name:   
- - Sweet Corn Bake (Veg) @ *1849*  
   
 **Shrimp**  
 In name:   

@@ -1,6 +1,6 @@
 # 2025-09-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-19 13:25:08  
+Updated at: 2025-09-19 15:18:52  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-19)  
 **Salmon**  
 In name:   
@@ -132,10 +132,6 @@ In name:
 In name:   
  - Beef Flank Steak @ *1849*  
   
-**mahi mahi**  
-In name:   
- - Blackened Mahi Mahi @ *1849*  
-  
 **Shrimp**  
 In name:   
   
@@ -178,7 +174,6 @@ In description:
 **chicken**  
 In name:   
  - Chicken Quesadilla @ *Fired Up*  
- - Pizza Slice BBQ Chicken & Bacon @ *Que Rico*  
  - Bulgogi Chicken @ *Create-A-Bowl*  
   
 In description:   
