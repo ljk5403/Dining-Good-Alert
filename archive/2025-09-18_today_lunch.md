@@ -1,6 +1,6 @@
 # 2025-09-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-19 10:17:56  
+Updated at: 2025-09-19 11:21:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-19)  
 **Salmon**  
 In name:   
@@ -18,15 +18,12 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Hot Dog @ *Fired Up*  
  - Beef Taco Meat @ *Que Rico*  
-  
-In description:   
- - Pork Bratwurst Sandwich @ *Fired Up*  
   
 **pork**  
 In name:   
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
- - Pork Bratwurst Sandwich @ *Fired Up*  
  - Pork Miso w/Yakisoba Noodles @ *Global Kitchen*  
  - Clam Chowder (Pork) @ *Great Greens*  
   
@@ -131,9 +128,9 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**Salmon**  
+**mahi mahi**  
 In name:   
- - Blackened Salmon @ *1849*  
+ - Blackened Mahi Mahi @ *1849*  
   
 **Shrimp**  
 In name:   
@@ -196,6 +193,7 @@ In description:
   
 **curry**  
 In name:   
+ - Beef Curry Stew @ *Lowell Market*  
  - Vegan Curry Stew @ *Lowell Market*  
   
 In description:   
@@ -203,7 +201,7 @@ In description:
   
 **beef**  
 In name:   
- - Beef Harissa @ *Lowell Market*  
+ - Beef Curry Stew @ *Lowell Market*  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE @ *Delicious*  
@@ -218,6 +216,7 @@ In description:
 **chicken**  
 In name:   
  - Tikka Masala Chicken @ *Lowell Market*  
+ - Chicken Nyama Choma @ *Lowell Market*  
   
 In description:   
  - Great Greens @ *Great Greens*  
