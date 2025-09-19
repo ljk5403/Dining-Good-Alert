@@ -1,11 +1,7 @@
 # 2025-09-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-19 11:21:22  
+Updated at: 2025-09-19 12:14:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-19)  
-**Shrimp**  
-In name:   
- - Shrimp Po-Boy Sandwich @ *Fired Up*  
-  
 **Cod**  
 In name:   
   
@@ -35,6 +31,7 @@ In name:
 **chicken**  
 In name:   
  - Diced Chicken Breast @ *Buona Cucina*  
+ - Breaded Chicken Tenders @ *Fired Up*  
  - Chicken Peruvian w/ Rice @ *Que Rico*  
   
 In description:   

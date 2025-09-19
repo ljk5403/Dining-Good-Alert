@@ -1,6 +1,6 @@
 # 2025-09-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-19 11:21:20  
+Updated at: 2025-09-19 12:14:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-19)  
 **Salmon**  
 In name:   
@@ -194,7 +194,6 @@ In description:
 **curry**  
 In name:   
  - Beef Curry Stew @ *Lowell Market*  
- - Vegan Curry Stew @ *Lowell Market*  
   
 In description:   
  - Tikka Masala Chicken @ *Lowell Market*  
@@ -216,7 +215,6 @@ In description:
 **chicken**  
 In name:   
  - Tikka Masala Chicken @ *Lowell Market*  
- - Chicken Nyama Choma @ *Lowell Market*  
   
 In description:   
  - Great Greens @ *Great Greens*  
