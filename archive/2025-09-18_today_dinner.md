@@ -1,6 +1,6 @@
 # 2025-09-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-19 15:18:57  
+Updated at: 2025-09-19 16:15:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-19)  
 **Cod**  
 In name:   
@@ -151,7 +151,6 @@ In name:
  - Bulgogi Beef @ *Create-A-Bowl*  
  - Bulgogi Chicken @ *Create-A-Bowl*  
  - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
- - Build Your Own Bulgogi Bar - Four Lakes @ *Create-A-Bowl*  
   
 **watermelon**  
 In name:   
@@ -163,6 +162,7 @@ In name:
   
 In description:   
  - BYO Bar - Four Lakes Bulgogi @ *Create-A-Bowl*  
+ - Kimchee @ *Create-A-Bowl*  
   
 **Cod**  
 In name:   
@@ -179,6 +179,7 @@ In name:
   
 In description:   
  - BYO Bar - Four Lakes Bulgogi @ *Create-A-Bowl*  
+ - Kimchee @ *Create-A-Bowl*  
   
 **lamb**  
 In name:   
