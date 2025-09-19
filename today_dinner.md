@@ -1,6 +1,6 @@
 # 2025-09-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-18 18:15:52  
+Updated at: 2025-09-18 20:21:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-18)  
 **drumstick**  
 In name:   
@@ -18,7 +18,6 @@ In description:
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Mediterranean Beef @ *Que Rico*  
   
 In description:   
@@ -28,13 +27,13 @@ In description:
 **pork**  
 In name:   
  - Pork Belly Char Sui @ *1849*  
+ - Pork Italian Sausage @ *Buona Cucina*  
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
  - Pork Carnita Torta @ *Fired Up*  
   
 **chicken**  
 In name:   
  - Chicken Drumstick Szechuan Glazed @ *1849*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Mediterranean Chicken @ *Que Rico*  
  - Chicken Dumpling Soup @ *Great Greens*  

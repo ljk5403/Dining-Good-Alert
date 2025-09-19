@@ -1,6 +1,6 @@
 # 2025-09-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-18 17:14:45  
+Updated at: 2025-09-18 18:15:52  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-18)  
 **drumstick**  
 In name:   
@@ -28,6 +28,7 @@ In description:
 **pork**  
 In name:   
  - Pork Belly Char Sui @ *1849*  
+ - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
  - Pork Carnita Torta @ *Fired Up*  
   
 **chicken**  
@@ -96,14 +97,12 @@ In name:
  - Beef Enchilada Bake @ *Gordon Que Rico*  
   
 In description:   
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Chicago-Style Hot Dog @ *Gordon Eggcetera*  
   
 **pork**  
 In name:   
  - Herb Crusted Pork Loin @ *1849*  
-  
-In description:   
- - Pizza Breakfast Meat w/Bacon @ *Gordon Capital City Pizza*  
   
 **chicken**  
 In name:   
@@ -116,6 +115,7 @@ In name:
  - Grilled Tandoori Chicken Sandwich @ *Fired Up*  
   
 In description:   
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Gordon's Great Greens @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-09-18)  
