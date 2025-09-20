@@ -1,6 +1,6 @@
 # 2025-09-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-19 18:15:36  
+Updated at: 2025-09-19 20:17:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-19)  
 **Cod**  
 In name:   
@@ -90,6 +90,10 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**Tandoori Chicken**  
+In name:   
+ - Tandoori Chicken @ *Gordon Global Kitchen*  
+  
 **Shrimp**  
 In name:   
  - Sauteed Shrimp @ *Gordon Buona Cucina*  
@@ -114,9 +118,6 @@ In name:
 In name:   
  - Curry Mango - Tofu @ *Gordon Global Kitchen*  
   
-In description:   
- - Tikka Masala Chicken @ *Gordon Global Kitchen*  
-  
 **beef**  
 In name:   
  - Texas BBQ Sliced Beef Brisket @ *1849*  
@@ -137,7 +138,7 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Tikka Masala Chicken @ *Gordon Global Kitchen*  
+ - Tandoori Chicken @ *Gordon Global Kitchen*  
  - Chicken and Cheese Flauta @ *Gordon Que Rico*  
   
 In description:   
@@ -155,6 +156,10 @@ In name:
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
+  
+**steak**  
+In name:   
+ - Rosemary Cabernet Flank Steak @ *1849*  
   
 **Shrimp**  
 In name:   
@@ -187,6 +192,7 @@ In name:
   
 **curry**  
 In name:   
+ - Coconut Tofu w/Red Curry Sauce @ *1849*  
   
 In description:   
  - Lamb Vindaloo @ *1849*  
@@ -198,12 +204,13 @@ In name:
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
- - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Que Rico*  
+ - Rosemary Cabernet Flank Steak @ *1849*  
+ - Pizza Slice Deluxe (Pork) @ *Que Rico*  
   
 **pork**  
 In name:   
  - New Orleans Turkey Melt w/ Pork @ *Fired Up*  
- - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Que Rico*  
+ - Pizza Slice Deluxe (Pork) @ *Que Rico*  
  - Clam Chowder (Pork) @ *Great Greens*  
   
 In description:   
@@ -214,15 +221,11 @@ In name:
  - Bulgogi Chicken @ *Create-A-Bowl*  
   
 In description:   
- - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Que Rico*  
+ - Pizza Slice Deluxe (Pork) @ *Que Rico*  
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-09-19)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-09-19)  
-**BBQ Pork Sandwich**  
-In name:   
- - Carolina BBQ Pork Sandwich @ *Lowell Market*  
-  
 **Cod**  
 In name:   
   
@@ -238,7 +241,6 @@ In description:
 **pork**  
 In name:   
  - Clam Chowder (Pork) @ *Great Greens*  
- - Carolina BBQ Pork Sandwich @ *Lowell Market*  
  - Tavern Style Sausage Pizza (Pork) @ *Lowell Market*  
   
 In description:   
@@ -247,6 +249,7 @@ In description:
 **chicken**  
 In name:   
  - Popcorn Chicken @ *Lowell Market*  
+ - Crispy Chicken Sandwich @ *Lowell Market*  
   
 In description:   
  - Great Greens @ *Great Greens*  
