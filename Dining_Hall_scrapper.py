@@ -19,7 +19,7 @@ meals_tuple = ('lunch', 'dinner')
 good_dish_category_rare = ['haddock', 'crappie', 'duck', 'squid', 'octopus', 'goat']
 good_dish_category_common = ['Salmon', 'mahi mahi', 'catfish', 'Shrimp', 'Cod', 'Tilapia', 'Tuna', 'fish', 'lamb', 'curry', 'beef', 'pork', 'chicken']
 good_dish_category = good_dish_category_rare + good_dish_category_common
-good_dish_name_T0 =['Vanilla Coconut Milk Yogurt', 'Bulgogi', 'Flauta', 'Moroccan Style Lamb Stuffed Peppers', 'lobster', 'crayfish', 'watermelon', 'Drunken Noodles', 'Beef Alicha', 'Pepper, Onion, & Mushroom Saute', 'Poke Bar', 'corn bake', 'Rapini', 'broccoli rabe', 'drumstick', 'Chicken Drumstick Gochujang Glazed', 'Chicken Drummies', 'Tandoori Chicken', 'Samosas', 'Pakoras', 'steak']
+good_dish_name_T0 =['Vanilla Coconut Milk Yogurt', 'Bibimbap Bowl ', 'Bulgogi', 'Flauta', 'Moroccan Style Lamb Stuffed Peppers', 'lobster', 'crayfish', 'watermelon', 'Drunken Noodles', 'Beef Alicha', 'Pepper, Onion, & Mushroom Saute', 'Poke Bar', 'corn bake', 'Rapini', 'broccoli rabe', 'drumstick', 'Chicken Drumstick Gochujang Glazed', 'Chicken Drummies', 'Tandoori Chicken', 'Samosas', 'Pakoras', 'steak']
 good_dish_name_T1 =['BBQ Pork Sandwich']
 
 good_dish_list = good_dish_name_T0 + good_dish_name_T1 + good_dish_category
