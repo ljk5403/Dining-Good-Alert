@@ -1,6 +1,6 @@
 # 2025-09-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-20 01:24:20  
+Updated at: 2025-09-20 09:14:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-20)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-09-20)  
 **watermelon**  
@@ -30,19 +30,14 @@ In description:
   
 **Shrimp**  
 In name:   
- - Coconut Shrimp @ *1849*  
+ - Redhook Ale Breaded Shrimp @ *1849*  
   
 **lamb**  
 In name:   
  - Lamb & Beef Gyro Sandwich @ *Gordon Fired Up*  
   
-**curry**  
-In name:   
- - Beef Curry Stew @ *1849*  
-  
 **beef**  
 In name:   
- - Beef Curry Stew @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Lamb & Beef Gyro Sandwich @ *Gordon Fired Up*  
  - Beef Taco Meat @ *Gordon Que Rico*  
@@ -62,6 +57,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Brown Stew w/ Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
@@ -91,15 +87,14 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Sliced Kielbasa (Pork) @ *1849*  
  - Grilled Blended Burger w/ Cheese @ *Fired Up*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
 In name:   
- - Sliced Kielbasa (Pork) @ *1849*  
   
 In description:   
+ - Andouille Sausage @ *1849*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
  - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Ham Steak @ *Create-A-Bowl*  
@@ -108,7 +103,6 @@ In description:
 In name:   
  - Giardiniera Chicken @ *Global Kitchen*  
  - Taco Chicken @ *Que Rico*  
- - Sausage Links Chicken (halal) (AYCTE) @ *Create-A-Bowl*  
   
 In description:   
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
