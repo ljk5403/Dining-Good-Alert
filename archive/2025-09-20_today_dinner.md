@@ -1,6 +1,6 @@
 # 2025-09-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-21 15:18:18  
+Updated at: 2025-09-21 16:14:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-21)  
 **Cod**  
 In name:   
@@ -82,7 +82,6 @@ In name:
   
 **Cod**  
 In name:   
- - Caribbean Cod @ *1849*  
  - Battered Cod @ *1849*  
   
 **Tuna**  
