@@ -1,6 +1,6 @@
 # 2025-09-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-20 18:15:10  
+Updated at: 2025-09-20 20:27:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-20)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-09-20)  
 **watermelon**  
@@ -44,7 +44,6 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
@@ -56,6 +55,7 @@ In description:
 In name:   
  - BBQ Pork Chop @ *1849*  
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
+ - Ancho Braised Pork @ *Gordon Que Rico*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
@@ -70,6 +70,7 @@ In name:
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
+ - Ancho Braised Pork @ *Gordon Que Rico*  
  - Gordon's Great Greens @ *Great Greens*  
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
