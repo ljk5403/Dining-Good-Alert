@@ -1,6 +1,6 @@
 # 2025-09-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-21 10:15:38  
+Updated at: 2025-09-21 11:19:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-21)  
 **beef**  
 In name:   
@@ -12,16 +12,16 @@ In description:
 **pork**  
 In name:   
  - Baked Rigatoni w/ Pork Italian Sausage @ *1849*  
- - Pork Sausage Patty @ *Buona Cucina*  
+ - Pork Sausage Links @ *Buona Cucina*  
   
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Tortilla Soup @ *Great Greens*  
+ - Halal Chicken Sausage Link @ *Buona Cucina*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
- - Great Greens @ *Great Greens*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-09-21)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-09-21)  
