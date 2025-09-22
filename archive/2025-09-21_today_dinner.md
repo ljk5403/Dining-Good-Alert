@@ -1,6 +1,6 @@
 # 2025-09-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-22 16:15:22  
+Updated at: 2025-09-22 17:16:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-22)  
 **Shrimp**  
 In name:   
@@ -136,10 +136,6 @@ In description:
 In name:   
  - Samosas @ *Que Rico*  
   
-**Salmon**  
-In name:   
- - Smoked Salmon @ *1849*  
-  
 **catfish**  
 In name:   
  - Fried Catfish @ *1849*  
@@ -176,6 +172,7 @@ In name:
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Crispy Chicken Sandwich @ *Fired Up*  
  - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
+ - Sweet & Spicy Orange Chicken @ *1849*  
  - Chicken Curry @ *Que Rico*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
