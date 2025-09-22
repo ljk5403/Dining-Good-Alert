@@ -1,6 +1,6 @@
 # 2025-09-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-21 18:15:40  
+Updated at: 2025-09-21 20:26:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-21)  
 **Cod**  
 In name:   
@@ -13,18 +13,16 @@ In name:
   
 **beef**  
 In name:   
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Ground Beef Curry @ *Global Kitchen*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
-**pork**  
-In name:   
- - Italian Pork Sausage @ *Buona Cucina*  
-  
 **chicken**  
 In name:   
  - Chicken & Vegetables w/Dijon Vinaigrette @ *1849*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
  - Chicken Tortilla Soup @ *Great Greens*  
@@ -53,6 +51,7 @@ In description:
   
 **pork**  
 In name:   
+ - Roasted Pork Loin @ *1849*  
  - Biscuits & Pork Gravy @ *1849*  
  - Pork Carnita @ *Gordon Que Rico*  
   
@@ -108,7 +107,6 @@ In description:
 **pork**  
 In name:   
  - Polish Combo Blended Cheeseburger (Pork) @ *Fired Up*  
- - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
@@ -117,6 +115,7 @@ In description:
 In name:   
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Plant Based Chicken Strips @ *Global Kitchen*  
+ - Chicken Tinga @ *Que Rico*  
  - Chicken Tortilla Soup @ *Great Greens*  
   
 In description:   
@@ -127,9 +126,9 @@ In description:
 In name:   
  - Chicken Drummies @ *Eggcetera*  
   
-**Salmon**  
+**Cod**  
 In name:   
- - Blackened Salmon @ *Carson's 1849*  
+ - Battered Cod Fillet Sandwich @ *Carson's 1849*  
   
 **beef**  
 In name:   
