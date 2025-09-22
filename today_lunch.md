@@ -1,18 +1,13 @@
 # 2025-09-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-22 10:19:36  
+Updated at: 2025-09-22 11:23:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-22)  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
   
-**lamb**  
-In name:   
- - Lamb & Beef Gyro Sandwich @ *Fired Up*  
-  
 **beef**  
 In name:   
- - Lamb & Beef Gyro Sandwich @ *Fired Up*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -29,6 +24,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Tenders Breaded @ *Fired Up*  
  - Chicken Teriyaki Stir Fry @ *Global Kitchen*  
  - Chicken Tinga @ *Que Rico*  
  - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
@@ -134,7 +130,6 @@ In name:
 In name:   
   
 In description:   
- - California Roll  (FujiSan) @ *Create-A-Bowl*  
  - Nori Roll - Tempura (FujiSan) @ *Create-A-Bowl*  
   
 **curry**  
@@ -183,7 +178,7 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken Quesadilla @ *Carson's 1849:  Available Between 11am-2pm*  
+ - Chicken Tinga & Scallion Quesadilla @ *Carson's 1849:  Available Between 11am-2pm*  
  - Pizza Slice Chicken Alfredo @ *Capital City Pizza:  Available Between 11am-4pm*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens:  Available Between 11am-4pm*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera:  Available Between 11am-2pm*  
