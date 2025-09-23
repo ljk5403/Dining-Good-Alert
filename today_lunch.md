@@ -1,6 +1,6 @@
 # 2025-09-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-23 17:16:00  
+Updated at: 2025-09-23 18:15:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-23)  
 **Tuna**  
 In name:   
@@ -155,7 +155,7 @@ In description:
 In name:   
  - Italian Chicken @ *Global Kitchen*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
+ - Chicken Tortilla Soup @ *Great Greens*  
  - Mediterranean Chicken @ *Create-A-Bowl*  
   
 In description:   
