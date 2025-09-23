@@ -1,6 +1,6 @@
 # 2025-09-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-23 10:19:07  
+Updated at: 2025-09-23 11:22:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-25)  
 **Tuna**  
 In name:   
@@ -41,6 +41,16 @@ In description:
 In name:   
  - Melon Watermelon Whole Sliced @ *Great Greens*  
   
+**Cod**  
+In name:   
+ - Miso Cod @ *1849*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Miso Cod @ *1849*  
+  
 **beef**  
 In name:   
   
@@ -49,6 +59,7 @@ In description:
   
 **chicken**  
 In name:   
+ - General Tso's Chicken @ *1849*  
  - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
