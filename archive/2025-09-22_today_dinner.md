@@ -1,6 +1,6 @@
 # 2025-09-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-23 01:27:53  
+Updated at: 2025-09-23 09:17:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-23)  
 **Tuna**  
 In name:   
@@ -91,10 +91,6 @@ In description:
 In name:   
  - Chicken Drumstick BBQ Glazed @ *1849*  
   
-**steak**  
-In name:   
- - Steak Street Taco @ *Gordon Que Rico*  
-  
 **Salmon**  
 In name:   
  - Hoisin BBQ Glazed Salmon @ *1849*  
@@ -105,19 +101,13 @@ In name:
 In description:   
  - Hoisin BBQ Glazed Salmon @ *1849*  
   
-**lamb**  
-In name:   
- - Lamb & Beef Gyro Sandwich @ *Fired Up*  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Lamb & Beef Gyro Sandwich @ *Fired Up*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Lomo Saltado @ *Gordon Global Kitchen*  
- - Steak Street Taco @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
