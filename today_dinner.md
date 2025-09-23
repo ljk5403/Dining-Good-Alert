@@ -1,6 +1,6 @@
 # 2025-09-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-23 13:26:53  
+Updated at: 2025-09-23 15:19:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-23)  
 **Tuna**  
 In name:   
@@ -112,6 +112,7 @@ In description:
 **pork**  
 In name:   
  - Green Beans w/ Pork Bacon @ *1849*  
+ - Pulled Pork Sliders @ *Gordon Eggcetera*  
   
 **chicken**  
 In name:   
@@ -120,7 +121,6 @@ In name:
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Pizza Slice Chicken Sriracha @ *Gordon Capital City Pizza*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
- - Chicken Paprikash @ *Gordon Eggcetera*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
@@ -143,6 +143,7 @@ In name:
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
+ - Grilled Blended Burger w/ Cheese @ *Fired Up*  
   
 **pork**  
 In name:   

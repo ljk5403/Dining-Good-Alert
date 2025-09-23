@@ -1,6 +1,6 @@
 # 2025-09-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-23 13:27:03  
+Updated at: 2025-09-23 15:19:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-25)  
 **Tilapia**  
 In name:   
@@ -96,6 +96,7 @@ In description:
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Mediterranean Chicken @ *Gordon Buona Cucina*  
+ - Bone-in Greek Chicken @ *Gordon Global Kitchen*  
  - Chicken Empanada with Green Chili @ *Gordon Que Rico*  
  - Chicken Noodle Soup @ *Great Greens*  
  - Chicken Parmigiana @ *Gordon Eggcetera*  
