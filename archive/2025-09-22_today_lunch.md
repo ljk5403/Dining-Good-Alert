@@ -1,6 +1,6 @@
 # 2025-09-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-23 10:18:48  
+Updated at: 2025-09-23 11:22:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-23)  
 **Tuna**  
 In name:   
@@ -61,7 +61,6 @@ In name:
   
 **fish**  
 In name:   
- - Vietnamese Pork with Rice (No Fish) @ *1849*  
   
 In description:   
  - Salmon Spicy Roll (FujiSan) @ *Global Kitchen*  
@@ -79,7 +78,7 @@ In name:
   
 **pork**  
 In name:   
- - Vietnamese Pork with Rice (No Fish) @ *1849*  
+ - Pork Carnita @ *1849*  
   
 **chicken**  
 In name:   
@@ -141,6 +140,7 @@ In name:
  - Mediterranean Beef @ *Create-A-Bowl*  
   
 In description:   
+ - Sloppy Joe @ *1849*  
  - Grilled Blended Burger w/ Cheese @ *Fired Up*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
@@ -153,7 +153,6 @@ In description:
   
 **chicken**  
 In name:   
- - Brazilian Chicken w/ Salsa Vinaigrette @ *1849*  
  - Italian Chicken @ *Global Kitchen*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
