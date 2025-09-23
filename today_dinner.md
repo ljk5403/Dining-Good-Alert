@@ -1,6 +1,6 @@
 # 2025-09-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-23 16:15:15  
+Updated at: 2025-09-23 17:16:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-23)  
 **Tuna**  
 In name:   
@@ -20,6 +20,7 @@ In name:
  - Beef Mediterranean @ *Que Rico*  
   
 In description:   
+ - Italian Meat Sauce @ *Buona Cucina*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Cocktail Wieners & BBQ Sauce @ *Fired Up*  
   
@@ -143,7 +144,6 @@ In name:
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
- - Grilled Blended Burger w/ Cheese @ *Fired Up*  
   
 **pork**  
 In name:   

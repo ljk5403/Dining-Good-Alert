@@ -1,6 +1,6 @@
 # 2025-09-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-23 15:19:26  
+Updated at: 2025-09-23 16:15:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-23)  
 **Tuna**  
 In name:   
@@ -137,7 +137,7 @@ In name:
   
 **beef**  
 In name:   
- - Beef Harissa @ *1849*  
+ - Beef Meatloaf @ *1849*  
  - Empanada Beef Picadillo @ *Que Rico*  
  - Mediterranean Beef @ *Create-A-Bowl*  
   
@@ -202,6 +202,7 @@ In description:
 **beef**  
 In name:   
  - Texas BBQ Sliced Beef Brisket @ *Lowell Market*  
+ - Beef Harissa @ *Lowell Market*  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE @ *Delicious*  
@@ -217,6 +218,7 @@ In description:
 In name:   
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
  - Blackened Chicken (No Bun) @ *Lowell Market*  
+ - Chicken Popcorn @ *Lowell Market*  
   
 In description:   
  - Great Greens @ *Great Greens*  
