@@ -1,6 +1,6 @@
 # 2025-09-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-23 15:19:45  
+Updated at: 2025-09-23 16:15:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-25)  
 **Tilapia**  
 In name:   
@@ -174,4 +174,24 @@ In description:
  - Great Greens @ *Great Greens*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-09-25)  
+**Salmon**  
+In name:   
+ - Za'atar Salmon @ *Lowell Market*  
+  
+**curry**  
+In name:   
+ - Thai Veggie Meatballs w/ Green Curry @ *Lowell Market*  
+  
+**beef**  
+In name:   
+ - Beef Pot Roast @ *Lowell Market*  
+  
+**pork**  
+In name:   
+ - Chicken Grilled Cordon Bleu (Pork) @ *Lowell Market*  
+  
+**chicken**  
+In name:   
+ - Chicken Grilled Cordon Bleu (Pork) @ *Lowell Market*  
+  
   
