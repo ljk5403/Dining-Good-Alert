@@ -1,6 +1,6 @@
 # 2025-09-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-24 15:20:10  
+Updated at: 2025-09-24 16:15:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-24)  
 **steak**  
 In name:   
@@ -148,10 +148,6 @@ In name:
 **BBQ Pork Sandwich**  
 In name:   
  - BBQ Pork Sandwich @ *Fired Up*  
-  
-**haddock**  
-In name:   
- - Haddock Ginger Glazed (AYCTE) @ *1849*  
   
 **mahi mahi**  
 In name:   
