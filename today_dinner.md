@@ -1,6 +1,6 @@
 # 2025-09-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-24 17:16:27  
+Updated at: 2025-09-24 18:16:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-24)  
 **steak**  
 In name:   
@@ -152,6 +152,10 @@ In name:
 **mahi mahi**  
 In name:   
  - Baked Mahi Mahi w/ Butter & Lemon @ *1849*  
+  
+**fish**  
+In name:   
+ - Fish Sauce @ *Create-A-Bowl*  
   
 **beef**  
 In name:   
