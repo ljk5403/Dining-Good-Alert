@@ -1,6 +1,6 @@
 # 2025-09-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-24 01:27:26  
+Updated at: 2025-09-24 09:15:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-24)  
 **Tuna**  
 In name:   
@@ -74,12 +74,6 @@ In description:
  - Rogan Josh @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-09-24)  
-**Vanilla Coconut Milk Yogurt**  
-In name:   
-  
-In description:   
- - Yogurt Bar @ *Great Greens*  
-  
 **fish**  
 In name:   
   
@@ -117,7 +111,6 @@ In name:
   
 In description:   
  - Gnocchi w/ Pork Chorizo Sauce @ *Gordon Buona Cucina*  
- - Gordon's Great Greens @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-09-24)  
 **watermelon**  
