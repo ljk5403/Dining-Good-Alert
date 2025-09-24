@@ -1,6 +1,6 @@
 # 2025-09-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-23 17:16:03  
+Updated at: 2025-09-23 18:15:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-23)  
 **Tuna**  
 In name:   
@@ -157,7 +157,7 @@ In name:
  - Italian Chicken @ *Global Kitchen*  
  - Chicken Piece Seasoned Baked @ *1849*  
  - Chicken Empanada with Green Chili @ *Que Rico*  
- - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
+ - Chicken Tortilla Soup @ *Great Greens*  
  - Mediterranean Chicken @ *Create-A-Bowl*  
   
 In description:   

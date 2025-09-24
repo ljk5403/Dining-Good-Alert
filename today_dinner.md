@@ -1,6 +1,6 @@
 # 2025-09-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-23 18:15:27  
+Updated at: 2025-09-23 20:20:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-23)  
 **Tuna**  
 In name:   
@@ -8,11 +8,7 @@ In name:
   
 **curry**  
 In name:   
- - Curry Squash @ *Global Kitchen*  
  - Squash Curry @ *Global Kitchen*  
-  
-In description:   
- - Chicken Korma @ *Global Kitchen*  
   
 **beef**  
 In name:   
@@ -37,7 +33,8 @@ In name:
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Crispy Chicken Sandwich @ *Fired Up*  
  - VN Sand Chicken Paradise @ *Fired Up*  
- - Chicken Korma @ *Global Kitchen*  
+ - Sweet & Sour Chicken @ *Global Kitchen*  
+ - Plant Based Sweet & Sour Chicken @ *Global Kitchen*  
  - Mediterranean Chicken @ *Que Rico*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
   
@@ -138,12 +135,12 @@ In name:
   
 **beef**  
 In name:   
- - Beef Meatloaf @ *1849*  
  - Empanada Beef Picadillo @ *Que Rico*  
  - Mediterranean Beef @ *Create-A-Bowl*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
+ - Sloppy Joe @ *1849*  
   
 **pork**  
 In name:   
@@ -190,6 +187,7 @@ In name:
   
 **chicken**  
 In name:   
+ - Blackened Chicken @ *Carson's 1849*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
  - Grilled Chicken Fillet @ *Eggcetera*  
   
