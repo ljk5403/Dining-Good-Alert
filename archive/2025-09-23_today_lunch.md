@@ -1,6 +1,6 @@
 # 2025-09-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-24 13:24:02  
+Updated at: 2025-09-24 15:20:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-24)  
 **Tuna**  
 In name:   
@@ -14,15 +14,17 @@ In name:
  - Beef & Bean Chili @ *Great Greens*  
   
 In description:   
- - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Italian Meat Sauce @ *Buona Cucina*  
   
 **pork**  
 In name:   
- - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
  - New Orleans Turkey Melt w/ Pork @ *Fired Up*  
  - Pork Carnita @ *Que Rico*  
  - Italian Pork Sausage @ *Buona Cucina*  
+  
+In description:   
+ - Pizza Slice Sausage @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
@@ -30,7 +32,7 @@ In name:
  - Fajita Chicken @ *Que Rico*  
   
 In description:   
- - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Great Greens @ *Great Greens*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-09-24)  
@@ -117,13 +119,9 @@ In description:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**catfish**  
+**Cod**  
 In name:   
- - Fried Catfish @ *1849*  
-  
-**fish**  
-In name:   
- - Fried Catfish @ *1849*  
+ - Fried Cod Basket @ *1849*  
   
 **beef**  
 In name:   
@@ -160,6 +158,10 @@ In description:
 In name:   
  - Bulgogi Chicken Thighs @ *Global Kitchen:  Available Between 11am-2pm*  
  - Bulgogi Portabella Mushrooms @ *Global Kitchen:  Available Between 11am-2pm*  
+  
+**Shrimp**  
+In name:   
+ - Coconut Shrimp @ *Global Kitchen:  Available Between 11am-2pm*  
   
 **beef**  
 In name:   
