@@ -1,6 +1,6 @@
 # 2025-09-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-24 18:16:09  
+Updated at: 2025-09-24 20:21:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-24)  
 **steak**  
 In name:   
@@ -37,7 +37,7 @@ In name:
   
 **chicken**  
 In name:   
- - Blackened Chicken with Orange Sauce @ *1849*  
+ - Honey Mustard Chicken & Vegetables @ *1849*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
@@ -57,9 +57,9 @@ In name:
 In name:   
  - Tandoori Chicken @ *Global Kitchen*  
   
-**Samosas**  
+**Pakoras**  
 In name:   
- - Samosas @ *Global Kitchen*  
+ - Appetizer -  Pakoras Vegetable (Veg) @ *Global Kitchen*  
   
 **curry**  
 In name:   
@@ -91,6 +91,10 @@ In name:
 In description:   
  - Yogurt Bar @ *Great Greens*  
   
+**Tandoori Chicken**  
+In name:   
+ - Tandoori Chicken @ *Gordon Global Kitchen*  
+  
 **Shrimp**  
 In name:   
  - Shrimp & Green Chile Burrito @ *Gordon Que Rico*  
@@ -111,25 +115,24 @@ In description:
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef & Bean Chili @ *Great Greens*  
+ - Beef Hot Dog @ *Fired Up*  
   
 In description:   
+ - AUSTIN BLUES Chopped Brisket @ *1849*  
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
- - Pork Bratwurst Sandwich @ *Fired Up*  
   
 **pork**  
 In name:   
  - Gnocchi w/ Pork Chorizo Sauce @ *Gordon Buona Cucina*  
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Gluten Free Pork Sausage Pizza Quarter @ *Gordon Capital City Pizza*  
- - Pork Bratwurst Sandwich @ *Fired Up*  
   
 **chicken**  
 In name:   
- - Chicken Pot Pie w/Biscuit @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pizza Slice BBQ Chicken & Bacon @ *Gordon Capital City Pizza*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
- - Sesame Chicken @ *Gordon Global Kitchen*  
+ - Tandoori Chicken @ *Gordon Global Kitchen*  
  - Plant Based Sesame Chicken (AYCTE) (VN) @ *Gordon Global Kitchen*  
   
 In description:   
@@ -140,10 +143,6 @@ In description:
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
-  
-**drumstick**  
-In name:   
- - Chicken Drumstick Teriyaki Glazed @ *1849*  
   
 **BBQ Pork Sandwich**  
 In name:   
@@ -179,7 +178,7 @@ In description:
 In name:   
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
- - Chicken Drumstick Teriyaki Glazed @ *1849*  
+ - Chicken Coq Au Vin Blanc w/Bacon @ *1849*  
  - Chicken Wings Boneless Plain @ *Que Rico*  
  - Plant-Based Chicken Nuggets (6) @ *Que Rico*  
  - Protein - Chicken Thinly Sliced @ *Create-A-Bowl*  
