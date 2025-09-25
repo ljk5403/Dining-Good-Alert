@@ -1,6 +1,6 @@
 # 2025-09-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-25 10:19:16  
+Updated at: 2025-09-25 11:22:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-25)  
 **Tuna**  
 In name:   
@@ -154,10 +154,6 @@ In description:
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-09-25)  
-**Samosas**  
-In name:   
- - Samosas @ *Carson's 1849:  Available Between 11am-2pm*  
-  
 **steak**  
 In name:   
  - Brazilian Flank Steak @ *Global Kitchen:  Available Between 11am-2pm*  
