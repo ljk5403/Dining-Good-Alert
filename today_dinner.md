@@ -1,6 +1,6 @@
 # 2025-09-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-25 15:20:05  
+Updated at: 2025-09-25 16:15:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-25)  
 **Tilapia**  
 In name:   
@@ -30,7 +30,7 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken Piece Seasoned Baked @ *1849*  
+ - Seasoned Baked Chicken Quarters @ *1849*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Chicken Shawarma Sandwich @ *Fired Up*  
@@ -88,6 +88,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Italian Sausage @ *Gordon Buona Cucina*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
@@ -95,7 +96,6 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Mediterranean Chicken @ *Gordon Buona Cucina*  
  - Bone-in Greek Chicken @ *Gordon Global Kitchen*  
  - Chicken Empanada with Green Chili @ *Gordon Que Rico*  
  - Chicken Noodle Soup @ *Great Greens*  
@@ -125,7 +125,7 @@ In description:
 In name:   
  - Jerk Pork Chop @ *1849*  
  - Filipino Pork Sausage @ *Que Rico*  
- - FIipino Pork @ *Que Rico*  
+ - FiIipino Pork @ *Que Rico*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  

@@ -1,6 +1,6 @@
 # 2025-09-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-25 15:20:09  
+Updated at: 2025-09-25 16:15:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-26)  
 **duck**  
 In name:   
@@ -136,7 +136,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Carne Guisada @ *Gordon Que Rico*  
   
 In description:   
@@ -151,7 +150,6 @@ In name:
   
 **chicken**  
 In name:   
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pizza Slice 16" Tandoori Chicken (AYCTE) @ *Gordon Capital City Pizza*  
  - Plant-Based Chicken Nuggets (6) @ *Gordon Eggcetera*  
   
