@@ -1,6 +1,6 @@
 # 2025-09-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-25 11:22:23  
+Updated at: 2025-09-25 12:15:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-25)  
 **Tuna**  
 In name:   
@@ -126,15 +126,16 @@ In name:
   
 **steak**  
 In name:   
- - Swiss Steak w/Brown Gravy @ *1849*  
+ - Country Fried Steak @ *1849*  
   
 **beef**  
 In name:   
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Swiss Steak w/Brown Gravy @ *1849*  
  - Vegan Sloppy Joe @ *1849*  
+ - Country Fried Steak @ *1849*  
+ - Brown Gravy @ *1849*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
