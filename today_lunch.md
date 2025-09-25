@@ -1,6 +1,6 @@
 # 2025-09-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-25 01:27:56  
+Updated at: 2025-09-25 09:18:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-25)  
 **Tuna**  
 In name:   
@@ -72,12 +72,6 @@ In description:
  - Spicy Italian Meatball Sandwich @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-09-25)  
-**Vanilla Coconut Milk Yogurt**  
-In name:   
-  
-In description:   
- - Yogurt Bar @ *Great Greens*  
-  
 **steak**  
 In name:   
  - Spicy Steak Fajita @ *Gordon Que Rico*  
@@ -116,33 +110,23 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Wings Boneless Plain @ *1849*  
- - Chicken Wings Bone-In Plain @ *1849*  
- - Plant-Based Chicken Nuggets (6) @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Mediterranean Chicken @ *Gordon Buona Cucina*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Chicken Noodle Soup @ *Great Greens*  
-  
-In description:   
- - Gordon's Great Greens @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-09-25)  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**Poke Bar**  
+In name:   
+ - Build Your Own Poke Bar @ *Create-A-Bowl*  
+  
 **steak**  
 In name:   
  - Swiss Steak w/Brown Gravy @ *1849*  
-  
-**Shrimp**  
-In name:   
- - Steamed Shrimp @ *Create-A-Bowl*  
-  
-**Tuna**  
-In name:   
- - Poke Tuna (*Raw) @ *Create-A-Bowl*  
   
 **beef**  
 In name:   

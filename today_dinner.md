@@ -1,6 +1,6 @@
 # 2025-09-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-25 01:27:57  
+Updated at: 2025-09-25 09:18:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-25)  
 **Tilapia**  
 In name:   
@@ -109,13 +109,9 @@ In description:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**Shrimp**  
+**Poke Bar**  
 In name:   
- - Steamed Shrimp @ *Create-A-Bowl*  
-  
-**Tuna**  
-In name:   
- - Poke Tuna (*Raw) @ *Create-A-Bowl*  
+ - Build Your Own Poke Bar @ *Create-A-Bowl*  
   
 **beef**  
 In name:   
