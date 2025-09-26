@@ -1,6 +1,6 @@
 # 2025-09-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-26 10:18:41  
+Updated at: 2025-09-26 11:22:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-26)  
 **drumstick**  
 In name:   
@@ -56,6 +56,10 @@ In name:
 In name:   
  - Beef Barbacoa @ *Global Kitchen*  
  - Garlic Herb Roast Beef @ *1849*  
+  
+**pork**  
+In name:   
+ - Appetizer -  Fried Pork Potstickers @ *1849*  
   
 **chicken**  
 In name:   
