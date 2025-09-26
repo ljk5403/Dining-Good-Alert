@@ -1,6 +1,6 @@
 # 2025-09-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-25 18:15:58  
+Updated at: 2025-09-25 20:20:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-25)  
 **Tilapia**  
 In name:   
@@ -68,19 +68,30 @@ In name:
 In description:   
  - Yogurt Bar @ *Great Greens*  
   
-**Shrimp**  
+**Salmon**  
 In name:   
- - Shrimp with Bell Peppers @ *1849*  
+ - Blackened Salmon @ *1849*  
   
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Beef Masaman Thai Curry @ *Gordon Global Kitchen*  
+  
+**curry**  
+In name:   
+ - Beef Masaman Thai Curry @ *Gordon Global Kitchen*  
   
 **beef**  
 In name:   
  - Beef Meatloaf @ *1849*  
  - Beef Gravy @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Beef Masaman Thai Curry @ *Gordon Global Kitchen*  
  - BBQ Beef Brisket Sandwich @ *Fired Up*  
   
 In description:   
@@ -96,7 +107,6 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Bone-in Greek Chicken @ *Gordon Global Kitchen*  
  - Chicken Empanada with Green Chili @ *Gordon Que Rico*  
  - Chicken Noodle Soup @ *Great Greens*  
  - Chicken Parmigiana @ *Gordon Eggcetera*  

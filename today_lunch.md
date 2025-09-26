@@ -1,6 +1,6 @@
 # 2025-09-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-25 18:15:50  
+Updated at: 2025-09-25 20:20:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-25)  
 **Tuna**  
 In name:   
@@ -148,7 +148,7 @@ In description:
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Chicken Noodle Soup @ *Great Greens*  
+ - Chicken Tortilla Soup @ *Great Greens*  
   
 In description:   
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
