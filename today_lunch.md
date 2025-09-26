@@ -1,6 +1,6 @@
 # 2025-09-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-26 01:26:57  
+Updated at: 2025-09-26 09:19:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-26)  
 **drumstick**  
 In name:   
@@ -74,10 +74,6 @@ In description:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**Tandoori Chicken**  
-In name:   
- - Pizza Slice 16" Tandoori Chicken (AYCTE) @ *Gordon Capital City Pizza*  
-  
 **Shrimp**  
 In name:   
  - Sauteed Shrimp @ *Gordon Buona Cucina*  
@@ -111,7 +107,6 @@ In name:
 In name:   
  - Chicken Breast w/Balsamic BBQ Sauce @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Pizza Slice 16" Tandoori Chicken (AYCTE) @ *Gordon Capital City Pizza*  
  - Chicken Vindaloo @ *Gordon Global Kitchen*  
   
 In description:   
