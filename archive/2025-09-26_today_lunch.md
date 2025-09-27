@@ -1,6 +1,6 @@
 # 2025-09-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-27 12:13:12  
+Updated at: 2025-09-27 13:22:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-27)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-09-27)  
 **watermelon**  
@@ -87,6 +87,7 @@ In description:
 In name:   
  - Giardiniera Chicken @ *Global Kitchen*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Taco Chicken @ *Que Rico*  
   
 In description:   
  - Station Recipe - Great Greens - FLM @ *Great Greens*  

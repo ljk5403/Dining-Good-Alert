@@ -1,6 +1,6 @@
 # 2025-09-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-27 13:22:51  
+Updated at: 2025-09-27 15:18:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-27)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-09-27)  
 **watermelon**  
@@ -38,8 +38,19 @@ In name:
 In description:   
  - Yogurt Bar @ *Great Greens*  
   
+**mahi mahi**  
+In name:   
+ - Coconut Thai Curry Mahi Mahi @ *1849*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Coconut Thai Curry Mahi Mahi @ *1849*  
+  
 **curry**  
 In name:   
+ - Coconut Thai Curry Mahi Mahi @ *1849*  
  - Beef Curry Stew @ *1849*  
   
 **beef**  
@@ -63,7 +74,6 @@ In description:
   
 **chicken**  
 In name:   
- - Huli Huli Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
  - Chicken Tinga @ *Gordon Que Rico*  
