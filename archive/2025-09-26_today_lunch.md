@@ -1,6 +1,6 @@
 # 2025-09-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-27 13:22:48  
+Updated at: 2025-09-27 15:17:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-27)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-09-27)  
 **watermelon**  
@@ -23,17 +23,23 @@ In description:
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-09-27)  
-**steak**  
-In name:   
- - Beef Flank Steak @ *1849*  
-  
 **BBQ Pork Sandwich**  
 In name:   
  - Carolina BBQ Pork Sandwich @ *Gordon Fired Up*  
   
+**fish**  
+In name:   
+  
+In description:   
+ - Beef Curry Masaman Thai @ *1849*  
+  
+**curry**  
+In name:   
+ - Beef Curry Masaman Thai @ *1849*  
+  
 **beef**  
 In name:   
- - Beef Flank Steak @ *1849*  
+ - Beef Curry Masaman Thai @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
