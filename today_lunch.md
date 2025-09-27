@@ -1,6 +1,6 @@
 # 2025-09-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-27 11:19:11  
+Updated at: 2025-09-27 12:13:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-27)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-09-27)  
 **watermelon**  
@@ -46,11 +46,8 @@ In description:
 In name:   
  - French Market Pork Jambalaya @ *1849*  
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
+ - Hawaiian (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
  - Carolina BBQ Pork Sandwich @ *Gordon Fired Up*  
-  
-In description:   
- - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
- - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 **chicken**  
 In name:   
@@ -58,12 +55,12 @@ In name:
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Chicken Tinga @ *Gordon Que Rico*  
+ - Chicken Tortilla Soup @ *Great Greens*  
   
 In description:   
  - French Market Pork Jambalaya @ *1849*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
- - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-09-27)  
 **watermelon**  
