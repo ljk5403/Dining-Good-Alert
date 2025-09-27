@@ -1,6 +1,6 @@
 # 2025-09-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-27 01:23:25  
+Updated at: 2025-09-27 09:14:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-27)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-09-27)  
 **watermelon**  
@@ -23,28 +23,17 @@ In description:
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-09-27)  
-**Vanilla Coconut Milk Yogurt**  
-In name:   
-  
-In description:   
- - Yogurt Bar @ *Great Greens*  
-  
 **steak**  
 In name:   
-  
-In description:   
- - Montreal Chicken @ *1849*  
+ - Beef Flank Steak @ *1849*  
   
 **BBQ Pork Sandwich**  
 In name:   
  - Carolina BBQ Pork Sandwich @ *Gordon Fired Up*  
   
-**Tilapia**  
-In name:   
- - Tilapia Veracruz @ *1849*  
-  
 **beef**  
 In name:   
+ - Beef Flank Steak @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
@@ -55,6 +44,7 @@ In description:
   
 **pork**  
 In name:   
+ - French Market Pork Jambalaya @ *1849*  
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Carolina BBQ Pork Sandwich @ *Gordon Fired Up*  
   
@@ -64,16 +54,15 @@ In description:
   
 **chicken**  
 In name:   
- - Montreal Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Chicken Tinga @ *Gordon Que Rico*  
   
 In description:   
+ - French Market Pork Jambalaya @ *1849*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
- - Gordon's Great Greens @ *Great Greens*  
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-09-27)  
