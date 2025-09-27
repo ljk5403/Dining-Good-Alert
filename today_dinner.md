@@ -1,6 +1,6 @@
 # 2025-09-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-26 18:15:52  
+Updated at: 2025-09-26 20:17:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-26)  
 **duck**  
 In name:   
@@ -97,12 +97,6 @@ In name:
 In name:   
  - Pizza Slice 16" Tandoori Chicken (AYCTE) @ *Gordon Capital City Pizza*  
   
-**squid**  
-In name:   
-  
-In description:   
- - Fried Calamari @ *Gordon Eggcetera*  
-  
 **mahi mahi**  
 In name:   
  - Coconut Thai Curry Mahi Mahi @ *Gordon Global Kitchen*  
@@ -114,6 +108,7 @@ In name:
 **Shrimp**  
 In name:   
  - Sauteed Shrimp @ *Gordon Buona Cucina*  
+ - Shrimp & Green Chile Burrito @ *Fired Up*  
   
 **Cod**  
 In name:   
@@ -131,22 +126,17 @@ In description:
 **curry**  
 In name:   
  - Coconut Thai Curry Mahi Mahi @ *Gordon Global Kitchen*  
- - Lentil Chickpea Red Curry @ *Gordon Global Kitchen*  
   
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Carne Guisada @ *Gordon Que Rico*  
   
-In description:   
- - Baked Corn Dog (Pork) @ *Fired Up*  
-  
 **pork**  
 In name:   
  - French Market Pork Jambalaya @ *1849*  
  - Hawaiian (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
  - Clam Chowder (Pork) @ *Great Greens*  
- - Baked Corn Dog (Pork) @ *Fired Up*  
   
 **chicken**  
 In name:   
@@ -157,7 +147,6 @@ In name:
 In description:   
  - French Market Pork Jambalaya @ *1849*  
  - Gordon's Great Greens @ *Great Greens*  
- - Baked Corn Dog (Pork) @ *Fired Up*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-09-26)  
 **Bulgogi**  
@@ -266,7 +255,6 @@ In description:
 In name:   
  - Duck Curry @ *Lowell Market*  
  - Black Eyed Pea Curry w/ Rice @ *Lowell Market*  
- - Curry Sweet Potato Medallions @ *Lowell Market*  
   
 **beef**  
 In name:   
