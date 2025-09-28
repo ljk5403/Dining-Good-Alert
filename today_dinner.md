@@ -1,6 +1,6 @@
 # 2025-09-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-28 15:17:58  
+Updated at: 2025-09-28 16:14:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-28)  
 **beef**  
 In name:   
@@ -56,6 +56,7 @@ In description:
 In name:   
  - Island Spiced Pork w/ Pineapple Salsa @ *1849*  
  - Pork Carnita @ *Gordon Que Rico*  
+ - Pork al Pastor @ *Gordon Que Rico*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
