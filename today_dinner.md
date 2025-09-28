@@ -1,6 +1,6 @@
 # 2025-09-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-27 18:15:36  
+Updated at: 2025-09-27 20:28:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-27)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-09-27)  
 **watermelon**  
@@ -38,19 +38,16 @@ In name:
 In description:   
  - Yogurt Bar @ *Great Greens*  
   
-**mahi mahi**  
+**catfish**  
 In name:   
- - Coconut Thai Curry Mahi Mahi @ *1849*  
+ - Blackened Catfish @ *1849*  
   
 **fish**  
 In name:   
-  
-In description:   
- - Coconut Thai Curry Mahi Mahi @ *1849*  
+ - Blackened Catfish @ *1849*  
   
 **curry**  
 In name:   
- - Coconut Thai Curry Mahi Mahi @ *1849*  
  - Beef Curry Stew @ *1849*  
   
 **beef**  
@@ -91,6 +88,10 @@ In description:
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
+  
+**Pakoras**  
+In name:   
+ - Appetizer -  Pakoras Vegetable (Veg) @ *1849*  
   
 **beef**  
 In name:   
