@@ -1,6 +1,6 @@
 # 2025-09-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-28 13:22:22  
+Updated at: 2025-09-28 15:17:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-28)  
 **beef**  
 In name:   
@@ -39,11 +39,10 @@ In description:
 **curry**  
 In name:   
  - Thai Veggie Meatballs w/ Green Curry @ *1849*  
- - Mango Beef Curry @ *1849*  
   
 **beef**  
 In name:   
- - Mango Beef Curry @ *1849*  
+ - Beef Meatloaf @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
@@ -55,7 +54,7 @@ In description:
   
 **pork**  
 In name:   
- - Apricot Glazed Pork @ *1849*  
+ - Island Spiced Pork w/ Pineapple Salsa @ *1849*  
  - Pork Carnita @ *Gordon Que Rico*  
   
 In description:   
