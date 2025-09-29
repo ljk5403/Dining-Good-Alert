@@ -1,6 +1,6 @@
 # 2025-09-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-29 15:17:48  
+Updated at: 2025-09-29 16:15:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-29)  
 **Shrimp**  
 In name:   
@@ -12,7 +12,6 @@ In name:
  - Beef Gravy @ *1849*  
   
 In description:   
- - Italian Meat Sauce @ *Buona Cucina*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
 **pork**  
@@ -21,6 +20,7 @@ In name:
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
 In description:   
+ - Chorizo Sauce @ *Buona Cucina*  
  - Pizza Slice Sausage @ *Capital City Pizza*  
   
 **chicken**  
@@ -34,6 +34,7 @@ In name:
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 In description:   
+ - Chorizo Sauce @ *Buona Cucina*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-09-29)  
@@ -115,6 +116,10 @@ In name:
 In name:   
  - Appetizer -  Pakoras Vegetable (Veg) @ *Que Rico*  
   
+**steak**  
+In name:   
+ - Beef Flank Steak @ *Great Greens*  
+  
 **mahi mahi**  
 In name:   
  - Coconut Thai Curry Mahi Mahi @ *Que Rico*  
@@ -138,7 +143,8 @@ In name:
   
 **beef**  
 In name:   
- - Beef Stew @ *1849*  
+ - Beef Stew w/ Buttermilk Biscuit @ *1849*  
+ - Beef Flank Steak @ *Great Greens*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
@@ -155,9 +161,6 @@ In name:
  - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
  - Maple Cider Chicken @ *1849*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
-  
-In description:   
- - Station Recipe - Great Greens - FLM @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-09-29)  
 **BBQ Pork Sandwich**  
