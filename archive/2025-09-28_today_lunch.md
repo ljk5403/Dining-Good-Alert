@@ -1,6 +1,6 @@
 # 2025-09-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-29 12:16:07  
+Updated at: 2025-09-29 13:26:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-29)  
 **beef**  
 In name:   
@@ -113,6 +113,10 @@ In name:
 In name:   
  - Appetizer -  Pakoras Vegetable (Veg) @ *Que Rico*  
   
+**steak**  
+In name:   
+ - Grilled Flank Steak @ *1849*  
+  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
@@ -139,10 +143,10 @@ In description:
   
 **beef**  
 In name:   
- - 1849 BBQ Beef Brisket Slider @ *1849*  
  - Lamb & Beef Gyro Sandwich @ *Fired Up*  
   
 In description:   
+ - Grilled Flank Steak @ *1849*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
@@ -177,9 +181,9 @@ In name:
  - Blackened Chicken Sandwich @ *Fired Up:  Available Between 11am-2pm*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-09-29)  
-**Shrimp**  
+**Cod**  
 In name:   
- - Coconut Shrimp @ *Lowell Market*  
+ - Battered Cod @ *Lowell Market*  
   
 **curry**  
 In name:   
