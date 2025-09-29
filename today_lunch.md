@@ -1,6 +1,6 @@
 # 2025-09-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-29 09:18:19  
+Updated at: 2025-09-29 10:18:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-29)  
 **beef**  
 In name:   
@@ -109,6 +109,10 @@ In name:
 In name:   
  - Samosas @ *Que Rico*  
   
+**Pakoras**  
+In name:   
+ - Appetizer -  Pakoras Vegetable (Veg) @ *Que Rico*  
+  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
@@ -131,6 +135,7 @@ In name:
 In description:   
  - Lamb Vindaloo @ *Que Rico*  
  - Vegetable Korma @ *Que Rico*  
+ - Pakora Sauce @ *Que Rico*  
   
 **beef**  
 In name:   
