@@ -1,6 +1,6 @@
 # 2025-09-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-28 18:15:51  
+Updated at: 2025-09-28 20:22:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-28)  
 **beef**  
 In name:   
@@ -36,13 +36,21 @@ In name:
 In description:   
  - Yogurt Bar @ *Great Greens*  
   
+**Tandoori Chicken**  
+In name:   
+ - Tandoori Chicken @ *1849*  
+  
+**steak**  
+In name:   
+ - Spicy Steak Fajita @ *Gordon Que Rico*  
+  
 **curry**  
 In name:   
  - Thai Veggie Meatballs w/ Green Curry @ *1849*  
   
 **beef**  
 In name:   
- - Beef Meatloaf @ *1849*  
+ - Texas BBQ Sliced Beef Brisket @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
@@ -50,19 +58,19 @@ In description:
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Vegan Taco Filling @ *Gordon Que Rico*  
+ - Spicy Steak Fajita @ *Gordon Que Rico*  
  - Grilled Blended Burger w/ Cheese @ *Fired Up*  
   
 **pork**  
 In name:   
- - Island Spiced Pork w/ Pineapple Salsa @ *1849*  
  - Pork Carnita @ *Gordon Que Rico*  
- - Pork al Pastor @ *Gordon Que Rico*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
   
 **chicken**  
 In name:   
+ - Tandoori Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Giardiniera Chicken @ *Gordon Buona Cucina*  
  - Chicken Tortilla Soup @ *Great Greens*  
@@ -92,7 +100,6 @@ In description:
   
 **pork**  
 In name:   
- - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
@@ -103,6 +110,7 @@ In name:
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Plant Based Chicken Strips @ *Global Kitchen*  
  - Plant Based Sweet & Sour Chicken @ *1849*  
+ - Giardiniera Chicken @ *Que Rico*  
  - Chicken Tortilla Soup @ *Great Greens*  
   
 In description:   
