@@ -1,6 +1,6 @@
 # 2025-09-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-29 16:15:23  
+Updated at: 2025-09-29 17:14:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-29)  
 **Shrimp**  
 In name:   
@@ -123,6 +123,10 @@ In name:
 **mahi mahi**  
 In name:   
  - Coconut Thai Curry Mahi Mahi @ *Que Rico*  
+  
+**Cod**  
+In name:   
+ - Baked Lemon Butter Cod @ *1849*  
   
 **Tuna**  
 In name:   
