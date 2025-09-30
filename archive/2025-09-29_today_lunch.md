@@ -1,6 +1,6 @@
 # 2025-09-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-30 01:28:07  
+Updated at: 2025-09-30 09:18:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-30)  
 **Tandoori Chicken**  
 In name:   
@@ -163,6 +163,7 @@ In name:
 In description:   
  - Blended Cowboy Burger @ *Fired Up*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
+ - Vegan Taco Filling @ *Que Rico*  
   
 **pork**  
 In name:   
