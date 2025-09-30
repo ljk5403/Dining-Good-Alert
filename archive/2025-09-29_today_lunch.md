@@ -1,6 +1,6 @@
 # 2025-09-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-30 09:18:12  
+Updated at: 2025-09-30 10:16:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-30)  
 **Tandoori Chicken**  
 In name:   
@@ -213,6 +213,7 @@ In description:
 In name:   
  - Chicken Wings Boneless Plain @ *Carson's 1849:  Available Between 11am-2pm*  
  - Plant-Based Chicken Nuggets (6) @ *Carson's 1849:  Available Between 11am-2pm*  
+ - Blackened Chicken @ *Great Greens:  Available Between 11am-4pm*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens:  Available Between 11am-4pm*  
   
 In description:   

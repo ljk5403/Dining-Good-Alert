@@ -1,14 +1,10 @@
 # 2025-09-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-30 10:16:25  
+Updated at: 2025-09-30 11:22:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-30)  
 **Tandoori Chicken**  
 In name:   
  - Tandoori Chicken @ *Global Kitchen*  
-  
-**Samosas**  
-In name:   
- - Samosas @ *Global Kitchen*  
   
 **curry**  
 In name:   
@@ -77,12 +73,6 @@ In name:
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-09-30)  
-**Vanilla Coconut Milk Yogurt**  
-In name:   
-  
-In description:   
- - Yogurt Bar @ *Great Greens*  
-  
 **Poke Bar**  
 In name:   
  - Poke Bar @ *Gordon Global Kitchen*  
@@ -119,6 +109,7 @@ In name:
 In description:   
  - Brazilian Flank Steak @ *1849*  
  - Southwest Blended Burger @ *Gordon Fired Up*  
+ - Vegan Taco Filling @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
@@ -132,11 +123,7 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
- - Plant Based Protein Chicken Taco Filling @ *Gordon Que Rico*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
-  
-In description:   
- - Gordon's Great Greens @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-09-30)  
 **watermelon**  
@@ -161,7 +148,7 @@ In name:
  - Mediterranean Beef @ *Create-A-Bowl*  
   
 In description:   
- - Blended Cowboy Burger @ *Fired Up*  
+ - Polish Sausage @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
  - Vegan Taco Filling @ *Que Rico*  
   
@@ -170,13 +157,13 @@ In name:
  - Pork Carnita @ *Que Rico*  
   
 In description:   
+ - Polish Sausage @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
 In name:   
  - Smoked Chicken Drumstick @ *1849*  
  - Buffalo Chicken Wrap @ *Fired Up*  
- - Italian Chicken @ *Global Kitchen*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
  - Mediterranean Chicken @ *Create-A-Bowl*  
   
@@ -214,7 +201,7 @@ In name:
  - Chicken Wings Boneless Plain @ *Carson's 1849:  Available Between 11am-2pm*  
  - Plant-Based Chicken Nuggets (6) @ *Carson's 1849:  Available Between 11am-2pm*  
  - Blackened Chicken @ *Great Greens:  Available Between 11am-4pm*  
- - Cream of Chicken & Wild Rice Soup @ *Great Greens:  Available Between 11am-4pm*  
+ - Chicken Tortilla Soup @ *Great Greens:  Available Between 11am-4pm*  
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza:  Available Between 11am-4pm*  
