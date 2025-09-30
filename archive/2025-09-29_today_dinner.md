@@ -1,11 +1,7 @@
 # 2025-09-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-30 10:16:31  
+Updated at: 2025-09-30 11:22:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-30)  
-**Samosas**  
-In name:   
- - Samosas @ *Global Kitchen*  
-  
 **curry**  
 In name:   
  - Beef Bombay Curry @ *Global Kitchen*  
