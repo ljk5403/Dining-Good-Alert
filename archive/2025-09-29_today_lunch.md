@@ -1,6 +1,6 @@
 # 2025-09-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-30 15:19:26  
+Updated at: 2025-09-30 16:15:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-30)  
 **Tandoori Chicken**  
 In name:   
@@ -122,7 +122,7 @@ In name:
   
 **drumstick**  
 In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
+ - Chicken Drumstick BBQ Glazed @ *Great Greens*  
   
 **Tilapia**  
 In name:   
@@ -151,13 +151,10 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
+ - Chicken Drumstick BBQ Glazed @ *Great Greens*  
  - Italian Chicken @ *Global Kitchen*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
  - Mediterranean Chicken @ *Create-A-Bowl*  
-  
-In description:   
- - Station Recipe - Great Greens - FLM @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-09-30)  
 **Shrimp**  
