@@ -1,6 +1,6 @@
 # 2025-09-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-30 12:15:38  
+Updated at: 2025-09-30 13:23:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-30)  
 **Tandoori Chicken**  
 In name:   
@@ -82,14 +82,9 @@ In name:
 In name:   
  - Brazilian Flank Steak @ *1849*  
   
-**squid**  
-In name:   
-  
-In description:   
- - Fried Calamari @ *1849*  
-  
 **Shrimp**  
 In name:   
+ - Redhook Ale Breaded Shrimp @ *1849*  
   
 In description:   
  - Poke Bar @ *Gordon Global Kitchen*  
@@ -207,9 +202,9 @@ In description:
  - Pepperoni Pizza Slice @ *Capital City Pizza:  Available Between 11am-4pm*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-09-30)  
-**Tilapia**  
+**Cod**  
 In name:   
- - Tilapia Chipotle Lime Crusted @ *Lowell Market*  
+ - Battered Cod @ *Lowell Market*  
   
 **curry**  
 In name:   

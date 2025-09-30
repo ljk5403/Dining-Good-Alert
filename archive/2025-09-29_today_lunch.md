@@ -1,6 +1,6 @@
 # 2025-09-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-30 11:22:43  
+Updated at: 2025-09-30 12:15:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-30)  
 **Tandoori Chicken**  
 In name:   
@@ -132,7 +132,7 @@ In name:
   
 **drumstick**  
 In name:   
- - Smoked Chicken Drumstick @ *1849*  
+ - Chicken Drumstick BBQ Glazed @ *1849*  
   
 **Tilapia**  
 In name:   
@@ -148,7 +148,7 @@ In name:
  - Mediterranean Beef @ *Create-A-Bowl*  
   
 In description:   
- - Polish Sausage @ *Global Kitchen*  
+ - Blended Cowboy Burger @ *Fired Up*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
  - Vegan Taco Filling @ *Que Rico*  
   
@@ -157,13 +157,12 @@ In name:
  - Pork Carnita @ *Que Rico*  
   
 In description:   
- - Polish Sausage @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
 In name:   
- - Smoked Chicken Drumstick @ *1849*  
- - Buffalo Chicken Wrap @ *Fired Up*  
+ - Chicken Drumstick BBQ Glazed @ *1849*  
+ - Italian Chicken @ *Global Kitchen*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
  - Mediterranean Chicken @ *Create-A-Bowl*  
   
