@@ -1,6 +1,6 @@
 # 2025-09-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-30 13:23:47  
+Updated at: 2025-09-30 15:19:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-30)  
 **Tandoori Chicken**  
 In name:   
@@ -78,13 +78,9 @@ In name:
  - Poke Bar @ *Gordon Global Kitchen*  
  - Build Your Own Poke Bar @ *Gordon Global Kitchen*  
   
-**steak**  
-In name:   
- - Brazilian Flank Steak @ *1849*  
-  
 **Shrimp**  
 In name:   
- - Redhook Ale Breaded Shrimp @ *1849*  
+ - Popcorn Shrimp Basket @ *1849*  
   
 In description:   
  - Poke Bar @ *Gordon Global Kitchen*  
@@ -102,7 +98,6 @@ In name:
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
- - Brazilian Flank Steak @ *1849*  
  - Southwest Blended Burger @ *Gordon Fired Up*  
  - Vegan Taco Filling @ *Gordon Que Rico*  
   

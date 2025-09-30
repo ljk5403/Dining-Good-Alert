@@ -1,6 +1,6 @@
 # 2025-09-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-30 15:19:29  
+Updated at: 2025-09-30 16:15:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-30)  
 **curry**  
 In name:   
@@ -120,6 +120,14 @@ In description:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**drumstick**  
+In name:   
+ - Chicken Drumstick BBQ Glazed @ *1849*  
+  
+**Tilapia**  
+In name:   
+ - Blackened Tilapia @ *1849*  
+  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
@@ -143,6 +151,7 @@ In description:
 In name:   
  - Italian Chicken @ *Global Kitchen*  
  - Bone-in Greek Chicken @ *1849*  
+ - Chicken Drumstick BBQ Glazed @ *1849*  
  - Chicken Mole w/ Rice @ *Que Rico*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
  - Mediterranean Chicken @ *Create-A-Bowl*  
