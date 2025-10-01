@@ -1,6 +1,6 @@
 # 2025-10-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-01 11:23:08  
+Updated at: 2025-10-01 12:16:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-01)  
 **beef**  
 In name:   
@@ -79,6 +79,8 @@ In name:
  - Plant-Based Beef & Broccoli Stir Fry @ *Gordon Global Kitchen*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Bean Chili @ *Great Greens*  
+ - Roast Beef @ *Gordon Delicious*  
+ - Pork & Beef Hard Salami @ *Gordon Delicious*  
   
 In description:   
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
@@ -89,6 +91,12 @@ In name:
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Gluten Free Pork Sausage Pizza Quarter @ *Gordon Capital City Pizza*  
  - Pork Carnita @ *Gordon Que Rico*  
+ - Pork & Beef Hard Salami @ *Gordon Delicious*  
+  
+In description:   
+ - Bacon @ *Gordon Delicious*  
+ - Bacon Slice @ *Gordon Delicious*  
+ - Smoked Ham @ *Gordon Delicious*  
   
 **chicken**  
 In name:   
@@ -113,8 +121,6 @@ In name:
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Beef & Bean Chili @ *Great Greens*  
  - Protein - Beef Thinly Sliced @ *Create-A-Bowl*  
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Italian Meat Sauce @ *Global Kitchen*  
@@ -124,13 +130,9 @@ In description:
 In name:   
  - Apricot Glazed Pork @ *1849*  
  - Italian Sausage (Pork) w/ Pepper & Onion @ *Fired Up*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
- - Bacon Slice @ *Delicious*  
- - Smoked Ham @ *Delicious*  
- - Bacon @ *Delicious*  
   
 **chicken**  
 In name:   
