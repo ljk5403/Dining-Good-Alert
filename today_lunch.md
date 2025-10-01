@@ -1,6 +1,6 @@
 # 2025-10-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-01 12:16:18  
+Updated at: 2025-10-01 13:26:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-01)  
 **beef**  
 In name:   
@@ -117,6 +117,7 @@ In name:
   
 **beef**  
 In name:   
+ - Texas BBQ Sliced Beef Brisket @ *1849*  
  - Beef Hot Tamale Pie @ *1849*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Beef & Bean Chili @ *Great Greens*  
@@ -128,7 +129,6 @@ In description:
   
 **pork**  
 In name:   
- - Apricot Glazed Pork @ *1849*  
  - Italian Sausage (Pork) w/ Pepper & Onion @ *Fired Up*  
   
 In description:   
