@@ -1,6 +1,6 @@
 # 2025-10-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-01 10:18:32  
+Updated at: 2025-10-01 11:23:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-01)  
 **Beef Alicha**  
 In name:   
@@ -114,7 +114,7 @@ In name:
   
 In description:   
  - California Roll  (FujiSan) @ *Gordon Global Kitchen*  
- - Nori Roll - Tempura (FujiSan) @ *Gordon Global Kitchen*  
+ - Tempura Roll (FujiSan) @ *Gordon Global Kitchen*  
   
 **beef**  
 In name:   
@@ -149,15 +149,32 @@ In description:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Beef & Bean Chili @ *Great Greens*  
  - Protein - Beef Thinly Sliced @ *Create-A-Bowl*  
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Blackened Blended Hamburger @ *Fired Up*  
  - Italian Meat Sauce @ *Global Kitchen*  
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
+  
+**pork**  
+In name:   
+ - Pork & Beef Hard Salami @ *Delicious*  
+  
+In description:   
+ - Bacon @ *Delicious*  
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
+ - Bacon Slice @ *Delicious*  
+ - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   

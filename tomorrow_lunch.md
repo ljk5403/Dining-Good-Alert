@@ -1,6 +1,6 @@
 # 2025-10-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-01 10:18:35  
+Updated at: 2025-10-01 11:24:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-02)  
 **Cod**  
 In name:   
@@ -10,7 +10,7 @@ In name:
 In name:   
   
 In description:   
- - Nori Roll - Tempura (FujiSan) @ *Global Kitchen*  
+ - Tempura Roll (FujiSan) @ *Global Kitchen*  
   
 **beef**  
 In name:   
@@ -125,20 +125,32 @@ In name:
 In name:   
  - Grilled Flank Steak @ *1849*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **beef**  
 In name:   
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Grilled Flank Steak @ *1849*  
  - Grilled Blended Burger w/ Cheese @ *Fired Up*  
  - Pizza Slice Deluxe (Pork) @ *Que Rico*  
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
 In name:   
  - Pizza Slice Deluxe (Pork) @ *Que Rico*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Andouille Sausage @ *Global Kitchen*  
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
+ - Bacon Slice @ *Delicious*  
+ - Smoked Ham @ *Delicious*  
+ - Bacon @ *Delicious*  
   
 **chicken**  
 In name:   

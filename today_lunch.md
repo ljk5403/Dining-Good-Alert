@@ -1,6 +1,6 @@
 # 2025-10-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-01 10:18:29  
+Updated at: 2025-10-01 11:23:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-01)  
 **beef**  
 In name:   
@@ -10,7 +10,7 @@ In name:
  - Beef Pasta Tortellini @ *Buona Cucina*  
   
 In description:   
- - Pepperoni & Mushrooms Pizza @ *Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  
 In name:   
@@ -27,7 +27,7 @@ In name:
  - Fajita Chicken @ *Que Rico*  
   
 In description:   
- - Pepperoni & Mushrooms Pizza @ *Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-10-01)  
 **watermelon**  
@@ -70,7 +70,7 @@ In name:
   
 In description:   
  - California Roll  (FujiSan) @ *Gordon Global Kitchen*  
- - Nori Roll - Tempura (FujiSan) @ *Gordon Global Kitchen*  
+ - Tempura Roll (FujiSan) @ *Gordon Global Kitchen*  
   
 **beef**  
 In name:   
@@ -103,20 +103,34 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **beef**  
 In name:   
  - Beef Hot Tamale Pie @ *1849*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Beef & Bean Chili @ *Great Greens*  
  - Protein - Beef Thinly Sliced @ *Create-A-Bowl*  
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Italian Meat Sauce @ *Global Kitchen*  
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
 In name:   
  - Apricot Glazed Pork @ *1849*  
  - Italian Sausage (Pork) w/ Pepper & Onion @ *Fired Up*  
+ - Pork & Beef Hard Salami @ *Delicious*  
+  
+In description:   
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
+ - Bacon Slice @ *Delicious*  
+ - Smoked Ham @ *Delicious*  
+ - Bacon @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -129,10 +143,6 @@ In description:
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-10-01)  
-**Salmon**  
-In name:   
- - Ginger Glazed Salmon @ *Carson's 1849:  Available Between 11am-2pm*  
-  
 **beef**  
 In name:   
  - Goulash "Beef" Sauce (VN) @ *Global Kitchen:  Available Between 11am-2pm*  
@@ -154,6 +164,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Teriyaki Chicken Fillet @ *Carson's 1849:  Available Between 11am-2pm*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera:  Available Between 11am-2pm*  
   
 In description:   
@@ -167,7 +178,6 @@ In name:
   
 **curry**  
 In name:   
- - Vegan Curry Stew @ *Lowell Market*  
   
 In description:   
  - Chicken Madras @ *Lowell Market*  

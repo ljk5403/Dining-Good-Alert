@@ -1,6 +1,6 @@
 # 2025-10-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-01 10:18:38  
+Updated at: 2025-10-01 11:25:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-02)  
 **Salmon**  
 In name:   
@@ -11,7 +11,7 @@ In name:
   
 In description:   
  - Hoisin BBQ Glazed Salmon @ *1849*  
- - Nori Roll - Tempura (FujiSan) @ *Global Kitchen*  
+ - Tempura Roll (FujiSan) @ *Global Kitchen*  
   
 **curry**  
 In name:   
@@ -88,6 +88,8 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Roast Beef @ *Gordon Delicious*  
+ - Pork & Beef Hard Salami @ *Gordon Delicious*  
   
 In description:   
  - Brazilian Flank Steak @ *1849*  
@@ -100,6 +102,12 @@ In name:
  - Sausage (Pork) & Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Imperial Pork Stir Fry @ *Gordon Global Kitchen*  
  - Carolina BBQ Pork Sandwich @ *Fired Up*  
+ - Pork & Beef Hard Salami @ *Gordon Delicious*  
+  
+In description:   
+ - Bacon Slice @ *Gordon Delicious*  
+ - Smoked Ham @ *Gordon Delicious*  
+ - Bacon @ *Gordon Delicious*  
   
 **chicken**  
 In name:   
@@ -126,6 +134,10 @@ In name:
 In name:   
  - Duck Curry @ *1849*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **fish**  
 In name:   
   
@@ -139,16 +151,24 @@ In name:
 **beef**  
 In name:   
  - Beef Quesadilla @ *Fired Up*  
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Que Rico*  
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
 In name:   
  - Pork Loin Spicy Greenbush @ *1849*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Andouille Sausage @ *Global Kitchen*  
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
+ - Bacon Slice @ *Delicious*  
+ - Smoked Ham @ *Delicious*  
+ - Bacon @ *Delicious*  
   
 **chicken**  
 In name:   
