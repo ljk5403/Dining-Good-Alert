@@ -1,6 +1,6 @@
 # 2025-10-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-01 15:19:42  
+Updated at: 2025-10-01 16:16:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-01)  
 **Beef Alicha**  
 In name:   
@@ -189,6 +189,10 @@ In description:
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-10-01)  
+**Salmon**  
+In name:   
+ - Grilled Sesame Ginger Salmon @ *Global*  
+  
 **Shrimp**  
 In name:   
  - Shrimp & Krab Salad @ *Delicious*  
@@ -198,6 +202,7 @@ In name:
   
 In description:   
  - Shrimp & Krab Salad @ *Delicious*  
+ - Grilled Sesame Ginger Salmon @ *Global*  
  - Beef Masaman Thai Curry @ *Carson's 1849*  
   
 **curry**  
@@ -222,8 +227,8 @@ In name:
   
 **chicken**  
 In name:   
- - Teriyaki Chicken Fillet @ *Global*  
  - Buffalo Chicken Sliders @ *Fired Up*  
+ - Protein Plant-based: Chicken Tenders @ *Eggcetera*  
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  

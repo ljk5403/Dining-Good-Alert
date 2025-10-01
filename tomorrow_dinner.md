@@ -1,6 +1,6 @@
 # 2025-10-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-01 16:16:23  
+Updated at: 2025-10-01 17:15:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-02)  
 **Salmon**  
 In name:   
@@ -88,8 +88,6 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Roast Beef @ *Gordon Delicious*  
- - Pork & Beef Hard Salami @ *Gordon Delicious*  
   
 In description:   
  - Brazilian Flank Steak @ *1849*  
@@ -102,12 +100,6 @@ In name:
  - Sausage (Pork) & Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Imperial Pork Stir Fry @ *Gordon Global Kitchen*  
  - Carolina BBQ Pork Sandwich @ *Fired Up*  
- - Pork & Beef Hard Salami @ *Gordon Delicious*  
-  
-In description:   
- - Bacon Slice @ *Gordon Delicious*  
- - Smoked Ham @ *Gordon Delicious*  
- - Bacon @ *Gordon Delicious*  
   
 **chicken**  
 In name:   
@@ -151,8 +143,6 @@ In name:
 **beef**  
 In name:   
  - Beef Quesadilla @ *Fired Up*  
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Que Rico*  
@@ -161,14 +151,10 @@ In description:
 **pork**  
 In name:   
  - Pork Loin Spicy Greenbush @ *1849*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Andouille Sausage @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
- - Bacon Slice @ *Delicious*  
- - Smoked Ham @ *Delicious*  
- - Bacon @ *Delicious*  
   
 **chicken**  
 In name:   

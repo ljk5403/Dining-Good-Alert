@@ -1,6 +1,6 @@
 # 2025-10-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-01 16:16:27  
+Updated at: 2025-10-01 17:16:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-03)  
 **drumstick**  
 In name:   
@@ -122,8 +122,6 @@ In description:
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Shredded Beef Flauta @ *Gordon Que Rico*  
- - Roast Beef @ *Gordon Delicious*  
- - Pork & Beef Hard Salami @ *Gordon Delicious*  
   
 In description:   
  - Kielbasa with Pierogis @ *Gordon Eggcetera*  
@@ -133,13 +131,9 @@ In name:
  - Shrimp & Pork Andouille Sausage @ *Gordon Buona Cucina*  
  - Pizza Slice Chicken Cordon Bleu (Pork) @ *Gordon Capital City Pizza*  
  - Clam Chowder (Pork) @ *Great Greens*  
- - Pork & Beef Hard Salami @ *Gordon Delicious*  
   
 In description:   
  - Kielbasa with Pierogis @ *Gordon Eggcetera*  
- - Bacon Slice @ *Gordon Delicious*  
- - Smoked Ham @ *Gordon Delicious*  
- - Bacon @ *Gordon Delicious*  
   
 **chicken**  
 In name:   
@@ -198,8 +192,6 @@ In description:
 In name:   
  - Unit Made Sauce - Beef Ragu (AYCTE) @ *1849*  
  - Bulgogi Beef @ *Create-A-Bowl*  
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Grilled Blended Burger w/ Cheese @ *Fired Up*  
@@ -208,13 +200,9 @@ In description:
 **pork**  
 In name:   
  - Clam Chowder (Pork) @ *Great Greens*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
- - Bacon Slice @ *Delicious*  
- - Smoked Ham @ *Delicious*  
- - Bacon @ *Delicious*  
   
 **chicken**  
 In name:   

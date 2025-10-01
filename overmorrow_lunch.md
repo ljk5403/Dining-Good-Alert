@@ -1,6 +1,6 @@
 # 2025-10-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-01 16:16:25  
+Updated at: 2025-10-01 17:16:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-03)  
 **steak**  
 In name:   
@@ -122,20 +122,12 @@ In name:
  - Beef Bombay Curry @ *Gordon Global Kitchen*  
  - Beef Barbacoa @ *Gordon Que Rico*  
  - Beef Taco Meat @ *Gordon Que Rico*  
- - Roast Beef @ *Gordon Delicious*  
- - Pork & Beef Hard Salami @ *Gordon Delicious*  
   
 **pork**  
 In name:   
  - Shrimp & Pork Andouille Sausage @ *Gordon Buona Cucina*  
  - Pizza Slice Chicken Cordon Bleu (Pork) @ *Gordon Capital City Pizza*  
  - Clam Chowder (Pork) @ *Great Greens*  
- - Pork & Beef Hard Salami @ *Gordon Delicious*  
-  
-In description:   
- - Bacon @ *Gordon Delicious*  
- - Bacon Slice @ *Gordon Delicious*  
- - Smoked Ham @ *Gordon Delicious*  
   
 **chicken**  
 In name:   
@@ -191,8 +183,6 @@ In description:
 In name:   
  - Beef Taco Meat @ *Que Rico*  
  - Bulgogi Beef @ *Create-A-Bowl*  
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Sliced Kielbasa (Pork) @ *Global Kitchen*  
@@ -204,13 +194,9 @@ In name:
  - Sliced Kielbasa (Pork) @ *Global Kitchen*  
  - Pork Carnita @ *Que Rico*  
  - Clam Chowder (Pork) @ *Great Greens*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
- - Bacon Slice @ *Delicious*  
- - Smoked Ham @ *Delicious*  
- - Bacon @ *Delicious*  
   
 **chicken**  
 In name:   
