@@ -1,6 +1,6 @@
 # 2025-10-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-01 01:27:34  
+Updated at: 2025-10-01 09:18:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-01)  
 **beef**  
 In name:   
@@ -61,12 +61,6 @@ In description:
  - French Market Pork Jambalaya @ *1849*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-10-01)  
-**Vanilla Coconut Milk Yogurt**  
-In name:   
-  
-In description:   
- - Yogurt Bar @ *Great Greens*  
-  
 **catfish**  
 In name:   
  - Blackened Catfish @ *1849*  
@@ -104,9 +98,6 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Cajun Chicken Pasta @ *Gordon Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
-  
-In description:   
- - Gordon's Great Greens @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-10-01)  
 **watermelon**  
@@ -174,10 +165,6 @@ In description:
 **haddock**  
 In name:   
  - Baked Haddock w/Butter & Lemon @ *Lowell Market*  
-  
-**Cod**  
-In name:   
- - Battered Cod @ *Lowell Market*  
   
 **curry**  
 In name:   
