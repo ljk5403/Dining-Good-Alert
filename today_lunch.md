@@ -1,6 +1,6 @@
 # 2025-09-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-30 18:15:46  
+Updated at: 2025-09-30 20:37:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-09-30)  
 **Tandoori Chicken**  
 In name:   
@@ -124,6 +124,12 @@ In name:
 In name:   
  - Chicken Drumstick BBQ Glazed @ *Great Greens*  
   
+**Cod**  
+In name:   
+  
+In description:   
+ - Clam Chowder (Pork) @ *Great Greens*  
+  
 **Tilapia**  
 In name:   
  - Blackened Tilapia @ *1849*  
@@ -145,6 +151,7 @@ In description:
 **pork**  
 In name:   
  - Pork Carnita @ *Que Rico*  
+ - Clam Chowder (Pork) @ *Great Greens*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
@@ -153,7 +160,6 @@ In description:
 In name:   
  - Chicken Drumstick BBQ Glazed @ *Great Greens*  
  - Italian Chicken @ *Global Kitchen*  
- - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
  - Mediterranean Chicken @ *Create-A-Bowl*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-09-30)  

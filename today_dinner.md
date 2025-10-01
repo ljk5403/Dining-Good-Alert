@@ -1,6 +1,6 @@
 # 2025-09-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-09-30 18:16:09  
+Updated at: 2025-09-30 20:37:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-09-30)  
 **curry**  
 In name:   
@@ -9,6 +9,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Sirloin Tips @ *1849*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Beef Bombay Curry @ *Global Kitchen*  
  - Beef Mediterranean @ *Que Rico*  
@@ -24,7 +25,6 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken Paprikash @ *1849*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Chicken Salad @ *Delicious*  
@@ -74,6 +74,10 @@ In name:
  - Poke Bar @ *Gordon Global Kitchen*  
  - Build Your Own Poke Bar @ *Gordon Global Kitchen*  
   
+**drumstick**  
+In name:   
+ - Chicken Drumstick Zesty Orange @ *1849*  
+  
 **mahi mahi**  
 In name:   
  - Island Spiced Mahi Mahi @ *1849*  
@@ -98,19 +102,17 @@ In name:
 In name:   
  - Jalapeno Popper (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
  - Filipino Pork Sausage @ *Gordon Eggcetera*  
- - FiIipino Pork @ *Gordon Eggcetera*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
   
 **chicken**  
 In name:   
- - Jamaican Jerk Chicken @ *1849*  
+ - Chicken Drumstick Zesty Orange @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
- - Chicken Mole w/ Rice @ *Gordon Que Rico*  
+ - Chicken Mole w/ Rice @ *Fired Up*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
- - Crispy Chicken Sandwich @ *Fired Up*  
   
 In description:   
  - Gordon's Great Greens @ *Great Greens*  
@@ -119,6 +121,12 @@ In description:
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
+  
+**Cod**  
+In name:   
+  
+In description:   
+ - Clam Chowder (Pork) @ *Great Greens*  
   
 **Tuna**  
 In name:   
@@ -135,14 +143,15 @@ In description:
   
 **pork**  
 In name:   
+ - Clam Chowder (Pork) @ *Great Greens*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
 In name:   
- - Italian Chicken @ *Global Kitchen*  
- - Bone-in Greek Chicken @ *1849*  
+ - Giardiniera Chicken @ *Global Kitchen*  
+ - Chicken Baked  (1 piece) @ *1849*  
  - Chicken Mole w/ Rice @ *Que Rico*  
  - Mediterranean Chicken @ *Create-A-Bowl*  
   
