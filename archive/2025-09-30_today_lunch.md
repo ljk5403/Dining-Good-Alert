@@ -1,6 +1,6 @@
 # 2025-10-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-01 13:26:33  
+Updated at: 2025-10-01 15:19:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-01)  
 **beef**  
 In name:   
@@ -117,8 +117,6 @@ In name:
   
 **beef**  
 In name:   
- - Texas BBQ Sliced Beef Brisket @ *1849*  
- - Beef Hot Tamale Pie @ *1849*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Beef & Bean Chili @ *Great Greens*  
  - Protein - Beef Thinly Sliced @ *Create-A-Bowl*  
@@ -136,6 +134,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Mole w/ Rice @ *1849*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Chicken Wings Boneless Plain @ *Que Rico*  
  - Plant-Based Chicken Nuggets (6) @ *Que Rico*  
