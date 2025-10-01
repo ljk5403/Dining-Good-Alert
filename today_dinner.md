@@ -1,6 +1,6 @@
 # 2025-10-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-01 17:15:55  
+Updated at: 2025-10-01 18:15:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-01)  
 **Beef Alicha**  
 In name:   
@@ -173,6 +173,7 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Global Kitchen*  
+ - Chicken Mole w/ Rice @ *1849*  
  - Plant-Based Chicken Nuggets (6) @ *Que Rico*  
  - Chicken Wings Boneless Plain @ *Que Rico*  
  - Protein - Chicken Thinly Sliced @ *Create-A-Bowl*  
