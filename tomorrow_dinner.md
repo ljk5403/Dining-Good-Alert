@@ -1,6 +1,6 @@
 # 2025-10-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-02 01:26:52  
+Updated at: 2025-10-02 09:17:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-03)  
 **drumstick**  
 In name:   
@@ -48,6 +48,7 @@ In name:
  - Chicken Drumstick Teriyaki Glazed @ *1849*  
  - Diced Chicken Breast @ *Buona Cucina*  
  - Dan Dan w/ Chicken @ *Global Kitchen*  
+ - Chicken Salad @ *Delicious*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-10-03)  
 **watermelon**  
@@ -66,6 +67,8 @@ In name:
   
 **beef**  
 In name:   
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Burnt Ends @ *Global Kitchen*  
@@ -73,6 +76,11 @@ In description:
 **pork**  
 In name:   
  - Clam Chowder (Pork) @ *Great Greens*  
+ - Pork & Beef Hard Salami @ *Delicious*  
+  
+In description:   
+ - Smoked Ham @ *Delicious*  
+ - Bacon @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -121,6 +129,8 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Roast Beef @ *Gordon Delicious*  
+ - Pork & Beef Hard Salami @ *Gordon Delicious*  
  - Shredded Beef Flauta @ *Gordon Que Rico*  
   
 In description:   
@@ -130,9 +140,11 @@ In description:
 In name:   
  - Shrimp & Pork Andouille Sausage @ *Gordon Buona Cucina*  
  - Pizza Slice Chicken Cordon Bleu (Pork) @ *Gordon Capital City Pizza*  
+ - Pork & Beef Hard Salami @ *Gordon Delicious*  
  - Clam Chowder (Pork) @ *Great Greens*  
   
 In description:   
+ - Bacon @ *Gordon Delicious*  
  - Kielbasa with Pierogis @ *Gordon Eggcetera*  
   
 **chicken**  
@@ -230,17 +242,22 @@ In name:
   
 **beef**  
 In name:   
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE @ *Delicious*  
   
 **pork**  
 In name:   
+ - Pork & Beef Hard Salami @ *Delicious*  
  - Clam Chowder (Pork) @ *Great Greens*  
  - Pork Sausage Patty @ *Lowell Market*  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE @ *Delicious*  
+ - Smoked Ham @ *Delicious*  
+ - Bacon @ *Delicious*  
   
 **chicken**  
 In name:   

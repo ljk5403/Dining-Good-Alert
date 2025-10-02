@@ -1,6 +1,6 @@
 # 2025-10-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-02 01:26:55  
+Updated at: 2025-10-02 09:17:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-04)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-10-04)  
 **watermelon**  
@@ -10,12 +10,17 @@ In name:
 **beef**  
 In name:   
  - Beef Chimichurri Taco @ *Global Kitchen*  
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 **pork**  
 In name:   
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Kale, Sausage & Potato Soup @ *Great Greens*  
+ - Smoked Ham @ *Delicious*  
+ - Bacon @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -36,6 +41,8 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Roast Beef @ *Gordon Delicious*  
+ - Pork & Beef Hard Salami @ *Gordon Delicious*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Chili & Cheese Beef Hot Dog @ *Fired Up*  
   
@@ -48,6 +55,7 @@ In description:
 In name:   
  - Herb Crusted Pork Loin @ *1849*  
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
+ - Pork & Beef Hard Salami @ *Gordon Delicious*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  

@@ -1,6 +1,6 @@
 # 2025-10-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-02 01:26:50  
+Updated at: 2025-10-02 09:17:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-03)  
 **steak**  
 In name:   
@@ -51,6 +51,7 @@ In name:
  - Butter Chicken @ *Global Kitchen*  
  - Fajita Chicken @ *Que Rico*  
  - Diced Chicken Breast @ *Buona Cucina*  
+ - Chicken Salad @ *Delicious*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-10-03)  
 **watermelon**  
@@ -67,10 +68,20 @@ In description:
 In name:   
  - Black Eyed Pea Curry w/ Rice @ *1849*  
   
+**beef**  
+In name:   
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
+  
 **pork**  
 In name:   
  - Sri Lanka Deviled Pork @ *1849*  
  - Clam Chowder (Pork) @ *Great Greens*  
+ - Pork & Beef Hard Salami @ *Delicious*  
+  
+In description:   
+ - Smoked Ham @ *Delicious*  
+ - Bacon @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -119,6 +130,8 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Roast Beef @ *Gordon Delicious*  
+ - Pork & Beef Hard Salami @ *Gordon Delicious*  
  - Beef Bombay Curry @ *Gordon Global Kitchen*  
  - Beef Barbacoa @ *Gordon Que Rico*  
  - Beef Taco Meat @ *Gordon Que Rico*  
@@ -127,6 +140,7 @@ In name:
 In name:   
  - Shrimp & Pork Andouille Sausage @ *Gordon Buona Cucina*  
  - Pizza Slice Chicken Cordon Bleu (Pork) @ *Gordon Capital City Pizza*  
+ - Pork & Beef Hard Salami @ *Gordon Delicious*  
  - Clam Chowder (Pork) @ *Great Greens*  
   
 **chicken**  
@@ -222,17 +236,22 @@ In name:
   
 **beef**  
 In name:   
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE @ *Delicious*  
   
 **pork**  
 In name:   
+ - Pork & Beef Hard Salami @ *Delicious*  
  - Clam Chowder (Pork) @ *Great Greens*  
  - Pork Miso w/Yakisoba Noodles @ *Lowell Market*  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE @ *Delicious*  
+ - Smoked Ham @ *Delicious*  
+ - Bacon @ *Delicious*  
   
 **chicken**  
 In name:   

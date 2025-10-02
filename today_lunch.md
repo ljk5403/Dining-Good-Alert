@@ -1,6 +1,6 @@
 # 2025-10-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-02 01:26:47  
+Updated at: 2025-10-02 09:17:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-02)  
 **Cod**  
 In name:   
@@ -12,21 +12,31 @@ In name:
 In description:   
  - Tempura Roll (FujiSan) @ *Global Kitchen*  
   
+**curry**  
+In name:   
+ - Currywurst (Pork) @ *Fired Up*  
+ - Vegan Currywurst @ *Fired Up*  
+  
 **beef**  
 In name:   
  - Beef Mediterranean @ *Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
- - Reuben @ *Fired Up*  
+ - Currywurst (Pork) @ *Fired Up*  
   
 **pork**  
 In name:   
  - Spicy ChilI Rice Pork Chops @ *1849*  
+ - Currywurst (Pork) @ *Fired Up*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Chorizo Sauce @ *Buona Cucina*  
+ - Bacon @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -34,6 +44,7 @@ In name:
  - Chicken Noodle Soup @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
+ - Chicken Salad @ *Delicious*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
@@ -46,6 +57,8 @@ In name:
   
 **beef**  
 In name:   
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Bibimbap Bowl @ *Global Kitchen*  
@@ -55,18 +68,17 @@ In description:
 In name:   
  - Appetizer -  Fried Pork Potstickers @ *Global Kitchen*  
  - Brazilian Pork Feijoada @ *1849*  
+ - Pork & Beef Hard Salami @ *Delicious*  
+  
+In description:   
+ - Smoked Ham @ *Delicious*  
+ - Bacon @ *Delicious*  
   
 **chicken**  
 In name:   
  - Chicken Noodle Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-10-02)  
-**Vanilla Coconut Milk Yogurt**  
-In name:   
-  
-In description:   
- - Yogurt Bar @ *Great Greens*  
-  
 **Chicken Drummies**  
 In name:   
  - Chicken Drummies @ *Gordon Fired Up*  
@@ -86,6 +98,8 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Roast Beef @ *Gordon Delicious*  
+ - Pork & Beef Hard Salami @ *Gordon Delicious*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
@@ -96,6 +110,7 @@ In description:
 In name:   
  - Cajun Rice w/ Pork & Black Eyed Peas @ *1849*  
  - Sausage (Pork) & Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
+ - Pork & Beef Hard Salami @ *Gordon Delicious*  
   
 **chicken**  
 In name:   
@@ -110,7 +125,6 @@ In name:
   
 In description:   
  - Sausage (Pork) & Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
- - Gordon's Great Greens @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-10-02)  
 **watermelon**  
@@ -177,6 +191,8 @@ In name:
   
 **beef**  
 In name:   
+ - Roast Beef @ *Delicious:  Available Between 11am-4pm*  
+ - Pork & Beef Hard Salami @ *Delicious:  Available Between 11am-4pm*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza:  Available Between 11am-4pm*  
@@ -184,10 +200,12 @@ In description:
 **pork**  
 In name:   
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza:  Available Between 11am-4pm*  
+ - Pork & Beef Hard Salami @ *Delicious:  Available Between 11am-4pm*  
  - Herb Crusted Pork Loin @ *Global Kitchen:  Available Between 11am-2pm*  
   
 In description:   
  - Egg, Sausage & Cheese English Muffin @ *Delicious:  Available Between 11am-4pm*  
+ - Bacon @ *Delicious:  Available Between 11am-4pm*  
  - Ham Steak @ *Eggcetera:  Available Between 11am-2pm*  
   
 **chicken**  
@@ -209,6 +227,8 @@ In name:
   
 **beef**  
 In name:   
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
  - Beef Bombay Curry @ *Lowell Market*  
   
 In description:   
@@ -216,9 +236,12 @@ In description:
   
 **pork**  
 In name:   
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE @ *Delicious*  
+ - Smoked Ham @ *Delicious*  
+ - Bacon @ *Delicious*  
   
 **chicken**  
 In name:   

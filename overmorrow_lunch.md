@@ -1,18 +1,26 @@
 # 2025-10-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-02 01:26:53  
+Updated at: 2025-10-02 09:17:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-04)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-10-04)  
 **watermelon**  
 In name:   
  - Melon Watermelon Whole Sliced @ *Great Greens*  
   
+**beef**  
+In name:   
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
+  
 **pork**  
 In name:   
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Lumberjack Bowl w/Bacon @ *Global Kitchen*  
+ - Bacon @ *Delicious*  
  - Kale, Sausage & Potato Soup @ *Great Greens*  
+ - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -38,6 +46,8 @@ In name:
 In name:   
  - Beef Tri Tip Carved w/ Chimichurri @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Roast Beef @ *Gordon Delicious*  
+ - Pork & Beef Hard Salami @ *Gordon Delicious*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
@@ -48,6 +58,7 @@ In description:
 **pork**  
 In name:   
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
+ - Pork & Beef Hard Salami @ *Gordon Delicious*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
