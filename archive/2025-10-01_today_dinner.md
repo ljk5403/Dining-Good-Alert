@@ -1,6 +1,6 @@
 # 2025-10-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-02 13:25:20  
+Updated at: 2025-10-02 15:19:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-02)  
 **Salmon**  
 In name:   
@@ -122,22 +122,6 @@ In description:
  - Gordon's Great Greens @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-10-02)  
-**Tuna**  
-In name:   
- - Tuna Salad @ *Delicious*  
-  
-**beef**  
-In name:   
-  
-In description:   
- - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
-  
-**pork**  
-In name:   
-  
-In description:   
- - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
-  
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-10-02)  
 **Shrimp**  
 In name:   
@@ -188,6 +172,10 @@ In name:
  - Bulgogi Beef @ *Lowell Market*  
  - Bulgogi Chicken @ *Lowell Market*  
  - Bulgogi Portabella Mushrooms @ *Lowell Market*  
+  
+**haddock**  
+In name:   
+ - Baked Haddock w/Butter & Lemon @ *Lowell Market*  
   
 **curry**  
 In name:   
