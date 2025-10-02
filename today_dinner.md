@@ -1,6 +1,6 @@
 # 2025-10-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-01 18:15:36  
+Updated at: 2025-10-01 20:19:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-01)  
 **Beef Alicha**  
 In name:   
@@ -101,6 +101,10 @@ In description:
 In name:   
  - Country Fried Steak @ *1849*  
   
+**mahi mahi**  
+In name:   
+ - Island Spiced Mahi Mahi @ *Gordon Global Kitchen*  
+  
 **Cod**  
 In name:   
   
@@ -138,7 +142,6 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Cajun Chicken Pasta @ *Gordon Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
- - Sweet & Sour Chicken @ *Gordon Global Kitchen*  
  - Brown Stew w/ Chicken @ *Gordon Eggcetera*  
   
 In description:   
@@ -168,6 +171,7 @@ In description:
 In name:   
   
 In description:   
+ - Italian Sausage w/ Pepper & Onions @ *Fired Up*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
@@ -182,10 +186,6 @@ In description:
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-10-01)  
-**Salmon**  
-In name:   
- - Grilled Sesame Ginger Salmon @ *Global*  
-  
 **Shrimp**  
 In name:   
  - Shrimp & Krab Salad @ *Delicious*  
@@ -195,7 +195,6 @@ In name:
   
 In description:   
  - Shrimp & Krab Salad @ *Delicious*  
- - Grilled Sesame Ginger Salmon @ *Global*  
  - Beef Masaman Thai Curry @ *Carson's 1849*  
   
 **curry**  
@@ -211,6 +210,7 @@ In name:
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
  - Sausage (Pork) & Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Reuben @ *Global*  
   
 **pork**  
 In name:   
