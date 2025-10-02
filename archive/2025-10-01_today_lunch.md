@@ -1,6 +1,6 @@
 # 2025-10-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-02 09:17:11  
+Updated at: 2025-10-02 10:18:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-02)  
 **Cod**  
 In name:   
@@ -21,8 +21,6 @@ In name:
 In name:   
  - Beef Mediterranean @ *Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
@@ -32,11 +30,9 @@ In description:
 In name:   
  - Spicy ChilI Rice Pork Chops @ *1849*  
  - Currywurst (Pork) @ *Fired Up*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Chorizo Sauce @ *Buona Cucina*  
- - Bacon @ *Delicious*  
   
 **chicken**  
 In name:   

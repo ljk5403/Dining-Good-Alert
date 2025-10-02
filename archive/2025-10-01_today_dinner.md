@@ -1,6 +1,6 @@
 # 2025-10-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-02 09:17:14  
+Updated at: 2025-10-02 10:18:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-02)  
 **Salmon**  
 In name:   
@@ -17,8 +17,6 @@ In description:
 In name:   
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Beef Mediterranean @ *Que Rico*  
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Burnt Ends @ *1849*  
@@ -27,11 +25,9 @@ In description:
   
 **pork**  
 In name:   
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Chorizo Sauce @ *Buona Cucina*  
- - Bacon @ *Delicious*  
   
 **chicken**  
 In name:   
