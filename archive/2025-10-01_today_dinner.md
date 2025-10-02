@@ -1,6 +1,6 @@
 # 2025-10-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-02 01:26:49  
+Updated at: 2025-10-02 09:17:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-02)  
 **Salmon**  
 In name:   
@@ -13,27 +13,25 @@ In description:
  - Hoisin BBQ Glazed Salmon @ *1849*  
  - Tempura Roll (FujiSan) @ *Global Kitchen*  
   
-**curry**  
-In name:   
- - Currywurst (Pork) @ *Fired Up*  
- - Vegan Currywurst @ *Fired Up*  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Beef Mediterranean @ *Que Rico*  
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Burnt Ends @ *1849*  
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
- - Currywurst (Pork) @ *Fired Up*  
+ - Reuben @ *Fired Up*  
   
 **pork**  
 In name:   
- - Currywurst (Pork) @ *Fired Up*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Chorizo Sauce @ *Buona Cucina*  
+ - Bacon @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -41,6 +39,7 @@ In name:
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Mediterranean Chicken @ *Que Rico*  
  - Chicken Noodle Soup @ *Great Greens*  
+ - Chicken Salad @ *Delicious*  
   
 In description:   
  - Chorizo Sauce @ *Buona Cucina*  
@@ -54,10 +53,17 @@ In name:
 **beef**  
 In name:   
  - Beef Fajita @ *Global Kitchen*  
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 **pork**  
 In name:   
  - BBQ Pork Chop @ *1849*  
+ - Pork & Beef Hard Salami @ *Delicious*  
+  
+In description:   
+ - Smoked Ham @ *Delicious*  
+ - Bacon @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -88,6 +94,8 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Roast Beef @ *Gordon Delicious*  
+ - Pork & Beef Hard Salami @ *Gordon Delicious*  
   
 In description:   
  - Brazilian Flank Steak @ *1849*  
@@ -98,8 +106,12 @@ In description:
 **pork**  
 In name:   
  - Sausage (Pork) & Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
+ - Pork & Beef Hard Salami @ *Gordon Delicious*  
  - Imperial Pork Stir Fry @ *Gordon Global Kitchen*  
  - Carolina BBQ Pork Sandwich @ *Fired Up*  
+  
+In description:   
+ - Bacon @ *Gordon Delicious*  
   
 **chicken**  
 In name:   
@@ -114,55 +126,21 @@ In description:
  - Gordon's Great Greens @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-10-02)  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
-**Poke Bar**  
-In name:   
- - Build Your Own Poke Bar @ *Create-A-Bowl*  
-  
-**duck**  
-In name:   
- - Duck Curry @ *1849*  
-  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
   
-**fish**  
-In name:   
-  
-In description:   
- - Duck Curry @ *1849*  
-  
-**curry**  
-In name:   
- - Duck Curry @ *1849*  
-  
 **beef**  
 In name:   
- - Beef Quesadilla @ *Fired Up*  
   
 In description:   
- - Pepperoni Pizza Slice @ *Que Rico*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
 In name:   
- - Pork Loin Spicy Greenbush @ *1849*  
   
 In description:   
- - Andouille Sausage @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
-  
-**chicken**  
-In name:   
- - Chicken Noodle Soup @ *Great Greens*  
-  
-In description:   
- - Pepperoni Pizza Slice @ *Que Rico*  
- - Station Recipe - Great Greens - FLM @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-10-02)  
 **Shrimp**  
@@ -181,6 +159,8 @@ In description:
   
 **beef**  
 In name:   
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
@@ -188,6 +168,7 @@ In description:
 **pork**  
 In name:   
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
+ - Pork & Beef Hard Salami @ *Delicious*  
  - Filipino Pork Sausage @ *Global*  
  - Green Beans w/ Pork Bacon @ *Global*  
  - FiIipino Pork @ *Global*  
@@ -218,6 +199,8 @@ In name:
   
 **beef**  
 In name:   
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
  - Bulgogi Beef @ *Lowell Market*  
   
 In description:   
@@ -225,10 +208,13 @@ In description:
   
 **pork**  
 In name:   
+ - Pork & Beef Hard Salami @ *Delicious*  
  - Grilled Pork Potstickers @ *Lowell Market*  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE @ *Delicious*  
+ - Smoked Ham @ *Delicious*  
+ - Bacon @ *Delicious*  
   
 **chicken**  
 In name:   
