@@ -1,6 +1,6 @@
 # 2025-10-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-02 16:15:33  
+Updated at: 2025-10-02 17:15:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-02)  
 **Salmon**  
 In name:   
@@ -86,6 +86,10 @@ In name:
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
+  
+**curry**  
+In name:   
+ - Thai Veggie Meatballs w/ Green Curry @ *Gordon Global Kitchen*  
   
 **beef**  
 In name:   
