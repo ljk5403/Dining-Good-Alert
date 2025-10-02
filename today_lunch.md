@@ -1,6 +1,6 @@
 # 2025-10-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-02 13:25:15  
+Updated at: 2025-10-02 15:19:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-02)  
 **Cod**  
 In name:   
@@ -83,10 +83,6 @@ In name:
 In name:   
  - Spicy Steak Fajita @ *Gordon Que Rico*  
   
-**Shrimp**  
-In name:   
- - Shrimp Etouffee (AYCTE) @ *1849*  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
@@ -110,6 +106,7 @@ In name:
   
 **chicken**  
 In name:   
+ - Chicken Mole w/ Rice @ *1849*  
  - Plant-Based Chicken Etouffee @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Mediterranean Chicken @ *Gordon Buona Cucina*  
@@ -135,10 +132,6 @@ In name:
 In name:   
  - Grilled Flank Steak @ *1849*  
   
-**Tuna**  
-In name:   
- - Tuna Salad @ *Delicious*  
-  
 **beef**  
 In name:   
   
@@ -146,7 +139,6 @@ In description:
  - Grilled Flank Steak @ *1849*  
  - Grilled Blended Burger w/ Cheese @ *Fired Up*  
  - Pizza Slice Deluxe (Pork) @ *Que Rico*  
- - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
 In name:   
@@ -154,7 +146,6 @@ In name:
   
 In description:   
  - Andouille Sausage @ *Global Kitchen*  
- - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
 In name:   
