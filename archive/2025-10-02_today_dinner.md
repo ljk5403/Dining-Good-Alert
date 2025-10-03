@@ -1,6 +1,6 @@
 # 2025-10-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-03 15:19:10  
+Updated at: 2025-10-03 16:14:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-03)  
 **drumstick**  
 In name:   
@@ -111,6 +111,7 @@ In name:
 In name:   
  - Shrimp & Pork Andouille Sausage @ *Gordon Buona Cucina*  
  - Sauteed Shrimp @ *Gordon Buona Cucina*  
+ - Shrimp Curry - Mango @ *Gordon Global Kitchen*  
  - Popcorn Shrimp Basket @ *Fired Up*  
   
 **Cod**  
@@ -121,7 +122,7 @@ In description:
   
 **curry**  
 In name:   
- - Chicken Curry - Mango @ *Gordon Global Kitchen*  
+ - Shrimp Curry - Mango @ *Gordon Global Kitchen*  
   
 In description:   
  - Tofu & Vegetable Tikka Masala @ *Gordon Global Kitchen*  
@@ -152,7 +153,6 @@ In name:
  - Brazilian Chicken w/ Salsa Vinaigrette @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pizza Slice Chicken Cordon Bleu (Pork) @ *Gordon Capital City Pizza*  
- - Chicken Curry - Mango @ *Gordon Global Kitchen*  
  - Chicken and Cheese Flauta @ *Gordon Que Rico*  
   
 In description:   
