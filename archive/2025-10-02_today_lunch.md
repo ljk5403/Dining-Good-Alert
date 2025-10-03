@@ -1,6 +1,6 @@
 # 2025-10-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-03 12:14:40  
+Updated at: 2025-10-03 13:25:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-03)  
 **steak**  
 In name:   
@@ -152,10 +152,6 @@ In name:
  - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
  - Build Your Own Bulgogi Bar - Four Lakes @ *Create-A-Bowl*  
   
-**Salmon**  
-In name:   
- - Grilled Chipotle Salmon @ *1849*  
-  
 **Shrimp**  
 In name:   
   
@@ -200,6 +196,7 @@ In description:
 **chicken**  
 In name:   
  - Plant-Based Chicken & Dumplings @ *1849*  
+ - Chicken Mole w/ Rice @ *1849*  
  - Grilled Chicken Sandwich @ *Fired Up*  
  - Bulgogi Chicken @ *Create-A-Bowl*  
   
