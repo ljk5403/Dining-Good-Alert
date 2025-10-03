@@ -1,25 +1,35 @@
 # 2025-10-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-02 18:15:24  
+Updated at: 2025-10-02 20:18:52  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-02)  
-**Salmon**  
+**Beef Alicha**  
 In name:   
- - Hoisin BBQ Glazed Salmon @ *1849*  
+ - Beef Alicha @ *1849*  
   
 **fish**  
 In name:   
   
 In description:   
- - Hoisin BBQ Glazed Salmon @ *1849*  
  - Tempura Roll (FujiSan) @ *Global Kitchen*  
+  
+**lamb**  
+In name:   
+ - Lamb Vindaloo @ *1849*  
+  
+**curry**  
+In name:   
+  
+In description:   
+ - Lamb Vindaloo @ *1849*  
   
 **beef**  
 In name:   
+ - Beef Alicha @ *1849*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Beef Tortellini @ *Buona Cucina*  
  - Beef Mediterranean @ *Que Rico*  
   
 In description:   
- - Burnt Ends @ *1849*  
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
  - Reuben @ *Fired Up*  
   
@@ -75,10 +85,6 @@ In name:
 In description:   
  - Yogurt Bar @ *Great Greens*  
   
-**steak**  
-In name:   
- - Brazilian Flank Steak @ *1849*  
-  
 **BBQ Pork Sandwich**  
 In name:   
  - Carolina BBQ Pork Sandwich @ *Fired Up*  
@@ -98,7 +104,6 @@ In name:
  - Pork & Beef Hard Salami @ *Gordon Delicious*  
   
 In description:   
- - Brazilian Flank Steak @ *1849*  
  - Sausage (Pork) & Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Vegetarian Hot Tamale Pie @ *Gordon Que Rico*  
  - Chicago-Style Hot Dog @ *Gordon Eggcetera*  
@@ -117,7 +122,7 @@ In description:
 In name:   
  - Chicken Peruvian w/ Rice @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Mediterranean Chicken @ *Gordon Buona Cucina*  
+ - Giardiniera Chicken @ *Gordon Buona Cucina*  
  - Chicken Tamale with Oaxaca @ *Gordon Que Rico*  
  - Chicken Noodle Soup @ *Great Greens*  
   
