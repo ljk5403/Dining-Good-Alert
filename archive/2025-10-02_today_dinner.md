@@ -1,10 +1,10 @@
 # 2025-10-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-03 13:25:07  
+Updated at: 2025-10-03 15:19:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-03)  
 **drumstick**  
 In name:   
- - Chicken Drumstick Teriyaki Glazed @ *1849*  
+ - Chicken Drumstick Zesty Orange @ *1849*  
   
 **steak**  
 In name:   
@@ -45,7 +45,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Drumstick Teriyaki Glazed @ *1849*  
+ - Chicken Drumstick Zesty Orange @ *1849*  
  - Diced Chicken Breast @ *Buona Cucina*  
  - Dan Dan w/ Chicken @ *Global Kitchen*  
  - Chicken Salad @ *Delicious*  
