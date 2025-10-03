@@ -1,6 +1,6 @@
 # 2025-10-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-03 11:21:00  
+Updated at: 2025-10-03 12:14:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-03)  
 **steak**  
 In name:   
@@ -96,16 +96,13 @@ In name:
 In description:   
  - Montreal Chicken @ *1849*  
   
-**haddock**  
-In name:   
- - Haddock Ginger Glazed (AYCTE) @ *1849*  
-  
 **Shrimp**  
 In name:   
  - Sauteed Shrimp @ *Gordon Buona Cucina*  
   
 **Cod**  
 In name:   
+ - Lemon Pepper Cod Fillet @ *1849*  
   
 In description:   
  - Petite Fish Sandwich @ *Gordon Fired Up*  
