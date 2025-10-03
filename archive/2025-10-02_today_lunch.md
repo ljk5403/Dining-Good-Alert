@@ -1,6 +1,6 @@
 # 2025-10-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-03 01:26:26  
+Updated at: 2025-10-03 09:16:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-03)  
 **steak**  
 In name:   
@@ -91,15 +91,11 @@ In name:
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-10-03)  
-**Vanilla Coconut Milk Yogurt**  
+**steak**  
 In name:   
   
 In description:   
- - Yogurt Bar @ *Great Greens*  
-  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
+ - Montreal Chicken @ *1849*  
   
 **haddock**  
 In name:   
@@ -145,14 +141,13 @@ In name:
   
 **chicken**  
 In name:   
- - Honey Lime Chicken Breast @ *1849*  
+ - Montreal Chicken @ *1849*  
  - Plant-Based Chicken Lo Mein @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pizza Slice Chicken Cordon Bleu (Pork) @ *Gordon Capital City Pizza*  
   
 In description:   
  - Shrimp & Pork Andouille Sausage @ *Gordon Buona Cucina*  
- - Gordon's Great Greens @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-10-03)  
 **Bulgogi**  
@@ -162,10 +157,6 @@ In name:
  - Bulgogi Chicken @ *Create-A-Bowl*  
  - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
  - Build Your Own Bulgogi Bar - Four Lakes @ *Create-A-Bowl*  
-  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
   
 **Salmon**  
 In name:   
@@ -217,9 +208,6 @@ In name:
  - Plant-Based Chicken & Dumplings @ *1849*  
  - Grilled Chicken Sandwich @ *Fired Up*  
  - Bulgogi Chicken @ *Create-A-Bowl*  
-  
-In description:   
- - Station Recipe - Great Greens - FLM @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-10-03)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-10-03)  
