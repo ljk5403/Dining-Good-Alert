@@ -1,6 +1,6 @@
 # 2025-10-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-03 18:15:13  
+Updated at: 2025-10-03 20:16:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-03)  
 **drumstick**  
 In name:   
@@ -103,9 +103,9 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**Salmon**  
+**mahi mahi**  
 In name:   
- - Oven Roasted Salmon (AYCTE) @ *1849*  
+ - Island Spiced Mahi Mahi @ *1849*  
   
 **Shrimp**  
 In name:   
@@ -175,7 +175,6 @@ In name:
   
 **Shrimp**  
 In name:   
- - Sauteed Shrimp @ *Global Kitchen*  
   
 In description:   
  - BYO Bar - Four Lakes Bulgogi @ *Create-A-Bowl*  
@@ -211,6 +210,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Italian Sausage @ *Global Kitchen*  
  - Clam Chowder (Pork) @ *Great Greens*  
   
 In description:   
