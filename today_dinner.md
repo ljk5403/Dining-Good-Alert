@@ -1,6 +1,6 @@
 # 2025-10-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-04 13:22:27  
+Updated at: 2025-10-04 15:17:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-04)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-10-04)  
 **watermelon**  
@@ -59,6 +59,7 @@ In name:
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
+ - Bacon @ *Gordon Delicious*  
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 **chicken**  
@@ -67,7 +68,6 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
  - Chicken Tinga @ *Gordon Que Rico*  
- - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  

@@ -1,6 +1,6 @@
 # 2025-10-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-04 12:13:00  
+Updated at: 2025-10-04 13:22:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-04)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-10-04)  
 **watermelon**  
@@ -24,7 +24,7 @@ In description:
   
 **chicken**  
 In name:   
- - Grilled Buffalo Chicken Sandwich @ *Global Kitchen*  
+ - Crispy Buffalo Chicken Sandwich @ *Global Kitchen*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Global Kitchen*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
