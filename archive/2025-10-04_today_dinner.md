@@ -1,0 +1,116 @@
+# 2025-10-04 dinner  
+*THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
+Updated at: 2025-10-04 20:27:25  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-04)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-10-04)  
+**watermelon**  
+In name:   
+ - Melon Watermelon Whole Sliced @ *Great Greens*  
+  
+**beef**  
+In name:   
+ - Beef Chimichurri Taco @ *Global Kitchen*  
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
+  
+**pork**  
+In name:   
+ - Pork & Beef Hard Salami @ *Delicious*  
+  
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
+ - Smoked Ham @ *Delicious*  
+ - Bacon @ *Delicious*  
+  
+**chicken**  
+In name:   
+ - Plant Based Protein Chicken Taco Filling @ *Global Kitchen*  
+ - Chicken Taco Soft Shell (1) @ *Global Kitchen*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
+  
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
+  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-10-04)  
+**Vanilla Coconut Milk Yogurt**  
+In name:   
+  
+In description:   
+ - Yogurt Bar @ *Great Greens*  
+  
+**beef**  
+In name:   
+ - Beef Broccoli Stir Fry @ *1849*  
+ - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Roast Beef @ *Gordon Delicious*  
+ - Pork & Beef Hard Salami @ *Gordon Delicious*  
+ - Beef Taco Meat @ *Gordon Que Rico*  
+ - Chili & Cheese Beef Hot Dog @ *Fired Up*  
+  
+In description:   
+ - Italian Meat Sauce @ *Gordon Buona Cucina*  
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
+ - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
+  
+**pork**  
+In name:   
+ - Imperial Pork Stir Fry @ *1849*  
+ - Italian Pork Sausage @ *Gordon Buona Cucina*  
+ - Pork & Beef Hard Salami @ *Gordon Delicious*  
+  
+In description:   
+ - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
+ - Bacon @ *Gordon Delicious*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
+  
+**chicken**  
+In name:   
+ - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
+ - Chicken Tinga @ *Gordon Que Rico*  
+  
+In description:   
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
+ - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
+ - Gordon's Great Greens @ *Great Greens*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-10-04)  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
+  
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
+**beef**  
+In name:   
+ - Beef Broccoli Stir Fry @ *1849*  
+ - Beef Taco Meat @ *Que Rico*  
+  
+In description:   
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
+  
+**pork**  
+In name:   
+  
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
+  
+**chicken**  
+In name:   
+ - Crispy Chicken Sandwich @ *Fired Up*  
+ - Plant-Based Chicken Tenders @ *Fired Up*  
+ - Giardiniera Chicken @ *Global Kitchen*  
+ - Plant Based Sweet & Sour Chicken @ *1849*  
+ - Taco Chicken @ *Que Rico*  
+  
+In description:   
+ - Station Recipe - Great Greens - FLM @ *Great Greens*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
+  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-10-04)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-10-04)  
+  
