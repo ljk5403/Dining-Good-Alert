@@ -1,6 +1,6 @@
 # 2025-10-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-05 15:17:48  
+Updated at: 2025-10-05 16:14:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-06)  
 **drumstick**  
 In name:   
@@ -127,7 +127,6 @@ In description:
 **pork**  
 In name:   
  - Herb Crusted Pork Loin @ *1849*  
- - Italian Pork Sausage @ *Gordon Buona Cucina*  
   
 **chicken**  
 In name:   

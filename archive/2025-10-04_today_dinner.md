@@ -1,6 +1,6 @@
 # 2025-10-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-05 13:22:48  
+Updated at: 2025-10-05 15:17:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-05)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -57,7 +57,6 @@ In name:
 In description:   
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
- - Vegan Taco Filling @ *Gordon Que Rico*  
   
 **pork**  
 In name:   

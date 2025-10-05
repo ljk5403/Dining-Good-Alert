@@ -1,6 +1,6 @@
 # 2025-10-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-05 15:17:44  
+Updated at: 2025-10-05 16:14:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-05)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -46,6 +46,10 @@ In name:
 In description:   
  - Yogurt Bar @ *Great Greens*  
   
+**BBQ Pork Sandwich**  
+In name:   
+ - BBQ Pork Sandwich @ *Fired Up*  
+  
 **beef**  
 In name:   
  - Beef Stew @ *1849*  
@@ -61,9 +65,10 @@ In description:
 **pork**  
 In name:   
  - Boneless Baked Pork Ham @ *1849*  
+ - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Pork & Beef Hard Salami @ *Gordon Delicious*  
  - Pork Carnita @ *Gordon Que Rico*  
- - Pulled Pork Sandwich with Maw Maw Slaw @ *Fired Up*  
+ - BBQ Pork Sandwich @ *Fired Up*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
@@ -72,7 +77,6 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Giardiniera Chicken @ *Gordon Buona Cucina*  
  - Chicken Tortilla Soup @ *Great Greens*  
   
 In description:   
@@ -83,10 +87,6 @@ In description:
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
-  
-**Salmon**  
-In name:   
- - Tuscan Butter Salmon @ *1849*  
   
 **catfish**  
 In name:   
