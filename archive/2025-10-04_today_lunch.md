@@ -1,6 +1,6 @@
 # 2025-10-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-05 10:15:13  
+Updated at: 2025-10-05 11:19:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-05)  
 **Tuna**  
 In name:   
@@ -61,6 +61,7 @@ In description:
 **pork**  
 In name:   
  - Jerk Pork Chop @ *1849*  
+ - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Pork & Beef Hard Salami @ *Gordon Delicious*  
  - Biscuits & Pork Gravy @ *Gordon Eggcetera*  
  - Pork Carnita @ *Gordon Que Rico*  
@@ -71,7 +72,6 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Giardiniera Chicken @ *Gordon Buona Cucina*  
  - Chicken Tortilla Soup @ *Great Greens*  
   
 In description:   
