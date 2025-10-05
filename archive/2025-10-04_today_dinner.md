@@ -1,6 +1,6 @@
 # 2025-10-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-05 16:14:33  
+Updated at: 2025-10-05 17:15:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-05)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -108,7 +108,6 @@ In description:
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -117,6 +116,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Italian Sausage @ *Global Kitchen*  
  - French Market Pork Jambalaya @ *1849*  
  - Pork Carnita @ *Que Rico*  
   
@@ -125,7 +125,6 @@ In description:
   
 **chicken**  
 In name:   
- - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Chicken Tortilla Soup @ *Great Greens*  
   
 In description:   
