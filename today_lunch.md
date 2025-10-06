@@ -1,6 +1,6 @@
 # 2025-10-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-06 10:18:35  
+Updated at: 2025-10-06 11:22:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-06)  
 **Tuna**  
 In name:   
@@ -84,9 +84,6 @@ In name:
 In name:   
  - Vanilla Coconut Milk Yogurt @ *Great Greens*  
   
-In description:   
- - Yogurt Bar @ *Great Greens*  
-  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -126,7 +123,6 @@ In name:
   
 In description:   
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
- - Gordon's Great Greens @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-10-06)  
 **watermelon**  
@@ -156,6 +152,9 @@ In description:
 In name:   
  - Indian Curry Garbanzo Beans @ *Que Rico*  
  - Curry Potatoes @ *Que Rico*  
+  
+In description:   
+ - Pakora Sauce @ *Que Rico*  
   
 **beef**  
 In name:   
