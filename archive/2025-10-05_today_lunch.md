@@ -1,6 +1,6 @@
 # 2025-10-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-06 01:27:57  
+Updated at: 2025-10-06 09:18:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-06)  
 **Tuna**  
 In name:   
@@ -99,11 +99,6 @@ In name:
 In name:   
  - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
   
-**curry**  
-In name:   
- - Currywurst (Pork) @ *Gordon Fired Up*  
- - Vegan Currywurst @ *Gordon Fired Up*  
-  
 **beef**  
 In name:   
  - Island Spiced Beef Steak @ *1849*  
@@ -114,13 +109,12 @@ In name:
 In description:   
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
- - Currywurst (Pork) @ *Gordon Fired Up*  
+ - Grilled Cheeseburger @ *Gordon Fired Up*  
   
 **pork**  
 In name:   
  - Pork Loin Spicy Greenbush @ *1849*  
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
- - Currywurst (Pork) @ *Gordon Fired Up*  
   
 **chicken**  
 In name:   
@@ -180,9 +174,6 @@ In name:
  - Chicken Vindaloo @ *Que Rico*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
-  
-In description:   
- - Station Recipe - Great Greens - FLM @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-10-06)  
 **BBQ Pork Sandwich**  
