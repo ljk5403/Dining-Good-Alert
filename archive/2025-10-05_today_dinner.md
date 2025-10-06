@@ -1,0 +1,177 @@
+# 2025-10-05 dinner  
+*THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
+Updated at: 2025-10-05 20:21:18  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-05)  
+**BBQ Pork Sandwich**  
+In name:   
+ - BBQ Pork Sandwich @ *Fired Up*  
+  
+**beef**  
+In name:   
+ - Beef Taco Meat @ *Que Rico*  
+  
+In description:   
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Vegan Taco Filling @ *Que Rico*  
+  
+**pork**  
+In name:   
+ - Italian Pork Sausage @ *Buona Cucina*  
+ - BBQ Pork Sandwich @ *Fired Up*  
+ - Pork Carnita @ *Que Rico*  
+  
+In description:   
+ - Gnocchi w/ Sausage & Roast Veg @ *1849*  
+  
+**chicken**  
+In name:   
+ - Chicken Tenders Breaded @ *1849*  
+ - Plant-Based Chicken Tenders @ *1849*  
+ - Chicken Teriyaki Stir Fry @ *Global Kitchen*  
+ - Fajita Chicken @ *Que Rico*  
+ - Chicken Tortilla Soup @ *Great Greens*  
+  
+In description:   
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
+  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-10-05)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-10-05)  
+**Vanilla Coconut Milk Yogurt**  
+In name:   
+  
+In description:   
+ - Yogurt Bar @ *Great Greens*  
+  
+**BBQ Pork Sandwich**  
+In name:   
+ - BBQ Pork Sandwich @ *Fired Up*  
+  
+**mahi mahi**  
+In name:   
+ - Island Spiced Mahi Mahi @ *1849*  
+  
+**beef**  
+In name:   
+ - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Roast Beef @ *Gordon Delicious*  
+ - Pork & Beef Hard Salami @ *Gordon Delicious*  
+ - Beef Barbacoa @ *Gordon Que Rico*  
+ - Beef Taco Meat @ *Gordon Que Rico*  
+  
+In description:   
+ - Italian Meat Sauce @ *Gordon Buona Cucina*  
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
+  
+**pork**  
+In name:   
+ - Boneless Baked Pork Ham @ *1849*  
+ - Italian Pork Sausage @ *Gordon Buona Cucina*  
+ - Pork & Beef Hard Salami @ *Gordon Delicious*  
+ - BBQ Pork Sandwich @ *Fired Up*  
+  
+In description:   
+ - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
+ - Bacon @ *Gordon Delicious*  
+  
+**chicken**  
+In name:   
+ - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Chicken Tortilla Soup @ *Great Greens*  
+  
+In description:   
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
+ - Gordon's Great Greens @ *Great Greens*  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-10-05)  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
+  
+**catfish**  
+In name:   
+ - Garlic Baked Catfish @ *1849*  
+  
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
+**fish**  
+In name:   
+ - Garlic Baked Catfish @ *1849*  
+  
+**curry**  
+In name:   
+  
+In description:   
+ - Citrus Couscous (VN) (AYCTE) @ *1849*  
+  
+**beef**  
+In name:   
+ - Beef Mediterranean @ *Que Rico*  
+  
+In description:   
+ - Grilled Blended Burger w/ Cheese @ *Fired Up*  
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
+  
+**pork**  
+In name:   
+ - French Market Pork Jambalaya @ *1849*  
+ - Pork Carnita @ *Que Rico*  
+  
+In description:   
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
+  
+**chicken**  
+In name:   
+ - Giardiniera Chicken @ *Global Kitchen*  
+ - Chicken Tortilla Soup @ *Great Greens*  
+  
+In description:   
+ - French Market Pork Jambalaya @ *1849*  
+ - Station Recipe - Great Greens - FLM @ *Great Greens*  
+  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-10-05)  
+**Chicken Drummies**  
+In name:   
+ - Chicken Drummies @ *Eggcetera*  
+  
+**catfish**  
+In name:   
+ - Island Spiced Catfish @ *Carson's 1849*  
+  
+**fish**  
+In name:   
+ - Island Spiced Catfish @ *Carson's 1849*  
+  
+**curry**  
+In name:   
+ - Curry Potatoes @ *Global*  
+  
+**beef**  
+In name:   
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
+ - Beef Stroganoff Creamy @ *Global*  
+  
+In description:   
+ - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza*  
+ - Chicago-Style Hot Dog @ *Fired Up*  
+  
+**pork**  
+In name:   
+ - Pork & Beef Hard Salami @ *Delicious*  
+  
+In description:   
+ - Pizza Slice Sausage @ *Capital City Pizza*  
+ - Bacon @ *Delicious*  
+  
+**chicken**  
+In name:   
+ - Chicken Tortilla Soup @ *Great Greens*  
+ - Chicken Drummies @ *Eggcetera*  
+  
+In description:   
+ - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza*  
+  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-10-05)  
+  
