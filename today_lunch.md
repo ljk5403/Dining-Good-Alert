@@ -1,6 +1,6 @@
 # 2025-10-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-06 13:27:01  
+Updated at: 2025-10-06 15:19:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-06)  
 **Tuna**  
 In name:   
@@ -129,10 +129,6 @@ In description:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**broccoli rabe**  
-In name:   
- - Broccoli Rabe @ *1849*  
-  
 **Pakoras**  
 In name:   
  - Appetizer -  Pakoras Vegetable (Veg) @ *Que Rico*  
@@ -145,11 +141,13 @@ In name:
 In name:   
   
 In description:   
+ - Beef Masaman Thai Curry @ *1849*  
  - California Roll  (FujiSan) @ *Create-A-Bowl*  
  - Tempura Roll (FujiSan) @ *Create-A-Bowl*  
   
 **curry**  
 In name:   
+ - Beef Masaman Thai Curry @ *1849*  
  - Indian Curry Garbanzo Beans @ *Que Rico*  
  - Curry Potatoes @ *Que Rico*  
   
@@ -158,7 +156,7 @@ In description:
   
 **beef**  
 In name:   
- - Beef Stroganoff Creamy @ *1849*  
+ - Beef Masaman Thai Curry @ *1849*  
   
 In description:   
  - Reuben Knockwurst (Pork) on Pretzel Bun @ *Fired Up*  

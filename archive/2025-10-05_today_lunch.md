@@ -1,6 +1,6 @@
 # 2025-10-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-06 12:16:37  
+Updated at: 2025-10-06 13:27:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-06)  
 **Tuna**  
 In name:   
@@ -174,10 +174,15 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Coq Au Vin Blanc w/Bacon @ *1849*  
  - Chicken Vindaloo @ *Que Rico*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-10-06)  
+**steak**  
+In name:   
+ - Beef Flank Steak @ *Global Kitchen:  Available Between 11am-2pm*  
+  
 **BBQ Pork Sandwich**  
 In name:   
  - BBQ Pork Sandwich @ *Fired Up:  Available Between 11am-2pm*  
@@ -186,7 +191,7 @@ In name:
 In name:   
  - Roast Beef @ *Delicious:  Available Between 11am-4pm*  
  - Pork & Beef Hard Salami @ *Delicious:  Available Between 11am-4pm*  
- - Beef Tri Tip Carved w/ Chimichurri @ *Global Kitchen:  Available Between 11am-2pm*  
+ - Beef Flank Steak @ *Global Kitchen:  Available Between 11am-2pm*  
   
 **pork**  
 In name:   
