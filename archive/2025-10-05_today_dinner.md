@@ -1,6 +1,6 @@
 # 2025-10-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-06 15:19:45  
+Updated at: 2025-10-06 16:15:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-06)  
 **drumstick**  
 In name:   
@@ -172,12 +172,14 @@ In name:
 In name:   
   
 In description:   
+ - Beef Masaman Thai Curry @ *1849*  
  - Coconut Thai Curry Mahi Mahi @ *Que Rico*  
  - California Roll  (FujiSan) @ *Create-A-Bowl*  
  - Tempura Roll (FujiSan) @ *Create-A-Bowl*  
   
 **curry**  
 In name:   
+ - Beef Masaman Thai Curry @ *1849*  
  - Curry Potatoes @ *Que Rico*  
  - Coconut Thai Curry Mahi Mahi @ *Que Rico*  
  - Indian Curry Garbanzo Beans @ *Que Rico*  
@@ -187,21 +189,24 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Masaman Thai Curry @ *1849*  
   
 In description:   
+ - Knockwurst @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
 In name:   
- - Italian Pork Sausage @ *Global Kitchen*  
   
 In description:   
+ - Knockwurst @ *Global Kitchen*  
  - Hot Ham Sandwich @ *1849*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
 In name:   
  - Chicken Drumstick BBQ Glazed @ *1849*  
+ - Chicken Vindaloo @ *Que Rico*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 In description:   
@@ -251,6 +256,7 @@ In name:
 In name:   
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
+ - Beef & Chicken Meatballs @ *Lowell Market*  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE @ *Delicious*  
@@ -269,5 +275,6 @@ In description:
 In name:   
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Breaded Chicken Parmigiana @ *Lowell Market*  
+ - Beef & Chicken Meatballs @ *Lowell Market*  
   
   

@@ -1,6 +1,6 @@
 # 2025-10-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-06 16:15:37  
+Updated at: 2025-10-06 17:16:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-07)  
 **Pakoras**  
 In name:   
