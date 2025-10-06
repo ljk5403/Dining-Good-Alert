@@ -1,6 +1,6 @@
 # 2025-10-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-06 13:27:02  
+Updated at: 2025-10-06 15:19:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-06)  
 **drumstick**  
 In name:   
@@ -152,13 +152,9 @@ In name:
 In name:   
  - Chicken Drumstick BBQ Glazed @ *1849*  
   
-**Samosas**  
+**Pakoras**  
 In name:   
- - Samosas @ *Que Rico*  
-  
-**Salmon**  
-In name:   
- - Salmon Tandoori Roasted @ *Que Rico*  
+ - Appetizer -  Pakoras Vegetable (Veg) @ *Que Rico*  
   
 **mahi mahi**  
 In name:   
@@ -185,6 +181,9 @@ In name:
  - Curry Potatoes @ *Que Rico*  
  - Coconut Thai Curry Mahi Mahi @ *Que Rico*  
  - Indian Curry Garbanzo Beans @ *Que Rico*  
+  
+In description:   
+ - Pakora Sauce @ *Que Rico*  
   
 **beef**  
 In name:   
