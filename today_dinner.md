@@ -1,6 +1,6 @@
 # 2025-10-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-05 18:14:18  
+Updated at: 2025-10-05 20:21:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-05)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -46,13 +46,16 @@ In description:
 In name:   
  - BBQ Pork Sandwich @ *Fired Up*  
   
+**mahi mahi**  
+In name:   
+ - Island Spiced Mahi Mahi @ *1849*  
+  
 **beef**  
 In name:   
- - Beef Stew @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Roast Beef @ *Gordon Delicious*  
  - Pork & Beef Hard Salami @ *Gordon Delicious*  
- - Beef Fajita @ *Gordon Que Rico*  
+ - Beef Barbacoa @ *Gordon Que Rico*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
@@ -112,7 +115,6 @@ In description:
   
 **pork**  
 In name:   
- - Pork Italian Sausage @ *Global Kitchen*  
  - French Market Pork Jambalaya @ *1849*  
  - Pork Carnita @ *Que Rico*  
   
@@ -121,6 +123,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Giardiniera Chicken @ *Global Kitchen*  
  - Chicken Tortilla Soup @ *Great Greens*  
   
 In description:   
