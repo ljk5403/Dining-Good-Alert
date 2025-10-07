@@ -1,6 +1,6 @@
 # 2025-10-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-07 12:15:54  
+Updated at: 2025-10-07 13:26:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-07)  
 **Pakoras**  
 In name:   
@@ -139,6 +139,10 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**drumstick**  
+In name:   
+ - Chicken Drumstick @ *1849*  
+  
 **mahi mahi**  
 In name:   
  - Blackened Mahi Mahi @ *1849*  
@@ -160,7 +164,7 @@ In description:
   
 **chicken**  
 In name:   
- - Smoked Chicken Breast @ *1849*  
+ - Chicken Drumstick @ *1849*  
  - Grilled Chicken Sandwich @ *Fired Up*  
  - Italian Chicken @ *Global Kitchen*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
