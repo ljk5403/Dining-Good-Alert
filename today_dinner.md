@@ -1,11 +1,7 @@
 # 2025-10-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-06 18:16:00  
+Updated at: 2025-10-06 20:19:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-06)  
-**drumstick**  
-In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
-  
 **Tilapia**  
 In name:   
  - Tilapia Veracruz @ *Que Rico*  
@@ -14,19 +10,13 @@ In name:
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
   
-**fish**  
-In name:   
-  
-In description:   
- - Thai BBQ Pork Ribs @ *Global Kitchen*  
-  
 **curry**  
 In name:   
- - Thai Veggie Meatballs w/ Green Curry @ *1849*  
  - VEGAN Thai Chick'n w/ Green Curry (VN) @ *Global Kitchen*  
   
 **beef**  
 In name:   
+ - Beef Mediterranean @ *1849*  
  - Beef Ravioli Plain @ *Buona Cucina*  
   
 In description:   
@@ -38,14 +28,14 @@ In description:
 In name:   
  - Sausage (Pork), Potatoes, & Peppers @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
- - Thai BBQ Pork Ribs @ *Global Kitchen*  
   
 In description:   
  - Pizza Slice Sausage @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
+ - Crispy Chicken Sandwich @ *Fired Up*  
+ - Dan Dan w/ Chicken @ *Global Kitchen*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-10-06)  
@@ -77,7 +67,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Shawarma Sandwich @ *1849*  
+ - Chicken Tinga @ *1849*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
@@ -93,19 +83,9 @@ In description:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**steak**  
-In name:   
- - Smothered Steak Burrito @ *Gordon Que Rico*  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Poulet Braise @ *Gordon Eggcetera*  
   
 **curry**  
 In name:   
@@ -117,17 +97,18 @@ In description:
 In name:   
  - Beef Ravioli w/Tomato Sauce @ *Gordon Buona Cucina*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
  - Swedish Meatballs (AYCTE) @ *1849*  
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
- - Smothered Steak Burrito @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
  - Herb Crusted Pork Loin @ *1849*  
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
+ - Cajun Rice w/ Pork & Black Eyed Peas @ *Gordon Eggcetera*  
   
 **chicken**  
 In name:   
@@ -141,7 +122,6 @@ In description:
  - Swedish Meatballs (AYCTE) @ *1849*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
  - Gordon's Great Greens @ *Great Greens*  
- - Poulet Braise @ *Gordon Eggcetera*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-10-06)  
 **watermelon**  
@@ -192,14 +172,13 @@ In name:
  - Beef Masaman Thai Curry @ *1849*  
   
 In description:   
- - Knockwurst @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
 In name:   
+ - Pork Italian Sausage @ *Global Kitchen*  
   
 In description:   
- - Knockwurst @ *Global Kitchen*  
  - Hot Ham Sandwich @ *1849*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
