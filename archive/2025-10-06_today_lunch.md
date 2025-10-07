@@ -1,6 +1,6 @@
 # 2025-10-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-07 01:27:08  
+Updated at: 2025-10-07 09:19:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-07)  
 **Pakoras**  
 In name:   
@@ -92,12 +92,6 @@ In name:
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-10-07)  
-**Vanilla Coconut Milk Yogurt**  
-In name:   
-  
-In description:   
- - Yogurt Bar @ *Great Greens*  
-  
 **drumstick**  
 In name:   
   
@@ -133,9 +127,6 @@ In name:
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Butter Chicken @ *Gordon Global Kitchen*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
-  
-In description:   
- - Gordon's Great Greens @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-10-07)  
 **watermelon**  
