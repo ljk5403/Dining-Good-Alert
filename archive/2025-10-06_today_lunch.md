@@ -1,6 +1,6 @@
 # 2025-10-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-07 09:19:07  
+Updated at: 2025-10-07 10:19:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-07)  
 **Pakoras**  
 In name:   
@@ -103,6 +103,12 @@ In name:
  - Philly Cheesesteak Sandwich @ *Gordon Fired Up*  
  - Tempeh Philly Cheesesteak Sandwich @ *Gordon Fired Up*  
   
+**curry**  
+In name:   
+  
+In description:   
+ - Tikka Masala Chicken @ *Gordon Global Kitchen*  
+  
 **beef**  
 In name:   
  - Beef Sirloin Tips @ *1849*  
@@ -125,7 +131,7 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
- - Butter Chicken @ *Gordon Global Kitchen*  
+ - Tikka Masala Chicken @ *Gordon Global Kitchen*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-10-07)  
