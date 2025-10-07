@@ -1,6 +1,6 @@
 # 2025-10-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-07 15:19:28  
+Updated at: 2025-10-07 16:15:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-07)  
 **Pakoras**  
 In name:   
@@ -216,6 +216,14 @@ In description:
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-10-07)  
+**haddock**  
+In name:   
+ - Baked Haddock w/Butter & Lemon @ *Lowell Market*  
+  
+**Salmon**  
+In name:   
+ - Baked Salmon w/ Lemon Dill Sauce @ *Lowell Market*  
+  
 **curry**  
 In name:   
  - Garbanzo Bean Curry @ *Lowell Market*  
@@ -245,5 +253,8 @@ In description:
 In name:   
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
  - Autumn Chicken @ *Lowell Market*  
+  
+In description:   
+ - Baked Salmon w/ Lemon Dill Sauce @ *Lowell Market*  
   
   
