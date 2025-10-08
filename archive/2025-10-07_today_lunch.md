@@ -1,6 +1,6 @@
 # 2025-10-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-08 09:18:32  
+Updated at: 2025-10-08 10:19:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-08)  
 **broccoli rabe**  
 In name:   
@@ -19,6 +19,7 @@ In name:
   
 In description:   
  - Sliced Kielbasa (Pork) @ *1849*  
+ - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
  - Vegan Sloppy Joe @ *Fired Up*  
   
 **pork**  
@@ -28,14 +29,14 @@ In name:
  - FiIipino Pork @ *Global Kitchen*  
  - Italian Pork Sausage @ *Buona Cucina*  
   
-In description:   
- - Pizza Slice Sausage @ *Capital City Pizza*  
-  
 **chicken**  
 In name:   
  - Chicken Parmigiana @ *1849*  
  - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
  - Fajita Chicken @ *Que Rico*  
+  
+In description:   
+ - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-10-08)  
 **watermelon**  
@@ -68,9 +69,9 @@ In name:
  - Chicken Teriyaki Stir Fry @ *1849*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-10-08)  
-**mahi mahi**  
+**Tilapia**  
 In name:   
- - Baked Mahi Mahi w/ Butter & Lemon @ *1849*  
+ - Blackened Tilapia @ *1849*  
   
 **fish**  
 In name:   
