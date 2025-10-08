@@ -1,6 +1,6 @@
 # 2025-10-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-08 01:27:54  
+Updated at: 2025-10-08 09:18:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-10)  
 **Shrimp**  
 In name:   
@@ -59,20 +59,10 @@ In name:
 In description:   
  - Chicken Ala King over Biscuit @ *Global Kitchen*  
   
-**beef**  
-In name:   
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
-  
 **pork**  
 In name:   
  - Herb Crusted Pork Loin @ *1849*  
  - Clam Chowder (Pork) @ *Great Greens*  
- - Pork & Beef Hard Salami @ *Delicious*  
-  
-In description:   
- - Smoked Ham @ *Delicious*  
- - Bacon @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -225,8 +215,6 @@ In description:
   
 **beef**  
 In name:   
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE @ *Delicious*  
@@ -234,13 +222,10 @@ In description:
   
 **pork**  
 In name:   
- - Pork & Beef Hard Salami @ *Delicious*  
  - Clam Chowder (Pork) @ *Great Greens*  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE @ *Delicious*  
- - Smoked Ham @ *Delicious*  
- - Bacon @ *Delicious*  
   
 **chicken**  
 In name:   

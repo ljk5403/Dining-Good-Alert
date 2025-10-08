@@ -1,6 +1,6 @@
 # 2025-10-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-08 01:27:50  
+Updated at: 2025-10-08 09:18:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-09)  
 **Tuna**  
 In name:   
@@ -50,16 +50,6 @@ In name:
 **beef**  
 In name:   
  - Beef Stroganoff Creamy - UM (AYCTE) w/o @ *1849*  
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
-  
-**pork**  
-In name:   
- - Pork & Beef Hard Salami @ *Delicious*  
-  
-In description:   
- - Smoked Ham @ *Delicious*  
- - Bacon @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -167,8 +157,6 @@ In name:
   
 **beef**  
 In name:   
- - Roast Beef @ *Delicious:  Available Between 11am-4pm*  
- - Pork & Beef Hard Salami @ *Delicious:  Available Between 11am-4pm*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza:  Available Between 11am-4pm*  
@@ -176,10 +164,8 @@ In description:
 **pork**  
 In name:   
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza:  Available Between 11am-4pm*  
- - Pork & Beef Hard Salami @ *Delicious:  Available Between 11am-4pm*  
   
 In description:   
- - Bacon @ *Delicious:  Available Between 11am-4pm*  
  - Ham Steak @ *Eggcetera:  Available Between 11am-2pm*  
   
 **chicken**  
@@ -197,8 +183,6 @@ In name:
   
 **beef**  
 In name:   
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
  - Lamb & Beef Gyro Sandwich @ *Lowell Market*  
   
 In description:   
@@ -207,12 +191,9 @@ In description:
   
 **pork**  
 In name:   
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE @ *Delicious*  
- - Smoked Ham @ *Delicious*  
- - Bacon @ *Delicious*  
  - Zupa Gulaszowa @ *Lowell Market*  
   
 **chicken**  

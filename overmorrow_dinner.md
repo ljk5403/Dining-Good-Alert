@@ -1,6 +1,6 @@
 # 2025-10-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-08 01:27:55  
+Updated at: 2025-10-08 09:18:52  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-10)  
 **Shrimp**  
 In name:   
@@ -53,8 +53,6 @@ In description:
 **beef**  
 In name:   
  - Beef & Tater Tot Bake @ *1849*  
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Baked Corn Dog (Pork) @ *Global Kitchen*  
@@ -64,11 +62,6 @@ In name:
  - Baked Corn Dog (Pork) @ *Global Kitchen*  
  - Grilled Chicken Monterey Sandwich (Pork) @ *Global Kitchen*  
  - Clam Chowder (Pork) @ *Great Greens*  
- - Pork & Beef Hard Salami @ *Delicious*  
-  
-In description:   
- - Smoked Ham @ *Delicious*  
- - Bacon @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -224,8 +217,6 @@ In description:
   
 **beef**  
 In name:   
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
  - Plant-Based Beef Lo Mein @ *Lowell Market*  
   
 In description:   
@@ -235,14 +226,11 @@ In description:
   
 **pork**  
 In name:   
- - Pork & Beef Hard Salami @ *Delicious*  
  - Clam Chowder (Pork) @ *Great Greens*  
  - Brazilian Pork Feijoada @ *Lowell Market*  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE @ *Delicious*  
- - Smoked Ham @ *Delicious*  
- - Bacon @ *Delicious*  
   
 **chicken**  
 In name:   

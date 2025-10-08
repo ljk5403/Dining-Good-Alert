@@ -1,6 +1,6 @@
 # 2025-10-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-08 01:27:52  
+Updated at: 2025-10-08 09:18:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-09)  
 **Chicken Drummies**  
 In name:   
@@ -57,19 +57,9 @@ In name:
   
 **beef**  
 In name:   
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Country Fried Steak @ *1849*  
-  
-**pork**  
-In name:   
- - Pork & Beef Hard Salami @ *Delicious*  
-  
-In description:   
- - Smoked Ham @ *Delicious*  
- - Bacon @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -195,8 +185,6 @@ In name:
   
 **beef**  
 In name:   
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
@@ -204,7 +192,6 @@ In description:
 **pork**  
 In name:   
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
- - Pork & Beef Hard Salami @ *Delicious*  
  - Green Beans w/ Pork Bacon @ *Global*  
  - Sub - Pork Sausage Cooked @ *Eggcetera*  
   
@@ -241,21 +228,16 @@ In description:
   
 **beef**  
 In name:   
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE @ *Delicious*  
   
 **pork**  
 In name:   
- - Pork & Beef Hard Salami @ *Delicious*  
  - Baked Rigatoni w/ Pork Italian Sausage @ *Lowell Market*  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE @ *Delicious*  
- - Smoked Ham @ *Delicious*  
- - Bacon @ *Delicious*  
   
 **chicken**  
 In name:   
