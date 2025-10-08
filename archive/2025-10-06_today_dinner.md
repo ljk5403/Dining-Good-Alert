@@ -1,6 +1,6 @@
 # 2025-10-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-07 17:16:25  
+Updated at: 2025-10-07 18:15:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-07)  
 **Pakoras**  
 In name:   
@@ -115,9 +115,6 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Harissa w/Couscous @ *Gordon Global Kitchen*  
   
-In description:   
- - Reuben @ *Fired Up*  
-  
 **pork**  
 In name:   
  - Cubano (Pork) Pizza @ *Gordon Capital City Pizza*  
@@ -133,6 +130,7 @@ In name:
  - Chicken Empanada with Green Chili @ *Gordon Que Rico*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
  - Chicken Paprikash @ *Gordon Eggcetera*  
+ - Crispy Chicken Sandwich @ *Fired Up*  
   
 In description:   
  - Gordon's Great Greens @ *Great Greens*  

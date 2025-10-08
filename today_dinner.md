@@ -1,6 +1,6 @@
 # 2025-10-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-07 18:15:56  
+Updated at: 2025-10-07 20:20:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-07)  
 **Pakoras**  
 In name:   
@@ -69,9 +69,13 @@ In name:
 In description:   
  - Salmon Spicy Roll (FujiSan) @ *Global Kitchen*  
   
+**curry**  
+In name:   
+ - Beef Curry Stew @ *1849*  
+  
 **beef**  
 In name:   
- - Beef Broccoli Stir Fry @ *1849*  
+ - Beef Curry Stew @ *1849*  
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
@@ -104,19 +108,17 @@ In description:
   
 **steak**  
 In name:   
-  
-In description:   
- - Montreal Chicken @ *1849*  
+ - Island Spiced Beef Steak @ *1849*  
   
 **beef**  
 In name:   
- - Beef Gravy @ *1849*  
- - Texas BBQ Sliced Beef Brisket @ *1849*  
+ - Island Spiced Beef Steak @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Harissa w/Couscous @ *Gordon Global Kitchen*  
   
 **pork**  
 In name:   
+ - Herb Crusted Pork Loin @ *1849*  
  - Cubano (Pork) Pizza @ *Gordon Capital City Pizza*  
   
 In description:   
@@ -124,11 +126,10 @@ In description:
   
 **chicken**  
 In name:   
- - Montreal Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Chicken Empanada with Green Chili @ *Gordon Que Rico*  
- - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
+ - Chicken Tortilla Soup @ *Great Greens*  
  - Chicken Paprikash @ *Gordon Eggcetera*  
  - Crispy Chicken Sandwich @ *Fired Up*  
   
@@ -168,7 +169,7 @@ In description:
 **chicken**  
 In name:   
  - Italian Chicken @ *Global Kitchen*  
- - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
+ - Chicken Tortilla Soup @ *Great Greens*  
  - Mediterranean Chicken @ *Create-A-Bowl*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   

@@ -1,6 +1,6 @@
 # 2025-10-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-07 18:15:51  
+Updated at: 2025-10-07 20:19:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-07)  
 **Pakoras**  
 In name:   
@@ -132,7 +132,7 @@ In name:
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Tikka Masala Chicken @ *Gordon Global Kitchen*  
- - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
+ - Chicken Tortilla Soup @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-10-07)  
 **watermelon**  
@@ -167,7 +167,7 @@ In name:
  - Chicken Drumstick @ *1849*  
  - Grilled Chicken Sandwich @ *Fired Up*  
  - Italian Chicken @ *Global Kitchen*  
- - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
+ - Chicken Tortilla Soup @ *Great Greens*  
  - Mediterranean Chicken @ *Create-A-Bowl*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
