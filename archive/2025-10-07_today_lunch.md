@@ -1,6 +1,6 @@
 # 2025-10-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-08 12:16:08  
+Updated at: 2025-10-08 13:27:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-08)  
 **broccoli rabe**  
 In name:   
@@ -69,9 +69,9 @@ In name:
  - Chicken Teriyaki Stir Fry @ *1849*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-10-08)  
-**Tilapia**  
+**mahi mahi**  
 In name:   
- - Blackened Tilapia @ *1849*  
+ - Blackened Mahi Mahi @ *1849*  
   
 **fish**  
 In name:   
@@ -106,6 +106,7 @@ In name:
 In name:   
  - Broasted Chicken 2 pc @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Crispy Chicken Sandwich @ *Gordon Fired Up*  
  - General Tso's Chicken @ *Gordon Global Kitchen*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
   
