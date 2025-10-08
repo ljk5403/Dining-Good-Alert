@@ -1,6 +1,6 @@
 # 2025-10-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-08 01:27:47  
+Updated at: 2025-10-08 09:18:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-08)  
 **broccoli rabe**  
 In name:   
@@ -57,17 +57,10 @@ In description:
 **beef**  
 In name:   
  - Beef & Bean Chili @ *Great Greens*  
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 **pork**  
 In name:   
  - Imperial Pork Stir Fry @ *1849*  
- - Pork & Beef Hard Salami @ *Delicious*  
-  
-In description:   
- - Smoked Ham @ *Delicious*  
- - Bacon @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -75,12 +68,6 @@ In name:
  - Chicken Teriyaki Stir Fry @ *1849*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-10-08)  
-**Vanilla Coconut Milk Yogurt**  
-In name:   
-  
-In description:   
- - Yogurt Bar @ *Great Greens*  
-  
 **mahi mahi**  
 In name:   
  - Baked Mahi Mahi w/ Butter & Lemon @ *1849*  
@@ -124,13 +111,8 @@ In name:
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
- - Gordon's Great Greens @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-10-08)  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
 **Cod**  
 In name:   
  - Miso Cod @ *1849*  
@@ -195,8 +177,6 @@ In name:
   
 **beef**  
 In name:   
- - Roast Beef @ *Delicious:  Available Between 11am-4pm*  
- - Pork & Beef Hard Salami @ *Delicious:  Available Between 11am-4pm*  
  - Beef & Bean Chili @ *Great Greens:  Available Between 11am-4pm*  
   
 In description:   
@@ -208,7 +188,6 @@ In name:
  - Spicy Greenbush Pork Loin @ *Carson's 1849:  Available Between 11am-2pm*  
  - Sausage (Pork) & Pepperoni Pizza Slice @ *Capital City Pizza:  Available Between 11am-4pm*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza:  Available Between 11am-4pm*  
- - Pork & Beef Hard Salami @ *Delicious:  Available Between 11am-4pm*  
   
 In description:   
  - Bacon, Egg & Cheese Bagel @ *Delicious:  Available Between 11am-4pm*  
@@ -236,8 +215,6 @@ In description:
   
 **beef**  
 In name:   
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
  - Beef & Bean Chili @ *Great Greens*  
   
 In description:   
@@ -245,13 +222,10 @@ In description:
   
 **pork**  
 In name:   
- - Pork & Beef Hard Salami @ *Delicious*  
  - Sri Lanka Deviled Pork @ *Lowell Market*  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE @ *Delicious*  
- - Smoked Ham @ *Delicious*  
- - Bacon @ *Delicious*  
   
 **chicken**  
 In name:   

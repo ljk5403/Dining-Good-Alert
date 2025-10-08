@@ -1,6 +1,6 @@
 # 2025-10-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-08 01:27:49  
+Updated at: 2025-10-08 09:18:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-08)  
 **Tuna**  
 In name:   
@@ -45,16 +45,6 @@ In description:
 In name:   
  - Beef Vindaloo @ *Global Kitchen*  
  - Beef & Bean Chili @ *Great Greens*  
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
-  
-**pork**  
-In name:   
- - Pork & Beef Hard Salami @ *Delicious*  
-  
-In description:   
- - Smoked Ham @ *Delicious*  
- - Bacon @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -162,8 +152,6 @@ In description:
   
 **beef**  
 In name:   
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
  - Beef & Bean Chili @ *Great Greens*  
  - BBQ Beef Brisket Sandwich @ *Fired Up*  
   
@@ -175,11 +163,7 @@ In description:
 In name:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
  - Sausage (Pork) & Pepperoni Pizza Slice @ *Capital City Pizza*  
- - Pork & Beef Hard Salami @ *Delicious*  
  - Italian Pork Sausage @ *Eggcetera*  
-  
-In description:   
- - Bacon @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -192,8 +176,6 @@ In description:
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-10-08)  
 **beef**  
 In name:   
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
  - Beef & Bean Chili @ *Lowell Market*  
  - Beef Hot Dog @ *Lowell Market*  
   
@@ -202,13 +184,10 @@ In description:
   
 **pork**  
 In name:   
- - Pork & Beef Hard Salami @ *Delicious*  
  - Filipino Pork Sausage @ *Lowell Market*  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE @ *Delicious*  
- - Smoked Ham @ *Delicious*  
- - Bacon @ *Delicious*  
   
 **chicken**  
 In name:   
