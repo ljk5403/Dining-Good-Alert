@@ -1,6 +1,6 @@
 # 2025-10-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-09 01:28:01  
+Updated at: 2025-10-09 09:18:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-09)  
 **Tuna**  
 In name:   
@@ -57,12 +57,6 @@ In name:
  - Chicken Noodle Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-10-09)  
-**Vanilla Coconut Milk Yogurt**  
-In name:   
-  
-In description:   
- - Yogurt Bar @ *Great Greens*  
-  
 **steak**  
 In name:   
  - Spicy Steak Fajita @ *Gordon Que Rico*  
@@ -71,19 +65,25 @@ In name:
 In name:   
  - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
   
+**curry**  
+In name:   
+ - Currywurst (Pork) @ *Gordon Fired Up*  
+ - Vegan Currywurst @ *Gordon Fired Up*  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
- - Mushroom Swiss Blended Burger @ *Gordon Fired Up*  
+ - Currywurst (Pork) @ *Gordon Fired Up*  
  - Spicy Steak Fajita @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
  - Baked Pork Chops w/Dressing @ *1849*  
  - Pork Gravy with Vegetables @ *1849*  
+ - Currywurst (Pork) @ *Gordon Fired Up*  
  - Filipino Pork Sausage @ *Gordon Global Kitchen*  
  - FiIipino Pork @ *Gordon Global Kitchen*  
   
@@ -95,9 +95,6 @@ In name:
  - Mediterranean Chicken @ *Gordon Buona Cucina*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Chicken Noodle Soup @ *Great Greens*  
-  
-In description:   
- - Gordon's Great Greens @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-10-09)  
 **watermelon**  
@@ -132,7 +129,7 @@ In description:
 In name:   
  - Jamaican Jerk Chicken Drumstick @ *1849*  
  - Plant-Based Chicken Tenders @ *Fired Up*  
- - Chicken Noodle Soup @ *Great Greens*  
+ - Lemon Chicken Rice Soup @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
