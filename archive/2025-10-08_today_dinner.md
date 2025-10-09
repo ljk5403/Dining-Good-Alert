@@ -1,6 +1,6 @@
 # 2025-10-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-09 16:15:54  
+Updated at: 2025-10-09 17:16:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-09)  
 **Tuna**  
 In name:   
@@ -86,6 +86,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Italian Sausage @ *Gordon Buona Cucina*  
  - Vietnamese Pork @ *Gordon Global Kitchen*  
  - FiIipino Pork @ *Gordon Eggcetera*  
   
@@ -93,7 +94,6 @@ In name:
 In name:   
  - Chicken Drummies @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Mediterranean Chicken @ *Gordon Buona Cucina*  
  - Chicken Fajita Meat @ *Gordon Que Rico*  
  - Chicken Noodle Soup @ *Great Greens*  
   
