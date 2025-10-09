@@ -1,6 +1,6 @@
 # 2025-10-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-09 13:26:41  
+Updated at: 2025-10-09 15:20:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-09)  
 **Tuna**  
 In name:   
@@ -103,11 +103,6 @@ In description:
  - Italian Meatball Sandwich @ *Fired Up*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-10-09)  
-**Flauta**  
-In name:   
- - Shredded Beef Flauta @ *Que Rico*  
- - Chicken and Cheese Flauta @ *Que Rico*  
-  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -119,7 +114,8 @@ In name:
 **beef**  
 In name:   
  - Beef Tri Tip Carved w/ Chimichurri @ *1849*  
- - Shredded Beef Flauta @ *Que Rico*  
+ - Beef Taco Meat @ *Que Rico*  
+ - Beef Barbacoa @ *Que Rico*  
   
 In description:   
  - Grilled Blended Burger w/ Cheese @ *Fired Up*  
@@ -135,13 +131,11 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken and Cheese Flauta @ *Que Rico*  
  - Chicken Noodle Soup @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
  - Apple Cider Braised Pork @ *1849*  
- - Shredded Beef Flauta @ *Que Rico*  
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-10-09)  

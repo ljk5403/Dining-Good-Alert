@@ -1,6 +1,6 @@
 # 2025-10-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-09 12:16:19  
+Updated at: 2025-10-09 13:26:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-09)  
 **Tuna**  
 In name:   
@@ -83,6 +83,7 @@ In description:
 In name:   
  - Baked Pork Chops w/Dressing @ *1849*  
  - Pork Gravy with Vegetables @ *1849*  
+ - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Currywurst (Pork) @ *Gordon Fired Up*  
  - Filipino Pork Sausage @ *Gordon Global Kitchen*  
  - FiIipino Pork @ *Gordon Global Kitchen*  
@@ -92,7 +93,6 @@ In name:
  - Chicken Baked  (1 piece) @ *1849*  
  - Plant-Based Chicken & Gravy (VN) @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Mediterranean Chicken @ *Gordon Buona Cucina*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Chicken Noodle Soup @ *Great Greens*  
   
