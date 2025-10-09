@@ -1,6 +1,6 @@
 # 2025-10-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-09 15:20:15  
+Updated at: 2025-10-09 16:15:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-09)  
 **Tuna**  
 In name:   
@@ -87,6 +87,7 @@ In description:
 **pork**  
 In name:   
  - Vietnamese Pork @ *Gordon Global Kitchen*  
+ - FiIipino Pork @ *Gordon Eggcetera*  
   
 **chicken**  
 In name:   
@@ -95,7 +96,6 @@ In name:
  - Mediterranean Chicken @ *Gordon Buona Cucina*  
  - Chicken Fajita Meat @ *Gordon Que Rico*  
  - Chicken Noodle Soup @ *Great Greens*  
- - Breaded Chicken Parmigiana @ *Gordon Eggcetera*  
   
 In description:   
  - Build Your Own Southwest Bowl @ *Gordon Que Rico*  
@@ -179,6 +179,10 @@ In description:
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-10-09)  
+**drumstick**  
+In name:   
+ - Chicken Drumstick BBQ Glazed @ *Lowell Market*  
+  
 **mahi mahi**  
 In name:   
  - Coconut Thai Curry Mahi Mahi @ *Lowell Market*  
@@ -214,5 +218,6 @@ In description:
 In name:   
  - Chicken Noodle Soup @ *Great Greens*  
  - Japanese Chicken Curry @ *Lowell Market*  
+ - Chicken Drumstick BBQ Glazed @ *Lowell Market*  
   
   
