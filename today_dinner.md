@@ -1,43 +1,20 @@
 # 2025-10-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-09 01:28:05  
+Updated at: 2025-10-09 09:18:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-09)  
-**Chicken Drummies**  
-In name:   
- - Chicken Drummies @ *Fired Up*  
-  
-**Shrimp**  
-In name:   
- - Blackened Shrimp @ *1849*  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
   
-**fish**  
-In name:   
-  
-In description:   
- - Tempura Roll (FujiSan) @ *Global Kitchen*  
-  
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Beef Mediterranean @ *Que Rico*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
- - Chicken Spaghetti @ *1849*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Plant Based Chicken Strips @ *Buona Cucina*  
  - Pizza Slice Chicken Broccoli Alfredo @ *Capital City Pizza*  
- - Chicken Drummies @ *Fired Up*  
- - Plant-Based Chicken Nuggets (6) @ *Fired Up*  
- - Mediterranean Chicken @ *Que Rico*  
- - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
