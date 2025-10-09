@@ -1,6 +1,6 @@
 # 2025-10-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-08 18:15:52  
+Updated at: 2025-10-08 20:20:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-08)  
 **Tuna**  
 In name:   
@@ -21,7 +21,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Pot Pie w/Biscuit @ *1849*  
+ - Chicken Creole @ *1849*  
  - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
  - Chicken Fajita @ *Que Rico*  
   
@@ -82,15 +82,15 @@ In description:
   
 **pork**  
 In name:   
+ - Herb Crusted Pork Loin @ *1849*  
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
  - Gluten Free Pork Sausage Pizza Quarter @ *Gordon Capital City Pizza*  
   
 **chicken**  
 In name:   
- - Huli Huli Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Sweet & Sour Chicken @ *Gordon Global Kitchen*  
+ - Sweet & Spicy Orange Chicken @ *Gordon Global Kitchen*  
  - Plant Based Sweet & Sour Chicken @ *Gordon Global Kitchen*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
   
@@ -111,7 +111,6 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Global Kitchen*  
- - Beef & Bean Chili @ *Great Greens*  
  - Protein - Beef Thinly Sliced @ *Create-A-Bowl*  
   
 In description:   
@@ -133,6 +132,7 @@ In name:
  - Huli Huli Chicken @ *1849*  
  - Chicken Wings Boneless Plain @ *Que Rico*  
  - Plant-Based Chicken Nuggets (6) @ *Que Rico*  
+ - Chicken Tortilla Soup @ *Great Greens*  
  - Protein - Chicken Thinly Sliced @ *Create-A-Bowl*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
