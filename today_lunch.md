@@ -1,6 +1,6 @@
 # 2025-10-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-10 10:17:40  
+Updated at: 2025-10-10 11:22:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-10)  
 **Shrimp**  
 In name:   
@@ -125,7 +125,6 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Gordon Capital City Pizza*  
  - Chicken Tenders Breaded @ *Gordon Fired Up*  
- - Plant-Based Chicken Nuggets (6) @ *Gordon Fired Up*  
  - Greek Chicken @ *Gordon Global Kitchen*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-10-10)  
@@ -144,6 +143,7 @@ In name:
 **Salmon**  
 In name:   
  - Masala Spiced Salmon @ *1849*  
+ - Salmon @ *Great Greens*  
   
 **Shrimp**  
 In name:   
@@ -195,14 +195,11 @@ In name:
  - Bulgogi Chicken @ *Create-A-Bowl*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
-In description:   
- - Station Recipe - Great Greens - FLM @ *Great Greens*  
-  
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-10-10)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-10-10)  
 **steak**  
 In name:   
- - Swiss Steak w/Brown Gravy @ *Lowell Market*  
+ - Country Fried Steak @ *Lowell Market*  
   
 **Cod**  
 In name:   
@@ -215,7 +212,8 @@ In name:
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE @ *Delicious*  
- - Swiss Steak w/Brown Gravy @ *Lowell Market*  
+ - Country Fried Steak @ *Lowell Market*  
+ - Country Gravy @ *Lowell Market*  
   
 **pork**  
 In name:   
