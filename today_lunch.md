@@ -1,6 +1,6 @@
 # 2025-10-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-10 11:22:20  
+Updated at: 2025-10-10 12:16:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-10)  
 **Shrimp**  
 In name:   
@@ -218,6 +218,7 @@ In description:
 **pork**  
 In name:   
  - Clam Chowder (Pork) @ *Great Greens*  
+ - Baked Rigatoni w/ Pork Italian Sausage @ *Lowell Market*  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE @ *Delicious*  
