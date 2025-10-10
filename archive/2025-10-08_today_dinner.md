@@ -1,6 +1,6 @@
 # 2025-10-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-09 17:16:41  
+Updated at: 2025-10-09 18:16:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-09)  
 **Tuna**  
 In name:   
@@ -82,6 +82,7 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
   
 In description:   
+ - Italian Meat Sauce @ *Gordon Buona Cucina*  
  - Italian Meatball Sandwich @ *Fired Up*  
   
 **pork**  
@@ -95,7 +96,6 @@ In name:
  - Chicken Drummies @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Chicken Fajita Meat @ *Gordon Que Rico*  
- - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
  - Build Your Own Southwest Bowl @ *Gordon Que Rico*  

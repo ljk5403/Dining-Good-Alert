@@ -1,6 +1,6 @@
 # 2025-10-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-09 18:16:03  
+Updated at: 2025-10-09 20:21:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-09)  
 **Tuna**  
 In name:   
@@ -32,6 +32,12 @@ In name:
 In name:   
  - Ginger Glazed Salmon @ *Global Kitchen*  
   
+**curry**  
+In name:   
+  
+In description:   
+ - Madras Chicken w/Basmati Rice @ *Global Kitchen*  
+  
 **beef**  
 In name:   
   
@@ -42,7 +48,7 @@ In description:
 In name:   
  - Chicken Pot Pie w/Biscuit @ *1849*  
  - Plant-Based Chicken & Dumplings @ *1849*  
- - Marrakech Chicken Breast @ *Global Kitchen*  
+ - Madras Chicken w/Basmati Rice @ *Global Kitchen*  
  - Chicken Noodle Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-10-09)  
@@ -51,10 +57,6 @@ In name:
   
 In description:   
  - Yogurt Bar @ *Great Greens*  
-  
-**Chicken Drummies**  
-In name:   
- - Chicken Drummies @ *1849*  
   
 **Cod**  
 In name:   
@@ -93,7 +95,7 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken Drummies @ *1849*  
+ - Chicken Paprikash @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Chicken Fajita Meat @ *Gordon Que Rico*  
   
@@ -111,11 +113,13 @@ In name:
 In name:   
  - Build Your Own Poke Bar @ *Create-A-Bowl*  
   
+**lamb**  
+In name:   
+ - Smoked Leg of Lamb @ *1849*  
+  
 **beef**  
 In name:   
- - Beef Tri Tip Carved w/ Chimichurri @ *1849*  
  - Beef Taco Meat @ *Que Rico*  
- - Beef Barbacoa @ *Que Rico*  
   
 In description:   
  - Grilled Blended Burger w/ Cheese @ *Fired Up*  
@@ -173,6 +177,7 @@ In description:
 In name:   
  - Chicken Tenders Breaded @ *Carson's 1849*  
  - Plant-Based Chicken Tenders @ *Carson's 1849*  
+ - Cream of Chicken & Wild Rice Soup @ *Bakery*  
  - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
@@ -219,5 +224,6 @@ In name:
  - Chicken Noodle Soup @ *Great Greens*  
  - Japanese Chicken Curry @ *Lowell Market*  
  - Chicken Drumstick BBQ Glazed @ *Lowell Market*  
+ - Autumn Chicken @ *Lowell Market*  
   
   
