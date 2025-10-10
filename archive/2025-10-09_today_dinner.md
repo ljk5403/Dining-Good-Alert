@@ -1,6 +1,6 @@
 # 2025-10-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-10 15:20:01  
+Updated at: 2025-10-10 16:15:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-10)  
 **Shrimp**  
 In name:   
@@ -201,7 +201,7 @@ In description:
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-10-10)  
 **steak**  
 In name:   
- - Country Fried Steak @ *Lowell Market*  
+ - Swiss Steak w/Brown Gravy @ *Lowell Market*  
   
 **Cod**  
 In name:   
@@ -216,8 +216,8 @@ In name:
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE @ *Delicious*  
- - Country Fried Steak @ *Lowell Market*  
  - Brazilian Pork Feijoada @ *Lowell Market*  
+ - Swiss Steak w/Brown Gravy @ *Lowell Market*  
   
 **pork**  
 In name:   
