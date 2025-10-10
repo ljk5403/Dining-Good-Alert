@@ -1,6 +1,6 @@
 # 2025-10-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-10 13:26:18  
+Updated at: 2025-10-10 15:20:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-10)  
 **Shrimp**  
 In name:   
@@ -83,10 +83,6 @@ In description:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**haddock**  
-In name:   
- - Haddock Ginger Glazed (AYCTE) @ *1849*  
-  
 **squid**  
 In name:   
   
@@ -124,6 +120,7 @@ In description:
   
 **pork**  
 In name:   
+ - BBQ Pork Chop @ *1849*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Gordon Capital City Pizza*  
  - Clam Chowder (Pork) @ *Great Greens*  
   
@@ -215,6 +212,7 @@ In description:
 **beef**  
 In name:   
  - Plant-Based Beef Lo Mein @ *Lowell Market*  
+ - Beef Stir Fry w/ Snow Peas @ *Lowell Market*  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE @ *Delicious*  
