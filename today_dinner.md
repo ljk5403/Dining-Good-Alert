@@ -1,229 +1,236 @@
-# 2025-10-09 dinner  
+# 2025-10-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-09 20:21:07  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-09)  
-**Tuna**  
+Updated at: 2025-10-10 01:27:49  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-10)  
+**Shrimp**  
 In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
+ - Steamed Shrimp @ *Global Kitchen*  
   
-**beef**  
+**Cod**  
 In name:   
+ - Cod w/ Roasted Fruit Salsa @ *1849*  
   
 In description:   
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Fish Tacos @ *Fired Up*  
+ - Clam Chowder (Pork) @ *Great Greens*  
+  
+**Tuna**  
+In name:   
+ - Poke Tuna (*Raw) @ *Global Kitchen*  
+ - Lemon Pepper Tuna Salad @ *Delicious*  
+  
+**fish**  
+In name:   
+ - Fish Tacos @ *Fired Up*  
+  
+**pork**  
+In name:   
+ - Pork Sausage Patty @ *Buona Cucina*  
+ - Hawaiian (Pork) Pizza Slice @ *Capital City Pizza*  
+ - Ancho Braised Pork @ *Que Rico*  
+ - Clam Chowder (Pork) @ *Great Greens*  
+  
+In description:   
+ - Pizza Slice Sausage @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
- - Pizza Slice Chicken Broccoli Alfredo @ *Capital City Pizza*  
   
 In description:   
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Ancho Braised Pork @ *Que Rico*  
   
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-10-09)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-10-10)  
 **watermelon**  
 In name:   
  - Melon Watermelon Whole Sliced @ *Great Greens*  
   
-**steak**  
-In name:   
- - Country Fried Steak @ *1849*  
-  
-**Salmon**  
-In name:   
- - Ginger Glazed Salmon @ *Global Kitchen*  
-  
-**curry**  
+**Cod**  
 In name:   
   
 In description:   
- - Madras Chicken w/Basmati Rice @ *Global Kitchen*  
+ - Clam Chowder (Pork) @ *Great Greens*  
   
 **beef**  
 In name:   
+ - Beef & Tater Tot Bake @ *1849*  
   
 In description:   
- - Country Fried Steak @ *1849*  
+ - Baked Corn Dog (Pork) @ *Global Kitchen*  
+  
+**pork**  
+In name:   
+ - Baked Corn Dog (Pork) @ *Global Kitchen*  
+ - Grilled Chicken Monterey Sandwich (Pork) @ *Global Kitchen*  
+ - Clam Chowder (Pork) @ *Great Greens*  
   
 **chicken**  
 In name:   
- - Chicken Pot Pie w/Biscuit @ *1849*  
- - Plant-Based Chicken & Dumplings @ *1849*  
- - Madras Chicken w/Basmati Rice @ *Global Kitchen*  
- - Chicken Noodle Soup @ *Great Greens*  
+ - Breaded Chicken Parmigiana @ *1849*  
+ - Grilled Chicken Monterey Sandwich (Pork) @ *Global Kitchen*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
   
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-10-09)  
+In description:   
+ - Baked Corn Dog (Pork) @ *Global Kitchen*  
+  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-10-10)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
   
 In description:   
  - Yogurt Bar @ *Great Greens*  
   
-**Cod**  
-In name:   
- - Basque Style Cod @ *1849*  
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Vietnamese Pork @ *Gordon Global Kitchen*  
-  
-**curry**  
-In name:   
- - Thai Veggie Meatballs w/ Green Curry @ *Gordon Global Kitchen*  
-  
-In description:   
- - Coconut Vegetable Stew @ *1849*  
-  
-**beef**  
-In name:   
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
-  
-In description:   
- - Italian Meat Sauce @ *Gordon Buona Cucina*  
- - Italian Meatball Sandwich @ *Fired Up*  
-  
-**pork**  
-In name:   
- - Pork Italian Sausage @ *Gordon Buona Cucina*  
- - Vietnamese Pork @ *Gordon Global Kitchen*  
- - FiIipino Pork @ *Gordon Eggcetera*  
-  
-**chicken**  
-In name:   
- - Chicken Paprikash @ *1849*  
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Chicken Fajita Meat @ *Gordon Que Rico*  
-  
-In description:   
- - Build Your Own Southwest Bowl @ *Gordon Que Rico*  
- - Gordon's Great Greens @ *Great Greens*  
- - Italian Meatball Sandwich @ *Fired Up*  
-  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-10-09)  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**Poke Bar**  
+**haddock**  
 In name:   
- - Build Your Own Poke Bar @ *Create-A-Bowl*  
+ - Haddock Ginger Glazed (AYCTE) @ *1849*  
   
-**lamb**  
+**squid**  
 In name:   
- - Smoked Leg of Lamb @ *1849*  
-  
-**beef**  
-In name:   
- - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Grilled Blended Burger w/ Cheese @ *Fired Up*  
- - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
+ - Fried Calamari @ *Gordon Eggcetera*  
   
-**pork**  
-In name:   
- - Apple Cider Braised Pork @ *1849*  
-  
-In description:   
- - Andouille Sausage @ *Global Kitchen*  
- - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
-  
-**chicken**  
-In name:   
- - Chicken Noodle Soup @ *Great Greens*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
-  
-In description:   
- - Apple Cider Braised Pork @ *1849*  
- - Station Recipe - Great Greens - FLM @ *Great Greens*  
-  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-10-09)  
 **Shrimp**  
 In name:   
- - Shrimp Etouffee (AYCTE) @ *Global*  
+ - Sauteed Shrimp @ *Gordon Buona Cucina*  
+ - Shrimp Po-Boy Sandwich @ *Fired Up*  
   
 **Cod**  
 In name:   
   
 In description:   
- - Petite Fish Sandwich @ *Fired Up*  
+ - Clam Chowder (Pork) @ *Great Greens*  
   
-**fish**  
-In name:   
- - Vegan Fish Sandwich @ *Fired Up*  
- - Petite Fish Sandwich @ *Fired Up*  
-  
-**beef**  
+**lamb**  
 In name:   
   
 In description:   
- - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
-  
-**pork**  
-In name:   
- - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
- - Green Beans w/ Pork Bacon @ *Global*  
- - Sub - Pork Sausage Cooked @ *Eggcetera*  
-  
-In description:   
- - Lumberjack Bowl w/Bacon @ *Eggcetera*  
-  
-**chicken**  
-In name:   
- - Chicken Tenders Breaded @ *Carson's 1849*  
- - Plant-Based Chicken Tenders @ *Carson's 1849*  
- - Cream of Chicken & Wild Rice Soup @ *Bakery*  
- - Chicken Noodle Soup @ *Great Greens*  
-  
-In description:   
- - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
-  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-10-09)  
-**drumstick**  
-In name:   
- - Chicken Drumstick BBQ Glazed @ *Lowell Market*  
-  
-**mahi mahi**  
-In name:   
- - Coconut Thai Curry Mahi Mahi @ *Lowell Market*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Coconut Thai Curry Mahi Mahi @ *Lowell Market*  
+ - Pizza Slice Gyro @ *Gordon Capital City Pizza*  
   
 **curry**  
 In name:   
- - Coconut Thai Curry Mahi Mahi @ *Lowell Market*  
- - Japanese Chicken Curry @ *Lowell Market*  
-  
-In description:   
- - Tofu & Vegetable Tikka Masala @ *Lowell Market*  
+ - Lentil Chickpea Red Curry @ *Gordon Global Kitchen*  
   
 **beef**  
 In name:   
+ - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Beef Birria Tacos @ *Gordon Que Rico*  
   
 In description:   
- - Station Recipe - Deli Lowell AYCTE @ *Delicious*  
+ - Pizza Slice Gyro @ *Gordon Capital City Pizza*  
   
 **pork**  
 In name:   
- - Baked Rigatoni w/ Pork Italian Sausage @ *Lowell Market*  
+ - Chicken Bacon (Pork) Ranch Pizza @ *Gordon Capital City Pizza*  
+ - Clam Chowder (Pork) @ *Great Greens*  
+  
+In description:   
+ - Gnocchi w/ Sausage & Roast Veg @ *Gordon Buona Cucina*  
+  
+**chicken**  
+In name:   
+ - Chicken Breast Con Pollo @ *1849*  
+ - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Chicken Bacon (Pork) Ranch Pizza @ *Gordon Capital City Pizza*  
+ - Butter Chicken @ *Gordon Global Kitchen*  
+ - Plant-Based Chicken Nuggets (6) @ *Gordon Eggcetera*  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-10-10)  
+**Bulgogi**  
+In name:   
+ - BYO Bar - Four Lakes Bulgogi @ *Create-A-Bowl*  
+ - Bulgogi Beef @ *Create-A-Bowl*  
+ - Bulgogi Chicken @ *Create-A-Bowl*  
+ - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
+ - Build Your Own Bulgogi Bar - Four Lakes @ *Create-A-Bowl*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
+  
+**Shrimp**  
+In name:   
+  
+In description:   
+ - BYO Bar - Four Lakes Bulgogi @ *Create-A-Bowl*  
+  
+**Cod**  
+In name:   
+  
+In description:   
+ - Clam Chowder (Pork) @ *Great Greens*  
+  
+**Tuna**  
+In name:   
+ - Grilled Tuna & Swiss Melt @ *Fired Up*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - BYO Bar - Four Lakes Bulgogi @ *Create-A-Bowl*  
+  
+**beef**  
+In name:   
+ - Beef Fajita Meat @ *Global Kitchen*  
+ - Empanada Beef Picadillo @ *Que Rico*  
+ - Bulgogi Beef @ *Create-A-Bowl*  
+  
+In description:   
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
+  
+**pork**  
+In name:   
+ - Denver Scramble (Pork) @ *1849*  
+ - Clam Chowder (Pork) @ *Great Greens*  
+  
+In description:   
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
+  
+**chicken**  
+In name:   
+ - Chicken Empanada with Green Chili @ *Que Rico*  
+ - Bulgogi Chicken @ *Create-A-Bowl*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
+  
+In description:   
+ - Empanada Beef Picadillo @ *Que Rico*  
+ - Station Recipe - Great Greens - FLM @ *Great Greens*  
+  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-10-10)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-10-10)  
+**steak**  
+In name:   
+ - Country Fried Steak @ *Lowell Market*  
+  
+**Cod**  
+In name:   
+  
+In description:   
+ - Clam Chowder (Pork) @ *Great Greens*  
+  
+**beef**  
+In name:   
+ - Plant-Based Beef Lo Mein @ *Lowell Market*  
+  
+In description:   
+ - Station Recipe - Deli Lowell AYCTE @ *Delicious*  
+ - Country Fried Steak @ *Lowell Market*  
+ - Brazilian Pork Feijoada @ *Lowell Market*  
+  
+**pork**  
+In name:   
+ - Clam Chowder (Pork) @ *Great Greens*  
+ - Brazilian Pork Feijoada @ *Lowell Market*  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE @ *Delicious*  
   
 **chicken**  
 In name:   
- - Chicken Noodle Soup @ *Great Greens*  
- - Japanese Chicken Curry @ *Lowell Market*  
- - Chicken Drumstick BBQ Glazed @ *Lowell Market*  
- - Autumn Chicken @ *Lowell Market*  
+ - Wisconsin Harvest Chicken Breast @ *Lowell Market*  
   
   
