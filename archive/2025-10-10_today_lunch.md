@@ -1,6 +1,6 @@
 # 2025-10-11 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-11 01:24:21  
+Updated at: 2025-10-11 09:13:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-11)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-10-11)  
 **watermelon**  
@@ -29,15 +29,13 @@ In description:
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-10-11)  
-**Vanilla Coconut Milk Yogurt**  
+**drumstick**  
 In name:   
-  
-In description:   
- - Yogurt Bar @ *Great Greens*  
+ - Chicken Drumstick BBQ Glazed @ *1849*  
   
 **beef**  
 In name:   
- - Beef Carne Guisada @ *1849*  
+ - Beef Harissa @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - BBQ Beef Brisket Sandwich @ *Gordon Fired Up*  
  - Beef Taco Meat @ *Gordon Que Rico*  
@@ -59,7 +57,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Enchilada Bake @ *1849*  
+ - Chicken Drumstick BBQ Glazed @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Chicken Tinga @ *Gordon Que Rico*  
