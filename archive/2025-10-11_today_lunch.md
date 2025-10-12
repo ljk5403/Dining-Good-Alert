@@ -1,6 +1,6 @@
 # 2025-10-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-12 09:14:19  
+Updated at: 2025-10-12 10:15:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-12)  
 **steak**  
 In name:   
@@ -53,6 +53,7 @@ In description:
 **pork**  
 In name:   
  - Porkloin Fritter Plate @ *1849*  
+ - Gnocchi w/ Pork Chorizo Sauce @ *Gordon Buona Cucina*  
  - Pork Sausage Country Gravy w/ Biscuit @ *Gordon Eggcetera*  
  - Pork Carnita @ *Gordon Que Rico*  
   
@@ -66,6 +67,7 @@ In name:
  - Chicken Tortilla Soup @ *Great Greens*  
   
 In description:   
+ - Gnocchi w/ Pork Chorizo Sauce @ *Gordon Buona Cucina*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-10-12)  
