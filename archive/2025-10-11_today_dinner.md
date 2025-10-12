@@ -1,6 +1,6 @@
 # 2025-10-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-12 15:18:17  
+Updated at: 2025-10-12 16:14:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-12)  
 **lamb**  
 In name:   
@@ -71,7 +71,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Vera Cruz @ *1849*  
+ - Chicken Paprikash @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Giardiniera Chicken @ *Gordon Buona Cucina*  
  - Chicken Tortilla Soup @ *Great Greens*  
