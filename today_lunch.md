@@ -1,6 +1,6 @@
 # 2025-10-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-12 12:14:02  
+Updated at: 2025-10-12 13:22:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-12)  
 **steak**  
 In name:   
@@ -125,7 +125,7 @@ In description:
   
 **chicken**  
 In name:   
- - Dan Dan w/ Chicken @ *Global Kitchen:  Available Between 11am-2pm*  
+ - Chicken Korma @ *Global Kitchen:  Available Between 11am-2pm*  
  - Chicken Tortilla Soup @ *Great Greens:  Available Between 11am-4pm*  
   
 In description:   
