@@ -1,6 +1,6 @@
 # 2025-10-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-11 18:15:33  
+Updated at: 2025-10-11 20:24:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-11)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-10-11)  
 **watermelon**  
@@ -31,9 +31,9 @@ In name:
 In description:   
  - Yogurt Bar @ *Great Greens*  
   
-**Shrimp**  
+**Cod**  
 In name:   
- - Popcorn Shrimp Basket @ *1849*  
+ - Panko Crusted Cod w/ Lemon Sauce @ *1849*  
   
 **beef**  
 In name:   
@@ -64,6 +64,7 @@ In name:
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
   
 In description:   
+ - Panko Crusted Cod w/ Lemon Sauce @ *1849*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
  - Kale, Sausage & Potato Soup @ *Great Greens*  
