@@ -1,6 +1,6 @@
 # 2025-10-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-13 09:19:10  
+Updated at: 2025-10-13 10:18:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-13)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -95,7 +95,7 @@ In name:
  - Pizza Slice Chicken Tomatillo @ *Gordon Capital City Pizza*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - BYO - MTO Chicken Wrap - Gordon @ *Gordon Eggcetera*  
- - Chicken Thigh Strip @ *Gordon Eggcetera*  
+ - Build Your Own Chicken Wrap (Gordon) @ *Gordon Eggcetera*  
   
 In description:   
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
