@@ -1,6 +1,6 @@
 # 2025-10-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-13 13:25:11  
+Updated at: 2025-10-13 15:20:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-13)  
 **beef**  
 In name:   
@@ -54,10 +54,6 @@ In name:
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-10-13)  
-**steak**  
-In name:   
- - Country Fried Steak @ *1849*  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
@@ -68,13 +64,14 @@ In name:
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
- - Country Fried Steak @ *1849*  
+ - Porkloin Fritter Plate @ *1849*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
  - Deli @ *Gordon Delicious*  
   
 **pork**  
 In name:   
- - Pork Loin Roast w/ Apricot Glaze @ *1849*  
+ - Porkloin Fritter Plate @ *1849*  
+ - Pork Gravy with Vegetables @ *1849*  
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
   
 In description:   
