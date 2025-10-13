@@ -1,6 +1,6 @@
 # 2025-10-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-13 12:15:31  
+Updated at: 2025-10-13 13:25:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-13)  
 **beef**  
 In name:   
@@ -14,7 +14,6 @@ In description:
 **pork**  
 In name:   
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
- - Imperial Pork Stir Fry @ *Global Kitchen*  
  - Pork Carnita @ *Que Rico*  
   
 In description:   
@@ -24,6 +23,7 @@ In description:
 In name:   
  - Popcorn Chicken @ *1849*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
+ - Huli Huli Chicken @ *Global Kitchen*  
  - Chicken Tinga @ *Que Rico*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Diced Chicken Breast @ *Buona Cucina*  
@@ -147,15 +147,9 @@ In description:
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-10-13)  
-**Salmon**  
+**Shrimp**  
 In name:   
- - Hoisin BBQ Glazed Salmon @ *Global Kitchen:  Available Between 11am-2pm*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Hoisin BBQ Glazed Salmon @ *Global Kitchen:  Available Between 11am-2pm*  
+ - Coconut Shrimp @ *Global Kitchen:  Available Between 11am-2pm*  
   
 **beef**  
 In name:   

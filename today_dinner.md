@@ -1,6 +1,6 @@
 # 2025-10-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-13 13:25:12  
+Updated at: 2025-10-13 15:20:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-13)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -75,14 +75,13 @@ In name:
   
 In description:   
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
- - Vegan Taco Filling @ *Gordon Que Rico*  
+ - Vegetarian Hot Tamale Pie @ *Gordon Que Rico*  
  - Mushroom Swiss Blended Burger @ *Fired Up*  
  - Deli @ *Gordon Delicious*  
   
 **pork**  
 In name:   
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
- - Ancho Pork Rice Bowl @ *Gordon Que Rico*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
@@ -93,13 +92,13 @@ In name:
  - Greek Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pizza Slice Chicken Tomatillo @ *Gordon Capital City Pizza*  
+ - Chicken Tamale with Oaxaca @ *Gordon Que Rico*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - BYO - MTO Chicken Wrap - Gordon @ *Gordon Eggcetera*  
  - Build Your Own Chicken Wrap (Gordon) @ *Gordon Eggcetera*  
   
 In description:   
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
- - Ancho Pork Rice Bowl @ *Gordon Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-10-13)  
 **watermelon**  
@@ -223,8 +222,10 @@ In description:
 In name:   
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - General Tso's Chicken @ *Lowell Market*  
+ - Brazilian Chicken w/ Salsa Vinaigrette @ *Lowell Market*  
   
 In description:   
  - Baked Corn Dog (Pork) @ *Lowell Market*  
+ - Rendang Ayam @ *Lowell Market*  
   
   
