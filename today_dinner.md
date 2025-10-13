@@ -1,6 +1,6 @@
 # 2025-10-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-12 18:15:19  
+Updated at: 2025-10-12 20:25:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-12)  
 **Shrimp**  
 In name:   
@@ -48,21 +48,21 @@ In description:
 In name:   
  - Grilled Flank Steak @ *1849*  
   
-**lamb**  
+**mahi mahi**  
 In name:   
- - Lamb & Beef Gyro Sandwich @ *Fired Up*  
+ - Island Spiced Mahi Mahi @ *1849*  
   
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
- - Lamb & Beef Gyro Sandwich @ *Fired Up*  
   
 In description:   
  - Grilled Flank Steak @ *1849*  
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Vegan Taco Filling @ *Gordon Que Rico*  
+ - BBQ Brisket Sandwich @ *Fired Up*  
  - Vegan Sloppy Joe @ *Fired Up*  
   
 **pork**  
@@ -74,7 +74,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Paprikash @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Giardiniera Chicken @ *Gordon Buona Cucina*  
  - Chicken Tortilla Soup @ *Great Greens*  
@@ -95,10 +94,9 @@ In name:
 In name:   
  - Beef Hot Dog @ *Fired Up*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
- - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Italian Meat Sauce @ *Global Kitchen*  
+ - Bolognese Sauce @ *Global Kitchen*  
  - Rosemary Cabernet Flank Steak @ *1849*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
@@ -107,6 +105,7 @@ In name:
  - Pork Carnita @ *Que Rico*  
   
 In description:   
+ - Bolognese Sauce @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
@@ -114,6 +113,7 @@ In name:
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Plant Based Chicken Strips @ *Global Kitchen*  
  - Chicken Pot Pie w/Biscuit @ *1849*  
+ - Diced Chicken @ *Que Rico*  
  - Chicken Tortilla Soup @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   

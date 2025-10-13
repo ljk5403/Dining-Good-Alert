@@ -1,7 +1,11 @@
 # 2025-10-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-12 17:15:32  
+Updated at: 2025-10-12 18:15:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-12)  
+**Shrimp**  
+In name:   
+ - Sweet & Sour Shrimp @ *Global Kitchen*  
+  
 **lamb**  
 In name:   
  - Lamb & Beef Gyro Sandwich @ *Fired Up*  
@@ -24,7 +28,6 @@ In name:
 **chicken**  
 In name:   
  - Blackened Chicken @ *1849*  
- - Sweet & Sour Chicken @ *Global Kitchen*  
  - Plant Based Sweet & Sour Chicken @ *Global Kitchen*  
  - Fajita Chicken @ *Que Rico*  
  - Chicken Tortilla Soup @ *Great Greens*  
