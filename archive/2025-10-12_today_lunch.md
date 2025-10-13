@@ -1,6 +1,6 @@
 # 2025-10-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-13 01:29:22  
+Updated at: 2025-10-13 09:19:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-13)  
 **beef**  
 In name:   
@@ -54,16 +54,6 @@ In name:
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-10-13)  
-**Vanilla Coconut Milk Yogurt**  
-In name:   
-  
-In description:   
- - Yogurt Bar @ *Great Greens*  
-  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
 **steak**  
 In name:   
  - Country Fried Steak @ *1849*  
@@ -117,10 +107,6 @@ In name:
 In name:   
  - Redhook Ale Breaded Shrimp @ *1849*  
   
-**Tuna**  
-In name:   
- - Tuna Salad @ *Delicious*  
-  
 **fish**  
 In name:   
   
@@ -155,6 +141,7 @@ In name:
  - Chicken Fajita Torta @ *Fired Up*  
  - Tikka Masala Chicken @ *Que Rico*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
  - Station Recipe - Great Greens - FLM @ *Great Greens*  

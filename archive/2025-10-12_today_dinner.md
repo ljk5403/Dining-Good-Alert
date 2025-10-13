@@ -1,6 +1,6 @@
 # 2025-10-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-13 01:29:24  
+Updated at: 2025-10-13 09:19:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-13)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -42,32 +42,12 @@ In description:
 In name:   
  - Melon Watermelon Whole Sliced @ *Great Greens*  
   
-**Tilapia**  
-In name:   
- - Blackened Tilapia Tacos @ *Global Kitchen*  
-  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
   
-**fish**  
-In name:   
- - Vegetarian "Fish" Tacos @ *Global Kitchen*  
-  
-**beef**  
-In name:   
- - Beef Birria Tacos @ *Global Kitchen*  
-  
-In description:   
- - Pork Bratwurst Sandwich @ *1849*  
-  
-**pork**  
-In name:   
- - Pork Bratwurst Sandwich @ *1849*  
-  
 **chicken**  
 In name:   
- - Chicken Pot Pie w/Biscuit @ *1849*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-10-13)  
@@ -138,10 +118,6 @@ In name:
 In name:   
  - Shrimp Curry @ *Que Rico*  
   
-**Tuna**  
-In name:   
- - Tuna Salad @ *Delicious*  
-  
 **fish**  
 In name:   
  - Vegan Fish Sandwich @ *Fired Up*  
@@ -175,6 +151,7 @@ In description:
 **chicken**  
 In name:   
  - Lemon Chicken Rice Soup @ *Great Greens*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
