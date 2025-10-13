@@ -1,6 +1,6 @@
 # 2025-10-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-13 10:18:41  
+Updated at: 2025-10-13 11:22:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-13)  
 **beef**  
 In name:   
@@ -186,6 +186,7 @@ In name:
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE @ *Delicious*  
+ - Zupa Gulaszowa @ *Lowell Market*  
   
 **pork**  
 In name:   
@@ -193,6 +194,7 @@ In name:
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE @ *Delicious*  
+ - Zupa Gulaszowa @ *Lowell Market*  
   
 **chicken**  
 In name:   
