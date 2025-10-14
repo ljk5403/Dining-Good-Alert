@@ -1,6 +1,6 @@
 # 2025-10-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-13 18:15:33  
+Updated at: 2025-10-13 20:20:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-13)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -61,9 +61,9 @@ In description:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**Salmon**  
+**Shrimp**  
 In name:   
- - Masala Spiced Salmon @ *1849*  
+ - Redhook Ale Breaded Shrimp @ *1849*  
   
 **Tuna**  
 In name:   
@@ -71,6 +71,7 @@ In name:
   
 **beef**  
 In name:   
+ - Texas BBQ Sliced Beef Brisket @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
   
 In description:   
@@ -89,18 +90,21 @@ In description:
   
 **chicken**  
 In name:   
- - Greek Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pizza Slice Chicken Tomatillo @ *Gordon Capital City Pizza*  
  - Chicken Tamale with Oaxaca @ *Gordon Que Rico*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - BYO - MTO Chicken Wrap - Gordon @ *Gordon Eggcetera*  
- - Build Your Own Chicken Wrap (Gordon) @ *Gordon Eggcetera*  
+ - Chicken Thigh Strip @ *Gordon Eggcetera*  
   
 In description:   
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-10-13)  
+**Bulgogi**  
+In name:   
+ - Bulgogi Beef @ *Global Kitchen*  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -112,6 +116,7 @@ In name:
 **steak**  
 In name:   
  - Country Fried Steak @ *1849*  
+ - Rosemary Cabernet Flank Steak @ *1849*  
   
 **Shrimp**  
 In name:   
@@ -133,16 +138,17 @@ In name:
 **beef**  
 In name:   
  - Barbacoa Beef w/Mango Habanero Sandwich @ *Fired Up*  
+ - Bulgogi Beef @ *Global Kitchen*  
   
 In description:   
  - German Plate (Pork) @ *1849*  
  - Country Fried Steak @ *1849*  
  - Knockwurst @ *1849*  
+ - Rosemary Cabernet Flank Steak @ *1849*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
 In name:   
- - Italian Pork Sausage @ *Global Kitchen*  
  - German Plate (Pork) @ *1849*  
   
 In description:   
