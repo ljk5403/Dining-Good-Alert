@@ -1,6 +1,6 @@
 # 2025-10-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-14 10:20:21  
+Updated at: 2025-10-14 11:23:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-14)  
 **Samosas**  
 In name:   
@@ -139,10 +139,6 @@ In description:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**Tuna**  
-In name:   
- - Tuna Salad @ *Delicious*  
-  
 **beef**  
 In name:   
  - Beef Pita Kabaub @ *1849*  
@@ -166,6 +162,7 @@ In name:
  - Italian Chicken @ *Global Kitchen*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
  - Mediterranean Chicken @ *Create-A-Bowl*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
