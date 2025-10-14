@@ -1,10 +1,10 @@
 # 2025-10-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-14 15:19:52  
+Updated at: 2025-10-14 16:15:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-14)  
-**Samosas**  
+**Pakoras**  
 In name:   
- - Samosas @ *Global Kitchen*  
+ - Appetizer -  Pakoras Vegetable (Veg) @ *Global Kitchen*  
   
 **Salmon**  
 In name:   
@@ -237,5 +237,6 @@ In name:
  - Chicken & Vegetables w/Dijon Vinaigrette @ *Lowell Market*  
  - Beef & Chicken Meatballs @ *Lowell Market*  
  - Diced Chicken Breast @ *Lowell Market*  
+ - Chicken Piccata @ *Lowell Market*  
   
   

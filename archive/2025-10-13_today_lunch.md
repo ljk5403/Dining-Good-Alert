@@ -1,6 +1,6 @@
 # 2025-10-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-14 13:27:09  
+Updated at: 2025-10-14 15:19:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-14)  
 **Samosas**  
 In name:   
@@ -108,7 +108,6 @@ In description:
   
 **beef**  
 In name:   
- - Beef Tri Tip Carved w/ Chimichurri @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pizza Slice Italian Beef @ *Gordon Capital City Pizza*  
  - Beef Taco Meat @ *Gordon Que Rico*  
