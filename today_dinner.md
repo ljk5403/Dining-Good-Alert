@@ -1,6 +1,6 @@
 # 2025-10-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-14 13:27:14  
+Updated at: 2025-10-14 15:19:52  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-14)  
 **Samosas**  
 In name:   
@@ -145,13 +145,9 @@ In description:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**Salmon**  
+**steak**  
 In name:   
- - Smoked Salmon @ *1849*  
-  
-**Shrimp**  
-In name:   
- - Fried Popcorn Shrimp @ *1849*  
+ - Rosemary Cabernet Flank Steak @ *1849*  
   
 **lamb**  
 In name:   
@@ -163,6 +159,7 @@ In name:
  - Mediterranean Beef @ *Create-A-Bowl*  
   
 In description:   
+ - Rosemary Cabernet Flank Steak @ *1849*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
