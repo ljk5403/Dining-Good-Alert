@@ -1,6 +1,6 @@
 # 2025-10-15 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-15 12:16:22  
+Updated at: 2025-10-15 13:27:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-15)  
 **beef**  
 In name:   
@@ -67,9 +67,14 @@ In description:
  - California Roll  (FujiSan) @ *Gordon Global Kitchen*  
  - Tempura Roll (FujiSan) @ *Gordon Global Kitchen*  
   
+**lamb**  
+In name:   
+ - Lamb & Beef Gyro Sandwich @ *Gordon Fired Up*  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Lamb & Beef Gyro Sandwich @ *Gordon Fired Up*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Bean Chili @ *Great Greens*  
   
