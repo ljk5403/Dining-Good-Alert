@@ -1,6 +1,6 @@
 # 2025-10-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-14 18:16:16  
+Updated at: 2025-10-14 20:22:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-14)  
 **Pakoras**  
 In name:   
@@ -23,6 +23,7 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Beef Tortellini @ *Buona Cucina*  
  - Beef Street Taco @ *Fired Up*  
  - Beef Vindaloo @ *Global Kitchen*  
  - Plant-Based Beef Curry Squash @ *Global Kitchen*  
@@ -86,7 +87,6 @@ In description:
 **Poke Bar**  
 In name:   
  - Poke Bar @ *Gordon Global Kitchen*  
- - Build Your Own Poke Bar @ *Gordon Global Kitchen*  
   
 **steak**  
 In name:   
@@ -95,8 +95,13 @@ In name:
 In description:   
  - Pizza Slice Italian Beef @ *Gordon Capital City Pizza*  
   
+**mahi mahi**  
+In name:   
+ - Blackened Mahi Mahi @ *1849*  
+  
 **Shrimp**  
 In name:   
+ - Poke Shrimp @ *Gordon Global Kitchen*  
   
 In description:   
  - Poke Bar @ *Gordon Global Kitchen*  
@@ -109,27 +114,26 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Ravioli w/Tomato Sauce @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pizza Slice Italian Beef @ *Gordon Capital City Pizza*  
  - Beef Steak Fajita Plate w/Rice & Beans @ *Gordon Que Rico*  
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Gordon Capital City Pizza*  
+ - Fired Up Blended Burger @ *Fired Up*  
   
 **pork**  
 In name:   
- - BBQ Pork Chop @ *1849*  
  - Pizza Slice Deluxe (Pork) @ *Gordon Capital City Pizza*  
  - Filipino Pork Sausage @ *Gordon Eggcetera*  
  - FiIipino Pork Spring Roll @ *Gordon Eggcetera*  
   
 **chicken**  
 In name:   
- - Baked BBQ Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Chicken Fajitas w/Rice & Beans @ *Gordon Que Rico*  
- - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Gordon Capital City Pizza*  
@@ -149,13 +153,8 @@ In name:
 In name:   
  - Rosemary Cabernet Flank Steak @ *1849*  
   
-**lamb**  
-In name:   
- - Lamb & Beef Gyro Sandwich @ *Fired Up*  
-  
 **beef**  
 In name:   
- - Lamb & Beef Gyro Sandwich @ *Fired Up*  
  - Mediterranean Beef @ *Create-A-Bowl*  
   
 In description:   
@@ -170,6 +169,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Crispy Chicken Sandwich @ *Fired Up*  
  - Italian Chicken @ *Global Kitchen*  
  - Chicken Creole @ *1849*  
  - Chicken Mole w/ Rice @ *Que Rico*  
