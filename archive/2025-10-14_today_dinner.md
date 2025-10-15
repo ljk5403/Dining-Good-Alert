@@ -1,6 +1,6 @@
 # 2025-10-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-15 15:20:51  
+Updated at: 2025-10-15 16:16:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-15)  
 **drumstick**  
 In name:   
@@ -82,18 +82,18 @@ In name:
  - Beef Alicha @ *1849*  
  - Plant-Based Beef Bean & Carrot Stir Fry @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Beef Street Taco @ *Gordon Que Rico*  
  - Beef & Bean Chili @ *Great Greens*  
   
 In description:   
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
  - Pizza Slice Reuben @ *Gordon Capital City Pizza*  
- - Vegetarian Hot Tamale Pie @ *Gordon Que Rico*  
+ - Vegan Taco Filling @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Gluten Free Pork Sausage Pizza Quarter @ *Gordon Capital City Pizza*  
- - Pork Tamale with Oaxaca @ *Gordon Que Rico*  
  - Pulled Pork Sandwich with Maw Maw Slaw @ *Fired Up*  
   
 **chicken**  
@@ -102,9 +102,6 @@ In name:
  - General Tso's Chicken @ *Gordon Global Kitchen*  
  - Brown Stew w/ Chicken @ *Gordon Eggcetera*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
-  
-In description:   
- - Pork Tamale with Oaxaca @ *Gordon Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-10-15)  
 **watermelon**  
