@@ -1,6 +1,6 @@
 # 2025-10-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-16 17:13:52  
+Updated at: 2025-10-16 18:15:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-16)  
 **drumstick**  
 In name:   
@@ -61,32 +61,19 @@ In description:
 **Bulgogi**  
 In name:   
  - Portabella Mushroom Bulgogi Tacos @ *Gordon Global Kitchen*  
- - Beef Bulgogi Tacos @ *Gordon Global Kitchen*  
+ - Bulgogi Pork @ *Gordon Global Kitchen*  
   
 **Tandoori Chicken**  
 In name:   
  - Grilled Tandoori Chicken Sandwich @ *Fired Up*  
   
-**Shrimp**  
-In name:   
-  
-In description:   
- - Beef Bulgogi Tacos @ *Gordon Global Kitchen*  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
   
-**fish**  
-In name:   
-  
-In description:   
- - Beef Bulgogi Tacos @ *Gordon Global Kitchen*  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Bulgogi Tacos @ *Gordon Global Kitchen*  
  - Beef Enchilada Bake @ *Gordon Que Rico*  
   
 In description:   
@@ -95,6 +82,7 @@ In description:
 **pork**  
 In name:   
  - Herb Crusted Pork Loin @ *1849*  
+ - Bulgogi Pork @ *Gordon Global Kitchen*  
   
 In description:   
  - Pizza Breakfast Meat w/Bacon @ *Gordon Capital City Pizza*  

@@ -1,6 +1,6 @@
 # 2025-10-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-16 16:15:59  
+Updated at: 2025-10-16 17:13:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-16)  
 **Tuna**  
 In name:   
@@ -194,7 +194,7 @@ In description:
 **chicken**  
 In name:   
  - Tikka Masala Chicken @ *Carson's 1849:  Available Between 11am-2pm*  
- - Chicken Noodle Soup @ *Great Greens:  Available Between 11am-4pm*  
+ - Chicken Tortilla Soup @ *Great Greens:  Available Between 11am-4pm*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza:  Available Between 11am-4pm*  
