@@ -1,6 +1,6 @@
 # 2025-10-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-16 01:27:41  
+Updated at: 2025-10-16 09:18:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-16)  
 **Tuna**  
 In name:   
@@ -55,12 +55,6 @@ In name:
  - Chicken Noodle Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-10-16)  
-**Vanilla Coconut Milk Yogurt**  
-In name:   
-  
-In description:   
- - Yogurt Bar @ *Great Greens*  
-  
 **Bulgogi**  
 In name:   
  - Portabella Mushroom Bulgogi Tacos @ *Gordon Global Kitchen*  
@@ -208,20 +202,14 @@ In description:
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza:  Available Between 11am-4pm*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-10-16)  
-**curry**  
-In name:   
- - Beef Curry Stew @ *Lowell Market*  
-  
 **beef**  
 In name:   
- - Beef Curry Stew @ *Lowell Market*  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE @ *Delicious*  
   
 **pork**  
 In name:   
- - Pork Carnita @ *Lowell Market*  
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE @ *Delicious*  
@@ -229,6 +217,5 @@ In description:
 **chicken**  
 In name:   
  - Chicken Noodle Soup @ *Great Greens*  
- - Chicken Tinga @ *Lowell Market*  
   
   
