@@ -1,6 +1,6 @@
 # 2025-10-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-16 09:18:43  
+Updated at: 2025-10-16 10:19:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-16)  
 **drumstick**  
 In name:   
@@ -129,10 +129,6 @@ In name:
 In description:   
  - Fish Tacos @ *Que Rico*  
   
-**Tuna**  
-In name:   
- - Tuna Salad @ *Delicious*  
-  
 **fish**  
 In name:   
  - Fish Tacos @ *Que Rico*  
@@ -162,6 +158,7 @@ In description:
 In name:   
  - Baked BBQ Chicken @ *1849*  
  - Chicken Noodle Soup @ *Great Greens*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
  - Collard Greens w/Bacon @ *1849*  
