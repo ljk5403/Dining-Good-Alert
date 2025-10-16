@@ -1,6 +1,6 @@
 # 2025-10-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-15 18:15:50  
+Updated at: 2025-10-15 20:22:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-15)  
 **drumstick**  
 In name:   
@@ -70,17 +70,10 @@ In name:
 In name:   
  - Caribbean Cod @ *1849*  
   
-**fish**  
-In name:   
-  
-In description:   
- - California Roll  (FujiSan) @ *Gordon Global Kitchen*  
- - Tempura Roll (FujiSan) @ *Gordon Global Kitchen*  
-  
 **beef**  
 In name:   
  - Beef Alicha @ *1849*  
- - Plant-Based Beef Bean & Carrot Stir Fry @ *1849*  
+ - Plant-Based Beef Bean & Carrot Stir Fry @ *Gordon Eggcetera*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Street Taco @ *Gordon Que Rico*  
  - Beef & Bean Chili @ *Great Greens*  
@@ -100,7 +93,6 @@ In name:
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - General Tso's Chicken @ *Gordon Global Kitchen*  
- - Brown Stew w/ Chicken @ *Gordon Eggcetera*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-10-15)  
@@ -115,7 +107,6 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Global Kitchen*  
- - Beef Sirloin Tips @ *1849*  
  - Beef & Bean Chili @ *Great Greens*  
  - Protein - Beef Thinly Sliced @ *Create-A-Bowl*  
   
@@ -127,7 +118,6 @@ In description:
   
 **pork**  
 In name:   
- - BBQ Pork Chop @ *1849*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
