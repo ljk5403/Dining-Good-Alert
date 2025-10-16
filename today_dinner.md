@@ -1,6 +1,6 @@
 # 2025-10-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-16 15:20:13  
+Updated at: 2025-10-16 16:16:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-16)  
 **drumstick**  
 In name:   
@@ -209,6 +209,7 @@ In name:
   
 In description:   
  - Station Recipe - Deli Lowell AYCTE @ *Delicious*  
+ - Sauerbraten @ *Lowell Market*  
   
 **pork**  
 In name:   
@@ -221,5 +222,6 @@ In description:
 In name:   
  - Chicken Noodle Soup @ *Great Greens*  
  - Za'tar and Lemon Grilled Chicken @ *Lowell Market*  
+ - Chicken Schnitzel @ *Lowell Market*  
   
   
