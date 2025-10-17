@@ -1,6 +1,6 @@
 # 2025-10-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-17 13:24:20  
+Updated at: 2025-10-17 15:20:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-17)  
 **Salmon**  
 In name:   
@@ -20,7 +20,7 @@ In description:
   
 **beef**  
 In name:   
- - Beef Taco Meat @ *Que Rico*  
+ - Beef Fajita Meat @ *Que Rico*  
   
 In description:   
  - Pork Bratwurst Sandwich @ *Fired Up*  
@@ -135,6 +135,7 @@ In name:
   
 **Shrimp**  
 In name:   
+ - Fried Popcorn Shrimp @ *1849*  
   
 In description:   
  - BYO Bar - Four Lakes Bulgogi @ *Create-A-Bowl*  
