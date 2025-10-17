@@ -1,6 +1,6 @@
 # 2025-10-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-16 17:13:48  
+Updated at: 2025-10-16 18:15:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-16)  
 **Tuna**  
 In name:   
@@ -148,7 +148,7 @@ In description:
 In name:   
  - Plant-Based Chicken Tenders @ *Fired Up*  
  - Chicken Tinga @ *Que Rico*  
- - Chicken Noodle Soup @ *Great Greens*  
+ - Lemon Chicken Rice Soup @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   

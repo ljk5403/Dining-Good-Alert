@@ -1,6 +1,6 @@
 # 2025-10-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-16 18:15:21  
+Updated at: 2025-10-16 20:22:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-16)  
 **drumstick**  
 In name:   
@@ -67,9 +67,17 @@ In name:
 In name:   
  - Grilled Tandoori Chicken Sandwich @ *Fired Up*  
   
+**Tilapia**  
+In name:   
+ - Blackened Tilapia @ *1849*  
+  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
+  
+**curry**  
+In name:   
+ - Thai Veggie Meatballs w/ Green Curry @ *1849*  
   
 **beef**  
 In name:   
@@ -81,7 +89,6 @@ In description:
   
 **pork**  
 In name:   
- - Herb Crusted Pork Loin @ *1849*  
  - Bulgogi Pork @ *Gordon Global Kitchen*  
   
 In description:   
@@ -208,7 +215,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Noodle Soup @ *Great Greens*  
  - Za'tar and Lemon Grilled Chicken @ *Lowell Market*  
  - Chicken Schnitzel @ *Lowell Market*  
   
