@@ -1,6 +1,6 @@
 # 2025-10-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-17 15:20:05  
+Updated at: 2025-10-17 16:15:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-17)  
 **Shrimp**  
 In name:   
@@ -86,10 +86,6 @@ In name:
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
-  
-**corn bake**  
-In name:   
- - Sweet Corn Bake (Veg) @ *1849*  
   
 **Shrimp**  
 In name:   
