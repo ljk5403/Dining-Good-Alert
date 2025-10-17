@@ -1,6 +1,6 @@
 # 2025-10-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-17 01:27:11  
+Updated at: 2025-10-17 09:17:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-17)  
 **Salmon**  
 In name:   
@@ -76,16 +76,6 @@ In name:
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-10-17)  
-**Vanilla Coconut Milk Yogurt**  
-In name:   
-  
-In description:   
- - Yogurt Bar @ *Great Greens*  
-  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
 **Tandoori Chicken**  
 In name:   
  - Tandoori Chicken @ *Gordon Global Kitchen*  
@@ -159,10 +149,6 @@ In name:
 In description:   
  - Clam Chowder (Pork) @ *Great Greens*  
   
-**Tuna**  
-In name:   
- - Tuna Salad @ *Delicious*  
-  
 **fish**  
 In name:   
   
@@ -191,6 +177,7 @@ In name:
  - Chicken Quesadilla @ *Fired Up*  
  - Pizza Slice BBQ Chicken & Bacon @ *Que Rico*  
  - Bulgogi Chicken @ *Create-A-Bowl*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
  - Station Recipe - Great Greens - FLM @ *Great Greens*  

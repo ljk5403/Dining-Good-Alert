@@ -1,6 +1,6 @@
 # 2025-10-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-17 01:27:14  
+Updated at: 2025-10-17 09:17:52  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-17)  
 **Shrimp**  
 In name:   
@@ -170,10 +170,6 @@ In name:
 In description:   
  - Clam Chowder (Pork) @ *Great Greens*  
   
-**Tuna**  
-In name:   
- - Tuna Salad @ *Delicious*  
-  
 **fish**  
 In name:   
   
@@ -211,6 +207,7 @@ In description:
 **chicken**  
 In name:   
  - Bulgogi Chicken @ *Create-A-Bowl*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Que Rico*  
