@@ -1,6 +1,6 @@
 # 2025-10-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-17 10:18:24  
+Updated at: 2025-10-17 11:22:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-17)  
 **Salmon**  
 In name:   
@@ -133,10 +133,6 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**Salmon**  
-In name:   
- - Blackened Salmon @ *1849*  
-  
 **Shrimp**  
 In name:   
   
@@ -153,7 +149,6 @@ In description:
 In name:   
   
 In description:   
- - Blackened Salmon @ *1849*  
  - BYO Bar - Four Lakes Bulgogi @ *Create-A-Bowl*  
   
 **beef**  
@@ -217,5 +212,7 @@ In description:
 **chicken**  
 In name:   
  - Tikka Masala Chicken @ *Lowell Market*  
+ - Breaded Chicken Tenders @ *Lowell Market*  
+ - Rice for Chicken Biryani @ *Lowell Market*  
   
   
