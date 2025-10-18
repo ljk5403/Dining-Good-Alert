@@ -1,6 +1,6 @@
 # 2025-10-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-18 16:14:40  
+Updated at: 2025-10-18 17:15:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-18)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-10-18)  
 **watermelon**  
@@ -103,7 +103,6 @@ In name:
   
 In description:   
  - Andouille Sausage @ *1849*  
- - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Ham Steak @ *Create-A-Bowl*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
@@ -115,7 +114,6 @@ In name:
   
 In description:   
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
- - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-10-18)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-10-18)  

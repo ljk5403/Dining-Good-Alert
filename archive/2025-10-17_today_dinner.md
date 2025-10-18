@@ -1,6 +1,6 @@
 # 2025-10-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-18 15:17:58  
+Updated at: 2025-10-18 16:14:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-18)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-10-18)  
 **watermelon**  
@@ -66,7 +66,6 @@ In name:
  - Chicken Sausage Gumbo @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Chicken Tinga @ *Gordon Que Rico*  
- - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
   
 In description:   
