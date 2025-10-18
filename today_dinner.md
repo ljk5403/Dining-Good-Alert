@@ -1,6 +1,6 @@
 # 2025-10-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-17 18:15:33  
+Updated at: 2025-10-17 20:18:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-17)  
 **Shrimp**  
 In name:   
@@ -111,30 +111,25 @@ In name:
 In name:   
  - Curry Mango - Tofu @ *Gordon Global Kitchen*  
   
-In description:   
- - Tikka Masala Chicken @ *Gordon Global Kitchen*  
-  
 **beef**  
 In name:   
  - Texas BBQ Sliced Beef Brisket @ *1849*  
+ - Beef Enchilada Bake @ *Gordon Global Kitchen*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Shredded Beef Flauta @ *Gordon Que Rico*  
   
 In description:   
- - Kielbasa with Pierogis @ *Gordon Eggcetera*  
+ - Sliced Kielbasa (Pork) @ *Gordon Eggcetera*  
   
 **pork**  
 In name:   
  - Tavern Style Sausage Pizza (Pork) @ *Gordon Capital City Pizza*  
  - Clam Chowder (Pork) @ *Great Greens*  
-  
-In description:   
- - Kielbasa with Pierogis @ *Gordon Eggcetera*  
+ - Sliced Kielbasa (Pork) @ *Gordon Eggcetera*  
   
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Tikka Masala Chicken @ *Gordon Global Kitchen*  
  - Chicken and Cheese Flauta @ *Gordon Que Rico*  
   
 In description:   
@@ -147,7 +142,6 @@ In name:
  - Bulgogi Beef @ *Create-A-Bowl*  
  - Bulgogi Chicken @ *Create-A-Bowl*  
  - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
- - Build Your Own Bulgogi Bar - Four Lakes @ *Create-A-Bowl*  
   
 **watermelon**  
 In name:   
@@ -159,6 +153,7 @@ In name:
   
 In description:   
  - BYO Bar - Four Lakes Bulgogi @ *Create-A-Bowl*  
+ - Kimchee @ *Create-A-Bowl*  
   
 **Cod**  
 In name:   
@@ -171,6 +166,7 @@ In name:
   
 In description:   
  - BYO Bar - Four Lakes Bulgogi @ *Create-A-Bowl*  
+ - Kimchee @ *Create-A-Bowl*  
   
 **lamb**  
 In name:   
