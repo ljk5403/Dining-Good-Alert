@@ -1,6 +1,6 @@
 # 2025-10-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-18 01:24:53  
+Updated at: 2025-10-18 09:15:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-18)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-10-18)  
 **watermelon**  
@@ -32,9 +32,15 @@ In description:
 In name:   
  - Coconut Shrimp @ *1849*  
   
-**lamb**  
+**Cod**  
 In name:   
- - Lamb & Beef Gyro Sandwich @ *Gordon Fired Up*  
+  
+In description:   
+ - Petite Fish Sandwich @ *Gordon Fired Up*  
+  
+**fish**  
+In name:   
+ - Petite Fish Sandwich @ *Gordon Fired Up*  
   
 **curry**  
 In name:   
@@ -44,7 +50,6 @@ In name:
 In name:   
  - Beef Curry Stew @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Lamb & Beef Gyro Sandwich @ *Gordon Fired Up*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
