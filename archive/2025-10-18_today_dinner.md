@@ -1,6 +1,6 @@
 # 2025-10-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-19 12:14:24  
+Updated at: 2025-10-19 13:23:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-19)  
 **Cod**  
 In name:   
@@ -98,7 +98,7 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Global Kitchen*  
- - Beef Taco Meat @ *Que Rico*  
+ - Beef Fajita Meat @ *Que Rico*  
   
 In description:   
  - Polish Combo Blended Cheeseburger (Pork) @ *Fired Up*  
