@@ -1,6 +1,6 @@
 # 2025-10-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-19 01:25:55  
+Updated at: 2025-10-19 09:14:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-19)  
 **Tuna**  
 In name:   
@@ -36,6 +36,7 @@ In description:
 **steak**  
 In name:   
  - Grilled Flank Steak @ *1849*  
+ - Steak for Street Taco @ *Gordon Que Rico*  
   
 **beef**  
 In name:   
@@ -48,11 +49,11 @@ In description:
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Blackened Blended Hamburger @ *Gordon Fired Up*  
  - Vegan Taco Filling @ *Gordon Que Rico*  
+ - Steak for Street Taco @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
  - Baked Pork Ham @ *1849*  
- - Pork Carnita @ *Gordon Que Rico*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
