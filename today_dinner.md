@@ -1,6 +1,6 @@
 # 2025-10-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-18 18:15:34  
+Updated at: 2025-10-18 20:38:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-18)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-10-18)  
 **watermelon**  
@@ -37,9 +37,9 @@ In name:
 In description:   
  - Yogurt Bar @ *Great Greens*  
   
-**Shrimp**  
+**mahi mahi**  
 In name:   
- - Shrimp Creole @ *1849*  
+ - Island Spiced Mahi Mahi @ *1849*  
   
 **beef**  
 In name:   
