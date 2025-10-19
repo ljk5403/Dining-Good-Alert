@@ -1,6 +1,6 @@
 # 2025-10-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-19 17:16:08  
+Updated at: 2025-10-19 18:15:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-19)  
 **Tuna**  
 In name:   
@@ -100,7 +100,6 @@ In name:
  - Grilled Chicken Sandwich @ *Fired Up*  
  - Plant Based Chicken Strips @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
- - Chicken Tortilla Soup @ *Great Greens*  
   
 In description:   
  - Station Recipe - Great Greens - FLM @ *Great Greens*  

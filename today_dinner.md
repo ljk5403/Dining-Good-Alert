@@ -1,6 +1,6 @@
 # 2025-10-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-19 17:16:10  
+Updated at: 2025-10-19 18:16:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-19)  
 **Cod**  
 In name:   
@@ -117,7 +117,6 @@ In description:
 In name:   
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Plant Based Chicken Strips @ *Global Kitchen*  
- - Chicken Tortilla Soup @ *Great Greens*  
   
 In description:   
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
