@@ -1,6 +1,6 @@
 # 2025-10-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-20 15:21:15  
+Updated at: 2025-10-20 16:16:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-20)  
 **Shrimp**  
 In name:   
@@ -69,6 +69,10 @@ In description:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**drumstick**  
+In name:   
+ - Chicken Drumstick BBQ Glazed @ *1849*  
+  
 **steak**  
 In name:   
  - Pizza Slice Philly Cheesesteak @ *Gordon Capital City Pizza*  
@@ -82,9 +86,12 @@ In name:
 In name:   
  - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
   
+**curry**  
+In name:   
+ - Thai Veggie Meatballs w/ Green Curry @ *1849*  
+  
 **beef**  
 In name:   
- - Beef Goulash w/Egg Noodles @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
   
 In description:   
@@ -100,6 +107,7 @@ In name:
   
 **chicken**  
 In name:   
+ - Chicken Drumstick BBQ Glazed @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
@@ -128,6 +136,10 @@ In name:
 **mahi mahi**  
 In name:   
  - Baked Mahi Mahi w/ Butter & Lemon @ *1849*  
+  
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
   
 **fish**  
 In name:   
@@ -162,7 +174,6 @@ In name:
  - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
  - Chicken Curry @ *Que Rico*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
