@@ -1,6 +1,6 @@
 # 2025-10-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-20 10:19:02  
+Updated at: 2025-10-20 11:23:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-20)  
 **Tuna**  
 In name:   
@@ -8,14 +8,15 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Barbacoa @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
  - Kielbasa with Pierogis @ *1849*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  
 In name:   
- - Pizza Slice BBQ Pulled Pork @ *Capital City Pizza*  
  - Breaded Pork Cutlet Sandwich @ *Fired Up*  
  - Italian Pork Sausage @ *Buona Cucina*  
   
@@ -29,6 +30,9 @@ In name:
  - Chicken Tinga @ *Que Rico*  
  - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
+  
+In description:   
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-10-20)  
 **watermelon**  
@@ -67,6 +71,7 @@ In description:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-10-20)  
 **steak**  
 In name:   
+ - Grilled Flank Steak @ *1849*  
  - Pizza Slice Philly Cheesesteak @ *Gordon Capital City Pizza*  
   
 **Salmon**  
@@ -85,11 +90,12 @@ In description:
   
 **beef**  
 In name:   
- - Beef Sirloin Tips @ *1849*  
+ - Beef Gravy @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
+ - Grilled Flank Steak @ *1849*  
  - Pizza Slice Philly Cheesesteak @ *Gordon Capital City Pizza*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
  - Italian Meatball Sandwich @ *Gordon Fired Up*  
