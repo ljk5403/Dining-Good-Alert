@@ -1,13 +1,22 @@
 # 2025-10-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-20 12:16:15  
+Updated at: 2025-10-20 13:27:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-20)  
+**Chicken Drummies**  
+In name:   
+ - Chicken Drummies @ *Fired Up*  
+  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
   
+**curry**  
+In name:   
+ - Ground Beef Curry @ *Global Kitchen*  
+  
 **beef**  
 In name:   
+ - Ground Beef Curry @ *Global Kitchen*  
  - Beef Barbacoa @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
   
@@ -17,7 +26,6 @@ In description:
   
 **pork**  
 In name:   
- - Breaded Pork Cutlet Sandwich @ *Fired Up*  
  - Italian Pork Sausage @ *Buona Cucina*  
   
 In description:   
@@ -26,7 +34,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Teriyaki Stir Fry @ *Global Kitchen*  
+ - Chicken Drummies @ *Fired Up*  
  - Chicken Tinga @ *Que Rico*  
  - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
