@@ -1,6 +1,6 @@
 # 2025-10-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-19 18:16:01  
+Updated at: 2025-10-19 20:28:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-19)  
 **Cod**  
 In name:   
@@ -43,8 +43,14 @@ In name:
 In description:   
  - Yogurt Bar @ *Great Greens*  
   
+**curry**  
+In name:   
+ - Beef Curry Stew @ *1849*  
+  
 **beef**  
 In name:   
+ - Beef Curry Stew @ *1849*  
+ - Beef Enchilada Bake @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
@@ -55,7 +61,6 @@ In description:
   
 **pork**  
 In name:   
- - Biscuits & Pork Gravy @ *1849*  
  - Pork Carnita @ *Gordon Que Rico*  
   
 In description:   
