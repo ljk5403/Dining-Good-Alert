@@ -1,6 +1,6 @@
 # 2025-10-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-20 15:21:11  
+Updated at: 2025-10-20 16:16:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-20)  
 **Chicken Drummies**  
 In name:   
@@ -132,6 +132,10 @@ In name:
 In name:   
  - Appetizer -  Pakoras Vegetable (Veg) @ *Que Rico*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **fish**  
 In name:   
   
@@ -167,8 +171,7 @@ In description:
 **chicken**  
 In name:   
  - Orange Sweet & Spicy Chicken @ *1849*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Chicken Tortilla Soup @ *Great Greens*  
   
 In description:   
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
