@@ -1,6 +1,6 @@
 # 2025-10-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-20 13:27:58  
+Updated at: 2025-10-20 15:21:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-20)  
 **Chicken Drummies**  
 In name:   
@@ -149,6 +149,7 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Vindaloo @ *Que Rico*  
   
 In description:   
  - Italian Meat Sauce @ *Global Kitchen*  
@@ -166,7 +167,6 @@ In description:
 **chicken**  
 In name:   
  - Orange Sweet & Spicy Chicken @ *1849*  
- - Butter Chicken @ *Que Rico*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   

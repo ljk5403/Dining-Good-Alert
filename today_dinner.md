@@ -1,6 +1,6 @@
 # 2025-10-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-20 13:29:27  
+Updated at: 2025-10-20 15:21:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-20)  
 **Shrimp**  
 In name:   
@@ -12,11 +12,11 @@ In name:
   
 **beef**  
 In name:   
- - Southwestern Corned Beef Hash @ *1849*  
  - Big Texan Beef Sandwich @ *Fired Up*  
   
 **pork**  
 In name:   
+ - Southern Style Pork Spare Ribs @ *1849*  
  - Biscuits & Pork Gravy @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
  - Pizza Slice BBQ Pulled Pork @ *Capital City Pizza*  
@@ -72,25 +72,15 @@ In name:
 **steak**  
 In name:   
  - Pizza Slice Philly Cheesesteak @ *Gordon Capital City Pizza*  
- - Smothered Steak Burrito @ *Gordon Que Rico*  
  - Philly Cheesesteak Sandwich @ *Fired Up*  
- - Tempeh Philly Cheesesteak Sandwich @ *Fired Up*  
+  
+**Shrimp**  
+In name:   
+ - Shrimp & Green Chile Burrito @ *Gordon Que Rico*  
   
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Poulet Braise @ *Gordon Eggcetera*  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Jollof Rice - 25 @ *Gordon Eggcetera*  
   
 **beef**  
 In name:   
@@ -100,7 +90,6 @@ In name:
 In description:   
  - Pizza Slice Philly Cheesesteak @ *Gordon Capital City Pizza*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
- - Smothered Steak Burrito @ *Gordon Que Rico*  
  - Philly Cheesesteak Sandwich @ *Fired Up*  
   
 **pork**  
@@ -116,7 +105,6 @@ In name:
   
 In description:   
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
- - Poulet Braise @ *Gordon Eggcetera*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-10-20)  
 **watermelon**  
@@ -225,6 +213,10 @@ In description:
  - Cocktail Smokies (Pork) @ *Eggcetera*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-10-20)  
+**Tilapia**  
+In name:   
+ - Baked Tilapia w/Dill Wine Sauce @ *Lowell Market*  
+  
 **beef**  
 In name:   
  - Corned Beef @ *Lowell Market*  
