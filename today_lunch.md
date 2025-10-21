@@ -1,6 +1,6 @@
 # 2025-10-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-21 17:15:59  
+Updated at: 2025-10-21 18:17:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-21)  
 **curry**  
 In name:   
@@ -123,6 +123,7 @@ In name:
 In name:   
  - Beef French Dip Sandwich @ *1849*  
  - Beef Fajita Meat @ *Que Rico*  
+ - Beef Chili w/ Beans @ *Great Greens*  
  - Mediterranean Beef @ *Create-A-Bowl*  
   
 In description:   
@@ -140,7 +141,6 @@ In name:
  - Brazilian Chicken w/ Salsa Vinaigrette @ *1849*  
  - Italian Chicken @ *Global Kitchen*  
  - Chicken Tinga @ *Que Rico*  
- - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
  - Mediterranean Chicken @ *Create-A-Bowl*  
   
 In description:   
