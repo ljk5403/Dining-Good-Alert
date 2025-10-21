@@ -1,7 +1,13 @@
 # 2025-10-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-21 15:21:05  
+Updated at: 2025-10-21 16:16:52  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-21)  
+**fish**  
+In name:   
+  
+In description:   
+ - Filipino Barbecue Pork @ *1849*  
+  
 **curry**  
 In name:   
  - Curry Squash @ *Global Kitchen*  
@@ -21,7 +27,7 @@ In description:
   
 **pork**  
 In name:   
- - Southern Style Pork Spare Ribs @ *1849*  
+ - Filipino Barbecue Pork @ *1849*  
   
 In description:   
  - Cocktail Wieners & BBQ Sauce @ *Fired Up*  
@@ -194,6 +200,16 @@ In description:
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-10-21)  
+**Salmon**  
+In name:   
+ - Grilled Salmon @ *Lowell Market*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Grilled Salmon @ *Lowell Market*  
+  
 **beef**  
 In name:   
  - Texas BBQ Sliced Beef Brisket @ *Lowell Market*  
@@ -212,5 +228,6 @@ In description:
 In name:   
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
  - Blackened Chicken (No Bun) @ *Lowell Market*  
+ - Chicken Baked  (1 piece) @ *Lowell Market*  
   
   

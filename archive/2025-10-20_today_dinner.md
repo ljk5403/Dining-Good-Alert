@@ -1,6 +1,6 @@
 # 2025-10-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-21 13:26:46  
+Updated at: 2025-10-21 15:21:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-21)  
 **curry**  
 In name:   
@@ -110,17 +110,12 @@ In description:
  - Lomo Saltado @ *Gordon Global Kitchen*  
  - Steak Street Taco @ *Gordon Que Rico*  
   
-**pork**  
-In name:   
- - Green Beans w/ Pork Bacon @ *1849*  
-  
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Pizza Slice Chicken Sriracha @ *Gordon Capital City Pizza*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
- - Chicken Paprikash @ *Gordon Eggcetera*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
