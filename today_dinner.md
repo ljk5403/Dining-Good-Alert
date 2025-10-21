@@ -1,6 +1,6 @@
 # 2025-10-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-20 18:16:10  
+Updated at: 2025-10-20 20:24:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-20)  
 **Shrimp**  
 In name:   
@@ -69,18 +69,10 @@ In description:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**drumstick**  
-In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
-  
 **steak**  
 In name:   
  - Pizza Slice Philly Cheesesteak @ *Gordon Capital City Pizza*  
  - Philly Cheesesteak Sandwich @ *Fired Up*  
-  
-**Shrimp**  
-In name:   
- - Shrimp & Green Chile Burrito @ *Gordon Que Rico*  
   
 **Tuna**  
 In name:   
@@ -104,15 +96,17 @@ In name:
  - Pork Loin Spicy Greenbush @ *1849*  
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Loaded Potato Bacon (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
+ - Pork Tamale with Oaxaca @ *Gordon Que Rico*  
   
 **chicken**  
 In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
+ - Chicken Breast w/Balsamic BBQ Sauce @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 In description:   
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
+ - Pork Tamale with Oaxaca @ *Gordon Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-10-20)  
 **watermelon**  
@@ -125,17 +119,9 @@ In name:
 In description:   
  - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
   
-**Samosas**  
+**Pakoras**  
 In name:   
- - Samosas @ *Que Rico*  
-  
-**Salmon**  
-In name:   
- - Smoked Salmon @ *1849*  
-  
-**mahi mahi**  
-In name:   
- - Baked Mahi Mahi w/ Butter & Lemon @ *1849*  
+ - Appetizer -  Pakoras Vegetable (Veg) @ *Que Rico*  
   
 **Tuna**  
 In name:   
@@ -145,7 +131,6 @@ In name:
 In name:   
   
 In description:   
- - Smoked Salmon @ *1849*  
  - California Roll  (FujiSan) @ *Create-A-Bowl*  
  - Tempura Roll (FujiSan) @ *Create-A-Bowl*  
   
@@ -157,6 +142,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Sirloin Tips @ *1849*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
