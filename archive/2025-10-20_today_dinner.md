@@ -1,6 +1,6 @@
 # 2025-10-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-21 10:18:55  
+Updated at: 2025-10-21 11:24:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-21)  
 **curry**  
 In name:   
@@ -31,7 +31,6 @@ In name:
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Crispy Chicken Sandwich @ *Fired Up*  
- - VN Sand Chicken Paradise @ *Fired Up*  
  - Chicken Korma @ *Global Kitchen*  
  - Mediterranean Chicken @ *Que Rico*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
