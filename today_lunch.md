@@ -1,6 +1,6 @@
 # 2025-10-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-21 10:18:51  
+Updated at: 2025-10-21 11:24:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-21)  
 **curry**  
 In name:   
@@ -26,6 +26,7 @@ In name:
 **chicken**  
 In name:   
  - Honey Mustard Chicken & Vegetables @ *1849*  
+ - VN Sand Chicken Paradise @ *Fired Up*  
  - Chicken Korma @ *Global Kitchen*  
  - Mediterranean Chicken @ *Que Rico*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
@@ -177,7 +178,6 @@ In name:
 In name:   
  - Chicken Wings Boneless Plain @ *Carson's 1849:  Available Between 11am-2pm*  
  - Plant-Based Chicken Nuggets (6) @ *Carson's 1849:  Available Between 11am-2pm*  
- - Cream of Chicken & Wild Rice Soup @ *Great Greens:  Available Between 11am-4pm*  
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza:  Available Between 11am-4pm*  
