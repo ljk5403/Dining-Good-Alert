@@ -1,6 +1,6 @@
 # 2025-10-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-21 13:26:51  
+Updated at: 2025-10-21 15:21:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-22)  
 **steak**  
 In name:   
@@ -129,6 +129,7 @@ In name:
  - Pizza Slice BBQ Chicken & Bacon @ *Gordon Capital City Pizza*  
  - Sesame Chicken @ *Gordon Global Kitchen*  
  - Plant Based Sesame Chicken (AYCTE) (VN) @ *Gordon Global Kitchen*  
+ - Chicken Paprikash @ *Gordon Eggcetera*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
   
 In description:   
