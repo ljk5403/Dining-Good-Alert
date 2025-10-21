@@ -1,6 +1,6 @@
 # 2025-10-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-21 12:16:56  
+Updated at: 2025-10-21 13:26:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-21)  
 **curry**  
 In name:   
@@ -82,9 +82,9 @@ In name:
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-10-21)  
-**haddock**  
+**drumstick**  
 In name:   
- - Baked Haddock w/Butter & Lemon @ *1849*  
+ - Chicken Drumstick BBQ Glazed @ *1849*  
   
 **beef**  
 In name:   
@@ -94,14 +94,11 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
- - Baked Corn Dog (Pork) @ *Gordon Fired Up*  
-  
-**pork**  
-In name:   
- - Baked Corn Dog (Pork) @ *Gordon Fired Up*  
+ - Grilled Blended Burger w/ Cheese @ *Gordon Fired Up*  
   
 **chicken**  
 In name:   
+ - Chicken Drumstick BBQ Glazed @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Pizza Slice Chicken Sriracha @ *Gordon Capital City Pizza*  
@@ -112,7 +109,6 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
- - Baked Corn Dog (Pork) @ *Gordon Fired Up*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-10-21)  
 **watermelon**  
@@ -127,7 +123,6 @@ In name:
 In name:   
  - Beef French Dip Sandwich @ *1849*  
  - Beef Fajita Meat @ *Que Rico*  
- - Beef Taco Meat @ *Que Rico*  
  - Mediterranean Beef @ *Create-A-Bowl*  
   
 In description:   
@@ -144,6 +139,7 @@ In description:
 In name:   
  - Brazilian Chicken w/ Salsa Vinaigrette @ *1849*  
  - Italian Chicken @ *Global Kitchen*  
+ - Chicken Tinga @ *Que Rico*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
  - Mediterranean Chicken @ *Create-A-Bowl*  
   
