@@ -1,6 +1,6 @@
 # 2025-10-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-21 09:17:43  
+Updated at: 2025-10-21 10:18:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-21)  
 **curry**  
 In name:   
@@ -118,6 +118,10 @@ In description:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **beef**  
 In name:   
  - Beef French Dip Sandwich @ *1849*  
@@ -141,7 +145,6 @@ In name:
  - Italian Chicken @ *Global Kitchen*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
  - Mediterranean Chicken @ *Create-A-Bowl*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
@@ -211,7 +214,7 @@ In description:
   
 **chicken**  
 In name:   
- - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
+ - Chicken Noodle Soup @ *Great Greens*  
  - Chicken Baked  (1 piece) @ *Lowell Market*  
   
   

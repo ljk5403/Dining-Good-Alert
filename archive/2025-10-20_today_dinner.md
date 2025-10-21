@@ -1,6 +1,6 @@
 # 2025-10-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-21 01:27:58  
+Updated at: 2025-10-21 09:17:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-21)  
 **curry**  
 In name:   
@@ -82,10 +82,6 @@ In name:
 In description:   
  - Yogurt Bar @ *Great Greens*  
   
-**drumstick**  
-In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
-  
 **steak**  
 In name:   
  - Steak Street Taco @ *Gordon Que Rico*  
@@ -106,6 +102,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Goulash w/Egg Noodles @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Lamb & Beef Gyro Sandwich @ *Fired Up*  
   
@@ -120,7 +117,6 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Pizza Slice Chicken Sriracha @ *Gordon Capital City Pizza*  
