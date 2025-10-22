@@ -1,13 +1,7 @@
 # 2025-10-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-21 17:16:00  
+Updated at: 2025-10-21 18:17:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-21)  
-**fish**  
-In name:   
-  
-In description:   
- - Filipino Barbecue Pork @ *1849*  
-  
 **curry**  
 In name:   
  - Curry Squash @ *Global Kitchen*  
@@ -27,7 +21,7 @@ In description:
   
 **pork**  
 In name:   
- - Filipino Barbecue Pork @ *1849*  
+ - Spicy Citrus Pork w/Black Beans & Rice @ *1849*  
   
 In description:   
  - Cocktail Wieners & BBQ Sauce @ *Fired Up*  
@@ -42,6 +36,7 @@ In name:
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
   
 In description:   
+ - Spicy Citrus Pork w/Black Beans & Rice @ *1849*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Cocktail Wieners & BBQ Sauce @ *Fired Up*  
   

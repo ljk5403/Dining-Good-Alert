@@ -1,6 +1,6 @@
 # 2025-10-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-21 18:17:44  
+Updated at: 2025-10-21 20:26:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-21)  
 **curry**  
 In name:   
@@ -17,26 +17,29 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Bratwurst @ *Fired Up*  
  - Cocktail Wieners & BBQ Sauce @ *Fired Up*  
   
 **pork**  
 In name:   
- - Spicy Citrus Pork w/Black Beans & Rice @ *1849*  
+ - Pork Spicy Citrus w/Bl Beans & Rice @ *1849*  
+ - Andouille Pork Sausage @ *1849*  
   
 In description:   
+ - Bratwurst @ *Fired Up*  
  - Cocktail Wieners & BBQ Sauce @ *Fired Up*  
   
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
- - Crispy Chicken Sandwich @ *Fired Up*  
+ - Plant-Based Chicken Nuggets (6) @ *Fired Up*  
  - Chicken Korma @ *Global Kitchen*  
  - Mediterranean Chicken @ *Que Rico*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
   
 In description:   
- - Spicy Citrus Pork w/Black Beans & Rice @ *1849*  
+ - Pork Spicy Citrus w/Bl Beans & Rice @ *1849*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Cocktail Wieners & BBQ Sauce @ *Fired Up*  
   
@@ -64,15 +67,9 @@ In name:
 In description:   
  - Salmon Spicy Roll (FujiSan) @ *Global Kitchen*  
   
-**beef**  
-In name:   
-  
-In description:   
- - Reuben @ *Global Kitchen*  
-  
 **chicken**  
 In name:   
- - Jerk Chicken Sandwich @ *Global Kitchen*  
+ - Grilled Chicken Pesto Artichoke Sandwich @ *Global Kitchen*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-10-21)  
@@ -85,16 +82,6 @@ In description:
 **steak**  
 In name:   
  - Steak Street Taco @ *Gordon Que Rico*  
-  
-**Salmon**  
-In name:   
- - Hoisin BBQ Glazed Salmon @ *1849*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Hoisin BBQ Glazed Salmon @ *1849*  
   
 **lamb**  
 In name:   
@@ -111,12 +98,16 @@ In description:
  - Lomo Saltado @ *Gordon Global Kitchen*  
  - Steak Street Taco @ *Gordon Que Rico*  
   
+**pork**  
+In name:   
+ - Pork Loin Spicy Greenbush @ *1849*  
+  
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Pizza Slice Chicken Sriracha @ *Gordon Capital City Pizza*  
- - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
+ - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
