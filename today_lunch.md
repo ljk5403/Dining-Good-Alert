@@ -1,6 +1,6 @@
 # 2025-10-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-22 16:14:06  
+Updated at: 2025-10-22 17:14:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-22)  
 **Tuna**  
 In name:   
@@ -162,7 +162,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef & Bean Chili @ *Great Greens:  Available Between 11am-4pm*  
   
 In description:   
  - Sausage (Pork) & Pepperoni Pizza Slice @ *Capital City Pizza:  Available Between 11am-4pm*  
@@ -177,6 +176,7 @@ In name:
 **chicken**  
 In name:   
  - Bulgogi Chicken Thighs @ *Global Kitchen:  Available Between 11am-2pm*  
+ - Chicken Tortilla Soup @ *Great Greens:  Available Between 11am-4pm*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera:  Available Between 11am-2pm*  
  - Buffalo Chicken Sliders @ *Fired Up:  Available Between 11am-2pm*  
   

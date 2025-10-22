@@ -1,6 +1,6 @@
 # 2025-10-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-22 15:22:17  
+Updated at: 2025-10-22 16:14:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-22)  
 **steak**  
 In name:   
@@ -11,14 +11,9 @@ In name:
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
   
-**fish**  
-In name:   
-  
-In description:   
- - Filipino Barbecue Pork @ *1849*  
-  
 **beef**  
 In name:   
+ - Southwestern Corned Beef Hash @ *1849*  
  - Beef & Bean Chili @ *Great Greens*  
   
 In description:   
@@ -28,7 +23,6 @@ In description:
   
 **pork**  
 In name:   
- - Filipino Barbecue Pork @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
  - Filipino Pork Sausage @ *Global Kitchen*  
