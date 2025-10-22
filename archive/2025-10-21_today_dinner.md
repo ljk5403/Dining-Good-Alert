@@ -1,6 +1,6 @@
 # 2025-10-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-22 16:14:10  
+Updated at: 2025-10-22 17:14:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-22)  
 **steak**  
 In name:   
@@ -191,7 +191,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef & Bean Chili @ *Great Greens*  
  - BBQ Beef Brisket Sandwich @ *Fired Up*  
   
 In description:   
@@ -208,6 +207,7 @@ In name:
 In name:   
  - Chicken Pot Pie w/Biscuit @ *Carson's 1849*  
  - Plant-Based Chicken & Gravy (VN) @ *Carson's 1849*  
+ - Chicken Tortilla Soup @ *Great Greens*  
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
