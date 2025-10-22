@@ -1,6 +1,6 @@
 # 2025-10-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-22 01:28:54  
+Updated at: 2025-10-22 09:19:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-22)  
 **steak**  
 In name:   
@@ -151,6 +151,10 @@ In name:
 In name:   
  - Haddock Ginger Glazed (AYCTE) @ *1849*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Global Kitchen*  
@@ -176,7 +180,6 @@ In name:
  - Chicken Wings Boneless Plain @ *Que Rico*  
  - Plant-Based Chicken Nuggets (6) @ *Que Rico*  
  - Protein - Chicken Thinly Sliced @ *Create-A-Bowl*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
