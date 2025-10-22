@@ -1,6 +1,6 @@
 # 2025-10-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-22 12:16:56  
+Updated at: 2025-10-22 13:28:34  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-22)  
 **Tuna**  
 In name:   
@@ -41,12 +41,6 @@ In name:
 In name:   
  - Appetizer -  Pakoras Vegetable (Veg) @ *Global Kitchen*  
   
-**fish**  
-In name:   
-  
-In description:   
- - Thai BBQ Pork Ribs @ *1849*  
-  
 **lamb**  
 In name:   
   
@@ -63,7 +57,7 @@ In name:
   
 **pork**  
 In name:   
- - Thai BBQ Pork Ribs @ *1849*  
+ - Smoked Pulled Pork Sandwich @ *1849*  
   
 **chicken**  
 In name:   

@@ -1,6 +1,6 @@
 # 2025-10-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-22 13:28:37  
+Updated at: 2025-10-22 15:22:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-22)  
 **steak**  
 In name:   
@@ -90,29 +90,26 @@ In name:
 In description:   
  - Yogurt Bar @ *Great Greens*  
   
-**Shrimp**  
-In name:   
- - Shrimp & Green Chile Burrito @ *Gordon Que Rico*  
-  
 **Cod**  
 In name:   
- - Miso Cod @ *1849*  
+ - Lemon Pepper Cod Fillet @ *1849*  
   
 **fish**  
 In name:   
   
 In description:   
- - Miso Cod @ *1849*  
  - California Roll  (FujiSan) @ *Gordon Global Kitchen*  
  - Tempura Roll (FujiSan) @ *Gordon Global Kitchen*  
   
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Bean Chili @ *Great Greens*  
   
 In description:   
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
+ - Vegan Taco Filling @ *Gordon Que Rico*  
  - Pork Bratwurst Sandwich @ *Fired Up*  
   
 **pork**  
@@ -120,6 +117,7 @@ In name:
  - Gnocchi w/ Pork Chorizo Sauce @ *Gordon Buona Cucina*  
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Gluten Free Pork Sausage Pizza Quarter @ *Gordon Capital City Pizza*  
+ - Pork Carnita @ *Gordon Que Rico*  
  - Pork Bratwurst Sandwich @ *Fired Up*  
   
 **chicken**  
@@ -129,6 +127,7 @@ In name:
  - Pizza Slice BBQ Chicken & Bacon @ *Gordon Capital City Pizza*  
  - Sesame Chicken @ *Gordon Global Kitchen*  
  - Plant Based Sesame Chicken (AYCTE) (VN) @ *Gordon Global Kitchen*  
+ - Chicken Paprikash @ *Gordon Eggcetera*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
   
 In description:   
@@ -147,10 +146,6 @@ In name:
 In name:   
  - BBQ Pork Sandwich @ *Fired Up*  
   
-**haddock**  
-In name:   
- - Haddock Ginger Glazed (AYCTE) @ *1849*  
-  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
@@ -168,6 +163,7 @@ In description:
 **pork**  
 In name:   
  - BBQ Pork Sandwich @ *Fired Up*  
+ - Smoked Pork Loin @ *1849*  
   
 In description:   
  - Bolognese Sauce @ *Global Kitchen*  
