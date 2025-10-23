@@ -1,6 +1,6 @@
 # 2025-10-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-23 01:28:18  
+Updated at: 2025-10-23 09:19:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-23)  
 **Tilapia**  
 In name:   
@@ -61,44 +61,13 @@ In name:
  - Chicken Noodle Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-10-23)  
-**Vanilla Coconut Milk Yogurt**  
-In name:   
-  
-In description:   
- - Yogurt Bar @ *Great Greens*  
-  
-**Shrimp**  
-In name:   
- - Shrimp with Bell Peppers @ *1849*  
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
-  
 **beef**  
 In name:   
- - Beef Meatloaf @ *1849*  
- - Beef Gravy @ *1849*  
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - BBQ Beef Brisket Sandwich @ *Fired Up*  
-  
-In description:   
- - Smoked Brisket & Tots Pizza Slice @ *Gordon Capital City Pizza*  
-  
-**pork**  
-In name:   
-  
-In description:   
- - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
   
 **chicken**  
 In name:   
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Mediterranean Chicken @ *Gordon Buona Cucina*  
- - Greek Chicken @ *Gordon Global Kitchen*  
  - Chicken Empanada with Green Chili @ *Gordon Que Rico*  
- - Chicken Noodle Soup @ *Great Greens*  
- - Breaded Chicken Parmigiana @ *Gordon Eggcetera*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-10-23)  
 **watermelon**  

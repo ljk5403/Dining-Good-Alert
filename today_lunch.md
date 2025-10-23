@@ -1,6 +1,6 @@
 # 2025-10-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-23 09:19:24  
+Updated at: 2025-10-23 10:19:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-23)  
 **Tuna**  
 In name:   
@@ -74,6 +74,10 @@ In description:
 **steak**  
 In name:   
  - Spicy Steak Fajita @ *Gordon Que Rico*  
+  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
   
 **fish**  
 In name:   

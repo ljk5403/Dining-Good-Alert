@@ -1,6 +1,6 @@
 # 2025-10-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-23 09:19:28  
+Updated at: 2025-10-23 10:19:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-23)  
 **Tilapia**  
 In name:   
@@ -61,6 +61,10 @@ In name:
  - Chicken Noodle Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-10-23)  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
+  
 **beef**  
 In name:   
  - BBQ Beef Brisket Sandwich @ *Fired Up*  
