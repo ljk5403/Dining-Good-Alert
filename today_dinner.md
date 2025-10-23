@@ -1,6 +1,6 @@
 # 2025-10-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-23 15:20:05  
+Updated at: 2025-10-23 16:15:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-23)  
 **Tilapia**  
 In name:   
@@ -35,7 +35,6 @@ In name:
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Chicken Shawarma Sandwich @ *Fired Up*  
  - Mediterranean Chicken @ *Que Rico*  
- - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
@@ -74,12 +73,22 @@ In name:
 In name:   
  - Build Your Own Poke Bar @ *Create-A-Bowl*  
   
+**broccoli rabe**  
+In name:   
+ - Broccoli Rabe @ *1849*  
+  
+**steak**  
+In name:   
+ - Swiss Steak w/Brown Gravy @ *1849*  
+  
 **beef**  
 In name:   
  - Smoked Beef Round Plate @ *1849*  
   
 In description:   
  - Fired Up Blended Burger @ *Fired Up*  
+ - Swiss Steak w/Brown Gravy @ *1849*  
+ - Vegan Sloppy Joe @ *1849*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
@@ -164,5 +173,6 @@ In name:
 In name:   
  - Chicken Noodle Soup @ *Great Greens*  
  - Chicken Grilled Cordon Bleu (Pork) @ *Lowell Market*  
+ - Moroccan Chicken Tagine @ *Lowell Market*  
   
   
