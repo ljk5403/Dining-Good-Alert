@@ -1,11 +1,19 @@
 # 2025-10-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-22 18:15:30  
+Updated at: 2025-10-22 20:23:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-22)  
+**Samosas**  
+In name:   
+ - Samosas @ *Global Kitchen*  
+  
 **steak**  
 In name:   
  - Philly Cheesesteak Sandwich @ *Fired Up*  
  - Vegetable Cheesesteak Sandwich @ *Fired Up*  
+  
+**Shrimp**  
+In name:   
+ - Blackened Shrimp @ *1849*  
   
 **Tuna**  
 In name:   
@@ -26,12 +34,10 @@ In name:
  - Italian Pork Sausage @ *Buona Cucina*  
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
  - Filipino Pork Sausage @ *Global Kitchen*  
- - FiIipino Pork Spring Roll @ *Global Kitchen*  
  - Ancho Pork Rice Bowl @ *Que Rico*  
   
 **chicken**  
 In name:   
- - Blackened Chicken with Orange Sauce @ *1849*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
@@ -132,10 +138,6 @@ In description:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**drumstick**  
-In name:   
- - Chicken Drumstick Teriyaki Glazed @ *1849*  
-  
 **BBQ Pork Sandwich**  
 In name:   
  - BBQ Pork Sandwich @ *Fired Up*  
@@ -166,7 +168,6 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Global Kitchen*  
- - Chicken Drumstick Teriyaki Glazed @ *1849*  
  - Chicken Wings Boneless Plain @ *Que Rico*  
  - Plant-Based Chicken Nuggets (6) @ *Que Rico*  
  - Protein - Chicken Thinly Sliced @ *Create-A-Bowl*  
