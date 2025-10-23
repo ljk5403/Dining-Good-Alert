@@ -1,6 +1,6 @@
 # 2025-10-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-23 10:19:42  
+Updated at: 2025-10-23 11:23:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-23)  
 **Tuna**  
 In name:   
@@ -135,6 +135,14 @@ In name:
 In name:   
  - Swiss Steak w/Brown Gravy @ *1849*  
   
+**Shrimp**  
+In name:   
+ - Fried Popcorn Shrimp @ *1849*  
+  
+**curry**  
+In name:   
+ - Curry Potatoes @ *Fired Up*  
+  
 **beef**  
 In name:   
  - Beef Taco Meat @ *Que Rico*  
@@ -146,7 +154,6 @@ In description:
   
 **pork**  
 In name:   
- - Herb Crusted Pork Loin @ *1849*  
   
 In description:   
  - Andouille Sausage @ *Global Kitchen*  
