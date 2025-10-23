@@ -1,6 +1,6 @@
 # 2025-10-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-23 11:23:29  
+Updated at: 2025-10-23 12:16:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-23)  
 **Tuna**  
 In name:   
@@ -84,7 +84,6 @@ In name:
   
 In description:   
  - Beef Masaman Thai Curry @ *Gordon Global Kitchen*  
- - Tempura Roll (FujiSan) @ *Gordon Global Kitchen*  
   
 **curry**  
 In name:   
@@ -134,6 +133,7 @@ In name:
 **steak**  
 In name:   
  - Swiss Steak w/Brown Gravy @ *1849*  
+ - Grilled Flank Steak @ *1849*  
   
 **Shrimp**  
 In name:   
@@ -150,6 +150,7 @@ In name:
 In description:   
  - Swiss Steak w/Brown Gravy @ *1849*  
  - Vegan Sloppy Joe @ *1849*  
+ - Grilled Flank Steak @ *1849*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
@@ -161,6 +162,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Seasoned Baked Chicken Quarters @ *1849*  
  - Chicken Noodle Soup @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
