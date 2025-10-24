@@ -1,6 +1,6 @@
 # 2025-10-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-24 11:23:17  
+Updated at: 2025-10-24 12:16:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-24)  
 **drumstick**  
 In name:   
@@ -174,6 +174,10 @@ In description:
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-10-24)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-10-24)  
+**Samosas**  
+In name:   
+ - Samosas @ *Lowell Market*  
+  
 **Cod**  
 In name:   
   

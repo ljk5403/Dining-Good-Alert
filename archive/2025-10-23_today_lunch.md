@@ -1,6 +1,6 @@
 # 2025-10-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-24 10:19:25  
+Updated at: 2025-10-24 11:23:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-24)  
 **drumstick**  
 In name:   
@@ -150,6 +150,7 @@ In name:
   
 In description:   
  - Mushroom Swiss Blended Burger @ *Fired Up*  
+ - Bolognese Sauce @ *Global Kitchen*  
  - Vegan Taco Filling @ *Que Rico*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
@@ -159,6 +160,7 @@ In name:
  - Clam Chowder (Pork) @ *Great Greens*  
   
 In description:   
+ - Bolognese Sauce @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
