@@ -1,6 +1,6 @@
 # 2025-10-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-24 15:20:25  
+Updated at: 2025-10-24 16:16:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-25)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-10-25)  
 **watermelon**  
@@ -90,6 +90,7 @@ In name:
 In description:   
  - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
+ - Bacon Slice @ *Delicious*  
   
 **chicken**  
 In name:   

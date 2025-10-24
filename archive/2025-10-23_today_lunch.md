@@ -1,6 +1,6 @@
 # 2025-10-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-24 13:25:52  
+Updated at: 2025-10-24 15:20:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-24)  
 **drumstick**  
 In name:   
@@ -123,12 +123,9 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**mahi mahi**  
-In name:   
- - Island Spiced Mahi Mahi @ *1849*  
-  
 **Shrimp**  
 In name:   
+ - Fried Popcorn Shrimp @ *1849*  
  - Sauteed Shrimp @ *Que Rico*  
   
 In description:   

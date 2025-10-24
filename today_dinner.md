@@ -1,11 +1,7 @@
 # 2025-10-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-24 15:20:24  
+Updated at: 2025-10-24 16:15:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-24)  
-**duck**  
-In name:   
- - Duck Curry @ *Global Kitchen*  
-  
 **catfish**  
 In name:   
  - Blackened Catfish @ *1849*  
@@ -20,12 +16,8 @@ In description:
 In name:   
  - Blackened Catfish @ *1849*  
   
-In description:   
- - Duck Curry @ *Global Kitchen*  
-  
 **curry**  
 In name:   
- - Duck Curry @ *Global Kitchen*  
  - Coconut Tofu w/Red Curry Sauce @ *Global Kitchen*  
   
 **beef**  
@@ -44,10 +36,12 @@ In description:
  - Andouille Sausage @ *1849*  
  - Chorizo Sauce @ *Buona Cucina*  
  - Pizza Slice Sausage @ *Capital City Pizza*  
+ - Bacon Slice @ *Delicious*  
   
 **chicken**  
 In name:   
  - Diced Chicken Breast @ *Buona Cucina*  
+ - Chicken Vindaloo @ *Global Kitchen*  
  - Chicken Mole w/ Rice @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
@@ -87,22 +81,13 @@ In description:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**catfish**  
-In name:   
- - Blackened Catfish @ *1849*  
-  
 **Shrimp**  
 In name:   
  - Sauteed Shrimp @ *Gordon Buona Cucina*  
   
-**fish**  
-In name:   
- - Blackened Catfish @ *1849*  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Barbacoa @ *Gordon Que Rico*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
@@ -112,11 +97,13 @@ In description:
 In name:   
  - French Market Pork Jambalaya @ *1849*  
  - Hawaiian (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
+ - Pork Carnita @ *Gordon Que Rico*  
  - Baked Corn Dog (Pork) @ *Fired Up*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
  - Kale, Sausage & Potato Soup @ *Great Greens*  
+ - Bacon Slice @ *Gordon Delicious*  
   
 **chicken**  
 In name:   
@@ -190,6 +177,7 @@ In name:
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
+ - Bacon Slice @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -237,6 +225,10 @@ In name:
  - Duck Curry @ *Lowell Market*  
  - Black Eyed Pea Curry w/ Rice @ *Lowell Market*  
  - Curry Sweet Potato Medallions @ *Lowell Market*  
+  
+**beef**  
+In name:   
+ - Beef Pot Roast @ *Lowell Market*  
   
 **pork**  
 In name:   
