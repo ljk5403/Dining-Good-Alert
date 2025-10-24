@@ -1,6 +1,6 @@
 # 2025-10-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-24 17:17:23  
+Updated at: 2025-10-24 18:16:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-24)  
 **catfish**  
 In name:   
@@ -171,7 +171,7 @@ In description:
 **pork**  
 In name:   
  - Sausage (Pork), Potatoes, & Peppers @ *1849*  
- - Chicken Cordon Bleu Sandwich (Pork) @ *1849*  
+ - Chicken Grilled Cordon Bleu (Pork) @ *1849*  
  - Clam Chowder (Pork) @ *Great Greens*  
   
 In description:   
@@ -180,7 +180,7 @@ In description:
 **chicken**  
 In name:   
  - Grilled Chicken Sandwich @ *Fired Up*  
- - Chicken Cordon Bleu Sandwich (Pork) @ *1849*  
+ - Chicken Grilled Cordon Bleu (Pork) @ *1849*  
  - Chicken and Cheese Flauta @ *Que Rico*  
  - Bulgogi Chicken @ *Create-A-Bowl*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
