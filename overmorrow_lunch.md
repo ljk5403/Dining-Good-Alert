@@ -1,6 +1,6 @@
 # 2025-10-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-24 16:16:03  
+Updated at: 2025-10-24 17:17:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-26)  
 **steak**  
 In name:   
@@ -31,7 +31,6 @@ In name:
   
 In description:   
  - Ham Steak @ *Buona Cucina*  
- - Bacon Slice @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -70,7 +69,6 @@ In name:
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
- - Bacon Slice @ *Gordon Delicious*  
   
 **chicken**  
 In name:   
@@ -104,7 +102,6 @@ In name:
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
- - Bacon Slice @ *Delicious*  
   
 **chicken**  
 In name:   

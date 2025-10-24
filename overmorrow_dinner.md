@@ -1,6 +1,6 @@
 # 2025-10-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-24 16:16:04  
+Updated at: 2025-10-24 17:17:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-26)  
 **beef**  
 In name:   
@@ -16,9 +16,6 @@ In description:
 In name:   
  - Italian Pork Sausage @ *Buona Cucina*  
  - Pork Carnita @ *Que Rico*  
-  
-In description:   
- - Bacon Slice @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -57,7 +54,6 @@ In name:
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
- - Bacon Slice @ *Gordon Delicious*  
   
 **chicken**  
 In name:   
@@ -93,7 +89,6 @@ In name:
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
- - Bacon Slice @ *Delicious*  
   
 **chicken**  
 In name:   
