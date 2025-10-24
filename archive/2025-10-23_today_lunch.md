@@ -1,6 +1,6 @@
 # 2025-10-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-24 01:27:06  
+Updated at: 2025-10-24 09:18:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-24)  
 **drumstick**  
 In name:   
@@ -68,10 +68,6 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**Tandoori Chicken**  
-In name:   
- - Pizza Slice 16" Tandoori Chicken (AYCTE) @ *Gordon Capital City Pizza*  
-  
 **Shrimp**  
 In name:   
  - Sauteed Shrimp @ *Gordon Buona Cucina*  
@@ -101,11 +97,13 @@ In name:
  - Breaded Pork Cutlet Sandwich @ *Gordon Fired Up*  
  - Clam Chowder (Pork) @ *Great Greens*  
   
+In description:   
+ - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
+  
 **chicken**  
 In name:   
  - Chicken Breast w/Balsamic BBQ Sauce @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Pizza Slice 16" Tandoori Chicken (AYCTE) @ *Gordon Capital City Pizza*  
  - Chicken Vindaloo @ *Gordon Global Kitchen*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-10-24)  
