@@ -1,6 +1,6 @@
 # 2025-10-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-24 12:16:33  
+Updated at: 2025-10-24 13:25:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-24)  
 **duck**  
 In name:   
@@ -87,19 +87,11 @@ In description:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**Tandoori Chicken**  
-In name:   
- - Pizza Slice 16" Tandoori Chicken (AYCTE) @ *Gordon Capital City Pizza*  
-  
 **squid**  
 In name:   
   
 In description:   
  - Fried Calamari @ *Gordon Eggcetera*  
-  
-**mahi mahi**  
-In name:   
- - Coconut Thai Curry Mahi Mahi @ *Gordon Global Kitchen*  
   
 **catfish**  
 In name:   
@@ -119,18 +111,11 @@ In description:
 In name:   
  - Blackened Catfish @ *1849*  
   
-In description:   
- - Coconut Thai Curry Mahi Mahi @ *Gordon Global Kitchen*  
-  
-**curry**  
-In name:   
- - Coconut Thai Curry Mahi Mahi @ *Gordon Global Kitchen*  
- - Lentil Chickpea Red Curry @ *Gordon Global Kitchen*  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Carne Guisada @ *Gordon Que Rico*  
+ - Beef Barbacoa @ *Gordon Que Rico*  
+ - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
  - Baked Corn Dog (Pork) @ *Fired Up*  
@@ -142,10 +127,14 @@ In name:
  - Clam Chowder (Pork) @ *Great Greens*  
  - Baked Corn Dog (Pork) @ *Fired Up*  
   
+In description:   
+ - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
+  
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Pizza Slice 16" Tandoori Chicken (AYCTE) @ *Gordon Capital City Pizza*  
+ - Sweet & Spicy Orange Chicken @ *Gordon Global Kitchen*  
+ - Plant Based Sweet & Sour Chicken @ *Gordon Global Kitchen*  
  - Plant-Based Chicken Nuggets (6) @ *Gordon Eggcetera*  
   
 In description:   
