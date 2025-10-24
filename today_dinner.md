@@ -1,6 +1,6 @@
 # 2025-10-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-23 18:16:11  
+Updated at: 2025-10-23 20:20:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-23)  
 **Tilapia**  
 In name:   
@@ -16,9 +16,13 @@ In name:
 In description:   
  - Tempura Roll (FujiSan) @ *Global Kitchen*  
   
+**lamb**  
+In name:   
+ - Lamb & Beef Gyro Sandwich @ *Fired Up*  
+  
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Lamb & Beef Gyro Sandwich @ *Fired Up*  
  - Beef Mediterranean @ *Que Rico*  
   
 In description:   
@@ -26,14 +30,13 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Italian Sausage @ *Buona Cucina*  
  - Loaded Potato Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
  - Chicken Piece Seasoned Baked @ *1849*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
- - Chicken Shawarma Sandwich @ *Fired Up*  
  - Mediterranean Chicken @ *Que Rico*  
   
 In description:   
@@ -83,7 +86,7 @@ In name:
   
 **beef**  
 In name:   
- - Smoked Beef Round Plate @ *1849*  
+ - Beef Fajita @ *1849*  
   
 In description:   
  - Fired Up Blended Burger @ *Fired Up*  

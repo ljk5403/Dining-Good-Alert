@@ -1,6 +1,6 @@
 # 2025-10-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-23 17:17:01  
+Updated at: 2025-10-23 18:16:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-23)  
 **Tuna**  
 In name:   
@@ -163,7 +163,7 @@ In description:
 **chicken**  
 In name:   
  - Seasoned Baked Chicken Quarters @ *1849*  
- - Chicken Noodle Soup @ *Great Greens*  
+ - Lemon Chicken Rice Soup @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
@@ -207,7 +207,7 @@ In description:
 **chicken**  
 In name:   
  - Chicken Korma @ *Carson's 1849:  Available Between 11am-2pm*  
- - Chicken Noodle Soup @ *Great Greens:  Available Between 11am-4pm*  
+ - Chicken Tortilla Soup @ *Great Greens:  Available Between 11am-4pm*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza:  Available Between 11am-4pm*  

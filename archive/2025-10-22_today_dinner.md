@@ -1,10 +1,10 @@
 # 2025-10-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-23 17:17:06  
+Updated at: 2025-10-23 18:16:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-23)  
 **Tilapia**  
 In name:   
- - Baked Tilapia w/Dill Wine Sauce @ *1849*  
+ - Island Spiced Tilapia @ *1849*  
   
 **Tuna**  
 In name:   
@@ -141,7 +141,7 @@ In description:
 In name:   
  - Chicken Tenders Breaded @ *Carson's 1849*  
  - Plant-Based Chicken Tenders @ *Carson's 1849*  
- - Chicken Noodle Soup @ *Great Greens*  
+ - Chicken Tortilla Soup @ *Great Greens*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
