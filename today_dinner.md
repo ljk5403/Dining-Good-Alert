@@ -1,6 +1,6 @@
 # 2025-10-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-24 13:25:54  
+Updated at: 2025-10-24 15:20:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-24)  
 **duck**  
 In name:   
@@ -87,12 +87,6 @@ In description:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**squid**  
-In name:   
-  
-In description:   
- - Fried Calamari @ *Gordon Eggcetera*  
-  
 **catfish**  
 In name:   
  - Blackened Catfish @ *1849*  
@@ -100,12 +94,6 @@ In name:
 **Shrimp**  
 In name:   
  - Sauteed Shrimp @ *Gordon Buona Cucina*  
-  
-**Cod**  
-In name:   
-  
-In description:   
- - Clam Chowder (Pork) @ *Great Greens*  
   
 **fish**  
 In name:   
@@ -124,21 +112,21 @@ In description:
 In name:   
  - French Market Pork Jambalaya @ *1849*  
  - Hawaiian (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
- - Clam Chowder (Pork) @ *Great Greens*  
  - Baked Corn Dog (Pork) @ *Fired Up*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Sweet & Spicy Orange Chicken @ *Gordon Global Kitchen*  
  - Plant Based Sweet & Sour Chicken @ *Gordon Global Kitchen*  
- - Plant-Based Chicken Nuggets (6) @ *Gordon Eggcetera*  
   
 In description:   
  - French Market Pork Jambalaya @ *1849*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Baked Corn Dog (Pork) @ *Fired Up*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-10-24)  
