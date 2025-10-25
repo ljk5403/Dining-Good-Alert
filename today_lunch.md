@@ -1,6 +1,6 @@
 # 2025-10-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-25 10:16:11  
+Updated at: 2025-10-25 11:20:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-25)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-10-25)  
 **watermelon**  
@@ -51,7 +51,6 @@ In name:
   
 In description:   
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
- - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
   
 **pork**  
@@ -60,6 +59,7 @@ In name:
  - Carolina BBQ Pork Sandwich @ *Gordon Fired Up*  
   
 In description:   
+ - Pizza Slice Hawaiian @ *Gordon Capital City Pizza*  
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
  - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Bacon Slice @ *Gordon Delicious*  
@@ -73,7 +73,6 @@ In name:
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
   
 In description:   
- - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
