@@ -1,6 +1,6 @@
 # 2025-10-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-25 01:24:56  
+Updated at: 2025-10-25 09:15:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-25)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-10-25)  
 **watermelon**  
@@ -33,12 +33,19 @@ In description:
 In name:   
  - Carolina BBQ Pork Sandwich @ *Gordon Fired Up*  
   
-**Tilapia**  
+**fish**  
 In name:   
- - Tilapia Veracruz @ *1849*  
+  
+In description:   
+ - Beef Masaman Thai Curry @ *1849*  
+  
+**curry**  
+In name:   
+ - Beef Masaman Thai Curry @ *1849*  
   
 **beef**  
 In name:   
+ - Beef Masaman Thai Curry @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
