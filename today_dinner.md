@@ -1,6 +1,6 @@
 # 2025-10-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-25 18:15:33  
+Updated at: 2025-10-25 20:36:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-25)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-10-25)  
 **watermelon**  
@@ -102,7 +102,7 @@ In description:
 **chicken**  
 In name:   
  - Giardiniera Chicken @ *Global Kitchen*  
- - Sesame Chicken @ *1849*  
+ - Sweet & Sour Chicken @ *1849*  
  - Taco Chicken @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
