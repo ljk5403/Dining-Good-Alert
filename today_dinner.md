@@ -1,6 +1,6 @@
 # 2025-10-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-26 18:16:21  
+Updated at: 2025-10-26 20:39:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-26)  
 **beef**  
 In name:   
@@ -30,14 +30,16 @@ In description:
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-10-26)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-10-26)  
+**mahi mahi**  
+In name:   
+ - Blackened Mahi Mahi @ *1849*  
+  
 **curry**  
 In name:   
  - Thai Veggie Meatballs w/ Green Curry @ *1849*  
- - Mango Beef Curry @ *1849*  
   
 **beef**  
 In name:   
- - Mango Beef Curry @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
@@ -69,15 +71,14 @@ In description:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**Cod**  
+**Tilapia**  
 In name:   
- - Cracker Crusted Cod w/ Lemon Sauce @ *1849*  
+ - Island Spiced Tilapia @ *1849*  
   
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Beef & Tater Tot Bake @ *1849*  
- - Beef Taco Meat @ *Que Rico*  
   
 In description:   
  - Italian Meat Sauce @ *Global Kitchen*  
@@ -95,11 +96,11 @@ In name:
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Plant Based Chicken Strips @ *Global Kitchen*  
  - Plant Based Sweet & Sour Chicken @ *1849*  
+ - Diced Chicken @ *Que Rico*  
  - Chicken Tortilla Soup @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
- - Cracker Crusted Cod w/ Lemon Sauce @ *1849*  
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-10-26)  
