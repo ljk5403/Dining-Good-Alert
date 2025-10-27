@@ -1,6 +1,6 @@
 # 2025-10-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-27 15:18:35  
+Updated at: 2025-10-27 16:16:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-27)  
 **Shrimp**  
 In name:   
@@ -72,10 +72,7 @@ In name:
   
 **beef**  
 In name:   
- - Traditional Beef Shepard's Pie @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Roast Beef @ *Gordon Delicious*  
- - Pork & Beef Hard Salami @ *Gordon Delicious*  
   
 In description:   
  - Pizza Slice - Bacon Cheeseburger @ *Gordon Capital City Pizza*  
@@ -84,12 +81,9 @@ In description:
   
 **pork**  
 In name:   
+ - Jerk Pork Chop @ *1849*  
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Pork Banh Mi @ *Fired Up*  
- - Pork & Beef Hard Salami @ *Gordon Delicious*  
-  
-In description:   
- - Bacon @ *Gordon Delicious*  
   
 **chicken**  
 In name:   
