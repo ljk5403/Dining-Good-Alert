@@ -1,6 +1,6 @@
 # 2025-10-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-27 15:18:34  
+Updated at: 2025-10-27 16:15:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-27)  
 **beef**  
 In name:   
@@ -87,8 +87,6 @@ In description:
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
- - Roast Beef @ *Gordon Delicious*  
- - Pork & Beef Hard Salami @ *Gordon Delicious*  
   
 In description:   
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
@@ -97,11 +95,9 @@ In description:
 In name:   
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Pulled Pork Sandwich with Maw Maw Slaw @ *Gordon Fired Up*  
- - Pork & Beef Hard Salami @ *Gordon Delicious*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
- - Bacon @ *Gordon Delicious*  
   
 **chicken**  
 In name:   
