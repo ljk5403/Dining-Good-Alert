@@ -1,6 +1,6 @@
 # 2025-10-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-27 10:20:19  
+Updated at: 2025-10-27 11:24:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-27)  
 **beef**  
 In name:   
@@ -91,7 +91,6 @@ In name:
  - Pork & Beef Hard Salami @ *Gordon Delicious*  
   
 In description:   
- - Pizza Slice - Bacon Cheeseburger @ *Gordon Capital City Pizza*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
   
 **pork**  
@@ -101,6 +100,7 @@ In name:
  - Pork & Beef Hard Salami @ *Gordon Delicious*  
   
 In description:   
+ - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
  - Bacon @ *Gordon Delicious*  
   
 **chicken**  
@@ -168,16 +168,6 @@ In description:
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-10-27)  
-**steak**  
-In name:   
-  
-In description:   
- - Pizza Slice Italian Beef @ *Capital City Pizza:  Available Between 11am-4pm*  
-  
-**beef**  
-In name:   
- - Pizza Slice Italian Beef @ *Capital City Pizza:  Available Between 11am-4pm*  
-  
 **pork**  
 In name:   
  - Hawaiian (Pork) Pizza Slice @ *Capital City Pizza:  Available Between 11am-4pm*  
@@ -187,6 +177,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Pizza Slice Chicken Alfredo @ *Capital City Pizza:  Available Between 11am-4pm*  
  - Spicy Lo Mein w/Chicken @ *Global Kitchen:  Available Between 11am-2pm*  
  - Lemon Chicken Rice Soup @ *Great Greens:  Available Between 11am-4pm*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera:  Available Between 11am-2pm*  
@@ -203,6 +194,7 @@ In name:
   
 **beef**  
 In name:   
+ - Corned Beef Hash (AYCTE) @ *Lowell Market*  
   
 In description:   
  - Grilled Flank Steak @ *Lowell Market*  
