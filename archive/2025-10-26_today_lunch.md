@@ -1,6 +1,6 @@
 # 2025-10-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-27 09:19:33  
+Updated at: 2025-10-27 10:20:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-27)  
 **beef**  
 In name:   
@@ -69,6 +69,10 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**Cod**  
+In name:   
+ - Beer Battered Cod @ *1849*  
+  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
@@ -81,7 +85,6 @@ In description:
   
 **beef**  
 In name:   
- - Beef Stroganoff Creamy @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Roast Beef @ *Gordon Delicious*  
