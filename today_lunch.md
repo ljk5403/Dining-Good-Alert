@@ -1,11 +1,7 @@
 # 2025-10-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-28 12:17:41  
+Updated at: 2025-10-28 13:29:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-28)  
-**Tandoori Chicken**  
-In name:   
- - Tandoori Chicken @ *Global Kitchen*  
-  
 **Samosas**  
 In name:   
  - Samosas @ *Global Kitchen*  
@@ -32,7 +28,7 @@ In name:
 In name:   
  - Brazilian Chicken w/ Salsa Vinaigrette @ *1849*  
  - Chicken Parmesan Sandwich @ *Fired Up*  
- - Tandoori Chicken @ *Global Kitchen*  
+ - Chicken Empanada with Green Chili @ *Global Kitchen*  
  - Mediterranean Chicken @ *Que Rico*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
@@ -136,7 +132,7 @@ In name:
   
 **drumstick**  
 In name:   
- - Smoked Chicken Drumstick @ *1849*  
+ - Chicken Drumstick BBQ Glazed @ *1849*  
   
 **Tilapia**  
 In name:   
@@ -153,13 +149,14 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
 In name:   
- - Smoked Chicken Drumstick @ *1849*  
+ - Chicken Drumstick BBQ Glazed @ *1849*  
  - Italian Chicken @ *Global Kitchen*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
  - Mediterranean Chicken @ *Create-A-Bowl*  
@@ -184,7 +181,6 @@ In name:
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza:  Available Between 11am-4pm*  
  - Pepperoni Pizza Slice @ *Capital City Pizza:  Available Between 11am-4pm*  
- - Chicago-Style Hot Dog @ *Fired Up:  Available Between 11am-2pm*  
   
 **pork**  
 In name:   
@@ -202,6 +198,10 @@ In description:
  - Pepperoni Pizza Slice @ *Capital City Pizza:  Available Between 11am-4pm*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-10-28)  
+**steak**  
+In name:   
+ - Ham Steak @ *Lowell Market*  
+  
 **Tilapia**  
 In name:   
  - Tilapia Chipotle Lime Crusted @ *Lowell Market*  
@@ -215,6 +215,12 @@ In name:
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Lowell Market*  
+  
+**pork**  
+In name:   
+  
+In description:   
+ - Ham Steak @ *Lowell Market*  
   
 **chicken**  
 In name:   
