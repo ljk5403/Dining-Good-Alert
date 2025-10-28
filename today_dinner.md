@@ -1,6 +1,6 @@
 # 2025-10-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-28 17:18:15  
+Updated at: 2025-10-28 18:16:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-28)  
 **Samosas**  
 In name:   
@@ -124,6 +124,7 @@ In name:
 **beef**  
 In name:   
  - Big Texan Beef Sandwich (Half) @ *Fired Up*  
+ - Beef Chili @ *Great Greens*  
  - Mediterranean Beef @ *Create-A-Bowl*  
   
 In description:   
@@ -141,7 +142,6 @@ In name:
  - Italian Chicken @ *Global Kitchen*  
  - Greek Chicken @ *1849*  
  - Chicken Mole w/ Rice @ *Que Rico*  
- - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
  - Mediterranean Chicken @ *Create-A-Bowl*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
