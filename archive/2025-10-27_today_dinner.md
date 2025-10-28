@@ -1,6 +1,6 @@
 # 2025-10-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-28 10:21:04  
+Updated at: 2025-10-28 11:25:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-28)  
 **Samosas**  
 In name:   
@@ -115,10 +115,6 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**Tuna**  
-In name:   
- - Tuna Salad @ *Delicious*  
-  
 **beef**  
 In name:   
  - Big Texan Beef Sandwich (Half) @ *Fired Up*  
@@ -141,6 +137,7 @@ In name:
  - Chicken Mole w/ Rice @ *Que Rico*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
  - Mediterranean Chicken @ *Create-A-Bowl*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
