@@ -1,6 +1,6 @@
 # 2025-10-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-27 18:16:25  
+Updated at: 2025-10-27 20:22:34  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-27)  
 **Shrimp**  
 In name:   
@@ -96,6 +96,10 @@ In description:
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-10-27)  
+**Bulgogi**  
+In name:   
+ - Bulgogi Chicken @ *1849*  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -147,25 +151,19 @@ In description:
 In name:   
  - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
  - Maple Cider Chicken @ *1849*  
+ - Bulgogi Chicken @ *1849*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 In description:   
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-10-27)  
-**steak**  
-In name:   
-  
-In description:   
- - Pizza Slice Italian Beef @ *Capital City Pizza*  
-  
 **BBQ Pork Sandwich**  
 In name:   
  - BBQ Pork Sandwich @ *Fired Up*  
   
 **beef**  
 In name:   
- - Pizza Slice Italian Beef @ *Capital City Pizza*  
  - Traditional Beef Shepard's Pie @ *Carson's 1849*  
   
 In description:   
@@ -183,6 +181,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Pizza Slice Chicken Alfredo @ *Capital City Pizza*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - App Chicken Popcorn - BYO Bar @ *Eggcetera*  
   
