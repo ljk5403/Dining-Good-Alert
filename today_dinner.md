@@ -1,6 +1,6 @@
 # 2025-10-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-28 15:21:36  
+Updated at: 2025-10-28 16:17:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-28)  
 **Samosas**  
 In name:   
@@ -72,6 +72,12 @@ In name:
  - Poke Bar @ *Gordon Global Kitchen*  
  - Build Your Own Poke Bar @ *Gordon Global Kitchen*  
   
+**steak**  
+In name:   
+  
+In description:   
+ - Montreal Chicken @ *1849*  
+  
 **mahi mahi**  
 In name:   
  - Island Spiced Mahi Mahi @ *1849*  
@@ -103,7 +109,7 @@ In description:
   
 **chicken**  
 In name:   
- - Jamaican Jerk Chicken @ *1849*  
+ - Montreal Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Chicken Mole w/ Rice @ *Gordon Que Rico*  
@@ -169,6 +175,10 @@ In description:
  - Pork Louisiana Creole - gcp @ *Global*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-10-28)  
+**mahi mahi**  
+In name:   
+ - Baked Mahi Mahi w/ Butter & Lemon @ *Lowell Market*  
+  
 **Shrimp**  
 In name:   
  - Shrimp Creole @ *Lowell Market*  
