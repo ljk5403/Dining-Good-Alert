@@ -1,6 +1,6 @@
 # 2025-10-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-29 09:19:34  
+Updated at: 2025-10-29 10:21:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-29)  
 **beef**  
 In name:   
@@ -62,13 +62,12 @@ In description:
  - French Market Pork Jambalaya @ *1849*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-10-29)  
-**catfish**  
+**mahi mahi**  
 In name:   
- - Blackened Catfish @ *1849*  
+ - Blackened Mahi Mahi @ *1849*  
   
 **fish**  
 In name:   
- - Blackened Catfish @ *1849*  
   
 In description:   
  - California Roll  (FujiSan) @ *Gordon Global Kitchen*  
