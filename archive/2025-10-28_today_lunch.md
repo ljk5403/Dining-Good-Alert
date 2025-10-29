@@ -1,6 +1,6 @@
 # 2025-10-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-29 12:17:37  
+Updated at: 2025-10-29 13:28:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-29)  
 **beef**  
 In name:   
@@ -62,6 +62,12 @@ In description:
  - French Market Pork Jambalaya @ *1849*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-10-29)  
+**squid**  
+In name:   
+  
+In description:   
+ - Fried Calamari @ *Gordon Fired Up*  
+  
 **mahi mahi**  
 In name:   
  - Blackened Mahi Mahi @ *1849*  

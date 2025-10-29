@@ -1,6 +1,6 @@
 # 2025-10-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-29 13:28:09  
+Updated at: 2025-10-29 15:21:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-29)  
 **beef**  
 In name:   
@@ -44,6 +44,7 @@ In name:
  - Curry Potatoes @ *Global Kitchen*  
   
 In description:   
+ - Tikka Masala Chicken @ *Global Kitchen*  
  - Tofu & Vegetable Tikka Masala @ *Global Kitchen*  
   
 **beef**  
@@ -56,7 +57,7 @@ In name:
   
 **chicken**  
 In name:   
- - Butter Chicken @ *Global Kitchen*  
+ - Tikka Masala Chicken @ *Global Kitchen*  
   
 In description:   
  - French Market Pork Jambalaya @ *1849*  
