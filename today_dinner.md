@@ -1,6 +1,6 @@
 # 2025-10-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-28 18:16:54  
+Updated at: 2025-10-28 20:28:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-28)  
 **Samosas**  
 In name:   
@@ -74,9 +74,7 @@ In name:
   
 **steak**  
 In name:   
-  
-In description:   
- - Montreal Chicken @ *1849*  
+ - Philly Cheesesteak Sandwich @ *Fired Up*  
   
 **mahi mahi**  
 In name:   
@@ -98,28 +96,54 @@ In description:
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
   
+In description:   
+ - Philly Cheesesteak Sandwich @ *Fired Up*  
+  
 **pork**  
 In name:   
+ - French Market Pork Jambalaya @ *1849*  
  - Jalapeno Popper (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
  - Filipino Pork Sausage @ *Gordon Eggcetera*  
- - FiIipino Pork Spring Roll @ *Gordon Eggcetera*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
   
 **chicken**  
 In name:   
- - Montreal Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Chicken Mole w/ Rice @ *Gordon Que Rico*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
- - Crispy Chicken Sandwich @ *Fired Up*  
+  
+In description:   
+ - French Market Pork Jambalaya @ *1849*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-10-28)  
+**Bulgogi**  
+In name:   
+ - Bulgogi Chicken @ *1849*  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
+  
+**mahi mahi**  
+In name:   
+ - Coconut Thai Curry Mahi Mahi @ *Create-A-Bowl*  
+  
+**Tilapia**  
+In name:   
+ - Blackened Tilapia @ *1849*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Coconut Thai Curry Mahi Mahi @ *Create-A-Bowl*  
+  
+**curry**  
+In name:   
+ - Coconut Thai Curry Mahi Mahi @ *Create-A-Bowl*  
   
 **beef**  
 In name:   
@@ -140,9 +164,8 @@ In description:
 **chicken**  
 In name:   
  - Italian Chicken @ *Global Kitchen*  
- - Greek Chicken @ *1849*  
+ - Bulgogi Chicken @ *1849*  
  - Chicken Mole w/ Rice @ *Que Rico*  
- - Mediterranean Chicken @ *Create-A-Bowl*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   

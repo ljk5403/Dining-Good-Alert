@@ -1,6 +1,6 @@
 # 2025-10-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-28 18:16:52  
+Updated at: 2025-10-28 20:28:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-28)  
 **Samosas**  
 In name:   
@@ -134,9 +134,23 @@ In name:
 In name:   
  - Chicken Drumstick BBQ Glazed @ *1849*  
   
+**mahi mahi**  
+In name:   
+ - Coconut Thai Curry Mahi Mahi @ *Create-A-Bowl*  
+  
 **Tilapia**  
 In name:   
  - Blackened Tilapia @ *1849*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Coconut Thai Curry Mahi Mahi @ *Create-A-Bowl*  
+  
+**curry**  
+In name:   
+ - Coconut Thai Curry Mahi Mahi @ *Create-A-Bowl*  
   
 **beef**  
 In name:   
@@ -159,7 +173,6 @@ In description:
 In name:   
  - Chicken Drumstick BBQ Glazed @ *1849*  
  - Italian Chicken @ *Global Kitchen*  
- - Mediterranean Chicken @ *Create-A-Bowl*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
