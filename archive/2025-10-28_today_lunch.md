@@ -1,6 +1,6 @@
 # 2025-10-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-29 10:21:25  
+Updated at: 2025-10-29 11:25:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-29)  
 **beef**  
 In name:   
@@ -150,8 +150,6 @@ In description:
   
 **beef**  
 In name:   
- - Goulash "Beef" Sauce (VN) @ *Global Kitchen:  Available Between 11am-2pm*  
- - Beef Goulash @ *Global Kitchen:  Available Between 11am-2pm*  
  - Beef & Bean Chili @ *Great Greens:  Available Between 11am-4pm*  
  - BBQ Beef Brisket Sandwich @ *Fired Up:  Available Between 11am-2pm*  
   
@@ -166,6 +164,8 @@ In name:
   
 **chicken**  
 In name:   
+ - Sesame Chicken @ *Global Kitchen:  Available Between 11am-2pm*  
+ - Plant Based Sesame Chicken (AYCTE) (VN) @ *Global Kitchen:  Available Between 11am-2pm*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera:  Available Between 11am-2pm*  
   
 In description:   
