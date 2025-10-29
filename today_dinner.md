@@ -1,6 +1,6 @@
 # 2025-10-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-29 15:21:04  
+Updated at: 2025-10-29 16:17:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-29)  
 **Beef Alicha**  
 In name:   
@@ -8,7 +8,7 @@ In name:
   
 **Cod**  
 In name:   
- - Panko Crusted Cod w/ Lemon Sauce @ *1849*  
+ - Baked Lemon Butter Cod @ *1849*  
   
 **lamb**  
 In name:   
@@ -43,7 +43,6 @@ In name:
  - Chicken Salad @ *Delicious*  
   
 In description:   
- - Panko Crusted Cod w/ Lemon Sauce @ *1849*  
  - Pepperoni & Mushrooms Pizza @ *Capital City Pizza*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-10-29)  
@@ -96,16 +95,8 @@ In name:
 In name:   
  - Country Fried Steak @ *1849*  
   
-**Cod**  
-In name:   
-  
-In description:   
- - Fish Tacos @ *Gordon Que Rico*  
-  
 **fish**  
 In name:   
- - Vegetarian "Fish" Tacos @ *Gordon Que Rico*  
- - Fish Tacos @ *Gordon Que Rico*  
   
 In description:   
  - California Roll  (FujiSan) @ *Gordon Global Kitchen*  
@@ -164,6 +155,7 @@ In description:
 In name:   
   
 In description:   
+ - Italian Sausage w/ Pepper & Onions @ *Fired Up*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
