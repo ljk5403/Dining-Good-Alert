@@ -1,229 +1,104 @@
-# 2025-10-31 lunch  
+# 2025-11-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-29 20:28:07  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-31)  
-**steak**  
-In name:   
- - Island Spiced Beef Steak @ *1849*  
- - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
-  
-**catfish**  
-In name:   
- - Island Spiced Catfish @ *1849*  
- - Catfish Nuggets w/ Remoulade Sauce @ *Fired Up*  
-  
-**Cod**  
-In name:   
-  
-In description:   
- - Clam Chowder (Pork) @ *Great Greens*  
-  
-**fish**  
-In name:   
- - Island Spiced Catfish @ *1849*  
- - Catfish Nuggets w/ Remoulade Sauce @ *Fired Up*  
-  
-**curry**  
-In name:   
- - Mixed Vegetable Curry @ *Global Kitchen*  
-  
-In description:   
- - Coconut Vegetable Stew @ *1849*  
-  
-**beef**  
-In name:   
- - Island Spiced Beef Steak @ *1849*  
- - Beef Taco Meat @ *Que Rico*  
-  
-In description:   
- - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
-  
-**pork**  
-In name:   
- - Pork Carnita @ *Que Rico*  
- - Clam Chowder (Pork) @ *Great Greens*  
-  
-In description:   
- - Pizza Slice Sausage @ *Capital City Pizza*  
-  
-**chicken**  
-In name:   
- - Butter Chicken @ *Global Kitchen*  
- - Fajita Chicken @ *Que Rico*  
- - Diced Chicken Breast @ *Buona Cucina*  
- - Chicken Salad @ *Delicious*  
-  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-10-31)  
+Updated at: 2025-10-30 01:28:13  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-01)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-11-01)  
 **watermelon**  
 In name:   
  - Melon Watermelon Whole Sliced @ *Great Greens*  
   
-**Cod**  
+**pork**  
 In name:   
   
 In description:   
- - Clam Chowder (Pork) @ *Great Greens*  
-  
-**curry**  
-In name:   
- - Black Eyed Pea Curry w/ Rice @ *1849*  
-  
-**pork**  
-In name:   
- - Sri Lanka Deviled Pork @ *1849*  
- - Clam Chowder (Pork) @ *Great Greens*  
+ - Lumberjack Bowl w/Bacon @ *Global Kitchen*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 **chicken**  
 In name:   
- - Chicken Tenders Breaded @ *Global Kitchen*  
- - Plant-Based Chicken Tenders @ *Global Kitchen*  
- - Dan Dan w/ Chicken @ *1849*  
+ - Grilled Buffalo Chicken Sandwich @ *Global Kitchen*  
+ - Sausage Links Chicken (halal) (AYCTE) @ *Global Kitchen*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-10-31)  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
-**haddock**  
-In name:   
- - Haddock Ginger Glazed (AYCTE) @ *1849*  
-  
-**Shrimp**  
-In name:   
- - Shrimp & Pork Andouille Sausage @ *Gordon Buona Cucina*  
- - Sauteed Shrimp @ *Gordon Buona Cucina*  
-  
-**Cod**  
-In name:   
-  
 In description:   
- - Petite Fish Sandwich @ *Gordon Fired Up*  
- - Clam Chowder (Pork) @ *Great Greens*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
-**fish**  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-11-01)  
+**drumstick**  
 In name:   
- - Petite Fish Sandwich @ *Gordon Fired Up*  
- - Vegan Fish Sandwich @ *Gordon Fired Up*  
-  
-**curry**  
-In name:   
- - Beef Bombay Curry @ *Gordon Global Kitchen*  
- - Indian Vegetable Curry @ *Gordon Global Kitchen*  
+ - Chicken Drumstick BBQ Glazed @ *1849*  
   
 **beef**  
 In name:   
+ - Beef Tri Tip Carved w/ Chimichurri @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Bombay Curry @ *Gordon Global Kitchen*  
- - Beef Barbacoa @ *Gordon Que Rico*  
  - Beef Taco Meat @ *Gordon Que Rico*  
+  
+In description:   
+ - Italian Meat Sauce @ *Gordon Buona Cucina*  
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
+ - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
   
 **pork**  
 In name:   
- - Shrimp & Pork Andouille Sausage @ *Gordon Buona Cucina*  
- - Pizza Slice Chicken Cordon Bleu (Pork) @ *Gordon Capital City Pizza*  
- - Clam Chowder (Pork) @ *Great Greens*  
+ - Italian Pork Sausage @ *Gordon Buona Cucina*  
+  
+In description:   
+ - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 **chicken**  
 In name:   
- - Honey Lime Chicken Breast @ *1849*  
- - Plant-Based Chicken Lo Mein @ *1849*  
+ - Chicken Drumstick BBQ Glazed @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Pizza Slice Chicken Cordon Bleu (Pork) @ *Gordon Capital City Pizza*  
+ - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
+ - Crispy Buffalo Chicken Sandwich @ *Gordon Fired Up*  
+ - Chicken Tinga @ *Gordon Que Rico*  
+ - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
   
 In description:   
- - Shrimp & Pork Andouille Sausage @ *Gordon Buona Cucina*  
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
+ - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-10-31)  
-**Bulgogi**  
-In name:   
- - BYO Bar - Four Lakes Bulgogi @ *Create-A-Bowl*  
- - Bulgogi Beef @ *Create-A-Bowl*  
- - Bulgogi Chicken @ *Create-A-Bowl*  
- - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
- - Build Your Own Bulgogi Bar - Four Lakes @ *Create-A-Bowl*  
-  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-11-01)  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**Salmon**  
+**steak**  
 In name:   
- - Grilled Chipotle Salmon @ *1849*  
-  
-**Shrimp**  
-In name:   
-  
-In description:   
- - BYO Bar - Four Lakes Bulgogi @ *Create-A-Bowl*  
-  
-**Cod**  
-In name:   
-  
-In description:   
- - Clam Chowder (Pork) @ *Great Greens*  
+ - Philly Cheesesteak Sandwich @ *Fired Up*  
   
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
   
-**fish**  
-In name:   
-  
-In description:   
- - BYO Bar - Four Lakes Bulgogi @ *Create-A-Bowl*  
-  
 **beef**  
 In name:   
  - Beef Taco Meat @ *Que Rico*  
- - Bulgogi Beef @ *Create-A-Bowl*  
   
 In description:   
- - Sliced Kielbasa (Pork) @ *Global Kitchen*  
+ - Philly Cheesesteak Sandwich @ *Fired Up*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
 In name:   
- - Smoked Pulled Pork Sandwich @ *1849*  
- - Sliced Kielbasa (Pork) @ *Global Kitchen*  
- - Pork Carnita @ *Que Rico*  
- - Clam Chowder (Pork) @ *Great Greens*  
   
 In description:   
+ - Andouille Sausage @ *Create-A-Bowl*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
 In name:   
- - Plant-Based Chicken & Dumplings @ *1849*  
- - Grilled Chicken Sandwich @ *Fired Up*  
- - Bulgogi Chicken @ *Create-A-Bowl*  
+ - Giardiniera Chicken @ *Global Kitchen*  
+ - Taco Chicken @ *Que Rico*  
   
 In description:   
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-10-31)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-10-31)  
-**Cod**  
-In name:   
- - Battered Cod @ *Lowell Market*  
-  
-In description:   
- - Clam Chowder (Pork) @ *Great Greens*  
-  
-**fish**  
-In name:   
- - Vegan Fish Fillet (VN) @ *Lowell Market*  
-  
-**pork**  
-In name:   
- - Clam Chowder (Pork) @ *Great Greens*  
- - Pork Miso w/Yakisoba Noodles @ *Lowell Market*  
-  
-**chicken**  
-In name:   
- - Dan Dan w/ Chicken @ *Lowell Market*  
-  
-In description:   
- - Pork Miso w/Yakisoba Noodles @ *Lowell Market*  
-  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-11-01)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-11-01)  
   
