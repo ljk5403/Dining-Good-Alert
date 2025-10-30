@@ -1,6 +1,6 @@
 # 2025-10-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-30 01:28:06  
+Updated at: 2025-10-30 09:19:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-30)  
 **Cod**  
 In name:   
@@ -156,46 +156,9 @@ In description:
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-10-30)  
-**steak**  
-In name:   
- - Ham Steak @ *Eggcetera:  Available Between 11am-2pm*  
-  
-**Cod**  
-In name:   
-  
-In description:   
- - Petite Fish Sandwich @ *Fired Up:  Available Between 11am-2pm*  
-  
-**fish**  
-In name:   
- - Vegan Fish Sandwich @ *Fired Up:  Available Between 11am-2pm*  
- - Petite Fish Sandwich @ *Fired Up:  Available Between 11am-2pm*  
-  
-**curry**  
-In name:   
- - Indian Vegetable Curry @ *Carson's 1849:  Available Between 11am-2pm*  
-  
-**beef**  
-In name:   
-  
-In description:   
- - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza:  Available Between 11am-4pm*  
-  
-**pork**  
-In name:   
- - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza:  Available Between 11am-4pm*  
- - Herb Crusted Pork Loin @ *Global Kitchen:  Available Between 11am-2pm*  
-  
-In description:   
- - Ham Steak @ *Eggcetera:  Available Between 11am-2pm*  
-  
 **chicken**  
 In name:   
- - Chicken Vindaloo @ *Carson's 1849:  Available Between 11am-2pm*  
  - Chicken Noodle Soup @ *Great Greens:  Available Between 11am-4pm*  
-  
-In description:   
- - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza:  Available Between 11am-4pm*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-10-30)  
 **Salmon**  
