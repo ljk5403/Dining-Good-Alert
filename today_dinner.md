@@ -1,6 +1,6 @@
 # 2025-10-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-30 15:20:20  
+Updated at: 2025-10-30 16:16:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-30)  
 **Salmon**  
 In name:   
@@ -87,7 +87,6 @@ In name:
 In description:   
  - Grilled Flank Steak @ *1849*  
  - Sausage (Pork) & Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
- - Vegetarian Hot Tamale Pie @ *Gordon Que Rico*  
  - Chicago-Style Hot Dog @ *Gordon Eggcetera*  
   
 **pork**  

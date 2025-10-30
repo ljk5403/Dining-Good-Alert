@@ -1,6 +1,6 @@
 # 2025-10-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-30 13:27:32  
+Updated at: 2025-10-30 15:20:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-30)  
 **Salmon**  
 In name:   
@@ -70,7 +70,7 @@ In name:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-10-30)  
 **steak**  
 In name:   
- - Brazilian Flank Steak @ *1849*  
+ - Grilled Flank Steak @ *1849*  
   
 **BBQ Pork Sandwich**  
 In name:   
@@ -85,7 +85,7 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
   
 In description:   
- - Brazilian Flank Steak @ *1849*  
+ - Grilled Flank Steak @ *1849*  
  - Sausage (Pork) & Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Vegetarian Hot Tamale Pie @ *Gordon Que Rico*  
  - Chicago-Style Hot Dog @ *Gordon Eggcetera*  
