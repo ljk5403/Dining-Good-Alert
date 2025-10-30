@@ -1,6 +1,6 @@
 # 2025-10-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-30 10:20:52  
+Updated at: 2025-10-30 11:24:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-30)  
 **Salmon**  
 In name:   
@@ -120,10 +120,6 @@ In name:
 In name:   
  - Duck Curry @ *1849*  
   
-**Tuna**  
-In name:   
- - Tuna Salad @ *Delicious*  
-  
 **fish**  
 In name:   
   
@@ -153,6 +149,7 @@ In description:
 **chicken**  
 In name:   
  - Chicken Noodle Soup @ *Great Greens*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Que Rico*  

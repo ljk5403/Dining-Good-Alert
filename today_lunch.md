@@ -1,6 +1,6 @@
 # 2025-10-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-30 10:20:49  
+Updated at: 2025-10-30 11:24:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-30)  
 **Cod**  
 In name:   
@@ -125,10 +125,6 @@ In name:
 In name:   
  - Grilled Flank Steak @ *1849*  
   
-**Tuna**  
-In name:   
- - Tuna Salad @ *Delicious*  
-  
 **beef**  
 In name:   
   
@@ -150,6 +146,7 @@ In description:
 In name:   
  - Cajun Chicken Pasta @ *1849*  
  - Chicken Noodle Soup @ *Great Greens*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Que Rico*  

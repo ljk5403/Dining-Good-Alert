@@ -1,6 +1,6 @@
 # 2025-10-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-30 09:19:18  
+Updated at: 2025-10-30 10:20:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-30)  
 **Cod**  
 In name:   
@@ -102,7 +102,7 @@ In name:
 In name:   
  - Plant-Based Chicken Etouffee @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Mediterranean Chicken @ *Gordon Buona Cucina*  
+ - Giardiniera Chicken @ *Gordon Buona Cucina*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Chicken Drummies @ *Gordon Fired Up*  
  - Plant-Based Chicken Nuggets (6) @ *Gordon Fired Up*  
@@ -158,7 +158,7 @@ In description:
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-10-30)  
 **chicken**  
 In name:   
- - Chicken Noodle Soup @ *Great Greens:  Available Between 11am-4pm*  
+ - Chicken Chili @ *Great Greens:  Available Between 11am-4pm*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-10-30)  
 **Salmon**  
