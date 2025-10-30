@@ -1,6 +1,6 @@
 # 2025-10-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-29 18:17:38  
+Updated at: 2025-10-29 20:27:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-29)  
 **Beef Alicha**  
 In name:   
@@ -147,13 +147,12 @@ In name:
  - Protein - Beef Thinly Sliced @ *Create-A-Bowl*  
   
 In description:   
- - Blackened Blended Hamburger @ *Fired Up*  
+ - Grilled Cheeseburger @ *Fired Up*  
  - Italian Meat Sauce @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
 In name:   
- - Apricot Glazed Pork @ *1849*  
   
 In description:   
  - Italian Sausage w/ Pepper & Onions @ *Fired Up*  

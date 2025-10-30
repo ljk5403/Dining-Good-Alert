@@ -1,6 +1,6 @@
 # 2025-10-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-29 18:17:36  
+Updated at: 2025-10-29 20:27:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-29)  
 **beef**  
 In name:   
@@ -119,7 +119,6 @@ In name:
 In name:   
  - Beef Hot Tamale Pie @ *1849*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
- - Beef & Bean Chili @ *Great Greens*  
  - Protein - Beef Thinly Sliced @ *Create-A-Bowl*  
   
 In description:   
