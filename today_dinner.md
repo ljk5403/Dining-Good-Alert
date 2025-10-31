@@ -1,16 +1,11 @@
 # 2025-10-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-30 18:16:49  
+Updated at: 2025-10-30 20:24:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-30)  
-**Salmon**  
-In name:   
- - Hoisin BBQ Glazed Salmon @ *1849*  
-  
 **fish**  
 In name:   
   
 In description:   
- - Hoisin BBQ Glazed Salmon @ *1849*  
  - Tempura Roll (FujiSan) @ *Global Kitchen*  
   
 **curry**  
@@ -30,6 +25,7 @@ In description:
   
 **pork**  
 In name:   
+ - BBQ Pork Chop @ *1849*  
  - Currywurst (Pork) @ *Fired Up*  
   
 In description:   
