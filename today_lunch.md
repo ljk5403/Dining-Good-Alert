@@ -1,6 +1,6 @@
 # 2025-10-31 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-31 12:17:42  
+Updated at: 2025-10-31 13:27:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-31)  
 **steak**  
 In name:   
@@ -135,9 +135,9 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**Salmon**  
+**duck**  
 In name:   
- - Grilled Chipotle Salmon @ *1849*  
+ - Duck Curry @ *1849*  
   
 **Cod**  
 In name:   
@@ -153,8 +153,12 @@ In name:
 In name:   
   
 In description:   
- - Grilled Chipotle Salmon @ *1849*  
+ - Duck Curry @ *1849*  
  - Tempura Roll (FujiSan) @ *Create-A-Bowl*  
+  
+**curry**  
+In name:   
+ - Duck Curry @ *1849*  
   
 **beef**  
 In name:   
