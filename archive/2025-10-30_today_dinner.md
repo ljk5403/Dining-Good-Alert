@@ -1,6 +1,6 @@
 # 2025-10-31 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-31 01:28:26  
+Updated at: 2025-10-31 09:18:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-31)  
 **drumstick**  
 In name:   
@@ -149,14 +149,6 @@ In description:
  - Shredded Beef Flauta @ *Gordon Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-10-31)  
-**Bulgogi**  
-In name:   
- - BYO Bar - Four Lakes Bulgogi @ *Create-A-Bowl*  
- - Bulgogi Beef @ *Create-A-Bowl*  
- - Bulgogi Chicken @ *Create-A-Bowl*  
- - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
- - Build Your Own Bulgogi Bar - Four Lakes @ *Create-A-Bowl*  
-  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -164,9 +156,6 @@ In name:
 **Shrimp**  
 In name:   
  - Sauteed Shrimp @ *Global Kitchen*  
-  
-In description:   
- - BYO Bar - Four Lakes Bulgogi @ *Create-A-Bowl*  
   
 **Cod**  
 In name:   
@@ -186,13 +175,11 @@ In name:
  - Vegetarian "Fish" Tacos @ *Que Rico*  
   
 In description:   
- - BYO Bar - Four Lakes Bulgogi @ *Create-A-Bowl*  
  - Tempura Roll (FujiSan) @ *Create-A-Bowl*  
   
 **beef**  
 In name:   
  - Beef Ragu Sauce @ *1849*  
- - Bulgogi Beef @ *Create-A-Bowl*  
   
 In description:   
  - Grilled Blended Burger w/ Cheese @ *Fired Up*  
@@ -208,7 +195,6 @@ In description:
 **chicken**  
 In name:   
  - Chicken Coq Au Vin Blanc w/Bacon @ *1849*  
- - Bulgogi Chicken @ *Create-A-Bowl*  
   
 In description:   
  - Station Recipe - Great Greens - FLM @ *Great Greens*  

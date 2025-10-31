@@ -1,6 +1,6 @@
 # 2025-10-31 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-31 01:28:23  
+Updated at: 2025-10-31 09:18:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-31)  
 **steak**  
 In name:   
@@ -81,17 +81,13 @@ In name:
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-10-31)  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
 **haddock**  
 In name:   
  - Haddock Ginger Glazed (AYCTE) @ *1849*  
   
 **Shrimp**  
 In name:   
- - Shrimp & Pork Andouille Sausage @ *Gordon Buona Cucina*  
+ - Manicotti Shrimp Alfredo @ *Gordon Buona Cucina*  
  - Sauteed Shrimp @ *Gordon Buona Cucina*  
   
 **Cod**  
@@ -118,31 +114,23 @@ In name:
  - Beef Barbacoa @ *Gordon Que Rico*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
+In description:   
+ - Vegan Taco Filling @ *Gordon Que Rico*  
+  
 **pork**  
 In name:   
- - Shrimp & Pork Andouille Sausage @ *Gordon Buona Cucina*  
- - Pizza Slice Chicken Cordon Bleu (Pork) @ *Gordon Capital City Pizza*  
  - Clam Chowder (Pork) @ *Great Greens*  
+  
+In description:   
+ - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
   
 **chicken**  
 In name:   
  - Honey Lime Chicken Breast @ *1849*  
  - Plant-Based Chicken Lo Mein @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Pizza Slice Chicken Cordon Bleu (Pork) @ *Gordon Capital City Pizza*  
-  
-In description:   
- - Shrimp & Pork Andouille Sausage @ *Gordon Buona Cucina*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-10-31)  
-**Bulgogi**  
-In name:   
- - BYO Bar - Four Lakes Bulgogi @ *Create-A-Bowl*  
- - Bulgogi Beef @ *Create-A-Bowl*  
- - Bulgogi Chicken @ *Create-A-Bowl*  
- - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
- - Build Your Own Bulgogi Bar - Four Lakes @ *Create-A-Bowl*  
-  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -150,12 +138,6 @@ In name:
 **Salmon**  
 In name:   
  - Grilled Chipotle Salmon @ *1849*  
-  
-**Shrimp**  
-In name:   
-  
-In description:   
- - BYO Bar - Four Lakes Bulgogi @ *Create-A-Bowl*  
   
 **Cod**  
 In name:   
@@ -172,13 +154,11 @@ In name:
   
 In description:   
  - Grilled Chipotle Salmon @ *1849*  
- - BYO Bar - Four Lakes Bulgogi @ *Create-A-Bowl*  
  - Tempura Roll (FujiSan) @ *Create-A-Bowl*  
   
 **beef**  
 In name:   
  - Beef Taco Meat @ *Que Rico*  
- - Bulgogi Beef @ *Create-A-Bowl*  
   
 In description:   
  - Sliced Kielbasa (Pork) @ *Global Kitchen*  
@@ -197,9 +177,7 @@ In description:
 **chicken**  
 In name:   
  - Plant-Based Chicken & Dumplings @ *1849*  
- - Grilled Chicken Sandwich @ *Fired Up*  
  - Crispy Chicken Sandwich @ *Fired Up*  
- - Bulgogi Chicken @ *Create-A-Bowl*  
   
 In description:   
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
