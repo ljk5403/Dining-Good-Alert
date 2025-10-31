@@ -1,6 +1,6 @@
 # 2025-10-31 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-31 16:15:15  
+Updated at: 2025-10-31 17:17:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-31)  
 **drumstick**  
 In name:   
@@ -94,7 +94,7 @@ In name:
 In name:   
   
 In description:   
- - ZZTurkey Legs Roasted @ *1849*  
+ - Turkey Legs Roasted @ *1849*  
   
 **Salmon**  
 In name:   

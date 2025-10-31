@@ -1,6 +1,6 @@
 # 2025-10-31 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-31 15:20:53  
+Updated at: 2025-10-31 16:15:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-31)  
 **drumstick**  
 In name:   
@@ -90,9 +90,15 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**drumstick**  
+In name:   
+  
+In description:   
+ - ZZTurkey Legs Roasted @ *1849*  
+  
 **Salmon**  
 In name:   
- - Oven Roasted Salmon (AYCTE) @ *1849*  
+ - Salmon Tandoori Roasted @ *1849*  
   
 **Shrimp**  
 In name:   
@@ -110,7 +116,7 @@ In description:
 In name:   
   
 In description:   
- - Oven Roasted Salmon (AYCTE) @ *1849*  
+ - Salmon Tandoori Roasted @ *1849*  
   
 **curry**  
 In name:   
@@ -138,7 +144,6 @@ In description:
   
 **chicken**  
 In name:   
- - Brazilian Chicken w/ Salsa Vinaigrette @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pizza Slice Chicken Cordon Bleu (Pork) @ *Gordon Capital City Pizza*  
  - Chicken Curry - Mango @ *Gordon Global Kitchen*  
