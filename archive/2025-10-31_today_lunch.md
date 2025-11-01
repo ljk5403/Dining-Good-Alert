@@ -1,0 +1,219 @@
+# 2025-10-31 lunch  
+*THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
+Updated at: 2025-10-31 20:36:53  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-10-31)  
+**steak**  
+In name:   
+ - Island Spiced Beef Steak @ *1849*  
+ - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
+  
+**catfish**  
+In name:   
+ - Island Spiced Catfish @ *1849*  
+ - Catfish Nuggets w/ Remoulade Sauce @ *Fired Up*  
+  
+**Cod**  
+In name:   
+  
+In description:   
+ - Clam Chowder (Pork) @ *Great Greens*  
+  
+**fish**  
+In name:   
+ - Island Spiced Catfish @ *1849*  
+ - Catfish Nuggets w/ Remoulade Sauce @ *Fired Up*  
+  
+**curry**  
+In name:   
+ - Mixed Vegetable Curry @ *Global Kitchen*  
+  
+In description:   
+ - Coconut Vegetable Stew @ *1849*  
+  
+**beef**  
+In name:   
+ - Island Spiced Beef Steak @ *1849*  
+ - Beef Taco Meat @ *Que Rico*  
+  
+In description:   
+ - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
+  
+**pork**  
+In name:   
+ - Pork Carnita @ *Que Rico*  
+ - Clam Chowder (Pork) @ *Great Greens*  
+  
+In description:   
+ - Pizza Slice Sausage @ *Capital City Pizza*  
+  
+**chicken**  
+In name:   
+ - Butter Chicken @ *Global Kitchen*  
+ - Fajita Chicken @ *Que Rico*  
+ - Diced Chicken Breast @ *Buona Cucina*  
+ - Chicken Salad @ *Delicious*  
+  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-10-31)  
+**watermelon**  
+In name:   
+ - Melon Watermelon Whole Sliced @ *Great Greens*  
+  
+**Cod**  
+In name:   
+  
+In description:   
+ - Clam Chowder (Pork) @ *Great Greens*  
+  
+**curry**  
+In name:   
+ - Black Eyed Pea Curry w/ Rice @ *1849*  
+  
+**pork**  
+In name:   
+ - Sri Lanka Deviled Pork @ *1849*  
+ - Clam Chowder (Pork) @ *Great Greens*  
+  
+**chicken**  
+In name:   
+ - Chicken Tenders Breaded @ *Global Kitchen*  
+ - Plant-Based Chicken Tenders @ *Global Kitchen*  
+ - Dan Dan w/ Chicken @ *1849*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
+  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-10-31)  
+**haddock**  
+In name:   
+ - Haddock Ginger Glazed (AYCTE) @ *1849*  
+  
+**Shrimp**  
+In name:   
+ - Manicotti Shrimp Alfredo @ *Gordon Buona Cucina*  
+ - Sauteed Shrimp @ *Gordon Buona Cucina*  
+  
+**Cod**  
+In name:   
+  
+In description:   
+ - Petite Fish Sandwich @ *Gordon Fired Up*  
+ - Clam Chowder (Pork) @ *Great Greens*  
+  
+**fish**  
+In name:   
+ - Petite Fish Sandwich @ *Gordon Fired Up*  
+ - Vegan Fish Sandwich @ *Gordon Fired Up*  
+  
+**curry**  
+In name:   
+ - Beef Bombay Curry @ *Gordon Global Kitchen*  
+ - Indian Vegetable Curry @ *Gordon Global Kitchen*  
+  
+**beef**  
+In name:   
+ - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Beef Bombay Curry @ *Gordon Global Kitchen*  
+ - Beef Barbacoa @ *Gordon Que Rico*  
+ - Beef Taco Meat @ *Gordon Que Rico*  
+  
+In description:   
+ - Vegan Taco Filling @ *Gordon Que Rico*  
+  
+**pork**  
+In name:   
+ - Clam Chowder (Pork) @ *Great Greens*  
+  
+In description:   
+ - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
+  
+**chicken**  
+In name:   
+ - Honey Lime Chicken Breast @ *1849*  
+ - Plant-Based Chicken Lo Mein @ *1849*  
+ - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-10-31)  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
+  
+**duck**  
+In name:   
+ - Duck Curry @ *1849*  
+  
+**Cod**  
+In name:   
+  
+In description:   
+ - Clam Chowder (Pork) @ *Great Greens*  
+  
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Duck Curry @ *1849*  
+ - Tempura Roll (FujiSan) @ *Create-A-Bowl*  
+  
+**curry**  
+In name:   
+ - Duck Curry @ *1849*  
+  
+**beef**  
+In name:   
+ - Beef Taco Meat @ *Que Rico*  
+  
+In description:   
+ - Sliced Kielbasa (Pork) @ *Global Kitchen*  
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
+  
+**pork**  
+In name:   
+ - Smoked Pulled Pork Sandwich @ *1849*  
+ - Sliced Kielbasa (Pork) @ *Global Kitchen*  
+ - Pork Carnita @ *Que Rico*  
+ - Clam Chowder (Pork) @ *Great Greens*  
+  
+In description:   
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
+  
+**chicken**  
+In name:   
+ - Plant-Based Chicken & Dumplings @ *1849*  
+ - Crispy Chicken Sandwich @ *Fired Up*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
+  
+In description:   
+ - Station Recipe - Great Greens - FLM @ *Great Greens*  
+  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-10-31)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-10-31)  
+**haddock**  
+In name:   
+ - Baked Haddock w/Butter & Lemon @ *Lowell Market*  
+  
+**Cod**  
+In name:   
+ - Battered Cod @ *Lowell Market*  
+  
+In description:   
+ - Clam Chowder (Pork) @ *Great Greens*  
+  
+**fish**  
+In name:   
+ - Vegan Fish Fillet (VN) @ *Lowell Market*  
+  
+**pork**  
+In name:   
+ - Clam Chowder (Pork) @ *Great Greens*  
+ - Pork Miso w/Yakisoba Noodles @ *Lowell Market*  
+  
+**chicken**  
+In name:   
+ - Dan Dan w/ Chicken @ *Lowell Market*  
+  
+In description:   
+ - Pork Miso w/Yakisoba Noodles @ *Lowell Market*  
+  
+  
