@@ -1,6 +1,6 @@
 # 2025-10-31 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-10-31 18:16:58  
+Updated at: 2025-10-31 20:36:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-10-31)  
 **drumstick**  
 In name:   
@@ -11,9 +11,9 @@ In name:
  - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
  - Fried Steak & Cheese Chimichanga @ *Que Rico*  
   
-**mahi mahi**  
+**catfish**  
 In name:   
- - Blackened Mahi Mahi @ *1849*  
+ - Blackened Catfish @ *1849*  
   
 **Cod**  
 In name:   
@@ -24,6 +24,7 @@ In description:
   
 **fish**  
 In name:   
+ - Blackened Catfish @ *1849*  
  - Vegan Fish Sandwich @ *Fired Up*  
   
 In description:   
@@ -81,20 +82,9 @@ In name:
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-10-31)  
-**Flauta**  
-In name:   
- - Shredded Beef Flauta @ *Gordon Que Rico*  
- - Chicken and Cheese Flauta @ *Gordon Que Rico*  
-  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
-  
-**drumstick**  
-In name:   
-  
-In description:   
- - Turkey Legs Roasted @ *1849*  
   
 **Salmon**  
 In name:   
@@ -102,6 +92,7 @@ In name:
   
 **Shrimp**  
 In name:   
+ - Shrimp Etouffee (AYCTE) @ *1849*  
  - Shrimp & Pork Andouille Sausage @ *Gordon Buona Cucina*  
  - Sauteed Shrimp @ *Gordon Buona Cucina*  
  - Popcorn Shrimp Basket @ *Fired Up*  
@@ -128,7 +119,7 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Shredded Beef Flauta @ *Gordon Que Rico*  
+ - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
  - Kielbasa with Pierogis @ *Gordon Eggcetera*  
@@ -147,20 +138,14 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pizza Slice Chicken Cordon Bleu (Pork) @ *Gordon Capital City Pizza*  
  - Chicken Curry - Mango @ *Gordon Global Kitchen*  
- - Chicken and Cheese Flauta @ *Gordon Que Rico*  
   
 In description:   
  - Shrimp & Pork Andouille Sausage @ *Gordon Buona Cucina*  
- - Shredded Beef Flauta @ *Gordon Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-10-31)  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
-  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp @ *Global Kitchen*  
   
 **Cod**  
 In name:   
@@ -195,11 +180,13 @@ In name:
  - Clam Chowder (Pork) @ *Great Greens*  
   
 In description:   
+ - Andouille Sausage @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
 In name:   
  - Chicken Coq Au Vin Blanc w/Bacon @ *1849*  
+ - Plant-Based Chicken & Dumplings @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
