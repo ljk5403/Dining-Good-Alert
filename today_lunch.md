@@ -1,6 +1,6 @@
 # 2025-11-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-01 12:13:52  
+Updated at: 2025-11-01 13:23:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-01)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-11-01)  
 **watermelon**  
@@ -28,13 +28,8 @@ In description:
 In name:   
  - Chicken Drumstick BBQ Glazed @ *1849*  
   
-**curry**  
-In name:   
- - Beef Bombay Curry @ *1849*  
-  
 **beef**  
 In name:   
- - Beef Bombay Curry @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
@@ -54,6 +49,7 @@ In description:
 **chicken**  
 In name:   
  - Chicken Drumstick BBQ Glazed @ *1849*  
+ - Chicken Peruvian w/ Rice @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Crispy Buffalo Chicken Sandwich @ *Gordon Fired Up*  
