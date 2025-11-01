@@ -1,6 +1,6 @@
 # 2025-11-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-01 15:17:24  
+Updated at: 2025-11-01 16:14:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-01)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-11-01)  
 **watermelon**  
@@ -66,9 +66,23 @@ In description:
 In name:   
  - Philly Cheesesteak Sandwich @ *Fired Up*  
   
+**duck**  
+In name:   
+ - Duck Curry @ *1849*  
+  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Duck Curry @ *1849*  
+  
+**curry**  
+In name:   
+ - Duck Curry @ *1849*  
   
 **beef**  
 In name:   

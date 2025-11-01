@@ -1,6 +1,6 @@
 # 2025-11-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-01 15:17:26  
+Updated at: 2025-11-01 16:14:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-01)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-11-01)  
 **watermelon**  
@@ -69,9 +69,23 @@ In description:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**duck**  
+In name:   
+ - Duck Curry @ *1849*  
+  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Duck Curry @ *1849*  
+  
+**curry**  
+In name:   
+ - Duck Curry @ *1849*  
   
 **beef**  
 In name:   
