@@ -1,6 +1,6 @@
 # 2025-11-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-01 18:15:54  
+Updated at: 2025-11-01 20:37:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-01)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-11-01)  
 **watermelon**  
@@ -31,10 +31,6 @@ In description:
 In name:   
  - Brazilian Flank Steak @ *1849*  
   
-**curry**  
-In name:   
- - Chicken Curry - Mango @ *1849*  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
@@ -57,7 +53,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Curry - Mango @ *1849*  
+ - BBQ Chicken Wings Bone-In @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Chicken Tinga @ *Gordon Que Rico*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
@@ -104,20 +100,19 @@ In description:
 In name:   
   
 In description:   
- - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
 In name:   
- - Crispy Chicken Sandwich @ *Fired Up*  
  - Plant-Based Chicken Tenders @ *Fired Up*  
+ - Chicken Tenders Breaded @ *Fired Up*  
  - Giardiniera Chicken @ *Global Kitchen*  
  - Plant Based Sweet & Sour Chicken @ *1849*  
  - Taco Chicken @ *Que Rico*  
+ - Lemon Chicken Rice Soup @ *Great Greens*  
   
 In description:   
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
- - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-11-01)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-11-01)  

@@ -1,6 +1,6 @@
 # 2025-11-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-01 17:16:04  
+Updated at: 2025-11-01 18:15:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-01)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-11-01)  
 **watermelon**  
@@ -27,6 +27,10 @@ In description:
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-11-01)  
+**steak**  
+In name:   
+ - Brazilian Flank Steak @ *1849*  
+  
 **curry**  
 In name:   
  - Chicken Curry - Mango @ *1849*  
@@ -38,13 +42,13 @@ In name:
  - Chili & Cheese Beef Hot Dog @ *Fired Up*  
   
 In description:   
+ - Brazilian Flank Steak @ *1849*  
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
   
 **pork**  
 In name:   
- - Herb Crusted Pork Loin @ *1849*  
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
   
 In description:   
