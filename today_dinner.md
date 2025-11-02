@@ -1,6 +1,6 @@
 # 2025-11-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-02 16:16:16  
+Updated at: 2025-11-02 17:15:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-02)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -74,17 +74,9 @@ In description:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**Salmon**  
-In name:   
- - Tuscan Butter Salmon @ *1849*  
-  
 **catfish**  
 In name:   
  - Garlic Baked Catfish @ *1849*  
-  
-**Shrimp**  
-In name:   
- - Crispy Shrimp Taco @ *Que Rico*  
   
 **Tuna**  
 In name:   
@@ -93,10 +85,6 @@ In name:
 **fish**  
 In name:   
  - Garlic Baked Catfish @ *1849*  
- - Fishless Filet @ *Que Rico*  
-  
-In description:   
- - Tuscan Butter Salmon @ *1849*  
   
 **curry**  
 In name:   
@@ -115,6 +103,7 @@ In description:
 **pork**  
 In name:   
  - French Market Pork Jambalaya @ *1849*  
+ - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
@@ -122,6 +111,7 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Global Kitchen*  
+ - Taco Chicken @ *Que Rico*  
  - Chicken Tortilla Soup @ *Great Greens*  
   
 In description:   
