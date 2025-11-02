@@ -1,6 +1,6 @@
 # 2025-11-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-02 09:16:17  
+Updated at: 2025-11-02 10:19:52  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-02)  
 **Tuna**  
 In name:   
@@ -83,13 +83,11 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Corn Dog (Pork) @ *Fired Up*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
 In name:   
  - Pork Sausage Links @ *Create-A-Bowl*  
- - Corn Dog (Pork) @ *Fired Up*  
  - Pork Carnita @ *Que Rico*  
   
 In description:   
@@ -98,12 +96,12 @@ In description:
 **chicken**  
 In name:   
  - Sausage Links Chicken (halal) (AYCTE) @ *Create-A-Bowl*  
+ - Chicken Popcorn @ *Fired Up*  
  - Plant Based Chicken Strips @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Chicken Tortilla Soup @ *Great Greens*  
   
 In description:   
- - Corn Dog (Pork) @ *Fired Up*  
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-11-02)  
