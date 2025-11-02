@@ -1,6 +1,6 @@
 # 2025-11-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-02 12:22:45  
+Updated at: 2025-11-02 14:18:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-02)  
 **Tuna**  
 In name:   
@@ -74,7 +74,6 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Global Kitchen*  
- - Beef Taco Meat @ *Que Rico*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
@@ -90,15 +89,20 @@ In description:
 **chicken**  
 In name:   
  - Sausage Links Chicken (halal) (AYCTE) @ *Create-A-Bowl*  
- - Chicken Popcorn @ *Fired Up*  
+ - Chicken Wings Boneless Plain @ *Fired Up*  
  - Plant Based Chicken Strips @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
+ - Taco Chicken @ *Que Rico*  
  - Chicken Tortilla Soup @ *Great Greens*  
   
 In description:   
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-11-02)  
+**Shrimp**  
+In name:   
+ - Coconut Shrimp @ *Carson's 1849:  Available Between 11am-2pm*  
+  
 **fish**  
 In name:   
   
@@ -122,7 +126,6 @@ In description:
   
 **chicken**  
 In name:   
- - Maple Cider Chicken @ *Carson's 1849:  Available Between 11am-2pm*  
  - Chicken Tortilla Soup @ *Great Greens:  Available Between 11am-4pm*  
   
 In description:   
