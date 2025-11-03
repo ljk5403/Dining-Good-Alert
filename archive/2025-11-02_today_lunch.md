@@ -1,6 +1,6 @@
 # 2025-11-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-03 10:22:15  
+Updated at: 2025-11-03 11:16:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-03)  
 **Tuna**  
 In name:   
@@ -75,10 +75,6 @@ In name:
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-11-03)  
-**Vanilla Coconut Milk Yogurt**  
-In name:   
- - Vanilla Coconut Milk Yogurt @ *Great Greens*  
-  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -117,7 +113,6 @@ In description:
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Chicken Tinga @ *Gordon Que Rico*  
- - Diced Chicken @ *Great Greens*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
@@ -133,9 +128,9 @@ In name:
 In name:   
  - Broccoli Rabe @ *1849*  
   
-**Pakoras**  
+**Samosas**  
 In name:   
- - Appetizer -  Pakoras Vegetable (Veg) @ *Que Rico*  
+ - Samosas @ *Que Rico*  
   
 **fish**  
 In name:   
