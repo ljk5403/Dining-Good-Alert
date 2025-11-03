@@ -1,6 +1,6 @@
 # 2025-11-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-03 15:17:21  
+Updated at: 2025-11-03 16:18:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-03)  
 **drumstick**  
 In name:   
@@ -140,10 +140,6 @@ In name:
 In name:   
  - Samosas @ *Que Rico*  
   
-**Salmon**  
-In name:   
- - Salmon Tandoori Roasted @ *Que Rico*  
-  
 **mahi mahi**  
 In name:   
  - Coconut Thai Curry Mahi Mahi @ *Que Rico*  
@@ -156,7 +152,6 @@ In name:
 In name:   
   
 In description:   
- - Salmon Tandoori Roasted @ *Que Rico*  
  - Coconut Thai Curry Mahi Mahi @ *Que Rico*  
  - California Roll  (FujiSan) @ *Create-A-Bowl*  
  - Tempura Roll (FujiSan) @ *Create-A-Bowl*  
