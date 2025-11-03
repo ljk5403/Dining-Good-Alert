@@ -1,6 +1,6 @@
 # 2025-11-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-02 17:15:54  
+Updated at: 2025-11-02 19:37:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-02)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -42,7 +42,6 @@ In description:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-11-02)  
 **beef**  
 In name:   
- - Beef Stew @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
@@ -53,7 +52,8 @@ In description:
   
 **pork**  
 In name:   
- - Boneless Baked Pork Ham @ *1849*  
+ - Jerk Pork Chop @ *1849*  
+ - Imperial Pork Stir Fry @ *1849*  
  - Pork Carnita @ *Gordon Que Rico*  
  - Pulled Pork Sandwich with Maw Maw Slaw @ *Fired Up*  
   
@@ -77,6 +77,10 @@ In name:
 **catfish**  
 In name:   
  - Garlic Baked Catfish @ *1849*  
+  
+**Cod**  
+In name:   
+ - Beer Battered Cod @ *Que Rico*  
   
 **Tuna**  
 In name:   
@@ -103,7 +107,6 @@ In description:
 **pork**  
 In name:   
  - French Market Pork Jambalaya @ *1849*  
- - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
