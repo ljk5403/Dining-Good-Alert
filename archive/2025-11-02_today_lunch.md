@@ -1,6 +1,6 @@
 # 2025-11-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-03 09:19:59  
+Updated at: 2025-11-03 10:22:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-03)  
 **Tuna**  
 In name:   
@@ -111,17 +111,18 @@ In name:
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Chicken Tinga @ *Gordon Que Rico*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
  - Diced Chicken @ *Great Greens*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-11-03)  
 **watermelon**  

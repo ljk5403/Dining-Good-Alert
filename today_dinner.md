@@ -1,6 +1,6 @@
 # 2025-11-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-03 10:22:20  
+Updated at: 2025-11-03 11:17:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-03)  
 **drumstick**  
 In name:   
@@ -72,10 +72,6 @@ In name:
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-11-03)  
-**Vanilla Coconut Milk Yogurt**  
-In name:   
- - Vanilla Coconut Milk Yogurt @ *Great Greens*  
-  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -121,7 +117,6 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pizza Slice Mediterranean Chicken @ *Gordon Capital City Pizza*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
- - Diced Chicken @ *Great Greens*  
  - Crispy Chicken Sandwich @ *Fired Up*  
   
 In description:   
