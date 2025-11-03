@@ -1,6 +1,6 @@
 # 2025-11-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-03 00:30:10  
+Updated at: 2025-11-03 08:18:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-03)  
 **Tuna**  
 In name:   
@@ -94,12 +94,12 @@ In name:
 **beef**  
 In name:   
  - Island Spiced Beef Steak @ *1849*  
- - Beef Ravioli w/Tomato Sauce @ *Gordon Buona Cucina*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
  - Pork Bratwurst Sandwich @ *Gordon Fired Up*  
   
@@ -109,15 +109,18 @@ In name:
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Pork Bratwurst Sandwich @ *Gordon Fired Up*  
   
+In description:   
+ - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
+  
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Pizza Slice Mediterranean Chicken @ *Gordon Capital City Pizza*  
  - Chicken Tinga @ *Gordon Que Rico*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Diced Chicken @ *Great Greens*  
   
 In description:   
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-11-03)  
