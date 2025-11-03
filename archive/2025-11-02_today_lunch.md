@@ -1,6 +1,6 @@
 # 2025-11-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-03 11:16:59  
+Updated at: 2025-11-03 12:27:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-03)  
 **Tuna**  
 In name:   
@@ -128,9 +128,9 @@ In name:
 In name:   
  - Broccoli Rabe @ *1849*  
   
-**Samosas**  
+**Pakoras**  
 In name:   
- - Samosas @ *Que Rico*  
+ - Appetizer -  Pakoras Vegetable (Veg) @ *Que Rico*  
   
 **fish**  
 In name:   
