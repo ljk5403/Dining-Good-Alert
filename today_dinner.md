@@ -1,6 +1,6 @@
 # 2025-11-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-03 14:21:31  
+Updated at: 2025-11-03 15:17:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-03)  
 **drumstick**  
 In name:   
@@ -76,9 +76,10 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**steak**  
+**Cod**  
 In name:   
- - Smothered Steak Burrito @ *Gordon Que Rico*  
+ - Battered Cod @ *Gordon Eggcetera*  
+ - Basket Vegan Cod Battered @ *Gordon Eggcetera*  
   
 **Tuna**  
 In name:   
@@ -88,13 +89,14 @@ In name:
 In name:   
   
 In description:   
- - Poulet Braise @ *Gordon Eggcetera*  
+ - Poulet Braise @ *1849*  
+ - Basket Vegan Cod Battered @ *Gordon Eggcetera*  
   
 **curry**  
 In name:   
   
 In description:   
- - Jollof Rice - 25 @ *Gordon Eggcetera*  
+ - Jollof Rice - 25 @ *1849*  
   
 **beef**  
 In name:   
@@ -105,24 +107,25 @@ In description:
  - Swedish Meatballs (AYCTE) @ *1849*  
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
- - Smothered Steak Burrito @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
- - Herb Crusted Pork Loin @ *1849*  
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
+ - Pork Tamale with Oaxaca @ *Gordon Que Rico*  
   
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pizza Slice Mediterranean Chicken @ *Gordon Capital City Pizza*  
+ - Chicken Tamale with Oaxaca @ *Gordon Que Rico*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Crispy Chicken Sandwich @ *Fired Up*  
   
 In description:   
+ - Poulet Braise @ *1849*  
  - Swedish Meatballs (AYCTE) @ *1849*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
- - Poulet Braise @ *Gordon Eggcetera*  
+ - Pork Tamale with Oaxaca @ *Gordon Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-11-03)  
 **watermelon**  
