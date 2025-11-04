@@ -1,6 +1,6 @@
 # 2025-11-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-03 17:17:03  
+Updated at: 2025-11-03 19:26:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-03)  
 **drumstick**  
 In name:   
@@ -32,7 +32,7 @@ In name:
 In description:   
  - Sausage (Pork), Potatoes, & Peppers @ *1849*  
  - Italian Meat Sauce @ *Buona Cucina*  
- - Chicago-Style Hot Dog @ *Fired Up*  
+ - Bratwurst @ *Fired Up*  
   
 **pork**  
 In name:   
@@ -42,6 +42,7 @@ In name:
   
 In description:   
  - Pizza Slice Sausage @ *Capital City Pizza*  
+ - Bratwurst @ *Fired Up*  
   
 **chicken**  
 In name:   
@@ -76,6 +77,10 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**steak**  
+In name:   
+ - Grilled Flank Steak @ *1849*  
+  
 **Cod**  
 In name:   
  - Battered Cod @ *Gordon Eggcetera*  
@@ -89,7 +94,6 @@ In name:
 In name:   
   
 In description:   
- - Poulet Braise @ *1849*  
  - Basket Vegan Cod Battered @ *Gordon Eggcetera*  
   
 **curry**  
@@ -104,6 +108,7 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
   
 In description:   
+ - Grilled Flank Steak @ *1849*  
  - Swedish Meatballs (AYCTE) @ *1849*  
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
@@ -112,7 +117,6 @@ In description:
 **pork**  
 In name:   
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
- - Pork Tamale with Oaxaca @ *Gordon Que Rico*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
@@ -120,15 +124,14 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Chicken Tamale with Oaxaca @ *Gordon Que Rico*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Crispy Chicken Sandwich @ *Fired Up*  
   
 In description:   
- - Poulet Braise @ *1849*  
  - Swedish Meatballs (AYCTE) @ *1849*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
- - Pork Tamale with Oaxaca @ *Gordon Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-11-03)  
 **watermelon**  
@@ -167,7 +170,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Stroganoff Creamy @ *1849*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  

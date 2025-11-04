@@ -1,6 +1,6 @@
 # 2025-11-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-03 16:18:11  
+Updated at: 2025-11-03 17:17:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-03)  
 **drumstick**  
 In name:   
@@ -106,6 +106,7 @@ In name:
 In description:   
  - Swedish Meatballs (AYCTE) @ *1849*  
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
   
 **pork**  
@@ -113,17 +114,19 @@ In name:
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Pork Tamale with Oaxaca @ *Gordon Que Rico*  
   
+In description:   
+ - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
+  
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Pizza Slice Mediterranean Chicken @ *Gordon Capital City Pizza*  
- - Chicken Tamale with Oaxaca @ *Gordon Que Rico*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Crispy Chicken Sandwich @ *Fired Up*  
   
 In description:   
  - Poulet Braise @ *1849*  
  - Swedish Meatballs (AYCTE) @ *1849*  
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
  - Pork Tamale with Oaxaca @ *Gordon Que Rico*  
   
@@ -164,6 +167,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Stroganoff Creamy @ *1849*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
