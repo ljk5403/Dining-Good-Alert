@@ -1,50 +1,19 @@
 # 2025-11-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-04 09:20:51  
+Updated at: 2025-11-04 10:23:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-04)  
-**Pakoras**  
-In name:   
- - Appetizer -  Pakoras Vegetable (Veg) @ *Global Kitchen*  
-  
-**Salmon**  
-In name:   
- - Ginger Glazed Salmon @ *1849*  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
   
-**fish**  
-In name:   
-  
-In description:   
- - Ginger Glazed Salmon @ *1849*  
- - Miso Turnip Puree @ *1849*  
-  
-**curry**  
-In name:   
- - Curry Mango - Pork @ *1849*  
- - Black Eyed Pea Curry w/ Rice @ *Global Kitchen*  
-  
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Poutine w/Beef Gravy @ *Fired Up*  
- - Beef Mediterranean @ *Que Rico*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
   
-**pork**  
-In name:   
- - Curry Mango - Pork @ *1849*  
-  
 **chicken**  
 In name:   
- - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Plant Based Chicken Strips @ *Buona Cucina*  
- - Chicken Vindaloo @ *Global Kitchen*  
- - Mediterranean Chicken @ *Que Rico*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
   
 In description:   

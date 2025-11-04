@@ -1,6 +1,6 @@
 # 2025-11-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-04 09:20:46  
+Updated at: 2025-11-04 10:23:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-04)  
 **Pakoras**  
 In name:   
@@ -91,7 +91,6 @@ In description:
 **steak**  
 In name:   
  - Philly Cheesesteak Sandwich @ *Gordon Fired Up*  
- - Tempeh Philly Cheesesteak Sandwich @ *Gordon Fired Up*  
   
 **beef**  
 In name:   
@@ -126,6 +125,12 @@ In name:
 **mahi mahi**  
 In name:   
  - Blackened Mahi Mahi @ *1849*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - California Roll  (FujiSan) @ *Great Greens*  
   
 **beef**  
 In name:   
