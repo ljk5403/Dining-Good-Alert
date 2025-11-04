@@ -1,6 +1,6 @@
 # 2025-11-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-04 00:29:22  
+Updated at: 2025-11-04 08:19:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-04)  
 **Pakoras**  
 In name:   
@@ -96,15 +96,17 @@ In name:
 In description:   
  - Montreal Chicken @ *1849*  
   
+**lamb**  
+In name:   
+ - Lamb & Beef Gyro Sandwich @ *Fired Up*  
+  
 **beef**  
 In name:   
  - Beef Gravy @ *1849*  
  - Texas BBQ Sliced Beef Brisket @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Harissa w/Couscous @ *Gordon Global Kitchen*  
-  
-In description:   
- - Reuben @ *Fired Up*  
+ - Lamb & Beef Gyro Sandwich @ *Fired Up*  
   
 **pork**  
 In name:   
