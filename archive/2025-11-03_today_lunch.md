@@ -1,6 +1,6 @@
 # 2025-11-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-04 12:27:36  
+Updated at: 2025-11-04 14:21:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-04)  
 **Pakoras**  
 In name:   
@@ -149,7 +149,7 @@ In description:
   
 **chicken**  
 In name:   
- - Smoked Chicken Breast @ *1849*  
+ - Smoked BBQ Chicken Breast @ *1849*  
  - Grilled Chicken Sandwich @ *Fired Up*  
  - Italian Chicken @ *Global Kitchen*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
