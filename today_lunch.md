@@ -1,6 +1,6 @@
 # 2025-11-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-05 08:19:03  
+Updated at: 2025-11-05 09:19:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-05)  
 **broccoli rabe**  
 In name:   
@@ -83,6 +83,7 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Beef Ravioli w/Tomato Sauce @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Bean Chili @ *Great Greens*  
   
