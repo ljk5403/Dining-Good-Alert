@@ -1,6 +1,6 @@
 # 2025-11-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-05 09:19:24  
+Updated at: 2025-11-05 10:25:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-05)  
 **broccoli rabe**  
 In name:   
@@ -123,7 +123,6 @@ In name:
 In name:   
   
 In description:   
- - Vietnamese Pork @ *1849*  
  - Miso Cod @ *1849*  
   
 **curry**  
@@ -139,15 +138,13 @@ In name:
  - Protein - Beef Thinly Sliced @ *Create-A-Bowl*  
   
 In description:   
- - Bolognese Sauce @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
 In name:   
- - Vietnamese Pork @ *1849*  
+ - French Market Pork Jambalaya @ *1849*  
   
 In description:   
- - Bolognese Sauce @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
@@ -159,6 +156,7 @@ In name:
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
+ - French Market Pork Jambalaya @ *1849*  
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-11-05)  
