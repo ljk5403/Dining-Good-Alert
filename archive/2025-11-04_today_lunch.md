@@ -1,6 +1,6 @@
 # 2025-11-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-05 11:18:10  
+Updated at: 2025-11-05 12:27:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-05)  
 **broccoli rabe**  
 In name:   
@@ -181,12 +181,13 @@ In name:
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza:  Available Between 11am-4pm*  
- - Smoked Brisket & Tots Pizza Slice @ *Capital City Pizza:  Available Between 11am-4pm*  
+ - Sausage (Pork) & Pepperoni Pizza Slice @ *Capital City Pizza:  Available Between 11am-4pm*  
   
 **pork**  
 In name:   
  - Spicy Greenbush Pork Loin @ *Carson's 1849:  Available Between 11am-2pm*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza:  Available Between 11am-4pm*  
+ - Sausage (Pork) & Pepperoni Pizza Slice @ *Capital City Pizza:  Available Between 11am-4pm*  
   
 **chicken**  
 In name:   
@@ -195,6 +196,7 @@ In name:
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza:  Available Between 11am-4pm*  
+ - Sausage (Pork) & Pepperoni Pizza Slice @ *Capital City Pizza:  Available Between 11am-4pm*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-11-05)  
 **Shrimp**  
