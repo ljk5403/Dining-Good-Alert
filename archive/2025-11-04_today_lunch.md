@@ -1,6 +1,6 @@
 # 2025-11-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-05 12:27:17  
+Updated at: 2025-11-05 14:21:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-05)  
 **broccoli rabe**  
 In name:   
@@ -33,7 +33,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Parmigiana @ *1849*  
+ - Baked BBQ Chicken @ *1849*  
  - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
  - Fajita Chicken @ *Que Rico*  
   
