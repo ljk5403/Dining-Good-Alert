@@ -1,6 +1,6 @@
 # 2025-11-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-04 17:17:30  
+Updated at: 2025-11-04 19:26:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-04)  
 **Tuna**  
 In name:   
@@ -82,7 +82,7 @@ In description:
 In name:   
  - Baked Chicken (2 piece) @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
+ - Giardiniera Chicken @ *Gordon Buona Cucina*  
  - Chicken Empanada with Green Chili @ *Gordon Que Rico*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
  - Chicken Paprikash @ *Gordon Eggcetera*  
@@ -120,7 +120,6 @@ In description:
   
 **chicken**  
 In name:   
- - Grilled Chicken Sandwich @ *Fired Up*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
  - Mediterranean Chicken @ *Create-A-Bowl*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
