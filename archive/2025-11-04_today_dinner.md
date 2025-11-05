@@ -1,6 +1,6 @@
 # 2025-11-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-05 15:17:43  
+Updated at: 2025-11-05 16:17:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-05)  
 **Tuna**  
 In name:   
@@ -176,6 +176,7 @@ In description:
 In name:   
  - Beef & Bean Chili @ *Lowell Market*  
  - Beef Hot Dog @ *Lowell Market*  
+ - Beef Taco Meat @ *Lowell Market*  
   
 **pork**  
 In name:   
@@ -184,5 +185,6 @@ In name:
 **chicken**  
 In name:   
  - Chicken Teriyaki Stir Fry @ *Lowell Market*  
+ - Taco Chicken @ *Lowell Market*  
   
   
