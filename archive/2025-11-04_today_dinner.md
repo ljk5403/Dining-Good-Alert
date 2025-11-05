@@ -1,6 +1,6 @@
 # 2025-11-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-05 14:21:48  
+Updated at: 2025-11-05 15:17:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-05)  
 **Tuna**  
 In name:   
@@ -109,7 +109,6 @@ In name:
   
 In description:   
  - Pork Bratwurst Sandwich @ *Fired Up*  
- - Bolognese Sauce @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
@@ -117,7 +116,6 @@ In name:
  - Pork Bratwurst Sandwich @ *Fired Up*  
   
 In description:   
- - Bolognese Sauce @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
