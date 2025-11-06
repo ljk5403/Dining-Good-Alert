@@ -1,6 +1,6 @@
 # 2025-11-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-06 00:29:14  
+Updated at: 2025-11-06 08:19:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-06)  
 **Chicken Drummies**  
 In name:   
@@ -75,14 +75,6 @@ In name:
  - Chicken Noodle Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-11-06)  
-**Chicken Drummies**  
-In name:   
- - Chicken Drummies @ *1849*  
-  
-**Cod**  
-In name:   
- - Basque Style Cod @ *1849*  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
@@ -97,9 +89,6 @@ In description:
 In name:   
  - Thai Veggie Meatballs w/ Green Curry @ *Gordon Global Kitchen*  
   
-In description:   
- - Coconut Vegetable Stew @ *1849*  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
@@ -113,7 +102,6 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken Drummies @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Mediterranean Chicken @ *Gordon Buona Cucina*  
  - Chicken Fajita Meat @ *Gordon Que Rico*  
