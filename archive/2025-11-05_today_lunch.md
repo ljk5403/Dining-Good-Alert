@@ -1,6 +1,6 @@
 # 2025-11-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-06 09:20:58  
+Updated at: 2025-11-06 10:25:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-06)  
 **Tuna**  
 In name:   
@@ -103,13 +103,17 @@ In name:
 In name:   
  - Jamaican Jerk Chicken Drumstick @ *1849*  
   
+**steak**  
+In name:   
+ - Country Fried Steak @ *1849*  
+  
 **beef**  
 In name:   
- - Italian Beef Sandwich @ *1849*  
  - Roast Beef & Cheddar Panini on Rye @ *Fired Up*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
+ - Country Fried Steak @ *1849*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
