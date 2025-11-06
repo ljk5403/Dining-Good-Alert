@@ -1,6 +1,6 @@
 # 2025-11-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-06 15:17:02  
+Updated at: 2025-11-06 16:17:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-06)  
 **Chicken Drummies**  
 In name:   
@@ -208,6 +208,9 @@ In description:
 **pork**  
 In name:   
  - Baked Rigatoni w/ Pork Italian Sausage @ *Lowell Market*  
+  
+In description:   
+ - Italian Sausage w/ Pepper & Onions @ *Lowell Market*  
   
 **chicken**  
 In name:   
