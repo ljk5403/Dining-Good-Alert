@@ -1,6 +1,6 @@
 # 2025-11-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-05 16:17:33  
+Updated at: 2025-11-05 17:17:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-05)  
 **Tuna**  
 In name:   
@@ -66,6 +66,7 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Ravioli w/Tomato Sauce @ *Gordon Buona Cucina*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef & Bean Chili @ *Great Greens*  
  - Beef French Dip Sandwich @ *Fired Up*  
@@ -97,9 +98,25 @@ In description:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**Cod**  
+In name:   
+ - Miso Cod @ *1849*  
+  
 **Tilapia**  
 In name:   
  - Tilapia Chipotle Lime Crusted @ *1849*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Miso Cod @ *1849*  
+  
+**curry**  
+In name:   
+  
+In description:   
+ - Vegetable & Tofu Madras w/Basmati Rice @ *1849*  
   
 **beef**  
 In name:   
@@ -114,6 +131,7 @@ In description:
 **pork**  
 In name:   
  - Pork Bratwurst Sandwich @ *Fired Up*  
+ - French Market Pork Jambalaya @ *1849*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
@@ -128,6 +146,7 @@ In name:
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
+ - French Market Pork Jambalaya @ *1849*  
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-11-05)  
