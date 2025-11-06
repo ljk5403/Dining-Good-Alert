@@ -1,6 +1,6 @@
 # 2025-11-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-06 12:28:15  
+Updated at: 2025-11-06 14:21:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-06)  
 **Tuna**  
 In name:   
@@ -110,7 +110,6 @@ In name:
 **beef**  
 In name:   
  - Roast Beef & Cheddar Panini on Rye @ *Fired Up*  
- - Beef Taco Meat @ *Que Rico*  
   
 In description:   
  - Country Fried Steak @ *1849*  
@@ -165,7 +164,6 @@ In description:
   
 **chicken**  
 In name:   
- - Butter Chicken @ *Carson's 1849:  Available Between 11am-2pm*  
  - Chicken Noodle Soup @ *Great Greens:  Available Between 11am-4pm*  
   
 In description:   
