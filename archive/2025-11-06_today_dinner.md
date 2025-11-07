@@ -1,6 +1,6 @@
 # 2025-11-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-07 00:28:51  
+Updated at: 2025-11-07 08:18:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-07)  
 **Shrimp**  
 In name:   
@@ -133,23 +133,9 @@ In name:
  - Plant-Based Chicken Nuggets (6) @ *Gordon Eggcetera*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-11-07)  
-**Bulgogi**  
-In name:   
- - BYO Bar - Four Lakes Bulgogi @ *Create-A-Bowl*  
- - Bulgogi Beef @ *Create-A-Bowl*  
- - Bulgogi Chicken @ *Create-A-Bowl*  
- - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
- - Build Your Own Bulgogi Bar - Four Lakes @ *Create-A-Bowl*  
-  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
-  
-**Shrimp**  
-In name:   
-  
-In description:   
- - BYO Bar - Four Lakes Bulgogi @ *Create-A-Bowl*  
   
 **Cod**  
 In name:   
@@ -161,17 +147,10 @@ In description:
 In name:   
  - Grilled Tuna & Swiss Melt @ *Fired Up*  
   
-**fish**  
-In name:   
-  
-In description:   
- - BYO Bar - Four Lakes Bulgogi @ *Create-A-Bowl*  
-  
 **beef**  
 In name:   
  - Beef Fajita Meat @ *Global Kitchen*  
  - Empanada Beef Picadillo @ *Que Rico*  
- - Bulgogi Beef @ *Create-A-Bowl*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
@@ -187,7 +166,6 @@ In description:
 **chicken**  
 In name:   
  - Chicken Empanada with Green Chili @ *Que Rico*  
- - Bulgogi Chicken @ *Create-A-Bowl*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   

@@ -1,6 +1,6 @@
 # 2025-11-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-07 00:28:50  
+Updated at: 2025-11-07 08:18:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-07)  
 **Shrimp**  
 In name:   
@@ -123,13 +123,10 @@ In name:
  - Greek Chicken @ *Gordon Global Kitchen*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-11-07)  
-**Bulgogi**  
+**Flauta**  
 In name:   
- - BYO Bar - Four Lakes Bulgogi @ *Create-A-Bowl*  
- - Bulgogi Beef @ *Create-A-Bowl*  
- - Bulgogi Chicken @ *Create-A-Bowl*  
- - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
- - Build Your Own Bulgogi Bar - Four Lakes @ *Create-A-Bowl*  
+ - Shredded Beef Flauta @ *Que Rico*  
+ - Chicken and Cheese Flauta @ *Que Rico*  
   
 **watermelon**  
 In name:   
@@ -138,13 +135,6 @@ In name:
 **Salmon**  
 In name:   
  - Masala Spiced Salmon @ *1849*  
-  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp @ *Que Rico*  
-  
-In description:   
- - BYO Bar - Four Lakes Bulgogi @ *Create-A-Bowl*  
   
 **Cod**  
 In name:   
@@ -157,7 +147,7 @@ In name:
   
 In description:   
  - Masala Spiced Salmon @ *1849*  
- - BYO Bar - Four Lakes Bulgogi @ *Create-A-Bowl*  
+ - California Roll  (FujiSan) @ *Create-A-Bowl*  
   
 **curry**  
 In name:   
@@ -169,8 +159,7 @@ In description:
 **beef**  
 In name:   
  - Beef Fajita Meat @ *Global Kitchen*  
- - Beef Taco Meat @ *Que Rico*  
- - Bulgogi Beef @ *Create-A-Bowl*  
+ - Shredded Beef Flauta @ *Que Rico*  
   
 In description:   
  - Vegan Taco Filling @ *Que Rico*  
@@ -187,10 +176,11 @@ In description:
 In name:   
  - Tikka Masala Chicken @ *1849*  
  - Chipotle BBQ Chicken Sandwich @ *Fired Up*  
- - Bulgogi Chicken @ *Create-A-Bowl*  
+ - Chicken and Cheese Flauta @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
+ - Shredded Beef Flauta @ *Que Rico*  
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-11-07)  

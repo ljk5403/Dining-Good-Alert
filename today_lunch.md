@@ -1,6 +1,6 @@
 # 2025-11-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-07 08:18:37  
+Updated at: 2025-11-07 09:19:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-07)  
 **Shrimp**  
 In name:   
@@ -132,9 +132,9 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**Salmon**  
+**catfish**  
 In name:   
- - Masala Spiced Salmon @ *1849*  
+ - Fried Catfish @ *1849*  
   
 **Cod**  
 In name:   
@@ -144,9 +144,9 @@ In description:
   
 **fish**  
 In name:   
+ - Fried Catfish @ *1849*  
   
 In description:   
- - Masala Spiced Salmon @ *1849*  
  - California Roll  (FujiSan) @ *Create-A-Bowl*  
   
 **curry**  
