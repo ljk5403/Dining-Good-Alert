@@ -1,6 +1,6 @@
 # 2025-11-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-07 11:16:27  
+Updated at: 2025-11-07 12:26:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-07)  
 **Shrimp**  
 In name:   
@@ -16,7 +16,6 @@ In description:
   
 **Tuna**  
 In name:   
- - Poke Tuna (*Raw) @ *Global Kitchen*  
  - Lemon Pepper Tuna Salad @ *Delicious*  
   
 **beef**  
@@ -131,7 +130,7 @@ In name:
   
 **catfish**  
 In name:   
- - Garlic Baked Catfish @ *1849*  
+ - Island Spiced Catfish @ *1849*  
   
 **Cod**  
 In name:   
@@ -141,7 +140,7 @@ In description:
   
 **fish**  
 In name:   
- - Garlic Baked Catfish @ *1849*  
+ - Island Spiced Catfish @ *1849*  
   
 In description:   
  - California Roll  (FujiSan) @ *Create-A-Bowl*  
