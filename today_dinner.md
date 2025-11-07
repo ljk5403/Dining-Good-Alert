@@ -1,11 +1,7 @@
 # 2025-11-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-06 17:17:18  
+Updated at: 2025-11-06 19:26:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-06)  
-**Chicken Drummies**  
-In name:   
- - Chicken Drummies @ *Fired Up*  
-  
 **Shrimp**  
 In name:   
  - Blackened Shrimp @ *1849*  
@@ -34,7 +30,7 @@ In name:
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Pizza Slice Chicken Broccoli Alfredo @ *Capital City Pizza*  
- - Chicken Drummies @ *Fired Up*  
+ - Crispy Chicken Sandwich @ *Fired Up*  
  - Plant-Based Chicken Nuggets (6) @ *Fired Up*  
  - Mediterranean Chicken @ *Que Rico*  
  - Chicken Noodle Soup @ *Great Greens*  
@@ -79,12 +75,6 @@ In name:
 In name:   
  - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
   
-**fish**  
-In name:   
-  
-In description:   
- - Vietnamese Pork @ *Gordon Global Kitchen*  
-  
 **curry**  
 In name:   
  - Thai Veggie Meatballs w/ Green Curry @ *Gordon Global Kitchen*  
@@ -92,13 +82,11 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Beef Harissa @ *Gordon Global Kitchen*  
   
 In description:   
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Italian Meatball Sandwich @ *Fired Up*  
-  
-**pork**  
-In name:   
- - Vietnamese Pork @ *Gordon Global Kitchen*  
   
 **chicken**  
 In name:   
@@ -109,6 +97,7 @@ In name:
  - Breaded Chicken Parmigiana @ *Gordon Eggcetera*  
   
 In description:   
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Build Your Own Southwest Bowl @ *Gordon Que Rico*  
  - Italian Meatball Sandwich @ *Fired Up*  
   
@@ -126,6 +115,12 @@ In name:
 In name:   
  - Build Your Own Poke Bar @ *Create-A-Bowl*  
   
+**Cod**  
+In name:   
+  
+In description:   
+ - Clam Chowder (Pork) @ *Great Greens*  
+  
 **beef**  
 In name:   
  - Beef Tri Tip Carved w/ Chimichurri @ *1849*  
@@ -138,6 +133,7 @@ In description:
 **pork**  
 In name:   
  - Apple Cider Braised Pork @ *1849*  
+ - Clam Chowder (Pork) @ *Great Greens*  
   
 In description:   
  - Andouille Sausage @ *Global Kitchen*  
@@ -146,7 +142,6 @@ In description:
 **chicken**  
 In name:   
  - Chicken and Cheese Flauta @ *Que Rico*  
- - Chicken Noodle Soup @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
@@ -201,6 +196,7 @@ In name:
   
 **curry**  
 In name:   
+ - Chicken Curry - Mango @ *Lowell Market*  
   
 In description:   
  - Tofu & Vegetable Tikka Masala @ *Lowell Market*  
@@ -216,5 +212,6 @@ In description:
 In name:   
  - Chicken Noodle Soup @ *Great Greens*  
  - Chicken Baked  (1 piece) @ *Lowell Market*  
+ - Chicken Curry - Mango @ *Lowell Market*  
   
   

@@ -1,6 +1,6 @@
 # 2025-11-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-06 17:17:16  
+Updated at: 2025-11-06 19:26:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-06)  
 **Tuna**  
 In name:   
@@ -107,6 +107,12 @@ In name:
 In name:   
  - Country Fried Steak @ *1849*  
   
+**Cod**  
+In name:   
+  
+In description:   
+ - Clam Chowder (Pork) @ *Great Greens*  
+  
 **beef**  
 In name:   
  - Roast Beef & Cheddar Panini on Rye @ *Fired Up*  
@@ -117,6 +123,7 @@ In description:
   
 **pork**  
 In name:   
+ - Clam Chowder (Pork) @ *Great Greens*  
   
 In description:   
  - Andouille Sausage @ *Global Kitchen*  
@@ -126,7 +133,6 @@ In description:
 In name:   
  - Jamaican Jerk Chicken Drumstick @ *1849*  
  - Plant-Based Chicken Tenders @ *Fired Up*  
- - Chicken Noodle Soup @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
