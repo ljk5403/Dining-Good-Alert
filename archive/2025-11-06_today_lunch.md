@@ -1,6 +1,6 @@
 # 2025-11-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-07 12:26:47  
+Updated at: 2025-11-07 14:18:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-07)  
 **Shrimp**  
 In name:   
@@ -128,6 +128,10 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**duck**  
+In name:   
+ - Duck Curry @ *1849*  
+  
 **catfish**  
 In name:   
  - Island Spiced Catfish @ *1849*  
@@ -143,14 +147,13 @@ In name:
  - Island Spiced Catfish @ *1849*  
   
 In description:   
+ - Duck Curry @ *1849*  
  - California Roll  (FujiSan) @ *Create-A-Bowl*  
   
 **curry**  
 In name:   
+ - Duck Curry @ *1849*  
  - Vegan Curry Stew @ *1849*  
-  
-In description:   
- - Tikka Masala Chicken @ *1849*  
   
 **beef**  
 In name:   
@@ -170,8 +173,7 @@ In description:
   
 **chicken**  
 In name:   
- - Tikka Masala Chicken @ *1849*  
- - Chipotle BBQ Chicken Sandwich @ *Fired Up*  
+ - Crispy Chicken Sandwich @ *Fired Up*  
  - Chicken and Cheese Flauta @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
