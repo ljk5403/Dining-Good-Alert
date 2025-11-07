@@ -1,6 +1,6 @@
 # 2025-11-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-07 09:19:13  
+Updated at: 2025-11-07 10:19:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-07)  
 **Shrimp**  
 In name:   
@@ -110,9 +110,6 @@ In description:
 In name:   
  - Chicken Bacon (Pork) Ranch Pizza @ *Gordon Capital City Pizza*  
  - Clam Chowder (Pork) @ *Great Greens*  
-  
-In description:   
- - Gnocchi w/ Sausage & Roast Veg @ *Gordon Buona Cucina*  
   
 **chicken**  
 In name:   
