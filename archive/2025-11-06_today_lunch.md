@@ -1,6 +1,6 @@
 # 2025-11-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-07 10:19:50  
+Updated at: 2025-11-07 11:16:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-07)  
 **Shrimp**  
 In name:   
@@ -131,7 +131,7 @@ In name:
   
 **catfish**  
 In name:   
- - Fried Catfish @ *1849*  
+ - Garlic Baked Catfish @ *1849*  
   
 **Cod**  
 In name:   
@@ -141,7 +141,7 @@ In description:
   
 **fish**  
 In name:   
- - Fried Catfish @ *1849*  
+ - Garlic Baked Catfish @ *1849*  
   
 In description:   
  - California Roll  (FujiSan) @ *Create-A-Bowl*  
