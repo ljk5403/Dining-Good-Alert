@@ -1,6 +1,6 @@
 # 2025-11-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-07 15:13:25  
+Updated at: 2025-11-07 16:17:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-07)  
 **Shrimp**  
 In name:   
@@ -16,18 +16,20 @@ In description:
   
 **Tuna**  
 In name:   
- - Poke Tuna (*Raw) @ *Global Kitchen*  
  - Lemon Pepper Tuna Salad @ *Delicious*  
   
 **fish**  
 In name:   
  - Fish Tacos @ *Fired Up*  
   
+**beef**  
+In name:   
+ - Beef Taco Meat @ *Que Rico*  
+  
 **pork**  
 In name:   
  - Pork Sausage Patty @ *Buona Cucina*  
  - Hawaiian (Pork) Pizza Slice @ *Capital City Pizza*  
- - Ancho Braised Pork @ *Que Rico*  
  - Clam Chowder (Pork) @ *Great Greens*  
   
 In description:   
@@ -35,9 +37,8 @@ In description:
   
 **chicken**  
 In name:   
-  
-In description:   
- - Ancho Braised Pork @ *Que Rico*  
+ - Diced Chicken @ *Que Rico*  
+ - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-11-07)  
 **watermelon**  
@@ -77,10 +78,6 @@ In description:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**haddock**  
-In name:   
- - Haddock Ginger Glazed (AYCTE) @ *1849*  
-  
 **squid**  
 In name:   
   
@@ -94,6 +91,7 @@ In name:
   
 **Cod**  
 In name:   
+ - Cracker Crusted Cod w/ Lemon Sauce @ *1849*  
   
 In description:   
  - Clam Chowder (Pork) @ *Great Greens*  
@@ -127,11 +125,14 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Breast Con Pollo @ *1849*  
+ - Huli Huli Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Gordon Capital City Pizza*  
  - Butter Chicken @ *Gordon Global Kitchen*  
  - Plant-Based Chicken Nuggets (6) @ *Gordon Eggcetera*  
+  
+In description:   
+ - Cracker Crusted Cod w/ Lemon Sauce @ *1849*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-11-07)  
 **watermelon**  
