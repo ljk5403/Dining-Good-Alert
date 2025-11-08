@@ -1,6 +1,6 @@
 # 2025-11-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-08 09:16:36  
+Updated at: 2025-11-08 10:20:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-08)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-11-08)  
 **watermelon**  
@@ -33,6 +33,12 @@ In description:
 In name:   
  - Chicken Drumstick Mango Habanero @ *1849*  
   
+**lamb**  
+In name:   
+  
+In description:   
+ - Pizza Slice Gyro @ *Gordon Capital City Pizza*  
+  
 **curry**  
 In name:   
  - VEGAN Thai Chick'n w/ Green Curry (VN) @ *1849*  
@@ -44,8 +50,8 @@ In name:
   
 In description:   
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
- - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
+ - Pizza Slice Gyro @ *Gordon Capital City Pizza*  
  - Deli @ *Gordon Delicious*  
   
 **pork**  
@@ -54,7 +60,6 @@ In name:
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
   
 In description:   
- - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
  - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Deli @ *Gordon Delicious*  
   
@@ -62,13 +67,13 @@ In description:
 In name:   
  - Chicken Drumstick Mango Habanero @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Pizza Slice Chicken Broccoli Alfredo @ *Gordon Capital City Pizza*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Crispy Chicken Sandwich @ *Gordon Fired Up*  
  - Chicken Tinga @ *Gordon Que Rico*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
   
 In description:   
- - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
