@@ -1,6 +1,6 @@
 # 2025-11-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-08 12:24:19  
+Updated at: 2025-11-08 14:18:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-08)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-11-08)  
 **watermelon**  
@@ -42,15 +42,13 @@ In description:
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
- - Grilled Blended Burger w/ Cheese @ *Fired Up*  
- - Baked Corn Dog (Pork) @ *Fired Up*  
  - Deli @ *Gordon Delicious*  
   
 **pork**  
 In name:   
  - Roasted Pork Loin @ *1849*  
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
- - Baked Corn Dog (Pork) @ *Fired Up*  
+ - Pork Bratwurst Sandwich @ *Fired Up*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
@@ -67,7 +65,6 @@ In description:
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
  - Kale, Sausage & Potato Soup @ *Great Greens*  
- - Baked Corn Dog (Pork) @ *Fired Up*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-11-08)  
 **watermelon**  
