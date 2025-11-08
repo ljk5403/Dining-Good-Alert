@@ -1,6 +1,6 @@
 # 2025-11-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-08 12:24:17  
+Updated at: 2025-11-08 14:18:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-08)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-11-08)  
 **watermelon**  
@@ -47,6 +47,7 @@ In name:
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Sirloin Tips @ *Gordon Global Kitchen*  
+ - Beef Harissa @ *Gordon Global Kitchen*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
@@ -71,7 +72,6 @@ In name:
  - Pizza Slice Chicken Broccoli Alfredo @ *Gordon Capital City Pizza*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Crispy Chicken Sandwich @ *Gordon Fired Up*  
- - Greek Chicken @ *Gordon Global Kitchen*  
  - Chicken Tinga @ *Gordon Que Rico*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
   
@@ -87,6 +87,12 @@ In name:
 **steak**  
 In name:   
  - Ham Steak @ *Create-A-Bowl*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - California Roll  (FujiSan) @ *Great Greens*  
   
 **beef**  
 In name:   
