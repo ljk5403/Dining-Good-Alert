@@ -1,6 +1,6 @@
 # 2025-11-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-08 00:25:52  
+Updated at: 2025-11-08 08:15:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-08)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-11-08)  
 **watermelon**  
@@ -48,7 +48,6 @@ In description:
   
 **pork**  
 In name:   
- - Coffee Crusted Pork Loin @ *1849*  
  - Roasted Pork Loin @ *1849*  
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Baked Corn Dog (Pork) @ *Fired Up*  

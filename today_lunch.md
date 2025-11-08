@@ -1,6 +1,6 @@
 # 2025-11-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-08 00:25:51  
+Updated at: 2025-11-08 08:15:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-08)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-11-08)  
 **watermelon**  
@@ -39,9 +39,7 @@ In name:
   
 **beef**  
 In name:   
- - Beef Carne Guisada @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - BBQ Beef Brisket Sandwich @ *Gordon Fired Up*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
@@ -62,7 +60,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Enchilada Bake @ *1849*  
  - Chicken Drumstick Mango Habanero @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
@@ -104,6 +101,7 @@ In description:
 **chicken**  
 In name:   
  - Sausage Links Chicken (halal) (AYCTE) @ *Create-A-Bowl*  
+ - Crispy Chicken Sandwich @ *Fired Up*  
  - Giardiniera Chicken @ *Global Kitchen*  
  - Taco Chicken @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
