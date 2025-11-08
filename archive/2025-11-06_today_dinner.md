@@ -1,6 +1,6 @@
 # 2025-11-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-07 16:17:04  
+Updated at: 2025-11-07 17:16:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-07)  
 **Shrimp**  
 In name:   
@@ -30,6 +30,7 @@ In name:
 In name:   
  - Pork Sausage Patty @ *Buona Cucina*  
  - Hawaiian (Pork) Pizza Slice @ *Capital City Pizza*  
+ - Ancho Braised Pork @ *Que Rico*  
  - Clam Chowder (Pork) @ *Great Greens*  
   
 In description:   
@@ -39,6 +40,9 @@ In description:
 In name:   
  - Diced Chicken @ *Que Rico*  
  - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
+  
+In description:   
+ - Ancho Braised Pork @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-11-07)  
 **watermelon**  

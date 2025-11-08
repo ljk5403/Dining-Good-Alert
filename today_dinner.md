@@ -1,6 +1,6 @@
 # 2025-11-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-07 17:16:51  
+Updated at: 2025-11-07 19:21:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-07)  
 **Shrimp**  
 In name:   
@@ -25,12 +25,12 @@ In name:
 **beef**  
 In name:   
  - Beef Taco Meat @ *Que Rico*  
+ - Beef Fajita Meat @ *Que Rico*  
   
 **pork**  
 In name:   
  - Pork Sausage Patty @ *Buona Cucina*  
  - Hawaiian (Pork) Pizza Slice @ *Capital City Pizza*  
- - Ancho Braised Pork @ *Que Rico*  
  - Clam Chowder (Pork) @ *Great Greens*  
   
 In description:   
@@ -40,9 +40,6 @@ In description:
 In name:   
  - Diced Chicken @ *Que Rico*  
  - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
-  
-In description:   
- - Ancho Braised Pork @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-11-07)  
 **watermelon**  
@@ -81,6 +78,12 @@ In description:
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
+  
+**drumstick**  
+In name:   
+  
+In description:   
+ - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
   
 **squid**  
 In name:   
@@ -129,7 +132,7 @@ In description:
   
 **chicken**  
 In name:   
- - Huli Huli Chicken @ *1849*  
+ - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Gordon Capital City Pizza*  
  - Butter Chicken @ *Gordon Global Kitchen*  
@@ -142,12 +145,6 @@ In description:
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
-  
-**Cod**  
-In name:   
-  
-In description:   
- - Clam Chowder (Pork) @ *Great Greens*  
   
 **Tuna**  
 In name:   
@@ -164,7 +161,6 @@ In description:
 **pork**  
 In name:   
  - Denver Scramble (Pork) @ *1849*  
- - Clam Chowder (Pork) @ *Great Greens*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
@@ -172,6 +168,7 @@ In description:
 **chicken**  
 In name:   
  - Chicken Empanada with Green Chili @ *Que Rico*  
+ - Chicken Tortilla Soup @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
@@ -183,6 +180,7 @@ In description:
 **steak**  
 In name:   
  - Country Fried Steak @ *Lowell Market*  
+ - Swiss Steak w/Brown Gravy @ *Lowell Market*  
   
 **Cod**  
 In name:   
@@ -197,6 +195,7 @@ In name:
 In description:   
  - Country Fried Steak @ *Lowell Market*  
  - Brazilian Pork Feijoada @ *Lowell Market*  
+ - Swiss Steak w/Brown Gravy @ *Lowell Market*  
   
 **pork**  
 In name:   
