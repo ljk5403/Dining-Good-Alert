@@ -1,6 +1,6 @@
 # 2025-11-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-08 17:15:52  
+Updated at: 2025-11-08 19:37:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-08)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-11-08)  
 **watermelon**  
@@ -25,9 +25,13 @@ In description:
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-11-08)  
-**Shrimp**  
+**BBQ Pork Sandwich**  
 In name:   
- - Popcorn Shrimp Basket @ *1849*  
+ - BBQ Pork Sandwich @ *1849*  
+  
+**Cod**  
+In name:   
+ - Baked Lemon Butter Cod @ *1849*  
   
 **curry**  
 In name:   
@@ -46,7 +50,7 @@ In description:
   
 **pork**  
 In name:   
- - Roasted Pork Loin @ *1849*  
+ - BBQ Pork Sandwich @ *1849*  
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Pork Bratwurst Sandwich @ *Fired Up*  
   
