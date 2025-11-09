@@ -1,6 +1,6 @@
 # 2025-11-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-09 00:26:19  
+Updated at: 2025-11-09 08:14:52  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-09)  
 **lamb**  
 In name:   
@@ -39,22 +39,16 @@ In description:
 In name:   
  - Grilled Flank Steak @ *1849*  
   
-**lamb**  
-In name:   
- - Lamb & Beef Gyro Sandwich @ *Fired Up*  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
- - Lamb & Beef Gyro Sandwich @ *Fired Up*  
   
 In description:   
  - Grilled Flank Steak @ *1849*  
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Vegan Taco Filling @ *Gordon Que Rico*  
- - Vegan Sloppy Joe @ *Fired Up*  
   
 **pork**  
 In name:   

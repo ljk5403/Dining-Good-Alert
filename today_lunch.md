@@ -1,6 +1,6 @@
 # 2025-11-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-09 00:26:15  
+Updated at: 2025-11-09 08:14:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-09)  
 **steak**  
 In name:   
@@ -39,7 +39,6 @@ In description:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-11-09)  
 **beef**  
 In name:   
- - Beef Goulash w/Egg Noodles @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Hot Dog @ *Gordon Fired Up*  
  - Beef Taco Meat @ *Gordon Que Rico*  
@@ -51,7 +50,6 @@ In description:
   
 **pork**  
 In name:   
- - Chicken Grilled Cordon Bleu (Pork) @ *1849*  
  - BBQ Pork Chop @ *1849*  
  - Pork Sausage Country Gravy w/ Biscuit @ *Gordon Eggcetera*  
  - Pork Carnita @ *Gordon Que Rico*  
@@ -61,7 +59,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Grilled Cordon Bleu (Pork) @ *1849*  
  - Chicken Breast w/Red Pepper Cream @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Giardiniera Chicken @ *Gordon Buona Cucina*  
