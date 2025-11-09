@@ -1,6 +1,6 @@
 # 2025-11-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-09 10:20:14  
+Updated at: 2025-11-09 11:14:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-09)  
 **steak**  
 In name:   
@@ -88,7 +88,6 @@ In name:
  - Pork Sausage Patty @ *Create-A-Bowl*  
   
 In description:   
- - Pizza Breakfast Meat w/Bacon @ *1849*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  

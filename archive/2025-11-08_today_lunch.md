@@ -1,6 +1,6 @@
 # 2025-11-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-09 09:16:19  
+Updated at: 2025-11-09 10:20:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-09)  
 **steak**  
 In name:   
@@ -84,7 +84,6 @@ In description:
 **pork**  
 In name:   
  - Pork Sausage Patties @ *1849*  
- - Chicken Supreme Sandwich w/ Bacon (Pork) @ *Fired Up*  
  - Pork Carnita @ *Que Rico*  
  - Pork Sausage Patty @ *Create-A-Bowl*  
   
@@ -94,7 +93,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Supreme Sandwich w/ Bacon (Pork) @ *Fired Up*  
  - Plant Based Chicken Strips @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Chicken Tortilla Soup @ *Great Greens*  
