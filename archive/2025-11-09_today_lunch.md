@@ -1,6 +1,6 @@
 # 2025-11-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-10 15:17:04  
+Updated at: 2025-11-10 16:18:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-10)  
 **beef**  
 In name:   
@@ -115,6 +115,7 @@ In name:
   
 **fish**  
 In name:   
+ - Vegan Fish Sandwich @ *Fired Up*  
   
 In description:   
  - California Roll  (FujiSan) @ *Create-A-Bowl*  
@@ -132,6 +133,7 @@ In name:
  - Beef Goulash w/Egg Noodles @ *1849*  
   
 In description:   
+ - Grilled Blended Burger w/ Cheese @ *Fired Up*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
@@ -143,7 +145,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Fajita Torta @ *Fired Up*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
