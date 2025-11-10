@@ -1,6 +1,6 @@
 # 2025-11-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-10 09:21:16  
+Updated at: 2025-11-10 10:26:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-10)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -15,12 +15,14 @@ In description:
 **beef**  
 In name:   
  - Beef Ravioli Plain @ *Buona Cucina*  
+ - Beef Taco Meat @ *Que Rico*  
   
 **pork**  
 In name:   
  - Cajun Rice w/ Pork & Black Eyed Peas @ *1849*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
  - BBQ Pork Sandwich @ *Fired Up*  
+ - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Pizza Slice Sausage @ *Capital City Pizza*  
@@ -30,7 +32,7 @@ In name:
  - Blackened Chicken @ *1849*  
  - Diced Chicken Breast @ *Buona Cucina*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
- - Chicken Enchilada Bake @ *Que Rico*  
+ - Chicken Tinga @ *Que Rico*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
