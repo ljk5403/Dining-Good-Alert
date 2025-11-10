@@ -1,10 +1,10 @@
 # 2025-11-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-10 10:26:00  
+Updated at: 2025-11-10 11:17:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-10)  
 **beef**  
 In name:   
- - Beef Stroganoff Creamy - UM (AYCTE) w/o @ *1849*  
+ - Beef Sirloin Tips @ *1849*  
  - Beef Taco Meat @ *Que Rico*  
  - Beef Ravioli Plain @ *Buona Cucina*  
   
@@ -62,6 +62,10 @@ In name:
 In name:   
  - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
   
+**curry**  
+In name:   
+ - VEGAN Thai Chick'n w/ Green Curry @ *1849*  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
@@ -75,7 +79,7 @@ In description:
   
 **pork**  
 In name:   
- - Pork Loin Roast w/ Apricot Glaze @ *1849*  
+ - Pork Loin Apricot Glazed @ *1849*  
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
   
 In description:   
@@ -84,9 +88,9 @@ In description:
   
 **chicken**  
 In name:   
- - Plant-Based Chicken & Gravy (VN) @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pizza Slice Chicken Tomatillo @ *Gordon Capital City Pizza*  
+ - Halal Chicken Sausage Link @ *Gordon Eggcetera*  
  - Chicken Tenders Breaded @ *Gordon Fired Up*  
  - Plant-Based Chicken Nuggets (6) @ *Gordon Fired Up*  
  - Chicken @ *Gordon Global Kitchen*  
