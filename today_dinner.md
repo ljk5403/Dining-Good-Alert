@@ -1,6 +1,6 @@
 # 2025-11-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-09 17:15:54  
+Updated at: 2025-11-09 19:38:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-09)  
 **lamb**  
 In name:   
@@ -42,7 +42,6 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
  - Grilled Flank Steak @ *1849*  
@@ -52,7 +51,6 @@ In description:
   
 **pork**  
 In name:   
- - Pork Carnita @ *Gordon Que Rico*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
@@ -62,8 +60,9 @@ In name:
  - Blackened Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Giardiniera Chicken @ *Gordon Buona Cucina*  
+ - Chicken Tinga @ *Gordon Que Rico*  
  - Chicken Tortilla Soup @ *Great Greens*  
- - Chicken Tenders Breaded @ *Fired Up*  
+ - Crispy Chicken Sandwich @ *Fired Up*  
  - Plant-Based Chicken Nuggets (6) @ *Fired Up*  
   
 In description:   
