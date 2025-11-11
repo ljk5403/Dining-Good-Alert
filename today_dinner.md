@@ -1,6 +1,6 @@
 # 2025-11-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-10 17:18:00  
+Updated at: 2025-11-10 19:27:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-10)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -29,7 +29,7 @@ In description:
   
 **chicken**  
 In name:   
- - Blackened Chicken @ *1849*  
+ - Chicken Spaghetti @ *1849*  
  - Diced Chicken Breast @ *Buona Cucina*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
  - Chicken Tinga @ *Que Rico*  
@@ -58,7 +58,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Birria Tacos @ *Global Kitchen*  
   
 In description:   
  - Pork Bratwurst Sandwich @ *1849*  
@@ -66,6 +65,7 @@ In description:
 **pork**  
 In name:   
  - Pork Bratwurst Sandwich @ *1849*  
+ - Pork Carnita @ *Global Kitchen*  
   
 **chicken**  
 In name:   

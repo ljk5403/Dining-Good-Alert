@@ -1,6 +1,6 @@
 # 2025-11-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-10 16:18:15  
+Updated at: 2025-11-10 17:17:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-10)  
 **beef**  
 In name:   
@@ -181,6 +181,7 @@ In name:
 **chicken**  
 In name:   
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza:  Available Between 11am-4pm*  
+ - Blackened Chicken (No Bun) @ *Great Greens:  Available Between 11am-4pm*  
  - Lemon Chicken Rice Soup @ *Great Greens:  Available Between 11am-4pm*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera:  Available Between 11am-2pm*  
  - Blackened Chicken Sandwich @ *Fired Up:  Available Between 11am-2pm*  
