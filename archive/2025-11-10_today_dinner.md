@@ -1,6 +1,6 @@
 # 2025-11-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-11 14:20:32  
+Updated at: 2025-11-11 15:16:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-11)  
 **Samosas**  
 In name:   
@@ -118,7 +118,7 @@ In description:
   
 **pork**  
 In name:   
- - BBQ Pork Chop @ *1849*  
+ - Roasted Pork Loin @ *1849*  
  - Pizza Slice Deluxe (Pork) @ *Gordon Capital City Pizza*  
  - Filipino Pork Sausage @ *Gordon Eggcetera*  
  - FiIipino Pork Spring Roll @ *Gordon Eggcetera*  
@@ -145,19 +145,9 @@ In description:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**Salmon**  
+**steak**  
 In name:   
- - Smoked Salmon @ *1849*  
-  
-**Shrimp**  
-In name:   
- - Fried Popcorn Shrimp @ *1849*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Smoked Salmon @ *1849*  
+ - Rosemary Cabernet Flank Steak @ *1849*  
   
 **lamb**  
 In name:   
@@ -169,6 +159,7 @@ In name:
  - Mediterranean Beef @ *Create-A-Bowl*  
   
 In description:   
+ - Rosemary Cabernet Flank Steak @ *1849*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  

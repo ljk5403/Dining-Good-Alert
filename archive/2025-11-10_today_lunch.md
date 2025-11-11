@@ -1,6 +1,6 @@
 # 2025-11-11 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-11 14:20:28  
+Updated at: 2025-11-11 15:16:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-11)  
 **Samosas**  
 In name:   
@@ -173,6 +173,10 @@ In description:
 In name:   
  - Shrimp Creole @ *Global Kitchen:  Available Between 11am-2pm*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Great Greens:  Available Between 11am-4pm*  
+  
 **beef**  
 In name:   
   
@@ -190,7 +194,6 @@ In name:
 In name:   
  - Chicken Wings Boneless Plain @ *Carson's 1849:  Available Between 11am-2pm*  
  - Plant-Based Chicken Nuggets (6) @ *Carson's 1849:  Available Between 11am-2pm*  
- - Blackened Chicken @ *Great Greens:  Available Between 11am-4pm*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens:  Available Between 11am-4pm*  
   
 In description:   
