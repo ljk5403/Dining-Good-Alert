@@ -1,6 +1,6 @@
 # 2025-11-11 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-11 16:18:02  
+Updated at: 2025-11-11 17:17:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-11)  
 **Samosas**  
 In name:   
@@ -123,6 +123,9 @@ In name:
  - Pizza Slice Deluxe (Pork) @ *Gordon Capital City Pizza*  
  - Pork Bratwurst Sandwich @ *Gordon Fired Up*  
   
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
+  
 **chicken**  
 In name:   
  - Chicken Breast w/Red Pepper Cream @ *1849*  
@@ -130,10 +133,10 @@ In name:
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Plant Based Protein Chicken Taco Filling @ *Gordon Que Rico*  
- - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Gordon Capital City Pizza*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-11-11)  
 **watermelon**  

@@ -1,6 +1,6 @@
 # 2025-11-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-11 17:17:11  
+Updated at: 2025-11-11 19:26:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-11)  
 **Samosas**  
 In name:   
@@ -24,13 +24,13 @@ In description:
   
 **curry**  
 In name:   
+ - Thai Chick'n w/ Green Curry Sauce (CN) @ *Global Kitchen*  
  - Plant-Based Beef Curry Squash @ *Global Kitchen*  
   
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Beef Street Taco @ *Fired Up*  
- - Beef Vindaloo @ *Global Kitchen*  
  - Plant-Based Beef Curry Squash @ *Global Kitchen*  
  - Mediterranean Beef @ *Que Rico*  
   
