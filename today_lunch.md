@@ -1,6 +1,6 @@
 # 2025-11-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-12 12:27:10  
+Updated at: 2025-11-12 14:21:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-12)  
 **beef**  
 In name:   
@@ -84,6 +84,7 @@ In name:
  - Broasted Chicken 2 pc @ *1849*  
  - Chicken Gravy @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Breaded Chicken Tenders @ *Gordon Fired Up*  
  - Orange Sweet & Spicy Chicken @ *Gordon Global Kitchen*  
  - Plant Based Sweet & Sour Chicken @ *Gordon Global Kitchen*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
@@ -127,6 +128,10 @@ In description:
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-11-12)  
+**BBQ Pork Sandwich**  
+In name:   
+ - BBQ Pork Sandwich @ *Fired Up:  Available Between 11am-2pm*  
+  
 **beef**  
 In name:   
  - BBQ Beef Brisket Sandwich @ *Fired Up:  Available Between 11am-2pm*  
@@ -138,11 +143,14 @@ In description:
 **pork**  
 In name:   
  - Ancho Braised Pork @ *Carson's 1849:  Available Between 11am-2pm*  
+ - Jerk Pork Chop @ *Carson's 1849:  Available Between 11am-2pm*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza:  Available Between 11am-4pm*  
+ - BBQ Pork Sandwich @ *Fired Up:  Available Between 11am-2pm*  
   
 **chicken**  
 In name:   
- - Plant-Based Chicken & Gravy (VN) @ *Global Kitchen:  Available Between 11am-2pm*  
+ - Sesame Chicken @ *Global Kitchen:  Available Between 11am-2pm*  
+ - Plant Based Sesame Chicken (AYCTE) (VN) @ *Global Kitchen:  Available Between 11am-2pm*  
  - Soup Lemony Chicken with Rice @ *Great Greens:  Available Between 11am-4pm*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera:  Available Between 11am-2pm*  
   
