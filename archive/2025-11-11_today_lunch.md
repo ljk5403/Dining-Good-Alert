@@ -1,6 +1,6 @@
 # 2025-11-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-12 09:21:23  
+Updated at: 2025-11-12 10:25:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-12)  
 **beef**  
 In name:   
@@ -97,10 +97,6 @@ In name:
 In name:   
  - Ham Steak @ *1849*  
   
-**Tuna**  
-In name:   
- - Tuna Salad @ *Delicious*  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Global Kitchen*  
@@ -125,6 +121,7 @@ In name:
  - Chicken Wings Boneless Plain @ *Que Rico*  
  - Plant-Based Chicken Nuggets (6) @ *Que Rico*  
  - Protein - Chicken Thinly Sliced @ *Create-A-Bowl*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
@@ -132,7 +129,6 @@ In description:
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-11-12)  
 **beef**  
 In name:   
- - Beef & Bean Chili @ *Great Greens:  Available Between 11am-4pm*  
  - BBQ Beef Brisket Sandwich @ *Fired Up:  Available Between 11am-2pm*  
   
 In description:   
@@ -147,6 +143,7 @@ In name:
 **chicken**  
 In name:   
  - Plant-Based Chicken & Gravy (VN) @ *Global Kitchen:  Available Between 11am-2pm*  
+ - Soup Lemony Chicken with Rice @ *Great Greens:  Available Between 11am-4pm*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera:  Available Between 11am-2pm*  
   
 In description:   
