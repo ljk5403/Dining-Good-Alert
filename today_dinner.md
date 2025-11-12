@@ -1,6 +1,6 @@
 # 2025-11-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-12 09:21:25  
+Updated at: 2025-11-12 10:26:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-12)  
 **drumstick**  
 In name:   
@@ -106,10 +106,6 @@ In description:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**Tuna**  
-In name:   
- - Tuna Salad @ *Delicious*  
-  
 **curry**  
 In name:   
  - Thai Veggie Meatballs w/ Green Curry @ *1849*  
@@ -140,6 +136,7 @@ In name:
  - Chicken Wings Boneless Plain @ *Que Rico*  
  - Plant-Based Chicken Nuggets (6) @ *Que Rico*  
  - Protein - Chicken Thinly Sliced @ *Create-A-Bowl*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
