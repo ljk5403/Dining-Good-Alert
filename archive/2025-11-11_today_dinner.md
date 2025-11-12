@@ -1,6 +1,6 @@
 # 2025-11-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-12 15:17:53  
+Updated at: 2025-11-12 16:18:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-12)  
 **drumstick**  
 In name:   
@@ -119,7 +119,6 @@ In name:
   
 In description:   
  - Grilled Blended Burger w/ Cheese @ *Fired Up*  
- - Vegan Sloppy Joe @ *Fired Up*  
  - Italian Meat Sauce @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
@@ -187,5 +186,6 @@ In name:
 **chicken**  
 In name:   
  - Baked Chicken Fillet @ *Lowell Market*  
+ - Chicken Piccata @ *Lowell Market*  
   
   
