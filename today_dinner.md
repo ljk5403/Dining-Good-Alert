@@ -1,6 +1,6 @@
 # 2025-11-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-13 16:18:39  
+Updated at: 2025-11-13 17:18:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-13)  
 **drumstick**  
 In name:   
@@ -200,6 +200,14 @@ In description:
 **haddock**  
 In name:   
  - Garlic Baked Haddock @ *Lowell Market*  
+  
+**curry**  
+In name:   
+ - Beef Curry Stew @ *Lowell Market*  
+  
+**beef**  
+In name:   
+ - Beef Curry Stew @ *Lowell Market*  
   
 **pork**  
 In name:   
