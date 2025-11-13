@@ -1,6 +1,6 @@
 # 2025-11-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-12 17:18:06  
+Updated at: 2025-11-12 19:27:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-12)  
 **drumstick**  
 In name:   
@@ -14,7 +14,6 @@ In name:
   
 **beef**  
 In name:   
- - Traditional Shepard's Pie w/Beef @ *1849*  
  - Beef & Bean Chili @ *Great Greens*  
   
 In description:   
@@ -29,6 +28,8 @@ In name:
 **chicken**  
 In name:   
  - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
+ - Chicken Spaghetti @ *1849*  
+ - Crispy Chicken Sandwich @ *Fired Up*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-11-12)  
