@@ -1,6 +1,6 @@
 # 2025-11-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-13 09:21:28  
+Updated at: 2025-11-13 10:23:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-13)  
 **Tuna**  
 In name:   
@@ -209,6 +209,7 @@ In name:
 **beef**  
 In name:   
  - Beef Curry Stew @ *Lowell Market*  
+ - Beef Taco Meat @ *Lowell Market*  
   
 **pork**  
 In name:   
@@ -218,5 +219,6 @@ In name:
 In name:   
  - Chicken Noodle Soup @ *Great Greens*  
  - Chicken Tinga @ *Lowell Market*  
+ - Chicken Nyama Choma @ *Lowell Market*  
   
   
