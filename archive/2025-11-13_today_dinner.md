@@ -1,6 +1,6 @@
 # 2025-11-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-14 15:17:33  
+Updated at: 2025-11-14 16:17:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-14)  
 **Shrimp**  
 In name:   
@@ -89,7 +89,6 @@ In name:
 In name:   
   
 In description:   
- - Clam Chowder (Pork) @ *Great Greens*  
  - Petite Fish Sandwich @ *Fired Up*  
   
 **Tilapia**  
@@ -120,7 +119,6 @@ In description:
 **pork**  
 In name:   
  - Tavern Style Sausage Pizza (Pork) @ *Gordon Capital City Pizza*  
- - Clam Chowder (Pork) @ *Great Greens*  
   
 In description:   
  - Kielbasa with Pierogis @ *Gordon Eggcetera*  
@@ -183,6 +181,7 @@ In description:
 **beef**  
 In name:   
  - Beef Fajita Meat @ *Global Kitchen*  
+ - Beef Sirloin Tips @ *1849*  
  - Bulgogi Beef @ *Create-A-Bowl*  
   
 In description:   
@@ -224,6 +223,7 @@ In name:
  - Clam Chowder (Pork) @ *Great Greens*  
  - Carolina BBQ Pork Sandwich @ *Lowell Market*  
  - Tavern Style Sausage Pizza (Pork) @ *Lowell Market*  
+ - Pork Belly Char Sui @ *Lowell Market*  
   
 **chicken**  
 In name:   
