@@ -1,6 +1,6 @@
 # 2025-11-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-14 09:17:27  
+Updated at: 2025-11-14 10:24:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-14)  
 **Salmon**  
 In name:   
@@ -118,6 +118,7 @@ In description:
   
 **beef**  
 In name:   
+ - Barbacoa Beef w/Mango Habanero Sandwich @ *1849*  
  - Beef Fajita Meat @ *Global Kitchen*  
  - Bulgogi Beef @ *Create-A-Bowl*  
   
