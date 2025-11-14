@@ -1,10 +1,10 @@
 # 2025-11-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-14 12:27:38  
+Updated at: 2025-11-14 14:21:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-14)  
 **Salmon**  
 In name:   
- - Blackened Salmon @ *1849*  
+ - Oven Roasted Salmon @ *1849*  
   
 **Cod**  
 In name:   
@@ -16,11 +16,10 @@ In description:
 In name:   
   
 In description:   
- - Blackened Salmon @ *1849*  
+ - Oven Roasted Salmon @ *1849*  
   
 **beef**  
 In name:   
- - Beef Taco Meat @ *Que Rico*  
   
 In description:   
  - Pork Bratwurst Sandwich @ *Fired Up*  
@@ -30,6 +29,7 @@ In name:
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
  - Pork Bratwurst Sandwich @ *Fired Up*  
  - Pork Miso w/Yakisoba Noodles @ *Global Kitchen*  
+ - Pork Carnita @ *Que Rico*  
  - Clam Chowder (Pork) @ *Great Greens*  
   
 **chicken**  
@@ -122,6 +122,7 @@ In name:
  - Bulgogi Beef @ *Create-A-Bowl*  
   
 In description:   
+ - Pepperoni Pizza Slice @ *Que Rico*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
@@ -136,10 +137,10 @@ In description:
 In name:   
  - Chicken Breast w/Red Pepper Cream @ *1849*  
  - Chicken Quesadilla @ *Fired Up*  
- - Pizza Slice BBQ Chicken & Bacon @ *Que Rico*  
  - Bulgogi Chicken @ *Create-A-Bowl*  
   
 In description:   
+ - Pepperoni Pizza Slice @ *Que Rico*  
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-11-14)  

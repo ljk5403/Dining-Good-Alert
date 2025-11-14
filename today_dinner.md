@@ -1,6 +1,6 @@
 # 2025-11-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-14 14:21:21  
+Updated at: 2025-11-14 15:17:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-14)  
 **Shrimp**  
 In name:   
@@ -81,10 +81,6 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**corn bake**  
-In name:   
- - Sweet Corn Bake (Veg) @ *1849*  
-  
 **Shrimp**  
 In name:   
  - Sauteed Shrimp @ *Gordon Buona Cucina*  
@@ -107,10 +103,10 @@ In name:
   
 **curry**  
 In name:   
- - Curry Mango - Tofu @ *Gordon Global Kitchen*  
   
 In description:   
  - Tikka Masala Chicken @ *Gordon Global Kitchen*  
+ - Tofu & Vegetable Tikka Masala @ *Gordon Global Kitchen*  
   
 **beef**  
 In name:   
@@ -204,6 +200,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Plant-Based Chicken Tenders @ *Fired Up*  
  - Bulgogi Chicken @ *Create-A-Bowl*  
   
 In description:   
