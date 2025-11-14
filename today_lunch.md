@@ -1,6 +1,6 @@
 # 2025-11-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-13 17:18:07  
+Updated at: 2025-11-13 19:27:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-13)  
 **Tuna**  
 In name:   
@@ -135,6 +135,7 @@ In name:
 In name:   
  - Beef Masaman Thai Curry @ *1849*  
  - Beef Taco Meat @ *Que Rico*  
+ - Beef & Bean Chili @ *Great Greens*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
@@ -151,7 +152,6 @@ In description:
 In name:   
  - Plant-Based Chicken Tenders @ *Fired Up*  
  - Chicken Tinga @ *Que Rico*  
- - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
  - Station Recipe - Great Greens - FLM @ *Great Greens*  

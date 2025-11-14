@@ -1,10 +1,12 @@
 # 2025-11-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-13 17:18:09  
+Updated at: 2025-11-13 19:27:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-13)  
 **drumstick**  
 In name:   
- - Chicken Drumstick Szechuan Glazed @ *1849*  
+  
+In description:   
+ - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
   
 **fish**  
 In name:   
@@ -28,7 +30,7 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken Drumstick Szechuan Glazed @ *1849*  
+ - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Mediterranean Chicken @ *Que Rico*  
@@ -61,6 +63,12 @@ In name:
 In name:   
  - Grilled Tandoori Chicken Sandwich @ *Fired Up*  
   
+**squid**  
+In name:   
+  
+In description:   
+ - Fried Calamari @ *1849*  
+  
 **Shrimp**  
 In name:   
   
@@ -88,7 +96,6 @@ In description:
   
 **pork**  
 In name:   
- - Herb Crusted Pork Loin @ *1849*  
   
 In description:   
  - Pizza Breakfast Meat w/Bacon @ *Gordon Capital City Pizza*  
@@ -169,6 +176,10 @@ In name:
 **Tilapia**  
 In name:   
  - Blackened Tilapia Po-Boy Sandwich @ *Fired Up*  
+  
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
   
 **beef**  
 In name:   
