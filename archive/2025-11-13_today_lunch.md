@@ -1,6 +1,6 @@
 # 2025-11-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-14 00:29:08  
+Updated at: 2025-11-14 08:18:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-14)  
 **Salmon**  
 In name:   
@@ -76,54 +76,6 @@ In name:
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-11-14)  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
-**Tandoori Chicken**  
-In name:   
- - Tandoori Chicken @ *Gordon Global Kitchen*  
-  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp @ *Gordon Buona Cucina*  
-  
-**Cod**  
-In name:   
- - Battered Cod @ *1849*  
- - Vegan Cod Battered (2 pc) @ *1849*  
-  
-In description:   
- - Clam Chowder (Pork) @ *Great Greens*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Vegan Cod Battered (2 pc) @ *1849*  
-  
-**curry**  
-In name:   
- - Black Eyed Pea Curry w/ Rice @ *Gordon Global Kitchen*  
-  
-**beef**  
-In name:   
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Barbacoa @ *Gordon Que Rico*  
- - Beef Taco Meat @ *Gordon Que Rico*  
-  
-**pork**  
-In name:   
- - Tavern Style Sausage Pizza (Pork) @ *Gordon Capital City Pizza*  
- - Clam Chowder (Pork) @ *Great Greens*  
-  
-**chicken**  
-In name:   
- - Chicken Piece Seasoned Baked @ *1849*  
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Crispy Chicken Sandwich @ *Gordon Fired Up*  
- - Tandoori Chicken @ *Gordon Global Kitchen*  
-  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-11-14)  
 **Bulgogi**  
 In name:   
@@ -174,7 +126,6 @@ In description:
   
 **pork**  
 In name:   
- - Hot Turkey & BLT (Pork) Croissant @ *1849*  
  - Clam Chowder (Pork) @ *Great Greens*  
   
 In description:   
@@ -182,6 +133,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Breast w/Red Pepper Cream @ *1849*  
  - Chicken Quesadilla @ *Fired Up*  
  - Pizza Slice BBQ Chicken & Bacon @ *Que Rico*  
  - Bulgogi Chicken @ *Create-A-Bowl*  
