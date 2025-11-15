@@ -1,6 +1,6 @@
 # 2025-11-15 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-15 10:20:27  
+Updated at: 2025-11-15 11:13:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-15)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-11-15)  
 **watermelon**  
@@ -92,6 +92,7 @@ In name:
 In description:   
  - Grilled Blended Burger w/ Cheese @ *Fired Up*  
  - Italian Meat Sauce @ *Global Kitchen*  
+ - Vegan Taco Filling @ *Que Rico*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
