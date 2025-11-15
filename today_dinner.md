@@ -1,6 +1,6 @@
 # 2025-11-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-14 17:17:09  
+Updated at: 2025-11-14 19:24:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-14)  
 **Shrimp**  
 In name:   
@@ -81,9 +81,9 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**Shrimp**  
+**catfish**  
 In name:   
- - Sauteed Shrimp @ *Gordon Buona Cucina*  
+ - Blackened Catfish @ *1849*  
   
 **Cod**  
 In name:   
@@ -91,12 +91,9 @@ In name:
 In description:   
  - Petite Fish Sandwich @ *Fired Up*  
   
-**Tilapia**  
-In name:   
- - Baked Tilapia w/ Tomato Tapenade @ *1849*  
-  
 **fish**  
 In name:   
+ - Blackened Catfish @ *1849*  
  - Petite Fish Sandwich @ *Fired Up*  
  - Vegan Fish Sandwich @ *Fired Up*  
   
@@ -118,6 +115,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Italian Sausage @ *Gordon Buona Cucina*  
  - Tavern Style Sausage Pizza (Pork) @ *Gordon Capital City Pizza*  
   
 In description:   
@@ -147,7 +145,7 @@ In name:
   
 **Shrimp**  
 In name:   
- - Blackened Shrimp @ *1849*  
+ - Redhook Ale Breaded Shrimp @ *1849*  
   
 In description:   
  - BYO Bar - Four Lakes Bulgogi @ *Create-A-Bowl*  
@@ -180,8 +178,6 @@ In description:
   
 **beef**  
 In name:   
- - Beef Fajita Meat @ *Global Kitchen*  
- - Beef Sirloin Tips @ *1849*  
  - Bulgogi Beef @ *Create-A-Bowl*  
   
 In description:   
@@ -200,6 +196,7 @@ In description:
 **chicken**  
 In name:   
  - Plant-Based Chicken Tenders @ *Fired Up*  
+ - Italian Chicken @ *Global Kitchen*  
  - Bulgogi Chicken @ *Create-A-Bowl*  
   
 In description:   
