@@ -1,6 +1,6 @@
 # 2025-11-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-15 12:24:24  
+Updated at: 2025-11-15 14:18:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-15)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-11-15)  
 **watermelon**  
@@ -101,7 +101,7 @@ In description:
 In name:   
  - Chicken Tenders Breaded @ *Fired Up*  
  - Plant-Based Chicken Nuggets (6) @ *Fired Up*  
- - Giardiniera Chicken @ *Global Kitchen*  
+ - Chicken Creole @ *Global Kitchen*  
  - General Tso's Chicken @ *1849*  
  - Taco Chicken @ *Que Rico*  
   
