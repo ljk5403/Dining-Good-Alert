@@ -1,6 +1,6 @@
 # 2025-11-15 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-15 09:16:48  
+Updated at: 2025-11-15 10:20:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-15)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-11-15)  
 **watermelon**  
@@ -26,17 +26,22 @@ In description:
 In name:   
  - Coconut Shrimp @ *1849*  
   
+**fish**  
+In name:   
+  
+In description:   
+ - Red Curry Chicken @ *1849*  
+  
 **lamb**  
 In name:   
  - Lamb & Beef Gyro Sandwich @ *Gordon Fired Up*  
   
 **curry**  
 In name:   
- - Beef Curry Stew @ *1849*  
+ - Red Curry Chicken @ *1849*  
   
 **beef**  
 In name:   
- - Beef Curry Stew @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Lamb & Beef Gyro Sandwich @ *Gordon Fired Up*  
  - Beef Taco Meat @ *Gordon Que Rico*  
@@ -56,6 +61,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Red Curry Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Chicken Tinga @ *Gordon Que Rico*  
@@ -85,6 +91,7 @@ In name:
   
 In description:   
  - Grilled Blended Burger w/ Cheese @ *Fired Up*  
+ - Italian Meat Sauce @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
