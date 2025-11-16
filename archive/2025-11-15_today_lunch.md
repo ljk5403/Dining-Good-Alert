@@ -1,6 +1,6 @@
 # 2025-11-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-16 10:20:55  
+Updated at: 2025-11-16 11:14:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-16)  
 **Tuna**  
 In name:   
@@ -8,18 +8,22 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Fajita Meat @ *Que Rico*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Pastrami & Swiss Sandwich @ *Fired Up*  
+ - Vegan Taco Filling @ *Que Rico*  
   
 **pork**  
 In name:   
  - Baked Rigatoni w/ Pork Italian Sausage @ *1849*  
+ - Pork Carnita @ *Que Rico*  
  - Pork Sausage Patty @ *Buona Cucina*  
   
 **chicken**  
 In name:   
+ - Diced Chicken @ *Que Rico*  
  - Chicken Tortilla Soup @ *Great Greens*  
   
 In description:   
@@ -40,7 +44,7 @@ In description:
  - Grilled Flank Steak @ *1849*  
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
- - Blackened Blended Hamburger @ *Gordon Fired Up*  
+ - Grilled Blended Burger w/ Cheese @ *Gordon Fired Up*  
  - Vegan Taco Filling @ *Gordon Que Rico*  
   
 **pork**  
@@ -66,13 +70,16 @@ In description:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**Shrimp**  
+In name:   
+ - Sauteed Shrimp @ *Global Kitchen*  
+  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -91,8 +98,7 @@ In description:
 In name:   
  - Sausage Links Chicken (halal) (AYCTE) @ *1849*  
  - Grilled Chicken Sandwich @ *Fired Up*  
- - Plant Based Chicken Strips @ *Global Kitchen*  
- - Beef & Chicken Meatballs @ *Global Kitchen*  
+ - Plant-Based Chicken Tenders @ *Global Kitchen*  
  - Chicken Tortilla Soup @ *Great Greens*  
   
 In description:   
