@@ -1,6 +1,6 @@
 # 2025-11-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-16 16:16:59  
+Updated at: 2025-11-16 17:16:52  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-16)  
 **Cod**  
 In name:   
@@ -18,6 +18,7 @@ In name:
 **beef**  
 In name:   
  - Ground Beef Curry @ *Global Kitchen*  
+ - Beef Fajita @ *Que Rico*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
@@ -25,11 +26,14 @@ In description:
 **pork**  
 In name:   
  - Italian Pork Sausage @ *Buona Cucina*  
+ - Pork Carnita @ *Que Rico*  
   
 **chicken**  
 In name:   
  - Chicken & Vegetables w/Dijon Vinaigrette @ *1849*  
  - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
+ - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
+ - Fajita Chicken @ *Que Rico*  
  - Chicken Tortilla Soup @ *Great Greens*  
   
 In description:   
