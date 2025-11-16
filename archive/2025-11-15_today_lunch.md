@@ -1,6 +1,6 @@
 # 2025-11-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-16 12:25:05  
+Updated at: 2025-11-16 14:19:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-16)  
 **Tuna**  
 In name:   
@@ -85,6 +85,7 @@ In description:
 **pork**  
 In name:   
  - Pork Sausage Links @ *1849*  
+ - Pork Bratwurst Sandwich @ *Fired Up*  
  - Pork Carnita @ *Que Rico*  
  - Pork Sausage Patty @ *Create-A-Bowl*  
   
@@ -94,7 +95,6 @@ In description:
 **chicken**  
 In name:   
  - Sausage Links Chicken (halal) (AYCTE) @ *1849*  
- - Grilled Chicken Sandwich @ *Fired Up*  
  - Plant-Based Chicken Tenders @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Chicken Tortilla Soup @ *Great Greens*  
