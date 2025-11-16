@@ -1,6 +1,6 @@
 # 2025-11-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-16 11:14:54  
+Updated at: 2025-11-16 12:25:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-16)  
 **Tuna**  
 In name:   
@@ -70,16 +70,13 @@ In description:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**Shrimp**  
-In name:   
- - Sauteed Shrimp @ *Global Kitchen*  
-  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
   
 **beef**  
 In name:   
+ - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -99,6 +96,7 @@ In name:
  - Sausage Links Chicken (halal) (AYCTE) @ *1849*  
  - Grilled Chicken Sandwich @ *Fired Up*  
  - Plant-Based Chicken Tenders @ *Global Kitchen*  
+ - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Chicken Tortilla Soup @ *Great Greens*  
   
 In description:   

@@ -1,6 +1,6 @@
 # 2025-11-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-16 12:25:08  
+Updated at: 2025-11-16 14:19:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-17)  
 **Tuna**  
 In name:   
@@ -160,6 +160,12 @@ In description:
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-11-17)  
+**steak**  
+In name:   
+  
+In description:   
+ - Pizza Slice Italian Beef @ *Capital City Pizza:  Available Between 11am-4pm*  
+  
 **BBQ Pork Sandwich**  
 In name:   
  - BBQ Pork Sandwich @ *Fired Up:  Available Between 11am-2pm*  
@@ -170,19 +176,18 @@ In name:
   
 **beef**  
 In name:   
+ - Pizza Slice Italian Beef @ *Capital City Pizza:  Available Between 11am-4pm*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza:  Available Between 11am-4pm*  
   
 **pork**  
 In name:   
- - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza:  Available Between 11am-4pm*  
  - BBQ Pork Sandwich @ *Fired Up:  Available Between 11am-2pm*  
   
 **chicken**  
 In name:   
  - Chicken Quesadilla @ *Carson's 1849:  Available Between 11am-2pm*  
- - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza:  Available Between 11am-4pm*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens:  Available Between 11am-4pm*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera:  Available Between 11am-2pm*  
   
