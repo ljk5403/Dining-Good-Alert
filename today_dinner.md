@@ -1,6 +1,6 @@
 # 2025-11-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-17 12:27:54  
+Updated at: 2025-11-17 14:22:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-17)  
 **Shrimp**  
 In name:   
@@ -65,10 +65,15 @@ In name:
   
 **steak**  
 In name:   
+ - Island Spiced Beef Steak @ *1849*  
  - Pizza Slice Philly Cheesesteak @ *Gordon Capital City Pizza*  
- - Smothered Steak Burrito @ *Gordon Que Rico*  
  - Philly Cheesesteak Sandwich @ *Fired Up*  
  - Tempeh Philly Cheesesteak Sandwich @ *Fired Up*  
+  
+**Cod**  
+In name:   
+ - Battered Cod @ *Gordon Eggcetera*  
+ - Vegan Cod Battered (2 pc) @ *Gordon Eggcetera*  
   
 **Tuna**  
 In name:   
@@ -78,23 +83,20 @@ In name:
 In name:   
   
 In description:   
- - Poulet Braise @ *Gordon Eggcetera*  
+ - Vegan Cod Battered (2 pc) @ *Gordon Eggcetera*  
   
 **curry**  
 In name:   
-  
-In description:   
- - Jollof Rice - 25 @ *Gordon Eggcetera*  
+ - Thai Veggie Meatballs w/ Green Curry @ *1849*  
   
 **beef**  
 In name:   
- - Beef Goulash w/Egg Noodles @ *1849*  
+ - Island Spiced Beef Steak @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
   
 In description:   
  - Pizza Slice Philly Cheesesteak @ *Gordon Capital City Pizza*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
- - Smothered Steak Burrito @ *Gordon Que Rico*  
  - Philly Cheesesteak Sandwich @ *Fired Up*  
   
 **pork**  
@@ -106,11 +108,11 @@ In name:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Chicken Empanada with Green Chili @ *Gordon Que Rico*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 In description:   
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
- - Poulet Braise @ *Gordon Eggcetera*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-11-17)  
 **watermelon**  

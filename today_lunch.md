@@ -1,6 +1,6 @@
 # 2025-11-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-17 12:27:53  
+Updated at: 2025-11-17 14:22:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-17)  
 **Tuna**  
 In name:   
@@ -16,7 +16,8 @@ In description:
 **pork**  
 In name:   
  - Pizza Slice BBQ Pulled Pork @ *Capital City Pizza*  
- - Breaded Pork Cutlet Sandwich @ *Fired Up*  
+ - Pork Belly Char Sui @ *Global Kitchen*  
+ - Pork Carnita @ *Que Rico*  
  - Italian Pork Sausage @ *Buona Cucina*  
   
 In description:   
@@ -25,8 +26,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Teriyaki Stir Fry @ *Global Kitchen*  
- - Chicken Tinga @ *Que Rico*  
+ - Crispy Chicken Sandwich @ *Fired Up*  
  - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
@@ -85,7 +85,7 @@ In description:
   
 **beef**  
 In name:   
- - Beef Sirloin Tips @ *1849*  
+ - Beef Tri Tip Carved w/ Chimichurri @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
@@ -187,8 +187,7 @@ In name:
 **chicken**  
 In name:   
  - Chicken Quesadilla @ *Carson's 1849:  Available Between 11am-2pm*  
- - Cream of Chicken & Wild Rice Soup @ *Great Greens:  Available Between 11am-4pm*  
- - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera:  Available Between 11am-2pm*  
+ - Chicken Noodle Soup @ *Great Greens:  Available Between 11am-4pm*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza:  Available Between 11am-4pm*  
