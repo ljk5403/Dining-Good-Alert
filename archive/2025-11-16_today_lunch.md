@@ -1,6 +1,6 @@
 # 2025-11-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-17 00:30:18  
+Updated at: 2025-11-17 08:19:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-17)  
 **Tuna**  
 In name:   
@@ -65,10 +65,6 @@ In description:
  - Baked Corn Dog (Pork) @ *1849*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-11-17)  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
 **steak**  
 In name:   
  - Pizza Slice Philly Cheesesteak @ *Gordon Capital City Pizza*  
