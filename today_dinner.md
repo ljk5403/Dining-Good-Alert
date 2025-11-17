@@ -1,6 +1,6 @@
 # 2025-11-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-16 17:16:52  
+Updated at: 2025-11-16 19:27:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-16)  
 **Cod**  
 In name:   
@@ -41,6 +41,10 @@ In description:
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-11-16)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-11-16)  
+**Shrimp**  
+In name:   
+ - Coconut Shrimp @ *1849*  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
@@ -100,12 +104,14 @@ In name:
   
 In description:   
  - Polish Combo Blended Cheeseburger (Pork) @ *Fired Up*  
+ - Pork Bratwurst Sandwich @ *Fired Up*  
  - Brazilian Flank Steak @ *1849*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
 In name:   
  - Polish Combo Blended Cheeseburger (Pork) @ *Fired Up*  
+ - Pork Bratwurst Sandwich @ *Fired Up*  
  - Pork Carnita @ *Que Rico*  
   
 In description:   
@@ -137,7 +143,6 @@ In description:
   
 **beef**  
 In name:   
- - Homemade Beef Lasagna @ *Global*  
   
 In description:   
  - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza*  
@@ -151,6 +156,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Baked  (1 piece) @ *Global*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Chicken Drummies @ *Eggcetera*  
   
