@@ -1,6 +1,6 @@
 # 2025-11-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-17 10:26:37  
+Updated at: 2025-11-17 11:18:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-17)  
 **Shrimp**  
 In name:   
@@ -131,6 +131,10 @@ In name:
 In name:   
  - Smoked Salmon @ *1849*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **fish**  
 In name:   
   
@@ -164,7 +168,6 @@ In name:
  - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
  - Chicken Curry @ *Que Rico*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
  - Station Recipe - Great Greens - FLM @ *Great Greens*  

@@ -1,6 +1,6 @@
 # 2025-11-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-17 10:26:35  
+Updated at: 2025-11-17 11:18:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-17)  
 **Tuna**  
 In name:   
@@ -118,6 +118,10 @@ In name:
 In name:   
  - Appetizer -  Pakoras Vegetable (Veg) @ *Que Rico*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **fish**  
 In name:   
   
@@ -150,7 +154,6 @@ In name:
  - Orange Sweet & Spicy Chicken @ *1849*  
  - Butter Chicken @ *Que Rico*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
