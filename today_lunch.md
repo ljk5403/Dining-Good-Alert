@@ -1,6 +1,6 @@
 # 2025-11-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-18 12:28:58  
+Updated at: 2025-11-18 14:22:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-18)  
 **curry**  
 In name:   
@@ -98,11 +98,6 @@ In name:
 In description:   
  - Grilled Flank Steak @ *1849*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
- - Baked Corn Dog (Pork) @ *Gordon Fired Up*  
-  
-**pork**  
-In name:   
- - Baked Corn Dog (Pork) @ *Gordon Fired Up*  
   
 **chicken**  
 In name:   
@@ -110,13 +105,13 @@ In name:
  - Giardiniera Chicken @ *Gordon Buona Cucina*  
  - Pizza Slice Chicken Sriracha @ *Gordon Capital City Pizza*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
+ - Crispy Chicken Sandwich @ *Gordon Fired Up*  
  - Jamaican Jerk Chicken @ *Gordon Global Kitchen*  
  - Plant Based Protein Chicken Taco Filling @ *Gordon Que Rico*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
- - Baked Corn Dog (Pork) @ *Gordon Fired Up*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-11-18)  
 **watermelon**  
