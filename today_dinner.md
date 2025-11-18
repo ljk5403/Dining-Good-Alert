@@ -1,6 +1,6 @@
 # 2025-11-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-17 17:17:24  
+Updated at: 2025-11-17 19:26:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-17)  
 **Shrimp**  
 In name:   
@@ -70,20 +70,15 @@ In name:
  - Philly Cheesesteak Sandwich @ *Fired Up*  
  - Tempeh Philly Cheesesteak Sandwich @ *Fired Up*  
   
-**Cod**  
+**squid**  
 In name:   
- - Battered Cod @ *Gordon Eggcetera*  
- - Vegan Cod Battered (2 pc) @ *Gordon Eggcetera*  
+  
+In description:   
+ - Fried Calamari @ *Gordon Eggcetera*  
   
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Vegan Cod Battered (2 pc) @ *Gordon Eggcetera*  
   
 **curry**  
 In name:   
@@ -104,6 +99,7 @@ In name:
  - Pork Loin Spicy Greenbush @ *1849*  
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Loaded Potato Bacon (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
+ - Filipino Pork Sausage @ *Gordon Eggcetera*  
   
 **chicken**  
 In name:   
@@ -147,7 +143,6 @@ In description:
   
 **curry**  
 In name:   
- - Seitan & Coconut Thai Curry @ *1849*  
  - Chicken Curry @ *Que Rico*  
  - Curry Potatoes @ *Que Rico*  
   
