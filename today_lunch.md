@@ -1,6 +1,6 @@
 # 2025-11-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-18 09:21:36  
+Updated at: 2025-11-18 10:26:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-18)  
 **curry**  
 In name:   
@@ -107,7 +107,7 @@ In name:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
+ - Giardiniera Chicken @ *Gordon Buona Cucina*  
  - Pizza Slice Chicken Sriracha @ *Gordon Capital City Pizza*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Jamaican Jerk Chicken @ *Gordon Global Kitchen*  
