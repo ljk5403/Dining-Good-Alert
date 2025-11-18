@@ -1,6 +1,6 @@
 # 2025-11-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-18 14:22:32  
+Updated at: 2025-11-18 16:18:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-18)  
 **curry**  
 In name:   
@@ -17,14 +17,10 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
- - Cocktail Wieners & BBQ Sauce @ *Fired Up*  
   
 **pork**  
 In name:   
  - Southern Style Pork Spare Ribs @ *1849*  
-  
-In description:   
- - Cocktail Wieners & BBQ Sauce @ *Fired Up*  
   
 **chicken**  
 In name:   
@@ -37,7 +33,6 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
- - Cocktail Wieners & BBQ Sauce @ *Fired Up*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-11-18)  
 **watermelon**  
@@ -192,6 +187,20 @@ In description:
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-11-18)  
+**Salmon**  
+In name:   
+ - Grilled Salmon @ *Lowell Market*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Grilled Salmon @ *Lowell Market*  
+  
+**curry**  
+In name:   
+ - Seitan & Coconut Thai Curry @ *Lowell Market*  
+  
 **beef**  
 In name:   
  - Texas BBQ Sliced Beef Brisket @ *Lowell Market*  
