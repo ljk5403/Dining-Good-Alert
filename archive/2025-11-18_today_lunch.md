@@ -1,13 +1,18 @@
 # 2025-11-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-19 00:29:13  
+Updated at: 2025-11-19 08:19:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-19)  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
   
+**lamb**  
+In name:   
+ - Lamb & Beef Gyro Sandwich @ *Fired Up*  
+  
 **beef**  
 In name:   
+ - Lamb & Beef Gyro Sandwich @ *Fired Up*  
  - Beef Broccoli Stir Fry w/Teriyaki Sauce @ *Global Kitchen*  
  - Plant-Based Beef & Broccoli Stir Fry @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
@@ -20,7 +25,6 @@ In description:
 **pork**  
 In name:   
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
- - New Orleans Turkey Melt w/ Pork @ *Fired Up*  
  - Pork Carnita @ *Que Rico*  
  - Italian Pork Sausage @ *Buona Cucina*  
   

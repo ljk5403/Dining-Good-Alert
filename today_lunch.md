@@ -1,6 +1,6 @@
 # 2025-11-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-19 08:19:05  
+Updated at: 2025-11-19 09:20:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-19)  
 **Tuna**  
 In name:   
@@ -98,7 +98,6 @@ In description:
 In name:   
  - Island Spiced Pork w/ Pineapple Salsa @ *1849*  
  - Gnocchi w/ Pork Chorizo Sauce @ *Gordon Buona Cucina*  
- - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Gluten Free Pork Sausage Pizza Quarter @ *Gordon Capital City Pizza*  
  - Pork Carnita @ *Gordon Que Rico*  
   
@@ -107,6 +106,7 @@ In name:
  - Broasted Chicken 2 pc @ *1849*  
  - Chicken Gravy @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Pizza Slice BBQ Chicken & Bacon @ *Gordon Capital City Pizza*  
  - Sweet & Sour Chicken @ *Gordon Global Kitchen*  
  - Plant Based Sweet & Sour Chicken @ *Gordon Global Kitchen*  

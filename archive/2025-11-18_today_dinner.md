@@ -1,6 +1,6 @@
 # 2025-11-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-19 00:29:14  
+Updated at: 2025-11-19 08:19:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-19)  
 **steak**  
 In name:   
@@ -48,40 +48,9 @@ In description:
 In name:   
  - Melon Watermelon Whole Sliced @ *Great Greens*  
   
-**drumstick**  
-In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
-  
-**Tandoori Chicken**  
-In name:   
- - Tandoori Chicken @ *Global Kitchen*  
-  
-**Samosas**  
-In name:   
- - Samosas @ *Global Kitchen*  
-  
-**curry**  
-In name:   
- - Curry Potatoes @ *Global Kitchen*  
-  
 **beef**  
 In name:   
  - Beef & Bean Chili @ *Great Greens*  
-  
-In description:   
- - Kielbasa with Pierogis @ *1849*  
-  
-**pork**  
-In name:   
-  
-In description:   
- - Kielbasa with Pierogis @ *1849*  
-  
-**chicken**  
-In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
- - Plant-Based Chicken Tenders @ *1849*  
- - Tandoori Chicken @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-11-19)  
 **Shrimp**  
