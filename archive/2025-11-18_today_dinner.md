@@ -1,6 +1,6 @@
 # 2025-11-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-19 09:20:35  
+Updated at: 2025-11-19 10:25:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-19)  
 **steak**  
 In name:   
@@ -126,12 +126,10 @@ In description:
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Beef & Bean Chili @ *Great Greens*  
  - Protein - Beef Thinly Sliced @ *Create-A-Bowl*  
   
 In description:   
- - Bolognese Sauce @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
@@ -139,16 +137,13 @@ In name:
  - BBQ Pork Sandwich @ *Fired Up*  
   
 In description:   
- - Bolognese Sauce @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
 In name:   
- - Beef & Chicken Meatballs @ *Global Kitchen*  
- - Plant-Based Chicken Nuggets (6) @ *Que Rico*  
- - Popcorn Chicken @ *Global Kitchen*  
  - Chicken Drumstick Teriyaki Glazed @ *1849*  
  - Chicken Wings Boneless Plain @ *Que Rico*  
+ - Plant-Based Chicken Nuggets (6) @ *Que Rico*  
  - Protein - Chicken Thinly Sliced @ *Create-A-Bowl*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   

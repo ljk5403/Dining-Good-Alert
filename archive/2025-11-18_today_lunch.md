@@ -1,6 +1,6 @@
 # 2025-11-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-19 09:20:32  
+Updated at: 2025-11-19 10:25:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-19)  
 **Tuna**  
 In name:   
@@ -130,12 +130,10 @@ In name:
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Beef & Bean Chili @ *Great Greens*  
  - Protein - Beef Thinly Sliced @ *Create-A-Bowl*  
   
 In description:   
- - Bolognese Sauce @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
@@ -144,12 +142,10 @@ In name:
   
 In description:   
  - Grilled Ham & Swiss Sandwich @ *Fired Up*  
- - Bolognese Sauce @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
 In name:   
- - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Chicken Wings Boneless Plain @ *Que Rico*  
  - Plant-Based Chicken Nuggets (6) @ *Que Rico*  
  - Protein - Chicken Thinly Sliced @ *Create-A-Bowl*  
@@ -201,6 +197,6 @@ In name:
   
 **chicken**  
 In name:   
- - Mediterranean Chicken @ *Lowell Market*  
+ - Breaded Chicken Fillet @ *Lowell Market*  
   
   
