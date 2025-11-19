@@ -1,6 +1,6 @@
 # 2025-11-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-18 16:18:50  
+Updated at: 2025-11-18 17:17:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-18)  
 **curry**  
 In name:   
@@ -17,10 +17,14 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Cocktail Wieners & BBQ Sauce @ *Fired Up*  
   
 **pork**  
 In name:   
  - Southern Style Pork Spare Ribs @ *1849*  
+  
+In description:   
+ - Cocktail Wieners & BBQ Sauce @ *Fired Up*  
   
 **chicken**  
 In name:   
@@ -33,6 +37,7 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Cocktail Wieners & BBQ Sauce @ *Fired Up*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-11-18)  
 **watermelon**  

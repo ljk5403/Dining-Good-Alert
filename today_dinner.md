@@ -1,6 +1,6 @@
 # 2025-11-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-18 17:17:21  
+Updated at: 2025-11-18 19:26:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-18)  
 **curry**  
 In name:   
@@ -17,6 +17,7 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Fired Up Blended Burger @ *Fired Up*  
  - Cocktail Wieners & BBQ Sauce @ *Fired Up*  
   
 **pork**  
@@ -30,7 +31,6 @@ In description:
 In name:   
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
- - Crispy Chicken Sandwich @ *Fired Up*  
  - Chicken Korma @ *Global Kitchen*  
  - Mediterranean Chicken @ *Que Rico*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
@@ -106,10 +106,6 @@ In description:
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Lomo Saltado @ *Gordon Global Kitchen*  
  - Steak Street Taco @ *Gordon Que Rico*  
-  
-**pork**  
-In name:   
- - Green Beans w/ Pork Bacon @ *1849*  
   
 **chicken**  
 In name:   
