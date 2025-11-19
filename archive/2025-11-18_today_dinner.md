@@ -1,10 +1,9 @@
 # 2025-11-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-19 14:18:52  
+Updated at: 2025-11-19 15:14:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-19)  
 **steak**  
 In name:   
- - Philly Cheesesteak Sandwich @ *Fired Up*  
  - Vegetable Cheesesteak Sandwich @ *Fired Up*  
   
 **Tuna**  
@@ -24,7 +23,6 @@ In name:
 In description:   
  - Italian Meat Sauce @ *Buona Cucina*  
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
- - Philly Cheesesteak Sandwich @ *Fired Up*  
   
 **pork**  
 In name:   
@@ -34,6 +32,9 @@ In name:
  - Filipino Pork Sausage @ *Global Kitchen*  
  - FiIipino Pork Spring Roll @ *Global Kitchen*  
  - Ancho Pork Rice Bowl @ *Que Rico*  
+  
+In description:   
+ - Italian Sausage w/ Pepper & Onions @ *Fired Up*  
   
 **chicken**  
 In name:   
@@ -109,10 +110,6 @@ In name:
 **BBQ Pork Sandwich**  
 In name:   
  - BBQ Pork Sandwich @ *Fired Up*  
-  
-**haddock**  
-In name:   
- - Haddock Ginger Glazed (AYCTE) @ *1849*  
   
 **Salmon**  
 In name:   
