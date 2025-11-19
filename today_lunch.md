@@ -1,6 +1,6 @@
 # 2025-11-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-19 12:28:55  
+Updated at: 2025-11-19 14:18:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-19)  
 **Tuna**  
 In name:   
@@ -24,6 +24,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Spicy Citrus w/Bl Beans & Rice @ *1849*  
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
  - Pork Carnita @ *Que Rico*  
  - Italian Pork Sausage @ *Buona Cucina*  
@@ -34,6 +35,7 @@ In name:
  - Fajita Chicken @ *Que Rico*  
   
 In description:   
+ - Pork Spicy Citrus w/Bl Beans & Rice @ *1849*  
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-11-19)  
@@ -158,8 +160,11 @@ In description:
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-11-19)  
 **Bulgogi**  
 In name:   
- - Bulgogi Chicken Thighs @ *Global Kitchen:  Available Between 11am-2pm*  
  - Bulgogi Portabella Mushrooms @ *Global Kitchen:  Available Between 11am-2pm*  
+  
+**Shrimp**  
+In name:   
+ - Brazillian Shrimp in Coconut Sauce @ *Global Kitchen:  Available Between 11am-2pm*  
   
 **beef**  
 In name:   
@@ -176,7 +181,6 @@ In name:
   
 **chicken**  
 In name:   
- - Bulgogi Chicken Thighs @ *Global Kitchen:  Available Between 11am-2pm*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera:  Available Between 11am-2pm*  
  - Buffalo Chicken Sliders @ *Fired Up:  Available Between 11am-2pm*  
   
@@ -198,5 +202,6 @@ In name:
 **chicken**  
 In name:   
  - Breaded Chicken Fillet @ *Lowell Market*  
+ - Mediterranean Chicken @ *Lowell Market*  
   
   
