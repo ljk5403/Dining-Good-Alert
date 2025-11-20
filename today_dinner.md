@@ -1,7 +1,11 @@
 # 2025-11-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-19 17:18:00  
+Updated at: 2025-11-19 19:25:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-19)  
+**Pakoras**  
+In name:   
+ - Appetizer -  Pakoras Vegetable (Veg) @ *Global Kitchen*  
+  
 **steak**  
 In name:   
  - Vegetable Cheesesteak Sandwich @ *Fired Up*  
@@ -30,7 +34,6 @@ In name:
  - Italian Pork Sausage @ *Buona Cucina*  
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
  - Filipino Pork Sausage @ *Global Kitchen*  
- - FiIipino Pork Spring Roll @ *Global Kitchen*  
  - Ancho Pork Rice Bowl @ *Que Rico*  
   
 In description:   
@@ -77,12 +80,13 @@ In name:
   
 In description:   
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Pork Bratwurst Sandwich @ *Fired Up*  
   
 **pork**  
 In name:   
  - Gnocchi w/ Pork Chorizo Sauce @ *Gordon Buona Cucina*  
- - Italian Pork Sausage @ *Gordon Buona Cucina*  
+ - Pizza Slice Sausage (Pork) @ *Gordon Capital City Pizza*  
  - Gluten Free Pork Sausage Pizza Quarter @ *Gordon Capital City Pizza*  
  - Pork Bratwurst Sandwich @ *Fired Up*  
   
@@ -90,22 +94,19 @@ In name:
 In name:   
  - Chicken Pot Pie w/Biscuit @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Pizza Slice BBQ Chicken & Bacon @ *Gordon Capital City Pizza*  
+ - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Sesame Chicken @ *Gordon Global Kitchen*  
  - Plant Based Sesame Chicken (AYCTE) (VN) @ *Gordon Global Kitchen*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
   
 In description:   
  - Gnocchi w/ Pork Chorizo Sauce @ *Gordon Buona Cucina*  
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-11-19)  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
-  
-**drumstick**  
-In name:   
- - Chicken Drumstick Teriyaki Glazed @ *1849*  
   
 **BBQ Pork Sandwich**  
 In name:   
@@ -138,7 +139,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Drumstick Teriyaki Glazed @ *1849*  
+ - Seasoned Baked Chicken Quarters @ *1849*  
  - Chicken Wings Boneless Plain @ *Que Rico*  
  - Plant-Based Chicken Nuggets (6) @ *Que Rico*  
  - Protein - Chicken Thinly Sliced @ *Create-A-Bowl*  
