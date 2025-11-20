@@ -1,6 +1,6 @@
 # 2025-11-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-20 00:28:35  
+Updated at: 2025-11-20 08:19:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-21)  
 **Bulgogi**  
 In name:   
@@ -69,10 +69,6 @@ In name:
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-11-21)  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
 **Tandoori Chicken**  
 In name:   
  - Pizza Slice 16" Tandoori Chicken (AYCTE) @ *Gordon Capital City Pizza*  
