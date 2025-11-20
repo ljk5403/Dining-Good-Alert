@@ -1,6 +1,6 @@
 # 2025-11-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-20 09:20:14  
+Updated at: 2025-11-20 10:25:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-20)  
 **Tuna**  
 In name:   
@@ -80,8 +80,6 @@ In name:
   
 In description:   
  - Beef Masaman Thai Curry @ *Gordon Global Kitchen*  
- - California Roll  (FujiSan) @ *Gordon Global Kitchen*  
- - Tempura Roll (FujiSan) @ *Gordon Global Kitchen*  
   
 **curry**  
 In name:   

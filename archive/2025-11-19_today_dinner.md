@@ -1,6 +1,6 @@
 # 2025-11-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-20 08:19:33  
+Updated at: 2025-11-20 09:20:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-20)  
 **Tilapia**  
 In name:   
@@ -130,42 +130,6 @@ In description:
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-11-20)  
-**Cod**  
-In name:   
-  
-In description:   
- - Petite Fish Sandwich @ *Fired Up*  
-  
-**fish**  
-In name:   
- - Vegan Fish Sandwich @ *Fired Up*  
- - Petite Fish Sandwich @ *Fired Up*  
-  
-**beef**  
-In name:   
- - Beef Sirloin Tips @ *Global*  
-  
-In description:   
- - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
-  
-**pork**  
-In name:   
- - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
- - Green Beans w/ Pork Bacon @ *Global*  
- - Sub - Pork Sausage Cooked @ *Eggcetera*  
-  
-In description:   
- - Lumberjack Bowl w/Bacon @ *Eggcetera*  
-  
-**chicken**  
-In name:   
- - Chicken Tenders Breaded @ *Carson's 1849*  
- - Plant-Based Chicken Tenders @ *Carson's 1849*  
- - Chicken Noodle Soup @ *Great Greens*  
-  
-In description:   
- - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
-  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-11-20)  
 **Salmon**  
 In name:   
