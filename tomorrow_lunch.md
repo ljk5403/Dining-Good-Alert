@@ -1,6 +1,6 @@
 # 2025-11-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-20 15:17:43  
+Updated at: 2025-11-20 16:17:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-21)  
 **Bulgogi**  
 In name:   

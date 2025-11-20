@@ -1,6 +1,6 @@
 # 2025-11-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-20 15:17:40  
+Updated at: 2025-11-20 16:17:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-20)  
 **Tilapia**  
 In name:   
@@ -90,7 +90,7 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Mediterranean Chicken @ *Gordon Buona Cucina*  
  - Greek Chicken @ *Gordon Global Kitchen*  
- - Chicken Empanada with Green Chili @ *Gordon Que Rico*  
+ - Chicken Tamale with Oaxaca @ *Gordon Que Rico*  
  - Chicken Noodle Soup @ *Great Greens*  
  - Breaded Chicken Parmigiana @ *Gordon Eggcetera*  
   
@@ -135,6 +135,10 @@ In description:
 In name:   
  - Za'atar Salmon @ *Lowell Market*  
   
+**Cod**  
+In name:   
+ - Basque Style Cod @ *Lowell Market*  
+  
 **fish**  
 In name:   
   
@@ -157,5 +161,6 @@ In name:
 In name:   
  - Chicken Noodle Soup @ *Great Greens*  
  - Chicken Grilled Cordon Bleu (Pork) @ *Lowell Market*  
+ - Moroccan Chicken Tagine @ *Lowell Market*  
   
   
