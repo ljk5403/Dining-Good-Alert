@@ -1,6 +1,6 @@
 # 2025-11-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-20 00:28:29  
+Updated at: 2025-11-20 08:19:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-20)  
 **Tuna**  
 In name:   
@@ -84,6 +84,8 @@ In name:
   
 In description:   
  - Beef Masaman Thai Curry @ *Gordon Global Kitchen*  
+ - California Roll  (FujiSan) @ *Gordon Global Kitchen*  
+ - Tempura Roll (FujiSan) @ *Gordon Global Kitchen*  
   
 **curry**  
 In name:   
@@ -117,7 +119,6 @@ In name:
  - BBQ Chicken Wings Boneless @ *1849*  
  - Buffalo Chicken Wings Boneless @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Mediterranean Chicken @ *Gordon Buona Cucina*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Chicken Noodle Soup @ *Great Greens*  
   

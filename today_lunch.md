@@ -1,6 +1,6 @@
 # 2025-11-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-20 08:19:28  
+Updated at: 2025-11-20 09:20:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-20)  
 **Tuna**  
 In name:   
@@ -12,13 +12,8 @@ In name:
 In description:   
  - Tempura Roll (FujiSan) @ *Global Kitchen*  
   
-**lamb**  
-In name:   
- - Lamb & Beef Gyro Sandwich @ *Fired Up*  
-  
 **beef**  
 In name:   
- - Lamb & Beef Gyro Sandwich @ *Fired Up*  
  - Beef Mediterranean @ *Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
@@ -29,6 +24,7 @@ In description:
 In name:   
  - Pork Tamale Pie @ *1849*  
  - Loaded Potato Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
+ - New Orleans Turkey Melt w/ Pork @ *Fired Up*  
   
 **chicken**  
 In name:   
