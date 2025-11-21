@@ -16,13 +16,73 @@ dinning_hall_tuple = ('rhetas-market', 'lizs-market', 'gordon-avenue-market', 'f
 #meals_tuple = ('breakfast', 'lunch', 'dinner')
 meals_tuple = ('lunch', 'dinner')
 
-good_dish_category_rare = ['haddock', 'crappie', 'duck', 'squid', 'octopus', 'goat']
-good_dish_category_common = ['Salmon', 'mahi mahi', 'catfish', 'Shrimp', 'Cod', 'Tilapia', 'Tuna', 'fish', 'lamb', 'curry', 'beef', 'pork', 'chicken']
-good_dish_category = good_dish_category_rare + good_dish_category_common
-good_dish_name_T0 =['Vanilla Coconut Milk Yogurt', 'Bibimbap Bowl ', 'Bulgogi', 'Flauta', 'Moroccan Style Lamb Stuffed Peppers', 'lobster', 'crayfish', 'watermelon', 'Drunken Noodles', 'Beef Alicha', 'Pepper, Onion, & Mushroom Saute', 'Poke Bar', 'corn bake', 'Rapini', 'broccoli rabe', 'drumstick', 'Chicken Drumstick Gochujang Glazed', 'Chicken Drummies', 'Tandoori Chicken', 'Samosas', 'Pakoras', 'steak']
-good_dish_name_T1 =['BBQ Pork Sandwich']
+good_dish_category_rare = [
+        'haddock',
+        'crappie',
+        'duck',
+        'squid',
+        'octopus',
+        'goat',
+        'lobster',
+        'crayfish',
+        ]
+good_dish_category_favorite = [
+        'Salmon',
+        'mahi mahi',
+        'catfish',
+        'Shrimp',
+        'Cod',
+        'Tilapia',
+        'Tuna',
+        'fish',
+        'lamb',
+        ]
+good_dish_category_common = [
+        'curry',
+        'beef',
+        'pork',
+        'chicken',
+        ]
+good_dish_name_T0 =[
+        'Vanilla Coconut Milk Yogurt',
+        'Bibimbap Bowl ',
+        'Moroccan Style Lamb Stuffed Peppers',
+        'portabella',
+        'Za’atar Salmon',
+        'lobster',
+        'crayfish',
+        'Bulgogi',
+        'Flauta',
+        'watermelon',
+        'Drunken Noodles',
+        'FiIipino Pork Spring Roll',
+        'Beef Alicha',
+        'Pepper, Onion, & Mushroom Saute'
+        'Poke Bar',
+        'corn bake',
+        'Rapini',
+        'broccoli rabe',
+        'drumstick',
+        'Chicken Drumstick Gochujang Glazed',
+        'Chicken Drummies',
+        'Tandoori Chicken',
+        'Samosas',
+        'Pakoras',
+        'steak',
+        ]
+good_dish_name_T1 =[
+        'BBQ Pork Sandwich',
+        'Filipino Pork Sausage',
+        'Chicken Tamale with Oaxaca',
+        ]
 
-good_dish_list = good_dish_name_T0 + good_dish_name_T1 + good_dish_category
+good_dish_list = (
+        good_dish_name_T0
+        + good_dish_category_rare
+        + good_dish_category_favorite
+        + good_dish_name_T1
+        + good_dish_category_common
+        )
 
 
 def xprint(message):
@@ -67,8 +127,8 @@ def get_menu_dict(data, date : datetime):
                 food_name = d["food"]["name"]
                 location_name = menu_info[str(d["menu_id"])]["section_options"]["display_name"]
                 menu_dict[food_name] = {
-                    "location": location_name
-                }
+                        "location": location_name
+                        }
                 if "synced_ingredients" in d["food"]:
                     menu_dict[food_name]["ingredients"] = str(d["food"]["synced_ingredients"])
                     #print(d["food"]["name"], ": ", d["food"]["synced_ingredients"])
@@ -212,7 +272,7 @@ def raw_test4(): #20250912
     summary_generator()
     #summary = find_good_dishes_someday_somewhere_somemeal(good_dish_list, fixed_date, "gordon-avenue-market", "dinner")
     #pprint.pprint(json.dumps(summary, indent=4, sort_keys=True), compact=True)
-    
+
 
 
 
