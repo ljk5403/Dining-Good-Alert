@@ -1,6 +1,6 @@
 # 2025-11-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-21 12:25:19  
+Updated at: 2025-11-21 14:21:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-21)  
 **portabella**  
 In name:   
@@ -157,7 +157,7 @@ In description:
 In name:   
  - Beef Fajita Meat @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
- - Beef Harissa Braised @ *Que Rico*  
+ - Protein - Beef Thinly Sliced @ *Que Rico*  
   
 In description:   
  - Mushroom Swiss Blended Burger @ *Fired Up*  
@@ -167,7 +167,6 @@ In description:
 **pork**  
 In name:   
  - Chicken Grilled Cordon Bleu (Pork) @ *1849*  
- - Pork Carnita @ *Que Rico*  
  - Clam Chowder (Pork) @ *Great Greens*  
   
 In description:   
