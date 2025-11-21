@@ -1,6 +1,6 @@
 # 2025-11-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-21 10:24:06  
+Updated at: 2025-11-21 11:16:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-21)  
 **portabella**  
 In name:   
@@ -139,10 +139,6 @@ In name:
 **mahi mahi**  
 In name:   
  - Island Spiced Mahi Mahi @ *1849*  
-  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp @ *Que Rico*  
   
 **Cod**  
 In name:   
