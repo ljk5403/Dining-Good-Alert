@@ -1,6 +1,6 @@
 # 2025-11-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-21 14:21:13  
+Updated at: 2025-11-21 15:16:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-21)  
 **duck**  
 In name:   
@@ -91,12 +91,6 @@ In name:
 In name:   
  - Pizza Slice 16" Tandoori Chicken (AYCTE) @ *Gordon Capital City Pizza*  
   
-**squid**  
-In name:   
-  
-In description:   
- - Fried Calamari @ *Gordon Eggcetera*  
-  
 **mahi mahi**  
 In name:   
  - Coconut Thai Curry Mahi Mahi @ *Gordon Global Kitchen*  
@@ -130,27 +124,24 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Carne Guisada @ *Gordon Que Rico*  
-  
-In description:   
- - Baked Corn Dog (Pork) @ *Fired Up*  
+ - Beef Barbacoa @ *Gordon Que Rico*  
+ - Beef Taco Meat @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
  - French Market Pork Jambalaya @ *1849*  
  - Hawaiian (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
  - Clam Chowder (Pork) @ *Great Greens*  
- - Baked Corn Dog (Pork) @ *Fired Up*  
   
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pizza Slice 16" Tandoori Chicken (AYCTE) @ *Gordon Capital City Pizza*  
  - Plant-Based Chicken Nuggets (6) @ *Gordon Eggcetera*  
+ - Crispy Chicken Sandwich @ *Fired Up*  
   
 In description:   
  - French Market Pork Jambalaya @ *1849*  
- - Baked Corn Dog (Pork) @ *Fired Up*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-11-21)  
 **Flauta**  
