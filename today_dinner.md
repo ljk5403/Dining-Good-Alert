@@ -1,6 +1,6 @@
 # 2025-11-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-21 00:30:17  
+Updated at: 2025-11-21 08:18:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-21)  
 **duck**  
 In name:   
@@ -153,18 +153,6 @@ In description:
  - Baked Corn Dog (Pork) @ *Fired Up*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-11-21)  
-**portabella**  
-In name:   
- - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
-  
-**Bulgogi**  
-In name:   
- - BYO Bar - Four Lakes Bulgogi @ *Create-A-Bowl*  
- - Bulgogi Beef @ *Create-A-Bowl*  
- - Bulgogi Chicken @ *Create-A-Bowl*  
- - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
- - Build Your Own Bulgogi Bar - Four Lakes @ *Create-A-Bowl*  
-  
 **Flauta**  
 In name:   
  - Shredded Beef Flauta @ *Que Rico*  
@@ -173,12 +161,6 @@ In name:
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
-  
-**Shrimp**  
-In name:   
-  
-In description:   
- - BYO Bar - Four Lakes Bulgogi @ *Create-A-Bowl*  
   
 **Cod**  
 In name:   
@@ -194,7 +176,8 @@ In name:
 In name:   
   
 In description:   
- - BYO Bar - Four Lakes Bulgogi @ *Create-A-Bowl*  
+ - California Roll  (FujiSan) @ *Create-A-Bowl*  
+ - Tempura Roll (FujiSan) @ *Create-A-Bowl*  
   
 **curry**  
 In name:   
@@ -204,7 +187,6 @@ In name:
 In name:   
  - Beef Fajita Meat @ *Global Kitchen*  
  - Shredded Beef Flauta @ *Que Rico*  
- - Bulgogi Beef @ *Create-A-Bowl*  
   
 In description:   
  - Sausage (Pork), Potatoes, & Peppers @ *1849*  
@@ -222,7 +204,6 @@ In description:
 In name:   
  - Grilled Chicken Sandwich @ *Fired Up*  
  - Chicken and Cheese Flauta @ *Que Rico*  
- - Bulgogi Chicken @ *Create-A-Bowl*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   

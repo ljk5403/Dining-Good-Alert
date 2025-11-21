@@ -1,6 +1,6 @@
 # 2025-11-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-21 00:30:15  
+Updated at: 2025-11-21 08:18:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-21)  
 **portabella**  
 In name:   
@@ -128,18 +128,9 @@ In name:
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-11-21)  
 **portabella**  
 In name:   
- - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
   
 In description:   
  - Portobello Mushroom Stroganoff @ *1849*  
-  
-**Bulgogi**  
-In name:   
- - BYO Bar - Four Lakes Bulgogi @ *Create-A-Bowl*  
- - Bulgogi Beef @ *Create-A-Bowl*  
- - Bulgogi Chicken @ *Create-A-Bowl*  
- - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
- - Build Your Own Bulgogi Bar - Four Lakes @ *Create-A-Bowl*  
   
 **watermelon**  
 In name:   
@@ -153,9 +144,6 @@ In name:
 In name:   
  - Sauteed Shrimp @ *Que Rico*  
   
-In description:   
- - BYO Bar - Four Lakes Bulgogi @ *Create-A-Bowl*  
-  
 **Cod**  
 In name:   
   
@@ -166,13 +154,13 @@ In description:
 In name:   
   
 In description:   
- - BYO Bar - Four Lakes Bulgogi @ *Create-A-Bowl*  
+ - California Roll  (FujiSan) @ *Create-A-Bowl*  
+ - Tempura Roll (FujiSan) @ *Create-A-Bowl*  
   
 **beef**  
 In name:   
  - Beef Fajita Meat @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
- - Bulgogi Beef @ *Create-A-Bowl*  
   
 In description:   
  - Mushroom Swiss Blended Burger @ *Fired Up*  
@@ -190,7 +178,6 @@ In description:
 **chicken**  
 In name:   
  - Chicken Grilled Cordon Bleu (Pork) @ *1849*  
- - Bulgogi Chicken @ *Create-A-Bowl*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
