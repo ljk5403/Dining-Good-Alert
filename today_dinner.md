@@ -1,6 +1,6 @@
 # 2025-11-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-20 19:25:39  
+Updated at: 2025-11-20 20:25:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-20)  
 **Tilapia**  
 In name:   
@@ -69,6 +69,10 @@ In name:
 In name:   
  - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
   
+**Chicken Tamale with Oaxaca**  
+In name:   
+ - Chicken Tamale with Oaxaca @ *Gordon Que Rico*  
+  
 **beef**  
 In name:   
  - Beef Meatloaf @ *1849*  
@@ -95,13 +99,21 @@ In name:
  - Breaded Chicken Parmigiana @ *Gordon Eggcetera*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-11-20)  
+**portabella**  
+In name:   
+ - Caribbean Portabella w/Rice @ *1849*  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**Poke Bar**  
+**FiIipino Pork Spring Roll**  
 In name:   
- - Build Your Own Poke Bar @ *Create-A-Bowl*  
+ - FiIipino Pork Spring Roll @ *Que Rico*  
+  
+**Filipino Pork Sausage**  
+In name:   
+ - Filipino Pork Sausage @ *Que Rico*  
   
 **beef**  
 In name:   

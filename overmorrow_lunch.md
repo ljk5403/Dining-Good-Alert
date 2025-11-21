@@ -1,6 +1,6 @@
 # 2025-11-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-20 19:25:46  
+Updated at: 2025-11-20 20:25:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-22)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-11-22)  
 **watermelon**  
@@ -29,13 +29,13 @@ In name:
 In description:   
  - Montreal Chicken @ *1849*  
   
-**BBQ Pork Sandwich**  
-In name:   
- - Carolina BBQ Pork Sandwich @ *Gordon Fired Up*  
-  
 **Tilapia**  
 In name:   
  - Tilapia Veracruz @ *1849*  
+  
+**BBQ Pork Sandwich**  
+In name:   
+ - Carolina BBQ Pork Sandwich @ *Gordon Fired Up*  
   
 **beef**  
 In name:   

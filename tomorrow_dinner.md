@@ -1,6 +1,6 @@
 # 2025-11-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-20 19:25:43  
+Updated at: 2025-11-20 20:25:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-21)  
 **duck**  
 In name:   
@@ -153,6 +153,10 @@ In description:
  - Baked Corn Dog (Pork) @ *Fired Up*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-11-21)  
+**portabella**  
+In name:   
+ - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
+  
 **Bulgogi**  
 In name:   
  - BYO Bar - Four Lakes Bulgogi @ *Create-A-Bowl*  

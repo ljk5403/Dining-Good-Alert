@@ -1,7 +1,11 @@
 # 2025-11-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-20 19:25:41  
+Updated at: 2025-11-20 20:25:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-21)  
+**portabella**  
+In name:   
+ - Portabella Mushroom Bulgogi Tacos @ *Global Kitchen*  
+  
 **Bulgogi**  
 In name:   
  - Bulgogi Beef Tacos @ *Global Kitchen*  
@@ -69,6 +73,12 @@ In name:
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-11-21)  
+**portabella**  
+In name:   
+  
+In description:   
+ - Pesto Mushroom Sandwich @ *Gordon Fired Up*  
+  
 **Tandoori Chicken**  
 In name:   
  - Pizza Slice 16" Tandoori Chicken (AYCTE) @ *Gordon Capital City Pizza*  
@@ -112,6 +122,13 @@ In name:
  - Chicken Vindaloo @ *Gordon Global Kitchen*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-11-21)  
+**portabella**  
+In name:   
+ - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
+  
+In description:   
+ - Portobello Mushroom Stroganoff @ *1849*  
+  
 **Bulgogi**  
 In name:   
  - BYO Bar - Four Lakes Bulgogi @ *Create-A-Bowl*  
