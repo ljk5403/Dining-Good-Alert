@@ -1,6 +1,6 @@
 # 2025-11-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-20 17:17:51  
+Updated at: 2025-11-20 19:25:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-20)  
 **Tilapia**  
 In name:   
@@ -152,6 +152,7 @@ In name:
 **beef**  
 In name:   
  - Beef Pot Roast @ *Lowell Market*  
+ - Beef Gravy @ *Lowell Market*  
   
 **pork**  
 In name:   
