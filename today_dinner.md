@@ -1,6 +1,6 @@
 # 2025-11-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-22 15:16:18  
+Updated at: 2025-11-22 16:17:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-22)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-11-22)  
 **watermelon**  
@@ -11,8 +11,14 @@ In name:
 In name:   
  - Philly Cheesesteak Sandwich @ *Global Kitchen*  
   
+**Cod**  
+In name:   
+ - Cracker Crusted Cod w/ Lemon Sauce @ *Global Kitchen*  
+  
 **beef**  
 In name:   
+ - Beef Meatloaf @ *Global Kitchen*  
+ - Beef Gravy @ *Global Kitchen*  
   
 In description:   
  - Philly Cheesesteak Sandwich @ *Global Kitchen*  
@@ -29,16 +35,12 @@ In name:
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
+ - Cracker Crusted Cod w/ Lemon Sauce @ *Global Kitchen*  
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-11-22)  
-**curry**  
-In name:   
- - Beef Curry Stew @ *1849*  
-  
 **beef**  
 In name:   
- - Beef Curry Stew @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
@@ -59,6 +61,7 @@ In description:
 **chicken**  
 In name:   
  - Huli Huli Chicken @ *1849*  
+ - Chicken Vindaloo @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Chicken Tinga @ *Gordon Que Rico*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
