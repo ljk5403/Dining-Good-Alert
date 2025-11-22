@@ -1,14 +1,18 @@
 # 2025-11-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-21 17:17:19  
+Updated at: 2025-11-21 19:23:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-21)  
+**drumstick**  
+In name:   
+ - Chicken Drumstick Gochujang Glazed @ *1849*  
+  
+**Chicken Drumstick Gochujang Glazed**  
+In name:   
+ - Chicken Drumstick Gochujang Glazed @ *1849*  
+  
 **duck**  
 In name:   
  - Duck Curry @ *Global Kitchen*  
-  
-**catfish**  
-In name:   
- - Blackened Catfish @ *1849*  
   
 **Cod**  
 In name:   
@@ -18,7 +22,6 @@ In description:
   
 **fish**  
 In name:   
- - Blackened Catfish @ *1849*  
   
 In description:   
  - Duck Curry @ *Global Kitchen*  
@@ -47,6 +50,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Drumstick Gochujang Glazed @ *1849*  
  - Diced Chicken Breast @ *Buona Cucina*  
  - Chicken Mole w/ Rice @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
@@ -99,10 +103,6 @@ In name:
 In name:   
  - Blackened Catfish @ *1849*  
   
-**Shrimp**  
-In name:   
- - Sauteed Shrimp @ *Gordon Buona Cucina*  
-  
 **Cod**  
 In name:   
   
@@ -130,6 +130,7 @@ In name:
 **pork**  
 In name:   
  - French Market Pork Jambalaya @ *1849*  
+ - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Hawaiian (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
  - Clam Chowder (Pork) @ *Great Greens*  
   
@@ -193,7 +194,7 @@ In description:
   
 **chicken**  
 In name:   
- - Grilled Chicken Sandwich @ *Fired Up*  
+ - Crispy Chicken Sandwich @ *Fired Up*  
  - Chicken and Cheese Flauta @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
