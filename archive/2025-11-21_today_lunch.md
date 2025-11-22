@@ -1,6 +1,6 @@
 # 2025-11-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-22 12:25:27  
+Updated at: 2025-11-22 14:19:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-22)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-11-22)  
 **watermelon**  
@@ -23,19 +23,15 @@ In description:
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-11-22)  
-**catfish**  
-In name:   
- - Blackened Catfish @ *1849*  
-  
 **Shrimp**  
 In name:   
   
 In description:   
  - Beef Thai Meatballs W/Green Curry Sauce @ *1849*  
   
-**fish**  
+**Tilapia**  
 In name:   
- - Blackened Catfish @ *1849*  
+ - Blackened Tilapia @ *1849*  
   
 **BBQ Pork Sandwich**  
 In name:   
