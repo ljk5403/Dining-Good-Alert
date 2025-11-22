@@ -1,6 +1,6 @@
 # 2025-11-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-22 10:21:23  
+Updated at: 2025-11-22 11:15:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-22)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-11-22)  
 **watermelon**  
@@ -23,22 +23,31 @@ In description:
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-11-22)  
-**steak**  
+**catfish**  
+In name:   
+ - Blackened Catfish @ *1849*  
+  
+**Shrimp**  
 In name:   
   
 In description:   
- - Montreal Chicken @ *1849*  
+ - Beef Thai Meatballs W/Green Curry Sauce @ *1849*  
   
-**Tilapia**  
+**fish**  
 In name:   
- - Tilapia Veracruz @ *1849*  
+ - Blackened Catfish @ *1849*  
   
 **BBQ Pork Sandwich**  
 In name:   
  - Carolina BBQ Pork Sandwich @ *Gordon Fired Up*  
   
+**curry**  
+In name:   
+ - Beef Thai Meatballs W/Green Curry Sauce @ *1849*  
+  
 **beef**  
 In name:   
+ - Beef Thai Meatballs W/Green Curry Sauce @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
@@ -59,7 +68,7 @@ In description:
   
 **chicken**  
 In name:   
- - Montreal Chicken @ *1849*  
+ - Greek Lemon Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Chicken Tinga @ *Gordon Que Rico*  
