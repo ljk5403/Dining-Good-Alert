@@ -1,6 +1,6 @@
 # 2025-11-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-23 09:16:47  
+Updated at: 2025-11-23 10:21:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-23)  
 **steak**  
 In name:   
@@ -125,7 +125,7 @@ In name:
   
 In description:   
  - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza:  Available Between 11am-4pm*  
- - Southwest Blended Burger with Guacamole @ *Fired Up:  Available Between 11am-2pm*  
+ - Southwest Blended Burger @ *Fired Up:  Available Between 11am-2pm*  
   
 **pork**  
 In name:   
