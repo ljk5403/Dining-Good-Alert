@@ -1,6 +1,6 @@
 # 2025-11-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-23 11:15:30  
+Updated at: 2025-11-23 12:25:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-23)  
 **steak**  
 In name:   
@@ -100,9 +100,8 @@ In description:
   
 **pork**  
 In name:   
- - Quiche Pork Sausage & Cheddar @ *Create-A-Bowl*  
  - Pork Sausage Links @ *Create-A-Bowl*  
- - Pork Carnita @ *Que Rico*  
+ - Quiche Pork Sausage & Cheddar @ *Create-A-Bowl*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
@@ -113,6 +112,7 @@ In name:
  - Spicy Oven Fried Chicken @ *Fired Up*  
  - Plant Based Chicken Strips @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
+ - Chicken Tinga @ *Que Rico*  
  - Chicken Tortilla Soup @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
