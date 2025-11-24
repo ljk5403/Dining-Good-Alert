@@ -1,6 +1,6 @@
 # 2025-11-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-24 14:22:07  
+Updated at: 2025-11-24 15:18:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-24)  
 **Shrimp**  
 In name:   
@@ -110,9 +110,9 @@ In name:
 In name:   
  - Broccoli Rabe @ *1849*  
   
-**Pakoras**  
+**Samosas**  
 In name:   
- - Appetizer -  Pakoras Vegetable (Veg) @ *Que Rico*  
+ - Samosas @ *Que Rico*  
   
 **mahi mahi**  
 In name:   
@@ -151,7 +151,7 @@ In description:
   
 **chicken**  
 In name:   
- - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
+ - Buffalo Chicken Wrap @ *Fired Up*  
  - Maple Cider Chicken @ *1849*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   

@@ -1,6 +1,6 @@
 # 2025-11-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-24 15:18:22  
+Updated at: 2025-11-24 16:18:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-26)  
 **Beef Alicha**  
 In name:   

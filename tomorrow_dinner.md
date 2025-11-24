@@ -1,6 +1,6 @@
 # 2025-11-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-24 15:18:18  
+Updated at: 2025-11-24 16:18:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-25)  
 **Samosas**  
 In name:   
