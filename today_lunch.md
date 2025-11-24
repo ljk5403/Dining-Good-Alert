@@ -1,6 +1,6 @@
 # 2025-11-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-24 11:18:18  
+Updated at: 2025-11-24 12:29:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-24)  
 **beef**  
 In name:   
@@ -199,6 +199,15 @@ In name:
 **Shrimp**  
 In name:   
  - Coconut Shrimp @ *Lowell Market*  
+  
+In description:   
+ - Kimchee @ *Lowell Market*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Kimchee @ *Lowell Market*  
   
 **beef**  
 In name:   

@@ -1,6 +1,6 @@
 # 2025-11-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-24 10:22:05  
+Updated at: 2025-11-24 11:18:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-24)  
 **beef**  
 In name:   
@@ -196,10 +196,6 @@ In name:
  - Blackened Chicken Sandwich @ *Fired Up:  Available Between 11am-2pm*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-11-24)  
-**steak**  
-In name:   
- - Grilled Flank Steak @ *Lowell Market*  
-  
 **Shrimp**  
 In name:   
  - Coconut Shrimp @ *Lowell Market*  
@@ -208,7 +204,7 @@ In name:
 In name:   
   
 In description:   
- - Grilled Flank Steak @ *Lowell Market*  
+ - Grilled Cheeseburger @ *Lowell Market*  
   
 **chicken**  
 In name:   
