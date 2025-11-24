@@ -1,6 +1,6 @@
 # 2025-11-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-24 15:18:12  
+Updated at: 2025-11-24 16:18:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-24)  
 **Shrimp**  
 In name:   
@@ -206,15 +206,14 @@ In name:
 In description:   
  - Lamb Vindaloo @ *Lowell Market*  
   
-**beef**  
+**pork**  
 In name:   
-  
-In description:   
- - Grilled Blended Burger w/ Cheese @ *Lowell Market*  
+ - Chicken Cordon Bleu Sandwich (Pork) @ *Lowell Market*  
   
 **chicken**  
 In name:   
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Orange Sweet & Spicy Chicken @ *Lowell Market*  
+ - Chicken Cordon Bleu Sandwich (Pork) @ *Lowell Market*  
   
   
