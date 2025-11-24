@@ -1,6 +1,6 @@
 # 2025-11-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-23 17:17:12  
+Updated at: 2025-11-23 19:41:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-23)  
 **beef**  
 In name:   
@@ -21,7 +21,7 @@ In name:
 In name:   
  - Chicken Honey Lime w/ rice @ *1849*  
  - General Tso's Chicken @ *Global Kitchen*  
- - Fajita Chicken @ *Que Rico*  
+ - Chicken Tinga @ *Que Rico*  
  - Chicken Tortilla Soup @ *Great Greens*  
  - Chicken Salad @ *Delicious*  
   
@@ -30,19 +30,12 @@ In description:
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-11-23)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-11-23)  
-**steak**  
+**drumstick**  
 In name:   
-  
-In description:   
- - Montreal Chicken @ *1849*  
-  
-**curry**  
-In name:   
- - Thai Veggie Meatballs w/ Green Curry @ *1849*  
+ - Chicken Drumstick Mango Habanero @ *1849*  
   
 **beef**  
 In name:   
- - Beef Stew @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
@@ -54,6 +47,8 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Loin Apricot Glazed @ *1849*  
+ - Pork Italian Sausage @ *Gordon Buona Cucina*  
  - Pork Carnita @ *Gordon Que Rico*  
   
 In description:   
@@ -61,9 +56,8 @@ In description:
   
 **chicken**  
 In name:   
- - Montreal Chicken @ *1849*  
+ - Chicken Drumstick Mango Habanero @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Giardiniera Chicken @ *Gordon Buona Cucina*  
  - Chicken Tortilla Soup @ *Great Greens*  
   
 In description:   
@@ -99,7 +93,7 @@ In name:
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Plant Based Chicken Strips @ *Global Kitchen*  
  - Plant Based Sweet & Sour Chicken @ *1849*  
- - Chicken Tinga @ *Que Rico*  
+ - Taco Chicken @ *Que Rico*  
  - Chicken Tortilla Soup @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   

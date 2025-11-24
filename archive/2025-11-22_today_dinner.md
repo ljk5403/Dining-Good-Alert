@@ -1,6 +1,6 @@
 # 2025-11-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-23 16:17:53  
+Updated at: 2025-11-23 17:17:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-23)  
 **beef**  
 In name:   
@@ -35,10 +35,6 @@ In name:
   
 In description:   
  - Montreal Chicken @ *1849*  
-  
-**Tilapia**  
-In name:   
- - Baked Tilapia w/Dill Wine Sauce @ *1849*  
   
 **curry**  
 In name:   
