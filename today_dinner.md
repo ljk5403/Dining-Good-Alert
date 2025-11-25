@@ -1,6 +1,6 @@
 # 2025-11-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-24 17:18:10  
+Updated at: 2025-11-24 19:26:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-24)  
 **Shrimp**  
 In name:   
@@ -8,7 +8,7 @@ In name:
   
 **beef**  
 In name:   
- - Roasted Beef Brisket @ *1849*  
+ - Texas BBQ Sliced Beef Brisket @ *1849*  
  - Beef Gravy @ *1849*  
   
 In description:   
@@ -110,9 +110,9 @@ In name:
 In name:   
  - Broccoli Rabe @ *1849*  
   
-**Samosas**  
+**Pakoras**  
 In name:   
- - Samosas @ *Que Rico*  
+ - Appetizer -  Pakoras Vegetable (Veg) @ *Que Rico*  
   
 **mahi mahi**  
 In name:   
@@ -189,7 +189,7 @@ In description:
   
 **chicken**  
 In name:   
- - Lemon Chicken Rice Soup @ *Great Greens*  
+ - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
  - App Chicken Popcorn - BYO Bar @ *Eggcetera*  
   
 In description:   
