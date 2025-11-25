@@ -1,6 +1,6 @@
 # 2025-11-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-25 00:31:06  
+Updated at: 2025-11-25 08:19:52  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-25)  
 **Tandoori Chicken**  
 In name:   
@@ -81,15 +81,8 @@ In name:
 In name:   
  - Brazilian Flank Steak @ *1849*  
   
-**squid**  
-In name:   
-  
-In description:   
- - Fried Calamari @ *1849*  
-  
 **Shrimp**  
 In name:   
- - Fried Popcorn Shrimp @ *1849*  
   
 In description:   
  - Poke Bar @ *Gordon Global Kitchen*  
@@ -119,6 +112,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Honey Lime w/ rice @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
@@ -148,6 +142,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Barbacoa @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
  - Mediterranean Beef @ *Create-A-Bowl*  
   
@@ -158,7 +153,6 @@ In description:
   
 **pork**  
 In name:   
- - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
