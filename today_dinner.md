@@ -1,6 +1,6 @@
 # 2025-11-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-25 15:17:38  
+Updated at: 2025-11-25 16:19:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-25)  
 **duck**  
 In name:   
@@ -201,5 +201,6 @@ In name:
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
  - Taco Chicken @ *Lowell Market*  
  - Honey Garlic Chicken @ *Lowell Market*  
+ - Shoyu Chicken @ *Lowell Market*  
   
   
