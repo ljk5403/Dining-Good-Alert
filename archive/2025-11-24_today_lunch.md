@@ -1,6 +1,6 @@
 # 2025-11-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-25 11:19:21  
+Updated at: 2025-11-25 12:29:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-25)  
 **Tandoori Chicken**  
 In name:   
@@ -124,10 +124,6 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**drumstick**  
-In name:   
- - Smoked Chicken Drumstick @ *1849*  
-  
 **steak**  
 In name:   
  - Grilled Flank Steak @ *1849*  
@@ -159,7 +155,6 @@ In description:
   
 **chicken**  
 In name:   
- - Smoked Chicken Drumstick @ *1849*  
  - Italian Chicken @ *Global Kitchen*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
  - Mediterranean Chicken @ *Create-A-Bowl*  

@@ -1,6 +1,6 @@
 # 2025-11-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-25 12:29:57  
+Updated at: 2025-11-25 14:21:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-25)  
 **Tandoori Chicken**  
 In name:   
@@ -83,6 +83,7 @@ In name:
   
 **Shrimp**  
 In name:   
+ - Fried Popcorn Shrimp @ *1849*  
   
 In description:   
  - Poke Bar @ *Gordon Global Kitchen*  
@@ -112,7 +113,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Honey Lime w/ rice @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
@@ -213,7 +213,7 @@ In description:
 **chicken**  
 In name:   
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
- - Butter Chicken @ *Lowell Market*  
+ - Shoyu Chicken @ *Lowell Market*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Lowell Market*  
