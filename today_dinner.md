@@ -1,6 +1,6 @@
 # 2025-11-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-25 11:19:22  
+Updated at: 2025-11-25 12:30:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-25)  
 **Samosas**  
 In name:   
@@ -94,6 +94,7 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Beef Taco Meat @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
@@ -109,7 +110,7 @@ In name:
  - Jamaican Jerk Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
- - Chicken Mole w/ Rice @ *Gordon Que Rico*  
+ - Plant Based Protein Chicken Taco Filling @ *Gordon Que Rico*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
  - Crispy Chicken Sandwich @ *Fired Up*  
   
