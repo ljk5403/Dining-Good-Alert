@@ -1,20 +1,24 @@
 # 2025-11-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-25 14:21:42  
+Updated at: 2025-11-25 15:17:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-25)  
-**Samosas**  
+**duck**  
 In name:   
- - Samosas @ *Global Kitchen*  
+ - Duck Curry @ *Global Kitchen*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Duck Curry @ *Global Kitchen*  
   
 **curry**  
 In name:   
- - Beef Bombay Curry @ *Global Kitchen*  
- - Curry Cauliflower & Butternut Squash @ *Global Kitchen*  
+ - Duck Curry @ *Global Kitchen*  
   
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Beef Bombay Curry @ *Global Kitchen*  
  - Beef Mediterranean @ *Que Rico*  
   
 In description:   
@@ -25,6 +29,7 @@ In description:
 In name:   
  - Pork Loin Roast w/ Apricot Glaze @ *1849*  
  - Baked Corn Dog (Pork) @ *Fired Up*  
+ - Jerk Pork Chop @ *Global Kitchen*  
   
 **chicken**  
 In name:   
@@ -137,7 +142,6 @@ In name:
  - Mediterranean Beef @ *Create-A-Bowl*  
   
 In description:   
- - Burnt Ends @ *1849*  
  - Country Fried Steak @ *1849*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
@@ -150,7 +154,6 @@ In description:
 **chicken**  
 In name:   
  - Italian Chicken @ *Global Kitchen*  
- - Greek Chicken @ *1849*  
  - Chicken Mole w/ Rice @ *Que Rico*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
  - Mediterranean Chicken @ *Create-A-Bowl*  
