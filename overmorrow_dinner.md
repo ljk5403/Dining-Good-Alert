@@ -1,55 +1,59 @@
-# 2025-11-27 dinner  
+# 2025-11-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-25 19:27:19  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-27)  
-**Salmon**  
+Updated at: 2025-11-26 00:30:40  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-28)  
+**drumstick**  
 In name:   
- - Hoisin BBQ Glazed Salmon @ *1849*  
+ - Chicken Drumstick Teriyaki Glazed @ *1849*  
+  
+**steak**  
+In name:   
+ - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
+  
+**mahi mahi**  
+In name:   
+ - Blackened Mahi Mahi @ *1849*  
+  
+**Cod**  
+In name:   
+ - Cod Nuggets @ *Fired Up*  
+  
+In description:   
+ - Clam Chowder (Pork) @ *Great Greens*  
   
 **fish**  
 In name:   
+ - Vegan Fish Sandwich @ *Fired Up*  
   
 In description:   
- - Hoisin BBQ Glazed Salmon @ *1849*  
- - Tempura Roll (FujiSan) @ *Global Kitchen*  
-  
-**curry**  
-In name:   
- - Currywurst (Pork) @ *Fired Up*  
- - Vegan Currywurst @ *Fired Up*  
+ - Eggplant Miso-Glazed @ *1849*  
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Beef Mediterranean @ *Que Rico*  
+ - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Burnt Ends @ *1849*  
- - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
- - Currywurst (Pork) @ *Fired Up*  
+ - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
   
 **pork**  
 In name:   
- - Currywurst (Pork) @ *Fired Up*  
+ - Pork Carnita @ *Que Rico*  
+ - Clam Chowder (Pork) @ *Great Greens*  
   
 In description:   
- - Chorizo Sauce @ *Buona Cucina*  
+ - Pizza Slice Sausage @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
- - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Plant Based Chicken Strips @ *Buona Cucina*  
- - Mediterranean Chicken @ *Que Rico*  
- - Chicken Noodle Soup @ *Great Greens*  
+ - Chicken Drumstick Teriyaki Glazed @ *1849*  
+ - Diced Chicken Breast @ *Buona Cucina*  
+ - Dan Dan w/ Chicken @ *Global Kitchen*  
+ - Fajita Chicken @ *Que Rico*  
  - Chicken Salad @ *Delicious*  
   
-In description:   
- - Chorizo Sauce @ *Buona Cucina*  
- - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
-  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-11-27)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-11-27)  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-11-27)  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-11-27)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-11-27)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-11-28)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-11-28)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-11-28)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-11-28)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-11-28)  
   
