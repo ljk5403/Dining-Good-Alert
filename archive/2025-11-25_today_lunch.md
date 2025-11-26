@@ -1,6 +1,6 @@
 # 2025-11-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-26 00:30:20  
+Updated at: 2025-11-26 08:20:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-26)  
 **portabella**  
 In name:   
@@ -110,7 +110,6 @@ In name:
  - Chicken Gravy @ *1849*  
  - Chicken Drummies @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Cajun Chicken Pasta @ *Gordon Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
   
 In description:   
@@ -130,7 +129,6 @@ In name:
  - Beef Hot Tamale Pie @ *1849*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Beef & Bean Chili @ *Great Greens*  
- - Protein - Beef Thinly Sliced @ *Create-A-Bowl*  
   
 In description:   
  - Italian Meat Sauce @ *Global Kitchen*  
@@ -150,7 +148,6 @@ In name:
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Chicken Wings Boneless Plain @ *Que Rico*  
  - Plant-Based Chicken Nuggets (6) @ *Que Rico*  
- - Protein - Chicken Thinly Sliced @ *Create-A-Bowl*  
   
 In description:   
  - Station Recipe - Great Greens - FLM @ *Great Greens*  

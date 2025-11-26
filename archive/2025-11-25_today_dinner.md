@@ -1,6 +1,6 @@
 # 2025-11-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-26 00:30:24  
+Updated at: 2025-11-26 08:20:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-26)  
 **Beef Alicha**  
 In name:   
@@ -155,13 +155,10 @@ In name:
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Beef & Bean Chili @ *Great Greens*  
- - Protein - Beef Thinly Sliced @ *Create-A-Bowl*  
   
 In description:   
  - Blackened Blended Hamburger @ *Fired Up*  
- - Italian Meat Sauce @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
@@ -172,10 +169,6 @@ In description:
   
 **chicken**  
 In name:   
- - Beef & Chicken Meatballs @ *Global Kitchen*  
- - Plant-Based Chicken Nuggets (6) @ *Que Rico*  
- - Chicken Wings Boneless Plain @ *Que Rico*  
- - Protein - Chicken Thinly Sliced @ *Create-A-Bowl*  
   
 In description:   
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
