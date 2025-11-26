@@ -1,6 +1,6 @@
 # 2025-11-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-26 10:25:51  
+Updated at: 2025-11-26 11:17:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-26)  
 **portabella**  
 In name:   
@@ -101,7 +101,6 @@ In description:
   
 **chicken**  
 In name:   
- - Broasted Chicken 2 pc @ *1849*  
  - Chicken Gravy @ *1849*  
  - Chicken Drummies @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
@@ -131,10 +130,8 @@ In description:
 **pork**  
 In name:   
  - Apricot Glazed Pork @ *1849*  
- - Italian Sausage (Pork) w/ Pepper & Onion @ *Fired Up*  
   
 In description:   
- - Gnocchi w/ Sausage & Roast Veg @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
@@ -165,11 +162,14 @@ In name:
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza:  Available Between 11am-4pm*  
- - Smoked Brisket & Tots Pizza Slice @ *Capital City Pizza:  Available Between 11am-4pm*  
+ - Pepperoni Pizza 16" @ *Capital City Pizza:  Available Between 11am-4pm*  
   
 **pork**  
 In name:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza:  Available Between 11am-4pm*  
+  
+In description:   
+ - Pepperoni Pizza 16" @ *Capital City Pizza:  Available Between 11am-4pm*  
   
 **chicken**  
 In name:   
@@ -180,15 +180,9 @@ In description:
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza:  Available Between 11am-4pm*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-11-26)  
-**haddock**  
+**Shrimp**  
 In name:   
- - Baked Haddock w/Butter & Lemon @ *Lowell Market*  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Chicken Madras @ *Lowell Market*  
+ - Redhook Ale Breaded Shrimp @ *Lowell Market*  
   
 **beef**  
 In name:   
@@ -200,6 +194,6 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken Madras @ *Lowell Market*  
+ - Breaded Chicken Tenders @ *Lowell Market*  
   
   
