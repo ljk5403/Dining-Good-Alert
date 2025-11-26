@@ -1,6 +1,6 @@
 # 2025-11-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-26 09:18:29  
+Updated at: 2025-11-26 10:25:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-26)  
 **portabella**  
 In name:   
@@ -27,7 +27,6 @@ In description:
 **chicken**  
 In name:   
  - Teriyaki Chicken Fillet @ *1849*  
- - Spicy Lo Mein w/Chicken @ *Global Kitchen*  
  - Fajita Chicken @ *Que Rico*  
  - Chicken Salad @ *Delicious*  
   
@@ -70,13 +69,8 @@ In description:
 In name:   
  - Chicken Drummies @ *1849*  
   
-**catfish**  
-In name:   
- - Blackened Catfish @ *1849*  
-  
 **fish**  
 In name:   
- - Blackened Catfish @ *1849*  
   
 In description:   
  - California Roll  (FujiSan) @ *Gordon Global Kitchen*  
@@ -97,6 +91,7 @@ In description:
   
 **pork**  
 In name:   
+ - BBQ Pork Chop @ *1849*  
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Gluten Free Pork Sausage Pizza Quarter @ *Gordon Capital City Pizza*  
  - Pork Carnita @ *Gordon Que Rico*  
@@ -131,7 +126,6 @@ In name:
  - Beef & Bean Chili @ *Great Greens*  
   
 In description:   
- - Italian Meat Sauce @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
@@ -167,7 +161,6 @@ In description:
 In name:   
  - Goulash "Beef" Sauce (VN) @ *Global Kitchen:  Available Between 11am-2pm*  
  - Beef Goulash @ *Global Kitchen:  Available Between 11am-2pm*  
- - Beef & Bean Chili @ *Great Greens:  Available Between 11am-4pm*  
  - BBQ Beef Brisket Sandwich @ *Fired Up:  Available Between 11am-2pm*  
   
 In description:   
@@ -180,6 +173,7 @@ In name:
   
 **chicken**  
 In name:   
+ - Chicken Dumpling Soup @ *Great Greens:  Available Between 11am-4pm*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera:  Available Between 11am-2pm*  
   
 In description:   
