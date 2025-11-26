@@ -1,6 +1,6 @@
 # 2025-11-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-26 15:16:55  
+Updated at: 2025-11-26 16:18:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-26)  
 **Beef Alicha**  
 In name:   
@@ -85,20 +85,8 @@ In name:
  - Tikka Masala Chicken @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-11-26)  
-**steak**  
-In name:   
- - Country Fried Steak @ *1849*  
-  
-**Cod**  
-In name:   
-  
-In description:   
- - Fish Tacos @ *Gordon Que Rico*  
-  
 **fish**  
 In name:   
- - Vegetarian "Fish" Tacos @ *Gordon Que Rico*  
- - Fish Tacos @ *Gordon Que Rico*  
   
 In description:   
  - California Roll  (FujiSan) @ *Gordon Global Kitchen*  
@@ -110,25 +98,22 @@ In name:
  - Beef & Bean Chili @ *Great Greens*  
   
 In description:   
- - Country Fried Steak @ *1849*  
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Grilled Blended Burger w/ Cheese @ *Fired Up*  
   
 **pork**  
 In name:   
- - Roasted Pork Loin @ *1849*  
+ - Apricot Glazed Pork @ *1849*  
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Gluten Free Pork Sausage Pizza Quarter @ *Gordon Capital City Pizza*  
   
 **chicken**  
 In name:   
- - Plant-Based Chicken & Gravy (VN) @ *1849*  
  - Brazilian Chicken w/ Salsa Vinaigrette @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Cajun Chicken Pasta @ *Gordon Buona Cucina*  
  - Sweet & Sour Chicken @ *Gordon Global Kitchen*  
- - Brown Stew w/ Chicken @ *Gordon Eggcetera*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
   
 In description:   
@@ -182,7 +167,7 @@ In name:
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
- - Smoked Brisket & Tots Pizza Slice @ *Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  
 In name:   
@@ -196,6 +181,7 @@ In name:
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-11-26)  
 **beef**  
