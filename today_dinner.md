@@ -1,25 +1,16 @@
 # 2025-11-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-26 12:24:56  
+Updated at: 2025-11-26 14:21:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-26)  
 **Beef Alicha**  
 In name:   
  - Beef Alicha @ *1849*  
-  
-**Cod**  
-In name:   
- - Panko Crusted Cod w/ Lemon Sauce @ *1849*  
-  
-**lamb**  
-In name:   
- - Lamb Vindaloo @ *Global Kitchen*  
   
 **curry**  
 In name:   
   
 In description:   
  - Chana Saag w/ Tofu @ *1849*  
- - Lamb Vindaloo @ *Global Kitchen*  
   
 **beef**  
 In name:   
@@ -46,7 +37,6 @@ In name:
  - Chicken Salad @ *Delicious*  
   
 In description:   
- - Panko Crusted Cod w/ Lemon Sauce @ *1849*  
  - Pepperoni & Mushrooms Pizza @ *Capital City Pizza*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-11-26)  
