@@ -1,6 +1,6 @@
 # 2025-11-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-27 08:19:26  
+Updated at: 2025-11-27 09:20:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-28)  
 **steak**  
 In name:   
@@ -25,7 +25,6 @@ In name:
   
 **curry**  
 In name:   
- - Mixed Vegetable Curry @ *Global Kitchen*  
   
 In description:   
  - Coconut Vegetable Stew @ *1849*  
@@ -48,7 +47,6 @@ In description:
   
 **chicken**  
 In name:   
- - Butter Chicken @ *Global Kitchen*  
  - Fajita Chicken @ *Que Rico*  
  - Diced Chicken Breast @ *Buona Cucina*  
  - Chicken Salad @ *Delicious*  
