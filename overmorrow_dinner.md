@@ -1,59 +1,44 @@
-# 2025-11-28 dinner  
+# 2025-11-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-26 19:26:19  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-28)  
-**drumstick**  
+Updated at: 2025-11-27 00:31:24  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-29)  
+**Shrimp**  
 In name:   
- - Chicken Drumstick Teriyaki Glazed @ *1849*  
-  
-**steak**  
-In name:   
- - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
-  
-**mahi mahi**  
-In name:   
- - Blackened Mahi Mahi @ *1849*  
+ - Shrimp Po-Boy Sandwich @ *Fired Up*  
   
 **Cod**  
 In name:   
- - Cod Nuggets @ *Fired Up*  
   
 In description:   
  - Clam Chowder (Pork) @ *Great Greens*  
   
-**fish**  
+**Tilapia**  
 In name:   
- - Vegan Fish Sandwich @ *Fired Up*  
-  
-In description:   
- - Eggplant Miso-Glazed @ *1849*  
+ - Blackened Tilapia @ *1849*  
   
 **beef**  
 In name:   
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
+ - Burnt Ends @ *1849*  
+ - Bibimbap Bowl @ *Global Kitchen*  
   
 **pork**  
 In name:   
- - Pork Carnita @ *Que Rico*  
+ - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
  - Clam Chowder (Pork) @ *Great Greens*  
-  
-In description:   
- - Pizza Slice Sausage @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
- - Chicken Drumstick Teriyaki Glazed @ *1849*  
  - Diced Chicken Breast @ *Buona Cucina*  
- - Dan Dan w/ Chicken @ *Global Kitchen*  
+ - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
  - Fajita Chicken @ *Que Rico*  
- - Chicken Salad @ *Delicious*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
   
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-11-28)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-11-28)  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-11-28)  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-11-28)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-11-28)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-11-29)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-11-29)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-11-29)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-11-29)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-11-29)  
   
