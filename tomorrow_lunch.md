@@ -1,16 +1,10 @@
-# 2025-11-28 lunch  
+# 2025-11-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-27 19:24:53  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-28)  
-**steak**  
+Updated at: 2025-11-28 00:30:34  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-29)  
+**Salmon**  
 In name:   
- - Island Spiced Beef Steak @ *1849*  
- - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
-  
-**catfish**  
-In name:   
- - Island Spiced Catfish @ *1849*  
- - Catfish Nuggets w/ Remoulade Sauce @ *Fired Up*  
+ - Blackened Salmon @ *1849*  
   
 **Cod**  
 In name:   
@@ -20,40 +14,37 @@ In description:
   
 **fish**  
 In name:   
- - Island Spiced Catfish @ *1849*  
- - Catfish Nuggets w/ Remoulade Sauce @ *Fired Up*  
-  
-**curry**  
-In name:   
   
 In description:   
- - Coconut Vegetable Stew @ *1849*  
+ - Blackened Salmon @ *1849*  
   
 **beef**  
 In name:   
- - Island Spiced Beef Steak @ *1849*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
+ - Pork Bratwurst Sandwich @ *Fired Up*  
   
 **pork**  
 In name:   
- - Pork Carnita @ *Que Rico*  
+ - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
+ - Pork Bratwurst Sandwich @ *Fired Up*  
+ - Pork Miso w/Yakisoba Noodles @ *Global Kitchen*  
  - Clam Chowder (Pork) @ *Great Greens*  
-  
-In description:   
- - Pizza Slice Sausage @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
+ - Baked BBQ Chicken @ *1849*  
+ - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
  - Fajita Chicken @ *Que Rico*  
- - Diced Chicken Breast @ *Buona Cucina*  
- - Chicken Salad @ *Delicious*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
   
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-11-28)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-11-28)  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-11-28)  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-11-28)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-11-28)  
+In description:   
+ - Pork Miso w/Yakisoba Noodles @ *Global Kitchen*  
+  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-11-29)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-11-29)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-11-29)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-11-29)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-11-29)  
   
