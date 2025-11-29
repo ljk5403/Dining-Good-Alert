@@ -1,6 +1,6 @@
 # 2025-11-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-28 17:17:39  
+Updated at: 2025-11-28 19:24:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-28)  
 **drumstick**  
 In name:   
@@ -14,15 +14,19 @@ In name:
 In name:   
  - Blackened Mahi Mahi @ *1849*  
   
+**catfish**  
+In name:   
+ - Catfish Nuggets w/ Remoulade Sauce @ *Fired Up*  
+  
 **Cod**  
 In name:   
- - Cod Nuggets @ *Fired Up*  
   
 In description:   
  - Clam Chowder (Pork) @ *Great Greens*  
   
 **fish**  
 In name:   
+ - Catfish Nuggets w/ Remoulade Sauce @ *Fired Up*  
  - Vegan Fish Sandwich @ *Fired Up*  
   
 In description:   
