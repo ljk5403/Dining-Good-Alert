@@ -1,16 +1,10 @@
 # 2025-11-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-29 09:17:43  
+Updated at: 2025-11-29 10:22:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-29)  
 **Salmon**  
 In name:   
  - Blackened Salmon @ *1849*  
-  
-**Cod**  
-In name:   
-  
-In description:   
- - Clam Chowder (Pork) @ *Great Greens*  
   
 **fish**  
 In name:   
@@ -20,6 +14,7 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Barbacoa @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -30,13 +25,13 @@ In name:
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
  - Pork Bratwurst Sandwich @ *Fired Up*  
  - Pork Miso w/Yakisoba Noodles @ *Global Kitchen*  
- - Clam Chowder (Pork) @ *Great Greens*  
   
 **chicken**  
 In name:   
  - Baked BBQ Chicken @ *1849*  
  - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
  - Fajita Chicken @ *Que Rico*  
+ - Chicken Noodle Soup @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
