@@ -1,14 +1,10 @@
 # 2025-11-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-29 15:16:42  
+Updated at: 2025-11-29 16:17:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-29)  
 **Shrimp**  
 In name:   
  - Shrimp Po-Boy Sandwich @ *Fired Up*  
-  
-**Tilapia**  
-In name:   
- - Blackened Tilapia @ *1849*  
   
 **beef**  
 In name:   
@@ -17,7 +13,6 @@ In name:
   
 In description:   
  - Burnt Ends @ *1849*  
- - Bibimbap Bowl @ *Global Kitchen*  
   
 **pork**  
 In name:   
@@ -28,7 +23,6 @@ In name:
  - Diced Chicken Breast @ *Buona Cucina*  
  - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
  - Fajita Chicken @ *Que Rico*  
- - Chicken Noodle Soup @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-11-29)  
