@@ -1,6 +1,6 @@
 # 2025-11-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-30 10:22:06  
+Updated at: 2025-11-30 11:15:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-11-30)  
 **Tuna**  
 In name:   
@@ -34,9 +34,9 @@ In description:
 In name:   
  - Plant-Based Pepper Steak Stir Fry @ *1849*  
   
-**Shrimp**  
+**Cod**  
 In name:   
- - Coconut Shrimp @ *1849*  
+ - Battered Cod @ *1849*  
   
 **beef**  
 In name:   
@@ -98,7 +98,6 @@ In description:
 **chicken**  
 In name:   
  - Sausage Links Chicken (halal) (AYCTE) @ *Create-A-Bowl*  
- - Plant Based Chicken Strips @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Chicken Tortilla Soup @ *Great Greens*  
   
