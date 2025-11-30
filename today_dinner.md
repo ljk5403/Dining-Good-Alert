@@ -1,6 +1,6 @@
 # 2025-11-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-30 16:18:04  
+Updated at: 2025-11-30 17:17:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-30)  
 **Tuna**  
 In name:   
@@ -151,7 +151,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Stroganoff Creamy @ *Global*  
   
 In description:   
  - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza*  
@@ -159,6 +158,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Miso w/Yakisoba Noodles @ *Global*  
   
 In description:   
  - Pizza Slice Sausage @ *Capital City Pizza*  
@@ -170,6 +170,7 @@ In name:
   
 In description:   
  - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza*  
+ - Pork Miso w/Yakisoba Noodles @ *Global*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-11-30)  
   

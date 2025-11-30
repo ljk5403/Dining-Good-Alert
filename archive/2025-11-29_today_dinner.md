@@ -1,6 +1,6 @@
 # 2025-11-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-30 15:16:40  
+Updated at: 2025-11-30 16:18:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-30)  
 **Tuna**  
 In name:   
@@ -40,20 +40,23 @@ In description:
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-11-30)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-11-30)  
+**steak**  
+In name:   
+ - Grilled Flank Steak @ *1849*  
+  
 **beef**  
 In name:   
- - Beef Stew @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
+ - Grilled Flank Steak @ *1849*  
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Vegan Taco Filling @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
- - Boneless Baked Pork Ham @ *1849*  
  - Pork Gravy with Vegetables @ *1849*  
  - Porkloin Fritter @ *1849*  
  - Pork Carnita @ *Gordon Que Rico*  
@@ -64,6 +67,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Plant-Based Chicken & Gravy @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Giardiniera Chicken @ *Gordon Buona Cucina*  
  - Chicken Tortilla Soup @ *Great Greens*  
@@ -84,10 +88,6 @@ In description:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**Salmon**  
-In name:   
- - Tuscan Butter Salmon @ *1849*  
-  
 **catfish**  
 In name:   
  - Garlic Baked Catfish @ *1849*  
@@ -99,9 +99,6 @@ In name:
 **fish**  
 In name:   
  - Garlic Baked Catfish @ *1849*  
-  
-In description:   
- - Tuscan Butter Salmon @ *1849*  
   
 **curry**  
 In name:   
