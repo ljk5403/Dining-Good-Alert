@@ -1,18 +1,23 @@
 # 2025-11-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-29 17:17:30  
+Updated at: 2025-11-29 19:45:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-29)  
+**catfish**  
+In name:   
+ - Island Spiced Catfish @ *1849*  
+  
 **Shrimp**  
 In name:   
  - Shrimp Po-Boy Sandwich @ *Fired Up*  
+  
+**fish**  
+In name:   
+ - Island Spiced Catfish @ *1849*  
   
 **beef**  
 In name:   
  - Beef Barbacoa @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
-  
-In description:   
- - Burnt Ends @ *1849*  
   
 **pork**  
 In name:   
