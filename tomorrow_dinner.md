@@ -1,6 +1,6 @@
 # 2025-12-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-01 12:33:21  
+Updated at: 2025-12-01 14:20:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-02)  
 **portabella**  
 In name:   
