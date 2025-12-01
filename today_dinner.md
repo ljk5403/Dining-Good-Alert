@@ -1,6 +1,6 @@
 # 2025-11-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-11-30 17:17:22  
+Updated at: 2025-11-30 19:52:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-11-30)  
 **Tuna**  
 In name:   
@@ -88,17 +88,13 @@ In description:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**catfish**  
+**Tilapia**  
 In name:   
- - Garlic Baked Catfish @ *1849*  
+ - Tilapia Chipotle Lime Crusted @ *1849*  
   
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
-  
-**fish**  
-In name:   
- - Garlic Baked Catfish @ *1849*  
   
 **curry**  
 In name:   
@@ -118,7 +114,6 @@ In description:
 **pork**  
 In name:   
  - French Market Pork Jambalaya @ *1849*  
- - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
@@ -126,6 +121,7 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Global Kitchen*  
+ - Chicken Mole w/ Rice @ *Que Rico*  
  - Chicken Tortilla Soup @ *Great Greens*  
   
 In description:   
