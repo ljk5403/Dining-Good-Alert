@@ -1,6 +1,6 @@
 # 2025-12-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-01 09:21:33  
+Updated at: 2025-12-01 10:27:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-01)  
 **Tuna**  
 In name:   
@@ -37,17 +37,13 @@ In name:
 In name:   
  - Brazilian Flank Steak @ *Global Kitchen*  
   
-**catfish**  
+**Cod**  
 In name:   
- - Blackened Catfish @ *1849*  
+ - Battered Cod @ *1849*  
   
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
-  
-**fish**  
-In name:   
- - Blackened Catfish @ *1849*  
   
 **lamb**  
 In name:   
@@ -73,12 +69,6 @@ In name:
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-12-01)  
-**portabella**  
-In name:   
-  
-In description:   
- - Pizza Slice Portabello Alfredo (Veg) @ *Gordon Capital City Pizza*  
-  
 **steak**  
 In name:   
  - Island Spiced Beef Steak @ *1849*  
@@ -90,7 +80,6 @@ In name:
 **beef**  
 In name:   
  - Island Spiced Beef Steak @ *1849*  
- - Beef Ravioli w/Tomato Sauce @ *Gordon Buona Cucina*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
@@ -110,6 +99,7 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Pizza Slice Chicken Broccoli Alfredo @ *Gordon Capital City Pizza*  
  - Chicken Tinga @ *Gordon Que Rico*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
@@ -117,10 +107,6 @@ In description:
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-12-01)  
-**portabella**  
-In name:   
- - Portabella Mushroom Ravioli Plain @ *Global Kitchen*  
-  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -159,12 +145,13 @@ In name:
  - Italian Pork Sausage @ *Global Kitchen*  
   
 In description:   
+ - Gnocchi w/ Sausage & Roast Veg @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
 In name:   
  - Chicken Vindaloo @ *Que Rico*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
+ - Chicken Noodle Soup @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
