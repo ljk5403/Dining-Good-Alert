@@ -1,6 +1,6 @@
 # 2025-12-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-01 00:32:44  
+Updated at: 2025-12-01 08:21:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-01)  
 **Tuna**  
 In name:   
@@ -11,11 +11,9 @@ In name:
  - Texas BBQ Sliced Beef Brisket @ *1849*  
  - Beef Fajita Meat @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
- - Beef Ravioli Plain @ *Buona Cucina*  
   
 In description:   
  - Grilled Blended Burger w/ Cheese @ *Fired Up*  
- - Italian Meat Sauce @ *Buona Cucina*  
   
 **pork**  
 In name:   
