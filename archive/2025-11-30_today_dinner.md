@@ -1,6 +1,6 @@
 # 2025-12-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-01 12:33:18  
+Updated at: 2025-12-01 14:20:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-01)  
 **drumstick**  
 In name:   
