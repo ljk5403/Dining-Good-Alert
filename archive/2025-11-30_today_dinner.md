@@ -1,6 +1,6 @@
 # 2025-12-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-01 15:16:15  
+Updated at: 2025-12-01 16:17:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-01)  
 **drumstick**  
 In name:   
@@ -22,8 +22,7 @@ In description:
   
 **curry**  
 In name:   
- - Thai Veggie Meatballs w/ Green Curry @ *1849*  
- - VEGAN Thai Chick'n w/ Green Curry (VN) @ *Global Kitchen*  
+ - Coconut Tofu w/Red Curry Sauce @ *Global Kitchen*  
   
 **beef**  
 In name:   
@@ -116,11 +115,11 @@ In description:
 In name:   
  - Herb Crusted Pork Loin @ *1849*  
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
+ - Pizza Slice Sausage (Pork) @ *Gordon Capital City Pizza*  
   
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Pizza Slice Mediterranean Chicken @ *Gordon Capital City Pizza*  
  - Chicken Tinga @ *Gordon Que Rico*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Crispy Chicken Sandwich @ *Fired Up*  
@@ -130,10 +129,6 @@ In description:
  - Poulet Braise @ *Gordon Eggcetera*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-12-01)  
-**portabella**  
-In name:   
- - Portabella Mushroom Ravioli Plain @ *Global Kitchen*  
-  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -145,10 +140,6 @@ In name:
 **Samosas**  
 In name:   
  - Samosas @ *Que Rico*  
-  
-**Salmon**  
-In name:   
- - Salmon Tandoori Roasted @ *Que Rico*  
   
 **mahi mahi**  
 In name:   
@@ -162,7 +153,6 @@ In name:
 In name:   
   
 In description:   
- - Salmon Tandoori Roasted @ *Que Rico*  
  - Coconut Thai Curry Mahi Mahi @ *Que Rico*  
  - California Roll  (FujiSan) @ *Create-A-Bowl*  
  - Tempura Roll (FujiSan) @ *Create-A-Bowl*  
@@ -184,6 +174,7 @@ In name:
  - Italian Pork Sausage @ *Global Kitchen*  
   
 In description:   
+ - Gnocchi w/ Sausage & Roast Veg @ *Global Kitchen*  
  - Hot Ham Sandwich @ *1849*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
