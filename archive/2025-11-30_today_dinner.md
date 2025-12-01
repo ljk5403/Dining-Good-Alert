@@ -1,6 +1,6 @@
 # 2025-12-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-01 14:20:04  
+Updated at: 2025-12-01 15:16:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-01)  
 **drumstick**  
 In name:   
@@ -74,7 +74,6 @@ In name:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-12-01)  
 **portabella**  
 In name:   
- - Smothered Portabella Mushroom @ *Gordon Que Rico*  
   
 In description:   
  - Pizza Slice Portabello Alfredo (Veg) @ *Gordon Capital City Pizza*  
@@ -82,10 +81,6 @@ In description:
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
-  
-**steak**  
-In name:   
- - Smothered Steak Burrito @ *Gordon Que Rico*  
   
 **Tuna**  
 In name:   
@@ -95,24 +90,27 @@ In name:
 In name:   
   
 In description:   
+ - Beef Masaman Thai Curry @ *1849*  
  - Poulet Braise @ *Gordon Eggcetera*  
   
 **curry**  
 In name:   
+ - Beef Masaman Thai Curry @ *1849*  
   
 In description:   
  - Jollof Rice - 25 @ *Gordon Eggcetera*  
   
 **beef**  
 In name:   
+ - Beef Masaman Thai Curry @ *1849*  
  - Beef Ravioli w/Tomato Sauce @ *Gordon Buona Cucina*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Beef @ *Gordon Global Kitchen*  
+ - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
- - Swedish Meatballs (AYCTE) @ *1849*  
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
- - Smothered Steak Burrito @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
@@ -123,11 +121,11 @@ In name:
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pizza Slice Mediterranean Chicken @ *Gordon Capital City Pizza*  
+ - Chicken Tinga @ *Gordon Que Rico*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Crispy Chicken Sandwich @ *Fired Up*  
   
 In description:   
- - Swedish Meatballs (AYCTE) @ *1849*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
  - Poulet Braise @ *Gordon Eggcetera*  
   
