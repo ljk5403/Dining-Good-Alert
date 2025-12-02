@@ -1,6 +1,6 @@
 # 2025-12-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-02 09:22:30  
+Updated at: 2025-12-02 10:27:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-02)  
 **portabella**  
 In name:   
@@ -108,7 +108,7 @@ In name:
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Butter Chicken @ *Gordon Global Kitchen*  
- - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
+ - Chicken Tortilla Soup @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-12-02)  
 **watermelon**  
