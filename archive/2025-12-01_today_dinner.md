@@ -1,6 +1,6 @@
 # 2025-12-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-02 12:31:49  
+Updated at: 2025-12-02 14:24:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-02)  
 **portabella**  
 In name:   
@@ -108,7 +108,7 @@ In name:
  - Beef Harissa w/Couscous @ *Gordon Global Kitchen*  
   
 In description:   
- - Reuben @ *Fired Up*  
+ - Italian Meatball Sandwich @ *Fired Up*  
   
 **pork**  
 In name:   
@@ -125,6 +125,9 @@ In name:
  - Chicken Empanada with Green Chili @ *Gordon Que Rico*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
  - Chicken Paprikash @ *Gordon Eggcetera*  
+  
+In description:   
+ - Italian Meatball Sandwich @ *Fired Up*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-12-02)  
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-12-02)  

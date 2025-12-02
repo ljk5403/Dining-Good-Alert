@@ -1,6 +1,6 @@
 # 2025-12-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-02 12:31:47  
+Updated at: 2025-12-02 14:24:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-02)  
 **portabella**  
 In name:   
@@ -88,7 +88,7 @@ In name:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-12-02)  
 **beef**  
 In name:   
- - Beef Sirloin Tips @ *1849*  
+ - Beef Swedish Meatballs @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Barbacoa @ *Gordon Que Rico*  
  - Beef Taco Meat @ *Gordon Que Rico*  
@@ -145,7 +145,6 @@ In name:
   
 In description:   
  - Ancho Braised Pork @ *Que Rico*  
- - Station Recipe - Great Greens - FLM @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-12-02)  
 **Shrimp**  
@@ -180,6 +179,10 @@ In description:
 **Salmon**  
 In name:   
  - Blackened Salmon @ *Lowell Market*  
+  
+**Shrimp**  
+In name:   
+ - Coconut Shrimp @ *Lowell Market*  
   
 **fish**  
 In name:   
