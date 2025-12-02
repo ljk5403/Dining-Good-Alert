@@ -1,6 +1,6 @@
 # 2025-12-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-02 08:22:19  
+Updated at: 2025-12-02 09:22:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-04)  
 **Chicken Drummies**  
 In name:   
@@ -135,7 +135,6 @@ In name:
   
 In description:   
  - Grilled Blended Burger w/ Cheese @ *Fired Up*  
- - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
 In name:   
@@ -143,13 +142,11 @@ In name:
   
 In description:   
  - Andouille Sausage @ *Global Kitchen*  
- - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
 In name:   
  - Chicken and Cheese Flauta @ *Que Rico*  
  - Chicken Noodle Soup @ *Great Greens*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
  - Apple Cider Braised Pork @ *1849*  

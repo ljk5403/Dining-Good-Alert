@@ -1,6 +1,6 @@
 # 2025-12-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-02 08:21:54  
+Updated at: 2025-12-02 09:22:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-02)  
 **portabella**  
 In name:   
@@ -177,10 +177,6 @@ In description:
  - Pepperoni Pizza Slice @ *Capital City Pizza:  Available Between 11am-4pm*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-12-02)  
-**drumstick**  
-In name:   
- - Chicken Drumstick BBQ Glazed @ *Lowell Market*  
-  
 **Salmon**  
 In name:   
  - Blackened Salmon @ *Lowell Market*  
@@ -198,6 +194,6 @@ In name:
 **chicken**  
 In name:   
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
- - Chicken Drumstick BBQ Glazed @ *Lowell Market*  
+ - Sweet & Sour Chicken @ *Lowell Market*  
   
   
