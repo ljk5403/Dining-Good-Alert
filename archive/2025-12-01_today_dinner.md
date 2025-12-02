@@ -1,6 +1,6 @@
 # 2025-12-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-02 08:22:00  
+Updated at: 2025-12-02 09:22:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-02)  
 **portabella**  
 In name:   
@@ -127,51 +127,6 @@ In name:
  - Chicken Paprikash @ *Gordon Eggcetera*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-12-02)  
-**portabella**  
-In name:   
-  
-In description:   
- - Mushroom Bulgogi Bao Bun @ *Que Rico*  
-  
-**Bulgogi**  
-In name:   
- - Beef Bulgogi Bao Bun @ *Que Rico*  
- - Mushroom Bulgogi Bao Bun @ *Que Rico*  
-  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
-**lamb**  
-In name:   
- - Smoked Leg of Lamb @ *1849*  
-  
-**beef**  
-In name:   
- - Traditional Beef Shepard's Pie @ *1849*  
- - Beef Bulgogi Bao Bun @ *Que Rico*  
- - Mediterranean Beef @ *Create-A-Bowl*  
-  
-In description:   
- - Chicago-Style Hot Dog @ *Fired Up*  
- - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
-  
-**pork**  
-In name:   
-  
-In description:   
- - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
-  
-**chicken**  
-In name:   
- - Italian Chicken @ *Global Kitchen*  
- - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
- - Mediterranean Chicken @ *Create-A-Bowl*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
-  
-In description:   
- - Station Recipe - Great Greens - FLM @ *Great Greens*  
-  
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-12-02)  
 **curry**  
 In name:   
