@@ -1,6 +1,6 @@
 # 2025-12-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-02 15:19:25  
+Updated at: 2025-12-02 16:16:52  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-02)  
 **portabella**  
 In name:   
@@ -123,7 +123,7 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Chicken Empanada with Green Chili @ *Gordon Que Rico*  
- - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
+ - Chicken Tortilla Soup @ *Great Greens*  
  - Chicken Paprikash @ *Gordon Eggcetera*  
   
 In description:   
@@ -131,13 +131,22 @@ In description:
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-12-02)  
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-12-02)  
+**Salmon**  
+In name:   
+ - Island Spiced Salmon @ *Carson's 1849*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Island Spiced Salmon @ *Carson's 1849*  
+  
 **curry**  
 In name:   
  - Mixed Vegetable Curry @ *Global*  
   
 **beef**  
 In name:   
- - Texas BBQ Sliced Beef Brisket @ *Carson's 1849*  
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
