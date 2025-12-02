@@ -1,6 +1,6 @@
 # 2025-12-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-01 17:18:52  
+Updated at: 2025-12-01 19:28:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-01)  
 **drumstick**  
 In name:   
@@ -31,7 +31,7 @@ In name:
 In description:   
  - Sausage (Pork), Potatoes, & Peppers @ *1849*  
  - Italian Meat Sauce @ *Buona Cucina*  
- - Chicago-Style Hot Dog @ *Fired Up*  
+ - Bratwurst @ *Fired Up*  
   
 **pork**  
 In name:   
@@ -41,6 +41,7 @@ In name:
   
 In description:   
  - Pizza Slice Sausage @ *Capital City Pizza*  
+ - Bratwurst @ *Fired Up*  
   
 **chicken**  
 In name:   
@@ -101,6 +102,7 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Swedish Meatballs @ *1849*  
  - Beef Masaman Thai Curry @ *1849*  
  - Beef Ravioli w/Tomato Sauce @ *Gordon Buona Cucina*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
@@ -113,7 +115,6 @@ In description:
   
 **pork**  
 In name:   
- - Herb Crusted Pork Loin @ *1849*  
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Pizza Slice Sausage (Pork) @ *Gordon Capital City Pizza*  
   

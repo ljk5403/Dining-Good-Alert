@@ -1,6 +1,6 @@
 # 2025-12-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-01 17:18:49  
+Updated at: 2025-12-01 19:28:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-01)  
 **Tuna**  
 In name:   
@@ -119,6 +119,12 @@ In name:
 In name:   
  - Appetizer -  Pakoras Vegetable (Veg) @ *Que Rico*  
   
+**Cod**  
+In name:   
+  
+In description:   
+ - Clam Chowder (Pork) @ *Great Greens*  
+  
 **fish**  
 In name:   
   
@@ -143,6 +149,7 @@ In description:
 In name:   
  - Reuben Knockwurst (Pork) on Pretzel Bun @ *Fired Up*  
  - Italian Pork Sausage @ *Global Kitchen*  
+ - Clam Chowder (Pork) @ *Great Greens*  
   
 In description:   
  - Gnocchi w/ Sausage & Roast Veg @ *Global Kitchen*  
@@ -151,7 +158,6 @@ In description:
 **chicken**  
 In name:   
  - Chicken Vindaloo @ *Que Rico*  
- - Chicken Noodle Soup @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
