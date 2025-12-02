@@ -1,6 +1,6 @@
 # 2025-12-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-02 00:31:48  
+Updated at: 2025-12-02 08:21:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-02)  
 **portabella**  
 In name:   
@@ -86,36 +86,23 @@ In name:
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-12-02)  
-**drumstick**  
-In name:   
-  
-In description:   
- - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
-  
-**steak**  
-In name:   
- - Philly Cheesesteak Sandwich @ *Gordon Fired Up*  
- - Tempeh Philly Cheesesteak Sandwich @ *Gordon Fired Up*  
-  
 **beef**  
 In name:   
  - Beef Sirloin Tips @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Beef Barbacoa @ *Gordon Que Rico*  
  - Beef Taco Meat @ *Gordon Que Rico*  
-  
-In description:   
- - Philly Cheesesteak Sandwich @ *Gordon Fired Up*  
   
 **pork**  
 In name:   
  - Cubano (Pork) Pizza @ *Gordon Capital City Pizza*  
+ - Pork Bratwurst Sandwich @ *Gordon Fired Up*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
   
 **chicken**  
 In name:   
- - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
  - Greek Lemon Chicken Breast @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
