@@ -1,6 +1,6 @@
 # 2025-12-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-03 14:23:51  
+Updated at: 2025-12-03 15:17:52  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-03)  
 **Tuna**  
 In name:   
@@ -52,12 +52,6 @@ In name:
  - Madras Chicken w/Basmati Rice @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-12-03)  
-**portabella**  
-In name:   
-  
-In description:   
- - Vegan French Dip Sandwich @ *Fired Up*  
-  
 **Shrimp**  
 In name:   
  - Coconut Shrimp @ *1849*  
@@ -79,6 +73,7 @@ In name:
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
+ - Reuben @ *Fired Up*  
   
 **pork**  
 In name:   
