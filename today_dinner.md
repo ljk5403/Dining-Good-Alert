@@ -1,6 +1,6 @@
 # 2025-12-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-02 17:18:00  
+Updated at: 2025-12-02 19:37:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-02)  
 **portabella**  
 In name:   
@@ -96,6 +96,7 @@ In description:
   
 **steak**  
 In name:   
+ - Grilled Flank Steak @ *1849*  
   
 In description:   
  - Montreal Chicken @ *1849*  
@@ -103,11 +104,11 @@ In description:
 **beef**  
 In name:   
  - Beef Gravy @ *1849*  
- - Texas BBQ Sliced Beef Brisket @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Harissa w/Couscous @ *Gordon Global Kitchen*  
   
 In description:   
+ - Grilled Flank Steak @ *1849*  
  - Italian Meatball Sandwich @ *Fired Up*  
   
 **pork**  
