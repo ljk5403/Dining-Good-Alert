@@ -1,6 +1,6 @@
 # 2025-12-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-03 11:22:13  
+Updated at: 2025-12-03 12:31:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-03)  
 **FiIipino Pork Spring Roll**  
 In name:   
@@ -24,14 +24,15 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
  - Beef Fajita Meat @ *Que Rico*  
  - Beef & Bean Chili @ *Great Greens*  
+ - Beef Ravioli Plain @ *Buona Cucina*  
   
 In description:   
- - Sliced Kielbasa (Pork) @ *1849*  
+ - Sausage (Pork), Potatoes, & Peppers @ *1849*  
  - Vegan Sloppy Joe @ *Fired Up*  
   
 **pork**  
 In name:   
- - Sliced Kielbasa (Pork) @ *1849*  
+ - Sausage (Pork), Potatoes, & Peppers @ *1849*  
  - Filipino Pork Sausage @ *Global Kitchen*  
  - FiIipino Pork Spring Roll @ *Global Kitchen*  
  - Italian Pork Sausage @ *Buona Cucina*  

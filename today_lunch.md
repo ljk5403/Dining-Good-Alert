@@ -1,11 +1,7 @@
 # 2025-12-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-03 12:31:10  
+Updated at: 2025-12-03 14:23:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-03)  
-**FiIipino Pork Spring Roll**  
-In name:   
- - FiIipino Pork Spring Roll @ *Global Kitchen*  
-  
 **broccoli rabe**  
 In name:   
  - Broccoli Rabe @ *1849*  
@@ -34,7 +30,7 @@ In description:
 In name:   
  - Sausage (Pork), Potatoes, & Peppers @ *1849*  
  - Filipino Pork Sausage @ *Global Kitchen*  
- - FiIipino Pork Spring Roll @ *Global Kitchen*  
+ - Appetizer -  Fried Pork Potstickers @ *Global Kitchen*  
  - Italian Pork Sausage @ *Buona Cucina*  
   
 In description:   
@@ -111,6 +107,7 @@ In name:
 In name:   
  - Broasted Chicken 2 pc @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Crispy Chicken Sandwich @ *Gordon Fired Up*  
  - General Tso's Chicken @ *Gordon Global Kitchen*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
   
