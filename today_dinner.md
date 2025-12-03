@@ -1,6 +1,6 @@
 # 2025-12-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-03 15:17:52  
+Updated at: 2025-12-03 16:19:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-03)  
 **Tuna**  
 In name:   
@@ -52,10 +52,13 @@ In name:
  - Madras Chicken w/Basmati Rice @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-12-03)  
+**steak**  
+In name:   
+ - Steak Street Taco @ *Gordon Que Rico*  
+  
 **Shrimp**  
 In name:   
  - Coconut Shrimp @ *1849*  
- - Shrimp & Green Chile Burrito @ *Gordon Que Rico*  
   
 **fish**  
 In name:   
@@ -73,6 +76,7 @@ In name:
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
+ - Steak Street Taco @ *Gordon Que Rico*  
  - Reuben @ *Fired Up*  
   
 **pork**  
@@ -128,16 +132,6 @@ In name:
  - Protein - Chicken Thinly Sliced @ *Create-A-Bowl*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-12-03)  
-**Salmon**  
-In name:   
- - Island Spiced Salmon @ *Global*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Island Spiced Salmon @ *Global*  
-  
 **curry**  
 In name:   
   
@@ -146,6 +140,7 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Sirloin Tips @ *Global*  
  - Beef & Bean Chili @ *Great Greens*  
  - BBQ Beef Brisket Sandwich @ *Fired Up*  
   
@@ -175,12 +170,13 @@ In name:
   
 **beef**  
 In name:   
- - Beef & Bean Chili @ *Lowell Market*  
+ - Beef & Bean Chili @ *Great Greens*  
  - Beef Hot Dog @ *Lowell Market*  
   
 **pork**  
 In name:   
  - Filipino Pork Sausage @ *Lowell Market*  
+ - Herb Crusted Pork Loin @ *Lowell Market*  
   
 **chicken**  
 In name:   
