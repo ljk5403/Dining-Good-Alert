@@ -1,6 +1,6 @@
 # 2025-12-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-04 09:23:11  
+Updated at: 2025-12-04 10:28:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-04)  
 **Tuna**  
 In name:   
@@ -89,6 +89,7 @@ In name:
  - Baked Pork Chops w/Dressing @ *1849*  
  - Pork Gravy with Vegetables @ *1849*  
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
+ - Biscuits & Pork Gravy @ *Gordon Eggcetera*  
   
 **chicken**  
 In name:   
