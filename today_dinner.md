@@ -1,183 +1,215 @@
-# 2025-12-03 dinner  
+# 2025-12-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-03 19:38:00  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-03)  
-**Tuna**  
+Updated at: 2025-12-04 00:31:27  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-04)  
+**Chicken Drummies**  
 In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
-  
-**beef**  
-In name:   
- - Beef Tortellini @ *Buona Cucina*  
- - Beef & Bean Chili @ *Great Greens*  
-  
-**pork**  
-In name:   
- - BBQ Pork Chop @ *1849*  
- - Italian Pork Sausage @ *Buona Cucina*  
- - Shanghai Pork Fried Noodles with @ *Global Kitchen*  
-  
-In description:   
- - Pizza Slice Sausage @ *Capital City Pizza*  
-  
-**chicken**  
-In name:   
- - Chicken Pot Pie w/Biscuit @ *1849*  
- - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
- - Chicken Fajita @ *Que Rico*  
-  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-12-03)  
-**watermelon**  
-In name:   
- - Melon Watermelon Whole Sliced @ *Great Greens*  
-  
-**Samosas**  
-In name:   
- - Samosas @ *Global Kitchen*  
-  
-**curry**  
-In name:   
- - Curry Potatoes @ *Global Kitchen*  
-  
-In description:   
- - Madras Chicken w/Basmati Rice @ *Global Kitchen*  
-  
-**beef**  
-In name:   
- - Beef Vindaloo @ *Global Kitchen*  
- - Beef & Bean Chili @ *Great Greens*  
-  
-**chicken**  
-In name:   
- - Orange Sweet & Spicy Chicken @ *1849*  
- - Madras Chicken w/Basmati Rice @ *Global Kitchen*  
-  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-12-03)  
-**steak**  
-In name:   
- - Steak Street Taco @ *Gordon Que Rico*  
+ - Chicken Drummies @ *Fired Up*  
   
 **Shrimp**  
 In name:   
- - Coconut Shrimp @ *1849*  
+ - Blackened Shrimp @ *1849*  
+  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad @ *Delicious*  
   
 **fish**  
 In name:   
   
 In description:   
- - Tempura Roll (FujiSan) @ *Gordon Global Kitchen*  
- - California Roll  (FujiSan) @ *Gordon Global Kitchen*  
+ - Tempura Roll (FujiSan) @ *Global Kitchen*  
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef & Bean Chili @ *Great Greens*  
- - Beef French Dip Sandwich @ *Fired Up*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Beef Mediterranean @ *Que Rico*  
   
 In description:   
- - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
- - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
- - Steak Street Taco @ *Gordon Que Rico*  
- - Reuben @ *Fired Up*  
-  
-**pork**  
-In name:   
- - Italian Pork Sausage @ *Gordon Buona Cucina*  
- - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
- - Gluten Free Pork Sausage Pizza Quarter @ *Gordon Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
- - Huli Huli Chicken @ *1849*  
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Sweet & Sour Chicken @ *Gordon Global Kitchen*  
- - Plant Based Sweet & Sour Chicken @ *Gordon Global Kitchen*  
- - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
+ - Chicken Spaghetti @ *1849*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Plant Based Chicken Strips @ *Buona Cucina*  
+ - Pizza Slice Chicken Broccoli Alfredo @ *Capital City Pizza*  
+ - Chicken Drummies @ *Fired Up*  
+ - Plant-Based Chicken Nuggets (6) @ *Fired Up*  
+ - Mediterranean Chicken @ *Que Rico*  
+ - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
- - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
- - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-12-03)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-12-04)  
 **watermelon**  
 In name:   
- - Watermelon Slices @ *Great Greens*  
+ - Melon Watermelon Whole Sliced @ *Great Greens*  
   
-**Tilapia**  
+**steak**  
 In name:   
- - Tilapia Chipotle Lime Crusted @ *1849*  
+ - Country Fried Steak @ *1849*  
+  
+**Salmon**  
+In name:   
+ - Ginger Glazed Salmon @ *Global Kitchen*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Ginger Glazed Salmon @ *Global Kitchen*  
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *Global Kitchen*  
- - Beef & Bean Chili @ *Great Greens*  
- - Protein - Beef Thinly Sliced @ *Create-A-Bowl*  
   
 In description:   
- - Pork Bratwurst Sandwich @ *Fired Up*  
- - Bolognese Sauce @ *Global Kitchen*  
-  
-**pork**  
-In name:   
- - Pork Bratwurst Sandwich @ *Fired Up*  
-  
-In description:   
- - Bolognese Sauce @ *Global Kitchen*  
+ - Country Fried Steak @ *1849*  
   
 **chicken**  
 In name:   
- - Beef & Chicken Meatballs @ *Global Kitchen*  
- - Huli Huli Chicken @ *1849*  
- - Chicken Wings Boneless Plain @ *Que Rico*  
- - Plant-Based Chicken Nuggets (6) @ *Que Rico*  
- - Protein - Chicken Thinly Sliced @ *Create-A-Bowl*  
+ - Chicken Pot Pie w/Biscuit @ *1849*  
+ - Plant-Based Chicken & Gravy (VN) @ *1849*  
+ - Marrakech Chicken Breast @ *Global Kitchen*  
+ - Chicken Noodle Soup @ *Great Greens*  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-12-03)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-12-04)  
+**Chicken Drummies**  
+In name:   
+ - Chicken Drummies @ *1849*  
+  
+**Cod**  
+In name:   
+ - Basque Style Cod @ *1849*  
+  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
+  
 **curry**  
 In name:   
   
 In description:   
- - Chicken Ala King over Biscuit @ *Carson's 1849*  
+ - Coconut Vegetable Stew @ *1849*  
   
 **beef**  
 In name:   
- - Beef Sirloin Tips @ *Global*  
- - Beef & Bean Chili @ *Great Greens*  
- - BBQ Beef Brisket Sandwich @ *Fired Up*  
+ - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Mediterranean Beef @ *Gordon Global Kitchen*  
   
 In description:   
- - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
- - Smoked Brisket & Tots Pizza Slice @ *Capital City Pizza*  
+ - Italian Meatball Sandwich @ *Fired Up*  
   
 **pork**  
 In name:   
- - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
- - Italian Pork Sausage @ *Eggcetera*  
+ - Italian Pork Sausage @ *Gordon Buona Cucina*  
   
 **chicken**  
 In name:   
- - Chicken Ala King over Biscuit @ *Carson's 1849*  
+ - Chicken Drummies @ *1849*  
+ - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Mediterranean Chicken @ *Gordon Global Kitchen*  
+ - Chicken Fajita Meat @ *Gordon Que Rico*  
+ - Chicken Noodle Soup @ *Great Greens*  
+ - Breaded Chicken Parmigiana @ *Gordon Eggcetera*  
   
 In description:   
- - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
+ - Build Your Own Southwest Bowl @ *Gordon Que Rico*  
+ - Italian Meatball Sandwich @ *Fired Up*  
   
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-12-03)  
-**Filipino Pork Sausage**  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-12-04)  
+**Flauta**  
 In name:   
- - Filipino Pork Sausage @ *Lowell Market*  
+ - Shredded Beef Flauta @ *Que Rico*  
+ - Chicken and Cheese Flauta @ *Que Rico*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
   
 **beef**  
 In name:   
- - Beef & Bean Chili @ *Great Greens*  
- - Beef Hot Dog @ *Lowell Market*  
+ - Beef Tri Tip Carved w/ Chimichurri @ *1849*  
+ - Shredded Beef Flauta @ *Que Rico*  
+  
+In description:   
+ - Grilled Blended Burger w/ Cheese @ *Fired Up*  
   
 **pork**  
 In name:   
- - Filipino Pork Sausage @ *Lowell Market*  
- - Herb Crusted Pork Loin @ *Lowell Market*  
+ - Apple Cider Braised Pork @ *1849*  
+  
+In description:   
+ - Andouille Sausage @ *Global Kitchen*  
   
 **chicken**  
 In name:   
- - Chicken Teriyaki Stir Fry @ *Lowell Market*  
+ - Chicken and Cheese Flauta @ *Que Rico*  
+ - Chicken Noodle Soup @ *Great Greens*  
+  
+In description:   
+ - Apple Cider Braised Pork @ *1849*  
+ - Shredded Beef Flauta @ *Que Rico*  
+  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-12-04)  
+**Shrimp**  
+In name:   
+ - Shrimp Etouffee (AYCTE) @ *Global*  
+  
+**Cod**  
+In name:   
+  
+In description:   
+ - Petite Fish Sandwich @ *Fired Up*  
+  
+**fish**  
+In name:   
+ - Vegan Fish Sandwich @ *Fired Up*  
+ - Petite Fish Sandwich @ *Fired Up*  
+  
+**beef**  
+In name:   
+  
+In description:   
+ - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
+  
+**pork**  
+In name:   
+ - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
+ - Green Beans w/ Pork Bacon @ *Global*  
+ - Sub - Pork Sausage Cooked @ *Eggcetera*  
+  
+In description:   
+ - Lumberjack Bowl w/Bacon @ *Eggcetera*  
+  
+**chicken**  
+In name:   
+ - Chicken Tenders Breaded @ *Carson's 1849*  
+ - Plant-Based Chicken Tenders @ *Carson's 1849*  
+ - Chicken Noodle Soup @ *Great Greens*  
+  
+In description:   
+ - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
+  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-12-04)  
+**mahi mahi**  
+In name:   
+ - Baked Mahi Mahi w/ Butter & Lemon @ *Lowell Market*  
+  
+**curry**  
+In name:   
+  
+In description:   
+ - Tofu & Vegetable Tikka Masala @ *Lowell Market*  
+  
+**pork**  
+In name:   
+ - Baked Rigatoni w/ Pork Italian Sausage @ *Lowell Market*  
+  
+**chicken**  
+In name:   
+ - Chicken Noodle Soup @ *Great Greens*  
+ - Chicken Baked  (1 piece) @ *Lowell Market*  
   
   
