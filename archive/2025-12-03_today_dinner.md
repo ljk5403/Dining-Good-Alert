@@ -1,6 +1,6 @@
 # 2025-12-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-04 15:18:58  
+Updated at: 2025-12-04 16:17:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-04)  
 **Chicken Drummies**  
 In name:   
@@ -75,6 +75,12 @@ In name:
  - Chicken Noodle Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-12-04)  
+**portabella**  
+In name:   
+  
+In description:   
+ - Vegan French Dip Sandwich @ *Fired Up*  
+  
 **Chicken Drummies**  
 In name:   
  - Chicken Drummies @ *1849*  
@@ -97,9 +103,7 @@ In description:
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Mediterranean Beef @ *Gordon Global Kitchen*  
-  
-In description:   
- - Italian Meatball Sandwich @ *Fired Up*  
+ - Beef French Dip Sandwich @ *Fired Up*  
   
 **pork**  
 In name:   
@@ -116,7 +120,6 @@ In name:
   
 In description:   
  - Build Your Own Southwest Bowl @ *Gordon Que Rico*  
- - Italian Meatball Sandwich @ *Fired Up*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-12-04)  
 **Flauta**  
@@ -144,6 +147,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Protein Plant Based Chicken Tender @ *Fired Up*  
  - Chicken and Cheese Flauta @ *Que Rico*  
  - Chicken Noodle Soup @ *Great Greens*  
   
