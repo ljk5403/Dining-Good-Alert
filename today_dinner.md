@@ -1,6 +1,6 @@
 # 2025-12-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-04 14:23:09  
+Updated at: 2025-12-04 15:18:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-04)  
 **Chicken Drummies**  
 In name:   
@@ -81,7 +81,7 @@ In name:
   
 **Cod**  
 In name:   
- - Basque Style Cod @ *1849*  
+ - Lemon Pepper Cod Fillet @ *1849*  
   
 **Tuna**  
 In name:   
