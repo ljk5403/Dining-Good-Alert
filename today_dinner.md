@@ -1,6 +1,6 @@
 # 2025-12-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-03 17:17:01  
+Updated at: 2025-12-03 19:38:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-03)  
 **Tuna**  
 In name:   
@@ -8,6 +8,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Tortellini @ *Buona Cucina*  
  - Beef & Bean Chili @ *Great Greens*  
   
 **pork**  
@@ -146,13 +147,11 @@ In name:
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
- - Sausage (Pork) & Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Smoked Brisket & Tots Pizza Slice @ *Capital City Pizza*  
   
 **pork**  
 In name:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
- - Sausage (Pork) & Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Italian Pork Sausage @ *Eggcetera*  
   
 **chicken**  
@@ -161,7 +160,6 @@ In name:
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
- - Sausage (Pork) & Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-12-03)  
 **Filipino Pork Sausage**  

@@ -1,6 +1,6 @@
 # 2025-12-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-03 17:16:58  
+Updated at: 2025-12-03 19:37:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-03)  
 **broccoli rabe**  
 In name:   
@@ -116,10 +116,6 @@ In description:
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-12-03)  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
 **Cod**  
 In name:   
  - Miso Cod @ *1849*  
