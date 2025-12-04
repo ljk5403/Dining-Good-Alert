@@ -1,6 +1,6 @@
 # 2025-12-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-04 10:28:45  
+Updated at: 2025-12-04 11:21:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-04)  
 **Tuna**  
 In name:   
@@ -24,6 +24,7 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Italian Meat Sauce @ *Buona Cucina*  
   
 **pork**  
 In name:   
@@ -87,7 +88,6 @@ In description:
 **pork**  
 In name:   
  - Baked Pork Chops w/Dressing @ *1849*  
- - Pork Gravy with Vegetables @ *1849*  
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Biscuits & Pork Gravy @ *Gordon Eggcetera*  
   
@@ -95,6 +95,7 @@ In name:
 In name:   
  - Montreal Chicken @ *1849*  
  - Plant-Based Chicken & Gravy (VN) @ *1849*  
+ - Chicken Gravy @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Mediterranean Chicken @ *Gordon Global Kitchen*  
@@ -111,7 +112,6 @@ In name:
   
 **beef**  
 In name:   
- - Italian Beef Sandwich @ *1849*  
  - Roast Beef & Cheddar Panini on Rye @ *Fired Up*  
  - Beef Taco Meat @ *Que Rico*  
   
@@ -120,6 +120,8 @@ In description:
   
 **pork**  
 In name:   
+ - Herb Crusted Pork Loin @ *1849*  
+ - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Andouille Sausage @ *Global Kitchen*  
@@ -128,7 +130,6 @@ In description:
 **chicken**  
 In name:   
  - Jamaican Jerk Chicken Drumstick @ *1849*  
- - Plant-Based Chicken Tenders @ *Fired Up*  
  - Chicken Noodle Soup @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
@@ -171,6 +172,16 @@ In description:
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza:  Available Between 11am-4pm*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-12-04)  
+**Salmon**  
+In name:   
+ - Blackened Salmon @ *Lowell Market*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Blackened Salmon @ *Lowell Market*  
+  
 **lamb**  
 In name:   
  - Lamb & Beef Gyro Sandwich @ *Lowell Market*  
@@ -184,6 +195,7 @@ In description:
 **beef**  
 In name:   
  - Lamb & Beef Gyro Sandwich @ *Lowell Market*  
+ - Beef Hot Dog @ *Lowell Market*  
   
 **pork**  
 In name:   
