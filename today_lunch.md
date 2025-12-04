@@ -1,6 +1,6 @@
 # 2025-12-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-04 11:21:35  
+Updated at: 2025-12-04 12:31:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-04)  
 **Tuna**  
 In name:   
@@ -15,10 +15,10 @@ In description:
 **curry**  
 In name:   
  - Garbanzo Bean Curry @ *1849*  
+ - Curry Mango - Pork @ *1849*  
   
 **beef**  
 In name:   
- - Cowboy Bean w/ Beef & Pork @ *1849*  
  - Beef Mediterranean @ *Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
@@ -28,7 +28,7 @@ In description:
   
 **pork**  
 In name:   
- - Cowboy Bean w/ Beef & Pork @ *1849*  
+ - Curry Mango - Pork @ *1849*  
   
 **chicken**  
 In name:   
