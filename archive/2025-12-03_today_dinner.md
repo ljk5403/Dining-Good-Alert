@@ -1,6 +1,6 @@
 # 2025-12-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-04 11:21:39  
+Updated at: 2025-12-04 12:31:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-04)  
 **Chicken Drummies**  
 In name:   
@@ -138,7 +138,6 @@ In description:
   
 **pork**  
 In name:   
- - Apple Cider Braised Pork @ *1849*  
   
 In description:   
  - Andouille Sausage @ *Global Kitchen*  
@@ -149,7 +148,6 @@ In name:
  - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
- - Apple Cider Braised Pork @ *1849*  
  - Shredded Beef Flauta @ *Que Rico*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-12-04)  

@@ -1,6 +1,6 @@
 # 2025-12-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-04 12:31:54  
+Updated at: 2025-12-04 14:23:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-04)  
 **Tuna**  
 In name:   
@@ -172,16 +172,6 @@ In description:
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza:  Available Between 11am-4pm*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-12-04)  
-**Salmon**  
-In name:   
- - Blackened Salmon @ *Lowell Market*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Blackened Salmon @ *Lowell Market*  
-  
 **lamb**  
 In name:   
  - Lamb & Beef Gyro Sandwich @ *Lowell Market*  
