@@ -1,6 +1,6 @@
 # 2025-12-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-04 00:31:26  
+Updated at: 2025-12-04 08:20:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-04)  
 **Tuna**  
 In name:   
@@ -67,6 +67,9 @@ In name:
 In name:   
  - Spicy Steak Fajita @ *Gordon Que Rico*  
   
+In description:   
+ - Montreal Chicken @ *1849*  
+  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
@@ -89,7 +92,7 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken Baked  (1 piece) @ *1849*  
+ - Montreal Chicken @ *1849*  
  - Plant-Based Chicken & Gravy (VN) @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
