@@ -1,6 +1,6 @@
 # 2025-12-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-05 14:22:27  
+Updated at: 2025-12-05 15:17:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-05)  
 **Shrimp**  
 In name:   
@@ -80,12 +80,6 @@ In name:
 **haddock**  
 In name:   
  - Haddock Ginger Glazed (AYCTE) @ *1849*  
-  
-**squid**  
-In name:   
-  
-In description:   
- - Fried Calamari @ *Gordon Eggcetera*  
   
 **Shrimp**  
 In name:   

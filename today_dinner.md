@@ -1,6 +1,6 @@
 # 2025-12-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-05 15:17:58  
+Updated at: 2025-12-05 16:18:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-05)  
 **Shrimp**  
 In name:   
@@ -112,6 +112,7 @@ In description:
   
 **pork**  
 In name:   
+ - Roasted Pork Loin @ *1849*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Gordon Capital City Pizza*  
  - Clam Chowder (Pork) @ *Great Greens*  
   
@@ -120,7 +121,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Breast Con Pollo @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Gordon Capital City Pizza*  
  - Butter Chicken @ *Gordon Global Kitchen*  
@@ -165,6 +165,10 @@ In name:
 In description:   
  - BYO Bar - Four Lakes Bulgogi @ *Create-A-Bowl*  
   
+**curry**  
+In name:   
+ - Vegan Curry Stew @ *1849*  
+  
 **beef**  
 In name:   
  - Beef Fajita Meat @ *Global Kitchen*  
@@ -188,6 +192,7 @@ In description:
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-12-05)  
 **steak**  
 In name:   
+ - Swiss Steak w/Brown Gravy @ *Lowell Market*  
  - Country Fried Steak @ *Lowell Market*  
   
 **Cod**  
@@ -201,8 +206,9 @@ In name:
  - Plant-Based Beef Lo Mein @ *Lowell Market*  
   
 In description:   
- - Country Fried Steak @ *Lowell Market*  
+ - Swiss Steak w/Brown Gravy @ *Lowell Market*  
  - Brazilian Pork Feijoada @ *Lowell Market*  
+ - Country Fried Steak @ *Lowell Market*  
   
 **pork**  
 In name:   
