@@ -1,6 +1,6 @@
 # 2025-12-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-04 17:18:43  
+Updated at: 2025-12-04 19:38:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-04)  
 **Chicken Drummies**  
 In name:   
@@ -81,13 +81,11 @@ In name:
 In description:   
  - Vegan French Dip Sandwich @ *Fired Up*  
   
-**Chicken Drummies**  
+**steak**  
 In name:   
- - Chicken Drummies @ *1849*  
   
-**Cod**  
-In name:   
- - Lemon Pepper Cod Fillet @ *1849*  
+In description:   
+ - Montreal Chicken @ *1849*  
   
 **Tuna**  
 In name:   
@@ -107,11 +105,12 @@ In name:
   
 **pork**  
 In name:   
+ - BBQ Pork Chop @ *1849*  
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
   
 **chicken**  
 In name:   
- - Chicken Drummies @ *1849*  
+ - Montreal Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Mediterranean Chicken @ *Gordon Global Kitchen*  
  - Chicken Fajita Meat @ *Gordon Que Rico*  
@@ -125,7 +124,6 @@ In description:
 **Flauta**  
 In name:   
  - Shredded Beef Flauta @ *Que Rico*  
- - Chicken and Cheese Flauta @ *Que Rico*  
   
 **watermelon**  
 In name:   
@@ -148,7 +146,6 @@ In description:
 **chicken**  
 In name:   
  - Protein Plant Based Chicken Tender @ *Fired Up*  
- - Chicken and Cheese Flauta @ *Que Rico*  
  - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
