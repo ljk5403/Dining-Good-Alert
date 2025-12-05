@@ -1,6 +1,6 @@
 # 2025-12-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-05 10:25:35  
+Updated at: 2025-12-05 11:18:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-05)  
 **Shrimp**  
 In name:   
@@ -93,12 +93,6 @@ In description:
 In name:   
  - Blackened Tilapia @ *1849*  
   
-**lamb**  
-In name:   
-  
-In description:   
- - Pizza Slice Gyro @ *Gordon Capital City Pizza*  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
@@ -107,7 +101,7 @@ In name:
   
 In description:   
  - Burnt Ends @ *1849*  
- - Pizza Slice Gyro @ *Gordon Capital City Pizza*  
+ - Pepperoni Pizza 16" @ *Gordon Capital City Pizza*  
   
 **pork**  
 In name:   
@@ -116,6 +110,7 @@ In name:
   
 In description:   
  - Gnocchi w/ Sausage & Roast Veg @ *Gordon Buona Cucina*  
+ - Pepperoni Pizza 16" @ *Gordon Capital City Pizza*  
   
 **chicken**  
 In name:   
@@ -193,7 +188,7 @@ In description:
 **chicken**  
 In name:   
  - Tikka Masala Chicken @ *1849*  
- - Chipotle BBQ Chicken Sandwich @ *Fired Up*  
+ - Crispy Chicken Sandwich @ *Fired Up*  
  - Bulgogi Chicken @ *Create-A-Bowl*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
@@ -218,6 +213,7 @@ In description:
 **pork**  
 In name:   
  - Clam Chowder (Pork) @ *Great Greens*  
+ - Pork Italian Sausage @ *Lowell Market*  
   
 **chicken**  
 In name:   
