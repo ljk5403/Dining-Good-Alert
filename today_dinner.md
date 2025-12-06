@@ -1,6 +1,6 @@
 # 2025-12-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-06 00:27:34  
+Updated at: 2025-12-06 08:16:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-06)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-12-06)  
 **watermelon**  
@@ -38,7 +38,6 @@ In description:
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
- - Grilled Blended Burger w/ Cheese @ *Fired Up*  
  - Baked Corn Dog (Pork) @ *Fired Up*  
  - Deli @ *Gordon Delicious*  
   
