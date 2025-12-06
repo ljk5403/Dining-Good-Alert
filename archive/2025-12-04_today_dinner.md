@@ -1,6 +1,6 @@
 # 2025-12-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-05 16:18:26  
+Updated at: 2025-12-05 17:18:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-05)  
 **Shrimp**  
 In name:   
@@ -92,12 +92,6 @@ In name:
 In description:   
  - Clam Chowder (Pork) @ *Great Greens*  
   
-**lamb**  
-In name:   
-  
-In description:   
- - Pizza Slice Gyro @ *Gordon Capital City Pizza*  
-  
 **curry**  
 In name:   
  - Lentil Chickpea Red Curry @ *Gordon Global Kitchen*  
@@ -108,7 +102,7 @@ In name:
  - Beef Birria Tacos @ *Gordon Que Rico*  
   
 In description:   
- - Pizza Slice Gyro @ *Gordon Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
 **pork**  
 In name:   
@@ -125,6 +119,9 @@ In name:
  - Chicken Bacon (Pork) Ranch Pizza @ *Gordon Capital City Pizza*  
  - Butter Chicken @ *Gordon Global Kitchen*  
  - Plant-Based Chicken Nuggets (6) @ *Gordon Eggcetera*  
+  
+In description:   
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-12-05)  
 **portabella**  
@@ -204,6 +201,7 @@ In description:
 **beef**  
 In name:   
  - Plant-Based Beef Lo Mein @ *Lowell Market*  
+ - Beef Gravy @ *Lowell Market*  
   
 In description:   
  - Swiss Steak w/Brown Gravy @ *Lowell Market*  

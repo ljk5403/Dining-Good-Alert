@@ -1,6 +1,6 @@
 # 2025-12-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-05 17:18:18  
+Updated at: 2025-12-05 19:24:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-05)  
 **Shrimp**  
 In name:   
@@ -112,6 +112,7 @@ In name:
   
 In description:   
  - Gnocchi w/ Sausage & Roast Veg @ *Gordon Buona Cucina*  
+ - Egg Roll Egg Bacon & Cheese @ *Gordon Eggcetera*  
   
 **chicken**  
 In name:   

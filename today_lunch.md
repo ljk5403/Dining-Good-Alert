@@ -1,6 +1,6 @@
 # 2025-12-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-05 17:18:16  
+Updated at: 2025-12-05 19:24:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-05)  
 **Shrimp**  
 In name:   
@@ -148,12 +148,6 @@ In name:
 In description:   
  - BYO Bar - Four Lakes Bulgogi @ *Create-A-Bowl*  
   
-**Cod**  
-In name:   
-  
-In description:   
- - Clam Chowder (Pork) @ *Great Greens*  
-  
 **fish**  
 In name:   
   
@@ -180,7 +174,6 @@ In description:
   
 **pork**  
 In name:   
- - Clam Chowder (Pork) @ *Great Greens*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
@@ -189,6 +182,7 @@ In description:
 In name:   
  - Tikka Masala Chicken @ *1849*  
  - Crispy Chicken Sandwich @ *Fired Up*  
+ - Chicken Tortilla Soup @ *Great Greens*  
  - Bulgogi Chicken @ *Create-A-Bowl*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
