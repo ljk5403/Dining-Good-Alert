@@ -1,6 +1,6 @@
 # 2025-12-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-06 14:20:10  
+Updated at: 2025-12-06 15:16:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-06)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-12-06)  
 **watermelon**  
@@ -43,7 +43,6 @@ In description:
   
 **pork**  
 In name:   
- - Coffee Crusted Pork Loin @ *1849*  
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Baked Corn Dog (Pork) @ *Fired Up*  
   
@@ -54,6 +53,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Seasoned Baked Chicken Quarters @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Chicken Tinga @ *Gordon Que Rico*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
@@ -68,6 +68,10 @@ In description:
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
+  
+**Pakoras**  
+In name:   
+ - Appetizer -  Pakoras Vegetable (Veg) @ *1849*  
   
 **beef**  
 In name:   
