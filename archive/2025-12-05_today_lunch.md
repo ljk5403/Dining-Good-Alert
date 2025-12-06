@@ -1,6 +1,6 @@
 # 2025-12-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-06 00:27:33  
+Updated at: 2025-12-06 08:16:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-06)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-12-06)  
 **watermelon**  
@@ -31,7 +31,8 @@ In description:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-12-06)  
 **beef**  
 In name:   
- - Beef Carne Guisada @ *1849*  
+ - Beef Harissa @ *1849*  
+ - Plant-Based Beef Lo Mein @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - BBQ Beef Brisket Sandwich @ *Gordon Fired Up*  
  - Beef Taco Meat @ *Gordon Que Rico*  
