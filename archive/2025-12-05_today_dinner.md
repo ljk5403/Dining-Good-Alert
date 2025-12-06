@@ -1,6 +1,6 @@
 # 2025-12-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-06 15:16:30  
+Updated at: 2025-12-06 16:17:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-06)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-12-06)  
 **watermelon**  
@@ -9,7 +9,9 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Stir Fry @ *Global Kitchen*  
  - Beef Enchilada Bake @ *Global Kitchen*  
+ - Beef Stew w/ Buttermilk Biscuit @ *Global Kitchen*  
   
 **pork**  
 In name:   

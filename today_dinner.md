@@ -1,17 +1,21 @@
 # 2025-12-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-06 16:17:41  
+Updated at: 2025-12-06 17:17:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-06)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-12-06)  
 **watermelon**  
 In name:   
  - Melon Watermelon Whole Sliced @ *Great Greens*  
   
+**curry**  
+In name:   
+ - Beef Curry Stew @ *Global Kitchen*  
+  
 **beef**  
 In name:   
+ - Beef Curry Stew @ *Global Kitchen*  
  - Beef Stir Fry @ *Global Kitchen*  
  - Beef Enchilada Bake @ *Global Kitchen*  
- - Beef Stew w/ Buttermilk Biscuit @ *Global Kitchen*  
   
 **pork**  
 In name:   
