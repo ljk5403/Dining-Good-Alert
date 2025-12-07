@@ -1,6 +1,6 @@
 # 2025-12-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-07 00:27:38  
+Updated at: 2025-12-07 08:16:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-07)  
 **steak**  
 In name:   
@@ -47,6 +47,7 @@ In description:
 In name:   
  - Beef Goulash w/Egg Noodles @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Beef Hot Dog @ *Gordon Fired Up*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
@@ -56,7 +57,6 @@ In description:
   
 **pork**  
 In name:   
- - Chicken Grilled Cordon Bleu (Pork) @ *1849*  
  - Pork Sausage Country Gravy w/ Biscuit @ *Gordon Eggcetera*  
  - Pork Carnita @ *Gordon Que Rico*  
   
@@ -65,7 +65,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Grilled Cordon Bleu (Pork) @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Giardiniera Chicken @ *Gordon Buona Cucina*  
  - Chicken Tortilla Soup @ *Great Greens*  
