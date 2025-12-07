@@ -1,6 +1,6 @@
 # 2025-12-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-07 14:20:08  
+Updated at: 2025-12-07 15:15:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-07)  
 **lamb**  
 In name:   
@@ -52,6 +52,7 @@ In description:
   
 **pork**  
 In name:   
+ - Coffee Crusted Pork Loin @ *1849*  
  - Pork Carnita @ *Gordon Que Rico*  
   
 In description:   
@@ -59,7 +60,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Vera Cruz @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Giardiniera Chicken @ *Gordon Buona Cucina*  
  - Chicken Tortilla Soup @ *Great Greens*  

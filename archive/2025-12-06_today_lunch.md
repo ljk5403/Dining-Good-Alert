@@ -1,6 +1,6 @@
 # 2025-12-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-07 12:26:02  
+Updated at: 2025-12-07 14:20:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-07)  
 **steak**  
 In name:   
@@ -57,7 +57,6 @@ In description:
   
 **pork**  
 In name:   
- - Pork Sausage Country Gravy w/ Biscuit @ *Gordon Eggcetera*  
  - Pork Carnita @ *Gordon Que Rico*  
   
 In description:   
@@ -94,7 +93,6 @@ In name:
  - Pork Sausage Patty @ *Create-A-Bowl*  
   
 In description:   
- - Pizza Breakfast Meat w/Bacon @ *1849*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
