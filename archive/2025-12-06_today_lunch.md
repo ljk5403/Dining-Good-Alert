@@ -1,6 +1,6 @@
 # 2025-12-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-07 10:21:41  
+Updated at: 2025-12-07 11:15:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-07)  
 **steak**  
 In name:   
@@ -90,7 +90,6 @@ In description:
 **pork**  
 In name:   
  - Pork Sausage Patties @ *1849*  
- - Chicken Supreme Sandwich w/ Bacon (Pork) @ *Fired Up*  
  - Pork Carnita @ *Que Rico*  
  - Pork Sausage Patty @ *Create-A-Bowl*  
   
@@ -100,7 +99,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Supreme Sandwich w/ Bacon (Pork) @ *Fired Up*  
  - Plant Based Chicken Strips @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Chicken Tortilla Soup @ *Great Greens*  
@@ -116,15 +114,13 @@ In name:
   
 In description:   
  - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza:  Available Between 11am-4pm*  
- - Chicago-Style Hot Dog @ *Fired Up:  Available Between 11am-2pm*  
+ - Mushroom Swiss Blended Burger @ *Fired Up:  Available Between 11am-2pm*  
   
 **pork**  
 In name:   
  - Island Spiced Pork w/ Pineapple Salsa @ *Carson's 1849:  Available Between 11am-2pm*  
+ - Pizza Slice Sausage (Pork) @ *Capital City Pizza:  Available Between 11am-4pm*  
  - Pork Sausage Patty @ *Eggcetera:  Available Between 11am-2pm*  
-  
-In description:   
- - Pizza Slice Sausage @ *Capital City Pizza:  Available Between 11am-4pm*  
   
 **chicken**  
 In name:   
