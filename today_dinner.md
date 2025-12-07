@@ -1,6 +1,6 @@
 # 2025-12-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-06 17:17:33  
+Updated at: 2025-12-06 19:45:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-06)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-12-06)  
 **watermelon**  
@@ -11,29 +11,36 @@ In name:
 In name:   
  - Beef Curry Stew @ *Global Kitchen*  
   
+In description:   
+ - Tikka Masala Chicken @ *Global Kitchen*  
+  
 **beef**  
 In name:   
+ - Beef & Tater Tot Bake @ *Global Kitchen*  
  - Beef Curry Stew @ *Global Kitchen*  
- - Beef Stir Fry @ *Global Kitchen*  
  - Beef Enchilada Bake @ *Global Kitchen*  
   
 **pork**  
 In name:   
   
 In description:   
+ - Chicken Sausage Gumbo @ *Global Kitchen*  
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 **chicken**  
 In name:   
+ - Chicken Sausage Gumbo @ *Global Kitchen*  
+ - Tikka Masala Chicken @ *Global Kitchen*  
+ - Greek Lemon Chicken w/ Rice @ *Global Kitchen*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-12-06)  
-**Shrimp**  
+**Cod**  
 In name:   
- - Popcorn Shrimp Basket @ *1849*  
+ - Battered Cod @ *1849*  
   
 **beef**  
 In name:   
@@ -79,6 +86,10 @@ In name:
 In name:   
  - Appetizer -  Pakoras Vegetable (Veg) @ *1849*  
   
+**Shrimp**  
+In name:   
+ - Fried Popcorn Shrimp @ *Fired Up*  
+  
 **beef**  
 In name:   
  - Beef Taco Meat @ *Que Rico*  
@@ -91,7 +102,6 @@ In description:
   
 **chicken**  
 In name:   
- - Popcorn Chicken @ *Fired Up*  
  - Plant-Based Chicken Nuggets (6) @ *Fired Up*  
  - Giardiniera Chicken @ *Global Kitchen*  
  - Spicy Lo Mein w/Chicken @ *1849*  
