@@ -1,6 +1,6 @@
 # 2025-12-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-08 12:30:37  
+Updated at: 2025-12-08 14:22:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-08)  
 **beef**  
 In name:   
@@ -97,6 +97,10 @@ In description:
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-12-08)  
+**Bulgogi**  
+In name:   
+ - Bulgogi Beef @ *Que Rico*  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -125,12 +129,11 @@ In name:
  - Curry Potatoes @ *Que Rico*  
   
 In description:   
- - Tikka Masala Chicken @ *Que Rico*  
  - Tofu & Vegetable Tikka Masala @ *Que Rico*  
   
 **beef**  
 In name:   
- - Beef Goulash w/Egg Noodles @ *1849*  
+ - Bulgogi Beef @ *Que Rico*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
@@ -144,8 +147,8 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Pot Pie w/ Biscuit @ *1849*  
  - Chicken Fajita Torta @ *Fired Up*  
- - Tikka Masala Chicken @ *Que Rico*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 In description:   
@@ -192,6 +195,12 @@ In name:
  - Blackened Chicken Sandwich @ *Fired Up:  Available Between 11am-2pm*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-12-08)  
+**fish**  
+In name:   
+  
+In description:   
+ - Crab Rangoon @ *Lowell Market*  
+  
 **curry**  
 In name:   
   
