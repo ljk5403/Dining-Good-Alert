@@ -1,6 +1,6 @@
 # 2025-12-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-07 17:17:05  
+Updated at: 2025-12-07 19:38:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-07)  
 **lamb**  
 In name:   
@@ -63,7 +63,7 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Giardiniera Chicken @ *Gordon Buona Cucina*  
  - Chicken Tortilla Soup @ *Great Greens*  
- - Spicy Crispy Chicken Sandwich @ *Fired Up*  
+ - Breaded Chicken Tenders @ *Fired Up*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
@@ -117,7 +117,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Meatloaf @ *Carson's 1849*  
  - Beef Gravy @ *Carson's 1849*  
   
 In description:   
