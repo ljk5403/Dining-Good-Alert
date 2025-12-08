@@ -1,6 +1,6 @@
 # 2025-12-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-08 08:21:52  
+Updated at: 2025-12-08 09:22:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-08)  
 **beef**  
 In name:   
@@ -197,9 +197,11 @@ In name:
   
 In description:   
  - Chana Saag w/ Tofu @ *Lowell Market*  
+ - Chicken Tikka Masala @ *Lowell Market*  
   
 **beef**  
 In name:   
+ - Beef Chili @ *Great Greens*  
  - Beef Stir Fry w/ Snow Peas @ *Lowell Market*  
   
 **pork**  
@@ -208,7 +210,7 @@ In name:
   
 **chicken**  
 In name:   
- - Lemon Chicken Rice Soup @ *Great Greens*  
  - Brazilian Chicken w/ Salsa Vinaigrette @ *Lowell Market*  
+ - Chicken Tikka Masala @ *Lowell Market*  
   
   
