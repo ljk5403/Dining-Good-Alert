@@ -1,6 +1,6 @@
 # 2025-12-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-09 15:17:30  
+Updated at: 2025-12-09 16:19:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-09)  
 **Samosas**  
 In name:   
@@ -24,14 +24,13 @@ In description:
   
 **curry**  
 In name:   
- - Plant-Based Beef Curry Squash @ *Global Kitchen*  
+ - Indian Curry Garbanzo Beans @ *Global Kitchen*  
   
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Beef Street Taco @ *Fired Up*  
  - Beef Vindaloo @ *Global Kitchen*  
- - Plant-Based Beef Curry Squash @ *Global Kitchen*  
  - Mediterranean Beef @ *Que Rico*  
   
 In description:   
@@ -125,7 +124,7 @@ In name:
   
 **chicken**  
 In name:   
- - Baked BBQ Chicken @ *1849*  
+ - Greek Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Chicken Fajitas w/Rice & Beans @ *Gordon Que Rico*  
@@ -199,6 +198,10 @@ In description:
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-12-09)  
+**steak**  
+In name:   
+ - Swiss Steak w/Brown Gravy @ *Lowell Market*  
+  
 **lamb**  
 In name:   
  - Leg of Lamb @ *Lowell Market*  
@@ -206,6 +209,9 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Lowell Market*  
+  
+In description:   
+ - Swiss Steak w/Brown Gravy @ *Lowell Market*  
   
 **pork**  
 In name:   

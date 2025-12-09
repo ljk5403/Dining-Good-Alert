@@ -1,6 +1,6 @@
 # 2025-12-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-09 14:20:13  
+Updated at: 2025-12-09 15:17:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-09)  
 **Samosas**  
 In name:   
@@ -145,20 +145,6 @@ In description:
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
-  
-**Salmon**  
-In name:   
- - Smoked Salmon @ *1849*  
-  
-**Shrimp**  
-In name:   
- - Fried Popcorn Shrimp @ *1849*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Smoked Salmon @ *1849*  
   
 **lamb**  
 In name:   
