@@ -1,6 +1,6 @@
 # 2025-12-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-08 16:18:57  
+Updated at: 2025-12-08 17:19:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-08)  
 **fish**  
 In name:   
@@ -184,13 +184,12 @@ In name:
 In description:   
  - Pepper Steak Stir Fry @ *Global*  
  - Mushroom Swiss Blended Burger @ *Fired Up*  
- - Cocktail Smokies (Pork) @ *Eggcetera*  
   
 **pork**  
 In name:   
  - Hawaiian (Pork) Pizza Slice @ *Capital City Pizza*  
  - BBQ Pork Chop @ *Carson's 1849*  
- - Cocktail Smokies (Pork) @ *Eggcetera*  
+ - Italian Pork Sausage @ *Eggcetera*  
   
 In description:   
  - Andouille Sausage @ *Eggcetera*  
@@ -199,9 +198,6 @@ In description:
 In name:   
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - App Chicken Popcorn - BYO Bar @ *Eggcetera*  
-  
-In description:   
- - Cocktail Smokies (Pork) @ *Eggcetera*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-12-08)  
 **Salmon**  

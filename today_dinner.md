@@ -1,6 +1,6 @@
 # 2025-12-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-08 17:19:02  
+Updated at: 2025-12-08 19:37:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-08)  
 **fish**  
 In name:   
@@ -14,11 +14,11 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Stroganoff Creamy @ *1849*  
  - Beef Ravioli Plain @ *Buona Cucina*  
   
 **pork**  
 In name:   
- - Cajun Rice w/ Pork & Black Eyed Peas @ *1849*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
  - BBQ Pork Sandwich @ *Fired Up*  
   
@@ -27,10 +27,10 @@ In description:
   
 **chicken**  
 In name:   
- - Blackened Chicken @ *1849*  
+ - Za'tar and Lemon Grilled Chicken @ *1849*  
  - Diced Chicken Breast @ *Buona Cucina*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
- - Chicken Enchilada Bake @ *Que Rico*  
+ - Chicken Tinga @ *Que Rico*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
@@ -200,15 +200,11 @@ In name:
  - App Chicken Popcorn - BYO Bar @ *Eggcetera*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-12-08)  
-**Salmon**  
-In name:   
- - Hoisin BBQ Glazed Salmon @ *Lowell Market*  
-  
 **fish**  
 In name:   
   
 In description:   
- - Hoisin BBQ Glazed Salmon @ *Lowell Market*  
+ - Crab Rangoon @ *Lowell Market*  
   
 **curry**  
 In name:   
