@@ -1,6 +1,6 @@
 # 2025-12-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-09 10:26:42  
+Updated at: 2025-12-09 11:20:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-09)  
 **Samosas**  
 In name:   
@@ -91,9 +91,6 @@ In name:
 In name:   
  - Beef Steak Fajita Plate w/Rice & Beans @ *Gordon Que Rico*  
   
-In description:   
- - Pizza Slice Italian Beef @ *Gordon Capital City Pizza*  
-  
 **Shrimp**  
 In name:   
   
@@ -113,10 +110,10 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Pizza Slice Italian Beef @ *Gordon Capital City Pizza*  
  - Beef Steak Fajita Plate w/Rice & Beans @ *Gordon Que Rico*  
   
 In description:   
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Pizza Slice Deluxe (Pork) @ *Gordon Capital City Pizza*  
   
 **pork**  
@@ -135,6 +132,7 @@ In name:
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
   
 In description:   
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Pizza Slice Deluxe (Pork) @ *Gordon Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-12-09)  
