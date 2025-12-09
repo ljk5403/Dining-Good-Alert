@@ -1,6 +1,6 @@
 # 2025-12-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-09 10:26:38  
+Updated at: 2025-12-09 11:20:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-09)  
 **portabella**  
 In name:   
@@ -88,12 +88,6 @@ In name:
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-12-09)  
-**steak**  
-In name:   
-  
-In description:   
- - Pizza Slice Italian Beef @ *Gordon Capital City Pizza*  
-  
 **Shrimp**  
 In name:   
   
@@ -110,10 +104,10 @@ In description:
 In name:   
  - Beef Tri Tip Carved w/ Chimichurri @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Pizza Slice Italian Beef @ *Gordon Capital City Pizza*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Pizza Slice Deluxe (Pork) @ *Gordon Capital City Pizza*  
  - Pork Bratwurst Sandwich @ *Gordon Fired Up*  
   
@@ -132,6 +126,7 @@ In name:
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
   
 In description:   
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Pizza Slice Deluxe (Pork) @ *Gordon Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-12-09)  
@@ -212,6 +207,10 @@ In name:
   
 In description:   
  - Grilled Blended Burger w/ Cheese @ *Lowell Market*  
+  
+**pork**  
+In name:   
+ - BBQ Pork Chop @ *Lowell Market*  
   
 **chicken**  
 In name:   
