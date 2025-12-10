@@ -1,6 +1,6 @@
 # 2025-12-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-09 17:19:37  
+Updated at: 2025-12-09 19:40:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-09)  
 **Samosas**  
 In name:   
@@ -108,6 +108,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Goulash @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Steak Fajita Plate w/Rice & Beans @ *Gordon Que Rico*  
   
@@ -118,16 +119,15 @@ In description:
 **pork**  
 In name:   
  - BBQ Pork Chop @ *1849*  
+ - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Pizza Slice Deluxe (Pork) @ *Gordon Capital City Pizza*  
+ - Pork Carnita @ *Gordon Que Rico*  
  - Filipino Pork Sausage @ *Gordon Eggcetera*  
  - FiIipino Pork Spring Roll @ *Gordon Eggcetera*  
   
 **chicken**  
 In name:   
- - Greek Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
- - Chicken Fajitas w/Rice & Beans @ *Gordon Que Rico*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
   
 In description:   
@@ -144,6 +144,14 @@ In description:
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
+  
+**Pakoras**  
+In name:   
+ - Appetizer -  Pakoras Vegetable (Veg) @ *Create-A-Bowl*  
+  
+**Shrimp**  
+In name:   
+ - Redhook Ale Breaded Shrimp @ *1849*  
   
 **lamb**  
 In name:   

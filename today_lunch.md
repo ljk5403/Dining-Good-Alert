@@ -1,6 +1,6 @@
 # 2025-12-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-09 17:19:30  
+Updated at: 2025-12-09 19:40:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-09)  
 **portabella**  
 In name:   
@@ -141,6 +141,7 @@ In name:
 In name:   
  - Beef Pita Kabaub @ *1849*  
  - Beef Taco Meat @ *Que Rico*  
+ - Beef & Bean Chili @ *Great Greens*  
  - Mediterranean Beef @ *Create-A-Bowl*  
   
 In description:   
@@ -158,7 +159,6 @@ In description:
 In name:   
  - Chicken Breast w/Red Pepper Cream @ *1849*  
  - Italian Chicken @ *Global Kitchen*  
- - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
  - Mediterranean Chicken @ *Create-A-Bowl*  
   
 In description:   
