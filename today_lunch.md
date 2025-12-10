@@ -1,6 +1,6 @@
 # 2025-12-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-10 00:32:12  
+Updated at: 2025-12-10 08:22:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-10)  
 **beef**  
 In name:   
@@ -53,13 +53,6 @@ In name:
 **Tilapia**  
 In name:   
  - Blackened Tilapia @ *1849*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - California Roll  (FujiSan) @ *Gordon Global Kitchen*  
- - Tempura Roll (FujiSan) @ *Gordon Global Kitchen*  
   
 **beef**  
 In name:   
