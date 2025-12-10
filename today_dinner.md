@@ -1,6 +1,6 @@
 # 2025-12-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-10 14:24:02  
+Updated at: 2025-12-10 15:21:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-10)  
 **drumstick**  
 In name:   
@@ -167,6 +167,10 @@ In description:
 In name:   
  - Baked Tilapia w/Dill Wine Sauce @ *Lowell Market*  
   
+**lamb**  
+In name:   
+ - Leg of Lamb @ *Lowell Market*  
+  
 **beef**  
 In name:   
  - Beef & Bean Chili @ *Great Greens*  
@@ -175,5 +179,7 @@ In name:
 **chicken**  
 In name:   
  - Baked Chicken Fillet @ *Lowell Market*  
+ - Brazilian Chicken w/ Salsa Vinaigrette @ *Lowell Market*  
+ - Chicken Piccata @ *Lowell Market*  
   
   
