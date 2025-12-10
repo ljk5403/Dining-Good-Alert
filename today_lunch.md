@@ -1,6 +1,6 @@
 # 2025-12-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-10 10:27:20  
+Updated at: 2025-12-10 11:21:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-10)  
 **beef**  
 In name:   
@@ -92,7 +92,6 @@ In name:
 **steak**  
 In name:   
  - Country Fried Steak @ *1849*  
- - Ham Steak @ *1849*  
   
 **Tuna**  
 In name:   
@@ -115,7 +114,6 @@ In name:
  - Cuban Pork Sandwich @ *Fired Up*  
   
 In description:   
- - Ham Steak @ *1849*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
@@ -162,11 +160,16 @@ In name:
 In name:   
  - Blackened Catfish @ *Lowell Market*  
   
+**lamb**  
+In name:   
+ - Leg of Lamb @ *Lowell Market*  
+  
 **curry**  
 In name:   
   
 In description:   
  - Curried Yucca Root @ *Lowell Market*  
+ - Navarathan Korma (AYCTE) @ *Lowell Market*  
   
 **beef**  
 In name:   

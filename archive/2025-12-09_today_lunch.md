@@ -1,6 +1,6 @@
 # 2025-12-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-10 09:24:22  
+Updated at: 2025-12-10 10:27:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-10)  
 **beef**  
 In name:   
@@ -78,7 +78,6 @@ In name:
  - Chicken Gravy @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Orange Sweet & Spicy Chicken @ *Gordon Global Kitchen*  
- - Plant Based Sweet & Sour Chicken @ *Gordon Global Kitchen*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-12-10)  
