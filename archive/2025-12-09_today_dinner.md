@@ -1,6 +1,6 @@
 # 2025-12-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-10 16:19:39  
+Updated at: 2025-12-10 17:17:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-10)  
 **drumstick**  
 In name:   
@@ -140,7 +140,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef & Bean Chili @ *Great Greens*  
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
@@ -155,6 +154,7 @@ In name:
 **chicken**  
 In name:   
  - Greek Chicken @ *Carson's 1849*  
+ - Chicken Tortilla Soup @ *Great Greens*  
  - Buffalo Chicken Sliders @ *Fired Up*  
   
 In description:   

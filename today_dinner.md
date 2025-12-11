@@ -1,6 +1,6 @@
 # 2025-12-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-10 17:17:15  
+Updated at: 2025-12-10 19:40:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-10)  
 **drumstick**  
 In name:   
@@ -177,7 +177,6 @@ In name:
 **chicken**  
 In name:   
  - Baked Chicken Fillet @ *Lowell Market*  
- - Brazilian Chicken w/ Salsa Vinaigrette @ *Lowell Market*  
  - Chicken Piccata @ *Lowell Market*  
   
   
