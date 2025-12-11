@@ -1,6 +1,6 @@
 # 2025-12-11 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-11 12:29:47  
+Updated at: 2025-12-11 14:23:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-11)  
 **Tuna**  
 In name:   
@@ -131,7 +131,6 @@ In name:
 In name:   
   
 In description:   
- - Thai BBQ Pork Ribs @ *1849*  
  - Beef Masaman Thai Curry @ *1849*  
   
 **curry**  
@@ -148,7 +147,7 @@ In description:
   
 **pork**  
 In name:   
- - Thai BBQ Pork Ribs @ *1849*  
+ - Coffee Crusted Pork Loin @ *1849*  
   
 In description:   
  - Andouille Sausage @ *Global Kitchen*  

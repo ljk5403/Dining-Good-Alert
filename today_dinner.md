@@ -1,6 +1,6 @@
 # 2025-12-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-11 12:29:51  
+Updated at: 2025-12-11 14:23:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-11)  
 **drumstick**  
 In name:   
@@ -61,10 +61,6 @@ In name:
  - Portabella Mushroom Bulgogi Tacos @ *Gordon Global Kitchen*  
  - Beef Bulgogi Tacos @ *Gordon Global Kitchen*  
   
-**Tandoori Chicken**  
-In name:   
- - Grilled Tandoori Chicken Sandwich @ *Fired Up*  
-  
 **Salmon**  
 In name:   
  - Smoked Salmon & Caper Cream Cheese @ *Gordon Delicious*  
@@ -93,6 +89,7 @@ In name:
   
 In description:   
  - Chicago-Style Hot Dog @ *Gordon Eggcetera*  
+ - Italian Meatball Sandwich @ *Fired Up*  
   
 **pork**  
 In name:   
@@ -108,7 +105,9 @@ In name:
  - Mediterranean Chicken @ *Gordon Buona Cucina*  
  - Pizza Slice Chicken Broccoli Alfredo @ *Gordon Capital City Pizza*  
  - Chicken Noodle Soup @ *Great Greens*  
- - Grilled Tandoori Chicken Sandwich @ *Fired Up*  
+  
+In description:   
+ - Italian Meatball Sandwich @ *Fired Up*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-12-11)  
 **Vanilla Coconut Milk Yogurt**  
