@@ -1,6 +1,6 @@
 # 2025-12-11 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-11 00:33:16  
+Updated at: 2025-12-11 08:21:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-11)  
 **Tuna**  
 In name:   
@@ -66,6 +66,10 @@ In description:
 In name:   
  - Portabella Mushroom Bulgogi Tacos @ *Gordon Global Kitchen*  
  - Beef Bulgogi Tacos @ *Gordon Global Kitchen*  
+  
+**Salmon**  
+In name:   
+ - Smoked Salmon & Caper Cream Cheese @ *Gordon Delicious*  
   
 **Shrimp**  
 In name:   
