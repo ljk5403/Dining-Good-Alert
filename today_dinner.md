@@ -1,10 +1,14 @@
 # 2025-12-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-11 15:21:39  
+Updated at: 2025-12-11 16:19:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-11)  
 **drumstick**  
 In name:   
  - Chicken Drumstick Szechuan Glazed @ *1849*  
+  
+**steak**  
+In name:   
+ - Island Spiced Beef Steak @ *1849*  
   
 **fish**  
 In name:   
@@ -14,6 +18,7 @@ In description:
   
 **beef**  
 In name:   
+ - Island Spiced Beef Steak @ *1849*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Mediterranean Beef @ *Que Rico*  
   
@@ -23,7 +28,6 @@ In description:
   
 **pork**  
 In name:   
- - Pork Belly Char Sui @ *1849*  
  - Pork Carnita Torta @ *Fired Up*  
   
 **chicken**  
@@ -94,6 +98,7 @@ In description:
 **pork**  
 In name:   
  - Herb Crusted Pork Loin @ *1849*  
+ - Pork Italian Sausage @ *Gordon Buona Cucina*  
   
 In description:   
  - Pizza Breakfast Meat w/Bacon @ *Gordon Capital City Pizza*  
@@ -102,7 +107,6 @@ In description:
 In name:   
  - Blackened Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Mediterranean Chicken @ *Gordon Buona Cucina*  
  - Pizza Slice Chicken Broccoli Alfredo @ *Gordon Capital City Pizza*  
  - Chicken Noodle Soup @ *Great Greens*  
   
@@ -137,7 +141,7 @@ In name:
   
 **beef**  
 In name:   
- - Beef Meatloaf @ *1849*  
+ - Beef & Tater Tot Bake @ *1849*  
   
 In description:   
  - Pork Bratwurst Sandwich @ *Fired Up*  
