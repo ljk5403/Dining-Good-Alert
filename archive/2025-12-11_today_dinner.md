@@ -1,6 +1,6 @@
 # 2025-12-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-12 14:22:31  
+Updated at: 2025-12-12 15:17:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-12)  
 **Shrimp**  
 In name:   
@@ -33,6 +33,7 @@ In name:
 In name:   
  - Diced Chicken Breast @ *Buona Cucina*  
  - Chicken Fajita Meat @ *Que Rico*  
+ - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-12-12)  
