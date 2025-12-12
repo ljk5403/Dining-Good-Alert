@@ -1,6 +1,6 @@
 # 2025-12-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-12 12:31:06  
+Updated at: 2025-12-12 14:22:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-12)  
 **Shrimp**  
 In name:   
@@ -18,6 +18,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Taco Meat @ *Que Rico*  
   
 In description:   
  - Burnt Ends @ *1849*  
@@ -31,7 +32,7 @@ In name:
 **chicken**  
 In name:   
  - Diced Chicken Breast @ *Buona Cucina*  
- - Chicken Peruvian w/ Rice @ *Que Rico*  
+ - Chicken Fajita Meat @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-12-12)  
@@ -123,6 +124,7 @@ In name:
  - Shredded Beef Flauta @ *Gordon Que Rico*  
   
 In description:   
+ - Italian Meat Sauce @ *Gordon Buona Cucina*  
  - Kielbasa with Pierogis @ *Gordon Eggcetera*  
   
 **pork**  
