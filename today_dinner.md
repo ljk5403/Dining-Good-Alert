@@ -1,6 +1,6 @@
 # 2025-12-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-12 16:19:10  
+Updated at: 2025-12-12 17:18:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-12)  
 **Shrimp**  
 In name:   
@@ -126,15 +126,13 @@ In name:
   
 In description:   
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
- - Kielbasa with Pierogis @ *Gordon Eggcetera*  
+ - Sliced Kielbasa (Pork) @ *Gordon Eggcetera*  
   
 **pork**  
 In name:   
  - Tavern Style Sausage Pizza (Pork) @ *Gordon Capital City Pizza*  
  - Clam Chowder (Pork) @ *Great Greens*  
-  
-In description:   
- - Kielbasa with Pierogis @ *Gordon Eggcetera*  
+ - Sliced Kielbasa (Pork) @ *Gordon Eggcetera*  
   
 **chicken**  
 In name:   
