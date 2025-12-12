@@ -1,6 +1,6 @@
 # 2025-12-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-11 17:18:55  
+Updated at: 2025-12-11 19:40:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-11)  
 **drumstick**  
 In name:   
@@ -89,7 +89,6 @@ In description:
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Bulgogi Tacos @ *Gordon Global Kitchen*  
- - Beef Enchilada Bake @ *Gordon Que Rico*  
   
 In description:   
  - Chicago-Style Hot Dog @ *Gordon Eggcetera*  
@@ -97,8 +96,9 @@ In description:
   
 **pork**  
 In name:   
- - Herb Crusted Pork Loin @ *1849*  
+ - Coffee Crusted Pork Loin @ *1849*  
  - Pork Italian Sausage @ *Gordon Buona Cucina*  
+ - Pork Carnita @ *Gordon Que Rico*  
   
 In description:   
  - Pizza Breakfast Meat w/Bacon @ *Gordon Capital City Pizza*  
