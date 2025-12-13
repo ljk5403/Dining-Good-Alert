@@ -1,6 +1,6 @@
 # 2025-12-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-13 11:16:34  
+Updated at: 2025-12-13 12:25:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-13)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-12-13)  
 **watermelon**  
@@ -22,12 +22,6 @@ In description:
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-12-13)  
-**portabella**  
-In name:   
-  
-In description:   
- - Vegan French Dip Sandwich @ *Gordon Fired Up*  
-  
 **Shrimp**  
 In name:   
  - Coconut Shrimp @ *1849*  
@@ -105,7 +99,7 @@ In description:
   
 **chicken**  
 In name:   
- - Italian Chicken @ *Global Kitchen*  
+ - Giardiniera Chicken @ *Global Kitchen*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Create-A-Bowl*  
   
 In description:   
