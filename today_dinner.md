@@ -1,6 +1,6 @@
 # 2025-12-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-12 17:18:59  
+Updated at: 2025-12-12 19:26:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-12)  
 **Shrimp**  
 In name:   
@@ -18,7 +18,7 @@ In name:
   
 **beef**  
 In name:   
- - Beef Taco Meat @ *Que Rico*  
+ - Beef Barbacoa @ *Que Rico*  
   
 In description:   
  - Burnt Ends @ *1849*  
@@ -27,6 +27,7 @@ In description:
 **pork**  
 In name:   
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
+ - Pork Carnita @ *Que Rico*  
  - Clam Chowder (Pork) @ *Great Greens*  
   
 **chicken**  
@@ -86,10 +87,6 @@ In name:
 In name:   
  - Shredded Beef Flauta @ *Gordon Que Rico*  
  - Chicken and Cheese Flauta @ *Gordon Que Rico*  
-  
-**corn bake**  
-In name:   
- - Sweet Corn Bake (Veg) @ *1849*  
   
 **Shrimp**  
 In name:   
@@ -162,7 +159,6 @@ In name:
   
 **Shrimp**  
 In name:   
- - Blackened Shrimp @ *1849*  
   
 In description:   
  - BYO Bar - Four Lakes Bulgogi @ *Create-A-Bowl*  
@@ -191,16 +187,15 @@ In description:
   
 **beef**  
 In name:   
- - Beef Fajita Meat @ *Global Kitchen*  
  - Bulgogi Beef @ *Create-A-Bowl*  
   
 In description:   
- - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Que Rico*  
+ - Pepperoni Pizza Slice @ *Que Rico*  
   
 **pork**  
 In name:   
  - New Orleans Turkey Melt w/ Pork @ *Fired Up*  
- - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Que Rico*  
+ - Andouille Pork Sausage @ *Global Kitchen*  
  - Clam Chowder (Pork) @ *Great Greens*  
   
 **chicken**  
@@ -208,7 +203,7 @@ In name:
  - Bulgogi Chicken @ *Create-A-Bowl*  
   
 In description:   
- - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Que Rico*  
+ - Pepperoni Pizza Slice @ *Que Rico*  
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-12-12)  
