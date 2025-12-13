@@ -1,6 +1,6 @@
 # 2025-12-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-13 08:17:17  
+Updated at: 2025-12-13 09:18:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-13)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-12-13)  
 **watermelon**  
@@ -88,6 +88,8 @@ In name:
 **beef**  
 In name:   
  - Beef Taco Meat @ *Que Rico*  
+ - Beef Barbacoa @ *Que Rico*  
+ - Beef Chili @ *Great Greens*  
   
 In description:   
  - Grilled Blended Burger w/ Cheese @ *Fired Up*  
@@ -98,19 +100,16 @@ In name:
   
 In description:   
  - Andouille Sausage @ *1849*  
- - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Ham Steak @ *Create-A-Bowl*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
 In name:   
  - Giardiniera Chicken @ *Global Kitchen*  
- - Taco Chicken @ *Que Rico*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Create-A-Bowl*  
   
 In description:   
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
- - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-12-13)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-12-13)  
