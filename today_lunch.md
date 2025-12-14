@@ -1,6 +1,6 @@
 # 2025-12-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-14 16:18:02  
+Updated at: 2025-12-14 17:17:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-14)  
 **Tuna**  
 In name:   
@@ -84,6 +84,7 @@ In name:
  - Pork Sausage Patty @ *Create-A-Bowl*  
   
 In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
@@ -92,10 +93,10 @@ In name:
  - Grilled Chicken Sandwich @ *Fired Up*  
  - Plant Based Chicken Strips @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
- - Chicken Tortilla Soup @ *Great Greens*  
   
 In description:   
  - Station Recipe - Great Greens - FLM @ *Great Greens*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-12-14)  
 **Vanilla Coconut Milk Yogurt**  
