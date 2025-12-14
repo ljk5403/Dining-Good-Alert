@@ -1,6 +1,6 @@
 # 2025-12-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-14 11:16:36  
+Updated at: 2025-12-14 12:27:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-14)  
 **Tuna**  
 In name:   
@@ -124,7 +124,7 @@ In description:
 In name:   
  - Chicken Gravy @ *Carson's 1849:  Available Between 11am-2pm*  
  - Chicken Baked  (1 piece) @ *Carson's 1849:  Available Between 11am-2pm*  
- - Lemon Chicken Rice Soup @ *Great Greens:  Available Between 11am-4pm*  
+ - Cream of Chicken & Wild Rice Soup @ *Great Greens:  Available Between 11am-4pm*  
   
 In description:   
  - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza:  Available Between 11am-4pm*  
