@@ -1,40 +1,42 @@
-# 2025-12-13 dinner  
+# 2025-12-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-13 19:46:07  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-13)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-12-13)  
-**watermelon**  
+Updated at: 2025-12-14 00:29:23  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-14)  
+**Cod**  
 In name:   
- - Melon Watermelon Whole Sliced @ *Great Greens*  
+ - Baked Cod Fillet w/Butter & Lemon @ *1849*  
   
-**steak**  
+**Tuna**  
 In name:   
- - Pepper Steak Stir Fry @ *Global Kitchen*  
+ - Lemon Pepper Tuna Salad @ *Delicious*  
+  
+**curry**  
+In name:   
+ - Ground Beef Curry @ *Global Kitchen*  
+ - Curry Cauliflower & Butternut Squash @ *Global Kitchen*  
   
 **beef**  
 In name:   
+ - Ground Beef Curry @ *Global Kitchen*  
   
 In description:   
- - Pepper Steak Stir Fry @ *Global Kitchen*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  
 In name:   
-  
-In description:   
- - Kale, Sausage & Potato Soup @ *Great Greens*  
+ - Italian Pork Sausage @ *Buona Cucina*  
   
 **chicken**  
 In name:   
- - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Chicken & Vegetables w/Dijon Vinaigrette @ *1849*  
+ - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
+ - Chicken Tortilla Soup @ *Great Greens*  
   
 In description:   
- - Kale, Sausage & Potato Soup @ *Great Greens*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-12-13)  
-**Shrimp**  
-In name:   
- - Shrimp Creole @ *1849*  
-  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2025-12-14)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-12-14)  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
@@ -43,64 +45,112 @@ In name:
 In description:   
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
- - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
- - Chicago-Style Hot Dog @ *Fired Up*  
+ - Vegan Taco Filling @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
- - Italian Pork Sausage @ *Gordon Buona Cucina*  
+ - Biscuits & Pork Gravy @ *1849*  
+ - Pork Carnita @ *Gordon Que Rico*  
   
 In description:   
- - Chicken Sausage Gumbo @ *1849*  
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
- - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 **chicken**  
 In name:   
- - Chicken Sausage Gumbo @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Chicken Tinga @ *Gordon Que Rico*  
- - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
- - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
+ - Giardiniera Chicken @ *Gordon Buona Cucina*  
+ - Chicken Tortilla Soup @ *Great Greens*  
+ - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
- - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
- - Kale, Sausage & Potato Soup @ *Great Greens*  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-12-13)  
-**Vanilla Coconut Milk Yogurt**  
-In name:   
-  
-In description:   
- - Great Greans - Yogurt Bar @ *Great Greens*  
-  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-12-14)  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**steak**  
+In name:   
+ - Brazilian Flank Steak @ *1849*  
+  
+**Cod**  
+In name:   
+ - Caribbean Cod @ *1849*  
+ - Battered Cod @ *1849*  
+  
+**curry**  
+In name:   
+  
+In description:   
+ - Chana Saag w/ Tofu @ *1849*  
+  
 **beef**  
 In name:   
+ - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
+  
+In description:   
+ - Polish Combo Blended Cheeseburger (Pork) @ *Fired Up*  
+ - Brazilian Flank Steak @ *1849*  
+  
+**pork**  
+In name:   
+ - Polish Combo Blended Cheeseburger (Pork) @ *Fired Up*  
+ - Pork Carnita @ *Que Rico*  
+  
+**chicken**  
+In name:   
+ - Beef & Chicken Meatballs @ *Global Kitchen*  
+ - Plant Based Chicken Strips @ *Global Kitchen*  
+ - Chicken Tortilla Soup @ *Great Greens*  
+  
+In description:   
+ - Station Recipe - Great Greens - FLM @ *Great Greens*  
+  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-12-14)  
+**portabella**  
+In name:   
+  
+In description:   
+ - Portobello Lasagna @ *Global*  
+  
+**Chicken Drummies**  
+In name:   
+ - Chicken Drummies @ *Eggcetera*  
+  
+**Salmon**  
+In name:   
+ - Blackened Salmon @ *Carson's 1849*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Blackened Salmon @ *Carson's 1849*  
+  
+**beef**  
+In name:   
+ - Homemade Beef Lasagna @ *Global*  
+  
+In description:   
+ - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza*  
+ - Chicago-Style Hot Dog @ *Fired Up*  
   
 **pork**  
 In name:   
   
 In description:   
- - Kale, Sausage & Potato Soup @ *Great Greens*  
+ - Pizza Slice Sausage @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
- - Chicken Tenders Breaded @ *Fired Up*  
- - Plant-Based Chicken Nuggets (6) @ *Fired Up*  
- - Giardiniera Chicken @ *Global Kitchen*  
- - General Tso's Chicken @ *1849*  
- - Taco Chicken @ *Que Rico*  
+ - Lemon Chicken Rice Soup @ *Great Greens*  
+ - Chicken Drummies @ *Eggcetera*  
   
 In description:   
- - Station Recipe - Great Greens - FLM @ *Great Greens*  
- - Kale, Sausage & Potato Soup @ *Great Greens*  
+ - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza*  
+ - Great Greens @ *Great Greens*  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-12-13)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-12-13)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-12-14)  
   
