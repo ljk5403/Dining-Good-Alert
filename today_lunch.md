@@ -1,6 +1,6 @@
 # 2025-12-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-14 12:27:39  
+Updated at: 2025-12-14 14:21:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-14)  
 **Tuna**  
 In name:   
@@ -11,15 +11,14 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
- - Pastrami & Swiss Sandwich @ *Fired Up*  
   
 **pork**  
 In name:   
- - Baked Rigatoni w/ Pork Italian Sausage @ *1849*  
  - Pork Sausage Patty @ *Buona Cucina*  
   
 **chicken**  
 In name:   
+ - Jamaican Jerk Chicken @ *1849*  
  - Chicken Tortilla Soup @ *Great Greens*  
   
 In description:   
@@ -45,7 +44,7 @@ In description:
   
 **pork**  
 In name:   
- - Baked Pork Ham @ *1849*  
+ - Coffee Crusted Pork Loin @ *1849*  
  - Pork Carnita @ *Gordon Que Rico*  
   
 In description:   
