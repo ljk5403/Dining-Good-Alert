@@ -1,6 +1,6 @@
 # 2025-12-15 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-15 08:24:53  
+Updated at: 2025-12-15 09:23:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-15)  
 **Tuna**  
 In name:   
@@ -110,10 +110,6 @@ In description:
  - Italian Meatball Sandwich @ *Gordon Fired Up*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-12-15)  
-**portabella**  
-In name:   
- - Portabella Mushroom Ravioli Plain @ *Global Kitchen*  
-  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
