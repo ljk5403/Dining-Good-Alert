@@ -1,6 +1,6 @@
 # 2025-12-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-15 15:19:37  
+Updated at: 2025-12-15 16:19:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-15)  
 **Shrimp**  
 In name:   
@@ -68,8 +68,6 @@ In description:
 In name:   
  - Pizza Slice Philly Cheesesteak @ *Gordon Capital City Pizza*  
  - Smothered Steak Burrito @ *Gordon Que Rico*  
- - Philly Cheesesteak Sandwich @ *Fired Up*  
- - Tempeh Philly Cheesesteak Sandwich @ *Fired Up*  
   
 **Tuna**  
 In name:   
@@ -97,7 +95,6 @@ In description:
  - Pizza Slice Philly Cheesesteak @ *Gordon Capital City Pizza*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
  - Smothered Steak Burrito @ *Gordon Que Rico*  
- - Philly Cheesesteak Sandwich @ *Fired Up*  
   
 **pork**  
 In name:   
@@ -117,10 +114,6 @@ In description:
  - Poulet Braise @ *Gordon Eggcetera*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-12-15)  
-**portabella**  
-In name:   
- - Portabella Mushroom Ravioli Plain @ *Global Kitchen*  
-  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
