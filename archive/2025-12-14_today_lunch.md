@@ -1,6 +1,6 @@
 # 2025-12-15 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-15 12:31:20  
+Updated at: 2025-12-15 14:23:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-15)  
 **Tuna**  
 In name:   
@@ -11,7 +11,6 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Kielbasa with Pierogis @ *1849*  
  - Italian Meat Sauce @ *Buona Cucina*  
   
 **pork**  
@@ -21,7 +20,6 @@ In name:
  - Italian Pork Sausage @ *Buona Cucina*  
   
 In description:   
- - Kielbasa with Pierogis @ *1849*  
  - Pizza Slice Sausage @ *Capital City Pizza*  
   
 **chicken**  
@@ -112,6 +110,10 @@ In description:
  - Italian Meatball Sandwich @ *Gordon Fired Up*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-12-15)  
+**Bulgogi**  
+In name:   
+ - Bulgogi Chicken @ *1849*  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -127,10 +129,17 @@ In description:
  - California Roll  (FujiSan) @ *Create-A-Bowl*  
  - Tempura Roll (FujiSan) @ *Create-A-Bowl*  
   
+**lamb**  
+In name:   
+ - Lamb Vindaloo @ *Que Rico*  
+  
 **curry**  
 In name:   
  - Vegetable Coconut Curry w/Rice @ *Que Rico*  
  - Curry Potatoes @ *Que Rico*  
+  
+In description:   
+ - Lamb Vindaloo @ *Que Rico*  
   
 **beef**  
 In name:   
@@ -149,8 +158,7 @@ In description:
   
 **chicken**  
 In name:   
- - Orange Sweet & Spicy Chicken @ *1849*  
- - Butter Chicken @ *Que Rico*  
+ - Bulgogi Chicken @ *1849*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   

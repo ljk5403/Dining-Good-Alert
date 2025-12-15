@@ -1,6 +1,6 @@
 # 2025-12-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-15 14:23:17  
+Updated at: 2025-12-15 15:19:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-15)  
 **Shrimp**  
 In name:   
@@ -64,12 +64,6 @@ In description:
  - BYO - MTO Maki Noodle Bowl - Liz @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-12-15)  
-**portabella**  
-In name:   
-  
-In description:   
- - Portobello Mushroom Stroganoff @ *1849*  
-  
 **steak**  
 In name:   
  - Pizza Slice Philly Cheesesteak @ *Gordon Capital City Pizza*  
@@ -89,6 +83,7 @@ In description:
   
 **curry**  
 In name:   
+ - Thai Veggie Meatballs w/ Green Curry @ *1849*  
   
 In description:   
  - Jollof Rice - 25 @ *Gordon Eggcetera*  
