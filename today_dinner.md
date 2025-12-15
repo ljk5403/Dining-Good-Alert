@@ -1,14 +1,18 @@
 # 2025-12-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-14 17:17:39  
+Updated at: 2025-12-14 19:43:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-14)  
-**Cod**  
+**catfish**  
 In name:   
- - Baked Cod Fillet w/Butter & Lemon @ *1849*  
+ - Island Spiced Catfish @ *1849*  
   
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
+  
+**fish**  
+In name:   
+ - Island Spiced Catfish @ *1849*  
   
 **curry**  
 In name:   
@@ -39,6 +43,7 @@ In description:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-12-14)  
 **beef**  
 In name:   
+ - Texas BBQ Sliced Beef Brisket @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
@@ -46,6 +51,7 @@ In description:
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Vegan Taco Filling @ *Gordon Que Rico*  
+ - Grilled Blended Burger w/ Cheese @ *Fired Up*  
   
 **pork**  
 In name:   
@@ -60,7 +66,6 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Giardiniera Chicken @ *Gordon Buona Cucina*  
  - Chicken Tortilla Soup @ *Great Greens*  
- - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
@@ -70,29 +75,19 @@ In description:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**steak**  
-In name:   
- - Brazilian Flank Steak @ *1849*  
-  
 **Cod**  
 In name:   
  - Caribbean Cod @ *1849*  
  - Battered Cod @ *1849*  
   
-**curry**  
-In name:   
-  
-In description:   
- - Chana Saag w/ Tofu @ *1849*  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Global Kitchen*  
+ - Beef Sirloin Tips @ *1849*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
  - Polish Combo Blended Cheeseburger (Pork) @ *Fired Up*  
- - Brazilian Flank Steak @ *1849*  
   
 **pork**  
 In name:   
