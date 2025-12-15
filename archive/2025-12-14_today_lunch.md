@@ -1,6 +1,6 @@
 # 2025-12-15 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-15 10:30:23  
+Updated at: 2025-12-15 11:24:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-15)  
 **Tuna**  
 In name:   
@@ -12,6 +12,7 @@ In name:
   
 In description:   
  - Kielbasa with Pierogis @ *1849*  
+ - Italian Meat Sauce @ *Buona Cucina*  
   
 **pork**  
 In name:   
@@ -98,11 +99,11 @@ In description:
 In name:   
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Loaded Potato Bacon (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
+ - Pork Carnita @ *Gordon Que Rico*  
   
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Chicken Tinga @ *Gordon Que Rico*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 In description:   
