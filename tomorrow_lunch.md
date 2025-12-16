@@ -1,6 +1,6 @@
 # 2025-12-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-16 00:33:00  
+Updated at: 2025-12-16 08:23:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-17)  
 **Tuna**  
 In name:   
@@ -129,7 +129,6 @@ In name:
 In name:   
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Beef & Bean Chili @ *Great Greens*  
- - Protein - Beef Thinly Sliced @ *Create-A-Bowl*  
   
 In description:   
  - Bolognese Sauce @ *Global Kitchen*  
@@ -149,7 +148,6 @@ In name:
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Chicken Wings Boneless Plain @ *Que Rico*  
  - Plant-Based Chicken Nuggets (6) @ *Que Rico*  
- - Protein - Chicken Thinly Sliced @ *Create-A-Bowl*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
