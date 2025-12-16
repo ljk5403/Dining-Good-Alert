@@ -1,6 +1,6 @@
 # 2025-12-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-16 08:23:39  
+Updated at: 2025-12-16 09:24:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-16)  
 **portabella**  
 In name:   
@@ -131,6 +131,7 @@ In name:
 **beef**  
 In name:   
  - Beef French Dip Sandwich @ *1849*  
+ - Beef Barbacoa @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -139,7 +140,6 @@ In description:
   
 **pork**  
 In name:   
- - Ancho Braised Pork @ *Que Rico*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
@@ -147,12 +147,9 @@ In description:
 **chicken**  
 In name:   
  - Brazilian Chicken w/ Salsa Vinaigrette @ *1849*  
- - Italian Chicken @ *Global Kitchen*  
+ - Giardiniera Chicken @ *Global Kitchen*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
-  
-In description:   
- - Ancho Braised Pork @ *Que Rico*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-12-16)  
 **Shrimp**  
