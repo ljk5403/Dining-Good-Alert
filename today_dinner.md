@@ -1,6 +1,6 @@
 # 2025-12-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-15 17:19:30  
+Updated at: 2025-12-15 19:41:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-15)  
 **Shrimp**  
 In name:   
@@ -14,7 +14,7 @@ In name:
 In name:   
  - Southwestern Corned Beef Hash @ *1849*  
  - Big Texan Beef Sandwich @ *Fired Up*  
- - Beef Taco Meat @ *Que Rico*  
+ - Beef Fajita @ *Que Rico*  
   
 In description:   
  - Italian Meat Sauce @ *Buona Cucina*  
@@ -24,6 +24,7 @@ In name:
  - Biscuits & Pork Gravy @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
  - Pizza Slice BBQ Pulled Pork @ *Capital City Pizza*  
+ - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Pizza Slice Sausage @ *Capital City Pizza*  
@@ -67,7 +68,6 @@ In description:
 **steak**  
 In name:   
  - Pizza Slice Philly Cheesesteak @ *Gordon Capital City Pizza*  
- - Smothered Steak Burrito @ *Gordon Que Rico*  
   
 **Tuna**  
 In name:   
@@ -94,7 +94,6 @@ In name:
 In description:   
  - Pizza Slice Philly Cheesesteak @ *Gordon Capital City Pizza*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
- - Smothered Steak Burrito @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
