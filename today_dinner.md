@@ -1,6 +1,6 @@
 # 2025-12-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-16 14:23:43  
+Updated at: 2025-12-16 15:20:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-16)  
 **portabella**  
 In name:   
@@ -116,6 +116,7 @@ In description:
 **pork**  
 In name:   
  - Green Beans w/ Pork Bacon @ *1849*  
+ - Apple Cider Braised Pork @ *Gordon Eggcetera*  
   
 **chicken**  
 In name:   
@@ -124,11 +125,11 @@ In name:
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Pizza Slice Chicken Sriracha @ *Gordon Capital City Pizza*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
- - Chicken Paprikash @ *Gordon Eggcetera*  
  - Spicy Crispy Chicken Sandwich @ *Fired Up*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
+ - Apple Cider Braised Pork @ *Gordon Eggcetera*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-12-16)  
 **watermelon**  
