@@ -1,6 +1,6 @@
 # 2025-12-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-16 00:32:58  
+Updated at: 2025-12-16 08:23:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-16)  
 **portabella**  
 In name:   
@@ -93,7 +93,6 @@ In name:
 **steak**  
 In name:   
  - Steak Street Taco @ *Gordon Que Rico*  
- - Philly Cheesesteak Sandwich @ *Fired Up*  
   
 **Salmon**  
 In name:   
@@ -105,20 +104,14 @@ In name:
 In description:   
  - Hoisin BBQ Glazed Salmon @ *1849*  
   
-**lamb**  
-In name:   
- - Lamb & Beef Gyro Sandwich @ *Fired Up*  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Lomo Saltado w/ Beef @ *Gordon Global Kitchen*  
- - Lamb & Beef Gyro Sandwich @ *Fired Up*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Steak Street Taco @ *Gordon Que Rico*  
- - Philly Cheesesteak Sandwich @ *Fired Up*  
   
 **pork**  
 In name:   
@@ -132,6 +125,7 @@ In name:
  - Pizza Slice Chicken Sriracha @ *Gordon Capital City Pizza*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
  - Chicken Paprikash @ *Gordon Eggcetera*  
+ - Spicy Crispy Chicken Sandwich @ *Fired Up*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
@@ -149,7 +143,6 @@ In name:
 In name:   
  - Beef Harissa @ *1849*  
  - Empanada Beef Picadillo @ *Que Rico*  
- - Mediterranean Beef @ *Create-A-Bowl*  
   
 **chicken**  
 In name:   
@@ -157,7 +150,6 @@ In name:
  - Chicken Piece Seasoned Baked @ *1849*  
  - Chicken Empanada with Green Chili @ *Que Rico*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
- - Mediterranean Chicken @ *Create-A-Bowl*  
   
 In description:   
  - Empanada Beef Picadillo @ *Que Rico*  
