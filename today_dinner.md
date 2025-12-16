@@ -1,6 +1,6 @@
 # 2025-12-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-16 15:20:12  
+Updated at: 2025-12-16 16:18:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-16)  
 **portabella**  
 In name:   
@@ -11,8 +11,7 @@ In description:
   
 **curry**  
 In name:   
- - Curry Squash @ *Global Kitchen*  
- - Squash Curry @ *Global Kitchen*  
+ - Black Eyed Pea Curry (AYCTE) @ *Global Kitchen*  
   
 In description:   
  - Chicken Korma @ *Global Kitchen*  
@@ -86,6 +85,12 @@ In name:
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-12-16)  
+**portabella**  
+In name:   
+  
+In description:   
+ - Vegan French Dip Sandwich @ *Fired Up*  
+  
 **drumstick**  
 In name:   
  - Chicken Drumstick BBQ Glazed @ *1849*  
@@ -93,6 +98,7 @@ In name:
 **steak**  
 In name:   
  - Steak Street Taco @ *Gordon Que Rico*  
+ - Philly Cheesesteak Sandwich @ *Fired Up*  
   
 **Salmon**  
 In name:   
@@ -112,10 +118,12 @@ In name:
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Steak Street Taco @ *Gordon Que Rico*  
+ - Philly Cheesesteak Sandwich @ *Fired Up*  
   
 **pork**  
 In name:   
  - Green Beans w/ Pork Bacon @ *1849*  
+ - Chicken Bacon (Pork) Ranch Pizza Slice @ *Gordon Capital City Pizza*  
  - Apple Cider Braised Pork @ *Gordon Eggcetera*  
   
 **chicken**  
@@ -123,9 +131,8 @@ In name:
  - Chicken Drumstick BBQ Glazed @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
- - Pizza Slice Chicken Sriracha @ *Gordon Capital City Pizza*  
+ - Chicken Bacon (Pork) Ranch Pizza Slice @ *Gordon Capital City Pizza*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
- - Spicy Crispy Chicken Sandwich @ *Fired Up*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
