@@ -1,6 +1,6 @@
 # 2025-12-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-16 12:31:15  
+Updated at: 2025-12-16 14:23:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-16)  
 **portabella**  
 In name:   
@@ -82,10 +82,6 @@ In name:
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-12-16)  
-**steak**  
-In name:   
- - Grilled Flank Steak @ *1849*  
-  
 **haddock**  
 In name:   
  - Baked Haddock w/Butter & Lemon @ *1849*  
@@ -96,10 +92,8 @@ In name:
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
- - Grilled Flank Steak @ *1849*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Baked Corn Dog (Pork) @ *Gordon Fired Up*  
- - AUSTIN BLUES Chopped Brisket @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
@@ -128,7 +122,6 @@ In name:
 **beef**  
 In name:   
  - Beef French Dip Sandwich @ *1849*  
- - Beef Barbacoa @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -145,6 +138,7 @@ In description:
 In name:   
  - Brazilian Chicken w/ Salsa Vinaigrette @ *1849*  
  - Giardiniera Chicken @ *Global Kitchen*  
+ - Taco Chicken @ *Que Rico*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
