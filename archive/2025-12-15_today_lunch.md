@@ -1,6 +1,6 @@
 # 2025-12-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-16 10:28:51  
+Updated at: 2025-12-16 11:23:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-16)  
 **portabella**  
 In name:   
@@ -16,16 +16,13 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Sirloin Tips @ *1849*  
  - Beef Mediterranean @ *Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Blended Patty Melt @ *Fired Up*  
-  
-**pork**  
-In name:   
- - Pork Spicy Citrus w/Bl Beans & Rice @ *1849*  
   
 **chicken**  
 In name:   
@@ -38,7 +35,6 @@ In name:
  - Plant Based Chicken Strips @ *Buona Cucina*  
   
 In description:   
- - Pork Spicy Citrus w/Bl Beans & Rice @ *1849*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-12-16)  
@@ -103,6 +99,7 @@ In description:
  - Grilled Flank Steak @ *1849*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Baked Corn Dog (Pork) @ *Gordon Fired Up*  
+ - AUSTIN BLUES Chopped Brisket @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
@@ -213,6 +210,6 @@ In name:
 **chicken**  
 In name:   
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
- - Chicken Baked  (1 piece) @ *Lowell Market*  
+ - Crispy Chicken Sandwich @ *Lowell Market*  
   
   
