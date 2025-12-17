@@ -1,6 +1,6 @@
 # 2025-12-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-17 15:19:48  
+Updated at: 2025-12-17 16:19:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-17)  
 **portabella**  
 In name:   
@@ -153,20 +153,6 @@ In name:
 In name:   
  - Chicken Drummies @ *Fired Up*  
   
-**haddock**  
-In name:   
- - Haddock Ginger Glazed (AYCTE) @ *1849*  
-  
-**Salmon**  
-In name:   
- - Grilled Sesame Ginger Salmon @ *1849*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Grilled Sesame Ginger Salmon @ *1849*  
-  
 **beef**  
 In name:   
  - Beef & Bean Chili @ *Great Greens*  
@@ -180,17 +166,7 @@ In name:
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-12-17)  
 **mahi mahi**  
 In name:   
- - Coconut Thai Curry Mahi Mahi @ *Global*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Coconut Thai Curry Mahi Mahi @ *Global*  
-  
-**curry**  
-In name:   
- - Coconut Thai Curry Mahi Mahi @ *Global*  
+ - Blackened Mahi Mahi @ *Global*  
   
 **beef**  
 In name:   
@@ -215,27 +191,28 @@ In description:
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-12-17)  
-**fish**  
+**steak**  
 In name:   
-  
-In description:   
- - Vietnamese Pork @ *Lowell Market*  
+ - Country Fried Steak @ *Lowell Market*  
   
 **curry**  
 In name:   
- - Curry Cauliflower & Butternut Squash @ *Lowell Market*  
+ - Curry Mango - Pork @ *Lowell Market*  
   
 **beef**  
 In name:   
  - Beef & Bean Chili @ *Great Greens*  
- - Beef Broccoli Stir Fry @ *Lowell Market*  
+  
+In description:   
+ - Country Fried Steak @ *Lowell Market*  
+ - Country Gravy @ *Lowell Market*  
   
 **pork**  
 In name:   
- - Vietnamese Pork @ *Lowell Market*  
+ - Curry Mango - Pork @ *Lowell Market*  
   
 **chicken**  
 In name:   
- - Chicken Marsala Creamy @ *Lowell Market*  
+ - General Tso's Chicken @ *Lowell Market*  
   
   

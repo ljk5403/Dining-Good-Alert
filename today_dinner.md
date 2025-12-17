@@ -1,6 +1,6 @@
 # 2025-12-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-17 16:19:06  
+Updated at: 2025-12-17 17:19:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-17)  
 **portabella**  
 In name:   
@@ -103,13 +103,6 @@ In name:
 In name:   
  - Lemon Pepper Cod Fillet @ *1849*  
   
-**fish**  
-In name:   
-  
-In description:   
- - California Roll  (FujiSan) @ *Gordon Global Kitchen*  
- - Tempura Roll (FujiSan) @ *Gordon Global Kitchen*  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
@@ -129,12 +122,12 @@ In name:
   
 **chicken**  
 In name:   
+ - Chicken Empanada with Green Chili @ *1849*  
  - Chicken Pot Pie w/Biscuit @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pizza Slice BBQ Chicken & Bacon @ *Gordon Capital City Pizza*  
  - Sesame Chicken @ *Gordon Global Kitchen*  
  - Plant Based Sesame Chicken (AYCTE) (VN) @ *Gordon Global Kitchen*  
- - Chicken Empanada with Green Chili @ *Gordon Eggcetera*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
   
 In description:   
