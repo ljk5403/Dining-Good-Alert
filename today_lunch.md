@@ -1,6 +1,6 @@
 # 2025-12-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-17 08:21:40  
+Updated at: 2025-12-17 09:23:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-17)  
 **Tuna**  
 In name:   
@@ -123,6 +123,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Hot Dog @ *Fired Up*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Beef & Bean Chili @ *Great Greens*  
   
@@ -135,7 +136,6 @@ In name:
  - Baked Pork Ham @ *1849*  
   
 In description:   
- - Grilled Ham & Swiss Sandwich @ *Fired Up*  
  - Bolognese Sauce @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
