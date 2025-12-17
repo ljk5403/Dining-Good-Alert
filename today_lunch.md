@@ -1,6 +1,6 @@
 # 2025-12-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-17 10:28:09  
+Updated at: 2025-12-17 11:22:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-17)  
 **Tuna**  
 In name:   
@@ -15,7 +15,6 @@ In name:
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
- - Italian Meat Sauce @ *Buona Cucina*  
   
 **pork**  
 In name:   
@@ -73,13 +72,6 @@ In description:
  - Rogan Josh @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-12-17)  
-**fish**  
-In name:   
-  
-In description:   
- - California Roll  (FujiSan) @ *Gordon Global Kitchen*  
- - Tempura Roll (FujiSan) @ *Gordon Global Kitchen*  
-  
 **beef**  
 In name:   
  - Beef Pot Roast @ *1849*  
@@ -97,12 +89,16 @@ In name:
  - Gluten Free Pork Sausage Pizza Quarter @ *Gordon Capital City Pizza*  
  - Pork Carnita @ *Gordon Que Rico*  
   
+In description:   
+ - Egg Roll Egg Bacon & Cheese @ *Gordon Global Kitchen*  
+  
 **chicken**  
 In name:   
  - Broasted Chicken 2 pc @ *1849*  
  - Chicken Gravy @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pizza Slice BBQ Chicken & Bacon @ *Gordon Capital City Pizza*  
+ - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Sweet & Sour Chicken @ *Gordon Global Kitchen*  
  - Plant Based Sweet & Sour Chicken @ *Gordon Global Kitchen*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
@@ -123,11 +119,9 @@ In name:
 **beef**  
 In name:   
  - Beef Hot Dog @ *Fired Up*  
- - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Beef & Bean Chili @ *Great Greens*  
   
 In description:   
- - Bolognese Sauce @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
@@ -135,16 +129,12 @@ In name:
  - Baked Pork Ham @ *1849*  
   
 In description:   
- - Bolognese Sauce @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
 In name:   
- - Beef & Chicken Meatballs @ *Global Kitchen*  
+ - Popcorn Chicken @ *Global Kitchen*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
-  
-In description:   
- - BYO Bar - Mac & Cheese @ *Global Kitchen*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-12-17)  
 **portabella**  
@@ -189,9 +179,5 @@ In description:
 In name:   
  - Beef & Bean Chili @ *Great Greens*  
  - Beef Carne Guisada @ *Lowell Market*  
-  
-**chicken**  
-In name:   
- - Mediterranean Chicken @ *Lowell Market*  
   
   
