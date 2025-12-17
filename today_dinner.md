@@ -1,6 +1,6 @@
 # 2025-12-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-16 17:18:51  
+Updated at: 2025-12-16 19:27:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-16)  
 **portabella**  
 In name:   
@@ -113,7 +113,6 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Lomo Saltado w/ Beef @ *Gordon Global Kitchen*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
@@ -132,6 +131,7 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Chicken Bacon (Pork) Ranch Pizza Slice @ *Gordon Capital City Pizza*  
+ - Jamaican Jerk Chicken @ *Gordon Global Kitchen*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
   
 In description:   
@@ -152,9 +152,16 @@ In name:
  - Beef Harissa @ *1849*  
  - Empanada Beef Picadillo @ *Que Rico*  
   
+In description:   
+ - Pork Bratwurst Sandwich @ *Fired Up*  
+  
+**pork**  
+In name:   
+ - Pork Bratwurst Sandwich @ *Fired Up*  
+  
 **chicken**  
 In name:   
- - Italian Chicken @ *Global Kitchen*  
+ - Giardiniera Chicken @ *Global Kitchen*  
  - Chicken Piece Seasoned Baked @ *1849*  
  - Chicken Empanada with Green Chili @ *Que Rico*  
  - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
