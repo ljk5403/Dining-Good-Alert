@@ -1,6 +1,6 @@
 # 2025-12-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-17 00:32:12  
+Updated at: 2025-12-17 08:21:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-19)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-12-19)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-12-19)  
@@ -80,10 +80,6 @@ In name:
 In name:   
  - Island Spiced Mahi Mahi @ *1849*  
   
-**Shrimp**  
-In name:   
- - Sauteed Shrimp @ *Que Rico*  
-  
 **Cod**  
 In name:   
   
@@ -93,11 +89,9 @@ In description:
 **beef**  
 In name:   
  - Beef Fajita Meat @ *Global Kitchen*  
- - Beef Taco Meat @ *Que Rico*  
   
 In description:   
  - Mushroom Swiss Blended Burger @ *Fired Up*  
- - Vegan Taco Filling @ *Que Rico*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  

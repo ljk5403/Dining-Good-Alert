@@ -1,6 +1,6 @@
 # 2025-12-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-17 00:32:10  
+Updated at: 2025-12-17 08:21:52  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-18)  
 **Tilapia**  
 In name:   
@@ -110,14 +110,6 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**FiIipino Pork Spring Roll**  
-In name:   
- - FiIipino Pork Spring Roll @ *Que Rico*  
-  
-**Filipino Pork Sausage**  
-In name:   
- - Filipino Pork Sausage @ *Que Rico*  
-  
 **beef**  
 In name:   
  - Smoked Beef Round Plate @ *1849*  
@@ -128,8 +120,6 @@ In description:
 **pork**  
 In name:   
  - Jerk Pork Chop @ *1849*  
- - Filipino Pork Sausage @ *Que Rico*  
- - FiIipino Pork Spring Roll @ *Que Rico*  
   
 In description:   
  - Andouille Sausage @ *Global Kitchen*  
