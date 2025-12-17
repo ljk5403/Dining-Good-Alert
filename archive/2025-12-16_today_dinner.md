@@ -1,6 +1,6 @@
 # 2025-12-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-17 10:28:11  
+Updated at: 2025-12-17 11:22:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-17)  
 **portabella**  
 In name:   
@@ -169,28 +169,16 @@ In name:
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Beef & Bean Chili @ *Great Greens*  
-  
-In description:   
- - Bolognese Sauce @ *Global Kitchen*  
   
 **pork**  
 In name:   
  - BBQ Pork Sandwich @ *Fired Up*  
   
-In description:   
- - Bolognese Sauce @ *Global Kitchen*  
-  
 **chicken**  
 In name:   
- - Beef & Chicken Meatballs @ *Global Kitchen*  
- - Plant-Based Chicken Nuggets (6) @ *Global Kitchen*  
  - Popcorn Chicken @ *Global Kitchen*  
  - Chicken Drumstick Teriyaki Glazed @ *1849*  
-  
-In description:   
- - BYO Bar - Mac & Cheese @ *Global Kitchen*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-12-17)  
 **mahi mahi**  
