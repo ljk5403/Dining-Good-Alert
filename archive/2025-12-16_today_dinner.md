@@ -1,6 +1,6 @@
 # 2025-12-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-17 14:23:28  
+Updated at: 2025-12-17 15:19:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-17)  
 **portabella**  
 In name:   
@@ -11,10 +11,6 @@ In description:
 **FiIipino Pork Spring Roll**  
 In name:   
  - FiIipino Pork Spring Roll @ *Global Kitchen*  
-  
-**drumstick**  
-In name:   
- - Chicken Drumstick Teriyaki Glazed @ *1849*  
   
 **steak**  
 In name:   
@@ -37,6 +33,7 @@ In name:
   
 **beef**  
 In name:   
+ - Southwestern Corned Beef Hash @ *1849*  
  - Beef Taco Meat @ *Que Rico*  
  - Beef & Bean Chili @ *Great Greens*  
   
@@ -56,7 +53,6 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken Drumstick Teriyaki Glazed @ *1849*  
  - Fajita Chicken @ *Que Rico*  
   
 In description:   
@@ -105,13 +101,12 @@ In name:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-12-17)  
 **Cod**  
 In name:   
- - Miso Cod @ *1849*  
+ - Lemon Pepper Cod Fillet @ *1849*  
   
 **fish**  
 In name:   
   
 In description:   
- - Miso Cod @ *1849*  
  - California Roll  (FujiSan) @ *Gordon Global Kitchen*  
  - Tempura Roll (FujiSan) @ *Gordon Global Kitchen*  
   
@@ -139,6 +134,7 @@ In name:
  - Pizza Slice BBQ Chicken & Bacon @ *Gordon Capital City Pizza*  
  - Sesame Chicken @ *Gordon Global Kitchen*  
  - Plant Based Sesame Chicken (AYCTE) (VN) @ *Gordon Global Kitchen*  
+ - Chicken Empanada with Green Chili @ *Gordon Eggcetera*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
   
 In description:   
