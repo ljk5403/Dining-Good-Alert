@@ -1,6 +1,6 @@
 # 2025-12-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-17 12:31:59  
+Updated at: 2025-12-17 14:23:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-17)  
 **portabella**  
 In name:   
@@ -11,6 +11,10 @@ In description:
 **FiIipino Pork Spring Roll**  
 In name:   
  - FiIipino Pork Spring Roll @ *Global Kitchen*  
+  
+**drumstick**  
+In name:   
+ - Chicken Drumstick Teriyaki Glazed @ *1849*  
   
 **steak**  
 In name:   
@@ -52,7 +56,7 @@ In name:
   
 **chicken**  
 In name:   
- - Blackened Chicken with Orange Sauce @ *1849*  
+ - Chicken Drumstick Teriyaki Glazed @ *1849*  
  - Fajita Chicken @ *Que Rico*  
   
 In description:   
@@ -149,6 +153,10 @@ In name:
 In name:   
  - Chicken Drumstick Teriyaki Glazed @ *1849*  
   
+**Chicken Drummies**  
+In name:   
+ - Chicken Drummies @ *Fired Up*  
+  
 **haddock**  
 In name:   
  - Haddock Ginger Glazed (AYCTE) @ *1849*  
@@ -163,20 +171,13 @@ In name:
 In description:   
  - Grilled Sesame Ginger Salmon @ *1849*  
   
-**BBQ Pork Sandwich**  
-In name:   
- - BBQ Pork Sandwich @ *Fired Up*  
-  
 **beef**  
 In name:   
  - Beef & Bean Chili @ *Great Greens*  
   
-**pork**  
-In name:   
- - BBQ Pork Sandwich @ *Fired Up*  
-  
 **chicken**  
 In name:   
+ - Chicken Drummies @ *Fired Up*  
  - Popcorn Chicken @ *Global Kitchen*  
  - Chicken Drumstick Teriyaki Glazed @ *1849*  
   

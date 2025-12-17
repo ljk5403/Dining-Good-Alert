@@ -1,6 +1,6 @@
 # 2025-12-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-17 12:31:57  
+Updated at: 2025-12-17 14:23:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-17)  
 **Tuna**  
 In name:   
@@ -108,13 +108,9 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**catfish**  
+**Cod**  
 In name:   
- - Fried Catfish @ *1849*  
-  
-**fish**  
-In name:   
- - Fried Catfish @ *1849*  
+ - Battered Cod @ *1849*  
   
 **beef**  
 In name:   
@@ -169,12 +165,6 @@ In description:
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza:  Available Between 11am-4pm*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-12-17)  
-**fish**  
-In name:   
-  
-In description:   
- - Crab Rangoon @ *Lowell Market*  
-  
 **beef**  
 In name:   
  - Beef & Bean Chili @ *Great Greens*  
