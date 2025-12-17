@@ -1,6 +1,6 @@
 # 2025-12-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-17 08:21:44  
+Updated at: 2025-12-17 09:23:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-17)  
 **portabella**  
 In name:   
@@ -99,10 +99,6 @@ In name:
  - Tandoori Chicken @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-12-17)  
-**Shrimp**  
-In name:   
- - Shrimp & Green Chile Burrito @ *Gordon Que Rico*  
-  
 **Cod**  
 In name:   
  - Miso Cod @ *1849*  
@@ -118,19 +114,17 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Bean Chili @ *Great Greens*  
   
 In description:   
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
- - Vegan Taco Filling @ *Gordon Que Rico*  
  - Pork Bratwurst Sandwich @ *Fired Up*  
   
 **pork**  
 In name:   
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Gluten Free Pork Sausage Pizza Quarter @ *Gordon Capital City Pizza*  
- - Pork Carnita @ *Gordon Que Rico*  
+ - Ancho Pork Rice Bowl @ *Gordon Que Rico*  
  - Pork Bratwurst Sandwich @ *Fired Up*  
   
 **chicken**  
@@ -141,6 +135,9 @@ In name:
  - Sesame Chicken @ *Gordon Global Kitchen*  
  - Plant Based Sesame Chicken (AYCTE) (VN) @ *Gordon Global Kitchen*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
+  
+In description:   
+ - Ancho Pork Rice Bowl @ *Gordon Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-12-17)  
 **watermelon**  

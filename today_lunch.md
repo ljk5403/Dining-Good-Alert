@@ -1,6 +1,6 @@
 # 2025-12-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-17 09:23:00  
+Updated at: 2025-12-17 10:28:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-17)  
 **Tuna**  
 In name:   
@@ -93,7 +93,6 @@ In description:
   
 **pork**  
 In name:   
- - Island Spiced Pork w/ Pineapple Salsa @ *1849*  
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Gluten Free Pork Sausage Pizza Quarter @ *Gordon Capital City Pizza*  
  - Pork Carnita @ *Gordon Que Rico*  
@@ -159,7 +158,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef & Bean Chili @ *Great Greens:  Available Between 11am-4pm*  
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza:  Available Between 11am-4pm*  
@@ -173,6 +171,7 @@ In name:
 **chicken**  
 In name:   
  - Bulgogi Chicken Thighs @ *Global Kitchen:  Available Between 11am-2pm*  
+ - Chicken Noodle Soup @ *Great Greens:  Available Between 11am-4pm*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera:  Available Between 11am-2pm*  
  - Buffalo Chicken Sliders @ *Fired Up:  Available Between 11am-2pm*  
   
