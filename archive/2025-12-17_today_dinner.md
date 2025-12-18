@@ -1,6 +1,6 @@
 # 2025-12-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-18 14:20:10  
+Updated at: 2025-12-18 15:17:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-18)  
 **Tilapia**  
 In name:   
@@ -79,10 +79,6 @@ In name:
  - Chicken Noodle Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-12-18)  
-**steak**  
-In name:   
- - Spicy Steak Fajita @ *Gordon Que Rico*  
-  
 **Shrimp**  
 In name:   
  - Shrimp with Bell Peppers @ *1849*  
@@ -99,11 +95,9 @@ In name:
  - Beef Taco Meat @ *Gordon Que Rico*  
  - BBQ Beef Brisket Sandwich @ *Fired Up*  
   
-In description:   
- - Spicy Steak Fajita @ *Gordon Que Rico*  
-  
 **pork**  
 In name:   
+ - Pork Carnita @ *Gordon Que Rico*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
@@ -126,8 +120,9 @@ In name:
 In name:   
   
 In description:   
- - Grilled Hamburger @ *Fired Up*  
+ - Fired Up Blended Burger @ *Fired Up*  
  - Corn Dog (Pork) @ *Fired Up*  
+ - Italian Meat Sauce @ *Global Kitchen*  
   
 **pork**  
 In name:   
@@ -158,7 +153,7 @@ In name:
   
 **beef**  
 In name:   
- - Beef Sirloin Tips @ *Global*  
+ - Beef Stroganoff Creamy @ *Global*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
