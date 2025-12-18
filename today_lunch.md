@@ -1,6 +1,6 @@
 # 2025-12-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-18 11:22:34  
+Updated at: 2025-12-18 12:30:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-18)  
 **Tuna**  
 In name:   
@@ -113,15 +113,9 @@ In description:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**Salmon**  
+**Cod**  
 In name:   
- - Blackened Salmon @ *1849*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Blackened Salmon @ *1849*  
+ - Battered Cod @ *1849*  
   
 **curry**  
 In name:   
