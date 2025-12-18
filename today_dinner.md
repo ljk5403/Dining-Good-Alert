@@ -1,6 +1,6 @@
 # 2025-12-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-17 17:19:02  
+Updated at: 2025-12-17 19:28:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-17)  
 **portabella**  
 In name:   
@@ -17,6 +17,10 @@ In name:
  - Philly Cheesesteak Sandwich @ *Fired Up*  
  - Vegetable Cheesesteak Sandwich @ *Fired Up*  
   
+**Shrimp**  
+In name:   
+ - Sweet & Sour Shrimp @ *Global Kitchen*  
+  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
@@ -27,13 +31,8 @@ In name:
 In description:   
  - Filipino Barbecue Pork @ *1849*  
   
-**Filipino Pork Sausage**  
-In name:   
- - Filipino Pork Sausage @ *Global Kitchen*  
-  
 **beef**  
 In name:   
- - Southwestern Corned Beef Hash @ *1849*  
  - Beef Taco Meat @ *Que Rico*  
  - Beef & Bean Chili @ *Great Greens*  
   
@@ -47,7 +46,6 @@ In name:
  - Filipino Barbecue Pork @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
- - Filipino Pork Sausage @ *Global Kitchen*  
  - FiIipino Pork Spring Roll @ *Global Kitchen*  
  - Pork Carnita @ *Que Rico*  
   
@@ -106,6 +104,7 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Beef Broccoli Stir Fry w/Teriyaki Sauce @ *Gordon Global Kitchen*  
  - Beef & Bean Chili @ *Great Greens*  
   
 In description:   
@@ -126,7 +125,6 @@ In name:
  - Chicken Pot Pie w/Biscuit @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pizza Slice BBQ Chicken & Bacon @ *Gordon Capital City Pizza*  
- - Sesame Chicken @ *Gordon Global Kitchen*  
  - Plant Based Sesame Chicken (AYCTE) (VN) @ *Gordon Global Kitchen*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
   
@@ -150,10 +148,13 @@ In name:
 In name:   
  - Beef & Bean Chili @ *Great Greens*  
   
+**pork**  
+In name:   
+ - Pork Italian Sausage @ *Global Kitchen*  
+  
 **chicken**  
 In name:   
  - Chicken Drummies @ *Fired Up*  
- - Popcorn Chicken @ *Global Kitchen*  
  - Chicken Drumstick Teriyaki Glazed @ *1849*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-12-17)  
@@ -184,10 +185,6 @@ In description:
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-12-17)  
-**steak**  
-In name:   
- - Country Fried Steak @ *Lowell Market*  
-  
 **curry**  
 In name:   
  - Curry Mango - Pork @ *Lowell Market*  
@@ -195,9 +192,9 @@ In name:
 **beef**  
 In name:   
  - Beef & Bean Chili @ *Great Greens*  
+ - Beef Pot Roast @ *Lowell Market*  
   
 In description:   
- - Country Fried Steak @ *Lowell Market*  
  - Country Gravy @ *Lowell Market*  
   
 **pork**  
