@@ -1,26 +1,12 @@
 # 2025-12-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-18 00:32:31  
+Updated at: 2025-12-18 08:22:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-19)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-12-19)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-12-19)  
-**portabella**  
-In name:   
-  
-In description:   
- - Pesto Mushroom Sandwich @ *Gordon Fired Up*  
-  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
-  
-**Tandoori Chicken**  
-In name:   
- - Pizza Slice 16" Tandoori Chicken (AYCTE) @ *Gordon Capital City Pizza*  
-  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp @ *Gordon Buona Cucina*  
   
 **Cod**  
 In name:   
@@ -33,17 +19,9 @@ In description:
 In name:   
  - Chicken Tamale with Oaxaca @ *1849*  
   
-**curry**  
-In name:   
-  
-In description:   
- - Tofu & Vegetable Tikka Masala @ *Gordon Global Kitchen*  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Barbacoa @ *Gordon Que Rico*  
- - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
@@ -51,7 +29,6 @@ In description:
   
 **pork**  
 In name:   
- - Hawaiian (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
  - Clam Chowder (Pork) @ *Great Greens*  
   
 **chicken**  
@@ -59,8 +36,6 @@ In name:
  - Chicken Breast w/Balsamic BBQ Sauce @ *1849*  
  - Chicken Tamale with Oaxaca @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Pizza Slice 16" Tandoori Chicken (AYCTE) @ *Gordon Capital City Pizza*  
- - Chicken Vindaloo @ *Gordon Global Kitchen*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  

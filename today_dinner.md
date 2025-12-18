@@ -1,6 +1,6 @@
 # 2025-12-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-18 00:32:30  
+Updated at: 2025-12-18 08:22:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-18)  
 **Tilapia**  
 In name:   
@@ -76,14 +76,12 @@ In name:
 **beef**  
 In name:   
  - Beef Gravy @ *1849*  
- - Beef Tri Tip Carved w/ Chimichurri @ *1849*  
  - Garlic Herb Roast Beef @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - BBQ Beef Brisket Sandwich @ *Fired Up*  
   
 In description:   
- - Smoked Brisket & Tots Pizza Slice @ *Gordon Capital City Pizza*  
  - Spicy Steak Fajita @ *Gordon Que Rico*  
   
 **pork**  
@@ -95,11 +93,7 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Mediterranean Chicken @ *Gordon Buona Cucina*  
- - Greek Chicken @ *Gordon Global Kitchen*  
- - Chicken Empanada with Green Chili @ *Gordon Que Rico*  
  - Chicken Noodle Soup @ *Great Greens*  
- - Breaded Chicken Parmigiana @ *Gordon Eggcetera*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-12-18)  
 **portabella**  
