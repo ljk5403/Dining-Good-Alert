@@ -1,6 +1,6 @@
 # 2025-12-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-18 12:30:58  
+Updated at: 2025-12-18 14:20:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-18)  
 **Tilapia**  
 In name:   
@@ -45,19 +45,37 @@ In description:
 In name:   
  - Melon Watermelon Whole Sliced @ *Great Greens*  
   
+**drumstick**  
+In name:   
+ - Chicken Drumstick BBQ Glazed @ *1849*  
+  
+**Cod**  
+In name:   
+ - Caribbean Cod @ *1849*  
+  
+**BBQ Pork Sandwich**  
+In name:   
+ - Carolina BBQ Pork Sandwich @ *Global Kitchen*  
+  
+**curry**  
+In name:   
+ - Curry Potatoes @ *1849*  
+  
 **beef**  
 In name:   
- - Beef Broccoli Stir Fry w/Teriyaki Sauce @ *1849*  
- - Sub - Beef Meat Ground Italian @ *Global Kitchen*  
+  
+In description:   
+ - Reuben @ *Global Kitchen*  
   
 **pork**  
 In name:   
- - Baked Rigatoni w/ Pork Italian Sausage @ *Global Kitchen*  
+ - Carolina BBQ Pork Sandwich @ *Global Kitchen*  
   
 **chicken**  
 In name:   
- - Teriyaki Chicken Sandwich @ *1849*  
- - Giardiniera Chicken @ *Global Kitchen*  
+ - Chicken Drumstick BBQ Glazed @ *1849*  
+ - Jerk Chicken Sandwich @ *Global Kitchen*  
+ - Grilled Chicken Pesto Artichoke Sandwich @ *Global Kitchen*  
  - Chicken Noodle Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-12-18)  
@@ -96,31 +114,35 @@ In name:
  - Chicken Noodle Soup @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-12-18)  
-**portabella**  
-In name:   
- - Caribbean Portabella w/Rice @ *1849*  
-  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**Shrimp**  
+In name:   
+ - Redhook Ale Breaded Shrimp @ *1849*  
+  
 **beef**  
 In name:   
- - Smoked Beef Round Plate @ *1849*  
   
 In description:   
- - Fired Up Blended Burger @ *Fired Up*  
+ - Grilled Hamburger @ *Fired Up*  
+ - Corn Dog (Pork) @ *Fired Up*  
   
 **pork**  
 In name:   
- - Jerk Pork Chop @ *1849*  
+ - Corn Dog (Pork) @ *Fired Up*  
   
 In description:   
  - Andouille Sausage @ *Global Kitchen*  
   
 **chicken**  
 In name:   
+ - Italian Chicken @ *1849*  
  - Chicken Noodle Soup @ *Great Greens*  
+  
+In description:   
+ - Corn Dog (Pork) @ *Fired Up*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-12-18)  
 **Cod**  
