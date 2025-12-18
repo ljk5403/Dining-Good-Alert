@@ -1,6 +1,6 @@
 # 2025-12-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-18 00:32:28  
+Updated at: 2025-12-18 08:22:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-18)  
 **Tuna**  
 In name:   
@@ -27,12 +27,11 @@ In description:
   
 **pork**  
 In name:   
- - Pork Tamale Pie @ *1849*  
+ - Pork Adobo @ *1849*  
  - Loaded Potato Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
- - Chicken Adobo @ *1849*  
  - Mediterranean Chicken @ *Que Rico*  
  - Chicken Noodle Soup @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
@@ -79,55 +78,37 @@ In name:
 In name:   
  - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
   
-**fish**  
-In name:   
-  
-In description:   
- - Beef Masaman Thai Curry @ *Gordon Global Kitchen*  
-  
 **curry**  
 In name:   
  - Thai Veggie Meatballs w/ Green Curry @ *1849*  
- - Beef Masaman Thai Curry @ *Gordon Global Kitchen*  
- - Coconut Tofu w/Red Curry Sauce @ *Gordon Global Kitchen*  
   
 **beef**  
 In name:   
  - Beef Goulash @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Masaman Thai Curry @ *Gordon Global Kitchen*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
- - Smoked Brisket & Tots Pizza Slice @ *Gordon Capital City Pizza*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Grilled Blended Burger w/ Cheese @ *Gordon Fired Up*  
  - Spicy Steak Fajita @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
- - Apple Cider Braised Pork @ *1849*  
+ - Apple Cider Braised Pork w/Spatzle @ *1849*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
   
 **chicken**  
 In name:   
- - Chicken Wings Boneless Plain @ *1849*  
- - Chicken Wings Bone-In Plain @ *1849*  
- - Plant-Based Chicken Nuggets (6) @ *1849*  
- - BBQ Chicken Wings Bone-In @ *1849*  
- - Buffalo Chicken Wings Bone-In @ *1849*  
- - BBQ Chicken Wings Boneless @ *1849*  
- - Buffalo Chicken Wings Boneless @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Mediterranean Chicken @ *Gordon Buona Cucina*  
  - Giardiniera Chicken @ *Gordon Buona Cucina*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
- - Apple Cider Braised Pork @ *1849*  
+ - Apple Cider Braised Pork w/Spatzle @ *1849*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2025-12-18)  
@@ -157,7 +138,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Noodle Soup @ *Great Greens*  
+ - Lemon Chicken Rice Soup @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2025-12-18)  
@@ -204,17 +185,18 @@ In description:
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza:  Available Between 11am-4pm*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2025-12-18)  
-**Cod**  
+**Shrimp**  
 In name:   
- - Basque Style Cod @ *Lowell Market*  
+ - Sauteed Shrimp @ *Lowell Market*  
   
-**pork**  
+**beef**  
 In name:   
- - Pork Loin Spicy Greenbush @ *Lowell Market*  
+ - Beef & Chicken Meatballs @ *Lowell Market*  
   
 **chicken**  
 In name:   
  - Chicken Noodle Soup @ *Great Greens*  
- - Moroccan Chicken Tagine @ *Lowell Market*  
+ - Greek Lemon Chicken Breast @ *Lowell Market*  
+ - Beef & Chicken Meatballs @ *Lowell Market*  
   
   
