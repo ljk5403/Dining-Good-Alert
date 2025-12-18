@@ -1,6 +1,6 @@
 # 2025-12-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-18 09:22:19  
+Updated at: 2025-12-18 10:29:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-18)  
 **Tuna**  
 In name:   
@@ -39,29 +39,32 @@ In description:
 In name:   
  - Melon Watermelon Whole Sliced @ *Great Greens*  
   
-**Cod**  
+**BBQ Pork Sandwich**  
 In name:   
- - Miso Cod @ *1849*  
+ - Carolina BBQ Pork Sandwich @ *Global Kitchen*  
   
-**fish**  
+**curry**  
 In name:   
   
 In description:   
- - Miso Cod @ *1849*  
+ - Coconut Vegetable Stew @ *1849*  
   
 **beef**  
 In name:   
+ - Beef Hot Dog @ *Global Kitchen*  
+  
+**pork**  
+In name:   
+ - Carolina BBQ Pork Sandwich @ *Global Kitchen*  
   
 In description:   
- - Spicy Italian Meatball Sandwich @ *Global Kitchen*  
+ - Artisan Egg, Bacon & Cheese Croissant @ *1849*  
   
 **chicken**  
 In name:   
- - General Tso's Chicken @ *1849*  
+ - Chicken Tenders Breaded @ *Global Kitchen*  
+ - Chicken Biryani @ *1849*  
  - Chicken Noodle Soup @ *Great Greens*  
-  
-In description:   
- - Spicy Italian Meatball Sandwich @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-12-18)  
 **steak**  
@@ -110,28 +113,37 @@ In description:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**steak**  
+**Salmon**  
 In name:   
- - Swiss Steak w/Brown Gravy @ *1849*  
+ - Blackened Salmon @ *1849*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Blackened Salmon @ *1849*  
+  
+**curry**  
+In name:   
+ - Chicken Curry @ *1849*  
   
 **beef**  
 In name:   
   
 In description:   
- - Swiss Steak w/Brown Gravy @ *1849*  
- - Vegan Sloppy Joe @ *1849*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
 In name:   
- - Herb Crusted Pork Loin @ *1849*  
   
 In description:   
+ - Egg Roll Egg Bacon & Cheese @ *Fired Up*  
  - Andouille Sausage @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
 In name:   
+ - Chicken Curry @ *1849*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
@@ -143,17 +155,11 @@ In name:
 **steak**  
 In name:   
  - Brazilian Flank Steak @ *Global Kitchen:  Available Between 11am-2pm*  
- - Ham Steak @ *Eggcetera:  Available Between 11am-2pm*  
-  
-**Tilapia**  
-In name:   
- - Blackened Tilapia Po-Boy Sandwich @ *Fired Up:  Available Between 11am-2pm*  
   
 **curry**  
 In name:   
   
 In description:   
- - Chicken Korma @ *Carson's 1849:  Available Between 11am-2pm*  
  - Navarathan Korma (AYCTE) @ *Carson's 1849:  Available Between 11am-2pm*  
   
 **beef**  
@@ -162,18 +168,17 @@ In name:
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza:  Available Between 11am-4pm*  
  - Brazilian Flank Steak @ *Global Kitchen:  Available Between 11am-2pm*  
+ - Fired Up Blended Burger @ *Fired Up:  Available Between 11am-2pm*  
   
 **pork**  
 In name:   
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza:  Available Between 11am-4pm*  
-  
-In description:   
- - Ham Steak @ *Eggcetera:  Available Between 11am-2pm*  
+ - Pork Sausage Links @ *Eggcetera:  Available Between 11am-2pm*  
   
 **chicken**  
 In name:   
- - Chicken Korma @ *Carson's 1849:  Available Between 11am-2pm*  
- - Chicken Noodle Soup @ *Great Greens:  Available Between 11am-4pm*  
+ - Sesame Chicken @ *Carson's 1849:  Available Between 11am-2pm*  
+ - Cream of Chicken & Wild Rice Soup @ *Great Greens:  Available Between 11am-4pm*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza:  Available Between 11am-4pm*  
