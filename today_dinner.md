@@ -1,6 +1,6 @@
 # 2025-12-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-18 16:19:16  
+Updated at: 2025-12-18 17:19:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-18)  
 **Tilapia**  
 In name:   
@@ -155,15 +155,24 @@ In name:
   
 **beef**  
 In name:   
- - Beef Pot Roast @ *Lowell Market*  
   
 In description:   
+ - Baked Corn Dog @ *Lowell Market*  
  - Country Gravy @ *Lowell Market*  
+  
+**pork**  
+In name:   
+  
+In description:   
+ - Baked Corn Dog @ *Lowell Market*  
   
 **chicken**  
 In name:   
  - Chicken Noodle Soup @ *Great Greens*  
  - Mediterranean Chicken @ *Lowell Market*  
  - Breaded Chicken Fillet @ *Lowell Market*  
+  
+In description:   
+ - Baked Corn Dog @ *Lowell Market*  
   
   

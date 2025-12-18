@@ -1,20 +1,14 @@
 # 2025-12-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-18 15:17:19  
+Updated at: 2025-12-18 16:19:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-18)  
 **Tilapia**  
 In name:   
- - Baked Tilapia w/Dill Wine Sauce @ *1849*  
+ - Blackened Tilapia @ *1849*  
   
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Tempura Roll (FujiSan) @ *Global Kitchen*  
   
 **beef**  
 In name:   
@@ -30,10 +24,10 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken Piece Seasoned Baked @ *1849*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
- - Chicken Shawarma Sandwich @ *Fired Up*  
+ - Crispy Chicken Sandwich @ *Fired Up*  
+ - Dan Dan w/ Chicken @ *Global Kitchen*  
  - Mediterranean Chicken @ *Que Rico*  
  - Chicken Noodle Soup @ *Great Greens*  
   
@@ -53,29 +47,13 @@ In name:
 In name:   
  - Caribbean Cod @ *1849*  
   
-**BBQ Pork Sandwich**  
-In name:   
- - Carolina BBQ Pork Sandwich @ *Global Kitchen*  
-  
 **curry**  
 In name:   
  - Curry Potatoes @ *1849*  
   
-**beef**  
-In name:   
-  
-In description:   
- - Reuben @ *Global Kitchen*  
-  
-**pork**  
-In name:   
- - Carolina BBQ Pork Sandwich @ *Global Kitchen*  
-  
 **chicken**  
 In name:   
  - Chicken Drumstick BBQ Glazed @ *1849*  
- - Jerk Chicken Sandwich @ *Global Kitchen*  
- - Grilled Chicken Pesto Artichoke Sandwich @ *Global Kitchen*  
  - Chicken Noodle Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2025-12-18)  
@@ -140,23 +118,13 @@ In description:
  - Corn Dog (Pork) @ *Fired Up*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2025-12-18)  
-**Cod**  
-In name:   
-  
-In description:   
- - Petite Fish Sandwich @ *Fired Up*  
-  
-**fish**  
-In name:   
- - Vegan Fish Sandwich @ *Fired Up*  
- - Petite Fish Sandwich @ *Fired Up*  
-  
 **beef**  
 In name:   
  - Beef Stroganoff Creamy @ *Global*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
+ - Burger Bar @ *Fired Up*  
   
 **pork**  
 In name:   
@@ -177,15 +145,9 @@ In description:
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2025-12-18)  
-**Salmon**  
+**Tilapia**  
 In name:   
- - Za'atar Salmon @ *Lowell Market*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Za'atar Salmon @ *Lowell Market*  
+ - Blackened Tilapia @ *Lowell Market*  
   
 **curry**  
 In name:   
@@ -195,13 +157,13 @@ In name:
 In name:   
  - Beef Pot Roast @ *Lowell Market*  
   
-**pork**  
-In name:   
- - Chicken Grilled Cordon Bleu (Pork) @ *Lowell Market*  
+In description:   
+ - Country Gravy @ *Lowell Market*  
   
 **chicken**  
 In name:   
  - Chicken Noodle Soup @ *Great Greens*  
- - Chicken Grilled Cordon Bleu (Pork) @ *Lowell Market*  
+ - Mediterranean Chicken @ *Lowell Market*  
+ - Breaded Chicken Fillet @ *Lowell Market*  
   
   
