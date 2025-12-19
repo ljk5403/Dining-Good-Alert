@@ -1,11 +1,7 @@
 # 2025-12-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-18 17:19:11  
+Updated at: 2025-12-18 19:40:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2025-12-18)  
-**Tilapia**  
-In name:   
- - Blackened Tilapia @ *1849*  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
@@ -20,6 +16,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Adobo @ *1849*  
  - Loaded Potato Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
   
 **chicken**  
@@ -73,26 +70,25 @@ In name:
  - Beef Taco Meat @ *Gordon Que Rico*  
  - BBQ Beef Brisket Sandwich @ *Fired Up*  
   
+In description:   
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
+  
 **pork**  
 In name:   
  - Pork Carnita @ *Gordon Que Rico*  
-  
-In description:   
- - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
   
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Chicken Noodle Soup @ *Great Greens*  
   
+In description:   
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
+  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2025-12-18)  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
-  
-**Shrimp**  
-In name:   
- - Redhook Ale Breaded Shrimp @ *1849*  
   
 **beef**  
 In name:   
