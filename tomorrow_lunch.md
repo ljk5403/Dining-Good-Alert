@@ -1,6 +1,6 @@
 # 2025-12-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2025-12-23 16:19:02  
+Updated at: 2025-12-23 17:18:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2025-12-24)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2025-12-24)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2025-12-24)  
