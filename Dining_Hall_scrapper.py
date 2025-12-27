@@ -16,65 +16,17 @@ dinning_hall_tuple = ('rhetas-market', 'lizs-market', 'gordon-avenue-market', 'f
 #meals_tuple = ('breakfast', 'lunch', 'dinner')
 meals_tuple = ('lunch', 'dinner')
 
-good_dish_category_rare = [
-        'haddock',
-        'crappie',
-        'duck',
-        'squid',
-        'octopus',
-        'goat',
-        'lobster',
-        'crayfish',
-        ]
-good_dish_category_favorite = [
-        'Salmon',
-        'mahi mahi',
-        'catfish',
-        'Shrimp',
-        'Cod',
-        'Tilapia',
-        'Tuna',
-        'fish',
-        'lamb',
-        ]
-good_dish_category_common = [
-        'curry',
-        'beef',
-        'pork',
-        'chicken',
-        ]
-good_dish_name_T0 =[
-        'Vanilla Coconut Milk Yogurt',
-        'Bibimbap Bowl ',
-        'Moroccan Style Lamb Stuffed Peppers',
-        'portabella',
-        'Za’atar Salmon',
-        'lobster',
-        'crayfish',
-        'Bulgogi',
-        'Flauta',
-        'watermelon',
-        'Drunken Noodles',
-        'FiIipino Pork Spring Roll',
-        'Beef Alicha',
-        'Pepper, Onion, & Mushroom Saute'
-        'Poke Bar',
-        'corn bake',
-        'Rapini',
-        'broccoli rabe',
-        'drumstick',
-        'Chicken Drumstick Gochujang Glazed',
-        'Chicken Drummies',
-        'Tandoori Chicken',
-        'Samosas',
-        'Pakoras',
-        'steak',
-        ]
-good_dish_name_T1 =[
-        'BBQ Pork Sandwich',
-        'Filipino Pork Sausage',
-        'Chicken Tamale with Oaxaca',
-        ]
+
+# Read Favorates Dishes from JSON
+with open('fav_dishes.json', 'r') as f:
+    fav_data = json.load(f)
+
+good_dish_category_rare = fav_data['good_dish_category_rare']
+good_dish_category_favorite = fav_data['good_dish_category_favorite']
+good_dish_category_common = fav_data['good_dish_category_common']
+good_dish_name_T0 = fav_data['good_dish_name_T0']
+good_dish_name_T1 = fav_data['good_dish_name_T1']
+
 
 good_dish_list = (
         good_dish_name_T0
@@ -259,7 +211,7 @@ def github_autoUpdater():
             break
 
 if __name__ == '__main__':
-    #raw_test()
+    #raw_test3()
     print("")
 
 
