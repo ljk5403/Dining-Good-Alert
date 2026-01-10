@@ -1,65 +1,81 @@
-# 2026-01-11 dinner  
+# 2026-01-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-09 19:41:01  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-11)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-01-11)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-01-11)  
-**beef**  
+Updated at: 2026-01-10 00:30:01  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-12)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-01-12)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-01-12)  
+**portabella**  
 In name:   
- - Beef Stew @ *1849*  
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Taco Meat @ *Gordon Que Rico*  
+ - Smothered Portabella Mushroom @ *Gordon Que Rico*  
   
 In description:   
- - Italian Meat Sauce @ *Gordon Buona Cucina*  
- - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
- - Vegan Taco Filling @ *Gordon Que Rico*  
+ - Pizza Slice Portabello Alfredo (Veg) @ *Gordon Capital City Pizza*  
   
-**pork**  
+**steak**  
 In name:   
- - Boneless Baked Pork Ham @ *1849*  
- - Pork Carnita @ *Gordon Que Rico*  
+ - Smothered Steak Burrito @ *Gordon Que Rico*  
   
-In description:   
- - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
-  
-**chicken**  
+**Tuna**  
 In name:   
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Giardiniera Chicken @ *Gordon Buona Cucina*  
- - Chicken Tenders Breaded @ *Fired Up*  
- - Plant-Based Chicken Nuggets (6) @ *Fired Up*  
-  
-In description:   
- - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
-  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-01-11)  
-**Salmon**  
-In name:   
- - Tuscan Butter Salmon @ *1849*  
+ - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
   
 **fish**  
 In name:   
   
 In description:   
- - Tuscan Butter Salmon @ *1849*  
+ - Poulet Braise @ *Gordon Eggcetera*  
   
 **curry**  
 In name:   
   
 In description:   
- - Citrus Couscous (VN) (AYCTE) @ *1849*  
+ - Jollof Rice - 25 @ *Gordon Eggcetera*  
+  
+**beef**  
+In name:   
+ - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Beef Ravioli w/Tomato Sauce @ *Gordon Buona Cucina*  
+ - Beef Taco Meat @ *Gordon Que Rico*  
+  
+In description:   
+ - Swedish Meatballs (AYCTE) @ *1849*  
+ - Italian Meat Sauce @ *Gordon Buona Cucina*  
+ - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
+ - Smothered Steak Burrito @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
- - French Market Pork Jambalaya @ *1849*  
+ - Herb Crusted Pork Loin @ *1849*  
+ - Italian Pork Sausage @ *Gordon Buona Cucina*  
   
 **chicken**  
 In name:   
+ - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Pizza Slice Mediterranean Chicken @ *Gordon Capital City Pizza*  
+ - Chicken Tinga @ *Gordon Que Rico*  
+ - Crispy Chicken Sandwich @ *Fired Up*  
   
 In description:   
- - French Market Pork Jambalaya @ *1849*  
+ - Swedish Meatballs (AYCTE) @ *1849*  
+ - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
+ - Poulet Braise @ *Gordon Eggcetera*  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-01-11)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-01-11)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-01-12)  
+**broccoli rabe**  
+In name:   
+ - Broccoli Rabe @ *1849*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - California Roll  (FujiSan) @ *Create-A-Bowl*  
+ - Tempura Roll (FujiSan) @ *Create-A-Bowl*  
+  
+**beef**  
+In name:   
+ - Beef Stroganoff Creamy @ *1849*  
+  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-01-12)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-01-12)  
   

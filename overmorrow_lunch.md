@@ -1,47 +1,61 @@
-# 2026-01-11 lunch  
+# 2026-01-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-09 19:40:59  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-11)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-01-11)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-01-11)  
+Updated at: 2026-01-10 00:29:59  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-12)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-01-12)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-01-12)  
+**portabella**  
+In name:   
+  
+In description:   
+ - Pizza Slice Portabello Alfredo (Veg) @ *Gordon Capital City Pizza*  
+  
 **steak**  
 In name:   
- - Plant-Based Pepper Steak Stir Fry @ *1849*  
+ - Island Spiced Beef Steak @ *1849*  
   
-**Shrimp**  
+**Salmon**  
 In name:   
- - Coconut Shrimp @ *1849*  
+ - Baked Salmon Fillet @ *1849*  
   
-**beef**  
-In name:   
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
-  
-In description:   
- - Plant-Based Pepper Steak Stir Fry @ *1849*  
- - Italian Meat Sauce @ *Gordon Buona Cucina*  
- - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
- - Fired Up Blended Burger @ *Gordon Fired Up*  
-  
-**pork**  
-In name:   
- - Biscuits & Pork Gravy @ *Gordon Eggcetera*  
-  
-In description:   
- - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
-  
-**chicken**  
-In name:   
- - Jamaican Jerk Chicken @ *1849*  
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Giardiniera Chicken @ *Gordon Buona Cucina*  
-  
-In description:   
- - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
-  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-01-11)  
 **Tuna**  
 In name:   
- - Tuna Salad @ *Delicious*  
+ - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Baked Salmon Fillet @ *1849*  
+  
+**beef**  
+In name:   
+ - Island Spiced Beef Steak @ *1849*  
+ - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Beef Ravioli w/Tomato Sauce @ *Gordon Buona Cucina*  
+  
+In description:   
+ - Italian Meat Sauce @ *Gordon Buona Cucina*  
+ - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
+ - Pork Bratwurst Sandwich @ *Gordon Fired Up*  
+  
+**pork**  
+In name:   
+ - Italian Pork Sausage @ *Gordon Buona Cucina*  
+ - Pork Bratwurst Sandwich @ *Gordon Fired Up*  
+  
+**chicken**  
+In name:   
+ - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Pizza Slice Mediterranean Chicken @ *Gordon Capital City Pizza*  
+  
+In description:   
+ - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-01-12)  
+**drumstick**  
+In name:   
+ - Chicken Drumstick BBQ Glazed @ *1849*  
   
 **beef**  
 In name:   
@@ -51,15 +65,16 @@ In description:
   
 **pork**  
 In name:   
- - Pork Sausage Links @ *1849*  
   
 In description:   
+ - Hot Ham Sandwich @ *1849*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
 In name:   
- - Sausage Links Chicken (halal) (AYCTE) @ *1849*  
+ - Chicken Drumstick BBQ Glazed @ *1849*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-01-11)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-01-11)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-01-12)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-01-12)  
   
