@@ -1,6 +1,6 @@
 # 2026-01-11 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-11 12:28:27  
+Updated at: 2026-01-11 14:22:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-11)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-01-11)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-01-11)  
@@ -45,11 +45,13 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
+ - Baked Corn Dog (Pork) @ *Fired Up*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
 In name:   
  - Pork Sausage Links @ *1849*  
+ - Baked Corn Dog (Pork) @ *Fired Up*  
  - Pork Carnita @ *Que Rico*  
  - Pork Sausage Patty @ *Create-A-Bowl*  
   
@@ -62,6 +64,9 @@ In name:
  - Plant Based Chicken Strips @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Chicken Chili @ *None*  
+  
+In description:   
+ - Baked Corn Dog (Pork) @ *Fired Up*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-01-11)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-01-11)  
