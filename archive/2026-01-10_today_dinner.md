@@ -1,9 +1,13 @@
 # 2026-01-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-11 11:16:55  
+Updated at: 2026-01-11 12:28:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-11)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-01-11)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-01-11)  
+**Tuna**  
+In name:   
+ - Tuna @ *None*  
+  
 **beef**  
 In name:   
  - Beef Stew @ *1849*  
@@ -46,12 +50,23 @@ In name:
 In description:   
  - Citrus Couscous (VN) (AYCTE) @ *1849*  
   
+**beef**  
+In name:   
+ - Beef & Chicken Meatballs @ *Global Kitchen*  
+ - Beef Taco Meat @ *Que Rico*  
+  
+In description:   
+ - Grilled Blended Burger w/ Cheese @ *Fired Up*  
+  
 **pork**  
 In name:   
  - French Market Pork Jambalaya @ *1849*  
+ - Pork Carnita @ *Que Rico*  
   
 **chicken**  
 In name:   
+ - Beef & Chicken Meatballs @ *Global Kitchen*  
+ - Chicken Chili @ *None*  
   
 In description:   
  - French Market Pork Jambalaya @ *1849*  

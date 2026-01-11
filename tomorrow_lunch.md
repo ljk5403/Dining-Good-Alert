@@ -1,6 +1,6 @@
 # 2026-01-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-11 12:28:31  
+Updated at: 2026-01-11 14:22:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-12)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-01-12)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-01-12)  
@@ -85,10 +85,13 @@ In name:
 In name:   
   
 In description:   
+ - Reuben Knockwurst (Pork) on Pretzel Bun @ *Fired Up*  
+ - Grilled Blended Burger w/ Cheese @ *Fired Up*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
 In name:   
+ - Reuben Knockwurst (Pork) on Pretzel Bun @ *Fired Up*  
  - Italian Pork Sausage @ *Global Kitchen*  
   
 In description:   
