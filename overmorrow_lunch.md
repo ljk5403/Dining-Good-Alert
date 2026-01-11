@@ -1,6 +1,6 @@
 # 2026-01-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-11 00:31:32  
+Updated at: 2026-01-11 08:18:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-13)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-01-13)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-01-13)  
@@ -10,18 +10,11 @@ In name:
 In description:   
  - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
   
-**steak**  
-In name:   
- - Philly Cheesesteak Sandwich @ *Gordon Fired Up*  
- - Tempeh Philly Cheesesteak Sandwich @ *Gordon Fired Up*  
-  
 **beef**  
 In name:   
  - Beef Sirloin Tips @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
-  
-In description:   
- - Philly Cheesesteak Sandwich @ *Gordon Fired Up*  
+ - Beef Taco Meat @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
@@ -35,7 +28,6 @@ In name:
  - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
- - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-01-13)  
 **lamb**  
