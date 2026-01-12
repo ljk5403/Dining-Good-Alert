@@ -1,6 +1,6 @@
 # 2026-01-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-12 09:25:33  
+Updated at: 2026-01-12 10:27:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-13)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-01-13)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-01-13)  
@@ -47,7 +47,7 @@ In name:
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-01-13)  
 **watermelon**  
 In name:   
- - Watermelon Slices @ *None*  
+ - Watermelon Slices @ *Great Greens*  
   
 **lamb**  
 In name:   
@@ -74,8 +74,8 @@ In name:
  - Spicy Crispy Chicken Sandwich @ *Fired Up*  
  - Italian Chicken @ *Global Kitchen*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Diced Chicken @ *None*  
- - Chicken Dumpling Soup @ *None*  
+ - Diced Chicken @ *Great Greens*  
+ - Chicken Dumpling Soup @ *Great Greens*  
   
 In description:   
  - Ancho Braised Pork @ *Que Rico*  

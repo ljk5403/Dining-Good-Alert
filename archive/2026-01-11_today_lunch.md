@@ -1,6 +1,6 @@
 # 2026-01-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-12 08:24:59  
+Updated at: 2026-01-12 09:25:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-12)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-01-12)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-01-12)  
@@ -26,7 +26,6 @@ In description:
 In name:   
  - Island Spiced Beef Steak @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Ravioli w/Tomato Sauce @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
@@ -43,6 +42,7 @@ In name:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Chicken Empanada with Green Chili @ *Gordon Que Rico*  
  - Chicken Tinga @ *Gordon Que Rico*  
  - Diced Chicken @ *None*  
  - Lemon Chicken Rice Soup @ *None*  
@@ -55,6 +55,10 @@ In description:
 **portabella**  
 In name:   
  - Portabella Mushroom Ravioli Plain @ *Global Kitchen*  
+  
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
   
 **beef**  
 In name:   
@@ -74,7 +78,6 @@ In description:
   
 **chicken**  
 In name:   
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *None*  
  - Lemon Chicken Rice Soup @ *None*  
   

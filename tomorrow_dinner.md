@@ -1,6 +1,6 @@
 # 2026-01-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-12 09:25:35  
+Updated at: 2026-01-12 10:27:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-13)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-01-13)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-01-13)  
@@ -61,7 +61,7 @@ In name:
   
 **watermelon**  
 In name:   
- - Watermelon Slices @ *None*  
+ - Watermelon Slices @ *Great Greens*  
   
 **mahi mahi**  
 In name:   
@@ -83,8 +83,8 @@ In name:
 In name:   
  - Italian Chicken @ *Global Kitchen*  
  - Smoked BBQ Chicken Breast @ *1849*  
- - Diced Chicken @ *None*  
- - Chicken Dumpling Soup @ *None*  
+ - Diced Chicken @ *Great Greens*  
+ - Chicken Dumpling Soup @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-01-13)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-01-13)  
