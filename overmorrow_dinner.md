@@ -1,89 +1,93 @@
-# 2026-01-13 dinner  
+# 2026-01-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-11 19:48:58  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-13)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-01-13)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-01-13)  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *None*  
-  
-**broccoli rabe**  
-In name:   
-  
-In description:   
- - Tempeh w/Red Peppers & Broc Rabe @ *1849*  
-  
-**steak**  
-In name:   
-  
-In description:   
- - Montreal Chicken @ *1849*  
-  
-**beef**  
-In name:   
- - Texas BBQ Sliced Beef Brisket @ *1849*  
- - Beef Gravy @ *1849*  
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Taco Meat @ *Gordon Que Rico*  
-  
-**pork**  
-In name:   
- - Cubano (Pork) Pizza @ *Gordon Capital City Pizza*  
-  
-In description:   
- - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
-  
-**chicken**  
-In name:   
- - Montreal Chicken @ *1849*  
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
- - Chicken Empanada with Green Chili @ *Gordon Que Rico*  
- - Diced Chicken @ *None*  
- - Chicken Dumpling Soup @ *None*  
-  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-01-13)  
+Updated at: 2026-01-12 00:36:21  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-14)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-01-14)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-01-14)  
 **portabella**  
 In name:   
   
 In description:   
- - Mushroom Bulgogi Bao Bun @ *Que Rico*  
-  
-**Bulgogi**  
-In name:   
- - Beef Bulgogi Bao Bun @ *Que Rico*  
- - Mushroom Bulgogi Bao Bun @ *Que Rico*  
-  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *None*  
-  
-**mahi mahi**  
-In name:   
- - Blackened Mahi Mahi @ *1849*  
+ - Vegan French Dip Sandwich @ *Fired Up*  
   
 **Shrimp**  
 In name:   
- - Shrimp Po-Boy Sandwich @ *Fired Up*  
+ - Shrimp & Green Chile Burrito @ *Gordon Que Rico*  
   
-**Cod**  
+**Tilapia**  
 In name:   
- - Battered Cod Fillet Sandwich w/ Cheese @ *Fired Up*  
+ - Baked Tilapia w/Dill Wine Sauce @ *1849*  
   
 **beef**  
 In name:   
- - Beef Bulgogi Bao Bun @ *Que Rico*  
- - Mediterranean Beef @ *Create-A-Bowl*  
+ - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Beef Taco Meat @ *Gordon Que Rico*  
+ - Beef French Dip Sandwich @ *Fired Up*  
+ - Beef Chili @ *None*  
+  
+In description:   
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
+ - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
+ - Vegan Taco Filling @ *Gordon Que Rico*  
+  
+**pork**  
+In name:   
+ - Italian Pork Sausage @ *Gordon Buona Cucina*  
+ - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
+ - Gluten Free Pork Sausage Pizza Quarter @ *Gordon Capital City Pizza*  
+ - Pork Carnita @ *Gordon Que Rico*  
   
 **chicken**  
 In name:   
- - Italian Chicken @ *Global Kitchen*  
- - Smoked BBQ Chicken Breast @ *1849*  
- - Mediterranean Chicken @ *Create-A-Bowl*  
+ - Huli Huli Chicken @ *1849*  
+ - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
  - Diced Chicken @ *None*  
- - Chicken Dumpling Soup @ *None*  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-01-13)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-01-13)  
+In description:   
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
+ - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-01-14)  
+**Cod**  
+In name:   
+ - Miso Cod @ *1849*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Vietnamese Pork @ *1849*  
+ - Miso Cod @ *1849*  
+  
+**curry**  
+In name:   
+  
+In description:   
+ - Vegetable & Tofu Madras w/Basmati Rice @ *1849*  
+  
+**beef**  
+In name:   
+ - Beef Broccoli Stir Fry @ *Global Kitchen*  
+ - Beef Chili @ *None*  
+  
+In description:   
+ - Pork Bratwurst Sandwich @ *Fired Up*  
+  
+**pork**  
+In name:   
+ - Pork Bratwurst Sandwich @ *Fired Up*  
+ - Vietnamese Pork @ *1849*  
+  
+**chicken**  
+In name:   
+ - Chicken Wings Boneless Plain @ *Que Rico*  
+ - Plant-Based Chicken Nuggets (6) @ *Que Rico*  
+ - Diced Chicken @ *None*  
+  
+In description:   
+ - BYO Bar - Mac & Cheese @ *Create-A-Bowl*  
+  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-01-14)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-01-14)  
   
