@@ -1,6 +1,6 @@
 # 2026-01-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-12 00:36:08  
+Updated at: 2026-01-12 08:25:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-12)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-01-12)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-01-12)  
@@ -18,18 +18,6 @@ In name:
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Poulet Braise @ *Gordon Eggcetera*  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Jollof Rice - 25 @ *Gordon Eggcetera*  
   
 **beef**  
 In name:   
@@ -60,17 +48,8 @@ In name:
 In description:   
  - Swedish Meatballs (AYCTE) @ *1849*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
- - Poulet Braise @ *Gordon Eggcetera*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-01-12)  
-**portabella**  
-In name:   
- - Portabella Mushroom Ravioli Plain @ *Global Kitchen*  
-  
-**broccoli rabe**  
-In name:   
- - Broccoli Rabe @ *1849*  
-  
 **Samosas**  
 In name:   
  - Samosas @ *Que Rico*  
@@ -85,10 +64,6 @@ In description:
 In name:   
  - Indian Fish Curry @ *Que Rico*  
   
-In description:   
- - California Roll  (FujiSan) @ *Create-A-Bowl*  
- - Tempura Roll (FujiSan) @ *Create-A-Bowl*  
-  
 **curry**  
 In name:   
  - Indian Fish Curry @ *Que Rico*  
@@ -97,14 +72,9 @@ In name:
   
 **beef**  
 In name:   
- - Beef Stroganoff Creamy @ *1849*  
   
 In description:   
  - Chicago-Style Hot Dog @ *Fired Up*  
-  
-**pork**  
-In name:   
- - Italian Pork Sausage @ *Global Kitchen*  
   
 **chicken**  
 In name:   
