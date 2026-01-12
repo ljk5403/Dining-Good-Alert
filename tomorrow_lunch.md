@@ -1,6 +1,6 @@
 # 2026-01-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-12 00:36:11  
+Updated at: 2026-01-12 08:25:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-13)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-01-13)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-01-13)  
@@ -57,7 +57,6 @@ In name:
 In name:   
  - Traditional Beef Shepard's Pie @ *1849*  
  - Beef Taco Meat @ *Que Rico*  
- - Mediterranean Beef @ *Create-A-Bowl*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
@@ -74,7 +73,6 @@ In name:
  - Grilled Chicken Sandwich @ *Fired Up*  
  - Spicy Crispy Chicken Sandwich @ *Fired Up*  
  - Italian Chicken @ *Global Kitchen*  
- - Mediterranean Chicken @ *Create-A-Bowl*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *None*  
  - Chicken Dumpling Soup @ *None*  

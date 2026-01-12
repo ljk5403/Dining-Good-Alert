@@ -1,6 +1,6 @@
 # 2026-01-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-12 00:36:15  
+Updated at: 2026-01-12 08:25:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-13)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-01-13)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-01-13)  
@@ -78,13 +78,11 @@ In name:
 **beef**  
 In name:   
  - Beef Bulgogi Bao Bun @ *Que Rico*  
- - Mediterranean Beef @ *Create-A-Bowl*  
   
 **chicken**  
 In name:   
  - Italian Chicken @ *Global Kitchen*  
  - Smoked BBQ Chicken Breast @ *1849*  
- - Mediterranean Chicken @ *Create-A-Bowl*  
  - Diced Chicken @ *None*  
  - Chicken Dumpling Soup @ *None*  
   
