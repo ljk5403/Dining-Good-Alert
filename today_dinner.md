@@ -1,6 +1,6 @@
 # 2026-01-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-12 10:26:59  
+Updated at: 2026-01-12 11:23:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-12)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-01-12)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-01-12)  
@@ -42,8 +42,8 @@ In name:
  - Pizza Slice Mediterranean Chicken @ *Gordon Capital City Pizza*  
  - Chicken Tinga @ *Gordon Que Rico*  
  - Crispy Chicken Sandwich @ *Fired Up*  
- - Diced Chicken @ *None*  
- - Lemon Chicken Rice Soup @ *None*  
+ - Diced Chicken @ *Great Greens*  
+ - Lemon Chicken Rice Soup @ *Great Greens*  
   
 In description:   
  - Swedish Meatballs (AYCTE) @ *1849*  

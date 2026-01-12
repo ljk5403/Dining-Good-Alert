@@ -1,12 +1,12 @@
 # 2026-01-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-12 10:27:21  
+Updated at: 2026-01-12 11:23:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-13)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-01-13)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-01-13)  
 **watermelon**  
 In name:   
- - Watermelon Slices @ *None*  
+ - Watermelon Slices @ *Great Greens*  
   
 **broccoli rabe**  
 In name:   
@@ -44,8 +44,8 @@ In name:
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Chicken Empanada with Green Chili @ *Gordon Que Rico*  
  - Chicken Paprikash @ *Gordon Eggcetera*  
- - Diced Chicken @ *None*  
- - Chicken Dumpling Soup @ *None*  
+ - Diced Chicken @ *Great Greens*  
+ - Chicken Dumpling Soup @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-01-13)  
 **portabella**  
