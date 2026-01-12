@@ -1,17 +1,9 @@
 # 2026-01-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-12 16:18:32  
+Updated at: 2026-01-12 17:16:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-12)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-01-12)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-01-12)  
-**portabella**  
-In name:   
- - Smothered Portabella Mushroom @ *Gordon Que Rico*  
-  
-**steak**  
-In name:   
- - Smothered Steak Burrito @ *Gordon Que Rico*  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
@@ -25,7 +17,6 @@ In description:
  - Swedish Meatballs (AYCTE) @ *1849*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
- - Smothered Steak Burrito @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
@@ -36,6 +27,7 @@ In name:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Chicken Empanada with Green Chili @ *Gordon Que Rico*  
  - Chicken Tinga @ *Gordon Que Rico*  
  - Crispy Chicken Sandwich @ *Fired Up*  
  - Diced Chicken @ *Great Greens*  
@@ -57,6 +49,10 @@ In name:
 In description:   
  - Indian Fish Curry @ *Que Rico*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **fish**  
 In name:   
  - Indian Fish Curry @ *Que Rico*  
@@ -72,6 +68,13 @@ In name:
   
 In description:   
  - Chicago-Style Hot Dog @ *Fired Up*  
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
+  
+**pork**  
+In name:   
+  
+In description:   
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
 In name:   
