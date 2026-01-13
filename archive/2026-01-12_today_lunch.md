@@ -1,6 +1,6 @@
 # 2026-01-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-13 10:31:21  
+Updated at: 2026-01-13 11:25:34  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-13)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-01-13)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-01-13)  
@@ -17,11 +17,11 @@ In name:
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Grilled Blended Burger w/ Cheese @ *Gordon Fired Up*  
   
 **pork**  
 In name:   
- - Cubano (Pork) Pizza @ *Gordon Capital City Pizza*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
@@ -34,10 +34,17 @@ In name:
  - Diced Chicken @ *Great Greens*  
  - Chicken Tortilla Soup @ *Great Greens*  
   
+In description:   
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
+  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-01-13)  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
+  
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
   
 **beef**  
 In name:   
@@ -56,7 +63,6 @@ In description:
 **chicken**  
 In name:   
  - Spicy Crispy Chicken Sandwich @ *Fired Up*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
   
