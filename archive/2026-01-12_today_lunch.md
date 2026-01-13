@@ -1,32 +1,20 @@
 # 2026-01-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-13 00:33:34  
+Updated at: 2026-01-13 08:25:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-13)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-01-13)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-01-13)  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
 **drumstick**  
 In name:   
   
 In description:   
  - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
   
-**steak**  
-In name:   
- - Philly Cheesesteak Sandwich @ *Gordon Fired Up*  
- - Tempeh Philly Cheesesteak Sandwich @ *Gordon Fired Up*  
-  
 **beef**  
 In name:   
  - Beef Sirloin Tips @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
-  
-In description:   
- - Philly Cheesesteak Sandwich @ *Gordon Fired Up*  
   
 **pork**  
 In name:   
@@ -40,22 +28,16 @@ In name:
  - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
- - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Dumpling Soup @ *Great Greens*  
+ - Chicken Tortilla Soup @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-01-13)  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**lamb**  
-In name:   
- - Smoked Leg of Lamb @ *1849*  
-  
 **beef**  
 In name:   
- - Traditional Beef Shepard's Pie @ *1849*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -72,7 +54,6 @@ In description:
 In name:   
  - Grilled Chicken Sandwich @ *Fired Up*  
  - Spicy Crispy Chicken Sandwich @ *Fired Up*  
- - Italian Chicken @ *Global Kitchen*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
