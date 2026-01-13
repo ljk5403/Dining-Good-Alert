@@ -1,73 +1,85 @@
-# 2026-01-12 dinner  
+# 2026-01-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-12 19:40:38  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-12)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-01-12)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-01-12)  
-**Tuna**  
+Updated at: 2026-01-13 00:33:36  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-13)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-01-13)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-01-13)  
+**watermelon**  
 In name:   
- - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
+ - Watermelon Slices @ *Great Greens*  
+  
+**broccoli rabe**  
+In name:   
+  
+In description:   
+ - Tempeh w/Red Peppers & Broc Rabe @ *1849*  
+  
+**steak**  
+In name:   
+  
+In description:   
+ - Montreal Chicken @ *1849*  
   
 **beef**  
 In name:   
+ - Texas BBQ Sliced Beef Brisket @ *1849*  
+ - Beef Gravy @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
- - Swedish Meatballs (AYCTE) @ *1849*  
- - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
- - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
+ - Grilled Blended Burger w/ Cheese @ *Fired Up*  
   
 **pork**  
 In name:   
- - Herb Crusted Pork Loin @ *1849*  
- - Pork Italian Sausage @ *Gordon Buona Cucina*  
- - Italian Pork Sausage @ *Gordon Buona Cucina*  
+ - Cubano (Pork) Pizza @ *Gordon Capital City Pizza*  
+  
+In description:   
+ - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
   
 **chicken**  
 In name:   
+ - Montreal Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Chicken Empanada with Green Chili @ *Gordon Que Rico*  
- - Chicken Tinga @ *Gordon Que Rico*  
- - Crispy Chicken Sandwich @ *Fired Up*  
+ - Chicken Paprikash @ *Gordon Eggcetera*  
  - Diced Chicken @ *Great Greens*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
+ - Chicken Dumpling Soup @ *Great Greens*  
   
-In description:   
- - Swedish Meatballs (AYCTE) @ *1849*  
- - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
- - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
-  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-01-12)  
-**Samosas**  
-In name:   
- - Samosas @ *Que Rico*  
-  
-**catfish**  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-01-13)  
+**portabella**  
 In name:   
   
 In description:   
- - Indian Fish Curry @ *Que Rico*  
+ - Mushroom Bulgogi Bao Bun @ *Que Rico*  
   
-**Tuna**  
+**Bulgogi**  
 In name:   
- - Tuna Salad @ *Delicious*  
+ - Beef Bulgogi Bao Bun @ *Que Rico*  
+ - Mushroom Bulgogi Bao Bun @ *Que Rico*  
   
-**fish**  
+**watermelon**  
 In name:   
- - Indian Fish Curry @ *Que Rico*  
+ - Watermelon Slices @ *Great Greens*  
   
-**curry**  
+**mahi mahi**  
 In name:   
- - Indian Fish Curry @ *Que Rico*  
- - Curry Mango - Tofu @ *Que Rico*  
- - Curry Potatoes @ *Que Rico*  
+ - Blackened Mahi Mahi @ *1849*  
+  
+**Shrimp**  
+In name:   
+ - Shrimp Po-Boy Sandwich @ *Fired Up*  
+  
+**Cod**  
+In name:   
+ - Battered Cod Fillet Sandwich w/ Cheese @ *Fired Up*  
   
 **beef**  
 In name:   
+ - Beef Bulgogi Bao Bun @ *Que Rico*  
   
 In description:   
- - Chicago-Style Hot Dog @ *Fired Up*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
@@ -78,9 +90,12 @@ In description:
   
 **chicken**  
 In name:   
+ - Italian Chicken @ *Global Kitchen*  
+ - Smoked BBQ Chicken Breast @ *1849*  
  - Diced Chicken @ *Great Greens*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
+ - Chicken Dumpling Soup @ *Great Greens*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-01-12)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-01-12)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-01-13)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-01-13)  
   

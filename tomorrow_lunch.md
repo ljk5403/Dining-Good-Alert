@@ -1,85 +1,80 @@
-# 2026-01-13 lunch  
+# 2026-01-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-12 19:40:41  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-13)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-01-13)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-01-13)  
-**watermelon**  
+Updated at: 2026-01-13 00:33:37  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-14)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-01-14)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-01-14)  
+**mahi mahi**  
 In name:   
- - Watermelon Slices @ *Great Greens*  
+ - Baked Mahi Mahi w/ Butter & Lemon @ *1849*  
   
-**drumstick**  
+**curry**  
 In name:   
-  
-In description:   
- - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
-  
-**steak**  
-In name:   
- - Philly Cheesesteak Sandwich @ *Gordon Fired Up*  
- - Tempeh Philly Cheesesteak Sandwich @ *Gordon Fired Up*  
+ - VEGAN Thai Chick'n w/ Green Curry (VN) @ *1849*  
   
 **beef**  
 In name:   
- - Beef Sirloin Tips @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
+ - Beef Chili @ *Great Greens*  
   
 In description:   
- - Philly Cheesesteak Sandwich @ *Gordon Fired Up*  
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
+ - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
+ - Vegan Taco Filling @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
- - Cubano (Pork) Pizza @ *Gordon Capital City Pizza*  
-  
-In description:   
- - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
+ - Italian Pork Sausage @ *Gordon Buona Cucina*  
+ - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
+ - Gluten Free Pork Sausage Pizza Quarter @ *Gordon Capital City Pizza*  
+ - Pork Carnita @ *Gordon Que Rico*  
   
 **chicken**  
 In name:   
- - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
+ - Broasted Chicken 2 pc @ *1849*  
+ - Chicken Gravy @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
- - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
+ - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Dumpling Soup @ *Great Greens*  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-01-13)  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
+In description:   
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
+ - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
   
-**lamb**  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-01-14)  
+**portabella**  
 In name:   
- - Smoked Leg of Lamb @ *1849*  
+  
+In description:   
+ - Vegan French Dip Sandwich @ *Fired Up*  
+  
+**Tilapia**  
+In name:   
+ - Tilapia Chipotle Lime Crusted @ *1849*  
   
 **beef**  
 In name:   
- - Traditional Beef Shepard's Pie @ *1849*  
- - Beef Taco Meat @ *Que Rico*  
+ - Beef Chili @ *Great Greens*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
 In name:   
- - Ancho Braised Pork @ *Que Rico*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
 In name:   
- - Grilled Chicken Sandwich @ *Fired Up*  
- - Spicy Crispy Chicken Sandwich @ *Fired Up*  
- - Italian Chicken @ *Global Kitchen*  
+ - Huli Huli Chicken @ *1849*  
+ - Chicken Stir-Fry Coconut Lime @ *Global Kitchen*  
+ - Chicken Wings Boneless Plain @ *Que Rico*  
+ - Plant-Based Chicken Nuggets (6) @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Dumpling Soup @ *Great Greens*  
   
-In description:   
- - Ancho Braised Pork @ *Que Rico*  
-  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-01-13)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-01-13)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-01-14)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-01-14)  
   
