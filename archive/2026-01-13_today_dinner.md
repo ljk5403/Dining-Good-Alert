@@ -1,6 +1,6 @@
 # 2026-01-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-14 08:24:53  
+Updated at: 2026-01-14 09:25:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-14)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-01-14)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-01-14)  
@@ -38,23 +38,6 @@ In description:
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-01-14)  
-**Cod**  
-In name:   
- - Miso Cod @ *1849*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Vietnamese Pork @ *1849*  
- - Miso Cod @ *1849*  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Vegetable & Tofu Madras w/Basmati Rice @ *1849*  
-  
 **beef**  
 In name:   
  - Beef Broccoli Stir Fry @ *Global Kitchen*  
@@ -67,7 +50,6 @@ In description:
 **pork**  
 In name:   
  - Pork Bratwurst Sandwich @ *Fired Up*  
- - Vietnamese Pork @ *1849*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
