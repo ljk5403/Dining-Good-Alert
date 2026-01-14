@@ -1,6 +1,6 @@
 # 2026-01-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-14 08:24:51  
+Updated at: 2026-01-14 09:25:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-14)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-01-14)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-01-14)  
@@ -49,10 +49,6 @@ In name:
 In description:   
  - Vegan French Dip Sandwich @ *Fired Up*  
   
-**Tilapia**  
-In name:   
- - Tilapia Chipotle Lime Crusted @ *1849*  
-  
 **beef**  
 In name:   
  - Beef Chili @ *Great Greens*  
@@ -68,7 +64,6 @@ In description:
   
 **chicken**  
 In name:   
- - Huli Huli Chicken @ *1849*  
  - Chicken Stir-Fry Coconut Lime @ *Global Kitchen*  
  - Chicken Wings Boneless Plain @ *Que Rico*  
  - Plant-Based Chicken Nuggets (6) @ *Que Rico*  
