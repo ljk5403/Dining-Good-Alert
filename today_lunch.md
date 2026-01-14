@@ -1,6 +1,6 @@
 # 2026-01-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-14 10:29:55  
+Updated at: 2026-01-14 11:26:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-14)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-01-14)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-01-14)  
@@ -43,11 +43,13 @@ In description:
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-01-14)  
-**portabella**  
+**Tilapia**  
 In name:   
+ - Tilapia Chipotle Lime Crusted @ *1849*  
   
-In description:   
- - Vegan French Dip Sandwich @ *Fired Up*  
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
   
 **beef**  
 In name:   
@@ -64,10 +66,9 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Stir-Fry Coconut Lime @ *Global Kitchen*  
+ - Huli Huli Chicken @ *1849*  
  - Chicken Wings Boneless Plain @ *Que Rico*  
  - Plant-Based Chicken Nuggets (6) @ *Que Rico*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-01-14)  
