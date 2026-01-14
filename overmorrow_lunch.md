@@ -1,70 +1,88 @@
-# 2026-01-15 lunch  
+# 2026-01-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-13 19:47:58  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-15)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-01-15)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-01-15)  
-**steak**  
+Updated at: 2026-01-14 00:33:50  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-16)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-01-16)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-01-16)  
+**watermelon**  
 In name:   
- - Spicy Steak Fajita @ *Gordon Que Rico*  
+ - Watermelon Slices @ *Great Greens*  
   
-**Tuna**  
+**Shrimp**  
 In name:   
- - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
+ - Sauteed Shrimp @ *Gordon Buona Cucina*  
+  
+**Cod**  
+In name:   
+ - Cod w/ Roasted Fruit Salsa @ *1849*  
+  
+**lamb**  
+In name:   
+  
+In description:   
+ - Pizza Slice Gyro @ *Gordon Capital City Pizza*  
   
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Mediterranean Beef @ *Gordon Global Kitchen*  
+ - Beef Barbacoa @ *Gordon Que Rico*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
- - Mushroom Swiss Blended Burger @ *Gordon Fired Up*  
- - Spicy Steak Fajita @ *Gordon Que Rico*  
+ - Burnt Ends @ *1849*  
+ - Pizza Slice Gyro @ *Gordon Capital City Pizza*  
   
 **pork**  
 In name:   
- - Pork Chop (1) @ *1849*  
+ - Chicken Bacon (Pork) Ranch Pizza @ *Gordon Capital City Pizza*  
+  
+In description:   
+ - Gnocchi w/ Sausage & Roast Veg @ *Gordon Buona Cucina*  
   
 **chicken**  
 In name:   
- - Chicken Baked  (1 piece) @ *1849*  
- - Plant-Based Chicken & Gravy (VN) @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
- - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
- - Mediterranean Chicken @ *Gordon Global Kitchen*  
+ - Chicken Bacon (Pork) Ranch Pizza @ *Gordon Capital City Pizza*  
+ - Chicken Tenders Breaded @ *Gordon Fired Up*  
+ - Plant-Based Chicken Nuggets (6) @ *Gordon Fired Up*  
+ - Greek Chicken @ *Gordon Global Kitchen*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Noodle Soup @ *Great Greens*  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-01-15)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-01-16)  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
+  
+**Shrimp**  
+In name:   
+ - Sauteed Shrimp @ *Que Rico*  
+  
+**Tilapia**  
+In name:   
+ - Tilapia Veracruz @ *1849*  
+  
 **beef**  
 In name:   
- - Beef Tri Tip Carved w/ Chimichurri @ *1849*  
- - Roast Beef & Cheddar Panini on Rye @ *Fired Up*  
+ - Beef Fajita Meat @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
+ - Vegan Taco Filling @ *Que Rico*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
 In name:   
- - Apple Cider Braised Pork @ *1849*  
+ - Denver Scramble (Pork) @ *1849*  
   
 In description:   
- - Andouille Sausage @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
 In name:   
- - Plant-Based Chicken Tenders @ *Fired Up*  
+ - Chipotle BBQ Chicken Sandwich @ *Fired Up*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Noodle Soup @ *Great Greens*  
   
-In description:   
- - Apple Cider Braised Pork @ *1849*  
-  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-01-15)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-01-15)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-01-16)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-01-16)  
   
