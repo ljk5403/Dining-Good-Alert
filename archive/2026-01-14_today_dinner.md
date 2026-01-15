@@ -1,12 +1,16 @@
 # 2026-01-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-15 14:24:57  
+Updated at: 2026-01-15 15:20:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-15)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-01-15)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-01-15)  
 **Chicken Drummies**  
 In name:   
  - Chicken Drummies @ *1849*  
+  
+**steak**  
+In name:   
+ - Spicy Steak Fajita @ *Gordon Que Rico*  
   
 **Cod**  
 In name:   
@@ -26,9 +30,10 @@ In description:
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Mediterranean Beef @ *Gordon Global Kitchen*  
- - Beef Birria Tacos @ *Gordon Que Rico*  
+ - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
+ - Spicy Steak Fajita @ *Gordon Que Rico*  
  - Italian Meatball Sandwich @ *Fired Up*  
   
 **chicken**  
