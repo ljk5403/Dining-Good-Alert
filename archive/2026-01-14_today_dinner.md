@@ -1,6 +1,6 @@
 # 2026-01-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-15 15:20:49  
+Updated at: 2026-01-15 16:21:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-15)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-01-15)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-01-15)  
@@ -43,7 +43,7 @@ In name:
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Mediterranean Chicken @ *Gordon Global Kitchen*  
  - Diced Chicken @ *Great Greens*  
- - Cream of Chicken & Wild Rice Soup @ *Great Greens*  
+ - Chicken Tortilla Soup @ *Great Greens*  
   
 In description:   
  - Italian Meatball Sandwich @ *Fired Up*  
