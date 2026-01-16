@@ -1,83 +1,111 @@
-# 2026-01-15 dinner  
+# 2026-01-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-15 19:44:44  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-15)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-01-15)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-01-15)  
-**Chicken Drummies**  
+Updated at: 2026-01-16 00:34:03  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-16)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-01-16)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-01-16)  
+**watermelon**  
 In name:   
- - Chicken Drummies @ *1849*  
+ - Watermelon Slices @ *Great Greens*  
   
-**steak**  
+**haddock**  
 In name:   
- - Spicy Steak Fajita @ *Gordon Que Rico*  
+ - Haddock Ginger Glazed (AYCTE) @ *1849*  
   
-**Cod**  
+**squid**  
 In name:   
- - Basque Style Cod @ *1849*  
   
-**Tuna**  
+In description:   
+ - Fried Calamari @ *Gordon Eggcetera*  
+  
+**Shrimp**  
 In name:   
- - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
+ - Sauteed Shrimp @ *Gordon Buona Cucina*  
+ - Shrimp Po-Boy Sandwich @ *Fired Up*  
+  
+**lamb**  
+In name:   
+  
+In description:   
+ - Pizza Slice Gyro @ *Gordon Capital City Pizza*  
   
 **curry**  
 In name:   
-  
-In description:   
- - Coconut Vegetable Stew @ *1849*  
+ - Lentil Chickpea Red Curry @ *Gordon Global Kitchen*  
   
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Mediterranean Beef @ *Gordon Global Kitchen*  
- - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
- - Spicy Steak Fajita @ *Gordon Que Rico*  
- - Italian Meatball Sandwich @ *Fired Up*  
+ - Pizza Slice Gyro @ *Gordon Capital City Pizza*  
+  
+**pork**  
+In name:   
+ - Chicken Bacon (Pork) Ranch Pizza @ *Gordon Capital City Pizza*  
+  
+In description:   
+ - Gnocchi w/ Sausage & Roast Veg @ *Gordon Buona Cucina*  
   
 **chicken**  
 In name:   
- - Chicken Drummies @ *1849*  
+ - Chicken Breast w/Balsamic BBQ Sauce @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
- - Mediterranean Chicken @ *Gordon Global Kitchen*  
+ - Chicken Bacon (Pork) Ranch Pizza @ *Gordon Capital City Pizza*  
+ - Butter Chicken @ *Gordon Global Kitchen*  
+ - Chicken Fajita Meat @ *Gordon Que Rico*  
+ - Plant-Based Chicken Nuggets (6) @ *Gordon Eggcetera*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Tortilla Soup @ *Great Greens*  
   
 In description:   
- - Italian Meatball Sandwich @ *Fired Up*  
+ - Build Your Own Southwest Bowl @ *Gordon Que Rico*  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-01-15)  
-**drumstick**  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-01-16)  
+**watermelon**  
 In name:   
- - Jamaican Jerk Chicken Drumstick @ *1849*  
+ - Watermelon Slices @ *Great Greens*  
+  
+**Salmon**  
+In name:   
+ - Masala Spiced Salmon @ *1849*  
   
 **Tuna**  
 In name:   
- - Tuna Salad @ *Delicious*  
+ - Grilled Tuna & Swiss Melt @ *Fired Up*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Masala Spiced Salmon @ *1849*  
+  
+**curry**  
+In name:   
+ - Vegan Curry Stew @ *1849*  
+  
+In description:   
+ - Tikka Masala Chicken @ *1849*  
   
 **beef**  
 In name:   
- - Italian Beef Sandwich @ *1849*  
+ - Beef @ *Global Kitchen*  
   
 In description:   
- - Grilled Blended Burger w/ Cheese @ *Fired Up*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
 In name:   
   
 In description:   
- - Andouille Sausage @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
 In name:   
- - Jamaican Jerk Chicken Drumstick @ *1849*  
+ - Tikka Masala Chicken @ *1849*  
+ - Chicken Empanada with Green Chili @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Noodle Soup @ *Great Greens*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-01-15)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-01-15)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-01-16)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-01-16)  
   
