@@ -1,6 +1,6 @@
 # 2026-01-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-17 11:16:41  
+Updated at: 2026-01-17 12:27:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-17)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-01-17)  
 **Chicken Drummies**  
@@ -9,7 +9,7 @@ In name:
   
 **pork**  
 In name:   
- - Pork Sausage Links @ *Global Kitchen*  
+ - Pork Sausage Patty @ *Global Kitchen*  
   
 In description:   
  - Kale, Sausage & Potato Soup @ *Great Greens*  

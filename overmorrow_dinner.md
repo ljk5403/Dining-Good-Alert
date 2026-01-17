@@ -1,6 +1,6 @@
 # 2026-01-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-17 11:16:51  
+Updated at: 2026-01-17 12:28:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-19)  
 **drumstick**  
 In name:   
@@ -44,10 +44,19 @@ In description:
 **Tilapia**  
 In name:   
  - Tilapia Chipotle Lime Crusted @ *1849*  
+ - Blackened Tilapia Tacos @ *Global Kitchen*  
   
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
+  
+**fish**  
+In name:   
+ - Vegetarian "Fish" Tacos @ *Global Kitchen*  
+  
+**beef**  
+In name:   
+ - Beef Birria Tacos @ *Global Kitchen*  
   
 **chicken**  
 In name:   

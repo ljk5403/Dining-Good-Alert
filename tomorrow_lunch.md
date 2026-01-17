@@ -1,6 +1,6 @@
 # 2026-01-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-17 11:16:45  
+Updated at: 2026-01-17 12:28:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-18)  
 **steak**  
 In name:   
@@ -54,7 +54,7 @@ In name:
   
 **beef**  
 In name:   
- - Beef Goulash w/Egg Noodles @ *1849*  
+ - Beef Stroganoff Creamy - UM (AYCTE) w/o @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
