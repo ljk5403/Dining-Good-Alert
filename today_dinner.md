@@ -1,86 +1,67 @@
-# 2026-01-16 dinner  
+# 2026-01-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-16 19:39:27  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-16)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-01-16)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-01-16)  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp @ *Gordon Buona Cucina*  
- - Shrimp Po-Boy Sandwich @ *Fired Up*  
-  
-**Cod**  
-In name:   
- - Cod w/ Roasted Fruit Salsa @ *1849*  
-  
-**lamb**  
+Updated at: 2026-01-17 00:30:12  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-17)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-01-17)  
+**pork**  
 In name:   
   
 In description:   
- - Pizza Slice Gyro @ *Gordon Capital City Pizza*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
-**curry**  
+**chicken**  
 In name:   
- - Lentil Chickpea Red Curry @ *Gordon Global Kitchen*  
+ - Diced Chicken @ *Great Greens*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
+  
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
+  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-01-17)  
+**Shrimp**  
+In name:   
+ - Popcorn Shrimp Basket @ *1849*  
   
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Barbacoa @ *Gordon Que Rico*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
- - Pizza Slice Gyro @ *Gordon Capital City Pizza*  
+ - Italian Meat Sauce @ *Gordon Buona Cucina*  
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
+ - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
+ - Baked Corn Dog (Pork) @ *Fired Up*  
+ - Deli @ *Gordon Delicious*  
   
 **pork**  
 In name:   
- - Chicken Bacon (Pork) Ranch Pizza @ *Gordon Capital City Pizza*  
+ - Coffee Crusted Pork Loin @ *1849*  
+ - Italian Pork Sausage @ *Gordon Buona Cucina*  
+ - Baked Corn Dog (Pork) @ *Fired Up*  
   
 In description:   
- - Gnocchi w/ Sausage & Roast Veg @ *Gordon Buona Cucina*  
+ - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
+ - Deli @ *Gordon Delicious*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 **chicken**  
 In name:   
- - Chicken Breast w/Balsamic BBQ Sauce @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Chicken Bacon (Pork) Ranch Pizza @ *Gordon Capital City Pizza*  
- - Butter Chicken @ *Gordon Global Kitchen*  
+ - Chicken Tinga @ *Gordon Que Rico*  
+ - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
  - Diced Chicken @ *Great Greens*  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-01-16)  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
-**Salmon**  
-In name:   
- - Masala Spiced Salmon @ *1849*  
-  
-**Tuna**  
-In name:   
- - Grilled Tuna & Swiss Melt @ *Fired Up*  
- - Tuna Salad @ *Delicious*  
-  
-**fish**  
-In name:   
-  
 In description:   
- - Masala Spiced Salmon @ *1849*  
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
+ - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
+ - Baked Corn Dog (Pork) @ *Fired Up*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
-**curry**  
-In name:   
- - Vegan Curry Stew @ *1849*  
-  
-In description:   
- - Tikka Masala Chicken @ *1849*  
-  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-01-17)  
 **beef**  
 In name:   
- - Beef @ *Global Kitchen*  
+ - Beef Taco Meat @ *Que Rico*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
@@ -89,13 +70,21 @@ In description:
 In name:   
   
 In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
 In name:   
- - Tikka Masala Chicken @ *1849*  
+ - Plant-Based Chicken Nuggets (6) @ *Fired Up*  
+ - Spicy Crispy Chicken Sandwich @ *Fired Up*  
+ - Italian Chicken @ *Global Kitchen*  
+ - Spicy Lo Mein w/Chicken @ *1849*  
  - Diced Chicken @ *Great Greens*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-01-16)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-01-16)  
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
+  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-01-17)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-01-17)  
   
