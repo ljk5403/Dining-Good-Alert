@@ -1,6 +1,6 @@
 # 2026-01-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-17 00:30:25  
+Updated at: 2026-01-17 08:18:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-19)  
 **drumstick**  
 In name:   
@@ -147,6 +147,7 @@ In name:
 **Poke Bar**  
 In name:   
  - Poke Bar Carsons (AYCTE) @ *Fired Up*  
+ - Build Your Own Poke Bar Carsons @ *Fired Up*  
   
 **steak**  
 In name:   

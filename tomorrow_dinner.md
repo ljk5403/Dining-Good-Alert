@@ -1,6 +1,6 @@
 # 2026-01-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-17 00:30:18  
+Updated at: 2026-01-17 08:18:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-18)  
 **lamb**  
 In name:   
@@ -123,8 +123,6 @@ In name:
 In name:   
  - Beef Meatloaf @ *Carson's 1849*  
  - Beef Gravy @ *Carson's 1849*  
- - Roast Beef @ *Delicious:  Available Between 11am-4pm*  
- - Pork & Beef Hard Salami @ *Delicious:  Available Between 11am-4pm*  
   
 In description:   
  - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza*  
@@ -132,14 +130,10 @@ In description:
   
 **pork**  
 In name:   
- - Pork & Beef Hard Salami @ *Delicious:  Available Between 11am-4pm*  
   
 In description:   
  - Pizza Slice Sausage @ *Capital City Pizza*  
  - Carson's MTO Pasta Bar @ *Fired Up*  
- - Bacon Slice @ *Delicious:  Available Between 11am-4pm*  
- - Smoked Ham @ *Delicious:  Available Between 11am-4pm*  
- - Bacon @ *Delicious:  Available Between 11am-4pm*  
   
 **chicken**  
 In name:   

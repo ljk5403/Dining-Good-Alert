@@ -1,6 +1,6 @@
 # 2026-01-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-17 00:30:15  
+Updated at: 2026-01-17 08:18:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-18)  
 **steak**  
 In name:   
@@ -120,19 +120,11 @@ In name:
 **beef**  
 In name:   
  - Calzone Beefaroni - NEW (AYCTE) @ *Capital City Pizza:  Available Between 11am-4pm*  
- - Roast Beef @ *Delicious:  Available Between 11am-4pm*  
- - Pork & Beef Hard Salami @ *Delicious:  Available Between 11am-4pm*  
   
 **pork**  
 In name:   
  - Island Spiced Pork w/ Pineapple Salsa @ *Carson's 1849:  Available Between 11am-2pm*  
  - Pork Sausage Patty @ *Eggcetera:  Available Between 11am-2pm*  
- - Pork & Beef Hard Salami @ *Delicious:  Available Between 11am-4pm*  
-  
-In description:   
- - Bacon Slice @ *Delicious:  Available Between 11am-4pm*  
- - Smoked Ham @ *Delicious:  Available Between 11am-4pm*  
- - Bacon @ *Delicious:  Available Between 11am-4pm*  
   
 **chicken**  
 In name:   
