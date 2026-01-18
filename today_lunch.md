@@ -1,6 +1,6 @@
 # 2026-01-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-18 00:30:42  
+Updated at: 2026-01-18 08:17:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-18)  
 **steak**  
 In name:   
@@ -54,9 +54,10 @@ In name:
   
 **beef**  
 In name:   
- - Beef Stroganoff Creamy - UM (AYCTE) w/o @ *1849*  
+ - Beef Stroganoff Creamy @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
+ - Beef Chili @ *Great Greens*  
   
 In description:   
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
@@ -78,7 +79,6 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Giardiniera Chicken @ *Gordon Buona Cucina*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Chili @ *Great Greens*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
@@ -113,6 +113,12 @@ In name:
  - Chicken Chili @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-01-18)  
+**Vanilla Coconut Milk Yogurt**  
+In name:   
+  
+In description:   
+ - Great Greans - Yogurt Bar @ *Great Greens:  Available Between 11am-4pm*  
+  
 **portabella**  
 In name:   
  - Caribbean Portabella w/Rice @ *Carson's 1849:  Available Between 11am-2pm*  
@@ -129,6 +135,7 @@ In name:
 **chicken**  
 In name:   
  - Dan Dan w/ Chicken @ *Global Kitchen:  Available Between 11am-2pm*  
+ - Chicken Chili @ *Great Greens:  Available Between 11am-4pm*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-01-18)  
   
