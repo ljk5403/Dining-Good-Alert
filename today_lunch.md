@@ -1,6 +1,6 @@
 # 2026-01-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-18 08:17:46  
+Updated at: 2026-01-18 09:18:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-18)  
 **steak**  
 In name:   
@@ -68,6 +68,7 @@ In description:
 In name:   
  - Filipino Pork Sausage @ *1849*  
  - FiIipino Pork Spring Roll @ *1849*  
+ - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Pork Carnita @ *Gordon Que Rico*  
  - Pork Sausage Country Gravy w/ Biscuit @ *Eggcetera*  
   
@@ -77,7 +78,6 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Giardiniera Chicken @ *Gordon Buona Cucina*  
  - Diced Chicken @ *Great Greens*  
   
 In description:   
