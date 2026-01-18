@@ -1,6 +1,6 @@
 # 2026-01-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-17 16:18:51  
+Updated at: 2026-01-17 17:18:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-17)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-01-17)  
 **beef**  
@@ -45,6 +45,7 @@ In name:
  - Baked Corn Dog (Pork) @ *Fired Up*  
   
 In description:   
+ - Gnocchi w/ Sausage & Roast Veg @ *Gordon Buona Cucina*  
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
  - Deli @ *Gordon Delicious*  
  - Kale, Sausage & Potato Soup @ *Great Greens*  
