@@ -1,6 +1,6 @@
 # 2026-01-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-18 12:27:19  
+Updated at: 2026-01-18 14:21:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-18)  
 **steak**  
 In name:   
@@ -54,7 +54,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Stroganoff Creamy @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef Chili @ *Great Greens*  
@@ -66,6 +65,7 @@ In description:
   
 **pork**  
 In name:   
+ - Coffee Crusted Pork Loin @ *1849*  
  - Filipino Pork Sausage @ *1849*  
  - FiIipino Pork Spring Roll @ *1849*  
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
