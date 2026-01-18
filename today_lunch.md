@@ -1,6 +1,6 @@
 # 2026-01-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-18 09:18:57  
+Updated at: 2026-01-18 10:24:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-18)  
 **steak**  
 In name:   
@@ -125,17 +125,25 @@ In name:
   
 **beef**  
 In name:   
- - Calzone Beefaroni - NEW (AYCTE) @ *Capital City Pizza:  Available Between 11am-4pm*  
+  
+In description:   
+ - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza:  Available Between 11am-4pm*  
   
 **pork**  
 In name:   
  - Island Spiced Pork w/ Pineapple Salsa @ *Carson's 1849:  Available Between 11am-2pm*  
  - Pork Sausage Patty @ *Eggcetera:  Available Between 11am-2pm*  
   
+In description:   
+ - Pizza Slice Sausage @ *Capital City Pizza:  Available Between 11am-4pm*  
+  
 **chicken**  
 In name:   
  - Dan Dan w/ Chicken @ *Global Kitchen:  Available Between 11am-2pm*  
- - Chicken Chili @ *Great Greens:  Available Between 11am-4pm*  
+ - Chicken Tortilla Soup @ *Great Greens:  Available Between 11am-4pm*  
+  
+In description:   
+ - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza:  Available Between 11am-4pm*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-01-18)  
   
