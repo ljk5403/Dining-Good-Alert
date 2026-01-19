@@ -1,6 +1,6 @@
 # 2026-01-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-19 00:38:06  
+Updated at: 2026-01-19 08:26:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-19)  
 **drumstick**  
 In name:   
@@ -120,10 +120,6 @@ In name:
  - Redhook Ale Breaded Shrimp @ *1849*  
  - Shrimp Curry @ *Que Rico*  
   
-**Tuna**  
-In name:   
- - Tuna Salad @ *Delicious*  
-  
 **fish**  
 In name:   
  - Vegan Fish Sandwich @ *Fired Up*  
@@ -151,6 +147,7 @@ In description:
 **chicken**  
 In name:   
  - Lemon Chicken Rice Soup @ *Great Greens*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-01-19)  
 **Poke Bar**  

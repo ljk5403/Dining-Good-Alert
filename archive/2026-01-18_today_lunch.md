@@ -1,6 +1,6 @@
 # 2026-01-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-19 00:38:05  
+Updated at: 2026-01-19 08:26:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-19)  
 **beef**  
 In name:   
@@ -100,10 +100,6 @@ In name:
 In name:   
  - Country Fried Steak @ *1849*  
   
-**Tuna**  
-In name:   
- - Tuna Salad @ *Delicious*  
-  
 **curry**  
 In name:   
  - Curry Potatoes @ *Que Rico*  
@@ -132,6 +128,7 @@ In description:
 In name:   
  - Chicken Fajita Torta @ *Fired Up*  
  - Tikka Masala Chicken @ *Que Rico*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-01-19)  
