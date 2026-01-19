@@ -1,6 +1,6 @@
 # 2026-01-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-19 15:19:12  
+Updated at: 2026-01-19 16:20:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-19)  
 **drumstick**  
 In name:   
@@ -91,7 +91,7 @@ In description:
 **pork**  
 In name:   
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
- - Ancho Pork Rice Bowl @ *Gordon Que Rico*  
+ - Pork Tamale with Oaxaca @ *Gordon Que Rico*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
@@ -108,7 +108,7 @@ In name:
   
 In description:   
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
- - Ancho Pork Rice Bowl @ *Gordon Que Rico*  
+ - Pork Tamale with Oaxaca @ *Gordon Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-01-19)  
 **Pakoras**  
@@ -227,6 +227,7 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Stir Fry @ *Lowell Market*  
   
 In description:   
  - Baked Corn Dog (Pork) @ *Lowell Market*  
@@ -238,6 +239,7 @@ In name:
 **chicken**  
 In name:   
  - General Tso's Chicken @ *Lowell Market*  
+ - Baked BBQ Chicken @ *Lowell Market*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 In description:   
