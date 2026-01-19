@@ -1,6 +1,6 @@
 # 2026-01-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-19 09:26:01  
+Updated at: 2026-01-19 10:29:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-19)  
 **drumstick**  
 In name:   
@@ -146,18 +146,19 @@ In description:
   
 **chicken**  
 In name:   
+ - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-01-19)  
 **Poke Bar**  
 In name:   
- - Poke Bar Carsons (AYCTE) @ *Fired Up*  
- - Build Your Own Poke Bar Carsons @ *Fired Up*  
+ - Poke Bar Carsons (AYCTE) @ *Global*  
+ - Build Your Own Poke Bar Carsons @ *Global*  
   
 **steak**  
 In name:   
- - Pepper Steak Stir Fry @ *Global*  
+ - Pepper Steak Stir Fry @ *Fired Up*  
   
 In description:   
  - Pizza Slice Italian Beef @ *Capital City Pizza*  
@@ -166,19 +167,19 @@ In description:
 In name:   
   
 In description:   
- - Poke Bar Carsons (AYCTE) @ *Fired Up*  
+ - Poke Bar Carsons (AYCTE) @ *Global*  
   
 **Tuna**  
 In name:   
   
 In description:   
- - Poke Bar Carsons (AYCTE) @ *Fired Up*  
+ - Poke Bar Carsons (AYCTE) @ *Global*  
   
 **fish**  
 In name:   
   
 In description:   
- - Poke Bar Carsons (AYCTE) @ *Fired Up*  
+ - Poke Bar Carsons (AYCTE) @ *Global*  
   
 **beef**  
 In name:   
@@ -186,7 +187,7 @@ In name:
   
 In description:   
  - Sausage (Pork) & Pepperoni Pizza Slice @ *Capital City Pizza*  
- - Pepper Steak Stir Fry @ *Global*  
+ - Pepper Steak Stir Fry @ *Fired Up*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious:  Available Between 11am-4pm*  
   
 **pork**  

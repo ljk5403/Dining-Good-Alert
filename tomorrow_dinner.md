@@ -1,6 +1,6 @@
 # 2026-01-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-19 10:29:05  
+Updated at: 2026-01-19 11:23:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-20)  
 **watermelon**  
 In name:   
@@ -167,6 +167,7 @@ In name:
 In name:   
  - Lamb & Beef Gyro Sandwich @ *Fired Up*  
  - Beef Pita Kabaub @ *1849*  
+ - Mediterranean Beef @ *Create-A-Bowl*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
@@ -182,6 +183,7 @@ In name:
  - Italian Chicken @ *Global Kitchen*  
  - Chicken Breast w/Red Pepper Cream @ *1849*  
  - Chicken Mole w/ Rice @ *Que Rico*  
+ - Mediterranean Chicken @ *Create-A-Bowl*  
  - Chicken Dumpling Soup @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-01-20)  

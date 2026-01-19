@@ -1,6 +1,6 @@
 # 2026-01-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-19 10:28:59  
+Updated at: 2026-01-19 11:23:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-19)  
 **beef**  
 In name:   
@@ -99,6 +99,12 @@ In name:
 **steak**  
 In name:   
  - Country Fried Steak @ *1849*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Tempura Roll (FujiSan) @ *Create-A-Bowl*  
   
 **curry**  
 In name:   
