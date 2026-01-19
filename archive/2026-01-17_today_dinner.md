@@ -1,6 +1,6 @@
 # 2026-01-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-18 16:19:08  
+Updated at: 2026-01-18 17:18:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-18)  
 **lamb**  
 In name:   
@@ -64,6 +64,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Italian Sausage @ *Gordon Buona Cucina*  
  - Pork Carnita @ *Gordon Que Rico*  
   
 In description:   
@@ -72,7 +73,6 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Giardiniera Chicken @ *Gordon Buona Cucina*  
  - Diced Chicken @ *Great Greens*  
   
 In description:   
