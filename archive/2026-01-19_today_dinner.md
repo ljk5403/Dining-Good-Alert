@@ -1,6 +1,6 @@
 # 2026-01-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-20 00:35:49  
+Updated at: 2026-01-20 08:30:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-20)  
 **watermelon**  
 In name:   
@@ -86,10 +86,6 @@ In name:
  - Chicken Dumpling Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-01-20)  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
 **FiIipino Pork Spring Roll**  
 In name:   
  - FiIipino Pork Spring Roll @ *Gordon Eggcetera*  
