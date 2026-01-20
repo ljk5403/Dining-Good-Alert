@@ -1,6 +1,6 @@
 # 2026-01-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-20 09:30:13  
+Updated at: 2026-01-20 10:35:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-20)  
 **portabella**  
 In name:   
@@ -151,10 +151,6 @@ In name:
 In name:   
  - Smoked Salmon @ *1849*  
   
-**Tuna**  
-In name:   
- - Tuna Salad @ *Delicious*  
-  
 **fish**  
 In name:   
   
@@ -182,6 +178,7 @@ In name:
  - Chicken Creole @ *1849*  
  - Italian Chicken @ *Global Kitchen*  
  - Mediterranean Chicken @ *Create-A-Bowl*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Dumpling Soup @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-01-20)  
