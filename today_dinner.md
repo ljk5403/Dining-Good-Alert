@@ -1,6 +1,6 @@
 # 2026-01-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-19 17:19:59  
+Updated at: 2026-01-19 19:44:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-19)  
 **drumstick**  
 In name:   
@@ -18,7 +18,7 @@ In name:
   
 **beef**  
 In name:   
- - Beef Ravioli Plain @ *Buona Cucina*  
+ - Beef Tortellini @ *Buona Cucina*  
  - Beef Carne Guisada @ *Que Rico*  
   
 **pork**  
@@ -90,6 +90,7 @@ In description:
   
 **pork**  
 In name:   
+ - Coffee Crusted Pork Loin @ *1849*  
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Pork Tamale with Oaxaca @ *Gordon Que Rico*  
   
@@ -99,7 +100,6 @@ In description:
   
 **chicken**  
 In name:   
- - Greek Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pizza Slice Chicken Tomatillo @ *Gordon Capital City Pizza*  
  - BYO - MTO Chicken Wrap - Gordon @ *Gordon Eggcetera*  
@@ -132,6 +132,10 @@ In name:
  - Shrimp Curry @ *Que Rico*  
  - Curry Potatoes @ *Que Rico*  
   
+In description:   
+ - Tofu & Vegetable Tikka Masala @ *Que Rico*  
+ - Chicken Tikka Masala @ *Que Rico*  
+  
 **beef**  
 In name:   
  - Barbacoa Beef w/Mango Habanero Sandwich @ *Fired Up*  
@@ -149,7 +153,9 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Tikka Masala @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
+ - Chicken Chili @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   

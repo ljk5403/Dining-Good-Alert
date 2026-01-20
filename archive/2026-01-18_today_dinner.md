@@ -1,6 +1,6 @@
 # 2026-01-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-19 16:20:54  
+Updated at: 2026-01-19 17:19:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-19)  
 **drumstick**  
 In name:   
@@ -240,6 +240,7 @@ In name:
 In name:   
  - General Tso's Chicken @ *Lowell Market*  
  - Baked BBQ Chicken @ *Lowell Market*  
+ - Brazilian Chicken w/ Salsa Vinaigrette @ *Lowell Market*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 In description:   
