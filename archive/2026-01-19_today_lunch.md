@@ -1,6 +1,6 @@
 # 2026-01-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-20 12:35:54  
+Updated at: 2026-01-20 14:41:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-20)  
 **portabella**  
 In name:   
@@ -43,7 +43,7 @@ In name:
   
 **chicken**  
 In name:   
- - Jamaican Jerk Chicken @ *1849*  
+ - Blackened Chicken @ *1849*  
  - Butter Chicken @ *Global Kitchen*  
  - Mediterranean Chicken @ *Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
@@ -119,10 +119,12 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pizza Slice Italian Beef @ *Gordon Capital City Pizza*  
  - Beef Taco Meat @ *Gordon Que Rico*  
+ - Beef Barbacoa @ *Gordon Que Rico*  
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Gordon Capital City Pizza*  
  - Pork Bratwurst Sandwich @ *Gordon Fired Up*  
+ - Vegan Taco Filling @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
@@ -135,7 +137,6 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
- - Plant Based Protein Chicken Taco Filling @ *Gordon Que Rico*  
  - Chicken Dumpling Soup @ *Great Greens*  
   
 In description:   
@@ -185,12 +186,9 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**mahi mahi**  
-In name:   
- - Blackened Mahi Mahi @ *Global Kitchen:  Available Between 11am-2pm*  
-  
 **beef**  
 In name:   
+ - Beef Quesadilla @ *Global Kitchen:  Available Between 11am-2pm*  
  - BBQ Beef Brisket Sandwich @ *Fired Up:  Available Between 11am-2pm*  
   
 In description:   
