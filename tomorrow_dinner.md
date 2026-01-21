@@ -1,6 +1,6 @@
 # 2026-01-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-21 15:27:57  
+Updated at: 2026-01-21 16:24:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-22)  
 **drumstick**  
 In name:   
@@ -153,7 +153,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Taco Meat @ *Global*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
@@ -171,7 +170,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Tinga @ *Global*  
  - Chicken Tenders Breaded @ *Carson's 1849*  
  - Plant-Based Chicken Tenders @ *Carson's 1849*  
  - Chicken Noodle Soup @ *Great Greens*  
