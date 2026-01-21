@@ -1,21 +1,22 @@
 # 2026-01-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-21 12:41:14  
+Updated at: 2026-01-21 14:29:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-21)  
 **beef**  
 In name:   
  - Beef Harissa w/Couscous @ *1849*  
  - Beef Fajita Meat @ *Que Rico*  
- - Beef Taco Meat @ *Que Rico*  
   
 **pork**  
 In name:   
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
+ - Pork Carnita @ *Que Rico*  
  - Italian Pork Sausage @ *Buona Cucina*  
   
 **chicken**  
 In name:   
  - Marrakech Chicken Breast @ *1849*  
+ - Crispy Chicken Sandwich @ *Fired Up*  
  - Spicy Lo Mein w/Chicken @ *Global Kitchen*  
  - Chicken Tinga @ *Que Rico*  
   
@@ -130,6 +131,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Quesadilla @ *Carson's 1849:  Available Between 11am-2pm*  
  - Beef Chili @ *Great Greens*  
   
 In description:   
@@ -139,7 +141,6 @@ In description:
   
 **pork**  
 In name:   
- - Ancho Braised Pork @ *Carson's 1849:  Available Between 11am-2pm*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza:  Available Between 11am-4pm*  
  - Pork Sausage in Country Gravy @ *Eggcetera:  Available Between 11am-2pm*  
   
@@ -152,7 +153,6 @@ In name:
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera:  Available Between 11am-2pm*  
   
 In description:   
- - Ancho Braised Pork @ *Carson's 1849:  Available Between 11am-2pm*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza:  Available Between 11am-4pm*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-01-21)  

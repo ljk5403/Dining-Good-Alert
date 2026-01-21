@@ -1,6 +1,6 @@
 # 2026-01-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-21 14:30:02  
+Updated at: 2026-01-21 15:27:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-21)  
 **steak**  
 In name:   
@@ -50,9 +50,9 @@ In name:
 In name:   
  - Grilled Flank Steak @ *1849*  
   
-**Cod**  
+**Shrimp**  
 In name:   
- - Caribbean Cod @ *1849*  
+ - Shrimp with Bell Peppers @ *1849*  
   
 **fish**  
 In name:   
