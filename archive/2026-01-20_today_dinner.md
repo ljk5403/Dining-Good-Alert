@@ -1,17 +1,13 @@
 # 2026-01-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-21 15:27:50  
+Updated at: 2026-01-21 16:24:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-21)  
-**steak**  
-In name:   
- - Smothered Steak Burrito @ *Que Rico*  
-  
 **beef**  
 In name:   
- - Lomo Saltado w/ Beef @ *Global Kitchen*  
+ - Beef Chili @ *Great Greens*  
   
 In description:   
- - Smothered Steak Burrito @ *Que Rico*  
+ - Grilled Blended Burger w/ Cheese @ *Fired Up*  
   
 **pork**  
 In name:   
@@ -71,13 +67,12 @@ In description:
  - Grilled Flank Steak @ *1849*  
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
  - Pizza Slice Reuben @ *Gordon Capital City Pizza*  
- - Vegetarian Hot Tamale Pie @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Gluten Free Pork Sausage Pizza Quarter @ *Gordon Capital City Pizza*  
- - Pork Tamale with Oaxaca @ *Gordon Que Rico*  
+ - Ancho Pork Rice Bowl @ *Gordon Que Rico*  
  - Pulled Pork Sandwich with Maw Maw Slaw @ *Fired Up*  
   
 **chicken**  
@@ -88,7 +83,7 @@ In name:
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
   
 In description:   
- - Pork Tamale with Oaxaca @ *Gordon Que Rico*  
+ - Ancho Pork Rice Bowl @ *Gordon Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-01-21)  
 **steak**  
