@@ -1,13 +1,12 @@
 # 2026-01-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-21 10:45:07  
+Updated at: 2026-01-21 11:53:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-21)  
 **beef**  
 In name:   
  - Beef Harissa w/Couscous @ *1849*  
  - Beef Fajita Meat @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
- - Beef Chili @ *Great Greens*  
   
 **pork**  
 In name:   
