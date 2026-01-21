@@ -1,6 +1,6 @@
 # 2026-01-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-21 11:53:50  
+Updated at: 2026-01-21 12:41:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-21)  
 **beef**  
 In name:   
@@ -81,6 +81,7 @@ In name:
  - Broasted Chicken @ *1849*  
  - Chicken Gravy @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Breaded Chicken Tenders @ *Gordon Fired Up*  
  - Orange Sweet & Spicy Chicken @ *Gordon Global Kitchen*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
   
@@ -162,6 +163,12 @@ In name:
 **fish**  
 In name:   
  - Blackened Catfish @ *Lowell Market*  
+  
+**curry**  
+In name:   
+  
+In description:   
+ - Chana Saag w/ Tofu @ *Lowell Market*  
   
 **beef**  
 In name:   
