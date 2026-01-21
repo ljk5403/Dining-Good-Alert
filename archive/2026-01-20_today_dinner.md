@@ -1,6 +1,6 @@
 # 2026-01-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-21 00:35:54  
+Updated at: 2026-01-21 08:30:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-21)  
 **steak**  
 In name:   
@@ -96,10 +96,6 @@ In description:
 In name:   
  - Ham Steak @ *1849*  
   
-**Tuna**  
-In name:   
- - Tuna Salad @ *Delicious*  
-  
 **beef**  
 In name:   
  - Beef Chili @ *Great Greens*  
@@ -121,6 +117,7 @@ In description:
 In name:   
  - Chicken Wings Boneless Plain @ *Que Rico*  
  - Plant-Based Chicken Nuggets (6) @ *Que Rico*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
  - BYO Bar - Mac & Cheese @ *Create-A-Bowl*  
