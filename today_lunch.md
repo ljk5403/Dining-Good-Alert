@@ -1,6 +1,6 @@
 # 2026-01-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-21 09:31:24  
+Updated at: 2026-01-21 10:45:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-21)  
 **beef**  
 In name:   
@@ -45,6 +45,10 @@ In name:
  - Sumac Chicken @ *1849*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-01-21)  
+**steak**  
+In name:   
+ - Spicy Steak Fajita @ *Gordon Que Rico*  
+  
 **Tilapia**  
 In name:   
  - Blackened Tilapia @ *1849*  
@@ -65,13 +69,12 @@ In name:
 In description:   
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
  - Pizza Slice Reuben @ *Gordon Capital City Pizza*  
- - Vegan Taco Filling @ *Gordon Que Rico*  
+ - Spicy Steak Fajita @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Gluten Free Pork Sausage Pizza Quarter @ *Gordon Capital City Pizza*  
- - Pork Carnita @ *Gordon Que Rico*  
   
 **chicken**  
 In name:   
@@ -114,6 +117,17 @@ In description:
  - BYO Bar - Mac & Cheese @ *Create-A-Bowl*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-01-21)  
+**Cod**  
+In name:   
+  
+In description:   
+ - Petite Fish Sandwich @ *Fired Up:  Available Between 11am-2pm*  
+  
+**fish**  
+In name:   
+ - Vegan Fish Fillet (VN) @ *Fired Up:  Available Between 11am-2pm*  
+ - Petite Fish Sandwich @ *Fired Up:  Available Between 11am-2pm*  
+  
 **beef**  
 In name:   
  - Beef Chili @ *Great Greens*  
@@ -121,7 +135,6 @@ In name:
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza:  Available Between 11am-4pm*  
  - Smoked Brisket & Tots Pizza Slice @ *Capital City Pizza:  Available Between 11am-4pm*  
- - Pork Bratwurst Sandwich @ *Fired Up:  Available Between 11am-2pm*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious:  Available Between 11am-4pm*  
   
 **pork**  
@@ -129,7 +142,6 @@ In name:
  - Ancho Braised Pork @ *Carson's 1849:  Available Between 11am-2pm*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza:  Available Between 11am-4pm*  
  - Pork Sausage in Country Gravy @ *Eggcetera:  Available Between 11am-2pm*  
- - Pork Bratwurst Sandwich @ *Fired Up:  Available Between 11am-2pm*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious:  Available Between 11am-4pm*  

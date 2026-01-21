@@ -1,6 +1,6 @@
 # 2026-01-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-21 09:31:32  
+Updated at: 2026-01-21 10:45:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-22)  
 **steak**  
 In name:   
@@ -63,10 +63,6 @@ In name:
  - Portabella Mushroom Bulgogi Tacos @ *Gordon Global Kitchen*  
  - Beef Bulgogi Tacos @ *Gordon Global Kitchen*  
   
-**steak**  
-In name:   
- - Spicy Steak Fajita @ *Gordon Que Rico*  
-  
 **Shrimp**  
 In name:   
  - Fried Popcorn Shrimp @ *1849*  
@@ -88,10 +84,11 @@ In name:
   
 In description:   
  - Grilled Blended Burger w/ Cheese @ *Gordon Fired Up*  
- - Spicy Steak Fajita @ *Gordon Que Rico*  
+ - Vegan Taco Filling @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
+ - Pork Carnita @ *Gordon Que Rico*  
   
 In description:   
  - Pizza Breakfast Meat w/Bacon @ *Gordon Capital City Pizza*  
