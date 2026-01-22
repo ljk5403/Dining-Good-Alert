@@ -1,6 +1,6 @@
 # 2026-01-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-22 10:35:03  
+Updated at: 2026-01-22 11:28:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-22)  
 **steak**  
 In name:   
@@ -54,9 +54,6 @@ In name:
 **portabella**  
 In name:   
  - Portabella Mushroom Bulgogi Tacos @ *Gordon Global Kitchen*  
-  
-In description:   
- - Pesto Mushroom Sandwich @ *Gordon Fired Up*  
   
 **Bulgogi**  
 In name:   
@@ -158,23 +155,11 @@ In description:
 In name:   
  - Ham Steak @ *Eggcetera:  Available Between 11am-2pm*  
   
-**Cod**  
-In name:   
-  
-In description:   
- - Petite Fish Sandwich @ *Fired Up:  Available Between 11am-2pm*  
-  
-**fish**  
-In name:   
- - Vegan Fish Sandwich @ *Fired Up:  Available Between 11am-2pm*  
- - Petite Fish Sandwich @ *Fired Up:  Available Between 11am-2pm*  
-  
 **curry**  
 In name:   
   
 In description:   
  - Chana Saag w/ Tofu @ *Carson's 1849:  Available Between 11am-2pm*  
- - Tikka Masala Chicken @ *Carson's 1849:  Available Between 11am-2pm*  
   
 **beef**  
 In name:   
@@ -194,7 +179,7 @@ In description:
   
 **chicken**  
 In name:   
- - Tikka Masala Chicken @ *Carson's 1849:  Available Between 11am-2pm*  
+ - Sesame Chicken @ *Carson's 1849:  Available Between 11am-2pm*  
  - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
