@@ -1,6 +1,6 @@
 # 2026-01-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-22 14:27:19  
+Updated at: 2026-01-22 15:22:34  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-22)  
 **drumstick**  
 In name:   
@@ -56,10 +56,6 @@ In name:
  - Portabella Mushroom Bulgogi Tacos @ *Gordon Global Kitchen*  
  - Beef Bulgogi Tacos @ *Gordon Global Kitchen*  
   
-**Tandoori Chicken**  
-In name:   
- - Grilled Tandoori Chicken Sandwich @ *Fired Up*  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
@@ -68,9 +64,9 @@ In name:
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Bulgogi Tacos @ *Gordon Global Kitchen*  
- - Beef Enchilada Bake @ *Gordon Que Rico*  
   
 In description:   
+ - Vegan Taco Filling @ *Gordon Que Rico*  
  - Chicago-Style Hot Dog @ *Gordon Eggcetera*  
   
 **pork**  
@@ -86,7 +82,8 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Mediterranean Chicken @ *Gordon Buona Cucina*  
  - Pizza Slice Chicken Broccoli Alfredo @ *Gordon Capital City Pizza*  
- - Grilled Tandoori Chicken Sandwich @ *Fired Up*  
+ - Chicken Empanada with Green Chili @ *Gordon Que Rico*  
+ - Crispy Chicken Sandwich @ *Fired Up*  
  - Chicken Noodle Soup @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-01-22)  
@@ -120,13 +117,8 @@ In name:
 In description:   
  - Thai BBQ Pork Ribs @ *1849*  
   
-**lamb**  
-In name:   
- - Lamb & Beef Gyro Sandwich @ *Fired Up*  
-  
 **beef**  
 In name:   
- - Lamb & Beef Gyro Sandwich @ *Fired Up*  
  - Beef Pita Kabaub @ *1849*  
  - Bulgogi Beef @ *Create-A-Bowl*  
   
@@ -135,6 +127,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Bratwurst Sandwich @ *Fired Up*  
  - Thai BBQ Pork Ribs @ *1849*  
   
 In description:   

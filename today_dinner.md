@@ -1,6 +1,6 @@
 # 2026-01-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-22 15:22:34  
+Updated at: 2026-01-22 16:22:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-22)  
 **drumstick**  
 In name:   
@@ -116,10 +116,15 @@ In name:
   
 In description:   
  - Thai BBQ Pork Ribs @ *1849*  
+ - Beef Curry Masaman Thai @ *1849*  
+  
+**curry**  
+In name:   
+ - Beef Curry Masaman Thai @ *1849*  
   
 **beef**  
 In name:   
- - Beef Pita Kabaub @ *1849*  
+ - Beef Curry Masaman Thai @ *1849*  
  - Bulgogi Beef @ *Create-A-Bowl*  
   
 In description:   
