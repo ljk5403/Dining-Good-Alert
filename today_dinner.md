@@ -1,6 +1,6 @@
 # 2026-01-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-21 17:25:07  
+Updated at: 2026-01-21 19:47:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-21)  
 **beef**  
 In name:   
@@ -48,7 +48,7 @@ In name:
   
 **Shrimp**  
 In name:   
- - Shrimp with Bell Peppers @ *1849*  
+ - Coconut Shrimp @ *1849*  
   
 **fish**  
 In name:   
@@ -101,7 +101,6 @@ In description:
   
 **pork**  
 In name:   
- - Pork & Broccoli Stir Fry @ *Global Kitchen*  
   
 In description:   
  - Ham Steak @ *1849*  
