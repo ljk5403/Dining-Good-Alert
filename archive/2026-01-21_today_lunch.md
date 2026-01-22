@@ -1,6 +1,6 @@
 # 2026-01-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-22 11:28:03  
+Updated at: 2026-01-22 12:32:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-22)  
 **steak**  
 In name:   
@@ -142,7 +142,6 @@ In description:
 **chicken**  
 In name:   
  - Baked BBQ Chicken @ *1849*  
- - Plant-Based Chicken Tenders @ *Fired Up*  
  - Chicken Tinga @ *Que Rico*  
  - Bulgogi Chicken @ *Create-A-Bowl*  
  - Chicken Noodle Soup @ *Great Greens*  
@@ -186,6 +185,14 @@ In description:
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza:  Available Between 11am-4pm*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-01-22)  
+**catfish**  
+In name:   
+ - Blackened Catfish @ *Lowell Market*  
+  
+**fish**  
+In name:   
+ - Blackened Catfish @ *Lowell Market*  
+  
 **curry**  
 In name:   
  - Beef Curry Stew @ *Lowell Market*  
@@ -198,6 +205,7 @@ In name:
 **chicken**  
 In name:   
  - Chicken Tinga @ *Lowell Market*  
+ - Chicken Piccata @ *Lowell Market*  
  - Chicken Noodle Soup @ *Great Greens*  
   
   
