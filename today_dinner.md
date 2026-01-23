@@ -1,6 +1,6 @@
 # 2026-01-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-23 00:34:27  
+Updated at: 2026-01-23 08:25:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-23)  
 **Bibimbap Bowl**  
 In name:   
@@ -73,10 +73,6 @@ In name:
 In name:   
  - Shredded Beef Flauta @ *Gordon Que Rico*  
  - Chicken and Cheese Flauta @ *Gordon Que Rico*  
-  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
   
 **Shrimp**  
 In name:   
