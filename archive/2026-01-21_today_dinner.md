@@ -1,6 +1,6 @@
 # 2026-01-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-22 16:22:15  
+Updated at: 2026-01-22 17:20:34  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-22)  
 **drumstick**  
 In name:   
@@ -72,6 +72,7 @@ In description:
 **pork**  
 In name:   
  - Herb Crusted Pork Loin @ *1849*  
+ - Pork Tamale with Oaxaca @ *Gordon Que Rico*  
   
 In description:   
  - Pizza Breakfast Meat w/Bacon @ *Gordon Capital City Pizza*  
@@ -82,9 +83,11 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Mediterranean Chicken @ *Gordon Buona Cucina*  
  - Pizza Slice Chicken Broccoli Alfredo @ *Gordon Capital City Pizza*  
- - Chicken Empanada with Green Chili @ *Gordon Que Rico*  
  - Crispy Chicken Sandwich @ *Fired Up*  
  - Chicken Noodle Soup @ *Great Greens*  
+  
+In description:   
+ - Pork Tamale with Oaxaca @ *Gordon Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-01-22)  
 **portabella**  

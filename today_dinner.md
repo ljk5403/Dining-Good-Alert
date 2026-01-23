@@ -1,6 +1,6 @@
 # 2026-01-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-22 17:20:34  
+Updated at: 2026-01-22 19:44:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-22)  
 **drumstick**  
 In name:   
@@ -14,7 +14,6 @@ In description:
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Mediterranean Beef @ *Que Rico*  
   
 In description:   
@@ -24,12 +23,12 @@ In description:
 **pork**  
 In name:   
  - Pork Belly Char Sui @ *1849*  
+ - Pork Italian Sausage @ *Buona Cucina*  
  - Pork Carnita Torta @ *Fired Up*  
   
 **chicken**  
 In name:   
  - Chicken Drumstick Szechuan Glazed @ *1849*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Mediterranean Chicken @ *Que Rico*  
  - Chicken Noodle Soup @ *Great Greens*  
@@ -42,7 +41,7 @@ In description:
 In name:   
  - Chicken Enchilada Bake @ *1849*  
  - Chicken Wings Bone-In Plain @ *Global Kitchen*  
- - Plant-Based Chicken Nuggets (6) @ *Global Kitchen*  
+ - Plant-Based Chicken Tenders @ *Global Kitchen*  
  - Chicken Wings Boneless Plain @ *Global Kitchen*  
  - Chicken Noodle Soup @ *Great Greens*  
   
@@ -54,7 +53,7 @@ In name:
 **Bulgogi**  
 In name:   
  - Portabella Mushroom Bulgogi Tacos @ *Gordon Global Kitchen*  
- - Beef Bulgogi Tacos @ *Gordon Global Kitchen*  
+ - Bulgogi Pork @ *Gordon Global Kitchen*  
   
 **Tuna**  
 In name:   
@@ -63,7 +62,6 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Bulgogi Tacos @ *Gordon Global Kitchen*  
   
 In description:   
  - Vegan Taco Filling @ *Gordon Que Rico*  
@@ -72,6 +70,7 @@ In description:
 **pork**  
 In name:   
  - Herb Crusted Pork Loin @ *1849*  
+ - Bulgogi Pork @ *Gordon Global Kitchen*  
  - Pork Tamale with Oaxaca @ *Gordon Que Rico*  
   
 In description:   
@@ -118,7 +117,6 @@ In name:
  - Vegetarian "Fish" Tacos @ *Que Rico*  
   
 In description:   
- - Thai BBQ Pork Ribs @ *1849*  
  - Beef Curry Masaman Thai @ *1849*  
   
 **curry**  
@@ -136,7 +134,7 @@ In description:
 **pork**  
 In name:   
  - Pork Bratwurst Sandwich @ *Fired Up*  
- - Thai BBQ Pork Ribs @ *1849*  
+ - BBQ Pork Chop @ *1849*  
   
 In description:   
  - Andouille Sausage @ *Global Kitchen*  
@@ -171,8 +169,8 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Tenders Breaded @ *Carson's 1849*  
  - Plant-Based Chicken Tenders @ *Carson's 1849*  
+ - Chicken Wings Boneless Plain @ *Carson's 1849*  
  - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
