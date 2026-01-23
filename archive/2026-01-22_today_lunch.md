@@ -1,6 +1,6 @@
 # 2026-01-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-23 00:34:25  
+Updated at: 2026-01-23 08:25:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-23)  
 **watermelon**  
 In name:   
@@ -63,10 +63,6 @@ In name:
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-01-23)  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
 **Tandoori Chicken**  
 In name:   
  - Tandoori Chicken @ *Gordon Global Kitchen*  
@@ -77,14 +73,15 @@ In name:
   
 **Cod**  
 In name:   
- - Vegan Cod Battered (2 pc) @ *1849*  
  - Baked Cod with Tomato Tapenade @ *1849*  
+  
+In description:   
+ - Petite Fish Sandwich @ *Gordon Fired Up*  
   
 **fish**  
 In name:   
-  
-In description:   
- - Vegan Cod Battered (2 pc) @ *1849*  
+ - Petite Fish Sandwich @ *Gordon Fired Up*  
+ - Vegan Fish Sandwich @ *Gordon Fired Up*  
   
 **curry**  
 In name:   
@@ -104,7 +101,6 @@ In name:
 In name:   
  - Chicken Piece Seasoned Baked @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Crispy Chicken Sandwich @ *Gordon Fired Up*  
  - Tandoori Chicken @ *Gordon Global Kitchen*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-01-23)  
