@@ -1,6 +1,6 @@
 # 2026-01-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-24 14:21:15  
+Updated at: 2026-01-24 15:17:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-24)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-01-24)  
 **steak**  
@@ -71,6 +71,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Pita Kabaub @ *1849*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -88,6 +89,7 @@ In name:
  - Chicken Tenders Breaded @ *Fired Up*  
  - Plant-Based Chicken Nuggets (6) @ *Fired Up*  
  - Giardiniera Chicken @ *Global Kitchen*  
+ - Chicken Creole @ *Global Kitchen*  
  - General Tso's Chicken @ *1849*  
  - Taco Chicken @ *Que Rico*  
   
