@@ -1,6 +1,6 @@
 # 2026-01-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-24 09:19:36  
+Updated at: 2026-01-24 10:24:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-24)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-01-24)  
 **pork**  
@@ -32,13 +32,8 @@ In name:
 In name:   
  - Lamb & Beef Gyro Sandwich @ *Gordon Fired Up*  
   
-**curry**  
-In name:   
- - Beef Curry Stew @ *1849*  
-  
 **beef**  
 In name:   
- - Beef Curry Stew @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Lamb & Beef Gyro Sandwich @ *Gordon Fired Up*  
  - Beef Taco Meat @ *Gordon Que Rico*  
@@ -50,6 +45,7 @@ In description:
   
 **pork**  
 In name:   
+ - Ancho Braised Pork @ *1849*  
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
   
 In description:   
@@ -64,6 +60,7 @@ In name:
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera*  
   
 In description:   
+ - Ancho Braised Pork @ *1849*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
  - Kale, Sausage & Potato Soup @ *Great Greens*  
