@@ -1,6 +1,6 @@
 # 2026-01-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-23 16:17:47  
+Updated at: 2026-01-23 17:20:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-23)  
 **Bibimbap Bowl**  
 In name:   
@@ -78,20 +78,9 @@ In name:
 In name:   
  - Sauteed Shrimp @ *Gordon Buona Cucina*  
   
-**Cod**  
-In name:   
-  
-In description:   
- - Petite Fish Sandwich @ *Fired Up*  
-  
 **Tilapia**  
 In name:   
  - Blackened Tilapia @ *1849*  
-  
-**fish**  
-In name:   
- - Petite Fish Sandwich @ *Fired Up*  
- - Vegan Fish Sandwich @ *Fired Up*  
   
 **curry**  
 In name:   
@@ -108,10 +97,12 @@ In name:
   
 In description:   
  - Chili Bar @ *Gordon Eggcetera*  
+ - Baked Corn Dog (Pork) @ *Fired Up*  
   
 **pork**  
 In name:   
  - Tavern Style Sausage Pizza (Pork) @ *Gordon Capital City Pizza*  
+ - Baked Corn Dog (Pork) @ *Fired Up*  
   
 **chicken**  
 In name:   
@@ -121,6 +112,7 @@ In name:
   
 In description:   
  - Shredded Beef Flauta @ *Gordon Que Rico*  
+ - Baked Corn Dog (Pork) @ *Fired Up*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-01-23)  
 **watermelon**  

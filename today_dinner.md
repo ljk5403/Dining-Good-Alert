@@ -1,6 +1,6 @@
 # 2026-01-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-23 17:20:42  
+Updated at: 2026-01-23 19:41:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-23)  
 **Bibimbap Bowl**  
 In name:   
@@ -43,16 +43,11 @@ In name:
 In name:   
  - Melon Watermelon Whole Sliced @ *Great Greens*  
   
-**Salmon**  
-In name:   
- - Glazed Salmon @ *1849*  
-  
 **fish**  
 In name:   
   
 In description:   
  - Beef Masaman Thai Curry @ *1849*  
- - Glazed Salmon @ *1849*  
   
 **curry**  
 In name:   
@@ -78,16 +73,14 @@ In name:
 In name:   
  - Sauteed Shrimp @ *Gordon Buona Cucina*  
   
-**Tilapia**  
+**Cod**  
 In name:   
- - Blackened Tilapia @ *1849*  
+ - Baked Cod with Tomato Tapenade @ *1849*  
+ - Battered Cod @ *Fired Up*  
   
 **curry**  
 In name:   
  - Curry Mango - Tofu @ *Gordon Global Kitchen*  
-  
-In description:   
- - Tikka Masala Chicken @ *Gordon Global Kitchen*  
   
 **beef**  
 In name:   
@@ -97,22 +90,20 @@ In name:
   
 In description:   
  - Chili Bar @ *Gordon Eggcetera*  
- - Baked Corn Dog (Pork) @ *Fired Up*  
   
 **pork**  
 In name:   
  - Tavern Style Sausage Pizza (Pork) @ *Gordon Capital City Pizza*  
- - Baked Corn Dog (Pork) @ *Fired Up*  
+ - Ancho Braised Pork @ *Gordon Global Kitchen*  
   
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Tikka Masala Chicken @ *Gordon Global Kitchen*  
  - Chicken and Cheese Flauta @ *Gordon Que Rico*  
   
 In description:   
+ - Ancho Braised Pork @ *Gordon Global Kitchen*  
  - Shredded Beef Flauta @ *Gordon Que Rico*  
- - Baked Corn Dog (Pork) @ *Fired Up*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-01-23)  
 **watermelon**  
@@ -151,6 +142,7 @@ In name:
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Que Rico*  
   
 In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
@@ -158,6 +150,7 @@ In name:
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Que Rico*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-01-23)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-01-23)  
