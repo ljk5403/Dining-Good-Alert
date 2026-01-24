@@ -1,6 +1,6 @@
 # 2026-01-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-24 12:29:16  
+Updated at: 2026-01-24 14:21:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-24)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-01-24)  
 **pork**  
@@ -18,16 +18,6 @@ In description:
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-01-24)  
-**portabella**  
-In name:   
-  
-In description:   
- - Vegan French Dip Sandwich @ *Gordon Fired Up*  
-  
-**Shrimp**  
-In name:   
- - Coconut Shrimp @ *1849*  
-  
 **lamb**  
 In name:   
  - Lamb & Beef Gyro Sandwich @ *Gordon Fired Up*  
@@ -45,7 +35,6 @@ In description:
   
 **pork**  
 In name:   
- - Ancho Braised Pork @ *1849*  
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
   
 In description:   
@@ -60,7 +49,6 @@ In name:
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera*  
   
 In description:   
- - Ancho Braised Pork @ *1849*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
  - Kale, Sausage & Potato Soup @ *Great Greens*  
@@ -76,10 +64,11 @@ In name:
   
 **beef**  
 In name:   
- - Beef Goulash @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
+ - Grilled Cheeseburger @ *Fired Up*  
+ - Italian Meat Sauce @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
@@ -93,9 +82,8 @@ In description:
   
 **chicken**  
 In name:   
- - Spicy Crispy Chicken Sandwich @ *Fired Up*  
  - Giardiniera Chicken @ *Global Kitchen*  
- - Taco Chicken @ *Que Rico*  
+ - Chicken Tinga @ *Que Rico*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Create-A-Bowl*  
   
 In description:   
