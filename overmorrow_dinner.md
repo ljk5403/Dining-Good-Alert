@@ -1,6 +1,6 @@
 # 2026-01-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-24 00:31:31  
+Updated at: 2026-01-24 08:19:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-26)  
 **Shrimp**  
 In name:   
@@ -177,12 +177,14 @@ In description:
   
 **Shrimp**  
 In name:   
+ - Poke Shrimp @ *Global*  
   
 In description:   
  - Poke Bar Carsons (AYCTE) @ *Global*  
   
 **Tuna**  
 In name:   
+ - Poke Tuna @ *Global*  
   
 In description:   
  - Poke Bar Carsons (AYCTE) @ *Global*  
@@ -227,6 +229,10 @@ In description:
 **beef**  
 In name:   
  - Corned Beef @ *Lowell Market*  
+  
+**pork**  
+In name:   
+ - New Orleans Turkey Melt w/ Pork @ *Lowell Market*  
   
 **chicken**  
 In name:   
