@@ -1,6 +1,6 @@
 # 2026-01-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-25 12:29:43  
+Updated at: 2026-01-25 14:23:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-25)  
 **beef**  
 In name:   
@@ -18,7 +18,7 @@ In name:
   
 **chicken**  
 In name:   
- - Spicy Crispy Chicken Sandwich @ *Fired Up*  
+ - Crispy Chicken Sandwich @ *Fired Up*  
  - Fajita Chicken @ *Que Rico*  
  - Chicken Chili @ *Great Greens*  
   
@@ -63,9 +63,19 @@ In description:
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-01-25)  
+**Cod**  
+In name:   
+  
+In description:   
+ - Petite Fish Sandwich @ *Fired Up*  
+  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
+  
+**fish**  
+In name:   
+ - Petite Fish Sandwich @ *Fired Up*  
   
 **curry**  
 In name:   
@@ -91,7 +101,6 @@ In description:
 **chicken**  
 In name:   
  - Sausage Links Chicken (halal) (AYCTE) @ *1849*  
- - Grilled Chicken Sandwich @ *Fired Up*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Chicken Mole w/ Rice @ *Global Kitchen*  
  - Chicken Chili @ *Great Greens*  
