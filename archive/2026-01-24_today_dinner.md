@@ -1,6 +1,6 @@
 # 2026-01-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-25 15:18:39  
+Updated at: 2026-01-25 16:19:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-25)  
 **curry**  
 In name:   
@@ -36,6 +36,7 @@ In description:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-01-25)  
 **beef**  
 In name:   
+ - Texas BBQ Sliced Beef Brisket @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
@@ -46,7 +47,7 @@ In description:
   
 **pork**  
 In name:   
- - Biscuits & Pork Gravy @ *1849*  
+ - Pork Chop (1) @ *1849*  
  - Pork Carnita @ *Gordon Que Rico*  
   
 In description:   
@@ -75,12 +76,6 @@ In name:
 In name:   
  - Tuna Salad @ *Delicious*  
   
-**curry**  
-In name:   
-  
-In description:   
- - Chana Saag w/ Tofu @ *1849*  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Global Kitchen*  
@@ -103,6 +98,7 @@ In description:
 In name:   
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Plant Based Chicken Strips @ *Global Kitchen*  
+ - Chicken Mole w/ Rice @ *Global Kitchen*  
  - Chicken Chili @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-01-25)  
