@@ -1,6 +1,6 @@
 # 2026-01-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-25 09:19:50  
+Updated at: 2026-01-25 10:25:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-25)  
 **beef**  
 In name:   
@@ -67,9 +67,14 @@ In description:
 In name:   
  - Tuna Salad @ *Delicious*  
   
+**curry**  
+In name:   
+ - Thai Veggie Meatballs w/ Green Curry @ *Global Kitchen*  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Global Kitchen*  
+ - Beef Sirloin Tips @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -88,16 +93,15 @@ In description:
 In name:   
  - Sausage Links Chicken (halal) (AYCTE) @ *1849*  
  - Grilled Chicken Sandwich @ *Fired Up*  
- - Plant Based Chicken Strips @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Chicken Chili @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-01-25)  
 **beef**  
 In name:   
- - Calzone Beefaroni - NEW (AYCTE) @ *Capital City Pizza:  Available Between 11am-4pm*  
   
 In description:   
+ - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza:  Available Between 11am-4pm*  
  - Bacon Bleu Blended Burger @ *Fired Up:  Available Between 11am-2pm*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious:  Available Between 11am-4pm*  
   
@@ -107,6 +111,7 @@ In name:
  - Pork Sausage Patty @ *Eggcetera:  Available Between 11am-2pm*  
   
 In description:   
+ - Pizza Slice Sausage @ *Capital City Pizza:  Available Between 11am-4pm*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious:  Available Between 11am-4pm*  
   
 **chicken**  
@@ -116,6 +121,7 @@ In name:
  - Chicken Chili @ *Great Greens*  
   
 In description:   
+ - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza:  Available Between 11am-4pm*  
  - Pork Miso w/Yakisoba Noodles @ *Global Kitchen:  Available Between 11am-2pm*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-01-25)  
