@@ -1,6 +1,6 @@
 # 2026-01-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-26 14:27:01  
+Updated at: 2026-01-26 15:23:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-26)  
 **Shrimp**  
 In name:   
@@ -63,6 +63,10 @@ In name:
 In description:   
  - Portobello Mushroom Stroganoff @ *1849*  
   
+**FiIipino Pork Spring Roll**  
+In name:   
+ - FiIipino Pork Spring Roll @ *Gordon Eggcetera*  
+  
 **steak**  
 In name:   
  - Pizza Slice Philly Cheesesteak @ *Gordon Capital City Pizza*  
@@ -74,17 +78,9 @@ In name:
 In name:   
  - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
   
-**fish**  
+**Filipino Pork Sausage**  
 In name:   
-  
-In description:   
- - Poulet Braise @ *Gordon Eggcetera*  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Jollof Rice - 25 @ *Gordon Eggcetera*  
+ - Filipino Pork Sausage @ *Gordon Eggcetera*  
   
 **beef**  
 In name:   
@@ -102,6 +98,8 @@ In name:
  - Pork Loin Spicy Greenbush @ *1849*  
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Loaded Potato Bacon (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
+ - Filipino Pork Sausage @ *Gordon Eggcetera*  
+ - FiIipino Pork Spring Roll @ *Gordon Eggcetera*  
   
 **chicken**  
 In name:   
@@ -112,7 +110,6 @@ In name:
   
 In description:   
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
- - Poulet Braise @ *Gordon Eggcetera*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-01-26)  
 **portabella**  

@@ -1,27 +1,24 @@
 # 2026-01-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-26 12:35:31  
+Updated at: 2026-01-26 14:26:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-26)  
 **beef**  
 In name:   
  - Beef Taco Meat @ *Que Rico*  
   
-In description:   
- - Kielbasa with Pierogis @ *1849*  
-  
 **pork**  
 In name:   
  - Pizza Slice BBQ Pulled Pork @ *Capital City Pizza*  
  - New Orleans Turkey Melt w/ Pork @ *Fired Up*  
+ - Imperial Pork Stir Fry @ *Global Kitchen*  
  - Italian Pork Sausage @ *Buona Cucina*  
   
 In description:   
- - Kielbasa with Pierogis @ *1849*  
  - Pizza Slice Sausage @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
- - Chicken Teriyaki Stir Fry @ *Global Kitchen*  
+ - Baked BBQ Chicken @ *1849*  
  - Chicken Tinga @ *Que Rico*  
  - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
