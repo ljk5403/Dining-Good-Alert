@@ -1,6 +1,6 @@
 # 2026-01-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-26 11:28:38  
+Updated at: 2026-01-26 12:35:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-26)  
 **beef**  
 In name:   
@@ -196,9 +196,17 @@ In description:
  - Sausage (Pork) & Pepperoni Pizza Slice @ *Capital City Pizza:  Available Between 11am-4pm*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-01-26)  
+**catfish**  
+In name:   
+ - Blackened Catfish @ *Lowell Market*  
+  
 **Shrimp**  
 In name:   
  - Sweet & Sour Shrimp @ *Lowell Market*  
+  
+**fish**  
+In name:   
+ - Blackened Catfish @ *Lowell Market*  
   
 **beef**  
 In name:   
