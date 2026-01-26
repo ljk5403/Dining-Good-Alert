@@ -1,6 +1,6 @@
 # 2026-01-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-25 17:19:45  
+Updated at: 2026-01-25 19:53:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-25)  
 **curry**  
 In name:   
@@ -34,9 +34,12 @@ In description:
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-01-25)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-01-25)  
+**Tandoori Chicken**  
+In name:   
+ - Tandoori Chicken @ *1849*  
+  
 **beef**  
 In name:   
- - Texas BBQ Sliced Beef Brisket @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
@@ -47,7 +50,6 @@ In description:
   
 **pork**  
 In name:   
- - Pork Chop (1) @ *1849*  
  - Pork Carnita @ *Gordon Que Rico*  
   
 In description:   
@@ -55,6 +57,8 @@ In description:
   
 **chicken**  
 In name:   
+ - Breaded Chicken Tenders @ *1849*  
+ - Tandoori Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Giardiniera Chicken @ *Gordon Buona Cucina*  
  - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
