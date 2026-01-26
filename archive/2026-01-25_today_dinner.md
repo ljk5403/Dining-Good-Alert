@@ -1,6 +1,6 @@
 # 2026-01-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-26 00:36:44  
+Updated at: 2026-01-26 08:27:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-26)  
 **Shrimp**  
 In name:   
@@ -123,6 +123,10 @@ In name:
 In name:   
  - Samosas @ *Que Rico*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **fish**  
 In name:   
   
@@ -156,7 +160,6 @@ In name:
  - Chicken Curry @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-01-26)  
 **Poke Bar**  
