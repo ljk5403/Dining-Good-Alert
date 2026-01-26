@@ -1,6 +1,6 @@
 # 2026-01-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-26 15:23:14  
+Updated at: 2026-01-26 16:21:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-26)  
 **Shrimp**  
 In name:   
@@ -72,7 +72,6 @@ In name:
  - Pizza Slice Philly Cheesesteak @ *Gordon Capital City Pizza*  
  - Smothered Steak Burrito @ *Gordon Que Rico*  
  - Philly Cheesesteak Sandwich @ *Fired Up*  
- - Tempeh Philly Cheesesteak Sandwich @ *Fired Up*  
   
 **Tuna**  
 In name:   
