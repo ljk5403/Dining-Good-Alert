@@ -1,6 +1,6 @@
 # 2026-01-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-26 17:21:50  
+Updated at: 2026-01-26 19:50:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-26)  
 **Shrimp**  
 In name:   
@@ -57,12 +57,6 @@ In description:
  - BYO - MTO Maki Noodle Bowl - Liz @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-01-26)  
-**portabella**  
-In name:   
-  
-In description:   
- - Portobello Mushroom Stroganoff @ *1849*  
-  
 **FiIipino Pork Spring Roll**  
 In name:   
  - FiIipino Pork Spring Roll @ *Gordon Eggcetera*  
@@ -80,6 +74,10 @@ In name:
 **Filipino Pork Sausage**  
 In name:   
  - Filipino Pork Sausage @ *Gordon Eggcetera*  
+  
+**curry**  
+In name:   
+ - Thai Veggie Meatballs w/ Green Curry @ *1849*  
   
 **beef**  
 In name:   
