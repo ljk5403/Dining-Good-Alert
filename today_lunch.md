@@ -1,6 +1,6 @@
 # 2026-01-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-27 00:34:57  
+Updated at: 2026-01-27 08:29:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-27)  
 **portabella**  
 In name:   
@@ -94,10 +94,6 @@ In name:
  - Chicken Dumpling Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-01-27)  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
 **haddock**  
 In name:   
  - Baked Haddock w/Butter & Lemon @ *1849*  
@@ -117,6 +113,7 @@ In name:
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Pizza Slice Chicken Sriracha @ *Gordon Capital City Pizza*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
+ - Plant-Based Chicken Tenders @ *Gordon Fired Up*  
  - Jamaican Jerk Chicken @ *Gordon Global Kitchen*  
  - Plant Based Protein Chicken Taco Filling @ *Gordon Que Rico*  
  - Diced Chicken @ *Great Greens*  
