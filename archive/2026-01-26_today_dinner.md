@@ -1,6 +1,6 @@
 # 2026-01-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-27 12:38:06  
+Updated at: 2026-01-27 14:22:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-27)  
 **portabella**  
 In name:   
@@ -55,8 +55,8 @@ In name:
   
 **Salmon**  
 In name:   
- - Salmon Philly Roll (FujiSan) @ *1849*  
- - Salmon Spicy Roll (FujiSan) @ *1849*  
+ - Salmon Philly Roll (FujiSan) @ *Global Kitchen*  
+ - Salmon Spicy Roll (FujiSan) @ *Global Kitchen*  
   
 **Tuna**  
 In name:   
@@ -66,7 +66,7 @@ In name:
 In name:   
   
 In description:   
- - Salmon Spicy Roll (FujiSan) @ *1849*  
+ - Salmon Spicy Roll (FujiSan) @ *Global Kitchen*  
   
 **beef**  
 In name:   
