@@ -1,6 +1,6 @@
 # 2026-01-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-27 10:29:58  
+Updated at: 2026-01-27 11:27:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-27)  
 **portabella**  
 In name:   
@@ -111,7 +111,7 @@ In name:
  - Chicken Breast w/Balsamic BBQ Sauce @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
- - Pizza Slice Chicken Sriracha @ *Gordon Capital City Pizza*  
+ - Pizza Slice Chicken Alfredo @ *Gordon Capital City Pizza*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Plant-Based Chicken Tenders @ *Gordon Fired Up*  
  - Jamaican Jerk Chicken @ *Gordon Global Kitchen*  
