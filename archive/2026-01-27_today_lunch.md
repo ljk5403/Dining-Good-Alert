@@ -1,11 +1,12 @@
 # 2026-01-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-28 11:31:41  
+Updated at: 2026-01-28 12:36:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-28)  
 **beef**  
 In name:   
  - Beef Broccoli Stir Fry w/Teriyaki Sauce @ *Global Kitchen*  
  - Plant-Based Beef & Broccoli Stir Fry @ *Global Kitchen*  
+ - Beef Barbacoa @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -14,19 +15,19 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Spicy Citrus w/Bl Beans & Rice @ *1849*  
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
- - Pork Carnita @ *Que Rico*  
  - Italian Pork Sausage @ *Buona Cucina*  
   
 **chicken**  
 In name:   
- - Chicken Breast w/Balsamic BBQ Sauce @ *1849*  
  - Blackened Chicken Sandwich @ *Fired Up*  
  - Fajita Chicken @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
   
 In description:   
+ - Pork Spicy Citrus w/Bl Beans & Rice @ *1849*  
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-01-28)  
