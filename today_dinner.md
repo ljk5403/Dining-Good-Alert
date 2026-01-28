@@ -1,6 +1,6 @@
 # 2026-01-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-27 17:21:29  
+Updated at: 2026-01-27 19:46:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-27)  
 **portabella**  
 In name:   
@@ -25,12 +25,9 @@ In name:
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
-**pork**  
-In name:   
- - Southern Style Pork Spare Ribs @ *1849*  
-  
 **chicken**  
 In name:   
+ - Baked BBQ Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Crispy Chicken Sandwich @ *Fired Up*  
@@ -93,10 +90,6 @@ In name:
  - Beef Bulgogi Taco @ *Gordon Eggcetera*  
  - Portabella Mushroom Bulgogi Taco @ *Gordon Eggcetera*  
   
-**drumstick**  
-In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
-  
 **steak**  
 In name:   
  - Steak Street Taco @ *Gordon Que Rico*  
@@ -126,7 +119,7 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
+ - Smoked BBQ Chicken Breast @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Pizza Slice Chicken Sriracha @ *Gordon Capital City Pizza*  
@@ -146,6 +139,7 @@ In name:
  - Beef French Dip Sandwich @ *1849*  
  - Empanada Beef Picadillo @ *Que Rico*  
  - Mediterranean Beef @ *Create-A-Bowl*  
+ - Beef Chili @ *Great Greens*  
   
 In description:   
  - Grilled Blended Burger w/ Cheese @ *Fired Up*  
@@ -163,7 +157,6 @@ In name:
  - Brazilian Chicken w/ Salsa Vinaigrette @ *1849*  
  - Mediterranean Chicken @ *Create-A-Bowl*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Dumpling Soup @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
