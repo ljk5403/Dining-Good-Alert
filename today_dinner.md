@@ -1,10 +1,9 @@
 # 2026-01-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-28 15:28:47  
+Updated at: 2026-01-28 16:26:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-28)  
 **portabella**  
 In name:   
- - Caribbean Portabella w/Rice @ *1849*  
   
 In description:   
  - Vegetable Cheesesteak Sandwich @ *Fired Up*  
@@ -165,7 +164,8 @@ In description:
 In name:   
  - Chicken Stir-Fry Coconut Lime @ *Global Kitchen*  
  - Chicken Wings Boneless Plain @ *Que Rico*  
- - Plant-Based Chicken Nuggets (6) @ *Que Rico*  
+ - Plant-Based Chicken Nuggets (6) @ *Create-A-Bowl*  
+ - Popcorn Chicken @ *Create-A-Bowl*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
