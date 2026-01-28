@@ -1,6 +1,6 @@
 # 2026-01-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-28 10:36:43  
+Updated at: 2026-01-28 11:31:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-28)  
 **beef**  
 In name:   
@@ -112,7 +112,6 @@ In name:
   
 **beef**  
 In name:   
- - Smoked Beef Round Plate @ *1849*  
  - Beef Broccoli Stir Fry @ *Global Kitchen*  
  - Beef Chili @ *Great Greens*  
   
