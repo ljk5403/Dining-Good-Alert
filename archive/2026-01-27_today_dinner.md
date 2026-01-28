@@ -1,6 +1,6 @@
 # 2026-01-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-28 12:37:02  
+Updated at: 2026-01-28 14:30:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-28)  
 **portabella**  
 In name:   
@@ -114,7 +114,6 @@ In description:
   
 **pork**  
 In name:   
- - Gnocchi w/ Pork Chorizo Sauce @ *Gordon Buona Cucina*  
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Gluten Free Pork Sausage Pizza Quarter @ *Gordon Capital City Pizza*  
  - Pork Bratwurst Sandwich @ *Fired Up*  
@@ -128,9 +127,6 @@ In name:
  - Plant Based Sesame Chicken (AYCTE) (VN) @ *Gordon Global Kitchen*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
  - Diced Chicken @ *Great Greens*  
-  
-In description:   
- - Gnocchi w/ Pork Chorizo Sauce @ *Gordon Buona Cucina*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-01-28)  
 **catfish**  

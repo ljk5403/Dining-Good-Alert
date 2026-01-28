@@ -1,6 +1,6 @@
 # 2026-01-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-28 14:30:40  
+Updated at: 2026-01-28 15:28:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-28)  
 **portabella**  
 In name:   
@@ -89,7 +89,7 @@ In name:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-01-28)  
 **Shrimp**  
 In name:   
- - Shrimp & Green Chile Burrito @ *Gordon Que Rico*  
+ - Chipotle Shrimp @ *Gordon Que Rico*  
   
 **Cod**  
 In name:   
@@ -103,6 +103,10 @@ In description:
  - California Roll  (FujiSan) @ *Gordon Global Kitchen*  
  - Tempura Roll (FujiSan) @ *Gordon Global Kitchen*  
   
+**curry**  
+In name:   
+ - Coconut Tofu w/Red Curry Sauce @ *1849*  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
@@ -110,6 +114,7 @@ In name:
   
 In description:   
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
+ - Vegan Taco Filling @ *Gordon Que Rico*  
  - Pork Bratwurst Sandwich @ *Fired Up*  
   
 **pork**  

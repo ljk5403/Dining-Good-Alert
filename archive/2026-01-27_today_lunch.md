@@ -1,7 +1,17 @@
 # 2026-01-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-28 12:36:57  
+Updated at: 2026-01-28 14:30:34  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-28)  
+**Salmon**  
+In name:   
+ - Blackened Salmon @ *1849*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Blackened Salmon @ *1849*  
+  
 **beef**  
 In name:   
  - Beef Broccoli Stir Fry w/Teriyaki Sauce @ *Global Kitchen*  
