@@ -1,13 +1,12 @@
 # 2026-01-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-28 09:31:52  
+Updated at: 2026-01-28 10:36:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-28)  
 **beef**  
 In name:   
  - Beef Broccoli Stir Fry w/Teriyaki Sauce @ *Global Kitchen*  
  - Plant-Based Beef & Broccoli Stir Fry @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
- - Beef Chili @ *Great Greens*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
@@ -25,6 +24,7 @@ In name:
  - Blackened Chicken Sandwich @ *Fired Up*  
  - Fajita Chicken @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
+ - Chicken Chili @ *Great Greens*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  

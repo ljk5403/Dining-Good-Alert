@@ -1,6 +1,6 @@
 # 2026-01-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-28 09:31:56  
+Updated at: 2026-01-28 10:36:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-28)  
 **portabella**  
 In name:   
@@ -24,7 +24,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Chili @ *Great Greens*  
   
 In description:   
  - Italian Meat Sauce @ *Buona Cucina*  
@@ -44,6 +43,7 @@ In name:
 In name:   
  - Teriyaki Chicken Fillet @ *1849*  
  - Diced Chicken @ *Great Greens*  
+ - Chicken Chili @ *Great Greens*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
