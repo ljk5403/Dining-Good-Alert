@@ -1,6 +1,6 @@
 # 2026-01-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-29 00:46:33  
+Updated at: 2026-01-29 08:37:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-29)  
 **portabella**  
 In name:   
@@ -102,57 +102,6 @@ In name:
  - Chicken Noodle Soup @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-01-29)  
-**portabella**  
-In name:   
- - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
-  
-**Bulgogi**  
-In name:   
- - BYO Bar - Four Lakes Bulgogi @ *Create-A-Bowl*  
- - Bulgogi Beef @ *Create-A-Bowl*  
- - Bulgogi Chicken @ *Create-A-Bowl*  
- - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
- - Build Your Own Bulgogi Bar - Four Lakes @ *Create-A-Bowl*  
-  
-**FiIipino Pork Spring Roll**  
-In name:   
- - FiIipino Pork Spring Roll @ *Que Rico*  
-  
-**steak**  
-In name:   
- - Swiss Steak w/Brown Gravy @ *1849*  
-  
-**Filipino Pork Sausage**  
-In name:   
- - Filipino Pork Sausage @ *Que Rico*  
-  
-**beef**  
-In name:   
- - Beef @ *Global Kitchen*  
- - Bulgogi Beef @ *Create-A-Bowl*  
-  
-In description:   
- - Fired Up Blended Burger @ *Fired Up*  
- - Swiss Steak w/Brown Gravy @ *1849*  
- - Vegan Sloppy Joe @ *1849*  
- - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
-  
-**pork**  
-In name:   
- - Herb Crusted Pork Loin @ *1849*  
- - Filipino Pork Sausage @ *Que Rico*  
- - FiIipino Pork Spring Roll @ *Que Rico*  
-  
-In description:   
- - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
-  
-**chicken**  
-In name:   
- - Bulgogi Chicken @ *Create-A-Bowl*  
- - Diced Chicken @ *Great Greens*  
- - Chicken Noodle Soup @ *Great Greens*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
-  
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-01-29)  
 **beef**  
 In name:   
