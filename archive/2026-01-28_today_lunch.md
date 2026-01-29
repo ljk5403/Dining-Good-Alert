@@ -1,6 +1,6 @@
 # 2026-01-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-29 08:36:57  
+Updated at: 2026-01-29 09:34:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-29)  
 **fish**  
 In name:   
@@ -14,6 +14,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Stroganoff Creamy @ *1849*  
  - Lamb & Beef Gyro Sandwich @ *Fired Up*  
  - Beef Mediterranean @ *Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
@@ -23,7 +24,6 @@ In description:
   
 **pork**  
 In name:   
- - Pork Tamale Pie @ *1849*  
  - Loaded Potato Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
   
 **chicken**  
