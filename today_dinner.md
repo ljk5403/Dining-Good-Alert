@@ -1,6 +1,6 @@
 # 2026-01-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-28 17:25:49  
+Updated at: 2026-01-28 19:59:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-28)  
 **portabella**  
 In name:   
@@ -32,7 +32,6 @@ In description:
 **pork**  
 In name:   
  - Pork Adobo @ *1849*  
- - Italian Pork Sausage @ *Buona Cucina*  
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
  - Filipino Pork Sausage @ *Global Kitchen*  
  - FiIipino Pork Spring Roll @ *Global Kitchen*  
@@ -42,6 +41,7 @@ In name:
 In name:   
  - Teriyaki Chicken Fillet @ *1849*  
  - Diced Chicken @ *Great Greens*  
+ - Plant Based Chicken Strips @ *Buona Cucina*  
  - Chicken Chili @ *Great Greens*  
   
 In description:   
@@ -52,10 +52,6 @@ In description:
 **drumstick**  
 In name:   
  - Chicken Drumstick BBQ Glazed @ *1849*  
-  
-**Tandoori Chicken**  
-In name:   
- - Tandoori Chicken @ *Global Kitchen*  
   
 **Samosas**  
 In name:   
@@ -82,7 +78,7 @@ In description:
 In name:   
  - Chicken Drumstick BBQ Glazed @ *1849*  
  - Plant-Based Chicken Tenders @ *1849*  
- - Tandoori Chicken @ *Global Kitchen*  
+ - Butter Chicken @ *Global Kitchen*  
  - Diced Chicken @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-01-28)  
@@ -195,7 +191,6 @@ In name:
 **beef**  
 In name:   
  - Bibimbap Beef @ *Global*  
- - Beef Chili @ *Great Greens*  
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
@@ -215,6 +210,7 @@ In name:
  - Chicken Pot Pie w/Biscuit @ *Carson's 1849*  
  - Plant-Based Chicken & Gravy (VN) @ *Carson's 1849*  
  - Diced Chicken @ *Great Greens*  
+ - Chicken Tortilla Soup @ *Great Greens*  
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
