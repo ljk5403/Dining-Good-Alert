@@ -1,6 +1,6 @@
 # 2026-01-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-30 12:41:24  
+Updated at: 2026-01-30 14:29:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-30)  
 **portabella**  
 In name:   
@@ -76,18 +76,22 @@ In description:
 In name:   
  - Melon Watermelon Whole Sliced @ *Great Greens*  
   
-**Tilapia**  
+**Pakoras**  
 In name:   
- - Blackened Tilapia @ *1849*  
+ - Appetizer -  Pakoras Vegetable (Veg) @ *1849*  
   
-**beef**  
+**Cod**  
 In name:   
- - Beef Barbacoa @ *Global Kitchen*  
- - Garlic Herb Roast Beef @ *1849*  
+ - Battered Cod @ *1849*  
+  
+**pork**  
+In name:   
+ - Pork Carnita @ *Global Kitchen*  
   
 **chicken**  
 In name:   
  - Chicken Tinga @ *Global Kitchen*  
+ - Butter Chicken @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   

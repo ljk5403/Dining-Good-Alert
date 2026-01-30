@@ -1,6 +1,6 @@
 # 2026-01-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-30 11:33:10  
+Updated at: 2026-01-30 12:41:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-30)  
 **portabella**  
 In name:   
@@ -148,7 +148,6 @@ In description:
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-01-30)  
 **Bulgogi**  
 In name:   
- - Bulgogi Chicken @ *Global Kitchen*  
  - Bulgogi Beef @ *Que Rico*  
   
 **watermelon**  
@@ -182,18 +181,19 @@ In description:
 In name:   
  - Sausage (Pork), Potatoes, & Peppers @ *1849*  
  - Pork Bratwurst Sandwich @ *Fired Up*  
+ - Ancho Braised Pork @ *Global Kitchen*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
 In name:   
- - Bulgogi Chicken @ *Global Kitchen*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
   
 In description:   
  - Tilapia Piccata @ *1849*  
+ - Ancho Braised Pork @ *Global Kitchen*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-01-30)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-01-30)  

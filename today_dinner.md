@@ -1,6 +1,6 @@
 # 2026-01-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-30 12:41:27  
+Updated at: 2026-01-30 14:29:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-30)  
 **watermelon**  
 In name:   
@@ -134,18 +134,19 @@ In description:
 In name:   
  - French Market Pork Jambalaya @ *1849*  
  - Hawaiian (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
+ - Pork Miso w/Yakisoba Noodles @ *Gordon Global Kitchen*  
  - Baked Corn Dog (Pork) @ *Fired Up*  
   
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pizza Slice 16" Tandoori Chicken (AYCTE) @ *Gordon Capital City Pizza*  
- - Greek Chicken @ *Gordon Global Kitchen*  
  - Plant-Based Chicken Nuggets (6) @ *Gordon Eggcetera*  
  - Diced Chicken @ *Great Greens*  
   
 In description:   
  - French Market Pork Jambalaya @ *1849*  
+ - Pork Miso w/Yakisoba Noodles @ *Gordon Global Kitchen*  
  - Baked Corn Dog (Pork) @ *Fired Up*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-01-30)  
