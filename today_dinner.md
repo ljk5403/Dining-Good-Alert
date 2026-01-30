@@ -1,6 +1,6 @@
 # 2026-01-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-30 00:49:25  
+Updated at: 2026-01-30 08:35:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-30)  
 **watermelon**  
 In name:   
@@ -180,38 +180,6 @@ In name:
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-01-30)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-01-30)  
-**steak**  
-In name:   
- - Ham Steak @ *Lowell Market*  
-  
-**duck**  
-In name:   
- - Duck Curry @ *Lowell Market*  
-  
-**mahi mahi**  
-In name:   
-  
-In description:   
- - Cajun Fish Tacos @ *Lowell Market*  
-  
-**fish**  
-In name:   
- - Cajun Fish Tacos @ *Lowell Market*  
-  
-In description:   
- - Duck Curry @ *Lowell Market*  
-  
-**curry**  
-In name:   
- - Duck Curry @ *Lowell Market*  
- - Black Eyed Pea Curry (AYCTE) @ *Lowell Market*  
-  
-**pork**  
-In name:   
-  
-In description:   
- - Ham Steak @ *Lowell Market*  
-  
 **chicken**  
 In name:   
  - Diced Chicken @ *Great Greens*  
