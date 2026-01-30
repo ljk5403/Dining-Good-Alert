@@ -1,6 +1,6 @@
 # 2026-01-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-30 15:27:51  
+Updated at: 2026-01-30 16:25:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-30)  
 **watermelon**  
 In name:   
@@ -108,10 +108,6 @@ In name:
 In name:   
  - Blackened Catfish @ *1849*  
   
-**Shrimp**  
-In name:   
- - Sauteed Shrimp @ *Gordon Buona Cucina*  
-  
 **fish**  
 In name:   
  - Blackened Catfish @ *1849*  
@@ -134,6 +130,7 @@ In name:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Pizza Slice 16" Tandoori Chicken (AYCTE) @ *Gordon Capital City Pizza*  
  - Diced Chicken @ *Great Greens*  
   

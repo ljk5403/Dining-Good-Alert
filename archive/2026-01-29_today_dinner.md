@@ -1,6 +1,6 @@
 # 2026-01-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-30 14:29:06  
+Updated at: 2026-01-30 15:27:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-30)  
 **watermelon**  
 In name:   
@@ -104,12 +104,6 @@ In name:
 In name:   
  - Pizza Slice 16" Tandoori Chicken (AYCTE) @ *Gordon Capital City Pizza*  
   
-**squid**  
-In name:   
-  
-In description:   
- - Fried Calamari @ *Gordon Eggcetera*  
-  
 **catfish**  
 In name:   
  - Blackened Catfish @ *1849*  
@@ -141,7 +135,6 @@ In name:
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pizza Slice 16" Tandoori Chicken (AYCTE) @ *Gordon Capital City Pizza*  
- - Plant-Based Chicken Nuggets (6) @ *Gordon Eggcetera*  
  - Diced Chicken @ *Great Greens*  
   
 In description:   
