@@ -1,6 +1,6 @@
 # 2026-01-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-30 09:33:30  
+Updated at: 2026-01-30 10:38:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-30)  
 **portabella**  
 In name:   
@@ -47,6 +47,7 @@ In name:
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
+ - Italian Meat Sauce @ *Buona Cucina*  
   
 **pork**  
 In name:   
@@ -55,7 +56,6 @@ In name:
   
 In description:   
  - Pizza Slice Sausage @ *Capital City Pizza*  
- - Chorizo Sauce @ *Buona Cucina*  
  - Bacon Slice @ *Delicious*  
  - Smoked Ham @ *Delicious*  
  - Bacon @ *Delicious*  
@@ -70,7 +70,6 @@ In name:
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
- - Chorizo Sauce @ *Buona Cucina*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-01-30)  
 **watermelon**  
@@ -147,6 +146,11 @@ In description:
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-01-30)  
+**Bulgogi**  
+In name:   
+ - Bulgogi Chicken @ *Global Kitchen*  
+ - Bulgogi Beef @ *Que Rico*  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -154,10 +158,6 @@ In name:
 **Poke Bar**  
 In name:   
  - Build Your Own Poke Bar @ *Create-A-Bowl*  
-  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp @ *Que Rico*  
   
 **Tilapia**  
 In name:   
@@ -170,6 +170,7 @@ In name:
 **beef**  
 In name:   
  - Beef Taco Meat @ *Que Rico*  
+ - Bulgogi Beef @ *Que Rico*  
   
 In description:   
  - Sausage (Pork), Potatoes, & Peppers @ *1849*  
@@ -187,7 +188,7 @@ In description:
   
 **chicken**  
 In name:   
- - Italian Chicken @ *Global Kitchen*  
+ - Bulgogi Chicken @ *Global Kitchen*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
   
@@ -196,9 +197,13 @@ In description:
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-01-30)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-01-30)  
-**Cod**  
+**Tilapia**  
 In name:   
- - Caribbean Cod @ *Lowell Market*  
+ - Lemon Bake Tilapia @ *Lowell Market*  
+  
+**pork**  
+In name:   
+ - Spicy Greenbush Pork Loin @ *Lowell Market*  
   
 **chicken**  
 In name:   
