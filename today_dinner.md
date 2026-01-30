@@ -1,6 +1,6 @@
 # 2026-01-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-29 17:25:49  
+Updated at: 2026-01-29 20:00:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-29)  
 **portabella**  
 In name:   
@@ -21,6 +21,7 @@ In name:
 In name:   
   
 In description:   
+ - Filipino Barbecue Pork @ *1849*  
  - Tempura Roll (FujiSan) @ *Global Kitchen*  
   
 **beef**  
@@ -34,11 +35,11 @@ In description:
   
 **pork**  
 In name:   
+ - Filipino Barbecue Pork @ *1849*  
  - Loaded Potato Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
- - Chicken Piece Seasoned Baked @ *1849*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Mediterranean Chicken @ *Que Rico*  
@@ -70,9 +71,9 @@ In description:
  - Beef Meatballs @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-01-29)  
-**Shrimp**  
+**mahi mahi**  
 In name:   
- - Shrimp with Bell Peppers @ *1849*  
+ - Island Spiced Mahi Mahi @ *1849*  
   
 **Tuna**  
 In name:   
@@ -103,7 +104,6 @@ In name:
  - Chicken Empanada with Green Chili @ *Gordon Que Rico*  
  - Breaded Chicken Parmigiana @ *Gordon Eggcetera*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Noodle Soup @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-01-29)  
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-01-29)  
