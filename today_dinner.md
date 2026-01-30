@@ -1,6 +1,6 @@
 # 2026-01-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-30 08:35:08  
+Updated at: 2026-01-30 09:33:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-30)  
 **watermelon**  
 In name:   
@@ -159,6 +159,10 @@ In description:
 In name:   
  - Chicken and Cheese Flauta @ *Que Rico*  
   
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
+  
 **Poke Bar**  
 In name:   
  - Build Your Own Poke Bar @ *Create-A-Bowl*  
@@ -167,9 +171,18 @@ In name:
 In name:   
  - Island Spiced Mahi Mahi @ *1849*  
   
+**beef**  
+In name:   
+  
+In description:   
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
+  
 **pork**  
 In name:   
  - Chicken Grilled Cordon Bleu (Pork) @ *1849*  
+  
+In description:   
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -177,6 +190,8 @@ In name:
  - Italian Chicken @ *Global Kitchen*  
  - Chicken Grilled Cordon Bleu (Pork) @ *1849*  
  - Chicken and Cheese Flauta @ *Que Rico*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Diced Chicken @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-01-30)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-01-30)  

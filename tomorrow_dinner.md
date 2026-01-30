@@ -1,6 +1,6 @@
 # 2026-01-31 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-30 08:35:11  
+Updated at: 2026-01-30 09:33:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-31)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-01-31)  
 **steak**  
@@ -79,12 +79,27 @@ In description:
 In name:   
  - Beef Taco Meat @ *Que Rico*  
   
+In description:   
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
+  
+**pork**  
+In name:   
+  
+In description:   
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
+  
 **chicken**  
 In name:   
  - Spicy Crispy Chicken Sandwich @ *Fired Up*  
  - Giardiniera Chicken @ *Global Kitchen*  
  - Sesame Chicken @ *1849*  
  - Taco Chicken @ *Que Rico*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Diced Chicken @ *Great Greens*  
+  
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-01-31)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-01-31)  

@@ -1,6 +1,6 @@
 # 2026-01-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-30 00:49:21  
+Updated at: 2026-01-30 08:35:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-30)  
 **portabella**  
 In name:   
@@ -103,42 +103,34 @@ In description:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**Tandoori Chicken**  
-In name:   
- - Pizza Slice 16" Tandoori Chicken (AYCTE) @ *Gordon Capital City Pizza*  
-  
 **steak**  
 In name:   
  - Grilled Flank Steak @ *1849*  
+  
+**mahi mahi**  
+In name:   
+ - Island Spiced Mahi Mahi @ *1849*  
   
 **Shrimp**  
 In name:   
  - Sauteed Shrimp @ *Gordon Buona Cucina*  
   
-**Cod**  
-In name:   
- - Baked Lemon Butter Cod @ *1849*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Beef Masaman Thai Curry @ *Gordon Global Kitchen*  
-  
 **curry**  
 In name:   
- - Beef Masaman Thai Curry @ *Gordon Global Kitchen*  
  - Coconut Tofu w/Red Curry Sauce @ *Gordon Global Kitchen*  
+  
+In description:   
+ - Chicken Tikka Masala @ *Gordon Global Kitchen*  
   
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Masaman Thai Curry @ *Gordon Global Kitchen*  
  - Beef Barbacoa @ *Gordon Que Rico*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
  - Grilled Flank Steak @ *1849*  
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
 **pork**  
 In name:   
@@ -147,9 +139,12 @@ In name:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Pizza Slice 16" Tandoori Chicken (AYCTE) @ *Gordon Capital City Pizza*  
  - Spicy Crispy Chicken Sandwich @ *Gordon Fired Up*  
+ - Chicken Tikka Masala @ *Gordon Global Kitchen*  
  - Diced Chicken @ *Great Greens*  
+  
+In description:   
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-01-30)  
 **watermelon**  

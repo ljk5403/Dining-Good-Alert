@@ -1,6 +1,6 @@
 # 2026-02-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-30 08:35:14  
+Updated at: 2026-01-30 09:33:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-01)  
 **beef**  
 In name:   
@@ -87,16 +87,23 @@ In name:
   
 In description:   
  - Italian Meat Sauce @ *Global Kitchen*  
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
 In name:   
  - Pork Carnita @ *Que Rico*  
+  
+In description:   
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Plant Based Chicken Strips @ *Global Kitchen*  
  - Plant Based Sweet & Sour Chicken @ *1849*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Diced Chicken @ *Great Greens*  
+ - Chicken Chili @ *Great Greens*  
   
 In description:   
  - Cracker Crusted Cod w/ Lemon Sauce @ *1849*  
