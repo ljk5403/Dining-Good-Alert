@@ -1,6 +1,6 @@
 # 2026-01-31 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-31 09:23:05  
+Updated at: 2026-01-31 10:27:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-01-31)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-01-31)  
 **pork**  
@@ -26,13 +26,13 @@ In name:
 In description:   
  - Montreal Chicken @ *1849*  
   
-**Tilapia**  
+**catfish**  
 In name:   
- - Tilapia Veracruz @ *1849*  
+ - Blackened Catfish @ *1849*  
   
-**BBQ Pork Sandwich**  
+**fish**  
 In name:   
- - Carolina BBQ Pork Sandwich @ *Gordon Fired Up*  
+ - Blackened Catfish @ *1849*  
   
 **beef**  
 In name:   
@@ -47,7 +47,7 @@ In description:
 **pork**  
 In name:   
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
- - Carolina BBQ Pork Sandwich @ *Gordon Fired Up*  
+ - Smoked Pulled Pork Sandwich @ *Gordon Fired Up*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
