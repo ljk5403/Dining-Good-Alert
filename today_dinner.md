@@ -1,6 +1,6 @@
 # 2026-01-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-30 17:25:03  
+Updated at: 2026-01-30 19:55:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-30)  
 **watermelon**  
 In name:   
@@ -100,10 +100,6 @@ In description:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**Tandoori Chicken**  
-In name:   
- - Pizza Slice 16" Tandoori Chicken (AYCTE) @ *Gordon Capital City Pizza*  
-  
 **catfish**  
 In name:   
  - Blackened Catfish @ *1849*  
@@ -118,26 +114,24 @@ In name:
  - Beef Carne Guisada @ *Gordon Que Rico*  
   
 In description:   
- - Baked Corn Dog (Pork) @ *Fired Up*  
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
 **pork**  
 In name:   
  - French Market Pork Jambalaya @ *1849*  
+ - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Hawaiian (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
  - Pork Miso w/Yakisoba Noodles @ *Gordon Global Kitchen*  
- - Baked Corn Dog (Pork) @ *Fired Up*  
   
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
- - Pizza Slice 16" Tandoori Chicken (AYCTE) @ *Gordon Capital City Pizza*  
  - Diced Chicken @ *Great Greens*  
   
 In description:   
  - French Market Pork Jambalaya @ *1849*  
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Pork Miso w/Yakisoba Noodles @ *Gordon Global Kitchen*  
- - Baked Corn Dog (Pork) @ *Fired Up*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-01-30)  
 **portabella**  
@@ -145,10 +139,6 @@ In name:
   
 In description:   
  - Portobello Mushroom Stroganoff @ *1849*  
-  
-**Flauta**  
-In name:   
- - Chicken and Cheese Flauta @ *Que Rico*  
   
 **watermelon**  
 In name:   
@@ -161,6 +151,14 @@ In name:
 **mahi mahi**  
 In name:   
  - Island Spiced Mahi Mahi @ *1849*  
+  
+**Shrimp**  
+In name:   
+ - Shrimp & Green Chile Burrito @ *Que Rico*  
+  
+**Cod**  
+In name:   
+ - Battered Cod Fillet Sandwich @ *Fired Up*  
   
 **beef**  
 In name:   
@@ -177,10 +175,8 @@ In description:
   
 **chicken**  
 In name:   
- - Grilled Chicken Sandwich @ *Fired Up*  
  - Italian Chicken @ *Global Kitchen*  
  - Chicken Grilled Cordon Bleu (Pork) @ *1849*  
- - Chicken and Cheese Flauta @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
   
