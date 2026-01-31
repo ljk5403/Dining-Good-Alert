@@ -1,11 +1,15 @@
 # 2026-01-31 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-31 14:25:14  
+Updated at: 2026-01-31 15:20:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-31)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-01-31)  
 **steak**  
 In name:   
  - Philly Cheesesteak Sandwich @ *Global Kitchen*  
+  
+**Cod**  
+In name:   
+ - Cracker Crusted Cod w/ Lemon Sauce @ *Global Kitchen*  
   
 **beef**  
 In name:   
@@ -15,17 +19,20 @@ In description:
   
 **pork**  
 In name:   
+ - Baked Rigatoni w/ Pork Italian Sausage @ *Global Kitchen*  
   
 In description:   
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 **chicken**  
 In name:   
+ - Grilled Chicken Pesto Artichoke Sandwich @ *Global Kitchen*  
  - Crispy Buffalo Chicken Sandwich @ *Global Kitchen*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
+ - Cracker Crusted Cod w/ Lemon Sauce @ *Global Kitchen*  
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-01-31)  
@@ -77,6 +84,7 @@ In description:
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-01-31)  
 **beef**  
 In name:   
+ - Beef Hot Dog @ *Fired Up*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
