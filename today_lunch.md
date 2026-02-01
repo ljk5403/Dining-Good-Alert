@@ -1,6 +1,6 @@
 # 2026-02-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-01 08:25:42  
+Updated at: 2026-02-01 09:24:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-01)  
 **steak**  
 In name:   
@@ -89,13 +89,17 @@ In description:
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-02-01)  
+**portabella**  
+In name:   
+  
+In description:   
+ - Portobello Mushroom Stroganoff @ *Global Kitchen*  
+  
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Italian Meat Sauce @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
@@ -113,7 +117,7 @@ In name:
  - Sausage Links Chicken (halal) (AYCTE) @ *1849*  
  - Crispy Chicken Sandwich @ *Fired Up*  
  - Plant Based Chicken Strips @ *Global Kitchen*  
- - Beef & Chicken Meatballs @ *Global Kitchen*  
+ - Giardiniera Chicken @ *Global Kitchen*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
@@ -123,13 +127,12 @@ In name:
 In name:   
   
 In description:   
- - Calzone Italian Pork (AYCTE) @ *Capital City Pizza:  Available Between 11am-4pm*  
- - Calzone Pollo & Pep - (AYCTE) @ *Capital City Pizza:  Available Between 11am-4pm*  
+ - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza:  Available Between 11am-4pm*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious:  Available Between 11am-4pm*  
   
 **pork**  
 In name:   
- - Calzone Italian Pork (AYCTE) @ *Capital City Pizza:  Available Between 11am-4pm*  
+ - Pizza Slice Sausage (Pork) @ *Capital City Pizza:  Available Between 11am-4pm*  
  - Pork Adobo @ *Global Kitchen:  Available Between 11am-2pm*  
  - Pork Sausage Patty @ *Eggcetera:  Available Between 11am-2pm*  
   
@@ -144,7 +147,7 @@ In name:
  - Chicken Chili @ *Great Greens*  
   
 In description:   
- - Calzone Pollo & Pep - (AYCTE) @ *Capital City Pizza:  Available Between 11am-4pm*  
+ - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza:  Available Between 11am-4pm*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-02-01)  
   
