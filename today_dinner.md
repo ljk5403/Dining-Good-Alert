@@ -1,6 +1,6 @@
 # 2026-01-31 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-01-31 17:21:23  
+Updated at: 2026-01-31 20:23:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-01-31)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-01-31)  
 **steak**  
@@ -37,15 +37,15 @@ In description:
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-01-31)  
-**Salmon**  
+**Tilapia**  
 In name:   
- - Hoisin BBQ Glazed Salmon @ *1849*  
+ - Blackened Tilapia @ *1849*  
   
-**fish**  
+**curry**  
 In name:   
   
 In description:   
- - Hoisin BBQ Glazed Salmon @ *1849*  
+ - Chicken Tikka Masala @ *1849*  
   
 **beef**  
 In name:   
@@ -68,11 +68,11 @@ In description:
   
 **chicken**  
 In name:   
- - Huli Huli Chicken @ *1849*  
+ - Chicken Tikka Masala @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Chicken Tinga @ *Gordon Que Rico*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
- - Chicken Tenders Breaded @ *Fired Up*  
+ - Spicy Crispy Chicken Sandwich @ *Fired Up*  
  - Plant-Based Chicken Nuggets (6) @ *Fired Up*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
  - Diced Chicken @ *Great Greens*  
@@ -85,7 +85,6 @@ In description:
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-01-31)  
 **beef**  
 In name:   
- - Beef Hot Dog @ *Fired Up*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -100,9 +99,8 @@ In description:
   
 **chicken**  
 In name:   
- - Spicy Crispy Chicken Sandwich @ *Fired Up*  
+ - Crispy Chicken Sandwich @ *Fired Up*  
  - Giardiniera Chicken @ *Global Kitchen*  
- - Sesame Chicken @ *1849*  
  - Taco Chicken @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
