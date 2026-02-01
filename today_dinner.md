@@ -1,6 +1,6 @@
 # 2026-02-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-01 15:22:56  
+Updated at: 2026-02-01 16:24:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-01)  
 **beef**  
 In name:   
@@ -42,11 +42,10 @@ In description:
 **curry**  
 In name:   
  - Thai Veggie Meatballs w/ Green Curry @ *1849*  
- - Mango Beef Curry @ *1849*  
   
 **beef**  
 In name:   
- - Mango Beef Curry @ *1849*  
+ - Texas BBQ Sliced Beef Brisket @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
@@ -75,18 +74,27 @@ In description:
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-02-01)  
+**portabella**  
+In name:   
+  
+In description:   
+ - Portobello Mushroom Stroganoff @ *Global Kitchen*  
+  
 **Cod**  
 In name:   
  - Cracker Crusted Cod w/ Lemon Sauce @ *1849*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Global Kitchen*  
- - Beef & Tater Tot Bake @ *1849*  
+ - Beef Roast Strip Loin w/Mush Demi @ *1849*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Italian Meat Sauce @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
@@ -101,7 +109,6 @@ In name:
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Plant Based Chicken Strips @ *Global Kitchen*  
  - Plant Based Sweet & Sour Chicken @ *1849*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
   

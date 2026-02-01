@@ -1,6 +1,6 @@
 # 2026-02-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-01 15:22:54  
+Updated at: 2026-02-01 16:24:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-01)  
 **steak**  
 In name:   
@@ -95,6 +95,10 @@ In name:
 In description:   
  - Portobello Mushroom Stroganoff @ *Global Kitchen*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **beef**  
 In name:   
  - Beef Taco Meat @ *Que Rico*  
@@ -118,7 +122,6 @@ In name:
  - Crispy Chicken Sandwich @ *Fired Up*  
  - Plant Based Chicken Strips @ *Global Kitchen*  
  - Giardiniera Chicken @ *Global Kitchen*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
   
