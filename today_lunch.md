@@ -1,6 +1,6 @@
 # 2026-02-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-01 17:24:11  
+Updated at: 2026-02-01 20:07:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-01)  
 **steak**  
 In name:   
@@ -115,6 +115,7 @@ In name:
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 **chicken**  
 In name:   
@@ -123,7 +124,9 @@ In name:
  - Plant Based Chicken Strips @ *Global Kitchen*  
  - Giardiniera Chicken @ *Global Kitchen*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Chili @ *Great Greens*  
+  
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-02-01)  
 **beef**  
