@@ -1,6 +1,6 @@
 # 2026-02-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-03 15:34:13  
+Updated at: 2026-02-03 16:28:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-03)  
 **watermelon**  
 In name:   
@@ -31,12 +31,12 @@ In description:
   
 **pork**  
 In name:   
- - Apricot Glazed Pork @ *1849*  
+ - Grilled Pork Loin @ *1849*  
  - Baked Corn Dog (Pork) @ *Fired Up*  
   
 **chicken**  
 In name:   
- - Chicken Paprikash @ *1849*  
+ - Blackened Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Mediterranean Chicken @ *Que Rico*  
@@ -82,15 +82,19 @@ In name:
  - Poke Bar @ *Gordon Global Kitchen*  
  - Build Your Own Poke Bar @ *Gordon Global Kitchen*  
   
-**mahi mahi**  
+**steak**  
 In name:   
- - Island Spiced Mahi Mahi @ *1849*  
+ - Steak Street Taco @ *Gordon Que Rico*  
   
 **Shrimp**  
 In name:   
   
 In description:   
  - Poke Bar @ *Gordon Global Kitchen*  
+  
+**Tilapia**  
+In name:   
+ - Blackened Tilapia @ *1849*  
   
 **Tuna**  
 In name:   
@@ -107,6 +111,9 @@ In name:
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
   
+In description:   
+ - Steak Street Taco @ *Gordon Que Rico*  
+  
 **pork**  
 In name:   
  - Jalapeno Popper (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
@@ -121,7 +128,6 @@ In name:
  - Jamaican Jerk Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
- - Chicken Mole w/ Rice @ *Gordon Que Rico*  
  - Crispy Chicken Sandwich @ *Fired Up*  
  - Chicken Dumpling Soup @ *Great Greens*  
   
