@@ -1,6 +1,6 @@
 # 2026-02-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-02 17:28:07  
+Updated at: 2026-02-02 20:06:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-02)  
 **Salmon**  
 In name:   
@@ -24,12 +24,13 @@ In description:
 In name:   
   
 In description:   
- - Burnt Ends @ *1849*  
  - Italian Meat Sauce @ *Buona Cucina*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
+ - Grilled Blended Burger w/ Cheese @ *Fired Up*  
   
 **pork**  
 In name:   
+ - Pork Italian Sausage @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
@@ -77,6 +78,10 @@ In name:
  - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
  - Tuna @ *Great Greens*  
   
+**curry**  
+In name:   
+ - Thai Veggie Meatballs w/ Green Curry @ *1849*  
+  
 **beef**  
 In name:   
  - Traditional Beef Shepard's Pie @ *1849*  
@@ -84,6 +89,7 @@ In name:
   
 In description:   
  - Pizza Slice - Bacon Cheeseburger @ *Gordon Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
   
 **pork**  
@@ -91,21 +97,29 @@ In name:
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Pork Banh Mi @ *Fired Up*  
   
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
+  
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Chicken Mole w/ Rice @ *Gordon Que Rico*  
  - BYO - MTO Chicken Wrap - Gordon @ *Gordon Eggcetera*  
  - Build Your Own Chicken Wrap (Gordon) @ *Gordon Eggcetera*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
   
 In description:   
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-02-02)  
 **Pakoras**  
 In name:   
  - Appetizer -  Pakoras Vegetable (Veg) @ *Que Rico*  
+  
+**Salmon**  
+In name:   
+ - Masala Spiced Salmon @ *1849*  
   
 **mahi mahi**  
 In name:   
@@ -120,6 +134,7 @@ In name:
 In name:   
   
 In description:   
+ - Masala Spiced Salmon @ *1849*  
  - Coconut Thai Curry Mahi Mahi @ *Que Rico*  
  - Tempura Roll (FujiSan) @ *Create-A-Bowl*  
   
@@ -133,6 +148,7 @@ In name:
  - BBQ Beef Brisket Sliders @ *1849*  
   
 In description:   
+ - Grilled Cheeseburger @ *Fired Up*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
@@ -144,7 +160,7 @@ In description:
   
 **chicken**  
 In name:   
- - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
+ - Chicken Noodle Soup @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-02-02)  

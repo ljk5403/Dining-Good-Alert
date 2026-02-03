@@ -1,6 +1,6 @@
 # 2026-02-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-02 12:42:36  
+Updated at: 2026-02-02 17:28:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-02)  
 **Salmon**  
 In name:   
@@ -72,10 +72,6 @@ In name:
 In description:   
  - Vegan Mushroom Banh Mi Sandwich @ *Fired Up*  
   
-**steak**  
-In name:   
- - Steak Street Taco @ *Gordon Que Rico*  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
@@ -89,7 +85,6 @@ In name:
 In description:   
  - Pizza Slice - Bacon Cheeseburger @ *Gordon Capital City Pizza*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
- - Steak Street Taco @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
@@ -99,6 +94,7 @@ In name:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Chicken Mole w/ Rice @ *Gordon Que Rico*  
  - BYO - MTO Chicken Wrap - Gordon @ *Gordon Eggcetera*  
  - Build Your Own Chicken Wrap (Gordon) @ *Gordon Eggcetera*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
@@ -129,7 +125,6 @@ In description:
   
 **curry**  
 In name:   
- - Black Eyed Pea Curry (AYCTE) @ *Que Rico*  
  - Coconut Thai Curry Mahi Mahi @ *Que Rico*  
  - Curry Potatoes @ *Que Rico*  
   

@@ -1,6 +1,6 @@
 # 2026-02-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-02 17:28:02  
+Updated at: 2026-02-02 20:06:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-02)  
 **Tuna**  
 In name:   
@@ -98,15 +98,18 @@ In name:
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Pulled Pork Sandwich with Maw Maw Slaw @ *Gordon Fired Up*  
   
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
+  
 **chicken**  
 In name:   
  - Blackened Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Chicken Tinga @ *Gordon Que Rico*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
   
 In description:   
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-02-02)  
 **broccoli rabe**  
@@ -160,6 +163,7 @@ In description:
 **chicken**  
 In name:   
  - Maple Cider Chicken @ *1849*  
+ - Chicken Noodle Soup @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-02-02)  
