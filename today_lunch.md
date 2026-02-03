@@ -1,6 +1,6 @@
 # 2026-02-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-03 00:51:25  
+Updated at: 2026-02-03 08:41:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-03)  
 **watermelon**  
 In name:   
@@ -31,6 +31,7 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Grilled Blended Burger w/ Cheese @ *Fired Up*  
   
 **pork**  
 In name:   
@@ -39,7 +40,6 @@ In name:
 **chicken**  
 In name:   
  - Brazilian Chicken w/ Salsa Vinaigrette @ *1849*  
- - Chicken Parmesan Sandwich @ *Fired Up*  
  - Tandoori Chicken @ *Global Kitchen*  
  - Mediterranean Chicken @ *Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
@@ -86,10 +86,6 @@ In name:
  - Chicken Dumpling Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-02-03)  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
 **Poke Bar**  
 In name:   
  - Poke Bar @ *Gordon Global Kitchen*  
