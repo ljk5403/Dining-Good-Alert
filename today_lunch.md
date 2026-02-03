@@ -1,6 +1,6 @@
 # 2026-02-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-03 10:52:34  
+Updated at: 2026-02-03 11:52:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-03)  
 **watermelon**  
 In name:   
@@ -122,6 +122,7 @@ In name:
 In description:   
  - Brazilian Flank Steak @ *1849*  
  - Southwest Blended Burger @ *Gordon Fired Up*  
+ - Vegan Taco Filling @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
@@ -135,7 +136,6 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
- - Plant Based Protein Chicken Taco Filling @ *Gordon Que Rico*  
  - Chicken Dumpling Soup @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-02-03)  
