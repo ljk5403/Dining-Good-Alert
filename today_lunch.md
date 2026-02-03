@@ -1,6 +1,6 @@
 # 2026-02-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-03 12:55:54  
+Updated at: 2026-02-03 14:35:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-03)  
 **watermelon**  
 In name:   
@@ -166,7 +166,6 @@ In description:
   
 **chicken**  
 In name:   
- - Greek Chicken @ *1849*  
  - Buffalo Chicken Wrap @ *Fired Up*  
  - Italian Chicken @ *Global Kitchen*  
  - Mediterranean Chicken @ *Create-A-Bowl*  
