@@ -1,6 +1,6 @@
 # 2026-02-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-04 09:41:47  
+Updated at: 2026-02-04 10:47:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-04)  
 **Tuna**  
 In name:   
@@ -143,9 +143,6 @@ In name:
  - Chicken Wings Boneless Plain @ *Que Rico*  
  - Plant-Based Chicken Nuggets (6) @ *Que Rico*  
   
-In description:   
- - BYO Bar - Mac & Cheese @ *Create-A-Bowl*  
-  
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-02-04)  
 **Salmon**  
 In name:   
@@ -164,14 +161,13 @@ In name:
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza:  Available Between 11am-4pm*  
  - Smoked Brisket & Tots Pizza Slice @ *Capital City Pizza:  Available Between 11am-4pm*  
- - Pork Bratwurst Sandwich @ *Fired Up:  Available Between 11am-2pm*  
+ - Chicago-Style Hot Dog @ *Fired Up:  Available Between 11am-2pm*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious:  Available Between 11am-4pm*  
   
 **pork**  
 In name:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza:  Available Between 11am-4pm*  
  - Pork Sausage in Country Gravy @ *Eggcetera:  Available Between 11am-2pm*  
- - Pork Bratwurst Sandwich @ *Fired Up:  Available Between 11am-2pm*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious:  Available Between 11am-4pm*  
