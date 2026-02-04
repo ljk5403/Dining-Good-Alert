@@ -1,6 +1,6 @@
 # 2026-02-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-04 12:50:39  
+Updated at: 2026-02-04 14:33:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-04)  
 **Tuna**  
 In name:   
@@ -41,10 +41,6 @@ In description:
  - Pepperoni & Mushrooms Pizza @ *Capital City Pizza*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-02-04)  
-**Samosas**  
-In name:   
- - Samosas @ *Global Kitchen*  
-  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
