@@ -1,6 +1,6 @@
 # 2026-02-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-04 09:41:52  
+Updated at: 2026-02-04 10:47:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-04)  
 **Beef Alicha**  
 In name:   
@@ -162,7 +162,6 @@ In name:
 **beef**  
 In name:   
  - Beef Bean & Carrot Stir Fry @ *Global Kitchen*  
- - Beef Hot Tamale Pie @ *1849*  
  - Beef Taco Meat @ *Que Rico*  
  - Beef Chili @ *Great Greens*  
   
@@ -172,7 +171,6 @@ In description:
   
 **pork**  
 In name:   
- - Apricot Glazed Pork @ *1849*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
