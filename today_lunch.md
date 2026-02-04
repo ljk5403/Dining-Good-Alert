@@ -1,6 +1,6 @@
 # 2026-02-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-03 17:27:29  
+Updated at: 2026-02-03 20:01:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-03)  
 **watermelon**  
 In name:   
@@ -169,7 +169,6 @@ In name:
  - Buffalo Chicken Wrap @ *Fired Up*  
  - Italian Chicken @ *Global Kitchen*  
  - Mediterranean Chicken @ *Create-A-Bowl*  
- - Chicken Dumpling Soup @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-02-03)  
 **watermelon**  

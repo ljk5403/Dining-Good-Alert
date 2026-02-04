@@ -1,6 +1,6 @@
 # 2026-02-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-03 16:28:48  
+Updated at: 2026-02-03 17:27:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-03)  
 **watermelon**  
 In name:   
@@ -86,15 +86,15 @@ In name:
 In name:   
  - Steak Street Taco @ *Gordon Que Rico*  
   
+**mahi mahi**  
+In name:   
+ - Island Spiced Mahi Mahi @ *1849*  
+  
 **Shrimp**  
 In name:   
   
 In description:   
  - Poke Bar @ *Gordon Global Kitchen*  
-  
-**Tilapia**  
-In name:   
- - Blackened Tilapia @ *1849*  
   
 **Tuna**  
 In name:   
@@ -116,6 +116,7 @@ In description:
   
 **pork**  
 In name:   
+ - Jerk Pork Chop @ *1849*  
  - Jalapeno Popper (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
  - Filipino Pork Sausage @ *Gordon Eggcetera*  
  - FiIipino Pork Spring Roll @ *Gordon Eggcetera*  
@@ -125,7 +126,6 @@ In description:
   
 **chicken**  
 In name:   
- - Jamaican Jerk Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Crispy Chicken Sandwich @ *Fired Up*  

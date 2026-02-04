@@ -1,6 +1,6 @@
 # 2026-02-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-03 17:27:33  
+Updated at: 2026-02-03 20:01:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-03)  
 **watermelon**  
 In name:   
@@ -73,10 +73,6 @@ In name:
  - Chicken Dumpling Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-02-03)  
-**FiIipino Pork Spring Roll**  
-In name:   
- - FiIipino Pork Spring Roll @ *Gordon Eggcetera*  
-  
 **Poke Bar**  
 In name:   
  - Poke Bar @ *Gordon Global Kitchen*  
@@ -116,10 +112,8 @@ In description:
   
 **pork**  
 In name:   
- - Jerk Pork Chop @ *1849*  
  - Jalapeno Popper (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
  - Filipino Pork Sausage @ *Gordon Eggcetera*  
- - FiIipino Pork Spring Roll @ *Gordon Eggcetera*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
@@ -169,7 +163,6 @@ In name:
  - Smoked Chicken Drumstick @ *1849*  
  - Chicken Mole w/ Rice @ *Que Rico*  
  - Mediterranean Chicken @ *Create-A-Bowl*  
- - Chicken Dumpling Soup @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-02-03)  
 **portabella**  
@@ -213,6 +206,10 @@ In description:
  - Pork Louisiana Creole @ *Fired Up*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-02-03)  
+**Salmon**  
+In name:   
+ - Za'atar Salmon @ *Lowell Market*  
+  
 **Shrimp**  
 In name:   
  - Shrimp Creole @ *Lowell Market*  
@@ -221,6 +218,12 @@ In name:
 In name:   
  - Tuna @ *Great Greens*  
   
+**fish**  
+In name:   
+  
+In description:   
+ - Za'atar Salmon @ *Lowell Market*  
+  
 **beef**  
 In name:   
  - Beef Taco Meat @ *Lowell Market*  
@@ -228,7 +231,6 @@ In name:
 **chicken**  
 In name:   
  - Taco Chicken @ *Lowell Market*  
- - Honey Garlic Chicken @ *Lowell Market*  
  - Chicken Dumpling Soup @ *Great Greens*  
   
   
