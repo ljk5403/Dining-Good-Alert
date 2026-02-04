@@ -1,6 +1,6 @@
 # 2026-02-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-04 15:32:20  
+Updated at: 2026-02-04 16:27:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-04)  
 **Beef Alicha**  
 In name:   
@@ -179,8 +179,6 @@ In description:
   
 **chicken**  
 In name:   
- - Plant-Based Chicken Nuggets (6) @ *Que Rico*  
- - Chicken Wings Boneless Plain @ *Que Rico*  
  - Chicken Tinga @ *Que Rico*  
   
 In description:   
