@@ -1,13 +1,7 @@
 # 2026-02-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-05 00:58:13  
+Updated at: 2026-02-05 08:41:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-05)  
-**squid**  
-In name:   
-  
-In description:   
- - Fried Calamari @ *1849*  
-  
 **fish**  
 In name:   
   
