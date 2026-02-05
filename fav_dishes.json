@@ -16,9 +16,9 @@
     "Shrimp",
     "Cod",
     "Tilapia",
-    "Tuna",
+    "lamb",
     "fish",
-    "lamb"
+    "Tuna"
   ],
   "good_dish_category_common": [
     "curry",
@@ -27,6 +27,7 @@
     "chicken"
   ],
   "good_dish_name_T0": [
+    "Drunken Noodles",
     "Vanilla Coconut Milk Yogurt",
     "Bibimbap Bowl",
     "Moroccan Style Lamb Stuffed Peppers",
@@ -36,24 +37,23 @@
     "crayfish",
     "Bulgogi",
     "Flauta",
-    "watermelon",
-    "Drunken Noodles",
     "FiIipino Pork Spring Roll",
     "Beef Alicha",
     "Pepper, Onion, & Mushroom Saute",
     "Poke Bar",
     "corn bake",
-    "Rapini",
-    "broccoli rabe",
-    "drumstick",
     "Chicken Drumstick Gochujang Glazed",
     "Chicken Drummies",
+    "Rapini",
+    "broccoli rabe",
     "Tandoori Chicken",
     "Samosas",
     "Pakoras",
+    "drumstick",
     "steak"
   ],
   "good_dish_name_T1": [
+    "watermelon",
     "BBQ Pork Sandwich",
     "Filipino Pork Sausage",
     "Chicken Tamale with Oaxaca"
