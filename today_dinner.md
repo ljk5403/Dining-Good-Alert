@@ -1,6 +1,6 @@
 # 2026-02-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-04 19:34:31  
+Updated at: 2026-02-04 20:02:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-04)  
 **Beef Alicha**  
 In name:   
@@ -85,9 +85,6 @@ In name:
  - Indian Fish Curry @ *Global Kitchen*  
  - Curry Potatoes @ *Global Kitchen*  
   
-In description:   
- - Tikka Masala Chicken @ *Global Kitchen*  
-  
 **beef**  
 In name:   
  - Beef Pepper Steak Stir Fry w/Teriyaki @ *1849*  
@@ -98,7 +95,7 @@ In description:
   
 **chicken**  
 In name:   
- - Tikka Masala Chicken @ *Global Kitchen*  
+ - Butter Chicken @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-02-04)  
 **steak**  

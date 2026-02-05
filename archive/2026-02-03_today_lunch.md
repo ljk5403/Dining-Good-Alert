@@ -1,16 +1,16 @@
 # 2026-02-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-04 17:27:17  
+Updated at: 2026-02-04 19:34:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-04)  
-**Tuna**  
-In name:   
- - Tuna @ *Great Greens*  
-  
 **fish**  
 In name:   
   
 In description:   
  - Filipino Barbecue Pork @ *1849*  
+  
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
   
 **beef**  
 In name:   
@@ -77,16 +77,16 @@ In description:
 In name:   
  - Oven Roasted Salmon @ *1849*  
   
-**Tuna**  
-In name:   
- - Tuna @ *Great Greens*  
-  
 **fish**  
 In name:   
   
 In description:   
  - California Roll  (FujiSan) @ *Gordon Global Kitchen*  
  - Tempura Roll (FujiSan) @ *Gordon Global Kitchen*  
+  
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
   
 **beef**  
 In name:   
