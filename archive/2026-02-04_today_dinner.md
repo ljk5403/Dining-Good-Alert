@@ -1,6 +1,6 @@
 # 2026-02-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-05 15:27:37  
+Updated at: 2026-02-05 16:26:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-05)  
 **fish**  
 In name:   
@@ -80,7 +80,7 @@ In name:
   
 **steak**  
 In name:   
- - Brazilian Flank Steak @ *1849*  
+ - Grilled Flank Steak @ *1849*  
   
 **Tuna**  
 In name:   
@@ -100,7 +100,7 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
   
 In description:   
- - Brazilian Flank Steak @ *1849*  
+ - Grilled Flank Steak @ *1849*  
  - Sausage (Pork) & Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Vegetarian Hot Tamale Pie @ *Gordon Que Rico*  
  - Chicago-Style Hot Dog @ *Gordon Eggcetera*  
@@ -135,10 +135,6 @@ In name:
  - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
  - Build Your Own Bulgogi Bar - Four Lakes @ *Create-A-Bowl*  
   
-**steak**  
-In name:   
- - Grilled Flank Steak @ *1849*  
-  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
@@ -150,7 +146,6 @@ In name:
  - Bulgogi Beef @ *Create-A-Bowl*  
   
 In description:   
- - Grilled Flank Steak @ *1849*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
@@ -168,9 +163,17 @@ In name:
  - Chicken Noodle Soup @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-02-05)  
+**FiIipino Pork Spring Roll**  
+In name:   
+ - FiIipino Pork Spring Roll @ *Fired Up*  
+  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
+  
+**Filipino Pork Sausage**  
+In name:   
+ - Filipino Pork Sausage @ *Fired Up*  
   
 **beef**  
 In name:   
@@ -183,7 +186,9 @@ In description:
 **pork**  
 In name:   
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
+ - Filipino Pork Sausage @ *Fired Up*  
  - Green Beans w/ Pork Bacon @ *Fired Up*  
+ - FiIipino Pork Spring Roll @ *Fired Up*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious:  Available Between 11am-4pm*  
