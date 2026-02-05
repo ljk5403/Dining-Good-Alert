@@ -1,6 +1,6 @@
 # 2026-02-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-05 09:40:04  
+Updated at: 2026-02-05 10:49:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-05)  
 **fish**  
 In name:   
@@ -192,7 +192,7 @@ In description:
 In name:   
  - Chicken Tenders Breaded @ *Carson's 1849*  
  - Plant-Based Chicken Tenders @ *Carson's 1849*  
- - Chicken Noodle Soup @ *Great Greens*  
+ - Chicken Dumpling Soup @ *Great Greens*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
