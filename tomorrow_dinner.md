@@ -1,16 +1,16 @@
 # 2026-02-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-04 17:27:33  
+Updated at: 2026-02-04 19:34:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-05)  
-**Tuna**  
-In name:   
- - Tuna @ *Great Greens*  
-  
 **fish**  
 In name:   
   
 In description:   
  - Tempura Roll (FujiSan) @ *Global Kitchen*  
+  
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
   
 **curry**  
 In name:   
@@ -70,11 +70,11 @@ In name:
  - Chicken Noodle Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-02-05)  
-**drumstick**  
+**Chicken Drumstick Gochujang Glazed**  
 In name:   
  - Chicken Drumstick Gochujang Glazed @ *1849*  
   
-**Chicken Drumstick Gochujang Glazed**  
+**drumstick**  
 In name:   
  - Chicken Drumstick Gochujang Glazed @ *1849*  
   

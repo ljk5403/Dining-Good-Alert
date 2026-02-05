@@ -1,6 +1,6 @@
 # 2026-02-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-04 17:27:23  
+Updated at: 2026-02-04 19:34:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-04)  
 **Beef Alicha**  
 In name:   
@@ -10,9 +10,9 @@ In name:
 In name:   
  - Miso Cod @ *1849*  
   
-**Tuna**  
+**lamb**  
 In name:   
- - Tuna @ *Great Greens*  
+ - Lamb Vindaloo @ *Global Kitchen*  
   
 **fish**  
 In name:   
@@ -20,9 +20,9 @@ In name:
 In description:   
  - Miso Cod @ *1849*  
   
-**lamb**  
+**Tuna**  
 In name:   
- - Lamb Vindaloo @ *Global Kitchen*  
+ - Tuna @ *Great Greens*  
   
 **curry**  
 In name:   
@@ -71,13 +71,13 @@ In name:
 In description:   
  - Indian Fish Curry @ *Global Kitchen*  
   
-**Tuna**  
-In name:   
- - Tuna @ *Great Greens*  
-  
 **fish**  
 In name:   
  - Indian Fish Curry @ *Global Kitchen*  
+  
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
   
 **curry**  
 In name:   
@@ -115,10 +115,6 @@ In name:
 In description:   
  - Fish Tacos @ *Gordon Que Rico*  
   
-**Tuna**  
-In name:   
- - Tuna @ *Great Greens*  
-  
 **fish**  
 In name:   
  - Garlic Baked Catfish @ *1849*  
@@ -129,6 +125,10 @@ In description:
  - California Roll  (FujiSan) @ *Gordon Global Kitchen*  
  - Tempura Roll (FujiSan) @ *Gordon Global Kitchen*  
   
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
@@ -137,6 +137,7 @@ In name:
 In description:   
  - Country Fried Steak @ *1849*  
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Grilled Blended Burger w/ Cheese @ *Fired Up*  
   
 **pork**  
@@ -152,6 +153,9 @@ In name:
  - Sweet & Sour Chicken @ *Gordon Global Kitchen*  
  - Brown Stew w/ Chicken @ *Gordon Eggcetera*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
+  
+In description:   
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-02-04)  
 **Tuna**  
@@ -179,7 +183,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Tinga @ *Que Rico*  
+ - Taco Chicken @ *Que Rico*  
   
 In description:   
  - BYO Bar - Mac & Cheese @ *Create-A-Bowl*  

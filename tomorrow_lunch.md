@@ -1,6 +1,6 @@
 # 2026-02-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-04 17:27:28  
+Updated at: 2026-02-04 19:34:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-05)  
 **squid**  
 In name:   
@@ -8,15 +8,15 @@ In name:
 In description:   
  - Fried Calamari @ *1849*  
   
-**Tuna**  
-In name:   
- - Tuna @ *Great Greens*  
-  
 **fish**  
 In name:   
   
 In description:   
  - Tempura Roll (FujiSan) @ *Global Kitchen*  
+  
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
   
 **beef**  
 In name:   
@@ -51,15 +51,15 @@ In description:
 In name:   
  - Bibimbap Bowl @ *Global Kitchen*  
   
-**Tuna**  
-In name:   
- - Tuna @ *Great Greens*  
-  
 **fish**  
 In name:   
   
 In description:   
  - Bibimbap Bowl @ *Global Kitchen*  
+  
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
   
 **beef**  
 In name:   
@@ -140,16 +140,16 @@ In name:
 In name:   
  - Duck Curry @ *1849*  
   
-**Tuna**  
-In name:   
- - Tuna Salad @ *Delicious*  
- - Tuna @ *Great Greens*  
-  
 **fish**  
 In name:   
   
 In description:   
  - Duck Curry @ *1849*  
+  
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+ - Tuna @ *Great Greens*  
   
 **curry**  
 In name:   
@@ -191,14 +191,14 @@ In name:
 In description:   
  - Petite Fish Sandwich @ *Fired Up:  Available Between 11am-2pm*  
   
-**Tuna**  
-In name:   
- - Tuna @ *Great Greens*  
-  
 **fish**  
 In name:   
  - Vegan Fish Sandwich @ *Fired Up:  Available Between 11am-2pm*  
  - Petite Fish Sandwich @ *Fired Up:  Available Between 11am-2pm*  
+  
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
   
 **curry**  
 In name:   

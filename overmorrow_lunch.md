@@ -1,11 +1,7 @@
 # 2026-02-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-04 17:27:38  
+Updated at: 2026-02-04 19:34:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-06)  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
 **steak**  
 In name:   
  - Island Spiced Beef Steak @ *1849*  
@@ -16,14 +12,18 @@ In name:
  - Island Spiced Catfish @ *1849*  
  - Catfish Nuggets w/ Remoulade Sauce @ *Fired Up*  
   
-**Tuna**  
-In name:   
- - Tuna @ *Great Greens*  
-  
 **fish**  
 In name:   
  - Island Spiced Catfish @ *1849*  
  - Catfish Nuggets w/ Remoulade Sauce @ *Fired Up*  
+  
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
   
 **curry**  
 In name:   
@@ -55,13 +55,13 @@ In name:
  - Chicken Salad @ *Delicious*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-02-06)  
-**watermelon**  
-In name:   
- - Melon Watermelon Whole Sliced @ *Great Greens*  
-  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
+  
+**watermelon**  
+In name:   
+ - Melon Watermelon Whole Sliced @ *Great Greens*  
   
 **curry**  
 In name:   
@@ -75,10 +75,6 @@ In name:
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-02-06)  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
 **haddock**  
 In name:   
  - Haddock Ginger Glazed (AYCTE) @ *1849*  
@@ -94,14 +90,18 @@ In name:
 In description:   
  - Petite Fish Sandwich @ *Gordon Fired Up*  
   
-**Tuna**  
-In name:   
- - Tuna @ *Great Greens*  
-  
 **fish**  
 In name:   
  - Petite Fish Sandwich @ *Gordon Fired Up*  
  - Vegan Fish Sandwich @ *Gordon Fired Up*  
+  
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
   
 **curry**  
 In name:   
@@ -137,10 +137,6 @@ In name:
 In description:   
  - Grilled Portabello Mushroom Sandwich @ *Fired Up*  
   
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
 **Poke Bar**  
 In name:   
  - Build Your Own Poke Bar @ *Create-A-Bowl*  
@@ -153,6 +149,10 @@ In name:
 In name:   
  - Tuna Salad @ *Delicious*  
  - Tuna @ *Great Greens*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
   
 **beef**  
 In name:   
@@ -181,16 +181,16 @@ In name:
 In name:   
  - Battered Cod @ *Lowell Market*  
   
-**Tuna**  
-In name:   
- - Tuna @ *Great Greens*  
-  
 **fish**  
 In name:   
  - Vegan Fish Fillet (VN) @ *Lowell Market*  
   
 In description:   
  - Crab Rangoon @ *Lowell Market*  
+  
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
   
 **pork**  
 In name:   

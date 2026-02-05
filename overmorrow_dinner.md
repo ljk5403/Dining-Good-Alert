@@ -1,11 +1,7 @@
 # 2026-02-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-04 17:27:44  
+Updated at: 2026-02-04 19:34:52  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-06)  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
 **drumstick**  
 In name:   
  - Chicken Drumstick Teriyaki Glazed @ *1849*  
@@ -23,16 +19,20 @@ In name:
 In name:   
  - Cod Nuggets @ *Fired Up*  
   
-**Tuna**  
-In name:   
- - Tuna @ *Great Greens*  
-  
 **fish**  
 In name:   
  - Vegan Fish Sandwich @ *Fired Up*  
   
 In description:   
  - Eggplant Miso-Glazed @ *1849*  
+  
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
   
 **beef**  
 In name:   
@@ -55,10 +55,6 @@ In name:
  - Chicken Salad @ *Delicious*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-02-06)  
-**watermelon**  
-In name:   
- - Melon Watermelon Whole Sliced @ *Great Greens*  
-  
 **Salmon**  
 In name:   
  - Salmon Tandoori Roasted @ *1849*  
@@ -66,6 +62,10 @@ In name:
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
+  
+**watermelon**  
+In name:   
+ - Melon Watermelon Whole Sliced @ *Great Greens*  
   
 **beef**  
 In name:   
@@ -84,10 +84,6 @@ In name:
  - Shredded Beef Flauta @ *Gordon Que Rico*  
  - Chicken and Cheese Flauta @ *Gordon Que Rico*  
   
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
 **Salmon**  
 In name:   
  - Honey Citrus Salmon @ *1849*  
@@ -101,6 +97,10 @@ In name:
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
   
 **curry**  
 In name:   
@@ -138,10 +138,6 @@ In description:
  - Shredded Beef Flauta @ *Gordon Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-02-06)  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
 **Poke Bar**  
 In name:   
  - Build Your Own Poke Bar @ *Create-A-Bowl*  
@@ -160,16 +156,20 @@ In name:
 In description:   
  - Fish Tacos @ *Que Rico*  
   
-**Tuna**  
-In name:   
- - Tuna Salad @ *Delicious*  
- - Tuna @ *Great Greens*  
-  
 **fish**  
 In name:   
  - Vegan Fish Sandwich @ *Fired Up*  
  - Fish Tacos @ *Que Rico*  
  - Vegetarian "Fish" Tacos @ *Que Rico*  
+  
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+ - Tuna @ *Great Greens*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
   
 **beef**  
 In name:   
@@ -195,13 +195,13 @@ In name:
 In name:   
  - Panfried Southern Catfish @ *Lowell Market*  
   
-**Tuna**  
-In name:   
- - Tuna @ *Great Greens*  
-  
 **fish**  
 In name:   
  - Panfried Southern Catfish @ *Lowell Market*  
+  
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
   
 **pork**  
 In name:   
