@@ -1,6 +1,6 @@
 # 2026-02-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-05 16:26:43  
+Updated at: 2026-02-05 17:22:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-05)  
 **fish**  
 In name:   
@@ -20,7 +20,6 @@ In name:
 **beef**  
 In name:   
  - Roasted Beef Brisket @ *1849*  
- - Beef Gravy @ *1849*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Beef Mediterranean @ *Que Rico*  
   
@@ -57,6 +56,9 @@ In name:
 **beef**  
 In name:   
  - Beef Fajita @ *Global Kitchen*  
+  
+In description:   
+ - Burnt Ends @ *1849*  
   
 **pork**  
 In name:   

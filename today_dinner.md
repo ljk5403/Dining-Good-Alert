@@ -1,6 +1,6 @@
 # 2026-02-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-05 17:22:21  
+Updated at: 2026-02-05 20:02:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-05)  
 **fish**  
 In name:   
@@ -72,13 +72,9 @@ In name:
  - Chicken Noodle Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-02-05)  
-**Chicken Drumstick Gochujang Glazed**  
-In name:   
- - Chicken Drumstick Gochujang Glazed @ *1849*  
-  
 **drumstick**  
 In name:   
- - Chicken Drumstick Gochujang Glazed @ *1849*  
+ - Chicken Drumstick BBQ Glazed @ *1849*  
   
 **steak**  
 In name:   
@@ -115,7 +111,7 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken Drumstick Gochujang Glazed @ *1849*  
+ - Chicken Drumstick BBQ Glazed @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Mediterranean Chicken @ *Gordon Buona Cucina*  
  - Chicken Tamale with Oaxaca @ *Gordon Que Rico*  
@@ -199,7 +195,7 @@ In description:
 In name:   
  - Chicken Tenders Breaded @ *Carson's 1849*  
  - Plant-Based Chicken Tenders @ *Carson's 1849*  
- - Chicken Dumpling Soup @ *Great Greens*  
+ - Chicken Tortilla Soup @ *Great Greens*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
