@@ -1,6 +1,6 @@
 # 2026-02-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-06 14:33:34  
+Updated at: 2026-02-06 15:30:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-06)  
 **drumstick**  
 In name:   
@@ -115,15 +115,13 @@ In name:
  - Shredded Beef Flauta @ *Gordon Que Rico*  
   
 In description:   
- - Kielbasa with Pierogis @ *Gordon Eggcetera*  
+ - Sliced Kielbasa (Pork) @ *1849*  
   
 **pork**  
 In name:   
+ - Sliced Kielbasa (Pork) @ *1849*  
  - Shrimp & Pork Andouille Sausage @ *Gordon Buona Cucina*  
  - Pizza Slice Chicken Cordon Bleu (Pork) @ *Gordon Capital City Pizza*  
-  
-In description:   
- - Kielbasa with Pierogis @ *Gordon Eggcetera*  
   
 **chicken**  
 In name:   
@@ -146,10 +144,6 @@ In name:
 In name:   
  - Grilled Chipotle Salmon @ *1849*  
   
-**Shrimp**  
-In name:   
- - Sauteed Shrimp @ *Global Kitchen*  
-  
 **Cod**  
 In name:   
   
@@ -158,7 +152,6 @@ In description:
   
 **fish**  
 In name:   
- - Vegan Fish Sandwich @ *Fired Up*  
  - Fish Tacos @ *Que Rico*  
  - Vegetarian "Fish" Tacos @ *Que Rico*  
   
@@ -175,10 +168,12 @@ In name:
 In name:   
   
 In description:   
+ - Sliced Kielbasa (Pork) @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
 In name:   
+ - Sliced Kielbasa (Pork) @ *Global Kitchen*  
  - Smoked Pulled Pork Sandwich @ *1849*  
   
 In description:   
