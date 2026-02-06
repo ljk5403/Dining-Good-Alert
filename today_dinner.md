@@ -1,6 +1,6 @@
 # 2026-02-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-06 09:39:12  
+Updated at: 2026-02-06 10:43:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-06)  
 **drumstick**  
 In name:   
@@ -28,6 +28,7 @@ In description:
   
 **Tuna**  
 In name:   
+ - Tuna Salad @ *Delicious*  
  - Tuna @ *Great Greens*  
   
 **watermelon**  
@@ -52,7 +53,6 @@ In name:
  - Chicken Drumstick Teriyaki Glazed @ *1849*  
  - Diced Chicken Breast @ *Buona Cucina*  
  - Dan Dan w/ Chicken @ *Global Kitchen*  
- - Chicken Salad @ *Delicious*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-02-06)  
 **Salmon**  
