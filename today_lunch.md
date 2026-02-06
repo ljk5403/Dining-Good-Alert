@@ -1,6 +1,6 @@
 # 2026-02-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-06 00:54:27  
+Updated at: 2026-02-06 08:38:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-06)  
 **steak**  
 In name:   
@@ -81,7 +81,6 @@ In name:
   
 **Shrimp**  
 In name:   
- - Shrimp & Pork Andouille Sausage @ *Gordon Buona Cucina*  
  - Sauteed Shrimp @ *Gordon Buona Cucina*  
   
 **Cod**  
@@ -115,20 +114,17 @@ In name:
  - Beef Barbacoa @ *Gordon Que Rico*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
-**pork**  
-In name:   
- - Shrimp & Pork Andouille Sausage @ *Gordon Buona Cucina*  
- - Pizza Slice Chicken Cordon Bleu (Pork) @ *Gordon Capital City Pizza*  
+In description:   
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
 **chicken**  
 In name:   
  - Honey Lime Chicken Breast @ *1849*  
  - Plant-Based Chicken Lo Mein @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Pizza Slice Chicken Cordon Bleu (Pork) @ *Gordon Capital City Pizza*  
   
 In description:   
- - Shrimp & Pork Andouille Sausage @ *Gordon Buona Cucina*  
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-02-06)  
 **portabella**  
@@ -157,15 +153,14 @@ In name:
 **beef**  
 In name:   
  - Beef Ragu Sauce @ *1849*  
+ - Beef Mediterranean @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Sliced Kielbasa (Pork) @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
 In name:   
- - Sliced Kielbasa (Pork) @ *Global Kitchen*  
  - Pork Carnita @ *Que Rico*  
   
 In description:   
