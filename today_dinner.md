@@ -1,6 +1,6 @@
 # 2026-02-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-06 15:30:05  
+Updated at: 2026-02-06 16:23:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-06)  
 **drumstick**  
 In name:   
@@ -205,5 +205,6 @@ In name:
 **chicken**  
 In name:   
  - Sausage Links Chicken (halal) (AYCTE) @ *Lowell Market*  
+ - Breaded Chicken Fillet @ *Lowell Market*  
   
   
