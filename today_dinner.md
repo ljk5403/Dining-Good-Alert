@@ -1,6 +1,6 @@
 # 2026-02-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-06 16:23:41  
+Updated at: 2026-02-06 17:25:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-06)  
 **drumstick**  
 In name:   
@@ -115,13 +115,15 @@ In name:
  - Shredded Beef Flauta @ *Gordon Que Rico*  
   
 In description:   
- - Sliced Kielbasa (Pork) @ *1849*  
+ - Kielbasa with Pierogis @ *1849*  
   
 **pork**  
 In name:   
- - Sliced Kielbasa (Pork) @ *1849*  
  - Shrimp & Pork Andouille Sausage @ *Gordon Buona Cucina*  
  - Pizza Slice Chicken Cordon Bleu (Pork) @ *Gordon Capital City Pizza*  
+  
+In description:   
+ - Kielbasa with Pierogis @ *1849*  
   
 **chicken**  
 In name:   
@@ -205,6 +207,5 @@ In name:
 **chicken**  
 In name:   
  - Sausage Links Chicken (halal) (AYCTE) @ *Lowell Market*  
- - Breaded Chicken Fillet @ *Lowell Market*  
   
   
