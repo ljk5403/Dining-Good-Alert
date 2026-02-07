@@ -1,6 +1,6 @@
 # 2026-02-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-07 00:41:32  
+Updated at: 2026-02-07 08:25:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-08)  
 **Tuna**  
 In name:   
@@ -135,7 +135,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *Global*  
  - Beef Stroganoff Creamy @ *Fired Up*  
   
 In description:   
@@ -149,13 +148,10 @@ In name:
 In description:   
  - Pizza Slice Sausage @ *Capital City Pizza*  
  - Carson's MTO Pasta Bar @ *Global*  
- - Andouille Sausage @ *Global*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious:  Available Between 11am-4pm*  
   
 **chicken**  
 In name:   
- - Diced Chicken @ *Global*  
- - Beef & Chicken Meatballs @ *Global*  
  - Chicken Chili @ *Great Greens*  
   
 In description:   
