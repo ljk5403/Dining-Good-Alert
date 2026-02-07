@@ -1,6 +1,6 @@
 # 2026-02-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-07 09:24:38  
+Updated at: 2026-02-07 10:29:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-07)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-02-07)  
 **Tuna**  
@@ -71,6 +71,10 @@ In name:
  - Philly Cheesesteak Sandwich @ *Fired Up*  
  - Ham Steak @ *Create-A-Bowl*  
   
+**Shrimp**  
+In name:   
+ - Shrimp Etouffee @ *Global Kitchen*  
+  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
@@ -91,7 +95,6 @@ In description:
  - Andouille Sausage @ *1849*  
  - Ham Steak @ *Create-A-Bowl*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
- - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 **chicken**  
 In name:   
@@ -99,9 +102,7 @@ In name:
  - Giardiniera Chicken @ *Global Kitchen*  
  - Taco Chicken @ *Que Rico*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Create-A-Bowl*  
-  
-In description:   
- - Kale, Sausage & Potato Soup @ *Great Greens*  
+ - Lemon Chicken Rice Soup @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-02-07)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-02-07)  
