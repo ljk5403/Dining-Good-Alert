@@ -1,15 +1,28 @@
 # 2026-02-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-07 12:35:02  
+Updated at: 2026-02-07 14:26:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-07)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-02-07)  
+**steak**  
+In name:   
+ - Beef Pepper Steak Stir Fry w/Teryiaki @ *1849*  
+ - Plant-Based Pepper Steak Stir Fry @ *1849*  
+  
+**Salmon**  
+In name:   
+ - Salmon Tandoori Roasted @ *1849*  
+  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
   
 **beef**  
 In name:   
+ - Beef Pepper Steak Stir Fry w/Teryiaki @ *1849*  
  - Beef Chimichurri Taco @ *Global Kitchen*  
+  
+In description:   
+ - Plant-Based Pepper Steak Stir Fry @ *1849*  
   
 **pork**  
 In name:   
