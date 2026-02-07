@@ -1,15 +1,10 @@
 # 2026-02-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-06 17:25:10  
+Updated at: 2026-02-06 19:58:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-06)  
-**drumstick**  
-In name:   
- - Chicken Drumstick Teriyaki Glazed @ *1849*  
-  
 **steak**  
 In name:   
  - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
- - Fried Steak & Cheese Chimichanga @ *Que Rico*  
   
 **mahi mahi**  
 In name:   
@@ -40,19 +35,19 @@ In name:
   
 In description:   
  - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
- - Fried Steak & Cheese Chimichanga @ *Que Rico*  
   
 **pork**  
 In name:   
+ - Pork Belly Char Sui @ *1849*  
   
 In description:   
  - Pizza Slice Sausage @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
- - Chicken Drumstick Teriyaki Glazed @ *1849*  
  - Diced Chicken Breast @ *Buona Cucina*  
  - Dan Dan w/ Chicken @ *Global Kitchen*  
+ - Chicken Empanada with Green Chili @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-02-06)  
 **Salmon**  
@@ -86,11 +81,10 @@ In name:
   
 **Salmon**  
 In name:   
- - Honey Citrus Salmon @ *1849*  
+ - Ginger Glazed Salmon @ *1849*  
   
 **Shrimp**  
 In name:   
- - Shrimp & Pork Andouille Sausage @ *Gordon Buona Cucina*  
  - Sauteed Shrimp @ *Gordon Buona Cucina*  
  - Popcorn Shrimp Basket @ *Fired Up*  
   
@@ -116,11 +110,11 @@ In name:
   
 In description:   
  - Kielbasa with Pierogis @ *1849*  
+ - Italian Meat Sauce @ *Gordon Buona Cucina*  
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
 **pork**  
 In name:   
- - Shrimp & Pork Andouille Sausage @ *Gordon Buona Cucina*  
- - Pizza Slice Chicken Cordon Bleu (Pork) @ *Gordon Capital City Pizza*  
   
 In description:   
  - Kielbasa with Pierogis @ *1849*  
@@ -129,12 +123,11 @@ In description:
 In name:   
  - Brazilian Chicken w/ Salsa Vinaigrette @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Pizza Slice Chicken Cordon Bleu (Pork) @ *Gordon Capital City Pizza*  
  - Chicken Curry - Mango @ *Gordon Global Kitchen*  
  - Chicken and Cheese Flauta @ *Gordon Que Rico*  
   
 In description:   
- - Shrimp & Pork Andouille Sausage @ *Gordon Buona Cucina*  
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Shredded Beef Flauta @ *Gordon Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-02-06)  
@@ -183,11 +176,15 @@ In description:
   
 **chicken**  
 In name:   
- - Spicy Crispy Chicken Sandwich @ *Fired Up*  
+ - Breaded Chicken Tenders @ *Fired Up*  
  - Plant-Based Chicken & Dumplings @ *1849*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-02-06)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-02-06)  
+**Bulgogi**  
+In name:   
+ - Bulgogi Beef @ *Lowell Market*  
+  
 **catfish**  
 In name:   
  - Panfried Southern Catfish @ *Lowell Market*  
@@ -199,6 +196,10 @@ In name:
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
+  
+**beef**  
+In name:   
+ - Bulgogi Beef @ *Lowell Market*  
   
 **pork**  
 In name:   
