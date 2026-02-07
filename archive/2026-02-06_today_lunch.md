@@ -1,6 +1,6 @@
 # 2026-02-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-07 12:35:00  
+Updated at: 2026-02-07 14:26:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-07)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-02-07)  
 **Tuna**  
@@ -24,9 +24,13 @@ In description:
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-02-07)  
-**drumstick**  
+**catfish**  
 In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
+ - Garlic Baked Catfish @ *1849*  
+  
+**fish**  
+In name:   
+ - Garlic Baked Catfish @ *1849*  
   
 **Tuna**  
 In name:   
@@ -34,7 +38,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Tri Tip Carved w/ Chimichurri @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
@@ -53,7 +56,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Crispy Buffalo Chicken Sandwich @ *Gordon Fired Up*  
  - Chicken Tinga @ *Gordon Que Rico*  
