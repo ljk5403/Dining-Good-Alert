@@ -1,6 +1,6 @@
 # 2026-02-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-08 16:27:17  
+Updated at: 2026-02-08 17:30:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-08)  
 **Tuna**  
 In name:   
@@ -14,6 +14,7 @@ In name:
 **beef**  
 In name:   
  - Beef Taco Meat @ *Que Rico*  
+ - Beef Barbacoa @ *Que Rico*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
@@ -23,7 +24,6 @@ In description:
 In name:   
  - Italian Pork Sausage @ *Buona Cucina*  
  - BBQ Pork Sandwich @ *Fired Up*  
- - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Gnocchi w/ Sausage & Roast Veg @ *1849*  
