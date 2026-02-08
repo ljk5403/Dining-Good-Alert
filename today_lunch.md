@@ -1,6 +1,6 @@
 # 2026-02-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-08 09:25:58  
+Updated at: 2026-02-08 10:30:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-08)  
 **Tuna**  
 In name:   
@@ -123,25 +123,26 @@ In name:
 In name:   
   
 In description:   
- - Italian Pork Calzone @ *Capital City Pizza:  Available Between 11am-4pm*  
- - Chicken & Pepperoni Calzone @ *Capital City Pizza:  Available Between 11am-4pm*  
+ - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza:  Available Between 11am-4pm*  
  - Bacon Bleu Blended Burger @ *Fired Up:  Available Between 11am-2pm*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious:  Available Between 11am-4pm*  
   
 **pork**  
 In name:   
- - Italian Pork Calzone @ *Capital City Pizza:  Available Between 11am-4pm*  
  - Vietnamese Pork @ *Global Kitchen:  Available Between 11am-2pm*  
  - Pork Sausage Patty @ *Eggcetera:  Available Between 11am-2pm*  
   
 In description:   
+ - Pizza Slice Sausage @ *Capital City Pizza:  Available Between 11am-4pm*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious:  Available Between 11am-4pm*  
   
 **chicken**  
 In name:   
  - Maple Cider Chicken @ *Carson's 1849:  Available Between 11am-2pm*  
- - Chicken & Pepperoni Calzone @ *Capital City Pizza:  Available Between 11am-4pm*  
  - Chicken Chili @ *Great Greens*  
+  
+In description:   
+ - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza:  Available Between 11am-4pm*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-02-08)  
   
