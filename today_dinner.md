@@ -1,6 +1,6 @@
 # 2026-02-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-07 17:28:56  
+Updated at: 2026-02-07 20:31:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-07)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-02-07)  
 **steak**  
@@ -44,6 +44,10 @@ In description:
 In name:   
  - Tuna @ *Great Greens*  
   
+**curry**  
+In name:   
+ - Chicken Curry - Mango @ *1849*  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
@@ -66,7 +70,7 @@ In description:
   
 **chicken**  
 In name:   
- - Cajun Chicken Pasta @ *1849*  
+ - Chicken Curry - Mango @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Chicken Tinga @ *Gordon Que Rico*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
