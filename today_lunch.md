@@ -1,6 +1,6 @@
 # 2026-02-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-09 09:55:20  
+Updated at: 2026-02-09 11:55:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-09)  
 **Tuna**  
 In name:   
@@ -11,7 +11,7 @@ In name:
  - Texas BBQ Sliced Beef Brisket @ *1849*  
  - Beef Fajita Meat @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
- - Beef Ravioli Plain @ *Buona Cucina*  
+ - Beef Tortellini @ *Buona Cucina*  
   
 In description:   
  - Grilled Blended Burger w/ Cheese @ *Fired Up*  
@@ -108,10 +108,12 @@ In name:
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Pork Bratwurst Sandwich @ *Gordon Fired Up*  
   
+In description:   
+ - Pizza Slice Hawaiian @ *Gordon Capital City Pizza*  
+  
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Pizza Slice Mediterranean Chicken @ *Gordon Capital City Pizza*  
  - Chicken Tinga @ *Gordon Que Rico*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
@@ -201,6 +203,8 @@ In description:
 In name:   
  - Chicken Tinga & Scallion Quesadilla @ *Carson's 1849:  Available Between 11am-2pm*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera:  Available Between 11am-2pm*  
+ - Diced Chicken @ *Great Greens*  
+ - Chicken Tortilla Soup @ *Great Greens*  
   
 In description:   
  - Sausage (Pork) & Pepperoni Pizza Slice @ *Capital City Pizza:  Available Between 11am-4pm*  

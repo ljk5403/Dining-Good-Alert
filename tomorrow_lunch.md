@@ -1,6 +1,6 @@
 # 2026-02-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-09 09:55:39  
+Updated at: 2026-02-09 11:55:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-10)  
 **portabella**  
 In name:   
@@ -175,6 +175,10 @@ In description:
 In name:   
  - Guajillo Shrimp @ *Global Kitchen:  Available Between 11am-2pm*  
   
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
+  
 **beef**  
 In name:   
   
@@ -196,6 +200,8 @@ In name:
  - Chicken Wings Boneless Plain @ *Carson's 1849:  Available Between 11am-2pm*  
  - Plant-Based Chicken Nuggets (6) @ *Carson's 1849:  Available Between 11am-2pm*  
  - Plant Based Sweet & Sour Chicken @ *Global Kitchen:  Available Between 11am-2pm*  
+ - Diced Chicken @ *Great Greens*  
+ - Chicken Dumpling Soup @ *Great Greens*  
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza:  Available Between 11am-4pm*  

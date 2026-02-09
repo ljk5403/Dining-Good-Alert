@@ -1,6 +1,6 @@
 # 2026-02-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-09 09:55:44  
+Updated at: 2026-02-09 11:55:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-10)  
 **portabella**  
 In name:   
@@ -180,6 +180,10 @@ In name:
 In name:   
  - Portabella Mediterranean @ *Global*  
   
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
+  
 **curry**  
 In name:   
  - Mixed Vegetable Curry @ *Fired Up*  
@@ -205,6 +209,8 @@ In description:
 In name:   
  - Mediterranean Chicken @ *Global*  
  - Chicken Stir-Fry Coconut Lime @ *Fired Up*  
+ - Diced Chicken @ *Great Greens*  
+ - Chicken Dumpling Soup @ *Great Greens*  
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
