@@ -1,6 +1,6 @@
 # 2026-02-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-09 11:55:35  
+Updated at: 2026-02-09 13:12:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-09)  
 **Tuna**  
 In name:   
@@ -159,7 +159,6 @@ In name:
  - Italian Pork Sausage @ *Global Kitchen*  
   
 In description:   
- - Hot Ham Sandwich @ *1849*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  

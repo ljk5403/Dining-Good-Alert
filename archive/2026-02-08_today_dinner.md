@@ -1,6 +1,6 @@
 # 2026-02-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-09 09:55:33  
+Updated at: 2026-02-09 11:55:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-09)  
 **steak**  
 In name:   
@@ -224,6 +224,8 @@ In description:
   
 **chicken**  
 In name:   
+ - Diced Chicken @ *Great Greens*  
+ - Chicken Tortilla Soup @ *Great Greens*  
   
 In description:   
  - Sausage (Pork) & Pepperoni Pizza Slice @ *Capital City Pizza*  
