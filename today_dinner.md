@@ -1,6 +1,6 @@
 # 2026-02-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-09 15:37:49  
+Updated at: 2026-02-09 16:35:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-09)  
 **steak**  
 In name:   
@@ -218,6 +218,14 @@ In description:
  - Sausage (Pork) & Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-02-09)  
+**haddock**  
+In name:   
+ - Baked Haddock w/Butter & Lemon @ *Lowell Market*  
+  
+**curry**  
+In name:   
+ - Coconut Tofu w/Red Curry Sauce @ *Lowell Market*  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Lowell Market*  

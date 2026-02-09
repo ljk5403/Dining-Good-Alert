@@ -1,6 +1,6 @@
 # 2026-02-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-09 14:38:06  
+Updated at: 2026-02-09 15:37:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-09)  
 **steak**  
 In name:   
@@ -75,21 +75,9 @@ In name:
 In description:   
  - Pizza Slice Portabello Alfredo (Veg) @ *Gordon Capital City Pizza*  
   
-**fish**  
-In name:   
-  
-In description:   
- - Poulet Braise @ *Gordon Eggcetera*  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Jollof Rice - 25 @ *Gordon Eggcetera*  
   
 **beef**  
 In name:   
@@ -118,7 +106,6 @@ In name:
 In description:   
  - Swedish Meatballs (AYCTE) @ *1849*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
- - Poulet Braise @ *Gordon Eggcetera*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-02-09)  
 **portabella**  
