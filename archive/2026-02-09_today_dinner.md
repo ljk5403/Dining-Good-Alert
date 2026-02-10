@@ -1,6 +1,6 @@
 # 2026-02-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-10 01:03:28  
+Updated at: 2026-02-10 08:57:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-10)  
 **portabella**  
 In name:   
@@ -43,7 +43,6 @@ In name:
 In name:   
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
- - Spicy Crispy Chicken Sandwich @ *Fired Up*  
  - Chicken Vindaloo @ *Global Kitchen*  
  - Mediterranean Chicken @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  

@@ -1,6 +1,6 @@
 # 2026-02-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-10 01:03:23  
+Updated at: 2026-02-10 08:57:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-10)  
 **portabella**  
 In name:   
@@ -40,6 +40,7 @@ In name:
 **chicken**  
 In name:   
  - Chicken Creole @ *1849*  
+ - Spicy Crispy Chicken Sandwich @ *Fired Up*  
  - Tikka Masala Chicken @ *Global Kitchen*  
  - Mediterranean Chicken @ *Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
