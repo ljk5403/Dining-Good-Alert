@@ -1,6 +1,6 @@
 # 2026-02-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-10 15:41:20  
+Updated at: 2026-02-10 16:38:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-10)  
 **portabella**  
 In name:   
@@ -138,9 +138,9 @@ In name:
  - Beef Bulgogi Bao Bun @ *Que Rico*  
  - Mushroom Bulgogi Bao Bun @ *Que Rico*  
   
-**mahi mahi**  
+**Salmon**  
 In name:   
- - Blackened Mahi Mahi @ *1849*  
+ - Blackened Salmon @ *1849*  
   
 **Shrimp**  
 In name:   

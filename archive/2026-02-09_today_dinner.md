@@ -1,6 +1,6 @@
 # 2026-02-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-10 14:43:08  
+Updated at: 2026-02-10 15:41:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-10)  
 **portabella**  
 In name:   
@@ -123,7 +123,6 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Chicken Empanada with Green Chili @ *Gordon Que Rico*  
- - Chicken Paprikash @ *Gordon Eggcetera*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
   
@@ -157,6 +156,7 @@ In name:
  - Mediterranean Beef @ *Create-A-Bowl*  
   
 In description:   
+ - Italian Meat Sauce @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
