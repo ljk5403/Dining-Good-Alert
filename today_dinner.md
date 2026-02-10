@@ -1,13 +1,7 @@
 # 2026-02-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-09 17:36:06  
+Updated at: 2026-02-09 20:26:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-09)  
-**steak**  
-In name:   
-  
-In description:   
- - Montreal Chicken @ *1849*  
-  
 **Tilapia**  
 In name:   
  - Tilapia Veracruz @ *Que Rico*  
@@ -32,6 +26,7 @@ In description:
 **pork**  
 In name:   
  - Sausage (Pork), Potatoes, & Peppers @ *1849*  
+ - Smoked Pulled Pork @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
  - Shanghai Pork Fried Noodles with @ *Global Kitchen*  
   
@@ -40,7 +35,6 @@ In description:
   
 **chicken**  
 In name:   
- - Montreal Chicken @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
@@ -74,6 +68,10 @@ In name:
   
 In description:   
  - Pizza Slice Portabello Alfredo (Veg) @ *Gordon Capital City Pizza*  
+  
+**Salmon**  
+In name:   
+ - Blackened Salmon @ *1849*  
   
 **Tuna**  
 In name:   
@@ -161,7 +159,6 @@ In description:
 In name:   
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-02-09)  
 **Poke Bar**  

@@ -1,6 +1,6 @@
 # 2026-02-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-09 17:36:02  
+Updated at: 2026-02-09 20:26:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-09)  
 **Tuna**  
 In name:   
@@ -167,7 +167,6 @@ In name:
  - Chicken Vindaloo @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-02-09)  
 **steak**  
