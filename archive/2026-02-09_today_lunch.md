@@ -1,6 +1,6 @@
 # 2026-02-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-10 12:01:07  
+Updated at: 2026-02-10 14:43:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-10)  
 **portabella**  
 In name:   
@@ -183,6 +183,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Chili @ *Great Greens*  
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza:  Available Between 11am-4pm*  
