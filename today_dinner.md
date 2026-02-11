@@ -1,6 +1,6 @@
 # 2026-02-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-11 10:00:50  
+Updated at: 2026-02-11 11:54:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-11)  
 **fish**  
 In name:   
@@ -177,7 +177,6 @@ In description:
 **beef**  
 In name:   
  - Bibimbap Beef @ *Global*  
- - Beef Chili @ *Great Greens*  
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
@@ -195,6 +194,7 @@ In description:
 In name:   
  - Chicken Ala King over Biscuit @ *Carson's 1849*  
  - Diced Chicken @ *Great Greens*  
+ - Chicken Chili @ *Great Greens*  
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  

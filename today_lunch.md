@@ -1,11 +1,7 @@
 # 2026-02-11 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-11 10:00:46  
+Updated at: 2026-02-11 11:54:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-11)  
-**FiIipino Pork Spring Roll**  
-In name:   
- - FiIipino Pork Spring Roll @ *Global Kitchen*  
-  
 **broccoli rabe**  
 In name:   
  - Broccoli Rabe @ *1849*  
@@ -33,7 +29,6 @@ In description:
 In name:   
  - Sliced Kielbasa (Pork) @ *1849*  
  - Filipino Pork Sausage @ *Global Kitchen*  
- - FiIipino Pork Spring Roll @ *Global Kitchen*  
  - Italian Pork Sausage @ *Buona Cucina*  
   
 In description:   
@@ -175,7 +170,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Chili @ *Great Greens*  
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza:  Available Between 11am-4pm*  
@@ -196,6 +190,7 @@ In name:
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera:  Available Between 11am-2pm*  
  - Buffalo Chicken Sliders @ *Fired Up:  Available Between 11am-2pm*  
  - Diced Chicken @ *Great Greens*  
+ - Chicken Chili @ *Great Greens*  
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza:  Available Between 11am-4pm*  
@@ -209,11 +204,13 @@ In description:
   
 **beef**  
 In name:   
+ - Beef & Chicken Meatballs @ *Lowell Market*  
  - Beef Chili @ *Great Greens*  
   
 **chicken**  
 In name:   
  - Diced Chicken @ *Great Greens*  
+ - Beef & Chicken Meatballs @ *Lowell Market*  
   
 In description:   
  - Tikka Masala Pizza @ *Lowell Market*  
