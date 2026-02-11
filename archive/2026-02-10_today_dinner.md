@@ -1,6 +1,6 @@
 # 2026-02-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-11 15:33:17  
+Updated at: 2026-02-11 16:28:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-11)  
 **fish**  
 In name:   
@@ -76,6 +76,13 @@ In name:
 In description:   
  - Tempura Roll (FujiSan) @ *Gordon Global Kitchen*  
  - California Roll  (FujiSan) @ *Gordon Global Kitchen*  
+ - Poulet Braise @ *Gordon Eggcetera*  
+  
+**curry**  
+In name:   
+  
+In description:   
+ - Jollof Rice - 25 @ *Gordon Eggcetera*  
   
 **beef**  
 In name:   
@@ -108,6 +115,7 @@ In name:
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
+ - Poulet Braise @ *Gordon Eggcetera*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-02-11)  
 **Vanilla Coconut Milk Yogurt**  
