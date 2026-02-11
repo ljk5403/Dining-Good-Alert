@@ -1,6 +1,6 @@
 # 2026-02-11 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-11 11:54:55  
+Updated at: 2026-02-11 13:02:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-11)  
 **broccoli rabe**  
 In name:   
@@ -14,6 +14,10 @@ In name:
 In name:   
  - Filipino Pork Sausage @ *Global Kitchen*  
   
+**curry**  
+In name:   
+ - Curry Mango - Pork @ *1849*  
+  
 **beef**  
 In name:   
  - Roast Beef & Provolone Sub @ *Fired Up*  
@@ -22,12 +26,11 @@ In name:
  - Beef Chili @ *Great Greens*  
   
 In description:   
- - Sliced Kielbasa (Pork) @ *1849*  
  - Vegan Sloppy Joe @ *Fired Up*  
   
 **pork**  
 In name:   
- - Sliced Kielbasa (Pork) @ *1849*  
+ - Curry Mango - Pork @ *1849*  
  - Filipino Pork Sausage @ *Global Kitchen*  
  - Italian Pork Sausage @ *Buona Cucina*  
   
