@@ -1,6 +1,6 @@
 # 2026-02-11 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-11 13:02:39  
+Updated at: 2026-02-11 14:38:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-11)  
 **broccoli rabe**  
 In name:   
@@ -107,6 +107,7 @@ In name:
  - Broasted Chicken @ *1849*  
  - Chicken Gravy @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Breaded Chicken Tenders @ *Gordon Fired Up*  
  - General Tso's Chicken @ *Gordon Global Kitchen*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
  - Diced Chicken @ *Great Greens*  
