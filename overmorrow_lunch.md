@@ -1,206 +1,186 @@
-# 2026-02-12 lunch  
+# 2026-02-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-10 20:22:45  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-12)  
-**fish**  
+Updated at: 2026-02-11 01:00:20  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-13)  
+**Salmon**  
 In name:   
+ - Grilled Chipotle Salmon @ *1849*  
   
-In description:   
- - Tempura Roll (FujiSan) @ *Global Kitchen*  
-  
-**Tuna**  
+**Shrimp**  
 In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
-  
-**curry**  
-In name:   
- - Garbanzo Bean Curry @ *1849*  
-  
-**beef**  
-In name:   
- - Cowboy Bean w/ Beef & Pork @ *1849*  
- - Beef Mediterranean @ *Que Rico*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
-  
-In description:   
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
-  
-**pork**  
-In name:   
- - Cowboy Bean w/ Beef & Pork @ *1849*  
-  
-**chicken**  
-In name:   
- - Huli Huli Chicken @ *1849*  
- - Pizza Slice Chicken Broccoli Alfredo @ *Capital City Pizza*  
- - Chicken Breakfast Biscuit @ *Fired Up*  
- - Mediterranean Chicken @ *Que Rico*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Plant Based Chicken Strips @ *Buona Cucina*  
- - Diced Chicken @ *Great Greens*  
- - Chicken Noodle Soup @ *Great Greens*  
-  
-In description:   
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
-  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-02-12)  
-**portabella**  
-In name:   
-  
-In description:   
- - Vegan Portobello Mushroom Stroganoff @ *1849*  
-  
-**beef**  
-In name:   
- - Beef Stroganoff Creamy - UM (AYCTE) w/o @ *1849*  
-  
-**chicken**  
-In name:   
- - Crispy Buffalo Chicken Sandwich @ *Global Kitchen*  
- - Diced Chicken @ *Great Greens*  
- - Chicken Noodle Soup @ *Great Greens*  
-  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-02-12)  
-**steak**  
-In name:   
- - Spicy Steak Fajita @ *Gordon Que Rico*  
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
-  
-**beef**  
-In name:   
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Mediterranean Beef @ *Gordon Global Kitchen*  
- - Beef Taco Meat @ *Gordon Que Rico*  
-  
-In description:   
- - Mushroom Swiss Blended Burger @ *Gordon Fired Up*  
- - Spicy Steak Fajita @ *Gordon Que Rico*  
-  
-**pork**  
-In name:   
- - Pork Chop (1) @ *1849*  
-  
-**chicken**  
-In name:   
- - Chicken Baked  (1 piece) @ *1849*  
- - Plant-Based Chicken & Gravy (VN) @ *1849*  
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
- - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
- - Mediterranean Chicken @ *Gordon Global Kitchen*  
- - Diced Chicken @ *Great Greens*  
- - Chicken Noodle Soup @ *Great Greens*  
-  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-02-12)  
-**portabella**  
-In name:   
- - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
-  
-**Bulgogi**  
-In name:   
- - BYO Bar - Four Lakes Bulgogi @ *Create-A-Bowl*  
- - Bulgogi Beef @ *Create-A-Bowl*  
- - Bulgogi Chicken @ *Create-A-Bowl*  
- - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
- - Build Your Own Bulgogi Bar - Four Lakes @ *Create-A-Bowl*  
-  
-**beef**  
-In name:   
- - Beef Tri Tip Carved w/ Chimichurri @ *1849*  
- - Roast Beef & Cheddar Panini on Rye @ *Fired Up*  
- - Beef Taco Meat @ *Que Rico*  
- - Bulgogi Beef @ *Create-A-Bowl*  
-  
-In description:   
- - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
-  
-**pork**  
-In name:   
- - Apple Cider Braised Pork @ *1849*  
-  
-In description:   
- - Andouille Sausage @ *Global Kitchen*  
- - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
-  
-**chicken**  
-In name:   
- - Plant-Based Chicken Tenders @ *Fired Up*  
- - Bulgogi Chicken @ *Create-A-Bowl*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
- - Diced Chicken @ *Great Greens*  
- - Chicken Noodle Soup @ *Great Greens*  
-  
-In description:   
- - Apple Cider Braised Pork @ *1849*  
-  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-02-12)  
-**Samosas**  
-In name:   
- - Samosas @ *Carson's 1849:  Available Between 11am-2pm*  
-  
-**steak**  
-In name:   
- - Ham Steak @ *Eggcetera:  Available Between 11am-2pm*  
+ - Steamed Shrimp @ *Global Kitchen*  
   
 **Cod**  
 In name:   
- - Greek Cod @ *Global Kitchen:  Available Between 11am-2pm*  
+ - Battered Cod Fillet Sandwich w/ Cheese @ *Fired Up*  
+  
+**Tuna**  
+In name:   
+ - Poke Tuna (*Raw) @ *Global Kitchen*  
+ - Lemon Pepper Tuna Salad @ *Delicious*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
   
 **beef**  
 In name:   
+ - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza:  Available Between 11am-4pm*  
- - Mini Pastrami Reuben on Pretzel Bun @ *Fired Up:  Available Between 11am-2pm*  
- - Station Recipe - Deli  AYCTE FLM @ *Delicious:  Available Between 11am-4pm*  
+ - Porkloin Fritter Plate @ *1849*  
+ - Jaeger Sauce @ *1849*  
   
 **pork**  
 In name:   
- - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza:  Available Between 11am-4pm*  
+ - Porkloin Fritter Plate @ *1849*  
+ - Hawaiian (Pork) Pizza Slice @ *Capital City Pizza*  
+ - Pork Sausage Patty @ *Buona Cucina*  
   
 In description:   
- - Ham Steak @ *Eggcetera:  Available Between 11am-2pm*  
- - Station Recipe - Deli  AYCTE FLM @ *Delicious:  Available Between 11am-4pm*  
+ - Pizza Slice Sausage @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
- - Butter Chicken @ *Carson's 1849:  Available Between 11am-2pm*  
+ - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
+ - Fajita Chicken @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Noodle Soup @ *Great Greens*  
+  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-02-13)  
+**portabella**  
+In name:   
+ - Portabella Vegetable Mixture @ *1849*  
+  
+**Salmon**  
+In name:   
+ - Blackened Salmon @ *1849*  
+  
+**watermelon**  
+In name:   
+ - Melon Watermelon Whole Sliced @ *Great Greens*  
+  
+**beef**  
+In name:   
+ - Mediterranean Beef @ *Global Kitchen*  
+  
+**pork**  
+In name:   
+ - Herb Crusted Pork Loin @ *1849*  
+  
+**chicken**  
+In name:   
+ - Mediterranean Chicken @ *Global Kitchen*  
+ - Chicken Gravy @ *1849*  
+ - Diced Chicken @ *Great Greens*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
- - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza:  Available Between 11am-4pm*  
+ - Apple, Rosemary and Mustard Sauce @ *1849*  
   
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-02-12)  
-**Samosas**  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-02-13)  
+**Shrimp**  
 In name:   
- - Samosas @ *Lowell Market*  
+ - Sauteed Shrimp @ *Gordon Buona Cucina*  
+  
+**Cod**  
+In name:   
+ - Cod w/ Roasted Fruit Salsa @ *1849*  
   
 **lamb**  
 In name:   
- - Lamb & Beef Gyro Sandwich @ *Lowell Market*  
-  
-**curry**  
-In name:   
   
 In description:   
- - Tikka Masala Chicken @ *Lowell Market*  
+ - Pizza Slice Gyro @ *Gordon Capital City Pizza*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
   
 **beef**  
 In name:   
- - Lamb & Beef Gyro Sandwich @ *Lowell Market*  
+ - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Beef Barbacoa @ *Gordon Que Rico*  
+ - Beef Taco Meat @ *Gordon Que Rico*  
+  
+In description:   
+ - Burnt Ends @ *1849*  
+ - Pizza Slice Gyro @ *Gordon Capital City Pizza*  
   
 **pork**  
 In name:   
- - Italian Sausage (Pork) w/ Pepper & Onion @ *Lowell Market*  
+ - Chicken Bacon (Pork) Ranch Pizza @ *Gordon Capital City Pizza*  
+  
+In description:   
+ - Gnocchi w/ Sausage & Roast Veg @ *Gordon Buona Cucina*  
   
 **chicken**  
 In name:   
- - Tikka Masala Chicken @ *Lowell Market*  
+ - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Chicken Bacon (Pork) Ranch Pizza @ *Gordon Capital City Pizza*  
+ - Chicken Tenders Breaded @ *Gordon Fired Up*  
+ - Plant-Based Chicken Nuggets (6) @ *Gordon Fired Up*  
+ - Greek Chicken @ *Gordon Global Kitchen*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Noodle Soup @ *Great Greens*  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-02-13)  
+**Poke Bar**  
+In name:   
+ - Build Your Own Poke Bar @ *Create-A-Bowl*  
+  
+**Shrimp**  
+In name:   
+ - Sauteed Shrimp @ *Que Rico*  
+  
+**Tilapia**  
+In name:   
+ - Tilapia Veracruz @ *1849*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
+  
+**beef**  
+In name:   
+ - Beef @ *Global Kitchen*  
+ - Beef Taco Meat @ *Que Rico*  
+  
+In description:   
+ - Vegan Taco Filling @ *Que Rico*  
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
+  
+**pork**  
+In name:   
+ - Denver Scramble (Pork) @ *1849*  
+  
+In description:   
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
+  
+**chicken**  
+In name:   
+ - Chipotle BBQ Chicken Sandwich @ *Fired Up*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Diced Chicken @ *Great Greens*  
+  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-02-13)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-02-13)  
+**Cod**  
+In name:   
+ - Cracker Crusted Cod w/ Lemon Sauce @ *Lowell Market*  
+  
+**pork**  
+In name:   
+ - Pork Belly for Street Taco - Carson @ *Lowell Market*  
+  
+In description:   
+ - BYO Beach Taco Bar @ *Lowell Market*  
+  
+**chicken**  
+In name:   
+ - Grilled Halal Chicken @ *Lowell Market*  
+ - Diced Chicken @ *Great Greens*  
+  
+In description:   
+ - BYO Beach Taco Bar @ *Lowell Market*  
+ - Cracker Crusted Cod w/ Lemon Sauce @ *Lowell Market*  
   
   
