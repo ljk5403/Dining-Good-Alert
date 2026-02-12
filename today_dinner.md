@@ -1,6 +1,6 @@
 # 2026-02-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-11 18:09:13  
+Updated at: 2026-02-11 20:09:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-11)  
 **clam**  
 In name:   
@@ -35,7 +35,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Pot Pie w/Biscuit @ *1849*  
+ - Chicken Creole @ *1849*  
  - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
  - Chicken Fajita @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
@@ -70,6 +70,10 @@ In name:
 In description:   
  - Vegan French Dip Sandwich @ *Fired Up*  
   
+**steak**  
+In name:   
+ - Island Spiced Beef Steak @ *Gordon Eggcetera*  
+  
 **Tilapia**  
 In name:   
  - Baked Tilapia w/Dill Wine Sauce @ *1849*  
@@ -80,7 +84,6 @@ In name:
 In description:   
  - Tempura Roll (FujiSan) @ *Gordon Global Kitchen*  
  - California Roll  (FujiSan) @ *Gordon Global Kitchen*  
- - Poulet Braise @ *Gordon Eggcetera*  
   
 **curry**  
 In name:   
@@ -91,6 +94,7 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Island Spiced Beef Steak @ *Gordon Eggcetera*  
  - Beef Chili @ *Great Greens*  
   
 In description:   
@@ -119,7 +123,6 @@ In name:
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
- - Poulet Braise @ *Gordon Eggcetera*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-02-11)  
 **Vanilla Coconut Milk Yogurt**  
@@ -163,12 +166,10 @@ In description:
 **chicken**  
 In name:   
  - Chicken Wings Boneless Plain @ *Que Rico*  
- - Plant-Based Chicken Nuggets (6) @ *Que Rico*  
+ - Plant-Based Chicken Nuggets (6) @ *Create-A-Bowl*  
+ - Popcorn Chicken @ *Create-A-Bowl*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
-  
-In description:   
- - BYO Bar - Mac & Cheese @ *Create-A-Bowl*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-02-11)  
 **Bibimbap Bowl**  

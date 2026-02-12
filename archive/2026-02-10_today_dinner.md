@@ -1,7 +1,11 @@
 # 2026-02-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-11 17:31:13  
+Updated at: 2026-02-11 18:09:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-11)  
+**clam**  
+In name:   
+ - Clam Strip Po-Boy Sandwich @ *Fired Up*  
+  
 **fish**  
 In name:   
   
@@ -202,7 +206,6 @@ In description:
 In name:   
  - Chicken Ala King over Biscuit @ *Carson's 1849*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Chili @ *Great Greens*  
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
