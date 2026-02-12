@@ -1,6 +1,6 @@
 # 2026-02-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-11 17:31:23  
+Updated at: 2026-02-11 18:09:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-13)  
 **Salmon**  
 In name:   
@@ -13,6 +13,10 @@ In name:
 **Cod**  
 In name:   
  - Battered Cod Fillet Sandwich w/ Cheese @ *Fired Up*  
+  
+**clam**  
+In name:   
+ - Clam Chowder @ *Great Greens*  
   
 **Tuna**  
 In name:   
@@ -55,6 +59,10 @@ In name:
 In name:   
  - Blackened Salmon @ *1849*  
   
+**clam**  
+In name:   
+ - Clam Chowder @ *Great Greens*  
+  
 **watermelon**  
 In name:   
  - Melon Watermelon Whole Sliced @ *Great Greens*  
@@ -91,6 +99,10 @@ In name:
   
 In description:   
  - Pizza Slice Gyro @ *Gordon Capital City Pizza*  
+  
+**clam**  
+In name:   
+ - Clam Chowder @ *Great Greens*  
   
 **watermelon**  
 In name:   
@@ -135,6 +147,10 @@ In name:
 In name:   
  - Tilapia Veracruz @ *1849*  
   
+**clam**  
+In name:   
+ - Clam Chowder @ *Great Greens*  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -166,6 +182,10 @@ In name:
 **Cod**  
 In name:   
  - Cracker Crusted Cod w/ Lemon Sauce @ *Lowell Market*  
+  
+**clam**  
+In name:   
+ - Clam Chowder @ *Great Greens*  
   
 **pork**  
 In name:   

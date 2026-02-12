@@ -1,6 +1,6 @@
 # 2026-02-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-11 17:31:28  
+Updated at: 2026-02-11 18:09:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-13)  
 **Shrimp**  
 In name:   
@@ -12,6 +12,10 @@ In name:
   
 In description:   
  - Fish Tacos @ *Fired Up*  
+  
+**clam**  
+In name:   
+ - Clam Chowder @ *Great Greens*  
   
 **fish**  
 In name:   
@@ -46,6 +50,10 @@ In description:
 **Cod**  
 In name:   
  - Basque Style Cod @ *Global Kitchen*  
+  
+**clam**  
+In name:   
+ - Clam Chowder @ *Great Greens*  
   
 **watermelon**  
 In name:   
@@ -83,6 +91,10 @@ In name:
   
 In description:   
  - Pizza Slice Gyro @ *Gordon Capital City Pizza*  
+  
+**clam**  
+In name:   
+ - Clam Chowder @ *Great Greens*  
   
 **watermelon**  
 In name:   
@@ -128,6 +140,10 @@ In name:
 In name:   
  - Masala Spiced Salmon @ *1849*  
   
+**clam**  
+In name:   
+ - Clam Chowder @ *Great Greens*  
+  
 **Tuna**  
 In name:   
  - Grilled Tuna & Swiss Melt @ *Fired Up*  
@@ -172,6 +188,10 @@ In name:
 **mahi mahi**  
 In name:   
  - Coconut Thai Curry Mahi Mahi @ *Lowell Market*  
+  
+**clam**  
+In name:   
+ - Clam Chowder @ *Great Greens*  
   
 **fish**  
 In name:   
