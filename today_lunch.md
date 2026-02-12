@@ -1,6 +1,6 @@
 # 2026-02-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-12 01:00:22  
+Updated at: 2026-02-12 08:46:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-12)  
 **fish**  
 In name:   
@@ -61,6 +61,12 @@ In name:
  - Chicken Noodle Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-02-12)  
+**drumstick**  
+In name:   
+  
+In description:   
+ - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
+  
 **steak**  
 In name:   
  - Spicy Steak Fajita @ *Gordon Que Rico*  
@@ -87,6 +93,7 @@ In name:
 In name:   
  - Chicken Baked  (1 piece) @ *1849*  
  - Plant-Based Chicken & Gravy (VN) @ *1849*  
+ - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
@@ -175,31 +182,8 @@ In description:
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza:  Available Between 11am-4pm*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-02-12)  
-**Samosas**  
-In name:   
- - Samosas @ *Lowell Market*  
-  
-**lamb**  
-In name:   
- - Lamb & Beef Gyro Sandwich @ *Lowell Market*  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Tikka Masala Chicken @ *Lowell Market*  
-  
-**beef**  
-In name:   
- - Lamb & Beef Gyro Sandwich @ *Lowell Market*  
-  
-**pork**  
-In name:   
- - Italian Sausage (Pork) w/ Pepper & Onion @ *Lowell Market*  
-  
 **chicken**  
 In name:   
- - Tikka Masala Chicken @ *Lowell Market*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
   
