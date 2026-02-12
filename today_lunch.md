@@ -1,6 +1,6 @@
 # 2026-02-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-12 11:58:02  
+Updated at: 2026-02-12 13:12:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-12)  
 **fish**  
 In name:   
@@ -61,12 +61,6 @@ In name:
  - Chicken Noodle Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-02-12)  
-**drumstick**  
-In name:   
-  
-In description:   
- - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
-  
 **steak**  
 In name:   
  - Spicy Steak Fajita @ *Gordon Que Rico*  
@@ -93,7 +87,6 @@ In name:
 In name:   
  - Chicken Baked  (1 piece) @ *1849*  
  - Plant-Based Chicken & Gravy (VN) @ *1849*  
- - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
@@ -116,7 +109,7 @@ In name:
   
 **beef**  
 In name:   
- - Beef Tri Tip Carved w/ Chimichurri @ *1849*  
+ - Beef Stroganoff Creamy - UM (AYCTE) w/o @ *1849*  
  - Roast Beef & Cheddar Panini on Rye @ *Fired Up*  
  - Beef Taco Meat @ *Que Rico*  
  - Bulgogi Beef @ *Create-A-Bowl*  
