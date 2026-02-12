@@ -1,6 +1,6 @@
 # 2026-02-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-12 13:12:01  
+Updated at: 2026-02-12 14:34:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-12)  
 **fish**  
 In name:   
@@ -105,7 +105,18 @@ In name:
  - Bulgogi Beef @ *Create-A-Bowl*  
  - Bulgogi Chicken @ *Create-A-Bowl*  
  - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
- - Build Your Own Bulgogi Bar - Four Lakes @ *Create-A-Bowl*  
+  
+**Shrimp**  
+In name:   
+  
+In description:   
+ - Kimchee @ *Create-A-Bowl*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Kimchee @ *Create-A-Bowl*  
   
 **beef**  
 In name:   
