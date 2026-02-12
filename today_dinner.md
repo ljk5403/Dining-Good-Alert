@@ -1,6 +1,6 @@
 # 2026-02-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-12 15:33:18  
+Updated at: 2026-02-12 16:02:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-12)  
 **Chicken Drummies**  
 In name:   
@@ -127,7 +127,6 @@ In name:
  - Bulgogi Beef @ *Create-A-Bowl*  
  - Bulgogi Chicken @ *Create-A-Bowl*  
  - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
- - Build Your Own Bulgogi Bar - Four Lakes @ *Create-A-Bowl*  
   
 **Flauta**  
 In name:   
@@ -136,6 +135,18 @@ In name:
 **drumstick**  
 In name:   
  - Jamaican Jerk Chicken Drumstick @ *1849*  
+  
+**Shrimp**  
+In name:   
+  
+In description:   
+ - Kimchee @ *Create-A-Bowl*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Kimchee @ *Create-A-Bowl*  
   
 **beef**  
 In name:   
