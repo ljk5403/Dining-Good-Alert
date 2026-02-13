@@ -1,6 +1,6 @@
 # 2026-02-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-13 15:34:11  
+Updated at: 2026-02-13 16:32:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-13)  
 **Shrimp**  
 In name:   
@@ -113,7 +113,6 @@ In description:
   
 **pork**  
 In name:   
- - Chicken Bacon (Pork) Ranch Pizza @ *Gordon Capital City Pizza*  
   
 In description:   
  - Gnocchi w/ Sausage & Roast Veg @ *Gordon Buona Cucina*  
@@ -122,7 +121,6 @@ In description:
 In name:   
  - Chicken Breast w/Balsamic BBQ Sauce @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Chicken Bacon (Pork) Ranch Pizza @ *Gordon Capital City Pizza*  
  - Butter Chicken @ *Gordon Global Kitchen*  
  - Chicken Fajita Meat @ *Gordon Que Rico*  
  - Plant-Based Chicken Nuggets (6) @ *Gordon Eggcetera*  
@@ -147,6 +145,7 @@ In name:
 **Tuna**  
 In name:   
  - Grilled Tuna & Swiss Melt @ *Fired Up*  
+ - Tuna Salad @ *Delicious*  
   
 **watermelon**  
 In name:   
@@ -176,7 +175,6 @@ In description:
 In name:   
  - Tikka Masala Chicken @ *1849*  
  - Chicken Empanada with Green Chili @ *Que Rico*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-02-13)  
