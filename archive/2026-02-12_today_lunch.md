@@ -1,6 +1,6 @@
 # 2026-02-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-13 09:41:31  
+Updated at: 2026-02-13 10:45:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-13)  
 **Salmon**  
 In name:   
@@ -126,7 +126,7 @@ In name:
  - Chicken Bacon (Pork) Ranch Pizza @ *Gordon Capital City Pizza*  
  - Chicken Tenders Breaded @ *Gordon Fired Up*  
  - Plant-Based Chicken Nuggets (6) @ *Gordon Fired Up*  
- - Greek Chicken @ *Gordon Global Kitchen*  
+ - Chicken Piece Seasoned Baked @ *Gordon Global Kitchen*  
  - Diced Chicken @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-02-13)  
