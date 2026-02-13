@@ -1,6 +1,6 @@
 # 2026-02-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-12 17:28:35  
+Updated at: 2026-02-12 20:11:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-12)  
 **Chicken Drummies**  
 In name:   
@@ -52,6 +52,12 @@ In name:
 In name:   
  - Ginger Glazed Salmon @ *Global Kitchen*  
   
+**curry**  
+In name:   
+  
+In description:   
+ - Chicken Madras @ *Global Kitchen*  
+  
 **beef**  
 In name:   
   
@@ -62,7 +68,7 @@ In description:
 In name:   
  - Chicken Pot Pie w/Biscuit @ *1849*  
  - Plant-Based Chicken & Gravy (VN) @ *1849*  
- - Marrakech Chicken Breast @ *Global Kitchen*  
+ - Chicken Madras @ *Global Kitchen*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
   
@@ -128,10 +134,6 @@ In name:
  - Bulgogi Chicken @ *Create-A-Bowl*  
  - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
   
-**Flauta**  
-In name:   
- - Shredded Beef Flauta @ *Que Rico*  
-  
 **drumstick**  
 In name:   
  - Jamaican Jerk Chicken Drumstick @ *1849*  
@@ -139,7 +141,7 @@ In name:
 **beef**  
 In name:   
  - Italian Beef Sandwich @ *1849*  
- - Shredded Beef Flauta @ *Que Rico*  
+ - Empanada Beef Picadillo @ *Que Rico*  
  - Bulgogi Beef @ *Create-A-Bowl*  
   
 In description:   
@@ -162,7 +164,7 @@ In name:
  - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
- - Shredded Beef Flauta @ *Que Rico*  
+ - Empanada Beef Picadillo @ *Que Rico*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-02-12)  
 **Shrimp**  
@@ -171,6 +173,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Taco Meat @ *Global*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
@@ -180,6 +183,7 @@ In description:
 **pork**  
 In name:   
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
+ - Pork Carnita @ *Global*  
  - Green Beans w/ Pork Bacon @ *Fired Up*  
   
 In description:   
