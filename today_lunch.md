@@ -1,6 +1,6 @@
 # 2026-02-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-13 12:49:54  
+Updated at: 2026-02-13 14:37:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-13)  
 **Salmon**  
 In name:   
@@ -32,12 +32,10 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Porkloin Fritter Plate @ *1849*  
  - Jaeger Sauce @ *1849*  
   
 **pork**  
 In name:   
- - Porkloin Fritter Plate @ *1849*  
  - Hawaiian (Pork) Pizza Slice @ *Capital City Pizza*  
  - Pork Sausage Patty @ *Buona Cucina*  
   
@@ -46,6 +44,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Breaded Chicken Tenders @ *1849*  
  - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
  - Fajita Chicken @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
@@ -191,7 +190,7 @@ In description:
   
 **chicken**  
 In name:   
- - Grilled Halal Chicken @ *Lowell Market*  
+ - Mediterranean Chicken @ *Lowell Market*  
  - Diced Chicken @ *Great Greens*  
   
 In description:   

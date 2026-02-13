@@ -1,6 +1,6 @@
 # 2026-02-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-13 11:38:50  
+Updated at: 2026-02-13 12:49:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-13)  
 **Salmon**  
 In name:   
@@ -110,7 +110,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Barbacoa @ *Gordon Que Rico*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
@@ -126,7 +125,8 @@ In name:
  - Chicken Bacon (Pork) Ranch Pizza @ *Gordon Capital City Pizza*  
  - Chicken Tenders Breaded @ *Gordon Fired Up*  
  - Plant-Based Chicken Nuggets (6) @ *Gordon Fired Up*  
- - Chicken Piece Seasoned Baked @ *Gordon Global Kitchen*  
+ - Greek Chicken @ *Gordon Global Kitchen*  
+ - Chicken Fajita @ *Gordon Que Rico*  
  - Diced Chicken @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-02-13)  
@@ -162,7 +162,6 @@ In description:
 **pork**  
 In name:   
  - Denver Scramble (Pork) @ *1849*  
- - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
