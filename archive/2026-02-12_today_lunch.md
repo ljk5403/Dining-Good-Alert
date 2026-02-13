@@ -1,6 +1,6 @@
 # 2026-02-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-13 08:39:08  
+Updated at: 2026-02-13 09:41:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-13)  
 **Salmon**  
 In name:   
@@ -162,6 +162,7 @@ In description:
 **pork**  
 In name:   
  - Denver Scramble (Pork) @ *1849*  
+ - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
