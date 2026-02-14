@@ -1,6 +1,6 @@
 # 2026-02-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-14 12:34:34  
+Updated at: 2026-02-14 14:26:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-14)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-02-14)  
 **Chicken Drummies**  
@@ -32,7 +32,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Carne Guisada @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
@@ -55,6 +54,7 @@ In description:
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Crispy Chicken Sandwich @ *Gordon Fired Up*  
+ - Spicy Crispy Chicken Sandwich @ *Gordon Fired Up*  
  - Chicken Tinga @ *Gordon Que Rico*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
  - Diced Chicken @ *Great Greens*  
