@@ -1,6 +1,6 @@
 # 2026-02-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-13 16:32:27  
+Updated at: 2026-02-13 17:29:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-13)  
 **Shrimp**  
 In name:   
@@ -207,6 +207,10 @@ In name:
   
 In description:   
  - Country Fried Steak @ *Lowell Market*  
+  
+**pork**  
+In name:   
+ - Cajun Rice w/ Pork & Black Eyed Peas @ *Lowell Market*  
   
 **chicken**  
 In name:   

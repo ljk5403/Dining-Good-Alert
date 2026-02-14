@@ -1,6 +1,6 @@
 # 2026-02-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-13 17:29:53  
+Updated at: 2026-02-13 20:00:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-13)  
 **Shrimp**  
 In name:   
@@ -34,17 +34,14 @@ In name:
 In name:   
  - Pork Sausage Patty @ *Buona Cucina*  
  - Hawaiian (Pork) Pizza Slice @ *Capital City Pizza*  
- - Ancho Braised Pork @ *Que Rico*  
   
 In description:   
  - Pizza Slice Sausage @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
+ - Spicy Chicken Fajita @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
-  
-In description:   
- - Ancho Braised Pork @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-02-13)  
 **Cod**  
@@ -74,12 +71,6 @@ In name:
 **haddock**  
 In name:   
  - Haddock Ginger Glazed (AYCTE) @ *1849*  
-  
-**squid**  
-In name:   
-  
-In description:   
- - Fried Calamari @ *Gordon Eggcetera*  
   
 **Shrimp**  
 In name:   
@@ -119,7 +110,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Breast w/Balsamic BBQ Sauce @ *1849*  
+ - Baked Chicken (2 piece) @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Butter Chicken @ *Gordon Global Kitchen*  
  - Chicken Fajita Meat @ *Gordon Que Rico*  
