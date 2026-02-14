@@ -1,6 +1,6 @@
 # 2026-02-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-14 00:43:21  
+Updated at: 2026-02-14 08:26:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-14)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-02-14)  
 **Chicken Drummies**  
@@ -26,11 +26,14 @@ In description:
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-02-14)  
+**haddock**  
+In name:   
+ - Haddock Ginger Glazed (AYCTE) @ *1849*  
+  
 **beef**  
 In name:   
  - Beef Carne Guisada @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - BBQ Beef Brisket Sandwich @ *Gordon Fired Up*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
@@ -50,8 +53,8 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Enchilada Bake @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Crispy Chicken Sandwich @ *Gordon Fired Up*  
  - Chicken Tinga @ *Gordon Que Rico*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
  - Diced Chicken @ *Great Greens*  
