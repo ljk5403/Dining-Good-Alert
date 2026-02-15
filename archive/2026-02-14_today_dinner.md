@@ -1,6 +1,6 @@
 # 2026-02-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-15 14:26:24  
+Updated at: 2026-02-15 15:24:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-15)  
 **lamb**  
 In name:   
@@ -44,9 +44,9 @@ In name:
 In name:   
  - Grilled Flank Steak @ *1849*  
   
-**Shrimp**  
+**Cod**  
 In name:   
- - Coconut Shrimp @ *1849*  
+ - Lemon Pepper Cod Fillet @ *1849*  
   
 **lamb**  
 In name:   
