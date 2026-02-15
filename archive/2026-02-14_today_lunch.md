@@ -1,6 +1,6 @@
 # 2026-02-15 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-15 09:24:44  
+Updated at: 2026-02-15 10:29:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-15)  
 **steak**  
 In name:   
@@ -38,6 +38,10 @@ In description:
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-02-15)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-02-15)  
+**Vanilla Coconut Milk Yogurt**  
+In name:   
+ - Vanilla Coconut Milk Yogurt @ *Great Greens*  
+  
 **portabella**  
 In name:   
   
@@ -84,6 +88,10 @@ In description:
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-02-15)  
+**lamb**  
+In name:   
+ - Smoked Leg of Lamb @ *1849*  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Global Kitchen*  
@@ -106,6 +114,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Huli Huli Chicken @ *1849*  
  - Chicken Supreme Sandwich w/ Bacon (Pork) @ *Fired Up*  
  - Plant Based Chicken Strips @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
@@ -139,7 +148,6 @@ In description:
 In name:   
  - Dan Dan w/ Chicken @ *Global Kitchen:  Available Between 11am-2pm*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Chili @ *Great Greens*  
   
 In description:   
  - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza:  Available Between 11am-4pm*  
