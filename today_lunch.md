@@ -1,6 +1,6 @@
 # 2026-02-15 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-15 08:27:09  
+Updated at: 2026-02-15 09:24:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-15)  
 **steak**  
 In name:   
@@ -122,26 +122,27 @@ In name:
 In name:   
   
 In description:   
- - Italian Pork Calzone @ *Capital City Pizza:  Available Between 11am-4pm*  
- - Chicken & Pepperoni Calzone @ *Capital City Pizza:  Available Between 11am-4pm*  
+ - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza:  Available Between 11am-4pm*  
  - Sand Blended Burger - Pretzel Cowboy @ *Fired Up:  Available Between 11am-2pm*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious:  Available Between 11am-4pm*  
   
 **pork**  
 In name:   
  - Island Spiced Pork w/ Pineapple Salsa @ *Carson's 1849:  Available Between 11am-2pm*  
- - Italian Pork Calzone @ *Capital City Pizza:  Available Between 11am-4pm*  
  - Pork Sausage Patty @ *Eggcetera:  Available Between 11am-2pm*  
   
 In description:   
+ - Pizza Slice Sausage @ *Capital City Pizza:  Available Between 11am-4pm*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious:  Available Between 11am-4pm*  
   
 **chicken**  
 In name:   
- - Chicken & Pepperoni Calzone @ *Capital City Pizza:  Available Between 11am-4pm*  
  - Dan Dan w/ Chicken @ *Global Kitchen:  Available Between 11am-2pm*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
+  
+In description:   
+ - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza:  Available Between 11am-4pm*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-02-15)  
   
