@@ -1,6 +1,6 @@
 # 2026-02-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-15 15:24:04  
+Updated at: 2026-02-15 16:23:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-15)  
 **lamb**  
 In name:   
@@ -118,10 +118,11 @@ In name:
 **Shrimp**  
 In name:   
  - Shrimp De Jonge @ *Global*  
+ - Sub - Seafood Shrimp De Jonge @ *Fired Up*  
   
 **curry**  
 In name:   
- - Curry Cauliflower & Butternut Squash @ *Global*  
+ - Curry Cauliflower & Butternut Squash @ *Fired Up*  
   
 **beef**  
 In name:   
@@ -130,7 +131,6 @@ In name:
   
 In description:   
  - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza*  
- - Carson's MTO Pasta Bar @ *Fired Up*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious:  Available Between 11am-4pm*  
   
 **pork**  
@@ -138,7 +138,6 @@ In name:
   
 In description:   
  - Pizza Slice Sausage @ *Capital City Pizza*  
- - Carson's MTO Pasta Bar @ *Fired Up*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious:  Available Between 11am-4pm*  
   
 **chicken**  
@@ -147,7 +146,6 @@ In name:
   
 In description:   
  - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza*  
- - Carson's MTO Pasta Bar @ *Fired Up*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-02-15)  
   
