@@ -1,6 +1,6 @@
 # 2026-02-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-16 09:39:25  
+Updated at: 2026-02-16 10:42:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-16)  
 **beef**  
 In name:   
@@ -71,8 +71,9 @@ In description:
   
 **pork**  
 In name:   
- - Apricot Glazed Pork @ *1849*  
+ - Roasted Pork Loin @ *1849*  
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
+ - Chicken Bacon (Pork) Ranch Pizza Slice @ *Gordon Capital City Pizza*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
@@ -82,7 +83,7 @@ In description:
 In name:   
  - Plant-Based Chicken & Gravy (VN) @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Pizza Slice Chicken Tomatillo @ *Gordon Capital City Pizza*  
+ - Chicken Bacon (Pork) Ranch Pizza Slice @ *Gordon Capital City Pizza*  
  - Chicken Tenders Breaded @ *Gordon Fired Up*  
  - Plant-Based Chicken Nuggets (6) @ *Gordon Fired Up*  
  - Chicken Tinga @ *Gordon Que Rico*  
