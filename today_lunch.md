@@ -1,6 +1,6 @@
 # 2026-02-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-16 10:42:09  
+Updated at: 2026-02-16 11:36:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-16)  
 **beef**  
 In name:   
@@ -125,6 +125,7 @@ In name:
 In description:   
  - German Plate (Pork) @ *1849*  
  - Country Fried Steak @ *1849*  
+ - Knockwurst @ *1849*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
@@ -133,6 +134,7 @@ In name:
  - Italian Pork Sausage @ *Global Kitchen*  
   
 In description:   
+ - Knockwurst @ *1849*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
@@ -171,6 +173,7 @@ In description:
 **pork**  
 In name:   
  - Sausage (Pork) & Pepperoni Pizza Slice @ *Capital City Pizza:  Available Between 11am-4pm*  
+ - Pork Sausage Links @ *Eggcetera:  Available Between 11am-2pm*  
  - Pork Banh Mi @ *Fired Up:  Available Between 11am-2pm*  
   
 In description:   
