@@ -1,6 +1,6 @@
 # 2026-02-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-15 17:26:01  
+Updated at: 2026-02-15 20:07:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-15)  
 **lamb**  
 In name:   
@@ -55,7 +55,6 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Taco Meat @ *Gordon Que Rico*  
  - Lamb & Beef Gyro Sandwich @ *Fired Up*  
  - Beef Chili @ *Great Greens*  
   
@@ -77,6 +76,7 @@ In description:
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Giardiniera Chicken @ *Gordon Buona Cucina*  
+ - Chicken Tinga @ *Gordon Que Rico*  
  - Diced Chicken @ *Great Greens*  
   
 In description:   
