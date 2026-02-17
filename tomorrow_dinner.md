@@ -1,6 +1,6 @@
 # 2026-02-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-17 09:52:19  
+Updated at: 2026-02-17 10:56:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-18)  
 **steak**  
 In name:   
@@ -9,7 +9,6 @@ In name:
 **beef**  
 In name:   
  - Lomo Saltado w/ Beef @ *Global Kitchen*  
- - Beef Chili @ *Great Greens*  
   
 In description:   
  - Smothered Steak Burrito @ *Que Rico*  
@@ -182,7 +181,6 @@ In description:
 **beef**  
 In name:   
  - Honey Garlic Beef @ *Lowell Market*  
- - Beef Chili @ *Great Greens*  
   
 **chicken**  
 In name:   
