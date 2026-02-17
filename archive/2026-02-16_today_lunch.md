@@ -1,6 +1,6 @@
 # 2026-02-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-17 11:56:18  
+Updated at: 2026-02-17 13:00:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-17)  
 **portabella**  
 In name:   
@@ -145,6 +145,7 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Chicken Dumpling Soup @ *Great Greens*  
+ - Diced Chicken @ *Great Greens*  
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Gordon Capital City Pizza*  
