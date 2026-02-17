@@ -1,6 +1,6 @@
 # 2026-02-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-16 17:28:21  
+Updated at: 2026-02-16 20:04:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-16)  
 **drumstick**  
 In name:   
@@ -19,13 +19,14 @@ In name:
 **beef**  
 In name:   
  - Beef Ravioli Plain @ *Buona Cucina*  
- - Beef Carne Guisada @ *Que Rico*  
+ - Beef Taco Meat @ *Que Rico*  
   
 **pork**  
 In name:   
  - Cajun Rice w/ Pork & Black Eyed Peas @ *1849*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
  - BBQ Pork Sandwich @ *Fired Up*  
+ - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Pizza Slice Sausage @ *Capital City Pizza*  
@@ -35,6 +36,7 @@ In name:
  - Chicken Drumstick BBQ Glazed @ *1849*  
  - Diced Chicken Breast @ *Buona Cucina*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
+ - Chicken Tinga @ *Que Rico*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 In description:   
@@ -56,7 +58,7 @@ In name:
   
 **beef**  
 In name:   
- - Beef Birria Tacos @ *Global Kitchen*  
+ - Texas BBQ Sliced Beef Brisket @ *Global Kitchen*  
   
 **chicken**  
 In name:   
@@ -64,9 +66,9 @@ In name:
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-02-16)  
-**Salmon**  
+**haddock**  
 In name:   
- - Masala Spiced Salmon @ *1849*  
+ - Haddock Ginger Glazed (AYCTE) @ *1849*  
   
 **Tuna**  
 In name:   
@@ -85,6 +87,7 @@ In description:
 **pork**  
 In name:   
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
+ - Chicken Bacon (Pork) Ranch Pizza @ *Gordon Capital City Pizza*  
  - Ancho Pork Rice Bowl @ *Gordon Que Rico*  
   
 In description:   
@@ -95,7 +98,7 @@ In description:
 In name:   
  - Greek Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Pizza Slice Chicken Tomatillo @ *Gordon Capital City Pizza*  
+ - Chicken Bacon (Pork) Ranch Pizza @ *Gordon Capital City Pizza*  
  - BYO - MTO Chicken Wrap - Gordon @ *Gordon Eggcetera*  
  - Build Your Own Chicken Wrap (Gordon) @ *Gordon Eggcetera*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
