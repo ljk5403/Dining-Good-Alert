@@ -1,10 +1,14 @@
 # 2026-02-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-17 15:35:31  
+Updated at: 2026-02-17 16:30:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-19)  
 **drumstick**  
 In name:   
  - Chicken Drumstick Szechuan Glazed @ *1849*  
+  
+**Shrimp**  
+In name:   
+ - Shrimp & Pork Andouille Pasta @ *Buona Cucina*  
   
 **fish**  
 In name:   
@@ -24,6 +28,7 @@ In description:
 **pork**  
 In name:   
  - Pork Belly Char Sui @ *1849*  
+ - Shrimp & Pork Andouille Pasta @ *Buona Cucina*  
  - Pulled Pork Torta (Half) @ *Fired Up*  
   
 **chicken**  
@@ -34,6 +39,7 @@ In name:
  - Mediterranean Chicken @ *Que Rico*  
   
 In description:   
+ - Shrimp & Pork Andouille Pasta @ *Buona Cucina*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-02-19)  
