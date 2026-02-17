@@ -1,6 +1,6 @@
 # 2026-02-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-17 10:56:52  
+Updated at: 2026-02-17 11:56:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-17)  
 **portabella**  
 In name:   
@@ -224,6 +224,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Sirloin Tips @ *Lowell Market*  
   
 In description:   
  - Grilled Blended Burger w/ Cheese @ *Lowell Market*  

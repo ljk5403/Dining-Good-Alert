@@ -1,6 +1,6 @@
 # 2026-02-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-17 09:52:05  
+Updated at: 2026-02-17 10:56:52  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-17)  
 **portabella**  
 In name:   
@@ -131,6 +131,7 @@ In name:
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Gordon Capital City Pizza*  
  - Pork Bratwurst Sandwich @ *Gordon Fired Up*  
+ - Vegan Taco Filling @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
@@ -140,10 +141,9 @@ In name:
 **chicken**  
 In name:   
  - Chicken Breast w/Red Pepper Cream @ *1849*  
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
+ - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
- - Plant Based Protein Chicken Taco Filling @ *Gordon Que Rico*  
  - Chicken Dumpling Soup @ *Great Greens*  
   
 In description:   
