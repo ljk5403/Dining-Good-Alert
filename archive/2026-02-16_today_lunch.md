@@ -1,6 +1,6 @@
 # 2026-02-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-17 00:58:26  
+Updated at: 2026-02-17 08:44:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-17)  
 **portabella**  
 In name:   
@@ -202,7 +202,6 @@ In description:
 **pork**  
 In name:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza:  Available Between 11am-4pm*  
- - Pork Sausage Links @ *Eggcetera:  Available Between 11am-2pm*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious:  Available Between 11am-4pm*  
