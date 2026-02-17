@@ -1,0 +1,245 @@
+# 2026-02-16 dinner  
+*THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
+Updated at: 2026-02-16 20:04:30  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-16)  
+**drumstick**  
+In name:   
+ - Chicken Drumstick BBQ Glazed @ *1849*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Tom Kha Gai Soup @ *Global Kitchen*  
+  
+**BBQ Pork Sandwich**  
+In name:   
+ - BBQ Pork Sandwich @ *Fired Up*  
+  
+**beef**  
+In name:   
+ - Beef Ravioli Plain @ *Buona Cucina*  
+ - Beef Taco Meat @ *Que Rico*  
+  
+**pork**  
+In name:   
+ - Cajun Rice w/ Pork & Black Eyed Peas @ *1849*  
+ - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
+ - BBQ Pork Sandwich @ *Fired Up*  
+ - Pork Carnita @ *Que Rico*  
+  
+In description:   
+ - Pizza Slice Sausage @ *Capital City Pizza*  
+  
+**chicken**  
+In name:   
+ - Chicken Drumstick BBQ Glazed @ *1849*  
+ - Diced Chicken Breast @ *Buona Cucina*  
+ - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
+ - Chicken Tinga @ *Que Rico*  
+ - Lemon Chicken Rice Soup @ *Great Greens*  
+  
+In description:   
+ - Tom Kha Gai Soup @ *Global Kitchen*  
+  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-02-16)  
+**Tilapia**  
+In name:   
+ - Tilapia Chipotle Lime Crusted @ *1849*  
+ - Blackened Tilapia Tacos @ *Global Kitchen*  
+  
+**fish**  
+In name:   
+ - Vegetarian "Fish" Tacos @ *Global Kitchen*  
+  
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
+**beef**  
+In name:   
+ - Texas BBQ Sliced Beef Brisket @ *Global Kitchen*  
+  
+**chicken**  
+In name:   
+ - Chicken Shawarma Sandwich @ *1849*  
+ - Lemon Chicken Rice Soup @ *Great Greens*  
+  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-02-16)  
+**haddock**  
+In name:   
+ - Haddock Ginger Glazed (AYCTE) @ *1849*  
+  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
+  
+**beef**  
+In name:   
+ - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+  
+In description:   
+ - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
+ - Vegan Taco Filling @ *Gordon Que Rico*  
+ - Mushroom Swiss Blended Burger @ *Fired Up*  
+ - Deli @ *Gordon Delicious*  
+  
+**pork**  
+In name:   
+ - Italian Pork Sausage @ *Gordon Buona Cucina*  
+ - Chicken Bacon (Pork) Ranch Pizza @ *Gordon Capital City Pizza*  
+ - Ancho Pork Rice Bowl @ *Gordon Que Rico*  
+  
+In description:   
+ - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
+ - Deli @ *Gordon Delicious*  
+  
+**chicken**  
+In name:   
+ - Greek Chicken @ *1849*  
+ - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Chicken Bacon (Pork) Ranch Pizza @ *Gordon Capital City Pizza*  
+ - BYO - MTO Chicken Wrap - Gordon @ *Gordon Eggcetera*  
+ - Build Your Own Chicken Wrap (Gordon) @ *Gordon Eggcetera*  
+ - Lemon Chicken Rice Soup @ *Great Greens*  
+  
+In description:   
+ - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
+ - Ancho Pork Rice Bowl @ *Gordon Que Rico*  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-02-16)  
+**Pakoras**  
+In name:   
+ - Appetizer -  Pakoras Vegetable (Veg) @ *Que Rico*  
+  
+**Shrimp**  
+In name:   
+ - Redhook Ale Breaded Shrimp @ *1849*  
+ - Shrimp Curry @ *Que Rico*  
+  
+**fish**  
+In name:   
+ - Vegan Fish Sandwich @ *Fired Up*  
+  
+In description:   
+ - Tempura Roll (FujiSan) @ *Create-A-Bowl*  
+  
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
+**curry**  
+In name:   
+ - Shrimp Curry @ *Que Rico*  
+ - Curry Potatoes @ *Que Rico*  
+  
+**beef**  
+In name:   
+ - Barbacoa Beef w/Mango Habanero Sandwich @ *Fired Up*  
+ - Beef Goulash w/Egg Noodles @ *1849*  
+  
+In description:   
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
+  
+**pork**  
+In name:   
+ - Italian Pork Sausage @ *Global Kitchen*  
+  
+In description:   
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
+  
+**chicken**  
+In name:   
+ - Lemon Chicken Rice Soup @ *Great Greens*  
+  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-02-16)  
+**Poke Bar**  
+In name:   
+ - Poke Bar Carsons (AYCTE) @ *Global*  
+ - Build Your Own Poke Bar Carsons @ *Global*  
+  
+**steak**  
+In name:   
+ - Pepper Steak Stir Fry @ *Fired Up*  
+  
+In description:   
+ - Pizza Slice Italian Beef @ *Capital City Pizza*  
+  
+**Shrimp**  
+In name:   
+  
+In description:   
+ - Poke Bar Carsons (AYCTE) @ *Global*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Poke Bar Carsons (AYCTE) @ *Global*  
+  
+**Tuna**  
+In name:   
+  
+In description:   
+ - Poke Bar Carsons (AYCTE) @ *Global*  
+  
+**beef**  
+In name:   
+ - Pizza Slice Italian Beef @ *Capital City Pizza*  
+  
+In description:   
+ - Sausage (Pork) & Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Pepper Steak Stir Fry @ *Fired Up*  
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious:  Available Between 11am-4pm*  
+  
+**pork**  
+In name:   
+ - Sausage (Pork) & Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - BBQ Pork Chop @ *Carson's 1849*  
+  
+In description:   
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious:  Available Between 11am-4pm*  
+  
+**chicken**  
+In name:   
+ - Lemon Chicken Rice Soup @ *Great Greens*  
+  
+In description:   
+ - Sausage (Pork) & Pepperoni Pizza Slice @ *Capital City Pizza*  
+  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-02-16)  
+**Salmon**  
+In name:   
+ - Hoisin BBQ Glazed Salmon @ *Lowell Market*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Hoisin BBQ Glazed Salmon @ *Lowell Market*  
+  
+**curry**  
+In name:   
+  
+In description:   
+ - Navarathan Korma (AYCTE) @ *Lowell Market*  
+  
+**beef**  
+In name:   
+  
+In description:   
+ - Baked Corn Dog (Pork) @ *Lowell Market*  
+  
+**pork**  
+In name:   
+ - Baked Corn Dog (Pork) @ *Lowell Market*  
+  
+**chicken**  
+In name:   
+ - General Tso's Chicken @ *Lowell Market*  
+ - Lemon Chicken Rice Soup @ *Great Greens*  
+  
+In description:   
+ - Baked Corn Dog (Pork) @ *Lowell Market*  
+  
+  
