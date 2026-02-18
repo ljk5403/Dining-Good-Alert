@@ -1,6 +1,6 @@
 # 2026-02-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-18 11:02:36  
+Updated at: 2026-02-18 12:54:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-18)  
 **steak**  
 In name:   
@@ -55,6 +55,12 @@ In name:
 In name:   
  - Grilled Flank Steak @ *1849*  
   
+**Shrimp**  
+In name:   
+  
+In description:   
+ - French Quarter Seafood Appetizer @ *Great Greens*  
+  
 **Cod**  
 In name:   
  - Caribbean Cod @ *1849*  
@@ -65,6 +71,7 @@ In name:
 In description:   
  - California Roll  (FujiSan) @ *Gordon Global Kitchen*  
  - Tempura Roll (FujiSan) @ *Gordon Global Kitchen*  
+ - French Quarter Seafood Appetizer @ *Great Greens*  
   
 **beef**  
 In name:   

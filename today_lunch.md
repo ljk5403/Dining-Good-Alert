@@ -1,6 +1,6 @@
 # 2026-02-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-18 11:02:30  
+Updated at: 2026-02-18 12:54:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-18)  
 **Cod**  
 In name:   
@@ -51,6 +51,12 @@ In name:
  - Sumac Chicken @ *1849*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-02-18)  
+**Shrimp**  
+In name:   
+  
+In description:   
+ - French Quarter Seafood Appetizer @ *Great Greens*  
+  
 **Tilapia**  
 In name:   
  - Blackened Tilapia @ *1849*  
@@ -61,6 +67,7 @@ In name:
 In description:   
  - California Roll  (FujiSan) @ *Gordon Global Kitchen*  
  - Tempura Roll (FujiSan) @ *Gordon Global Kitchen*  
+ - French Quarter Seafood Appetizer @ *Great Greens*  
   
 **beef**  
 In name:   
@@ -165,13 +172,9 @@ In description:
  - Italian Meatball Sandwich @ *Fired Up:  Available Between 11am-2pm*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-02-18)  
-**catfish**  
+**mahi mahi**  
 In name:   
- - Blackened Catfish @ *Lowell Market*  
-  
-**fish**  
-In name:   
- - Blackened Catfish @ *Lowell Market*  
+ - Baked Mahi Mahi w/ Butter & Lemon @ *Lowell Market*  
   
 **beef**  
 In name:   
