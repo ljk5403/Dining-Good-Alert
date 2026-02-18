@@ -1,6 +1,6 @@
 # 2026-02-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-18 14:38:11  
+Updated at: 2026-02-18 15:34:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-18)  
 **beef**  
 In name:   
@@ -68,7 +68,6 @@ In description:
  - Grilled Flank Steak @ *1849*  
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
  - Pizza Slice Reuben @ *Gordon Capital City Pizza*  
- - Vegetarian Hot Tamale Pie @ *Gordon Que Rico*  
   
 **pork**  
 In name:   

@@ -1,6 +1,6 @@
 # 2026-02-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-18 15:34:00  
+Updated at: 2026-02-18 16:32:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-18)  
 **beef**  
 In name:   
@@ -130,13 +130,12 @@ In name:
  - Bibimbap Bowl @ *Global*  
  - Bibimbap Bowl  Veggies @ *Global*  
   
-**catfish**  
+**Tilapia**  
 In name:   
- - Blackened Catfish @ *Carson's 1849*  
+ - Baked Tilapia w/Dill Wine Sauce @ *Carson's 1849*  
   
 **fish**  
 In name:   
- - Blackened Catfish @ *Carson's 1849*  
   
 In description:   
  - Filipino Barbecue Pork @ *Fired Up*  
