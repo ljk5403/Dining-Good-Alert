@@ -1,6 +1,6 @@
 # 2026-02-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-18 01:01:08  
+Updated at: 2026-02-18 08:43:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-20)  
 **Bibimbap Bowl**  
 In name:   
@@ -18,6 +18,14 @@ In name:
 **Tilapia**  
 In name:   
  - Blackened Tilapia @ *1849*  
+  
+**clam**  
+In name:   
+ - Clam Chowder @ *Great Greens*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
   
 **beef**  
 In name:   
@@ -67,6 +75,7 @@ In name:
 **chicken**  
 In name:   
  - Sausage Links Chicken (halal) (AYCTE) @ *Global Kitchen*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-02-20)  
 **Flauta**  
@@ -88,10 +97,18 @@ In description:
 In name:   
  - Baked Tilapia w/ Tomato Tapenade @ *1849*  
   
+**clam**  
+In name:   
+ - Clam Chowder @ *Great Greens*  
+  
 **fish**  
 In name:   
  - Petite Fish Sandwich @ *Fired Up*  
  - Vegan Fish Sandwich @ *Fired Up*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
   
 **curry**  
 In name:   
@@ -135,17 +152,33 @@ In name:
 In name:   
  - Tilapia Chipotle Lime Crusted @ *1849*  
   
+**clam**  
+In name:   
+ - Clam Chowder @ *Great Greens*  
+  
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
+  
 **beef**  
 In name:   
  - Beef @ *Global Kitchen*  
   
 In description:   
  - Sausage (Pork) & Pepperoni Pizza Slice @ *Que Rico*  
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
 In name:   
  - New Orleans Turkey Melt w/ Pork @ *Fired Up*  
  - Sausage (Pork) & Pepperoni Pizza Slice @ *Que Rico*  
+  
+In description:   
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
 In name:   

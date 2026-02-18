@@ -1,6 +1,6 @@
 # 2026-02-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-18 01:00:54  
+Updated at: 2026-02-18 08:42:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-18)  
 **steak**  
 In name:   
@@ -9,6 +9,7 @@ In name:
 **beef**  
 In name:   
  - Lomo Saltado w/ Beef @ *Global Kitchen*  
+ - Beef Chili @ *Great Greens*  
   
 In description:   
  - Smothered Steak Burrito @ *Que Rico*  
@@ -69,6 +70,7 @@ In description:
 In name:   
  - Plant-Based Beef Bean & Carrot Stir Fry @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Beef Chili @ *Great Greens*  
   
 In description:   
  - Grilled Flank Steak @ *1849*  
@@ -88,6 +90,7 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - General Tso's Chicken @ *Gordon Global Kitchen*  
  - Brown Stew w/ Chicken @ *Gordon Eggcetera*  
+ - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
   
 In description:   
  - Pork Tamale with Oaxaca @ *Gordon Que Rico*  
@@ -101,12 +104,18 @@ In name:
 In name:   
  - Blackened Mahi Mahi @ *1849*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **beef**  
 In name:   
+ - Beef Chili @ *Great Greens*  
   
 In description:   
  - Vegan Sloppy Joe @ *Fired Up*  
  - Sloppy Joe @ *Fired Up*  
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
 In name:   
@@ -114,6 +123,7 @@ In name:
   
 In description:   
  - Ham Steak @ *1849*  
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -147,6 +157,7 @@ In name:
 **beef**  
 In name:   
  - Bibimbap Beef @ *Global*  
+ - Beef Chili @ *Great Greens*  
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
