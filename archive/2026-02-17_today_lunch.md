@@ -1,10 +1,10 @@
 # 2026-02-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-18 12:54:07  
+Updated at: 2026-02-18 14:38:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-18)  
-**Cod**  
+**Tilapia**  
 In name:   
- - Caribbean Cod @ *1849*  
+ - Blackened Tilapia @ *1849*  
   
 **beef**  
 In name:   
@@ -24,9 +24,9 @@ In name:
  - Chicken Tinga @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-02-18)  
-**Samosas**  
+**Pakoras**  
 In name:   
- - Samosas @ *Global Kitchen*  
+ - Appetizer -  Pakoras Vegetable (Veg) @ *Global Kitchen*  
   
 **Salmon**  
 In name:   
