@@ -1,10 +1,10 @@
 # 2026-02-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-18 09:51:45  
+Updated at: 2026-02-18 11:02:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-18)  
-**Tilapia**  
+**Cod**  
 In name:   
- - Blackened Tilapia @ *1849*  
+ - Caribbean Cod @ *1849*  
   
 **beef**  
 In name:   
@@ -42,7 +42,6 @@ In description:
   
 **beef**  
 In name:   
- - Beef Harissa @ *1849*  
  - Beef Chili @ *Great Greens*  
   
 **chicken**  
@@ -113,7 +112,6 @@ In description:
   
 **pork**  
 In name:   
- - BBQ Pork Chop @ *1849*  
  - Cuban Pork Sandwich @ *Fired Up*  
   
 In description:   
