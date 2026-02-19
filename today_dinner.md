@@ -1,6 +1,6 @@
 # 2026-02-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-19 15:31:48  
+Updated at: 2026-02-19 16:31:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-19)  
 **drumstick**  
 In name:   
@@ -158,10 +158,6 @@ In name:
  - Chicken Noodle Soup @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-02-19)  
-**Shrimp**  
-In name:   
- - Shrimp & Pork Andouille Sausage @ *Fired Up*  
-  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Great Greens*  
@@ -177,7 +173,7 @@ In description:
 **pork**  
 In name:   
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
- - Shrimp & Pork Andouille Sausage @ *Fired Up*  
+ - French Market Pork Jambalaya @ *Fired Up*  
  - Green Beans w/ Pork Bacon @ *Fired Up*  
   
 In description:   
@@ -192,7 +188,7 @@ In name:
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
  - Station Recipe - Carson's Que Rico @ *Global*  
- - Shrimp & Pork Andouille Sausage @ *Fired Up*  
+ - French Market Pork Jambalaya @ *Fired Up*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-02-19)  
 **beef**  
@@ -204,9 +200,13 @@ In description:
 **pork**  
 In name:   
  - (Deli) BBQ Pork Topping @ *Lowell Market*  
+ - French Market Pork Jambalaya @ *Lowell Market*  
   
 **chicken**  
 In name:   
  - Za'atar and Lemon Grilled Chicken @ *Lowell Market*  
+  
+In description:   
+ - French Market Pork Jambalaya @ *Lowell Market*  
   
   
