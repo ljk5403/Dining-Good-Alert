@@ -1,6 +1,6 @@
 # 2026-02-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-19 10:52:16  
+Updated at: 2026-02-19 11:49:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-19)  
 **fish**  
 In name:   
@@ -68,12 +68,14 @@ In name:
  - Fried Popcorn Shrimp @ *1849*  
   
 In description:   
+ - Kimchee @ *Gordon Global Kitchen*  
  - French Quarter Seafood Appetizer @ *Great Greens*  
   
 **fish**  
 In name:   
   
 In description:   
+ - Kimchee @ *Gordon Global Kitchen*  
  - French Quarter Seafood Appetizer @ *Great Greens*  
   
 **Tuna**  
@@ -217,6 +219,10 @@ In name:
 In name:   
  - Beef Barbacoa @ *Lowell Market*  
  - Beef Curry Stew @ *Lowell Market*  
+  
+**pork**  
+In name:   
+ - Pork Chop (1) @ *Lowell Market*  
   
 **chicken**  
 In name:   

@@ -1,6 +1,6 @@
 # 2026-02-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-19 09:48:22  
+Updated at: 2026-02-19 10:52:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-19)  
 **drumstick**  
 In name:   
@@ -55,6 +55,18 @@ In name:
 In name:   
  - Portabella Mushroom Bulgogi Tacos @ *Gordon Global Kitchen*  
  - Beef Bulgogi Tacos @ *Gordon Global Kitchen*  
+  
+**Shrimp**  
+In name:   
+  
+In description:   
+ - French Quarter Seafood Appetizer @ *Great Greens*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - French Quarter Seafood Appetizer @ *Great Greens*  
   
 **Tuna**  
 In name:   
@@ -149,6 +161,10 @@ In name:
 **Shrimp**  
 In name:   
  - Shrimp & Pork Andouille Sausage @ *Fired Up*  
+  
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Great Greens*  
   
 **beef**  
 In name:   
