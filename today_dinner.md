@@ -1,6 +1,6 @@
 # 2026-02-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-18 17:29:11  
+Updated at: 2026-02-18 20:06:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-18)  
 **beef**  
 In name:   
@@ -25,6 +25,7 @@ In name:
   
 In description:   
  - Tofu & Vegetable Tikka Masala @ *Global Kitchen*  
+ - Chicken Tikka Masala @ *Global Kitchen*  
   
 **beef**  
 In name:   
@@ -33,7 +34,7 @@ In name:
 **chicken**  
 In name:   
  - Greek Chicken @ *1849*  
- - Butter Chicken @ *Global Kitchen*  
+ - Chicken Tikka Masala @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-02-18)  
 **steak**  
