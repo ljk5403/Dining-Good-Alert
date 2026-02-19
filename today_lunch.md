@@ -1,11 +1,7 @@
 # 2026-02-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-19 00:59:35  
+Updated at: 2026-02-19 08:45:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-19)  
-**steak**  
-In name:   
- - Swiss Steak w/Brown Gravy @ *1849*  
-  
 **fish**  
 In name:   
   
@@ -19,7 +15,6 @@ In name:
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
- - Swiss Steak w/Brown Gravy @ *1849*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Italian Meat Sauce @ *Buona Cucina*  
   
@@ -29,6 +24,7 @@ In name:
   
 **chicken**  
 In name:   
+ - Marrakech Chicken Breast @ *1849*  
  - Mediterranean Chicken @ *Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
