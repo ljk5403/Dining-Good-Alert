@@ -1,6 +1,6 @@
 # 2026-02-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-19 09:48:17  
+Updated at: 2026-02-19 10:52:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-19)  
 **fish**  
 In name:   
@@ -66,6 +66,15 @@ In name:
 **Shrimp**  
 In name:   
  - Fried Popcorn Shrimp @ *1849*  
+  
+In description:   
+ - French Quarter Seafood Appetizer @ *Great Greens*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - French Quarter Seafood Appetizer @ *Great Greens*  
   
 **Tuna**  
 In name:   
@@ -163,6 +172,10 @@ In description:
 In name:   
  - Vegan Fish Sandwich @ *Fired Up:  Available Between 11am-2pm*  
  - Petite Fish Sandwich @ *Fired Up:  Available Between 11am-2pm*  
+  
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Great Greens*  
   
 **curry**  
 In name:   
