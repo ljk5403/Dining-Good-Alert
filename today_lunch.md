@@ -1,6 +1,6 @@
 # 2026-02-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-20 00:55:53  
+Updated at: 2026-02-20 08:38:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-20)  
 **Salmon**  
 In name:   
@@ -81,10 +81,6 @@ In name:
 In name:   
  - Clam Chowder @ *Great Greens*  
   
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
 **curry**  
 In name:   
  - Black Eyed Pea Curry (AYCTE) @ *Gordon Global Kitchen*  
@@ -122,10 +118,6 @@ In name:
 **lamb**  
 In name:   
  - Lamb Vindaloo @ *1849*  
-  
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
   
 **Tuna**  
 In name:   
