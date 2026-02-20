@@ -1,6 +1,6 @@
 # 2026-02-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-20 11:36:52  
+Updated at: 2026-02-20 12:46:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-20)  
 **Salmon**  
 In name:   
@@ -160,6 +160,12 @@ In name:
 **clam**  
 In name:   
  - Clam Chowder @ *Great Greens*  
+  
+**curry**  
+In name:   
+  
+In description:   
+ - Navarathan Korma (AYCTE) @ *Lowell Market*  
   
 **beef**  
 In name:   
