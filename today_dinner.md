@@ -1,6 +1,6 @@
 # 2026-02-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-19 17:29:33  
+Updated at: 2026-02-19 20:02:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-19)  
 **drumstick**  
 In name:   
@@ -54,12 +54,13 @@ In name:
 **Bulgogi**  
 In name:   
  - Portabella Mushroom Bulgogi Tacos @ *Gordon Global Kitchen*  
- - Beef Bulgogi Tacos @ *Gordon Global Kitchen*  
+ - Bulgogi Pork @ *Gordon Global Kitchen*  
   
 **Shrimp**  
 In name:   
   
 In description:   
+ - Beef Thai Meatballs w/ Green Curry @ *1849*  
  - French Quarter Seafood Appetizer @ *Great Greens*  
   
 **fish**  
@@ -72,23 +73,26 @@ In description:
 In name:   
  - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
   
+**curry**  
+In name:   
+ - Beef Thai Meatballs w/ Green Curry @ *1849*  
+  
 **beef**  
 In name:   
+ - Beef Thai Meatballs w/ Green Curry @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Bulgogi Tacos @ *Gordon Global Kitchen*  
  - Beef Enchilada Bake @ *Gordon Que Rico*  
   
 In description:   
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Chicago-Style Hot Dog @ *Gordon Eggcetera*  
  - Baked Corn Dog (Pork) @ *Fired Up*  
   
 **pork**  
 In name:   
  - Herb Crusted Pork Loin @ *1849*  
+ - Bulgogi Pork @ *Gordon Global Kitchen*  
  - Baked Corn Dog (Pork) @ *Fired Up*  
-  
-In description:   
- - Pizza Breakfast Meat w/Bacon @ *Gordon Capital City Pizza*  
   
 **chicken**  
 In name:   
@@ -99,6 +103,7 @@ In name:
  - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Baked Corn Dog (Pork) @ *Fired Up*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-02-19)  
@@ -146,10 +151,10 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Italian Sausage @ *Global Kitchen*  
  - Thai BBQ Pork Ribs @ *1849*  
   
 In description:   
- - Andouille Sausage @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
