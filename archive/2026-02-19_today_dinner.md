@@ -1,6 +1,6 @@
 # 2026-02-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-20 14:31:19  
+Updated at: 2026-02-20 15:24:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-20)  
 **Bibimbap Bowl**  
 In name:   
@@ -83,6 +83,10 @@ In name:
  - Shredded Beef Flauta @ *Gordon Que Rico*  
  - Chicken and Cheese Flauta @ *Gordon Que Rico*  
   
+**catfish**  
+In name:   
+ - Blackened Catfish @ *1849*  
+  
 **Shrimp**  
 In name:   
  - Sauteed Shrimp @ *Gordon Buona Cucina*  
@@ -93,16 +97,13 @@ In name:
 In description:   
  - Petite Fish Sandwich @ *Fired Up*  
   
-**Tilapia**  
-In name:   
- - Baked Tilapia w/ Tomato Tapenade @ *1849*  
-  
 **clam**  
 In name:   
  - Clam Chowder @ *Great Greens*  
   
 **fish**  
 In name:   
+ - Blackened Catfish @ *1849*  
  - Petite Fish Sandwich @ *Fired Up*  
  - Vegan Fish Sandwich @ *Fired Up*  
   
@@ -140,14 +141,6 @@ In description:
 In name:   
  - Build Your Own Poke Bar @ *Create-A-Bowl*  
   
-**Salmon**  
-In name:   
- - Blackened Salmon @ *1849*  
-  
-**Tilapia**  
-In name:   
- - Tilapia Chipotle Lime Crusted @ *1849*  
-  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
@@ -183,6 +176,10 @@ In description:
 **Cod**  
 In name:   
  - Baked Lemon Butter Cod @ *Lowell Market*  
+  
+**Tilapia**  
+In name:   
+ - Baked Tilapia w/Dill Wine Sauce @ *Lowell Market*  
   
 **pork**  
 In name:   
