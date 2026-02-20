@@ -1,6 +1,6 @@
 # 2026-02-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-20 12:46:51  
+Updated at: 2026-02-20 14:31:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-20)  
 **Salmon**  
 In name:   
@@ -54,10 +54,7 @@ In name:
 **beef**  
 In name:   
  - Beef Taco Meat @ *Global Kitchen*  
-  
-**pork**  
-In name:   
- - Pork Carnita @ *Global Kitchen*  
+ - Beef Barbacoa @ *Global Kitchen*  
   
 **chicken**  
 In name:   
