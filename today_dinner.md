@@ -1,6 +1,6 @@
 # 2026-02-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-20 16:25:43  
+Updated at: 2026-02-20 17:28:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-20)  
 **Bibimbap Bowl**  
 In name:   
@@ -154,22 +154,15 @@ In name:
  - Beef @ *Global Kitchen*  
   
 In description:   
- - Sausage (Pork) & Pepperoni Pizza Slice @ *Que Rico*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
 In name:   
  - New Orleans Turkey Melt w/ Pork @ *Fired Up*  
- - Sausage (Pork) & Pepperoni Pizza Slice @ *Que Rico*  
+ - Hawaiian (Pork) Pizza Slice @ *Que Rico*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
-  
-**chicken**  
-In name:   
-  
-In description:   
- - Sausage (Pork) & Pepperoni Pizza Slice @ *Que Rico*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-02-20)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-02-20)  
