@@ -1,6 +1,6 @@
 # 2026-02-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-21 08:26:03  
+Updated at: 2026-02-21 09:24:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-21)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-02-21)  
 **pork**  
@@ -32,13 +32,9 @@ In name:
 In name:   
  - Lamb & Beef Gyro Sandwich @ *Gordon Fired Up*  
   
-**curry**  
-In name:   
- - Beef Curry Stew @ *1849*  
-  
 **beef**  
 In name:   
- - Beef Curry Stew @ *1849*  
+ - Beef Tri Tip Carved w/ Chimichurri @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Lamb & Beef Gyro Sandwich @ *Gordon Fired Up*  
  - Beef Taco Meat @ *Gordon Que Rico*  
