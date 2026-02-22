@@ -1,80 +1,75 @@
-# 2026-02-21 lunch  
+# 2026-02-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-21 20:06:58  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-21)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-02-21)  
-**pork**  
+Updated at: 2026-02-22 00:47:01  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-22)  
+**beef**  
 In name:   
+ - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Kale, Sausage & Potato Soup @ *Great Greens*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Vegan Taco Filling @ *Que Rico*  
+  
+**pork**  
+In name:   
+ - Baked Rigatoni w/ Pork Italian Sausage @ *1849*  
+ - Pork Carnita @ *Que Rico*  
+ - Pork Sausage Patty @ *Buona Cucina*  
   
 **chicken**  
 In name:   
- - Sausage Links Chicken (halal) (AYCTE) @ *Global Kitchen*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Spicy Crispy Chicken Sandwich @ *Fired Up*  
+ - Fajita Chicken @ *Que Rico*  
+ - Chicken Chili @ *Great Greens*  
   
 In description:   
- - Kale, Sausage & Potato Soup @ *Great Greens*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-02-21)  
-**portabella**  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-02-22)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-02-22)  
+**steak**  
 In name:   
-  
-In description:   
- - Vegan French Dip Sandwich @ *Gordon Fired Up*  
-  
-**Shrimp**  
-In name:   
- - Coconut Shrimp @ *1849*  
-  
-**lamb**  
-In name:   
- - Lamb & Beef Gyro Sandwich @ *Gordon Fired Up*  
+ - Grilled Flank Steak @ *1849*  
   
 **beef**  
 In name:   
- - Beef Tri Tip Carved w/ Chimichurri @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Lamb & Beef Gyro Sandwich @ *Gordon Fired Up*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
+ - Grilled Flank Steak @ *1849*  
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
- - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
+ - Blackened Blended Hamburger @ *Gordon Fired Up*  
+ - Vegan Taco Filling @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
- - Italian Pork Sausage @ *Gordon Buona Cucina*  
+ - Boneless Baked Pork Ham @ *1849*  
+ - Pork Carnita @ *Gordon Que Rico*  
+ - Biscuits & Pork Gravy @ *Eggcetera*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
- - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 **chicken**  
 In name:   
+ - Plant-Based Chicken Etouffee @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Chicken Tinga @ *Gordon Que Rico*  
- - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
- - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera*  
+ - Giardiniera Chicken @ *Gordon Buona Cucina*  
+ - Chicken Chili @ *Great Greens*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
- - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
- - Kale, Sausage & Potato Soup @ *Great Greens*  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-02-21)  
-**steak**  
-In name:   
- - Ham Steak @ *Create-A-Bowl*  
-  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-02-22)  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
   
 **beef**  
 In name:   
+ - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -82,23 +77,49 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Sausage Links @ *1849*  
+ - Pork Carnita @ *Que Rico*  
+ - Pork Sausage Patty @ *Create-A-Bowl*  
   
 In description:   
- - Andouille Sausage @ *1849*  
- - Ham Steak @ *Create-A-Bowl*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
- - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 **chicken**  
 In name:   
- - Spicy Crispy Chicken Sandwich @ *Fired Up*  
- - Giardiniera Chicken @ *Global Kitchen*  
- - Taco Chicken @ *Que Rico*  
- - Sausage Links Chicken (halal) (AYCTE) @ *Create-A-Bowl*  
+ - Sausage Links Chicken (halal) (AYCTE) @ *1849*  
+ - Grilled Chicken Sandwich @ *Fired Up*  
+ - Plant Based Chicken Strips @ *Global Kitchen*  
+ - Beef & Chicken Meatballs @ *Global Kitchen*  
+ - Chicken Chili @ *Great Greens*  
+  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-02-22)  
+**beef**  
+In name:   
   
 In description:   
- - Kale, Sausage & Potato Soup @ *Great Greens*  
+ - Italian Pork Calzone @ *Capital City Pizza:  Available Between 11am-4pm*  
+ - Chicken & Pepperoni Calzone @ *Capital City Pizza:  Available Between 11am-4pm*  
+ - Bacon Bleu Blended Burger @ *Fired Up:  Available Between 11am-2pm*  
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious:  Available Between 11am-4pm*  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-02-21)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-02-21)  
+**pork**  
+In name:   
+ - Italian Pork Calzone @ *Capital City Pizza:  Available Between 11am-4pm*  
+ - Pork Miso w/Yakisoba Noodles @ *Global Kitchen:  Available Between 11am-2pm*  
+ - Pork Sausage Patty @ *Eggcetera:  Available Between 11am-2pm*  
+  
+In description:   
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious:  Available Between 11am-4pm*  
+  
+**chicken**  
+In name:   
+ - Chicken Gravy @ *Carson's 1849:  Available Between 11am-2pm*  
+ - Chicken Baked  (1 piece) @ *Carson's 1849:  Available Between 11am-2pm*  
+ - Chicken & Pepperoni Calzone @ *Capital City Pizza:  Available Between 11am-4pm*  
+ - Chicken Chili @ *Great Greens*  
+  
+In description:   
+ - Pork Miso w/Yakisoba Noodles @ *Global Kitchen:  Available Between 11am-2pm*  
+  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-02-22)  
   
