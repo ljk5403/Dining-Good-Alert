@@ -1,6 +1,6 @@
 # 2026-02-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-22 12:35:00  
+Updated at: 2026-02-22 14:26:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-22)  
 **beef**  
 In name:   
@@ -29,7 +29,6 @@ In description:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-02-22)  
 **beef**  
 In name:   
- - Beef Tri Tip Carved w/ Chimichurri @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
@@ -50,6 +49,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Brown Stew w/ Chicken @ *1849*  
  - Plant-Based Chicken Etouffee @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Giardiniera Chicken @ *Gordon Buona Cucina*  
