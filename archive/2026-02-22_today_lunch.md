@@ -1,6 +1,6 @@
 # 2026-02-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-23 12:01:05  
+Updated at: 2026-02-23 14:43:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-23)  
 **beef**  
 In name:   
@@ -59,6 +59,10 @@ In description:
  - Baked Corn Dog (Pork) @ *1849*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-02-23)  
+**Chicken Drummies**  
+In name:   
+ - Chicken Drummies @ *1849*  
+  
 **steak**  
 In name:   
  - Pizza Slice Philly Cheesesteak @ *Gordon Capital City Pizza*  
@@ -69,7 +73,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Sirloin Tips @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
@@ -86,8 +89,9 @@ In name:
   
 **chicken**  
 In name:   
+ - Chicken Drummies @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Chicken Tinga @ *Gordon Que Rico*  
+ - Taco Chicken @ *Gordon Que Rico*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
