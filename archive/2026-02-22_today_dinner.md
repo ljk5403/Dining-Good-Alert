@@ -1,6 +1,6 @@
 # 2026-02-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-23 15:43:18  
+Updated at: 2026-02-23 16:41:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-23)  
 **Shrimp**  
 In name:   
@@ -93,7 +93,7 @@ In description:
 In name:   
  - Beef Goulash w/Egg Noodles @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Empanada Beef Picadillo @ *Gordon Que Rico*  
+ - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
  - Pizza Slice Philly Cheesesteak @ *Gordon Capital City Pizza*  
@@ -113,7 +113,6 @@ In name:
   
 In description:   
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
- - Empanada Beef Picadillo @ *Gordon Que Rico*  
  - Poulet Braise @ *Gordon Eggcetera*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-02-23)  
