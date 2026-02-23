@@ -1,6 +1,6 @@
 # 2026-02-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-22 17:25:28  
+Updated at: 2026-02-22 20:07:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-22)  
 **Cod**  
 In name:   
@@ -8,12 +8,10 @@ In name:
   
 **curry**  
 In name:   
- - Ground Beef Curry @ *Global Kitchen*  
  - Curry Cauliflower & Butternut Squash @ *Global Kitchen*  
   
 **beef**  
 In name:   
- - Ground Beef Curry @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -29,6 +27,7 @@ In name:
 **chicken**  
 In name:   
  - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
+ - Sweet & Sour Chicken @ *Global Kitchen*  
  - Fajita Chicken @ *Que Rico*  
  - Chicken Chili @ *Great Greens*  
   
@@ -49,7 +48,7 @@ In description:
   
 **pork**  
 In name:   
- - Biscuits & Pork Gravy @ *1849*  
+ - Herb Crusted Pork Loin @ *1849*  
  - Pork Carnita @ *Gordon Que Rico*  
   
 In description:   
@@ -57,6 +56,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Baked Chicken (2 piece) @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Giardiniera Chicken @ *Gordon Buona Cucina*  
  - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
@@ -90,13 +90,12 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Polish Combo Blended Cheeseburger (Pork) @ *Fired Up*  
+ - Grilled Cheeseburger @ *Fired Up*  
  - Brazilian Flank Steak @ *1849*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
 In name:   
- - Polish Combo Blended Cheeseburger (Pork) @ *Fired Up*  
  - Pork Carnita @ *Que Rico*  
   
 In description:   
