@@ -1,6 +1,6 @@
 # 2026-02-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-23 01:03:37  
+Updated at: 2026-02-23 08:44:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-23)  
 **beef**  
 In name:   
@@ -80,7 +80,7 @@ In description:
   
 **pork**  
 In name:   
- - Island Spiced Pork w/ Pineapple Salsa @ *1849*  
+ - Pork Chop Adobo (1) @ *1849*  
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Loaded Potato Bacon (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
   
