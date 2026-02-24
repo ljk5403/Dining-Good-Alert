@@ -1,6 +1,6 @@
 # 2026-02-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-24 11:11:36  
+Updated at: 2026-02-24 13:01:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-24)  
 **portabella**  
 In name:   
@@ -8,6 +8,10 @@ In name:
   
 In description:   
  - Pesto Mushroom Sandwich @ *Fired Up*  
+  
+**Samosas**  
+In name:   
+ - Samosas @ *Global Kitchen*  
   
 **Shrimp**  
 In name:   
