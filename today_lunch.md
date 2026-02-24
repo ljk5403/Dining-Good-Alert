@@ -1,6 +1,6 @@
 # 2026-02-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-24 13:01:02  
+Updated at: 2026-02-24 14:35:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-24)  
 **portabella**  
 In name:   
@@ -158,7 +158,6 @@ In description:
   
 **pork**  
 In name:   
- - Ancho Braised Pork @ *Que Rico*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
@@ -167,13 +166,11 @@ In description:
 In name:   
  - Chicken Piece Seasoned Baked @ *1849*  
  - Italian Chicken @ *Global Kitchen*  
+ - Chicken Tinga @ *Que Rico*  
  - Mediterranean Chicken @ *Create-A-Bowl*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
-  
-In description:   
- - Ancho Braised Pork @ *Que Rico*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-02-24)  
 **Shrimp**  

@@ -1,6 +1,6 @@
 # 2026-02-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-24 11:11:40  
+Updated at: 2026-02-24 13:01:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-24)  
 **portabella**  
 In name:   
@@ -99,22 +99,9 @@ In description:
  - Sausage (Pork) & Pepperoni Pizza Slice @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-02-24)  
-**portabella**  
-In name:   
- - Portabella Mushroom Bulgogi Taco @ *Gordon Eggcetera*  
-  
-**Bulgogi**  
-In name:   
- - Beef Bulgogi Taco @ *Gordon Eggcetera*  
- - Portabella Mushroom Bulgogi Taco @ *Gordon Eggcetera*  
-  
 **drumstick**  
 In name:   
  - Chicken Drumstick BBQ Glazed @ *1849*  
-  
-**steak**  
-In name:   
- - Steak Street Taco @ *Gordon Que Rico*  
   
 **mahi mahi**  
 In name:   
@@ -128,12 +115,10 @@ In name:
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Lomo Saltado w/ Beef @ *Gordon Global Kitchen*  
- - Beef Bulgogi Taco @ *Gordon Eggcetera*  
  - Lamb & Beef Gyro Sandwich @ *Fired Up*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
- - Steak Street Taco @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
@@ -145,6 +130,8 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Pizza Slice Chicken Sriracha @ *Gordon Capital City Pizza*  
+ - Plant Based Protein Chicken Taco Filling @ *Gordon Que Rico*  
+ - Chicken Tinga @ *Gordon Que Rico*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
   
