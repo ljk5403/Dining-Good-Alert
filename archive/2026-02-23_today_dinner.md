@@ -1,6 +1,6 @@
 # 2026-02-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-24 15:34:01  
+Updated at: 2026-02-24 16:32:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-24)  
 **portabella**  
 In name:   
@@ -115,6 +115,7 @@ In name:
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Lomo Saltado w/ Beef @ *Gordon Global Kitchen*  
+ - Beef Taco Meat @ *Gordon Que Rico*  
  - Lamb & Beef Gyro Sandwich @ *Fired Up*  
   
 In description:   
@@ -131,7 +132,6 @@ In name:
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Pizza Slice Chicken Sriracha @ *Gordon Capital City Pizza*  
  - Plant Based Protein Chicken Taco Filling @ *Gordon Que Rico*  
- - Chicken Tinga @ *Gordon Que Rico*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
   
