@@ -1,6 +1,6 @@
 # 2026-02-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-23 17:34:05  
+Updated at: 2026-02-23 20:04:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-23)  
 **Shrimp**  
 In name:   
@@ -69,15 +69,13 @@ In name:
  - Philly Cheesesteak Sandwich @ *Fired Up*  
  - Tempeh Philly Cheesesteak Sandwich @ *Fired Up*  
   
+**Shrimp**  
+In name:   
+ - Fried Popcorn Shrimp @ *Gordon Eggcetera*  
+  
 **lamb**  
 In name:   
  - Leg of Lamb @ *1849*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Poulet Braise @ *Gordon Eggcetera*  
   
 **Tuna**  
 In name:   
@@ -114,7 +112,6 @@ In name:
 In description:   
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
  - Empanada Beef Picadillo @ *Gordon Que Rico*  
- - Poulet Braise @ *Gordon Eggcetera*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-02-23)  
 **portabella**  
