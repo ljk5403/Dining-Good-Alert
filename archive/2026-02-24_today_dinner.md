@@ -1,6 +1,6 @@
 # 2026-02-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-25 14:35:22  
+Updated at: 2026-02-25 15:34:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-25)  
 **portabella**  
 In name:   
@@ -139,14 +139,6 @@ In description:
  - Gnocchi w/ Pork Chorizo Sauce @ *Gordon Buona Cucina*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-02-25)  
-**catfish**  
-In name:   
- - Fried Catfish @ *1849*  
-  
-**fish**  
-In name:   
- - Fried Catfish @ *1849*  
-  
 **BBQ Pork Sandwich**  
 In name:   
  - BBQ Pork Sandwich @ *Fired Up*  
