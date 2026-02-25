@@ -1,6 +1,6 @@
 # 2026-02-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-25 15:34:15  
+Updated at: 2026-02-25 16:33:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-25)  
 **portabella**  
 In name:   
@@ -170,19 +170,31 @@ In description:
  - BYO Bar - Mac & Cheese @ *Create-A-Bowl*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-02-25)  
-**Bibimbap Bowl**  
+**Bulgogi**  
 In name:   
- - Bibimbap Bowl @ *Global*  
- - Build Your Own Bibimbap Bowl @ *Global*  
+ - Build Your Own Carson's Korean Bulgogi @ *Global*  
+ - Bulgogi Beef @ *Global*  
+ - Bulgogi Chicken @ *Global*  
+  
+**FiIipino Pork Spring Roll**  
+In name:   
+ - FiIipino Pork Spring Roll @ *Global*  
   
 **mahi mahi**  
 In name:   
  - Coconut Thai Curry Mahi Mahi @ *Fired Up*  
   
+**Shrimp**  
+In name:   
+  
+In description:   
+ - Build Your Own Carson's Korean Bulgogi @ *Global*  
+  
 **fish**  
 In name:   
   
 In description:   
+ - Build Your Own Carson's Korean Bulgogi @ *Global*  
  - Coconut Thai Curry Mahi Mahi @ *Fired Up*  
   
 **curry**  
@@ -191,7 +203,7 @@ In name:
   
 **beef**  
 In name:   
- - Bibimbap Beef @ *Global*  
+ - Bulgogi Beef @ *Global*  
  - Beef Chili @ *Great Greens*  
   
 In description:   
@@ -202,12 +214,14 @@ In description:
 **pork**  
 In name:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
+ - FiIipino Pork Spring Roll @ *Global*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious:  Available Between 11am-4pm*  
   
 **chicken**  
 In name:   
+ - Bulgogi Chicken @ *Global*  
  - Chicken Pot Pie w/Biscuit @ *Carson's 1849*  
  - Plant-Based Chicken & Gravy (VN) @ *Carson's 1849*  
  - Diced Chicken @ *Great Greens*  
