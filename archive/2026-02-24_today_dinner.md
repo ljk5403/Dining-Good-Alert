@@ -1,6 +1,6 @@
 # 2026-02-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-25 11:56:18  
+Updated at: 2026-02-25 13:09:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-25)  
 **portabella**  
 In name:   
@@ -116,14 +116,13 @@ In name:
   
 In description:   
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
- - Pork Bratwurst Sandwich @ *Fired Up*  
+ - Grilled Blended Burger w/ Cheese @ *Fired Up*  
   
 **pork**  
 In name:   
  - Gnocchi w/ Pork Chorizo Sauce @ *Gordon Buona Cucina*  
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Gluten Free Pork Sausage Pizza Quarter @ *Gordon Capital City Pizza*  
- - Pork Bratwurst Sandwich @ *Fired Up*  
   
 **chicken**  
 In name:   
