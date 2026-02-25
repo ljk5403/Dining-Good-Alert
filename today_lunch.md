@@ -1,6 +1,6 @@
 # 2026-02-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-25 11:56:15  
+Updated at: 2026-02-25 13:09:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-25)  
 **Tuna**  
 In name:   
@@ -21,6 +21,7 @@ In description:
   
 **pork**  
 In name:   
+ - Southern Style Pork Spare Ribs @ *1849*  
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
  - Pork Carnita @ *Que Rico*  
  - Italian Pork Sausage @ *Buona Cucina*  
@@ -33,7 +34,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Breast w/Balsamic BBQ Sauce @ *1849*  
  - Blackened Chicken Sandwich @ *Fired Up*  
  - Fajita Chicken @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
