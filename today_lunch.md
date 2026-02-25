@@ -1,6 +1,6 @@
 # 2026-02-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-24 17:30:56  
+Updated at: 2026-02-24 20:06:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-24)  
 **portabella**  
 In name:   
@@ -58,7 +58,7 @@ In name:
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Dumpling Soup @ *Great Greens*  
+ - Chicken Tortilla Soup @ *Great Greens*  
   
 In description:   
  - Pork Spicy Citrus w/Bl Beans & Rice @ *1849*  

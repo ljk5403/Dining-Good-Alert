@@ -1,6 +1,6 @@
 # 2026-02-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-24 16:32:59  
+Updated at: 2026-02-24 17:31:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-24)  
 **portabella**  
 In name:   
@@ -116,6 +116,7 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Lomo Saltado w/ Beef @ *Gordon Global Kitchen*  
  - Beef Taco Meat @ *Gordon Que Rico*  
+ - Beef Barbacoa @ *Gordon Que Rico*  
  - Lamb & Beef Gyro Sandwich @ *Fired Up*  
   
 In description:   
@@ -146,7 +147,6 @@ In name:
 **beef**  
 In name:   
  - Beef French Dip Sandwich @ *1849*  
- - Empanada Beef Picadillo @ *Que Rico*  
  - Mediterranean Beef @ *Create-A-Bowl*  
   
 In description:   
@@ -162,13 +162,11 @@ In description:
 In name:   
  - Italian Chicken @ *Global Kitchen*  
  - Brazilian Chicken w/ Salsa Vinaigrette @ *1849*  
+ - Chicken Empanada with Green Chili @ *Que Rico*  
  - Mediterranean Chicken @ *Create-A-Bowl*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
-  
-In description:   
- - Empanada Beef Picadillo @ *Que Rico*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-02-24)  
 **portabella**  

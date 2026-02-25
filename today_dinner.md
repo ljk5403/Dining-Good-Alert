@@ -1,10 +1,14 @@
 # 2026-02-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-24 17:31:01  
+Updated at: 2026-02-24 20:06:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-24)  
 **portabella**  
 In name:   
  - Portabella Mushroom Ravioli Plain @ *Buona Cucina*  
+  
+**Shrimp**  
+In name:   
+ - Shrimp Curry @ *Global Kitchen*  
   
 **Tuna**  
 In name:   
@@ -16,10 +20,7 @@ In name:
   
 **curry**  
 In name:   
- - Squash Curry @ *Global Kitchen*  
-  
-In description:   
- - Chicken Korma @ *Global Kitchen*  
+ - Shrimp Curry @ *Global Kitchen*  
   
 **beef**  
 In name:   
@@ -49,10 +50,9 @@ In name:
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Crispy Chicken Sandwich @ *Fired Up*  
  - VN Sand Chicken Paradise @ *Fired Up*  
- - Chicken Korma @ *Global Kitchen*  
  - Mediterranean Chicken @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Dumpling Soup @ *Great Greens*  
+ - Chicken Tortilla Soup @ *Great Greens*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
@@ -99,10 +99,6 @@ In description:
  - Sausage (Pork) & Pepperoni Pizza Slice @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-02-24)  
-**drumstick**  
-In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
-  
 **mahi mahi**  
 In name:   
  - Baked Mahi Mahi w/ Butter & Lemon @ *1849*  
@@ -125,12 +121,12 @@ In description:
 **pork**  
 In name:   
  - Green Beans w/ Pork Bacon @ *1849*  
+ - Pork Italian Sausage @ *Gordon Buona Cucina*  
   
 **chicken**  
 In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
+ - Greek Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Pizza Slice Chicken Sriracha @ *Gordon Capital City Pizza*  
  - Plant Based Protein Chicken Taco Filling @ *Gordon Que Rico*  
  - Diced Chicken @ *Great Greens*  
