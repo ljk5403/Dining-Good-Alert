@@ -1,6 +1,6 @@
 # 2026-02-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-26 08:46:13  
+Updated at: 2026-02-26 09:52:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-26)  
 **lamb**  
 In name:   
@@ -30,7 +30,6 @@ In description:
 **pork**  
 In name:   
  - Pork Tamale Pie @ *1849*  
- - Loaded Potato Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
