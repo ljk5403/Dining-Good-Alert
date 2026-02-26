@@ -1,6 +1,6 @@
 # 2026-02-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-26 13:00:14  
+Updated at: 2026-02-26 14:36:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-26)  
 **lamb**  
 In name:   
@@ -106,11 +106,8 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Wings Bone-In Plain @ *1849*  
  - Plant-Based Chicken Nuggets (6) @ *1849*  
  - Chicken Wings Boneless Plain @ *1849*  
- - BBQ Chicken Wings Bone-In @ *1849*  
- - Buffalo Chicken Wings Bone-In @ *1849*  
  - BBQ Chicken Wings Boneless @ *1849*  
  - Buffalo Chicken Wings Boneless @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
