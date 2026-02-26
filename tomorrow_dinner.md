@@ -1,6 +1,6 @@
 # 2026-02-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-26 09:53:50  
+Updated at: 2026-02-26 11:57:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-27)  
 **duck**  
 In name:   
@@ -64,9 +64,9 @@ In description:
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-02-27)  
-**Cod**  
+**Tilapia**  
 In name:   
- - Cracker Crusted Cod w/ Lemon Sauce @ *1849*  
+ - Tilapia Chipotle Lime Crusted @ *1849*  
   
 **clam**  
 In name:   
@@ -99,9 +99,6 @@ In name:
  - Chicken Honey Lime w/ rice @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
-  
-In description:   
- - Cracker Crusted Cod w/ Lemon Sauce @ *1849*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-02-27)  
 **Tandoori Chicken**  
