@@ -1,6 +1,6 @@
 # 2026-02-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-26 00:59:17  
+Updated at: 2026-02-26 08:46:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-26)  
 **lamb**  
 In name:   
@@ -93,12 +93,13 @@ In name:
   
 In description:   
  - Smoked Brisket & Tots Pizza Slice @ *Gordon Capital City Pizza*  
- - Grilled Blended Burger w/ Cheese @ *Gordon Fired Up*  
+ - Pork Bratwurst Sandwich @ *Gordon Fired Up*  
  - Spicy Steak Fajita @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
+ - Pork Bratwurst Sandwich @ *Gordon Fired Up*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
