@@ -1,17 +1,16 @@
 # 2026-02-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-25 17:27:15  
+Updated at: 2026-02-25 20:02:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-25)  
 **portabella**  
 In name:   
- - Caribbean Portabella w/Rice @ *1849*  
   
 In description:   
  - Vegetable Cheesesteak Sandwich @ *Fired Up*  
   
-**FiIipino Pork Spring Roll**  
+**Pakoras**  
 In name:   
- - FiIipino Pork Spring Roll @ *Global Kitchen*  
+ - Appetizer -  Pakoras Vegetable (Veg) @ *Global Kitchen*  
   
 **steak**  
 In name:   
@@ -43,7 +42,6 @@ In name:
  - Italian Pork Sausage @ *Buona Cucina*  
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
  - Filipino Pork Sausage @ *Global Kitchen*  
- - FiIipino Pork Spring Roll @ *Global Kitchen*  
  - Ancho Pork Rice Bowl @ *Que Rico*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
@@ -76,6 +74,7 @@ In name:
   
 **curry**  
 In name:   
+ - Coconut Tofu w/Red Curry Sauce @ *Global Kitchen*  
  - Curry Potatoes @ *Global Kitchen*  
   
 **beef**  
@@ -139,12 +138,10 @@ In description:
  - Gnocchi w/ Pork Chorizo Sauce @ *Gordon Buona Cucina*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-02-25)  
-**BBQ Pork Sandwich**  
-In name:   
- - BBQ Pork Sandwich @ *Fired Up*  
-  
 **beef**  
 In name:   
+ - Barbacoa Beef w/Mango Habanero Sandwich @ *Fired Up*  
+ - Beef Barbacoa @ *Create-A-Bowl*  
  - Beef Chili @ *Great Greens*  
   
 In description:   
@@ -152,7 +149,6 @@ In description:
   
 **pork**  
 In name:   
- - BBQ Pork Sandwich @ *Fired Up*  
  - Baked Pork Ham @ *1849*  
   
 In description:   
@@ -162,7 +158,8 @@ In description:
 In name:   
  - Chicken Stir-Fry Coconut Lime @ *Global Kitchen*  
  - Chicken Wings Boneless Plain @ *Que Rico*  
- - Plant-Based Chicken Nuggets (6) @ *Que Rico*  
+ - Plant-Based Chicken Nuggets (6) @ *Create-A-Bowl*  
+ - Popcorn Chicken @ *Create-A-Bowl*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
   
@@ -204,7 +201,6 @@ In name:
 **beef**  
 In name:   
  - Bulgogi Beef @ *Global*  
- - Beef Chili @ *Great Greens*  
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
