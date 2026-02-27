@@ -1,6 +1,6 @@
 # 2026-03-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-27 08:38:15  
+Updated at: 2026-02-27 09:37:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-01)  
 **beef**  
 In name:   
@@ -133,6 +133,8 @@ In description:
 **chicken**  
 In name:   
  - Brazilian Chicken w/ Salsa Vinaigrette @ *Carson's 1849*  
+ - Diced Chicken @ *Great Greens*  
+ - Chicken Chili @ *Great Greens*  
   
 In description:   
  - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza*  
