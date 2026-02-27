@@ -1,6 +1,6 @@
 # 2026-02-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-27 10:39:59  
+Updated at: 2026-02-27 11:35:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-27)  
 **portabella**  
 In name:   
@@ -213,6 +213,7 @@ In name:
 **chicken**  
 In name:   
  - Shoyu Chicken @ *Lowell Market*  
+ - Baked Chicken (2 piece) @ *Lowell Market*  
  - Diced Chicken @ *Great Greens*  
   
   
