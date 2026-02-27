@@ -1,6 +1,6 @@
 # 2026-02-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-27 15:29:10  
+Updated at: 2026-02-27 16:22:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-27)  
 **duck**  
 In name:   
@@ -33,15 +33,13 @@ In name:
 **beef**  
 In name:   
  - Sliced BBQ Beef Brisket Sandwich @ *Fired Up*  
+ - Beef Fajita Meat @ *Que Rico*  
+ - Beef Taco Meat @ *Que Rico*  
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
-In description:   
- - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
-  
 **pork**  
 In name:   
- - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
@@ -55,13 +53,12 @@ In description:
 **chicken**  
 In name:   
  - Diced Chicken Breast @ *Buona Cucina*  
- - Chicken Mole w/ Rice @ *Que Rico*  
+ - Chicken Tinga @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
   
 In description:   
  - Chorizo Sauce @ *Buona Cucina*  
- - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-02-27)  
 **Tilapia**  
