@@ -1,6 +1,6 @@
 # 2026-02-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-26 17:28:54  
+Updated at: 2026-02-26 20:01:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-26)  
 **lamb**  
 In name:   
@@ -197,7 +197,6 @@ In description:
 In name:   
  - Chicken Korma @ *Carson's 1849:  Available Between 11am-2pm*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza:  Available Between 11am-4pm*  
