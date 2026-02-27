@@ -1,6 +1,6 @@
 # 2026-02-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-27 08:37:50  
+Updated at: 2026-02-27 09:36:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-27)  
 **portabella**  
 In name:   
@@ -43,12 +43,8 @@ In name:
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
-In description:   
- - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
-  
 **pork**  
 In name:   
- - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
@@ -67,7 +63,6 @@ In name:
  - Diced Chicken @ *Great Greens*  
   
 In description:   
- - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
  - Chorizo Sauce @ *Buona Cucina*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-02-27)  
