@@ -1,6 +1,6 @@
 # 2026-02-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-27 14:27:07  
+Updated at: 2026-02-27 15:29:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-27)  
 **duck**  
 In name:   
@@ -64,9 +64,9 @@ In description:
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-02-27)  
-**Cod**  
+**Tilapia**  
 In name:   
- - Cracker Crusted Cod w/ Lemon Sauce @ *1849*  
+ - Tilapia Chipotle Lime Crusted @ *1849*  
   
 **clam**  
 In name:   
@@ -99,9 +99,6 @@ In name:
  - Chicken Honey Lime w/ rice @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
-  
-In description:   
- - Cracker Crusted Cod w/ Lemon Sauce @ *1849*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-02-27)  
 **Tandoori Chicken**  
@@ -215,13 +212,16 @@ In name:
 In name:   
  - Ham Steak @ *Lowell Market*  
   
+**haddock**  
+In name:   
+ - Baked Haddock w/Butter & Lemon @ *Lowell Market*  
+  
 **duck**  
 In name:   
  - Duck Curry @ *Lowell Market*  
   
 **mahi mahi**  
 In name:   
- - Baked Mahi Mahi w/ Butter & Lemon @ *Lowell Market*  
   
 In description:   
  - Cajun Fish Tacos @ *Lowell Market*  
@@ -238,8 +238,13 @@ In name:
  - Duck Curry @ *Lowell Market*  
  - Black Eyed Pea Curry (AYCTE) @ *Lowell Market*  
   
+**beef**  
+In name:   
+ - Beef Quesadilla @ *Lowell Market*  
+  
 **pork**  
 In name:   
+ - Spicy Greenbush Pork Loin @ *Lowell Market*  
   
 In description:   
  - Ham Steak @ *Lowell Market*  
