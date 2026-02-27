@@ -1,6 +1,6 @@
 # 2026-02-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-27 00:53:39  
+Updated at: 2026-02-27 08:37:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-27)  
 **portabella**  
 In name:   
@@ -101,17 +101,9 @@ In name:
 In description:   
  - Pesto Mushroom Sandwich @ *Gordon Fired Up*  
   
-**Tandoori Chicken**  
-In name:   
- - Pizza Slice 16" Tandoori Chicken (AYCTE) @ *Gordon Capital City Pizza*  
-  
 **steak**  
 In name:   
  - Grilled Flank Steak @ *1849*  
-  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp @ *Gordon Buona Cucina*  
   
 **Cod**  
 In name:   
@@ -145,17 +137,21 @@ In name:
   
 In description:   
  - Grilled Flank Steak @ *1849*  
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
 **pork**  
 In name:   
+ - Pork Italian Sausage @ *Gordon Buona Cucina*  
  - Hawaiian (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
   
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Pizza Slice 16" Tandoori Chicken (AYCTE) @ *Gordon Capital City Pizza*  
  - Spicy Crispy Chicken Sandwich @ *Gordon Fired Up*  
  - Diced Chicken @ *Great Greens*  
+  
+In description:   
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-02-27)  
 **Poke Bar**  
