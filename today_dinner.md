@@ -1,6 +1,6 @@
 # 2026-02-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-28 00:38:04  
+Updated at: 2026-02-28 08:21:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-02-28)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-02-28)  
 **steak**  
@@ -29,15 +29,9 @@ In description:
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-02-28)  
-**Salmon**  
+**Cod**  
 In name:   
- - Hoisin BBQ Glazed Salmon @ *1849*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Hoisin BBQ Glazed Salmon @ *1849*  
+ - Battered Cod @ *1849*  
   
 **beef**  
 In name:   
