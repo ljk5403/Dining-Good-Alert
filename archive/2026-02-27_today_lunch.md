@@ -1,6 +1,6 @@
 # 2026-02-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-28 08:21:28  
+Updated at: 2026-02-28 09:21:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-28)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-02-28)  
 **pork**  
@@ -26,9 +26,9 @@ In name:
 In description:   
  - Montreal Chicken @ *1849*  
   
-**Tilapia**  
+**Cod**  
 In name:   
- - Tilapia Veracruz @ *1849*  
+ - Greek Cod @ *1849*  
   
 **BBQ Pork Sandwich**  
 In name:   
