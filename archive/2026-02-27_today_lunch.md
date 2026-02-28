@@ -1,6 +1,6 @@
 # 2026-02-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-02-28 10:26:07  
+Updated at: 2026-02-28 11:19:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-02-28)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-02-28)  
 **pork**  
@@ -71,6 +71,7 @@ In description:
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-02-28)  
 **steak**  
 In name:   
+ - Swiss Steak w/Brown Gravy @ *1849*  
  - Ham Steak @ *Create-A-Bowl*  
   
 **beef**  
@@ -78,6 +79,7 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
+ - Swiss Steak w/Brown Gravy @ *1849*  
  - Chicago-Style Hot Dog @ *Fired Up*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
