@@ -1,6 +1,6 @@
 # 2026-03-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-01 08:23:32  
+Updated at: 2026-03-01 09:22:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-01)  
 **steak**  
 In name:   
@@ -57,8 +57,13 @@ In description:
 In name:   
  - Chicken Drumstick Mango Habanero @ *1849*  
   
+**curry**  
+In name:   
+ - Beef Curry Stew @ *1849*  
+  
 **beef**  
 In name:   
+ - Beef Curry Stew @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
@@ -66,11 +71,9 @@ In description:
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Chicago-Style Hot Dog @ *Gordon Fired Up*  
- - Vegan Taco Filling @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
- - Jerk Pork Chop @ *1849*  
  - Pork Carnita @ *Gordon Que Rico*  
  - Biscuits & Pork Gravy @ *Eggcetera*  
   
