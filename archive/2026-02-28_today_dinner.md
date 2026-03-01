@@ -1,6 +1,6 @@
 # 2026-03-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-01 15:22:12  
+Updated at: 2026-03-01 16:23:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-01)  
 **beef**  
 In name:   
@@ -53,12 +53,12 @@ In name:
 In description:   
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
- - Vegan Taco Filling @ *Gordon Que Rico*  
  - Grilled Blended Burger w/ Cheese @ *Fired Up*  
   
 **pork**  
 In name:   
- - Apricot Glazed Pork @ *1849*  
+ - Roasted Pork Loin @ *1849*  
+ - Pork Italian Sausage @ *Gordon Buona Cucina*  
  - Pork Carnita @ *Gordon Que Rico*  
   
 In description:   
@@ -67,7 +67,6 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Giardiniera Chicken @ *Gordon Buona Cucina*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
   
