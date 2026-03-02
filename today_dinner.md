@@ -1,6 +1,6 @@
 # 2026-03-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-01 17:22:54  
+Updated at: 2026-03-01 20:04:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-01)  
 **beef**  
 In name:   
@@ -57,7 +57,7 @@ In description:
   
 **pork**  
 In name:   
- - Roasted Pork Loin @ *1849*  
+ - Pork Chop (1) @ *1849*  
  - Pork Italian Sausage @ *Gordon Buona Cucina*  
  - Pork Carnita @ *Gordon Que Rico*  
   
@@ -77,6 +77,14 @@ In description:
 **Cod**  
 In name:   
  - Cracker Crusted Cod w/ Lemon Sauce @ *1849*  
+  
+**fish**  
+In name:   
+ - Vegan Fish Fillet (VN) @ *1849*  
+  
+**watermelon**  
+In name:   
+ - Watermelon @ *Great Greens*  
   
 **beef**  
 In name:   
@@ -99,7 +107,6 @@ In description:
 In name:   
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Plant Based Chicken Strips @ *Global Kitchen*  
- - Plant Based Sweet & Sour Chicken @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  

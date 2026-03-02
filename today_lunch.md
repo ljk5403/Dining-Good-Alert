@@ -1,6 +1,6 @@
 # 2026-03-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-01 17:22:51  
+Updated at: 2026-03-01 20:04:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-01)  
 **steak**  
 In name:   
@@ -95,6 +95,10 @@ In description:
 **drumstick**  
 In name:   
  - Chicken Drumstick Teriyaki Glazed @ *1849*  
+  
+**watermelon**  
+In name:   
+ - Watermelon @ *Great Greens*  
   
 **beef**  
 In name:   
