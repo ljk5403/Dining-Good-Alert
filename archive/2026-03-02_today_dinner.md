@@ -1,6 +1,6 @@
 # 2026-03-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-03 00:51:56  
+Updated at: 2026-03-03 08:41:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-03)  
 **Samosas**  
 In name:   
@@ -48,10 +48,6 @@ In description:
  - Baked Corn Dog (Pork) @ *Fired Up*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-03-03)  
-**Salmon**  
-In name:   
- - Salmon Caribbean Global w/Rice (AYCTE) @ *Global Kitchen*  
-  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
@@ -63,7 +59,6 @@ In name:
   
 **chicken**  
 In name:   
- - Tempura Chicken w/Sauce @ *1849*  
  - Chicken Dumpling Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-03-03)  
