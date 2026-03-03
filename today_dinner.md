@@ -1,6 +1,6 @@
 # 2026-03-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-03 15:33:28  
+Updated at: 2026-03-03 16:28:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-03)  
 **Samosas**  
 In name:   
@@ -204,6 +204,10 @@ In description:
 In name:   
  - Shrimp Creole @ *Lowell Market*  
   
+**Cod**  
+In name:   
+ - Baked Lemon Butter Cod @ *Lowell Market*  
+  
 **beef**  
 In name:   
  - Beef Taco Meat @ *Lowell Market*  
@@ -212,5 +216,6 @@ In name:
 In name:   
  - Taco Chicken @ *Lowell Market*  
  - Honey Garlic Chicken @ *Lowell Market*  
+ - Chicken Dumpling Soup @ *Lowell Market*  
   
   
