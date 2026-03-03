@@ -1,20 +1,14 @@
 # 2026-03-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-02 17:25:37  
+Updated at: 2026-03-02 20:06:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-02)  
-**Salmon**  
+**drumstick**  
 In name:   
- - Hoisin BBQ Glazed Salmon @ *1849*  
+ - Chicken Drumstick Szechuan Glazed @ *1849*  
   
 **Shrimp**  
 In name:   
  - Sweet & Sour Shrimp @ *Global Kitchen*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Hoisin BBQ Glazed Salmon @ *1849*  
   
 **Tuna**  
 In name:   
@@ -38,6 +32,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Drumstick Szechuan Glazed @ *1849*  
  - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
  - Plant Based Sweet & Sour Chicken @ *Global Kitchen*  
  - Chicken Empanada with Green Chili @ *Que Rico*  
@@ -101,7 +96,7 @@ In name:
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - BYO - MTO Chicken Wrap - Gordon @ *Gordon Eggcetera*  
- - Build Your Own Chicken Wrap (Gordon) @ *Gordon Eggcetera*  
+ - Breaded Chicken Tenders @ *Gordon Eggcetera*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 In description:   
