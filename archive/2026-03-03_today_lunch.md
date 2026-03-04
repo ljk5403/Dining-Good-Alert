@@ -1,6 +1,6 @@
 # 2026-03-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-04 11:38:06  
+Updated at: 2026-03-04 12:51:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-04)  
 **fish**  
 In name:   
@@ -137,9 +137,13 @@ In description:
  - BYO Bar - Mac & Cheese @ *Create-A-Bowl*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-03-04)  
-**Salmon**  
+**catfish**  
 In name:   
- - Ginger Glazed Salmon @ *Carson's 1849:  Available Between 11am-2pm*  
+ - Fried Catfish @ *Carson's 1849:  Available Between 11am-2pm*  
+  
+**fish**  
+In name:   
+ - Fried Catfish @ *Carson's 1849:  Available Between 11am-2pm*  
   
 **Tuna**  
 In name:   
