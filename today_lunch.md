@@ -1,6 +1,6 @@
 # 2026-03-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-03 17:26:50  
+Updated at: 2026-03-03 19:59:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-03)  
 **Tandoori Chicken**  
 In name:   
@@ -45,7 +45,7 @@ In name:
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Chicken Salad @ *Delicious*  
- - Chicken Dumpling Soup @ *Great Greens*  
+ - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
@@ -174,7 +174,7 @@ In name:
  - Buffalo Chicken Wrap @ *Fired Up*  
  - Italian Chicken @ *Global Kitchen*  
  - Mediterranean Chicken @ *Create-A-Bowl*  
- - Chicken Dumpling Soup @ *Great Greens*  
+ - Chicken Noodle Soup @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-03-03)  
 **Shrimp**  

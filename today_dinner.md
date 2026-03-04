@@ -1,6 +1,6 @@
 # 2026-03-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-03 17:26:55  
+Updated at: 2026-03-03 19:59:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-03)  
 **Samosas**  
 In name:   
@@ -41,7 +41,7 @@ In name:
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Mediterranean Chicken @ *Que Rico*  
  - Chicken Salad @ *Delicious*  
- - Chicken Dumpling Soup @ *Great Greens*  
+ - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
@@ -115,7 +115,7 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Chicken Mole w/ Rice @ *Gordon Que Rico*  
- - Crispy Chicken Sandwich @ *Fired Up*  
+ - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
  - Chicken Dumpling Soup @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-03-03)  
@@ -156,7 +156,7 @@ In name:
  - Smoked Chicken Drumstick @ *1849*  
  - Chicken Mole w/ Rice @ *Que Rico*  
  - Mediterranean Chicken @ *Create-A-Bowl*  
- - Chicken Dumpling Soup @ *Great Greens*  
+ - Chicken Noodle Soup @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-03-03)  
 **portabella**  
