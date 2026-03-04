@@ -1,6 +1,6 @@
 # 2026-03-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-04 14:31:02  
+Updated at: 2026-03-04 15:34:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-04)  
 **Beef Alicha**  
 In name:   
@@ -166,6 +166,7 @@ In name:
  - Beef Chili @ *Great Greens*  
   
 In description:   
+ - Grilled Cheeseburger @ *Fired Up*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
@@ -240,6 +241,7 @@ In name:
 **pork**  
 In name:   
  - Pork Miso w/Yakisoba Noodles @ *Lowell Market*  
+ - Imperial Pork Stir Fry @ *Lowell Market*  
   
 **chicken**  
 In name:   
