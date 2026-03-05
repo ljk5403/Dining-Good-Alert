@@ -1,6 +1,6 @@
 # 2026-03-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-05 15:34:31  
+Updated at: 2026-03-05 16:31:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-05)  
 **fish**  
 In name:   
@@ -32,9 +32,6 @@ In description:
 In name:   
  - Currywurst (Pork) @ *Fired Up*  
   
-In description:   
- - Chorizo Sauce @ *Buona Cucina*  
-  
 **chicken**  
 In name:   
  - Plant-Based Chicken & Dumplings @ *1849*  
@@ -46,7 +43,6 @@ In name:
  - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
- - Chorizo Sauce @ *Buona Cucina*  
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-03-05)  
