@@ -1,6 +1,6 @@
 # 2026-03-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-05 00:52:17  
+Updated at: 2026-03-05 08:42:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-05)  
 **squid**  
 In name:   
@@ -86,10 +86,6 @@ In name:
 In name:   
  - Spicy Steak Fajita @ *Gordon Que Rico*  
   
-**Shrimp**  
-In name:   
- - Shrimp Etouffee @ *1849*  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
@@ -106,12 +102,10 @@ In description:
   
 **pork**  
 In name:   
- - Cajun Rice w/ Pork & Black Eyed Peas @ *1849*  
  - Sausage (Pork) & Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
 **chicken**  
 In name:   
- - Plant-Based Chicken Etouffee @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Mediterranean Chicken @ *Gordon Buona Cucina*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
@@ -135,24 +129,10 @@ In name:
  - Bulgogi Chicken @ *Create-A-Bowl*  
  - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
   
-**duck**  
-In name:   
- - Duck Curry @ *1849*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Duck Curry @ *1849*  
-  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
  - Tuna @ *Great Greens*  
-  
-**curry**  
-In name:   
- - Duck Curry @ *1849*  
   
 **beef**  
 In name:   
@@ -165,7 +145,6 @@ In description:
   
 **pork**  
 In name:   
- - Pork Loin Spicy Greenbush @ *1849*  
   
 In description:   
  - Andouille Sausage @ *Global Kitchen*  

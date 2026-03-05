@@ -1,6 +1,6 @@
 # 2026-03-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-05 00:52:19  
+Updated at: 2026-03-05 08:42:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-05)  
 **fish**  
 In name:   
@@ -70,18 +70,6 @@ In name:
  - Chicken Noodle Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-03-05)  
-**Chicken Drumstick Gochujang Glazed**  
-In name:   
- - Chicken Drumstick Gochujang Glazed @ *1849*  
-  
-**drumstick**  
-In name:   
- - Chicken Drumstick Gochujang Glazed @ *1849*  
-  
-**steak**  
-In name:   
- - Brazilian Flank Steak @ *1849*  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
@@ -100,7 +88,6 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
   
 In description:   
- - Brazilian Flank Steak @ *1849*  
  - Sausage (Pork) & Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Vegetarian Hot Tamale Pie @ *Gordon Que Rico*  
  - Chicago-Style Hot Dog @ *Gordon Eggcetera*  
@@ -113,7 +100,6 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken Drumstick Gochujang Glazed @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Mediterranean Chicken @ *Gordon Buona Cucina*  
  - Chicken Tamale with Oaxaca @ *Gordon Que Rico*  
@@ -134,10 +120,6 @@ In name:
  - Bulgogi Chicken @ *Create-A-Bowl*  
  - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
   
-**steak**  
-In name:   
- - Grilled Flank Steak @ *1849*  
-  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
@@ -149,7 +131,6 @@ In name:
  - Bulgogi Beef @ *Create-A-Bowl*  
   
 In description:   
- - Grilled Flank Steak @ *1849*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
@@ -162,7 +143,6 @@ In description:
   
 **chicken**  
 In name:   
- - Cajun Chicken Pasta @ *1849*  
  - Bulgogi Chicken @ *Create-A-Bowl*  
  - Chicken Noodle Soup @ *Great Greens*  
   
