@@ -1,6 +1,6 @@
 # 2026-03-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-05 09:50:07  
+Updated at: 2026-03-05 12:03:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-05)  
 **squid**  
 In name:   
@@ -201,6 +201,7 @@ In description:
 **chicken**  
 In name:   
  - Chicken Vindaloo @ *Carson's 1849:  Available Between 11am-2pm*  
+ - Halal Chicken Sausage Link @ *Eggcetera:  Available Between 11am-2pm*  
  - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
@@ -223,10 +224,12 @@ In name:
 **beef**  
 In name:   
  - Beef Bombay Curry @ *Lowell Market*  
+ - Beef & Chicken Meatballs @ *Lowell Market*  
   
 **chicken**  
 In name:   
  - Chicken Parmigiana @ *Lowell Market*  
+ - Beef & Chicken Meatballs @ *Lowell Market*  
  - Chicken Noodle Soup @ *Great Greens*  
   
   
