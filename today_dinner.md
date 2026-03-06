@@ -1,6 +1,6 @@
 # 2026-03-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-05 17:50:16  
+Updated at: 2026-03-05 20:03:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-05)  
 **fish**  
 In name:   
@@ -195,7 +195,7 @@ In name:
   
 **pork**  
 In name:   
- - Grilled Pork Potstickers @ *Lowell Market*  
+ - Edamame Fried Rice w/ Pork Potsticker @ *Lowell Market*  
   
 **chicken**  
 In name:   
