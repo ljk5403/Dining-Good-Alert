@@ -1,6 +1,6 @@
 # 2026-03-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-06 00:49:51  
+Updated at: 2026-03-06 08:37:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-06)  
 **drumstick**  
 In name:   
@@ -109,10 +109,6 @@ In name:
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
-  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
   
 **curry**  
 In name:   
