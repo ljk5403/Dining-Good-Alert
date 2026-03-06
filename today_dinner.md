@@ -1,6 +1,6 @@
 # 2026-03-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-06 14:30:51  
+Updated at: 2026-03-06 15:28:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-06)  
 **drumstick**  
 In name:   
@@ -113,9 +113,7 @@ In name:
 **curry**  
 In name:   
  - Chicken Curry - Mango @ *Gordon Global Kitchen*  
-  
-In description:   
- - Tofu & Vegetable Tikka Masala @ *Gordon Global Kitchen*  
+ - Indian Vegetable Curry @ *Gordon Global Kitchen*  
   
 **beef**  
 In name:   
