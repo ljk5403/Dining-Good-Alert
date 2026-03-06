@@ -1,6 +1,6 @@
 # 2026-03-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-06 15:28:58  
+Updated at: 2026-03-06 16:27:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-06)  
 **drumstick**  
 In name:   
@@ -9,7 +9,6 @@ In name:
 **steak**  
 In name:   
  - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
- - Fried Steak & Cheese Chimichanga @ *Que Rico*  
   
 **mahi mahi**  
 In name:   
@@ -40,13 +39,15 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Taco Meat @ *Que Rico*  
   
 In description:   
  - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
- - Fried Steak & Cheese Chimichanga @ *Que Rico*  
+ - Vegan Taco Filling @ *Que Rico*  
   
 **pork**  
 In name:   
+ - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Pizza Slice Sausage @ *Capital City Pizza*  
@@ -56,6 +57,7 @@ In name:
  - Chicken Drumstick Teriyaki Glazed @ *1849*  
  - Diced Chicken Breast @ *Buona Cucina*  
  - Dan Dan w/ Chicken @ *Global Kitchen*  
+ - Diced Chicken @ *Que Rico*  
  - Chicken Salad @ *Delicious*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-03-06)  
