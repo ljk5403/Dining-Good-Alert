@@ -1,6 +1,6 @@
 # 2026-03-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-07 14:25:02  
+Updated at: 2026-03-07 15:20:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-08)  
 **Tuna**  
 In name:   
@@ -35,16 +35,17 @@ In description:
 In name:   
  - Plant-Based Pepper Steak Stir Fry @ *1849*  
   
-**Shrimp**  
-In name:   
- - Coconut Shrimp @ *1849*  
-  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
   
+**curry**  
+In name:   
+ - Beef Bombay Curry @ *1849*  
+  
 **beef**  
 In name:   
+ - Beef Bombay Curry @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   

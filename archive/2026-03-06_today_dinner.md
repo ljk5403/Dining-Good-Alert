@@ -1,6 +1,6 @@
 # 2026-03-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-07 12:33:26  
+Updated at: 2026-03-07 14:25:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-07)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-03-07)  
 **Tuna**  
@@ -64,6 +64,16 @@ In description:
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-03-07)  
+**Cod**  
+In name:   
+ - Miso Cod @ *1849*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Miso Cod @ *1849*  
+  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
@@ -72,6 +82,7 @@ In name:
 **beef**  
 In name:   
  - Beef Broccoli Stir Fry @ *1849*  
+ - Beef Hot Tamale Pie @ *1849*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -91,7 +102,7 @@ In name:
  - Plant-Based Chicken Tenders @ *Fired Up*  
  - Giardiniera Chicken @ *Global Kitchen*  
  - Plant Based Sweet & Sour Chicken @ *1849*  
- - Taco Chicken @ *Que Rico*  
+ - Chicken Mole w/ Rice @ *Que Rico*  
   
 In description:   
  - Kale, Sausage & Potato Soup @ *Great Greens*  
