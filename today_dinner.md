@@ -1,6 +1,6 @@
 # 2026-03-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-06 17:26:57  
+Updated at: 2026-03-06 19:55:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-06)  
 **drumstick**  
 In name:   
@@ -115,7 +115,6 @@ In name:
 **curry**  
 In name:   
  - Chicken Curry - Mango @ *Gordon Global Kitchen*  
- - Indian Vegetable Curry @ *Gordon Global Kitchen*  
   
 **beef**  
 In name:   
@@ -198,7 +197,7 @@ In description:
   
 **chicken**  
 In name:   
- - Spicy Crispy Chicken Sandwich @ *Fired Up*  
+ - Breaded Chicken Tenders @ *Fired Up*  
  - Plant-Based Chicken & Dumplings @ *1849*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-03-06)  
