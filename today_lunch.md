@@ -1,6 +1,6 @@
 # 2026-03-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-07 09:23:10  
+Updated at: 2026-03-07 10:27:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-07)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-03-07)  
 **Tuna**  
@@ -82,6 +82,7 @@ In name:
   
 In description:   
  - Philly Cheesesteak Sandwich @ *Fired Up*  
+ - Italian Meat Sauce @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
