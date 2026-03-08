@@ -1,6 +1,6 @@
 # 2026-03-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-08 17:23:01  
+Updated at: 2026-03-08 18:24:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-08)  
 **Tuna**  
 In name:   
@@ -76,10 +76,6 @@ In description:
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-03-08)  
-**steak**  
-In name:   
- - Grilled Flank Steak @ *Global Kitchen*  
-  
 **Salmon**  
 In name:   
  - Tuscan Butter Salmon @ *1849*  
@@ -91,11 +87,11 @@ In name:
   
 **beef**  
 In name:   
+ - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
  - Grilled Blended Burger w/ Cheese @ *Fired Up*  
- - Grilled Flank Steak @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
@@ -108,6 +104,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Chicken Chili @ *Great Greens*  
   
 In description:   
