@@ -1,6 +1,6 @@
 # 2026-03-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-07 17:21:52  
+Updated at: 2026-03-07 20:04:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-07)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-03-07)  
 **Tuna**  
@@ -37,6 +37,7 @@ In name:
  - Beef Tri Tip Carved w/ Chimichurri @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
+ - Beef Chili w/ Beans @ *Great Greens*  
   
 In description:   
  - Italian Meat Sauce @ *Gordon Buona Cucina*  

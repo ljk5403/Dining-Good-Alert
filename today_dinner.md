@@ -1,6 +1,6 @@
 # 2026-03-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-07 17:21:58  
+Updated at: 2026-03-07 20:04:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-07)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-03-07)  
 **Tuna**  
@@ -27,6 +27,10 @@ In description:
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-03-07)  
+**Cod**  
+In name:   
+ - Battered Cod @ *Fired Up*  
+  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
@@ -35,7 +39,7 @@ In name:
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
- - Chili & Cheese Beef Hot Dog @ *Fired Up*  
+ - Beef Chili w/ Beans @ *Great Greens*  
   
 In description:   
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
