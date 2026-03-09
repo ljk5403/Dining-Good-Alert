@@ -1,24 +1,31 @@
 # 2026-03-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-09 12:00:42  
+Updated at: 2026-03-09 13:52:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-09)  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
   
+**curry**  
+In name:   
+ - Currywurst (Pork) @ *1849*  
+ - Beef Bombay Curry w/Basmati Rice @ *Global Kitchen*  
+  
 **beef**  
 In name:   
- - Texas BBQ Sliced Beef Brisket @ *1849*  
+ - Beef Bombay Curry w/Basmati Rice @ *Global Kitchen*  
  - Beef Fajita Meat @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
  - Beef Ravioli Plain @ *Buona Cucina*  
   
 In description:   
+ - Currywurst (Pork) @ *1849*  
  - Grilled Blended Burger w/ Cheese @ *Fired Up*  
  - Italian Meat Sauce @ *Buona Cucina*  
   
 **pork**  
 In name:   
+ - Currywurst (Pork) @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
   
 In description:   
@@ -26,7 +33,6 @@ In description:
   
 **chicken**  
 In name:   
- - Noodles Sesame w/ Chicken @ *Global Kitchen*  
  - Chicken Tinga @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
