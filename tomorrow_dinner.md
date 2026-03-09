@@ -1,6 +1,6 @@
 # 2026-03-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-09 02:01:28  
+Updated at: 2026-03-09 09:50:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-10)  
 **portabella**  
 In name:   
@@ -148,10 +148,6 @@ In name:
 In name:   
  - Shrimp Po-Boy Sandwich @ *Fired Up*  
   
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
 **beef**  
 In name:   
  - Beef Bulgogi Bao Bun @ *Que Rico*  
@@ -172,8 +168,6 @@ In name:
  - Smoked BBQ Chicken Breast @ *1849*  
  - Mediterranean Chicken @ *Create-A-Bowl*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Diced Chicken @ *Great Greens*  
- - Chicken Dumpling Soup @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-03-10)  
 **portabella**  

@@ -1,6 +1,6 @@
 # 2026-03-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-09 02:01:16  
+Updated at: 2026-03-09 09:50:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-09)  
 **Tuna**  
 In name:   
@@ -106,10 +106,12 @@ In name:
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Pork Bratwurst Sandwich @ *Gordon Fired Up*  
   
+In description:   
+ - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
+  
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Pizza Slice Mediterranean Chicken @ *Gordon Capital City Pizza*  
  - Chicken Tinga @ *Gordon Que Rico*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  

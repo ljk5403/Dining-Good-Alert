@@ -1,6 +1,6 @@
 # 2026-03-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-09 02:01:36  
+Updated at: 2026-03-09 09:50:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-11)  
 **clam**  
 In name:   
@@ -112,10 +112,6 @@ In description:
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-03-11)  
-**Vanilla Coconut Milk Yogurt**  
-In name:   
- - Vanilla Coconut Milk Yogurt @ *Great Greens*  
-  
 **Cod**  
 In name:   
  - Miso Cod @ *1849*  
@@ -136,7 +132,6 @@ In description:
 **beef**  
 In name:   
  - Beef Broccoli Stir Fry @ *Global Kitchen*  
- - Beef Chili @ *Great Greens*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
@@ -153,7 +148,6 @@ In name:
  - Chicken Wings Boneless Plain @ *Que Rico*  
  - Plant-Based Chicken Nuggets (6) @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Diced Chicken @ *Great Greens*  
   
 In description:   
  - BYO Bar - Mac & Cheese @ *Create-A-Bowl*  

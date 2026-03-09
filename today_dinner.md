@@ -1,6 +1,6 @@
 # 2026-03-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-09 02:01:20  
+Updated at: 2026-03-09 09:50:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-09)  
 **steak**  
 In name:   
@@ -121,14 +121,6 @@ In description:
  - Poulet Braise @ *Gordon Eggcetera*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-03-09)  
-**portabella**  
-In name:   
- - Portabella Mushroom Ravioli Plain @ *Global Kitchen*  
-  
-**broccoli rabe**  
-In name:   
- - Broccoli Rabe @ *1849*  
-  
 **Samosas**  
 In name:   
  - Samosas @ *Que Rico*  
@@ -155,15 +147,12 @@ In name:
   
 **beef**  
 In name:   
- - Beef Stroganoff Creamy @ *1849*  
   
 In description:   
- - Chicago-Style Hot Dog @ *Fired Up*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
 In name:   
- - Italian Pork Sausage @ *Global Kitchen*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
@@ -171,8 +160,6 @@ In description:
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Diced Chicken @ *Great Greens*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-03-09)  
 **Poke Bar**  
