@@ -1,6 +1,6 @@
 # 2026-03-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-09 16:32:00  
+Updated at: 2026-03-09 17:28:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-09)  
 **steak**  
 In name:   
@@ -107,10 +107,12 @@ In name:
  - Herb Crusted Pork Loin @ *1849*  
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
   
+In description:   
+ - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
+  
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Pizza Slice Mediterranean Chicken @ *Gordon Capital City Pizza*  
  - Crispy Chicken Sandwich @ *Fired Up*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
