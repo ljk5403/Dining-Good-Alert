@@ -1,6 +1,6 @@
 # 2026-03-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-10 15:33:31  
+Updated at: 2026-03-10 16:28:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-10)  
 **portabella**  
 In name:   
@@ -48,7 +48,6 @@ In name:
  - Chicken Vindaloo @ *Global Kitchen*  
  - Mediterranean Chicken @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Dumpling Soup @ *Great Greens*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
@@ -92,11 +91,11 @@ In name:
 In description:   
  - Tempeh w/Red Peppers & Broc Rabe @ *1849*  
   
-**steak**  
+**drumstick**  
 In name:   
   
 In description:   
- - Montreal Chicken @ *1849*  
+ - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
   
 **watermelon**  
 In name:   
@@ -121,7 +120,7 @@ In description:
   
 **chicken**  
 In name:   
- - Montreal Chicken @ *1849*  
+ - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Chicken Empanada with Green Chili @ *Gordon Que Rico*  
