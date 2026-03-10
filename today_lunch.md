@@ -1,6 +1,6 @@
 # 2026-03-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-10 12:02:24  
+Updated at: 2026-03-10 13:46:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-10)  
 **portabella**  
 In name:   
@@ -142,7 +142,6 @@ In name:
 **beef**  
 In name:   
  - Traditional Beef Shepard's Pie @ *1849*  
- - Beef Taco Meat @ *Que Rico*  
  - Mediterranean Beef @ *Create-A-Bowl*  
   
 In description:   
@@ -159,6 +158,7 @@ In description:
 In name:   
  - Grilled Chicken Sandwich @ *Fired Up*  
  - Italian Chicken @ *Global Kitchen*  
+ - Taco Chicken @ *Que Rico*  
  - Mediterranean Chicken @ *Create-A-Bowl*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
@@ -205,9 +205,9 @@ In description:
  - Pepperoni Pizza Slice @ *Capital City Pizza:  Available Between 11am-4pm*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-03-10)  
-**Salmon**  
+**clam**  
 In name:   
- - Blackened Salmon @ *Lowell Market*  
+ - Clam Strips @ *Lowell Market*  
   
 **beef**  
 In name:   
