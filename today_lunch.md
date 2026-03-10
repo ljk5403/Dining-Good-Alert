@@ -1,6 +1,6 @@
 # 2026-03-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-10 01:50:20  
+Updated at: 2026-03-10 09:47:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-10)  
 **portabella**  
 In name:   
@@ -92,16 +92,13 @@ In name:
  - Chicken Dumpling Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-03-10)  
-**drumstick**  
-In name:   
-  
-In description:   
- - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
-  
 **steak**  
 In name:   
  - Philly Cheesesteak Sandwich @ *Gordon Fired Up*  
  - Tempeh Philly Cheesesteak Sandwich @ *Gordon Fired Up*  
+  
+In description:   
+ - Montreal Chicken @ *1849*  
   
 **watermelon**  
 In name:   
@@ -125,9 +122,9 @@ In description:
   
 **chicken**  
 In name:   
- - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Montreal Chicken @ *1849*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
+ - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Butter Chicken @ *Gordon Global Kitchen*  
  - Diced Chicken @ *Great Greens*  

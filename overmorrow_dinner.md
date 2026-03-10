@@ -1,6 +1,6 @@
 # 2026-03-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-10 01:50:39  
+Updated at: 2026-03-10 09:47:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-12)  
 **Chicken Drummies**  
 In name:   
@@ -158,6 +158,8 @@ In name:
  - Jamaican Jerk Chicken Drumstick @ *1849*  
  - Bulgogi Chicken @ *Create-A-Bowl*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Diced Chicken @ *Great Greens*  
+ - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
  - Shredded Beef Flauta @ *Que Rico*  
