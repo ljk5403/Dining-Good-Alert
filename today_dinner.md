@@ -1,6 +1,6 @@
 # 2026-03-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-10 13:46:31  
+Updated at: 2026-03-10 15:33:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-10)  
 **portabella**  
 In name:   
@@ -38,6 +38,7 @@ In description:
 **pork**  
 In name:   
  - Curry Mango - Pork @ *1849*  
+ - Italian Pork Sausage @ *Buona Cucina*  
   
 **chicken**  
 In name:   
@@ -104,11 +105,11 @@ In name:
 **beef**  
 In name:   
  - Texas BBQ Sliced Beef Brisket @ *1849*  
- - Beef Gravy @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Harissa w/Couscous @ *Gordon Global Kitchen*  
   
 In description:   
+ - Country Gravy @ *1849*  
  - Grilled Blended Burger w/ Cheese @ *Fired Up*  
   
 **pork**  
@@ -148,6 +149,10 @@ In name:
 In name:   
  - Shrimp Po-Boy Sandwich @ *Fired Up*  
   
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -172,7 +177,6 @@ In name:
  - Smoked BBQ Chicken Breast @ *1849*  
  - Mediterranean Chicken @ *Create-A-Bowl*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-03-10)  
