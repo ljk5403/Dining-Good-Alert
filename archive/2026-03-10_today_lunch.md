@@ -1,14 +1,10 @@
 # 2026-03-11 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-11 12:48:34  
+Updated at: 2026-03-11 13:52:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-11)  
 **FiIipino Pork Spring Roll**  
 In name:   
  - FiIipino Pork Spring Roll @ *Global Kitchen*  
-  
-**broccoli rabe**  
-In name:   
- - Broccoli Rabe @ *1849*  
   
 **Tuna**  
 In name:   
@@ -109,6 +105,7 @@ In name:
  - Broasted Chicken @ *1849*  
  - Chicken Gravy @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Chicken Wings Boneless Plain @ *Gordon Fired Up*  
  - General Tso's Chicken @ *Gordon Global Kitchen*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
  - Diced Chicken @ *Great Greens*  
@@ -122,9 +119,19 @@ In description:
 In name:   
  - Vanilla Coconut Milk Yogurt @ *Great Greens*  
   
-**Tilapia**  
+**catfish**  
 In name:   
- - Tilapia Chipotle Lime Crusted @ *1849*  
+  
+In description:   
+ - Indian Fish Curry @ *1849*  
+  
+**fish**  
+In name:   
+ - Indian Fish Curry @ *1849*  
+  
+**curry**  
+In name:   
+ - Indian Fish Curry @ *1849*  
   
 **beef**  
 In name:   

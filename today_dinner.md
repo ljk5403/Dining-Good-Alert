@@ -1,6 +1,6 @@
 # 2026-03-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-11 13:52:48  
+Updated at: 2026-03-11 15:33:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-11)  
 **clam**  
 In name:   
@@ -212,16 +212,26 @@ In description:
 In name:   
  - Portabella Mediterranean @ *Lowell Market*  
   
-**Salmon**  
+**Tilapia**  
 In name:   
- - BBQ Salmon @ *Lowell Market*  
+ - Baked Tilapia w/Dill Wine Sauce @ *Lowell Market*  
+  
+**curry**  
+In name:   
+  
+In description:   
+ - Tikka Masala Pizza @ *Lowell Market*  
   
 **beef**  
 In name:   
  - Mediterranean Beef @ *Lowell Market*  
+ - Beef Stir Fry w/ Snow Peas @ *Lowell Market*  
   
 **chicken**  
 In name:   
  - Mediterranean Chicken @ *Lowell Market*  
+  
+In description:   
+ - Tikka Masala Pizza @ *Lowell Market*  
   
   
