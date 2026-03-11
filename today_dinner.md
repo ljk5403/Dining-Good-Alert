@@ -1,6 +1,6 @@
 # 2026-03-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-11 15:33:08  
+Updated at: 2026-03-11 16:32:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-11)  
 **clam**  
 In name:   
@@ -18,7 +18,7 @@ In name:
   
 **curry**  
 In name:   
- - VEGAN Thai Chick'n w/ Green Curry (VN) @ *Global Kitchen*  
+ - Curry Mango - Tofu @ *Global Kitchen*  
   
 **beef**  
 In name:   
