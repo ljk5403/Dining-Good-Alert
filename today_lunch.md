@@ -1,6 +1,6 @@
 # 2026-03-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-10 18:27:40  
+Updated at: 2026-03-10 20:58:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-10)  
 **portabella**  
 In name:   
@@ -168,7 +168,7 @@ In name:
  - Taco Chicken @ *Que Rico*  
  - Mediterranean Chicken @ *Create-A-Bowl*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Chicken Dumpling Soup @ *Great Greens*  
+ - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
  - Ancho Braised Pork @ *Que Rico*  

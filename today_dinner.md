@@ -1,6 +1,6 @@
 # 2026-03-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-10 18:27:42  
+Updated at: 2026-03-10 20:58:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-10)  
 **portabella**  
 In name:   
@@ -107,7 +107,7 @@ In name:
   
 **beef**  
 In name:   
- - Texas BBQ Sliced Beef Brisket @ *1849*  
+ - Beef Sirloin Tips @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Harissa w/Couscous @ *Gordon Global Kitchen*  
   
@@ -180,7 +180,7 @@ In name:
  - Smoked BBQ Chicken Breast @ *1849*  
  - Mediterranean Chicken @ *Create-A-Bowl*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Chicken Dumpling Soup @ *Great Greens*  
+ - Chicken Noodle Soup @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-03-10)  
 **portabella**  

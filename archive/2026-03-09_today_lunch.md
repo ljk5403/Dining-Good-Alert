@@ -1,6 +1,6 @@
 # 2026-03-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-10 17:28:05  
+Updated at: 2026-03-10 18:27:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-10)  
 **portabella**  
 In name:   
@@ -91,6 +91,10 @@ In name:
  - Chicken Dumpling Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-03-10)  
+**Vanilla Coconut Milk Yogurt**  
+In name:   
+ - Vanilla Coconut Milk Yogurt @ *Great Greens*  
+  
 **steak**  
 In name:   
  - Philly Cheesesteak Sandwich @ *Gordon Fired Up*  
