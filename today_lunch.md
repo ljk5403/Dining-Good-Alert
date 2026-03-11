@@ -1,6 +1,6 @@
 # 2026-03-11 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-11 09:44:25  
+Updated at: 2026-03-11 10:48:34  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-11)  
 **FiIipino Pork Spring Roll**  
 In name:   
@@ -195,6 +195,10 @@ In description:
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza:  Available Between 11am-4pm*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-03-11)  
+**Beef Alicha**  
+In name:   
+ - Beef Alicha @ *Lowell Market*  
+  
 **curry**  
 In name:   
   
@@ -203,11 +207,13 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Alicha @ *Lowell Market*  
  - Beef Chili @ *Great Greens*  
   
 **chicken**  
 In name:   
  - Diced Chicken @ *Great Greens*  
+ - Chicken Empanada with Green Chili @ *Lowell Market*  
   
 In description:   
  - Tikka Masala Pizza @ *Lowell Market*  
