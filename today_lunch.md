@@ -1,6 +1,6 @@
 # 2026-03-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-12 01:55:02  
+Updated at: 2026-03-12 09:48:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-12)  
 **fish**  
 In name:   
@@ -76,6 +76,7 @@ In name:
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
+ - Thin Crust Tavern Style Pepperoni Pizza @ *Gordon Capital City Pizza*  
  - Mushroom Swiss Blended Burger @ *Gordon Fired Up*  
  - Spicy Steak Fajita @ *Gordon Que Rico*  
   
@@ -93,6 +94,9 @@ In name:
  - Mediterranean Chicken @ *Gordon Global Kitchen*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
+  
+In description:   
+ - Thin Crust Tavern Style Pepperoni Pizza @ *Gordon Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-03-12)  
 **portabella**  
