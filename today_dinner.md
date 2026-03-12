@@ -1,6 +1,6 @@
 # 2026-03-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-11 18:25:39  
+Updated at: 2026-03-11 21:04:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-11)  
 **clam**  
 In name:   
@@ -95,6 +95,7 @@ In name:
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
  - Gluten Free Pork Sausage Pizza Quarter @ *Gordon Capital City Pizza*  
+ - Pork Carnita @ *Gordon Que Rico*  
  - Italian Sausage (Pork) w/ Pepper & Onion @ *Fired Up*  
   
 **chicken**  
@@ -103,7 +104,6 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Sweet & Sour Chicken @ *Gordon Global Kitchen*  
  - Plant Based Sweet & Sour Chicken @ *Gordon Global Kitchen*  
- - Chicken Fajitas w/Rice & Beans @ *Gordon Que Rico*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
  - Diced Chicken @ *Great Greens*  
   
@@ -212,9 +212,9 @@ In description:
 In name:   
  - Portabella Mediterranean @ *Lowell Market*  
   
-**Tilapia**  
+**haddock**  
 In name:   
- - Baked Tilapia w/Dill Wine Sauce @ *Lowell Market*  
+ - Baked Haddock w/Butter & Lemon @ *Lowell Market*  
   
 **curry**  
 In name:   
