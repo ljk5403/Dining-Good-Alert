@@ -1,6 +1,6 @@
 # 2026-03-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-12 09:48:10  
+Updated at: 2026-03-12 10:58:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-12)  
 **fish**  
 In name:   
@@ -195,6 +195,7 @@ In description:
 **beef**  
 In name:   
  - Lamb & Beef Gyro Sandwich @ *Lowell Market*  
+ - Mediterranean Beef @ *Lowell Market*  
   
 **pork**  
 In name:   
@@ -203,6 +204,7 @@ In name:
 **chicken**  
 In name:   
  - Tikka Masala Chicken @ *Lowell Market*  
+ - Mediterranean Chicken @ *Lowell Market*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
   
