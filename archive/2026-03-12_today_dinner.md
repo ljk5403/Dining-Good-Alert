@@ -1,6 +1,6 @@
 # 2026-03-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-13 15:34:33  
+Updated at: 2026-03-13 16:32:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-13)  
 **Shrimp**  
 In name:   
@@ -185,19 +185,9 @@ In name:
 In name:   
  - Country Fried Steak @ *Lowell Market*  
   
-**mahi mahi**  
+**Cod**  
 In name:   
- - Coconut Thai Curry Mahi Mahi @ *Lowell Market*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Coconut Thai Curry Mahi Mahi @ *Lowell Market*  
-  
-**curry**  
-In name:   
- - Coconut Thai Curry Mahi Mahi @ *Lowell Market*  
+ - Cracker Crusted Cod w/ Lemon Sauce @ *Lowell Market*  
   
 **beef**  
 In name:   
@@ -210,5 +200,8 @@ In description:
 In name:   
  - Chicken Marsala Creamy @ *Lowell Market*  
  - BBQ Chicken Breast @ *Lowell Market*  
+  
+In description:   
+ - Cracker Crusted Cod w/ Lemon Sauce @ *Lowell Market*  
   
   
