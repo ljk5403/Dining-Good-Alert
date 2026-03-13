@@ -1,6 +1,6 @@
 # 2026-03-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-12 18:27:39  
+Updated at: 2026-03-12 21:02:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-12)  
 **Chicken Drummies**  
 In name:   
@@ -89,7 +89,6 @@ In name:
   
 **curry**  
 In name:   
- - Curry Potatoes @ *Gordon Eggcetera*  
   
 In description:   
  - Coconut Vegetable Stew @ *1849*  
@@ -112,7 +111,6 @@ In name:
  - Mediterranean Chicken @ *Gordon Global Kitchen*  
  - Tandoori Chicken @ *Gordon Eggcetera*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Gordon Capital City Pizza*  
