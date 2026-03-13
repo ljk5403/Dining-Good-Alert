@@ -1,6 +1,6 @@
 # 2026-03-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-13 10:41:24  
+Updated at: 2026-03-13 11:39:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-13)  
 **Salmon**  
 In name:   
@@ -187,6 +187,7 @@ In name:
 **pork**  
 In name:   
  - Pork Belly for Street Taco - Carson @ *Lowell Market*  
+ - Pork Italian Sausage @ *Lowell Market*  
   
 In description:   
  - BYO Beach Taco Bar @ *Lowell Market*  
