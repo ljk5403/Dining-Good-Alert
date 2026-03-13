@@ -1,6 +1,6 @@
 # 2026-03-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-13 01:53:27  
+Updated at: 2026-03-13 09:40:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-13)  
 **Salmon**  
 In name:   
@@ -154,7 +154,7 @@ In name:
   
 **beef**  
 In name:   
- - Beef @ *Global Kitchen*  
+ - Beef Mediterranean @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -170,7 +170,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chipotle BBQ Chicken Sandwich @ *Fired Up*  
  - Spicy Crispy Chicken Sandwich @ *Fired Up*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
