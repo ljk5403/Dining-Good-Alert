@@ -1,14 +1,21 @@
 # 2026-03-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-14 15:27:52  
+Updated at: 2026-03-14 16:26:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-14)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-03-14)  
 **Cod**  
 In name:   
  - Basque Style Cod @ *Global Kitchen*  
   
+**curry**  
+In name:   
+  
+In description:   
+ - Chicken Madras @ *Global Kitchen*  
+  
 **beef**  
 In name:   
+ - Beef Vindaloo @ *Global Kitchen*  
  - Beef & Tater Tot Bake @ *Global Kitchen*  
  - Beef Enchilada Bake @ *Global Kitchen*  
   
@@ -20,6 +27,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Madras @ *Global Kitchen*  
  - Chicken Basque Style @ *Global Kitchen*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
@@ -87,6 +95,7 @@ In name:
  - Spicy Crispy Chicken Sandwich @ *Fired Up*  
  - Italian Chicken @ *Global Kitchen*  
  - Spicy Lo Mein w/Chicken @ *1849*  
+ - Taco Chicken @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
   
