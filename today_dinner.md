@@ -1,6 +1,6 @@
 # 2026-03-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-13 18:28:20  
+Updated at: 2026-03-13 20:59:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-13)  
 **Shrimp**  
 In name:   
@@ -30,11 +30,14 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**beef**  
+In name:   
+ - Empanada Beef Picadillo @ *Que Rico*  
+  
 **pork**  
 In name:   
  - Pork Sausage Patty @ *Buona Cucina*  
  - Hawaiian (Pork) Pizza Slice @ *Capital City Pizza*  
- - Ancho Braised Pork @ *Que Rico*  
   
 In description:   
  - Pizza Slice Sausage @ *Capital City Pizza*  
@@ -44,7 +47,7 @@ In name:
  - Diced Chicken @ *Great Greens*  
   
 In description:   
- - Ancho Braised Pork @ *Que Rico*  
+ - Empanada Beef Picadillo @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-03-13)  
 **Cod**  
@@ -71,15 +74,15 @@ In name:
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-03-13)  
-**haddock**  
-In name:   
- - Haddock Ginger Glazed (AYCTE) @ *1849*  
-  
 **squid**  
 In name:   
   
 In description:   
  - Fried Calamari @ *Gordon Eggcetera*  
+  
+**mahi mahi**  
+In name:   
+ - Baked Mahi Mahi w/ Butter & Lemon @ *1849*  
   
 **Shrimp**  
 In name:   
@@ -107,6 +110,8 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Beef Harissa Braised @ *Gordon Global Kitchen*  
+ - Beef Fajita Meat @ *Gordon Que Rico*  
   
 In description:   
  - Pizza Slice Gyro @ *Gordon Capital City Pizza*  
@@ -120,11 +125,9 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Breast w/Balsamic BBQ Sauce @ *1849*  
+ - Huli Huli Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Gordon Capital City Pizza*  
- - Butter Chicken @ *Gordon Global Kitchen*  
- - Chicken Fajita Meat @ *Gordon Que Rico*  
  - Plant-Based Chicken Nuggets (6) @ *Gordon Eggcetera*  
  - Diced Chicken @ *Great Greens*  
   
@@ -143,6 +146,10 @@ In name:
 **clam**  
 In name:   
  - Clam Chowder @ *Great Greens*  
+  
+**fish**  
+In name:   
+ - Vegan Fish Fillet (VN) @ *Que Rico*  
   
 **Tuna**  
 In name:   
