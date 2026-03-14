@@ -1,6 +1,6 @@
 # 2026-03-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-14 16:26:39  
+Updated at: 2026-03-14 17:26:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-14)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-03-14)  
 **Cod**  
@@ -95,7 +95,6 @@ In name:
  - Spicy Crispy Chicken Sandwich @ *Fired Up*  
  - Italian Chicken @ *Global Kitchen*  
  - Spicy Lo Mein w/Chicken @ *1849*  
- - Taco Chicken @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
   
