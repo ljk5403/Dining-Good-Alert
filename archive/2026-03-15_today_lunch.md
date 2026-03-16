@@ -1,6 +1,6 @@
 # 2026-03-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-16 12:58:55  
+Updated at: 2026-03-16 14:16:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-16)  
 **Tuna**  
 In name:   
@@ -105,10 +105,6 @@ In description:
 In name:   
  - Samosas @ *Que Rico*  
   
-**steak**  
-In name:   
- - Country Fried Steak @ *1849*  
-  
 **fish**  
 In name:   
   
@@ -133,7 +129,6 @@ In name:
   
 In description:   
  - German Plate (Pork) @ *1849*  
- - Country Fried Steak @ *1849*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
