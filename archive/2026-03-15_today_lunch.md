@@ -1,6 +1,6 @@
 # 2026-03-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-16 11:11:32  
+Updated at: 2026-03-16 12:58:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-16)  
 **Tuna**  
 In name:   
@@ -121,14 +121,15 @@ In name:
   
 **curry**  
 In name:   
+ - Beef Bombay Curry @ *Que Rico*  
  - Curry Potatoes @ *Que Rico*  
   
 In description:   
- - Tikka Masala Chicken @ *Que Rico*  
  - Tofu & Vegetable Tikka Masala @ *Que Rico*  
   
 **beef**  
 In name:   
+ - Beef Bombay Curry @ *Que Rico*  
   
 In description:   
  - German Plate (Pork) @ *1849*  
@@ -146,7 +147,6 @@ In description:
 **chicken**  
 In name:   
  - Chicken Fajita Torta @ *Fired Up*  
- - Tikka Masala Chicken @ *Que Rico*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-03-16)  
