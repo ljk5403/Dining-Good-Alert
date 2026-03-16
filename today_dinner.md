@@ -1,6 +1,6 @@
 # 2026-03-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-15 18:28:39  
+Updated at: 2026-03-15 21:26:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-15)  
 **lamb**  
 In name:   
@@ -51,7 +51,7 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Taco Meat @ *Gordon Que Rico*  
+ - Beef Carne Guisada @ *Gordon Que Rico*  
  - Lamb & Beef Gyro Sandwich @ *Fired Up*  
   
 In description:   
@@ -63,7 +63,7 @@ In description:
   
 **pork**  
 In name:   
- - Pork Carnita @ *Gordon Que Rico*  
+ - Pork Italian Sausage @ *Gordon Buona Cucina*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
@@ -72,7 +72,6 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Giardiniera Chicken @ *Gordon Buona Cucina*  
  - Diced Chicken @ *Great Greens*  
   
 In description:   
@@ -84,9 +83,12 @@ In description:
 In name:   
  - Rosemary Cabernet Flank Steak @ *1849*  
   
+**Salmon**  
+In name:   
+ - Masala Spiced Salmon @ *1849*  
+  
 **beef**  
 In name:   
- - Beef Hot Dog @ *Fired Up*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
@@ -97,6 +99,7 @@ In description:
   
 **pork**  
 In name:   
+ - Smoked Pulled Pork Sandwich @ *Fired Up*  
  - Pork Carnita @ *Que Rico*  
   
 In description:   
@@ -106,7 +109,6 @@ In description:
 In name:   
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Plant Based Chicken Strips @ *Global Kitchen*  
- - Chicken Pot Pie w/Biscuit @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
