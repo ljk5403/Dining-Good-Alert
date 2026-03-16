@@ -1,6 +1,6 @@
 # 2026-03-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-16 09:58:47  
+Updated at: 2026-03-16 11:11:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-16)  
 **Tuna**  
 In name:   
@@ -193,8 +193,19 @@ In description:
  - Sausage (Pork) & Pepperoni Pizza Slice @ *Capital City Pizza:  Available Between 11am-4pm*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-03-16)  
+**mahi mahi**  
+In name:   
+ - Coconut Thai Curry Mahi Mahi @ *Lowell Market*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Coconut Thai Curry Mahi Mahi @ *Lowell Market*  
+  
 **curry**  
 In name:   
+ - Coconut Thai Curry Mahi Mahi @ *Lowell Market*  
   
 In description:   
  - Chana Saag w/ Tofu @ *Lowell Market*  
