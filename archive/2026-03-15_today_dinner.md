@@ -1,6 +1,6 @@
 # 2026-03-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-16 15:37:56  
+Updated at: 2026-03-16 16:39:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-16)  
 **drumstick**  
 In name:   
@@ -216,21 +216,23 @@ In description:
  - Sausage (Pork) & Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-03-16)  
-**Salmon**  
+**catfish**  
 In name:   
- - Hoisin BBQ Glazed Salmon @ *Lowell Market*  
+ - Blackened Catfish @ *Lowell Market*  
   
 **fish**  
 In name:   
+ - Blackened Catfish @ *Lowell Market*  
   
 In description:   
- - Hoisin BBQ Glazed Salmon @ *Lowell Market*  
+ - Thai BBQ Pork Ribs @ *Lowell Market*  
   
 **curry**  
 In name:   
   
 In description:   
  - Navarathan Korma (AYCTE) @ *Lowell Market*  
+ - Chana Saag w/ Tofu @ *Lowell Market*  
   
 **beef**  
 In name:   
@@ -241,6 +243,7 @@ In description:
 **pork**  
 In name:   
  - Baked Corn Dog (Pork) @ *Lowell Market*  
+ - Thai BBQ Pork Ribs @ *Lowell Market*  
   
 **chicken**  
 In name:   
