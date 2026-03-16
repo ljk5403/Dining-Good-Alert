@@ -1,6 +1,6 @@
 # 2026-03-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-16 02:16:31  
+Updated at: 2026-03-16 09:58:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-16)  
 **Tuna**  
 In name:   
@@ -13,9 +13,6 @@ In name:
  - Beef Ravioli Plain @ *Buona Cucina*  
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
-  
-In description:   
- - Grilled Blended Burger w/ Cheese @ *Fired Up*  
   
 **pork**  
 In name:   
@@ -34,6 +31,7 @@ In description:
 In name:   
  - Popcorn Chicken @ *1849*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
+ - Crispy Chicken Sandwich @ *Fired Up*  
  - Chicken Tinga @ *Que Rico*  
  - Diced Chicken Breast @ *Buona Cucina*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
@@ -72,6 +70,8 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Beef Harissa Braised @ *Gordon Global Kitchen*  
+ - Beef Barbacoa @ *Gordon Que Rico*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
@@ -81,7 +81,7 @@ In description:
   
 **pork**  
 In name:   
- - Apricot Glazed Pork @ *1849*  
+ - Roasted Pork Loin @ *1849*  
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
   
 In description:   
@@ -95,7 +95,6 @@ In name:
  - Pizza Slice Chicken Tomatillo @ *Gordon Capital City Pizza*  
  - Chicken Tenders Breaded @ *Gordon Fired Up*  
  - Plant-Based Chicken Nuggets (6) @ *Gordon Fired Up*  
- - Chicken Tinga @ *Gordon Que Rico*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 In description:   
