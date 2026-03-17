@@ -1,6 +1,6 @@
 # 2026-03-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-16 18:31:57  
+Updated at: 2026-03-16 21:05:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-16)  
 **drumstick**  
 In name:   
@@ -74,9 +74,9 @@ In name:
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-03-16)  
-**Salmon**  
+**Tandoori Chicken**  
 In name:   
- - Masala Spiced Salmon @ *1849*  
+ - Tandoori Chicken @ *1849*  
   
 **Tuna**  
 In name:   
@@ -84,8 +84,8 @@ In name:
   
 **beef**  
 In name:   
+ - Texas BBQ Sliced Beef Brisket @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Bean & Carrot Stir Fry @ *Gordon Global Kitchen*  
   
 In description:   
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
@@ -96,6 +96,7 @@ In description:
 **pork**  
 In name:   
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
+ - Imperial Pork Stir Fry @ *Gordon Global Kitchen*  
  - Ancho Pork Rice Bowl @ *Gordon Que Rico*  
   
 In description:   
@@ -104,7 +105,7 @@ In description:
   
 **chicken**  
 In name:   
- - Greek Chicken @ *1849*  
+ - Tandoori Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pizza Slice Chicken Tomatillo @ *Gordon Capital City Pizza*  
  - BYO - MTO Chicken Wrap - Gordon @ *Gordon Eggcetera*  
@@ -247,7 +248,7 @@ In name:
   
 **chicken**  
 In name:   
- - General Tso's Chicken @ *Lowell Market*  
+ - Brazilian Chicken w/ Salsa Vinaigrette @ *Lowell Market*  
   
 In description:   
  - Baked Corn Dog (Pork) @ *Lowell Market*  
