@@ -1,6 +1,6 @@
 # 2026-03-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-17 09:55:27  
+Updated at: 2026-03-17 11:05:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-17)  
 **portabella**  
 In name:   
@@ -148,7 +148,7 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
- - Chicken Dumpling Soup @ *Great Greens*  
+ - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Gordon Capital City Pizza*  
@@ -223,15 +223,19 @@ In description:
  - Pepperoni Pizza Slice @ *Capital City Pizza:  Available Between 11am-4pm*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-03-17)  
+**steak**  
+In name:   
+ - Country Fried Steak @ *Lowell Market*  
+  
 **Cod**  
 In name:   
- - Lemon Pepper Cod Fillet @ *Lowell Market*  
+ - Battered Cod @ *Lowell Market*  
   
 **beef**  
 In name:   
   
 In description:   
- - Grilled Blended Burger w/ Cheese @ *Lowell Market*  
+ - Country Fried Steak @ *Lowell Market*  
   
 **chicken**  
 In name:   

@@ -1,14 +1,10 @@
 # 2026-03-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-17 02:03:26  
+Updated at: 2026-03-17 09:55:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-17)  
-**Samosas**  
-In name:   
- - Samosas @ *Global Kitchen*  
-  
 **Salmon**  
 In name:   
- - Oven Roasted Salmon @ *1849*  
+ - Oven Roasted Salmon @ *Global Kitchen*  
   
 **lamb**  
 In name:   
@@ -20,16 +16,10 @@ In description:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**curry**  
-In name:   
- - Plant-Based Beef Curry Squash @ *Global Kitchen*  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Beef Street Taco @ *Fired Up*  
- - Beef Vindaloo @ *Global Kitchen*  
- - Plant-Based Beef Curry Squash @ *Global Kitchen*  
  - Mediterranean Beef @ *Que Rico*  
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
@@ -49,9 +39,9 @@ In description:
   
 **chicken**  
 In name:   
- - Za'atar and Lemon Grilled Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
+ - Za'atar and Lemon Grilled Chicken @ *Global Kitchen*  
  - Mediterranean Chicken @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Dumpling Soup @ *Great Greens*  
@@ -60,17 +50,6 @@ In description:
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-03-17)  
-**Salmon**  
-In name:   
- - Salmon Philly Roll (FujiSan) @ *Global Kitchen*  
- - Salmon Spicy Roll (FujiSan) @ *Global Kitchen*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Salmon Spicy Roll (FujiSan) @ *Global Kitchen*  
-  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
@@ -79,16 +58,9 @@ In name:
 In name:   
  - Melon Watermelon Whole Sliced @ *Great Greens*  
   
-**beef**  
-In name:   
-  
-In description:   
- - Grilled Blended Burger w/ Cheese @ *Global Kitchen*  
-  
 **chicken**  
 In name:   
  - Huli Huli Chicken @ *1849*  
- - Crispy Chicken Sandwich @ *Global Kitchen*  
  - Chicken Dumpling Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-03-17)  
@@ -96,29 +68,12 @@ In name:
 In name:   
  - FiIipino Pork Spring Roll @ *Gordon Eggcetera*  
   
-**Poke Bar**  
-In name:   
- - Poke Bar @ *Gordon Global Kitchen*  
- - Build Your Own Poke Bar @ *Gordon Global Kitchen*  
-  
 **steak**  
 In name:   
  - Beef Steak Fajita Plate w/Rice & Beans @ *Gordon Que Rico*  
   
 In description:   
  - Pizza Slice Italian Beef @ *Gordon Capital City Pizza*  
-  
-**Shrimp**  
-In name:   
-  
-In description:   
- - Poke Bar @ *Gordon Global Kitchen*  
-  
-**Tuna**  
-In name:   
-  
-In description:   
- - Poke Bar @ *Gordon Global Kitchen*  
   
 **watermelon**  
 In name:   
@@ -157,12 +112,6 @@ In description:
  - Pizza Slice Deluxe (Pork) @ *Gordon Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-03-17)  
-**fish**  
-In name:   
-  
-In description:   
- - Beef Masaman Thai Curry @ *1849*  
-  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
@@ -171,13 +120,8 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**curry**  
-In name:   
- - Beef Masaman Thai Curry @ *1849*  
-  
 **beef**  
 In name:   
- - Beef Masaman Thai Curry @ *1849*  
  - Mediterranean Beef @ *Create-A-Bowl*  
   
 In description:   
@@ -194,7 +138,6 @@ In description:
 **chicken**  
 In name:   
  - Italian Chicken @ *Global Kitchen*  
- - Chicken Breast w/Red Pepper Cream @ *1849*  
  - Chicken Mole w/ Rice @ *Que Rico*  
  - Mediterranean Chicken @ *Create-A-Bowl*  
  - Chicken Dumpling Soup @ *Great Greens*  
@@ -203,10 +146,6 @@ In name:
 **portabella**  
 In name:   
  - Portabella Mediterranean @ *Global*  
-  
-**Tilapia**  
-In name:   
- - Baked Tilapia w/Dill Wine Sauce @ *Carson's 1849*  
   
 **watermelon**  
 In name:   
@@ -239,22 +178,4 @@ In description:
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-03-17)  
-**lamb**  
-In name:   
- - Leg of Lamb @ *Lowell Market*  
-  
-**beef**  
-In name:   
- - Beef & Chicken Meatballs @ *Lowell Market*  
-  
-**pork**  
-In name:   
- - Italian Pork Sausage @ *Lowell Market*  
-  
-**chicken**  
-In name:   
- - Beef & Chicken Meatballs @ *Lowell Market*  
- - Chicken Biryani Entree @ *Lowell Market*  
- - Diced Chicken Breast @ *Lowell Market*  
-  
   

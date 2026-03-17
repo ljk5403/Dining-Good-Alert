@@ -1,6 +1,6 @@
 # 2026-03-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-17 02:03:21  
+Updated at: 2026-03-17 09:55:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-17)  
 **portabella**  
 In name:   
@@ -148,7 +148,6 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
- - Plant Based Protein Chicken Taco Filling @ *Gordon Que Rico*  
  - Chicken Dumpling Soup @ *Great Greens*  
   
 In description:   
@@ -178,7 +177,6 @@ In description:
   
 **pork**  
 In name:   
- - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
@@ -187,6 +185,7 @@ In description:
 In name:   
  - Chicken Creole @ *1849*  
  - Italian Chicken @ *Global Kitchen*  
+ - Chicken Tinga @ *Que Rico*  
  - Mediterranean Chicken @ *Create-A-Bowl*  
  - Chicken Dumpling Soup @ *Great Greens*  
   
