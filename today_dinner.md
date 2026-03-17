@@ -1,11 +1,7 @@
 # 2026-03-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-17 15:38:24  
+Updated at: 2026-03-17 16:37:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-17)  
-**Salmon**  
-In name:   
- - Oven Roasted Salmon @ *Global Kitchen*  
-  
 **lamb**  
 In name:   
   
