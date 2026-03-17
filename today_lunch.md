@@ -1,14 +1,10 @@
 # 2026-03-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-17 12:57:12  
+Updated at: 2026-03-17 14:08:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-17)  
 **portabella**  
 In name:   
  - Banh Mi w/ Portabella Mushrooms @ *Fired Up*  
-  
-**Samosas**  
-In name:   
- - Samosas @ *Global Kitchen*  
   
 **Shrimp**  
 In name:   
@@ -26,10 +22,12 @@ In name:
   
 **curry**  
 In name:   
+ - Beef Bombay Curry @ *Global Kitchen*  
  - Indian Vegetable Curry @ *Global Kitchen*  
   
 **beef**  
 In name:   
+ - Beef Bombay Curry @ *Global Kitchen*  
  - Mediterranean Beef @ *Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Roast Beef @ *Delicious*  
@@ -52,7 +50,6 @@ In description:
 **chicken**  
 In name:   
  - Jamaican Jerk Chicken @ *1849*  
- - Butter Chicken @ *Global Kitchen*  
  - Mediterranean Chicken @ *Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
