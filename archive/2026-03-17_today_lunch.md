@@ -1,6 +1,6 @@
 # 2026-03-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-18 13:03:48  
+Updated at: 2026-03-18 15:35:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-18)  
 **beef**  
 In name:   
@@ -34,6 +34,12 @@ In name:
 In name:   
  - Samosas @ *Global Kitchen*  
   
+**drumstick**  
+In name:   
+  
+In description:   
+ - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
+  
 **curry**  
 In name:   
  - Curry Cauliflower & Butternut Squash @ *Global Kitchen*  
@@ -44,14 +50,14 @@ In description:
   
 **beef**  
 In name:   
- - Beef Harissa @ *1849*  
+ - Mediterranean Beef @ *1849*  
  - Beef Chili @ *Great Greens*  
   
 **chicken**  
 In name:   
  - Chicken Tikka Masala @ *Global Kitchen*  
+ - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
  - Plant Based Sweet & Sour Chicken @ *1849*  
- - Sumac Chicken @ *1849*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-03-18)  
 **Tilapia**  
@@ -88,6 +94,7 @@ In name:
  - Broasted Chicken @ *1849*  
  - Chicken Gravy @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Breaded Chicken Tenders @ *Gordon Fired Up*  
  - Orange Sweet & Spicy Chicken @ *Gordon Global Kitchen*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
   
@@ -147,7 +154,6 @@ In description:
   
 **pork**  
 In name:   
- - Ancho Braised Pork @ *Carson's 1849:  Available Between 11am-2pm*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza:  Available Between 11am-4pm*  
  - Pork Sausage in Country Gravy @ *Eggcetera:  Available Between 11am-2pm*  
   
@@ -156,10 +162,10 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Tinga @ *Carson's 1849:  Available Between 11am-2pm*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera:  Available Between 11am-2pm*  
   
 In description:   
- - Ancho Braised Pork @ *Carson's 1849:  Available Between 11am-2pm*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza:  Available Between 11am-4pm*  
  - Italian Meatball Sandwich @ *Fired Up:  Available Between 11am-2pm*  
   

@@ -1,6 +1,6 @@
 # 2026-03-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-18 13:03:52  
+Updated at: 2026-03-18 15:35:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-18)  
 **steak**  
 In name:   
@@ -118,8 +118,7 @@ In name:
  - Beef Chili @ *Great Greens*  
   
 In description:   
- - Vegan Sloppy Joe @ *Fired Up*  
- - Sloppy Joe @ *Fired Up*  
+ - Grilled Cheeseburger @ *Fired Up*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
