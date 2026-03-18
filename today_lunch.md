@@ -1,6 +1,6 @@
 # 2026-03-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-17 18:31:56  
+Updated at: 2026-03-17 21:08:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-17)  
 **portabella**  
 In name:   
@@ -167,6 +167,7 @@ In name:
 In name:   
  - Beef Taco Meat @ *Que Rico*  
  - Mediterranean Beef @ *Create-A-Bowl*  
+ - Beef Chili @ *Great Greens*  
   
 In description:   
  - Grilled Blended Burger w/ Cheese @ *Fired Up*  
@@ -184,7 +185,6 @@ In name:
  - Italian Chicken @ *Global Kitchen*  
  - Chicken Tinga @ *Que Rico*  
  - Mediterranean Chicken @ *Create-A-Bowl*  
- - Chicken Dumpling Soup @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-03-17)  
 **watermelon**  

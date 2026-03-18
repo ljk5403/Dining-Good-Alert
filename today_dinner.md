@@ -1,6 +1,6 @@
 # 2026-03-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-17 18:31:58  
+Updated at: 2026-03-17 21:09:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-17)  
 **lamb**  
 In name:   
@@ -64,6 +64,10 @@ In name:
 In name:   
  - FiIipino Pork Spring Roll @ *Gordon Eggcetera*  
   
+**drumstick**  
+In name:   
+ - Chicken Drumstick Mango Habanero @ *1849*  
+  
 **steak**  
 In name:   
  - Beef Steak Fajita Plate w/Rice & Beans @ *Gordon Que Rico*  
@@ -92,13 +96,13 @@ In description:
   
 **pork**  
 In name:   
- - BBQ Pork Chop @ *1849*  
  - Pizza Slice Deluxe (Pork) @ *Gordon Capital City Pizza*  
  - Filipino Pork Sausage @ *Gordon Eggcetera*  
  - FiIipino Pork Spring Roll @ *Gordon Eggcetera*  
   
 **chicken**  
 In name:   
+ - Chicken Drumstick Mango Habanero @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Chicken Fajitas w/Rice & Beans @ *Gordon Que Rico*  
@@ -118,7 +122,9 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Goulash @ *Global Kitchen*  
  - Mediterranean Beef @ *Create-A-Bowl*  
+ - Beef Chili @ *Great Greens*  
   
 In description:   
  - Pork Bratwurst Sandwich @ *Fired Up*  
@@ -136,7 +142,6 @@ In name:
  - Italian Chicken @ *Global Kitchen*  
  - Chicken Mole w/ Rice @ *Que Rico*  
  - Mediterranean Chicken @ *Create-A-Bowl*  
- - Chicken Dumpling Soup @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-03-17)  
 **portabella**  

@@ -1,6 +1,6 @@
 # 2026-03-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-17 17:32:22  
+Updated at: 2026-03-17 18:31:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-17)  
 **lamb**  
 In name:   
@@ -167,7 +167,7 @@ In description:
 **chicken**  
 In name:   
  - Mediterranean Chicken @ *Global*  
- - Chicken Dumpling Soup @ *Great Greens*  
+ - Chicken Chili @ *Great Greens*  
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
