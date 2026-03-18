@@ -1,6 +1,6 @@
 # 2026-03-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-18 16:33:32  
+Updated at: 2026-03-18 17:31:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-18)  
 **steak**  
 In name:   
@@ -52,11 +52,13 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Enchilada Bake @ *1849*  
  - Beef Chili @ *Great Greens*  
   
 **chicken**  
 In name:   
  - Greek Chicken @ *1849*  
+ - Chicken Basque Style @ *1849*  
  - Butter Chicken @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-03-18)  
