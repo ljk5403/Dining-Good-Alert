@@ -1,6 +1,6 @@
 # 2026-03-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-19 12:54:01  
+Updated at: 2026-03-19 13:57:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-19)  
 **steak**  
 In name:   
@@ -27,7 +27,6 @@ In description:
   
 **pork**  
 In name:   
- - Apple Cider Braised Pork @ *1849*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
@@ -37,6 +36,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Jamaican Jerk Chicken @ *1849*  
  - Mediterranean Chicken @ *Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
@@ -44,7 +44,6 @@ In name:
  - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
- - Apple Cider Braised Pork @ *1849*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-03-19)  
