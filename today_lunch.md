@@ -1,6 +1,6 @@
 # 2026-03-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-19 17:28:04  
+Updated at: 2026-03-19 18:29:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-19)  
 **steak**  
 In name:   
@@ -79,10 +79,6 @@ In name:
 In name:   
  - Fried Popcorn Shrimp @ *1849*  
   
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
-  
 **curry**  
 In name:   
  - Thai Veggie Meatballs w/ Green Curry @ *1849*  
@@ -110,6 +106,7 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pizza Slice Chicken Broccoli Alfredo @ *Gordon Capital City Pizza*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
+ - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
  - Chicken Noodle Soup @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-03-19)  
