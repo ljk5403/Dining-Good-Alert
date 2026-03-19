@@ -1,6 +1,6 @@
 # 2026-03-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-19 15:36:52  
+Updated at: 2026-03-19 16:35:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-19)  
 **drumstick**  
 In name:   
@@ -18,9 +18,6 @@ In name:
  - Mediterranean Beef @ *Que Rico*  
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
-  
-In description:   
- - Italian Meat Sauce @ *Buona Cucina*  
   
 **pork**  
 In name:   
@@ -78,6 +75,7 @@ In description:
 **pork**  
 In name:   
  - Herb Crusted Pork Loin @ *1849*  
+ - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Baked Corn Dog (Pork) @ *Fired Up*  
   
 In description:   
@@ -87,7 +85,6 @@ In description:
 In name:   
  - Blackened Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Mediterranean Chicken @ *Gordon Buona Cucina*  
  - Pizza Slice Chicken Broccoli Alfredo @ *Gordon Capital City Pizza*  
  - Chicken Noodle Soup @ *Great Greens*  
   
