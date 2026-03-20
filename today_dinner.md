@@ -1,6 +1,6 @@
 # 2026-03-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-19 18:29:16  
+Updated at: 2026-03-19 21:03:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-19)  
 **drumstick**  
 In name:   
@@ -170,7 +170,7 @@ In description:
 In name:   
  - Chicken Tenders Breaded @ *Carson's 1849*  
  - Plant-Based Chicken Tenders @ *Carson's 1849*  
- - Chicken Noodle Soup @ *Great Greens*  
+ - Chicken Chili @ *Great Greens*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
@@ -180,9 +180,7 @@ In description:
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-03-19)  
 **beef**  
 In name:   
-  
-In description:   
- - Korean BBQ Lettuce Wraps @ *Lowell Market*  
+ - Beef Barbacoa @ *Lowell Market*  
   
 **pork**  
 In name:   

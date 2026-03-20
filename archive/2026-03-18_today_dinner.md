@@ -1,6 +1,6 @@
 # 2026-03-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-19 17:28:06  
+Updated at: 2026-03-19 18:29:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-19)  
 **drumstick**  
 In name:   
@@ -58,10 +58,6 @@ In name:
  - Portabella Mushroom Bulgogi Tacos @ *Gordon Global Kitchen*  
  - Beef Bulgogi Tacos @ *Gordon Global Kitchen*  
   
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
@@ -86,6 +82,7 @@ In name:
  - Blackened Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pizza Slice Chicken Broccoli Alfredo @ *Gordon Capital City Pizza*  
+ - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
  - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
