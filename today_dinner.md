@@ -1,6 +1,6 @@
 # 2026-03-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-20 16:30:02  
+Updated at: 2026-03-20 17:28:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-20)  
 **Bibimbap Bowl**  
 In name:   
@@ -152,10 +152,6 @@ In description:
 **Poke Bar**  
 In name:   
  - Build Your Own Poke Bar @ *Create-A-Bowl*  
-  
-**Salmon**  
-In name:   
- - Blackened Salmon @ *1849*  
   
 **Tilapia**  
 In name:   
