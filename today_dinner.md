@@ -1,6 +1,6 @@
 # 2026-03-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-20 15:32:14  
+Updated at: 2026-03-20 16:30:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-20)  
 **Bibimbap Bowl**  
 In name:   
@@ -175,7 +175,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef @ *Global Kitchen*  
   
 In description:   
  - Sausage (Pork) & Pepperoni Pizza Slice @ *Que Rico*  
@@ -187,6 +186,7 @@ In name:
  - Sausage (Pork) & Pepperoni Pizza Slice @ *Que Rico*  
   
 In description:   
+ - Andouille Sausage @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
