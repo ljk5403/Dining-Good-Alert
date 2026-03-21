@@ -1,6 +1,6 @@
 # 2026-03-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-21 01:42:13  
+Updated at: 2026-03-21 09:26:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-21)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-03-21)  
 **pork**  
@@ -24,9 +24,9 @@ In name:
 In description:   
  - Vegan French Dip Sandwich @ *Gordon Fired Up*  
   
-**Shrimp**  
+**Tilapia**  
 In name:   
- - Coconut Shrimp @ *1849*  
+ - Blackened Tilapia @ *1849*  
   
 **lamb**  
 In name:   
