@@ -1,15 +1,11 @@
 # 2026-03-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-20 18:27:58  
+Updated at: 2026-03-20 20:58:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-20)  
 **Bibimbap Bowl**  
 In name:   
  - Bibimbap Bowl @ *Global Kitchen*  
  - Bibimbap Bowl  Veggies @ *Global Kitchen*  
-  
-**Flauta**  
-In name:   
- - Chicken and Cheese Flauta @ *Que Rico*  
   
 **Shrimp**  
 In name:   
@@ -30,6 +26,7 @@ In name:
 **beef**  
 In name:   
  - Bibimbap Beef @ *Global Kitchen*  
+ - Beef & Cilantro Empanada @ *Que Rico*  
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
@@ -49,7 +46,6 @@ In description:
 **chicken**  
 In name:   
  - Diced Chicken Breast @ *Buona Cucina*  
- - Chicken and Cheese Flauta @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-03-20)  
@@ -89,7 +85,6 @@ In name:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-03-20)  
 **Flauta**  
 In name:   
- - Shredded Beef Flauta @ *Gordon Que Rico*  
  - Chicken and Cheese Flauta @ *Gordon Que Rico*  
   
 **Shrimp**  
@@ -130,7 +125,6 @@ In description:
 In name:   
  - Texas BBQ Sliced Beef Brisket @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Shredded Beef Flauta @ *Gordon Que Rico*  
   
 In description:   
  - Chili Bar @ *Gordon Eggcetera*  
@@ -145,17 +139,16 @@ In name:
  - Tikka Masala Chicken @ *Gordon Global Kitchen*  
  - Chicken and Cheese Flauta @ *Gordon Que Rico*  
   
-In description:   
- - Shredded Beef Flauta @ *Gordon Que Rico*  
-  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-03-20)  
 **Poke Bar**  
 In name:   
  - Build Your Own Poke Bar @ *Create-A-Bowl*  
   
-**Tilapia**  
+**drumstick**  
 In name:   
- - Tilapia Chipotle Lime Crusted @ *1849*  
+  
+In description:   
+ - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
   
 **clam**  
 In name:   
@@ -187,6 +180,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
   
 In description:   
  - Sausage (Pork) & Pepperoni Pizza Slice @ *Que Rico*  
