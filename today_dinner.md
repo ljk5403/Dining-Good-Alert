@@ -1,6 +1,6 @@
 # 2026-03-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-21 16:24:52  
+Updated at: 2026-03-21 17:24:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-21)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-03-21)  
 **steak**  
@@ -88,7 +88,7 @@ In name:
  - Plant-Based Chicken Nuggets (6) @ *Fired Up*  
  - Giardiniera Chicken @ *Global Kitchen*  
  - General Tso's Chicken @ *1849*  
- - Chicken Tinga @ *Que Rico*  
+ - Taco Chicken @ *Que Rico*  
   
 In description:   
  - Kale, Sausage & Potato Soup @ *Great Greens*  
