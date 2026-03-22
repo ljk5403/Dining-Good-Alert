@@ -1,6 +1,6 @@
 # 2026-03-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-22 11:30:05  
+Updated at: 2026-03-22 12:24:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-22)  
 **beef**  
 In name:   
@@ -73,10 +73,6 @@ In description:
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-03-22)  
-**steak**  
-In name:   
- - Ham Steak @ *1849*  
-  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
@@ -91,11 +87,11 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Sausage Links @ *1849*  
  - Pork Carnita @ *Que Rico*  
  - Pork Sausage Patty @ *Create-A-Bowl*  
   
 In description:   
- - Ham Steak @ *1849*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
