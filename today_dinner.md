@@ -1,6 +1,6 @@
 # 2026-03-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-22 10:26:08  
+Updated at: 2026-03-22 11:30:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-22)  
 **curry**  
 In name:   
@@ -66,6 +66,7 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Giardiniera Chicken @ *Gordon Buona Cucina*  
  - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
+ - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
   
 In description:   
