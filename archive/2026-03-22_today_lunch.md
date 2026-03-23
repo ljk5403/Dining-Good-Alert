@@ -1,6 +1,6 @@
 # 2026-03-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-23 09:55:10  
+Updated at: 2026-03-23 10:58:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-23)  
 **Tuna**  
 In name:   
@@ -14,6 +14,7 @@ In name:
   
 In description:   
  - Kielbasa with Pierogis @ *1849*  
+ - Deli @ *Delicious*  
   
 **pork**  
 In name:   
@@ -25,8 +26,7 @@ In name:
 In description:   
  - Kielbasa with Pierogis @ *1849*  
  - Pizza Slice Sausage @ *Capital City Pizza*  
- - Bacon Slice @ *Delicious*  
- - Smoked Ham @ *Delicious*  
+ - Deli @ *Delicious*  
  - Bacon @ *Delicious*  
   
 **chicken**  
@@ -153,7 +153,6 @@ In name:
   
 In description:   
  - Grilled Turkey Bacon Club Sandwich @ *Fired Up*  
- - BYO Bar - Carson Street Taco @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
@@ -162,9 +161,6 @@ In name:
  - Butter Chicken @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
-  
-In description:   
- - BYO Bar - Carson Street Taco @ *Global Kitchen*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-03-23)  
 **steak**  

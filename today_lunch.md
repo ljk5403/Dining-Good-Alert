@@ -1,6 +1,6 @@
 # 2026-03-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-23 10:58:45  
+Updated at: 2026-03-23 12:02:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-23)  
 **Tuna**  
 In name:   
@@ -197,7 +197,6 @@ In description:
 **chicken**  
 In name:   
  - Chicken Quesadilla @ *Carson's 1849:  Available Between 11am-2pm*  
- - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera:  Available Between 11am-2pm*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
