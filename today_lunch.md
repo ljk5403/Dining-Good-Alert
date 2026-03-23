@@ -1,6 +1,6 @@
 # 2026-03-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-23 12:02:49  
+Updated at: 2026-03-23 13:54:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-23)  
 **Tuna**  
 In name:   
@@ -13,7 +13,6 @@ In name:
  - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
- - Kielbasa with Pierogis @ *1849*  
  - Deli @ *Delicious*  
   
 **pork**  
@@ -24,7 +23,6 @@ In name:
  - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
- - Kielbasa with Pierogis @ *1849*  
  - Pizza Slice Sausage @ *Capital City Pizza*  
  - Deli @ *Delicious*  
  - Bacon @ *Delicious*  
@@ -120,9 +118,9 @@ In name:
 In description:   
  - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
   
-**Salmon**  
+**steak**  
 In name:   
- - Smoked Salmon @ *1849*  
+ - Grilled Flank Steak @ *1849*  
   
 **fish**  
 In name:   
@@ -145,6 +143,7 @@ In name:
 In name:   
   
 In description:   
+ - Grilled Flank Steak @ *1849*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
