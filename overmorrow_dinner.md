@@ -1,6 +1,6 @@
 # 2026-03-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-23 09:55:46  
+Updated at: 2026-03-23 10:59:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-25)  
 **portabella**  
 In name:   
@@ -48,8 +48,6 @@ In name:
  - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
- - Bacon Slice @ *Delicious*  
- - Smoked Ham @ *Delicious*  
  - Bacon @ *Delicious*  
   
 **chicken**  

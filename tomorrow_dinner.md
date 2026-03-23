@@ -1,6 +1,6 @@
 # 2026-03-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-23 09:55:33  
+Updated at: 2026-03-23 10:59:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-24)  
 **portabella**  
 In name:   
@@ -39,8 +39,6 @@ In name:
   
 In description:   
  - Cocktail Wieners & BBQ Sauce @ *Fired Up*  
- - Bacon Slice @ *Delicious*  
- - Smoked Ham @ *Delicious*  
  - Bacon @ *Delicious*  
   
 **chicken**  

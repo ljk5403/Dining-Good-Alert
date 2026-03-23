@@ -1,6 +1,6 @@
 # 2026-03-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-23 09:55:20  
+Updated at: 2026-03-23 10:58:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-23)  
 **Shrimp**  
 In name:   
@@ -21,6 +21,9 @@ In name:
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
+In description:   
+ - Deli @ *Delicious*  
+  
 **pork**  
 In name:   
  - Biscuits & Pork Gravy @ *1849*  
@@ -30,8 +33,7 @@ In name:
   
 In description:   
  - Pizza Slice Sausage @ *Capital City Pizza*  
- - Bacon Slice @ *Delicious*  
- - Smoked Ham @ *Delicious*  
+ - Deli @ *Delicious*  
  - Bacon @ *Delicious*  
   
 **chicken**  
