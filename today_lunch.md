@@ -1,6 +1,6 @@
 # 2026-03-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-23 02:09:38  
+Updated at: 2026-03-23 09:55:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-23)  
 **Tuna**  
 In name:   
@@ -131,6 +131,10 @@ In description:
  - California Roll  (FujiSan) @ *Create-A-Bowl*  
  - Tempura Roll (FujiSan) @ *Create-A-Bowl*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **curry**  
 In name:   
  - Seitan & Coconut Thai Curry @ *1849*  
@@ -149,15 +153,18 @@ In name:
   
 In description:   
  - Grilled Turkey Bacon Club Sandwich @ *Fired Up*  
+ - BYO Bar - Carson Street Taco @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
 In name:   
  - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
  - Butter Chicken @ *Que Rico*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
+  
+In description:   
+ - BYO Bar - Carson Street Taco @ *Global Kitchen*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-03-23)  
 **steak**  
