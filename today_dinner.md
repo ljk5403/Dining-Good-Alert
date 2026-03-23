@@ -1,6 +1,6 @@
 # 2026-03-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-22 18:27:45  
+Updated at: 2026-03-22 21:11:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-22)  
 **curry**  
 In name:   
@@ -15,12 +15,12 @@ In name:
  - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
+ - Burnt Ends @ *1849*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Vegan Taco Filling @ *Que Rico*  
   
 **pork**  
 In name:   
- - Boneless Baked Pork Ham @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
  - Pork Carnita @ *Que Rico*  
  - Pork & Beef Hard Salami @ *Delicious*  
@@ -55,7 +55,6 @@ In description:
   
 **pork**  
 In name:   
- - Biscuits & Pork Gravy @ *1849*  
  - Pork Carnita @ *Gordon Que Rico*  
   
 In description:   
@@ -97,13 +96,12 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Polish Combo Blended Cheeseburger (Pork) @ *Fired Up*  
+ - Grilled Cheeseburger @ *Fired Up*  
  - Brazilian Flank Steak @ *1849*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
 In name:   
- - Polish Combo Blended Cheeseburger (Pork) @ *Fired Up*  
  - Pork Carnita @ *Que Rico*  
   
 In description:   
