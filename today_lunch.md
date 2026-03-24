@@ -1,6 +1,6 @@
 # 2026-03-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-24 12:55:22  
+Updated at: 2026-03-24 14:02:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-24)  
 **portabella**  
 In name:   
@@ -135,9 +135,9 @@ In description:
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-03-24)  
-**broccoli rabe**  
+**Cod**  
 In name:   
- - Broccoli Rabe @ *1849*  
+ - Baked Lemon Butter Cod @ *1849*  
   
 **watermelon**  
 In name:   
@@ -145,7 +145,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Harissa @ *1849*  
  - Beef Taco Meat @ *Que Rico*  
  - Mediterranean Beef @ *Create-A-Bowl*  
   
