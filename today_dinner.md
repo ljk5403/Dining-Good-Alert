@@ -1,6 +1,6 @@
 # 2026-03-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-24 15:40:34  
+Updated at: 2026-03-24 16:37:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-24)  
 **portabella**  
 In name:   
@@ -28,14 +28,10 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
- - Cocktail Wieners & BBQ Sauce @ *Fired Up*  
   
 **pork**  
 In name:   
  - Southern Style Pork Spare Ribs @ *1849*  
-  
-In description:   
- - Cocktail Wieners & BBQ Sauce @ *Fired Up*  
   
 **chicken**  
 In name:   
@@ -50,7 +46,6 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
- - Cocktail Wieners & BBQ Sauce @ *Fired Up*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-03-24)  
 **Salmon**  
@@ -100,6 +95,7 @@ In name:
 **Bulgogi**  
 In name:   
  - Beef Bulgogi Taco @ *Gordon Eggcetera*  
+ - Nachos Bulgogi Station @ *Gordon Eggcetera*  
  - Portabella Mushroom Bulgogi Taco @ *Gordon Eggcetera*  
   
 **drumstick**  
