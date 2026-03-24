@@ -1,6 +1,6 @@
 # 2026-03-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-24 14:02:59  
+Updated at: 2026-03-24 15:40:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-25)  
 **Tuna**  
 In name:   
@@ -11,8 +11,6 @@ In name:
  - Beef Broccoli Stir Fry w/Teriyaki Sauce @ *Global Kitchen*  
  - Plant-Based Beef & Broccoli Stir Fry @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
  - Beef Chili @ *Great Greens*  
   
 In description:   
@@ -24,10 +22,6 @@ In name:
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
  - Pork Carnita @ *Que Rico*  
  - Italian Pork Sausage @ *Buona Cucina*  
- - Pork & Beef Hard Salami @ *Delicious*  
-  
-In description:   
- - Bacon @ *Delicious*  
   
 **chicken**  
 In name:   

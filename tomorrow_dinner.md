@@ -1,6 +1,6 @@
 # 2026-03-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-24 14:03:03  
+Updated at: 2026-03-24 15:40:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-25)  
 **portabella**  
 In name:   
@@ -28,8 +28,6 @@ In name:
   
 **beef**  
 In name:   
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
  - Beef Chili @ *Great Greens*  
   
 In description:   
@@ -45,10 +43,6 @@ In name:
  - Filipino Pork Sausage @ *Global Kitchen*  
  - FiIipino Pork Spring Roll @ *Global Kitchen*  
  - Ancho Pork Rice Bowl @ *Que Rico*  
- - Pork & Beef Hard Salami @ *Delicious*  
-  
-In description:   
- - Bacon @ *Delicious*  
   
 **chicken**  
 In name:   

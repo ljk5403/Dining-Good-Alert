@@ -1,6 +1,6 @@
 # 2026-03-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-24 14:02:54  
+Updated at: 2026-03-24 15:40:34  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-24)  
 **portabella**  
 In name:   
@@ -25,8 +25,6 @@ In description:
 In name:   
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Beef Mediterranean @ *Que Rico*  
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
@@ -35,11 +33,9 @@ In description:
 **pork**  
 In name:   
  - Southern Style Pork Spare Ribs @ *1849*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Cocktail Wieners & BBQ Sauce @ *Fired Up*  
- - Bacon @ *Delicious*  
   
 **chicken**  
 In name:   
