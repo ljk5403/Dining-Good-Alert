@@ -1,11 +1,7 @@
 # 2026-03-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-24 16:37:29  
+Updated at: 2026-03-24 17:31:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-24)  
-**portabella**  
-In name:   
- - Portabella Mushroom Ravioli Plain @ *Buona Cucina*  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
@@ -90,13 +86,13 @@ In description:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-03-24)  
 **portabella**  
 In name:   
- - Portabella Mushroom Bulgogi Taco @ *Gordon Eggcetera*  
+ - Bulgogi Portabella Mushrooms @ *Gordon Eggcetera*  
   
 **Bulgogi**  
 In name:   
- - Beef Bulgogi Taco @ *Gordon Eggcetera*  
+ - Bulgogi Beef @ *Gordon Eggcetera*  
+ - Bulgogi Portabella Mushrooms @ *Gordon Eggcetera*  
  - Nachos Bulgogi Station @ *Gordon Eggcetera*  
- - Portabella Mushroom Bulgogi Taco @ *Gordon Eggcetera*  
   
 **drumstick**  
 In name:   
@@ -122,7 +118,7 @@ In name:
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Lomo Saltado w/ Beef @ *Gordon Global Kitchen*  
- - Beef Bulgogi Taco @ *Gordon Eggcetera*  
+ - Bulgogi Beef @ *Gordon Eggcetera*  
  - Lamb & Beef Gyro Sandwich @ *Fired Up*  
   
 In description:   
