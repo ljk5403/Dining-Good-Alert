@@ -1,6 +1,6 @@
 # 2026-03-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-23 18:31:39  
+Updated at: 2026-03-23 21:03:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-23)  
 **Shrimp**  
 In name:   
@@ -9,10 +9,6 @@ In name:
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
-  
-**Chicken Tamale with Oaxaca**  
-In name:   
- - Chicken Tamale with Oaxaca @ *Que Rico*  
   
 **beef**  
 In name:   
@@ -38,7 +34,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Tamale with Oaxaca @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
@@ -75,6 +70,10 @@ In name:
 In description:   
  - Portobello Mushroom Stroganoff @ *1849*  
   
+**Flauta**  
+In name:   
+ - Chicken and Cheese Flauta @ *Gordon Que Rico*  
+  
 **steak**  
 In name:   
  - Pizza Slice Philly Cheesesteak @ *Gordon Capital City Pizza*  
@@ -99,7 +98,6 @@ In description:
 In name:   
  - Beef Goulash w/Egg Noodles @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Empanada Beef Picadillo @ *Gordon Que Rico*  
  - Beef Tri Tip Spicy @ *Gordon Eggcetera*  
   
 In description:   
@@ -115,12 +113,12 @@ In name:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Chicken and Cheese Flauta @ *Gordon Que Rico*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 In description:   
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
- - Empanada Beef Picadillo @ *Gordon Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-03-23)  
 **portabella**  
