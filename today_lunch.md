@@ -1,6 +1,6 @@
 # 2026-03-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-25 02:01:36  
+Updated at: 2026-03-25 09:58:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-25)  
 **Tuna**  
 In name:   
@@ -98,6 +98,9 @@ In name:
  - Gluten Free Pork Sausage Pizza Quarter @ *Gordon Capital City Pizza*  
  - Pork Carnita @ *Gordon Que Rico*  
   
+In description:   
+ - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
+  
 **chicken**  
 In name:   
  - Broasted Chicken @ *1849*  
@@ -112,6 +115,10 @@ In name:
 **portabella**  
 In name:   
  - Caribbean Portabella w/Rice @ *1849*  
+  
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
   
 **beef**  
 In name:   
@@ -134,7 +141,6 @@ In description:
 In name:   
  - Chicken Wings Boneless Plain @ *Que Rico*  
  - Plant-Based Chicken Nuggets (6) @ *Que Rico*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
   
 In description:   
@@ -154,7 +160,7 @@ In description:
 In name:   
  - Pork Chop Adobo (1) @ *Carson's 1849:  Available Between 11am-2pm*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza:  Available Between 11am-4pm*  
- - Pork Sausage in Country Gravy @ *Eggcetera:  Available Between 11am-2pm*  
+ - Pork Sausage Patty @ *Eggcetera:  Available Between 11am-2pm*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious:  Available Between 11am-4pm*  
@@ -163,7 +169,6 @@ In description:
 In name:   
  - Plant Based Sesame Chicken (AYCTE) (VN) @ *Global Kitchen:  Available Between 11am-2pm*  
  - Sesame Chicken @ *Global Kitchen:  Available Between 11am-2pm*  
- - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera:  Available Between 11am-2pm*  
  - Buffalo Chicken Sliders @ *Fired Up:  Available Between 11am-2pm*  
  - Diced Chicken @ *Great Greens*  
   
