@@ -1,6 +1,6 @@
 # 2026-03-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-25 12:57:51  
+Updated at: 2026-03-25 14:04:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-25)  
 **Tuna**  
 In name:   
@@ -26,6 +26,7 @@ In name:
 **chicken**  
 In name:   
  - Chicken Breast w/Balsamic BBQ Sauce @ *1849*  
+ - Honey Mustard Chicken & Vegetables @ *1849*  
  - Blackened Chicken Sandwich @ *Fired Up*  
  - Fajita Chicken @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
@@ -71,12 +72,13 @@ In description:
  - Rogan Josh @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-03-25)  
-**Salmon**  
+**catfish**  
 In name:   
- - Baked Salmon with Mustard Sauce @ *1849*  
+ - Island Spiced Catfish @ *1849*  
   
 **fish**  
 In name:   
+ - Island Spiced Catfish @ *1849*  
   
 In description:   
  - California Roll  (FujiSan) @ *Gordon Global Kitchen*  
@@ -108,7 +110,6 @@ In name:
  - Pizza Slice BBQ Chicken & Bacon @ *Gordon Capital City Pizza*  
  - Sweet & Sour Chicken @ *Gordon Global Kitchen*  
  - Plant Based Sweet & Sour Chicken @ *Gordon Global Kitchen*  
- - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
  - Diced Chicken @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-03-25)  
