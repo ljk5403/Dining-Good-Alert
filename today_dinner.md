@@ -1,6 +1,6 @@
 # 2026-03-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-24 18:31:57  
+Updated at: 2026-03-24 21:08:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-24)  
 **Tuna**  
 In name:   
@@ -14,9 +14,6 @@ In name:
 In name:   
  - Squash Curry @ *Global Kitchen*  
   
-In description:   
- - Chicken Korma @ *Global Kitchen*  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Buona Cucina*  
@@ -27,21 +24,22 @@ In description:
   
 **pork**  
 In name:   
- - Southern Style Pork Spare Ribs @ *1849*  
+ - Spicy Citrus Pork w/Black Beans & Rice @ *Global Kitchen*  
   
 **chicken**  
 In name:   
+ - Blackened Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
- - Crispy Chicken Sandwich @ *Fired Up*  
+ - Popcorn Chicken @ *Fired Up*  
  - VN Sand Chicken Paradise @ *Fired Up*  
- - Chicken Korma @ *Global Kitchen*  
  - Mediterranean Chicken @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Spicy Citrus Pork w/Black Beans & Rice @ *Global Kitchen*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-03-24)  
 **Salmon**  
@@ -94,18 +92,6 @@ In name:
  - Bulgogi Portabella Mushrooms @ *Gordon Eggcetera*  
  - Nachos Bulgogi Station @ *Gordon Eggcetera*  
   
-**drumstick**  
-In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
-  
-**steak**  
-In name:   
- - Steak Street Taco @ *Gordon Que Rico*  
-  
-**mahi mahi**  
-In name:   
- - Baked Mahi Mahi w/ Butter & Lemon @ *1849*  
-  
 **lamb**  
 In name:   
  - Lamb & Beef Gyro Sandwich @ *Fired Up*  
@@ -116,6 +102,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Sirloin Tips @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Lomo Saltado w/ Beef @ *Gordon Global Kitchen*  
  - Bulgogi Beef @ *Gordon Eggcetera*  
@@ -123,15 +110,15 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
- - Steak Street Taco @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
  - Green Beans w/ Pork Bacon @ *1849*  
+ - Pork Carnita @ *Gordon Que Rico*  
   
 **chicken**  
 In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
+ - Baked Chicken (2 piece) @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Pizza Slice Chicken Sriracha @ *Gordon Capital City Pizza*  
