@@ -1,6 +1,6 @@
 # 2026-03-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-26 02:08:05  
+Updated at: 2026-03-26 10:03:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-26)  
 **portabella**  
 In name:   
@@ -70,9 +70,9 @@ In name:
  - Chicken Noodle Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-03-26)  
-**Shrimp**  
+**squid**  
 In name:   
- - Shrimp with Bell Peppers @ *1849*  
+ - Squid Games Sugar Cookie @ *Buckingham Bakery*  
   
 **Tuna**  
 In name:   
@@ -80,8 +80,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Tri Tip Carved w/ Chimichurri @ *1849*  
- - Beef Gravy @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Mediterranean Beef @ *Gordon Global Kitchen*  
  - BBQ Beef Brisket Slider @ *Fired Up*  

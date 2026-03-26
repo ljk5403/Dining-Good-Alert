@@ -1,6 +1,6 @@
 # 2026-03-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-26 02:08:14  
+Updated at: 2026-03-26 10:03:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-28)  
 **beef**  
 In name:   
@@ -107,7 +107,6 @@ In name:
   
 In description:   
  - Chicago-Style Hot Dog @ *Fired Up*  
- - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
 In name:   
@@ -115,19 +114,12 @@ In name:
   
 In description:   
  - Ham Steak @ *Create-A-Bowl*  
- - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
- - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 **chicken**  
 In name:   
  - Giardiniera Chicken @ *Global Kitchen*  
  - Taco Chicken @ *Que Rico*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Create-A-Bowl*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
- - Diced Chicken @ *Great Greens*  
-  
-In description:   
- - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-03-28)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-03-28)  

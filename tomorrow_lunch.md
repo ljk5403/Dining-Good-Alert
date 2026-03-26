@@ -1,6 +1,6 @@
 # 2026-03-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-26 02:08:08  
+Updated at: 2026-03-26 10:03:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-27)  
 **portabella**  
 In name:   
@@ -168,14 +168,6 @@ In name:
 In name:   
  - Tilapia Piccata @ *1849*  
   
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
-  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
 **curry**  
 In name:   
  - Coconut Tofu w/Red Curry Sauce @ *1849*  
@@ -188,22 +180,16 @@ In description:
  - Sausage (Pork), Potatoes, & Peppers @ *1849*  
  - Pork Bratwurst Sandwich @ *Fired Up*  
  - Vegan Taco Filling @ *Que Rico*  
- - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
 In name:   
  - Sausage (Pork), Potatoes, & Peppers @ *1849*  
  - Pork Bratwurst Sandwich @ *Fired Up*  
   
-In description:   
- - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
-  
 **chicken**  
 In name:   
  - Crispy Chicken Sandwich @ *Fired Up*  
  - Italian Chicken @ *Global Kitchen*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
- - Diced Chicken @ *Great Greens*  
   
 In description:   
  - Tilapia Piccata @ *1849*  
