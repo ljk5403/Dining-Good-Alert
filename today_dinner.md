@@ -1,22 +1,14 @@
 # 2026-03-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-25 18:34:11  
+Updated at: 2026-03-25 21:22:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-25)  
 **portabella**  
 In name:   
  - Caribbean Portabella w/Rice @ *1849*  
   
-In description:   
- - Vegetable Cheesesteak Sandwich @ *Fired Up*  
-  
 **FiIipino Pork Spring Roll**  
 In name:   
  - FiIipino Pork Spring Roll @ *Global Kitchen*  
-  
-**steak**  
-In name:   
- - Philly Cheesesteak Sandwich @ *Fired Up*  
- - Vegetable Cheesesteak Sandwich @ *Fired Up*  
   
 **Tuna**  
 In name:   
@@ -33,7 +25,7 @@ In name:
 In description:   
  - Italian Meat Sauce @ *Buona Cucina*  
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
- - Philly Cheesesteak Sandwich @ *Fired Up*  
+ - Bratwurst @ *Fired Up*  
   
 **pork**  
 In name:   
@@ -44,9 +36,12 @@ In name:
  - FiIipino Pork Spring Roll @ *Global Kitchen*  
  - Ancho Pork Rice Bowl @ *Que Rico*  
   
+In description:   
+ - Bratwurst @ *Fired Up*  
+  
 **chicken**  
 In name:   
- - Teriyaki Chicken Fillet @ *1849*  
+ - Blackened Chicken @ *1849*  
  - Diced Chicken @ *Great Greens*  
   
 In description:   
@@ -54,10 +49,6 @@ In description:
  - Ancho Pork Rice Bowl @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-03-25)  
-**Tandoori Chicken**  
-In name:   
- - Tandoori Chicken @ *Global Kitchen*  
-  
 **Samosas**  
 In name:   
  - Samosas @ *Global Kitchen*  
@@ -83,9 +74,10 @@ In name:
   
 **chicken**  
 In name:   
+ - Chicken Tenders Breaded @ *1849*  
  - Chicken Drumstick BBQ Glazed @ *1849*  
  - Plant-Based Chicken Tenders @ *1849*  
- - Tandoori Chicken @ *Global Kitchen*  
+ - Chicken Biryani Entree @ *Global Kitchen*  
  - Diced Chicken @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-03-25)  
@@ -139,10 +131,6 @@ In name:
 In name:   
  - Tuna Salad @ *Delicious*  
   
-**BBQ Pork Sandwich**  
-In name:   
- - BBQ Pork Sandwich @ *Fired Up*  
-  
 **beef**  
 In name:   
  - Beef Chili @ *Great Greens*  
@@ -152,7 +140,6 @@ In description:
   
 **pork**  
 In name:   
- - BBQ Pork Sandwich @ *Fired Up*  
  - Baked Pork Ham @ *1849*  
   
 In description:   
@@ -160,9 +147,10 @@ In description:
   
 **chicken**  
 In name:   
+ - Crispy Chicken Sandwich @ *Fired Up*  
  - Chicken Stir-Fry Coconut Lime @ *Global Kitchen*  
  - Chicken Wings Boneless Plain @ *Que Rico*  
- - Plant-Based Chicken Nuggets (6) @ *Que Rico*  
+ - Plant-Based Chicken Tenders @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
   
 In description:   
