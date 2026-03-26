@@ -1,6 +1,6 @@
 # 2026-03-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-26 17:29:25  
+Updated at: 2026-03-26 18:31:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-26)  
 **portabella**  
 In name:   
@@ -123,13 +123,17 @@ In name:
 In name:   
  - Swiss Steak w/Brown Gravy @ *1849*  
   
+**clam**  
+In name:   
+ - Clam Chowder @ *Great Greens*  
+  
 **Filipino Pork Sausage**  
 In name:   
  - Filipino Pork Sausage @ *Que Rico*  
   
 **beef**  
 In name:   
- - Beef @ *Global Kitchen*  
+ - Beef Meatballs @ *Global Kitchen*  
  - Bulgogi Beef @ *Create-A-Bowl*  
   
 In description:   
@@ -154,7 +158,9 @@ In name:
  - Bulgogi Chicken @ *Create-A-Bowl*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Noodle Soup @ *Great Greens*  
+  
+In description:   
+ - Beef Meatballs @ *Global Kitchen*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-03-26)  
 **beef**  
