@@ -1,6 +1,6 @@
 # 2026-03-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-27 17:31:57  
+Updated at: 2026-03-27 18:32:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-27)  
 **catfish**  
 In name:   
@@ -18,6 +18,10 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**Filipino Pork Sausage**  
+In name:   
+ - Filipino Pork Sausage @ *Global Kitchen*  
+  
 **curry**  
 In name:   
  - Coconut Tofu w/Red Curry Sauce @ *Global Kitchen*  
@@ -32,6 +36,7 @@ In description:
 **pork**  
 In name:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
+ - Filipino Pork Sausage @ *Global Kitchen*  
   
 In description:   
  - Andouille Sausage @ *1849*  
@@ -41,7 +46,6 @@ In description:
 **chicken**  
 In name:   
  - Diced Chicken Breast @ *Buona Cucina*  
- - Chicken Vindaloo - w/ Rice @ *Global Kitchen*  
  - Chicken Mole w/ Rice @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
