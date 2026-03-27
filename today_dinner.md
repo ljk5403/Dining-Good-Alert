@@ -1,6 +1,6 @@
 # 2026-03-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-27 12:49:49  
+Updated at: 2026-03-27 13:55:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-27)  
 **duck**  
 In name:   
@@ -109,10 +109,6 @@ In name:
 In name:   
  - Sauteed Shrimp @ *Gordon Buona Cucina*  
   
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
-  
 **fish**  
 In name:   
  - Blackened Catfish @ *1849*  
@@ -126,6 +122,7 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef Barbacoa @ *Gordon Que Rico*  
+ - Beef Chili @ *Great Greens*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
