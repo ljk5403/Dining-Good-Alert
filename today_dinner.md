@@ -1,6 +1,6 @@
 # 2026-03-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-27 10:52:41  
+Updated at: 2026-03-27 11:54:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-27)  
 **duck**  
 In name:   
@@ -60,7 +60,7 @@ In description:
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-03-27)  
 **Cod**  
 In name:   
- - Cracker Crusted Cod w/ Lemon Sauce @ *1849*  
+ - Miso Cod @ *1849*  
   
 **clam**  
 In name:   
@@ -68,34 +68,34 @@ In name:
   
 **fish**  
 In name:   
- - Vegan Fish Sandwich @ *1849*  
+  
+In description:   
+ - Miso Cod @ *1849*  
   
 **watermelon**  
 In name:   
  - Melon Watermelon Whole Sliced @ *Great Greens*  
   
-**BBQ Pork Sandwich**  
-In name:   
- - Carolina BBQ Pork Sandwich @ *Global Kitchen*  
-  
 **beef**  
 In name:   
   
 In description:   
- - Burnt Ends @ *Global Kitchen*  
+ - Sausage (Pork) & Pepperoni Pizza Slice @ *Global Kitchen*  
   
 **pork**  
 In name:   
- - Carolina BBQ Pork Sandwich @ *Global Kitchen*  
+ - Sausage (Pork) & Pepperoni Pizza Slice @ *Global Kitchen*  
+ - Baked Rigatoni w/ Pork Italian Sausage @ *Global Kitchen*  
   
 **chicken**  
 In name:   
- - Chicken Honey Lime w/ rice @ *1849*  
+ - Chicken Biryani @ *1849*  
+ - Grilled Chicken Pesto Artichoke Sandwich @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
- - Cracker Crusted Cod w/ Lemon Sauce @ *1849*  
+ - Sausage (Pork) & Pepperoni Pizza Slice @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-03-27)  
 **Tandoori Chicken**  
