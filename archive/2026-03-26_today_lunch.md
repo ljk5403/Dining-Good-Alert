@@ -1,6 +1,6 @@
 # 2026-03-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-27 02:06:39  
+Updated at: 2026-03-27 09:49:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-27)  
 **portabella**  
 In name:   
@@ -115,25 +115,17 @@ In name:
 In name:   
  - Clam Chowder @ *Great Greens*  
   
-**fish**  
-In name:   
-  
-In description:   
- - Beef Masaman Thai Curry @ *Gordon Global Kitchen*  
-  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
 **curry**  
 In name:   
- - Beef Masaman Thai Curry @ *Gordon Global Kitchen*  
  - Coconut Tofu w/Red Curry Sauce @ *Gordon Global Kitchen*  
   
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Masaman Thai Curry @ *Gordon Global Kitchen*  
  - Beef Barbacoa @ *Gordon Que Rico*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
@@ -150,7 +142,7 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pizza Slice 16" Tandoori Chicken (AYCTE) @ *Gordon Capital City Pizza*  
  - Spicy Crispy Chicken Sandwich @ *Gordon Fired Up*  
- - Diced Chicken @ *Great Greens*  
+ - Greek Chicken @ *Gordon Global Kitchen*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
@@ -178,14 +170,11 @@ In name:
   
 In description:   
  - Sausage (Pork), Potatoes, & Peppers @ *1849*  
- - Pork Bratwurst Sandwich @ *Fired Up*  
- - Vegan Taco Filling @ *Que Rico*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
 In name:   
  - Sausage (Pork), Potatoes, & Peppers @ *1849*  
- - Pork Bratwurst Sandwich @ *Fired Up*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  

@@ -1,6 +1,6 @@
 # 2026-03-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-27 09:49:08  
+Updated at: 2026-03-27 10:52:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-27)  
 **portabella**  
 In name:   
@@ -201,6 +201,12 @@ In name:
 **beef**  
 In name:   
  - Texas BBQ Sliced Beef Brisket @ *Lowell Market*  
+  
+**pork**  
+In name:   
+  
+In description:   
+ - Grilled Ham & Cheese Sandwich on White @ *Lowell Market*  
   
 **chicken**  
 In name:   
