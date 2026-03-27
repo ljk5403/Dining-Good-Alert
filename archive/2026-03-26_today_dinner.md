@@ -1,6 +1,6 @@
 # 2026-03-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-27 13:55:11  
+Updated at: 2026-03-27 15:38:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-27)  
 **duck**  
 In name:   
@@ -126,13 +126,12 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
- - Baked Corn Dog (Pork) @ *Fired Up*  
+ - Grilled Blended Burger w/ Cheese @ *Fired Up*  
   
 **pork**  
 In name:   
  - French Market Pork Jambalaya @ *1849*  
  - Hawaiian (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
- - Baked Corn Dog (Pork) @ *Fired Up*  
   
 **chicken**  
 In name:   
@@ -142,7 +141,6 @@ In name:
 In description:   
  - French Market Pork Jambalaya @ *1849*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
- - Baked Corn Dog (Pork) @ *Fired Up*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-03-27)  
 **portabella**  

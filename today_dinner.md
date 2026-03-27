@@ -1,11 +1,7 @@
 # 2026-03-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-27 15:38:14  
+Updated at: 2026-03-27 16:33:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-27)  
-**duck**  
-In name:   
- - Duck Curry @ *Global Kitchen*  
-  
 **catfish**  
 In name:   
  - Blackened Catfish @ *1849*  
@@ -18,16 +14,12 @@ In name:
 In name:   
  - Blackened Catfish @ *1849*  
   
-In description:   
- - Duck Curry @ *Global Kitchen*  
-  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
 **curry**  
 In name:   
- - Duck Curry @ *Global Kitchen*  
  - Coconut Tofu w/Red Curry Sauce @ *Global Kitchen*  
   
 **beef**  
@@ -49,6 +41,7 @@ In description:
 **chicken**  
 In name:   
  - Diced Chicken Breast @ *Buona Cucina*  
+ - Chicken Vindaloo - w/ Rice @ *Global Kitchen*  
  - Chicken Mole w/ Rice @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
@@ -109,6 +102,10 @@ In name:
 In name:   
  - Sauteed Shrimp @ *Gordon Buona Cucina*  
   
+**Cod**  
+In name:   
+ - Baked Lemon Butter Cod @ *1849*  
+  
 **fish**  
 In name:   
  - Blackened Catfish @ *1849*  
@@ -116,6 +113,10 @@ In name:
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
+  
+**curry**  
+In name:   
+ - Coconut Tofu w/Red Curry Sauce @ *1849*  
   
 **beef**  
 In name:   
@@ -197,31 +198,17 @@ In name:
 In name:   
  - Ham Steak @ *Lowell Market*  
   
-**duck**  
+**Cod**  
 In name:   
- - Duck Curry @ *Lowell Market*  
+ - Caribbean Cod @ *Lowell Market*  
   
-**mahi mahi**  
+**beef**  
 In name:   
- - Baked Mahi Mahi w/ Butter & Lemon @ *Lowell Market*  
-  
-In description:   
- - Cajun Fish Tacos @ *Lowell Market*  
-  
-**fish**  
-In name:   
- - Cajun Fish Tacos @ *Lowell Market*  
-  
-In description:   
- - Duck Curry @ *Lowell Market*  
-  
-**curry**  
-In name:   
- - Duck Curry @ *Lowell Market*  
- - Black Eyed Pea Curry (AYCTE) @ *Lowell Market*  
+ - Texas BBQ Sliced Beef Brisket @ *Lowell Market*  
   
 **pork**  
 In name:   
+ - Pork Belly Char Sui @ *Lowell Market*  
   
 In description:   
  - Ham Steak @ *Lowell Market*  
