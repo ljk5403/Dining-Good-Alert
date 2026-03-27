@@ -1,6 +1,6 @@
 # 2026-03-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-26 18:31:47  
+Updated at: 2026-03-26 21:23:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-26)  
 **portabella**  
 In name:   
@@ -38,11 +38,11 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Adobo @ *1849*  
  - Loaded Potato Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
- - Chicken Piece Seasoned Baked @ *1849*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Mediterranean Chicken @ *Que Rico*  
@@ -56,7 +56,7 @@ In description:
 **beef**  
 In name:   
  - Beef Broccoli Stir Fry w/Teriyaki Sauce @ *1849*  
- - Sub - Beef Meat Ground Italian @ *Global Kitchen*  
+ - Beef & Chicken Meatballs @ *Global Kitchen*  
   
 **pork**  
 In name:   
@@ -65,6 +65,7 @@ In name:
 **chicken**  
 In name:   
  - Teriyaki Chicken Sandwich @ *1849*  
+ - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Giardiniera Chicken @ *Global Kitchen*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
@@ -74,12 +75,18 @@ In name:
 In name:   
  - Squid Games Sugar Cookie @ *Buckingham Bakery*  
   
+**Shrimp**  
+In name:   
+ - Shrimp with Bell Peppers @ *1849*  
+  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
   
 **beef**  
 In name:   
+ - Beef Tri Tip Carved w/ Chimichurri @ *1849*  
+ - Beef Gravy @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Mediterranean Beef @ *Gordon Global Kitchen*  
  - BBQ Beef Brisket Slider @ *Fired Up*  
@@ -194,15 +201,11 @@ In description:
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-03-26)  
 **Salmon**  
 In name:   
- - Za'atar Salmon @ *Lowell Market*  
+ - Oven Poached Salmon @ *Lowell Market*  
   
-**curry**  
+**pork**  
 In name:   
- - Thai Veggie Meatballs w/ Green Curry @ *Lowell Market*  
-  
-**beef**  
-In name:   
- - Beef Pot Roast @ *Lowell Market*  
+ - Pork Belly Char Sui @ *Lowell Market*  
   
 **chicken**  
 In name:   
