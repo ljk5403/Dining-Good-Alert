@@ -1,6 +1,6 @@
 # 2026-03-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-27 12:49:45  
+Updated at: 2026-03-27 13:55:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-27)  
 **portabella**  
 In name:   
@@ -105,10 +105,6 @@ In name:
 In name:   
  - Baked Lemon Butter Cod @ *1849*  
   
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
-  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -122,6 +118,7 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Barbacoa @ *Gordon Que Rico*  
  - Beef Taco Meat @ *Gordon Que Rico*  
+ - Beef Chili @ *Great Greens*  
   
 In description:   
  - Grilled Flank Steak @ *1849*  
@@ -137,7 +134,7 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pizza Slice 16" Tandoori Chicken (AYCTE) @ *Gordon Capital City Pizza*  
  - Spicy Crispy Chicken Sandwich @ *Gordon Fired Up*  
- - Greek Chicken @ *Gordon Global Kitchen*  
+ - Chicken Gyro @ *Gordon Global Kitchen*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
