@@ -1,6 +1,6 @@
 # 2026-03-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-27 11:54:51  
+Updated at: 2026-03-27 12:49:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-27)  
 **duck**  
 In name:   
@@ -89,7 +89,6 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken Biryani @ *1849*  
  - Grilled Chicken Pesto Artichoke Sandwich @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
