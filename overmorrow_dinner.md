@@ -1,6 +1,6 @@
 # 2026-03-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-28 01:58:21  
+Updated at: 2026-03-28 09:31:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-30)  
 **Salmon**  
 In name:   
@@ -48,65 +48,7 @@ In description:
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-03-30)  
-**Tuna**  
-In name:   
- - Tuna @ *Great Greens*  
- - Tuna Salad @ *Delicious*  
-  
-**pork**  
-In name:   
-  
-In description:   
- - Andouille Sausage @ *1849*  
-  
-**chicken**  
-In name:   
- - Popcorn Chicken @ *1849*  
- - Plant-Based Chicken Nuggets (6) @ *1849*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
-  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-03-30)  
-**portabella**  
-In name:   
-  
-In description:   
- - Vegan Mushroom Banh Mi Sandwich @ *Fired Up*  
-  
-**steak**  
-In name:   
- - Steak Street Taco @ *Gordon Que Rico*  
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
- - Tuna @ *Great Greens*  
-  
-**beef**  
-In name:   
- - Traditional Beef Shepard's Pie @ *1849*  
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
-  
-In description:   
- - Italian Meat Sauce @ *Gordon Buona Cucina*  
- - Pizza Slice - Bacon Cheeseburger @ *Gordon Capital City Pizza*  
- - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
- - Steak Street Taco @ *Gordon Que Rico*  
-  
-**pork**  
-In name:   
- - Italian Pork Sausage @ *Gordon Buona Cucina*  
- - Pork Banh Mi @ *Fired Up*  
-  
-**chicken**  
-In name:   
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - BYO - MTO Chicken Wrap - Gordon @ *Gordon Eggcetera*  
- - Build Your Own Chicken Wrap (Gordon) @ *Gordon Eggcetera*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
-  
-In description:   
- - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
-  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-03-30)  
 **Pakoras**  
 In name:   
