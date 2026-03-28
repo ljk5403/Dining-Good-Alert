@@ -1,6 +1,6 @@
 # 2026-03-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-27 18:32:12  
+Updated at: 2026-03-27 21:07:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-27)  
 **catfish**  
 In name:   
@@ -28,7 +28,6 @@ In name:
   
 **beef**  
 In name:   
- - Sliced BBQ Beef Brisket Sandwich @ *Fired Up*  
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
@@ -46,6 +45,7 @@ In description:
 **chicken**  
 In name:   
  - Diced Chicken Breast @ *Buona Cucina*  
+ - Spicy Crispy Chicken Sandwich @ *Fired Up*  
  - Chicken Mole w/ Rice @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
@@ -106,10 +106,6 @@ In name:
 In name:   
  - Sauteed Shrimp @ *Gordon Buona Cucina*  
   
-**Cod**  
-In name:   
- - Baked Lemon Butter Cod @ *1849*  
-  
 **fish**  
 In name:   
  - Blackened Catfish @ *1849*  
@@ -124,6 +120,7 @@ In name:
   
 **beef**  
 In name:   
+ - (Deli) BBQ Brisket Beef Sliced @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef Barbacoa @ *Gordon Que Rico*  
@@ -135,7 +132,6 @@ In description:
   
 **pork**  
 In name:   
- - French Market Pork Jambalaya @ *1849*  
  - Hawaiian (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
   
 **chicken**  
@@ -144,7 +140,6 @@ In name:
  - Pizza Slice 16" Tandoori Chicken (AYCTE) @ *Gordon Capital City Pizza*  
   
 In description:   
- - French Market Pork Jambalaya @ *1849*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-03-27)  
@@ -189,7 +184,7 @@ In description:
   
 **chicken**  
 In name:   
- - Grilled Chicken Sandwich @ *Fired Up*  
+ - Crispy Chicken Sandwich @ *Fired Up*  
  - Italian Chicken @ *Global Kitchen*  
  - Chicken Grilled Cordon Bleu (Pork) @ *1849*  
  - Chicken and Cheese Flauta @ *Que Rico*  
