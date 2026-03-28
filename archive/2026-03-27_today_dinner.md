@@ -1,6 +1,6 @@
 # 2026-03-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-28 10:31:42  
+Updated at: 2026-03-28 11:33:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-28)  
 **drumstick**  
 In name:   
@@ -44,6 +44,10 @@ In description:
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-03-28)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-03-28)  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-03-28)  
+**Shrimp**  
+In name:   
+ - Poke Shrimp @ *Great Greens*  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Global Kitchen*  
