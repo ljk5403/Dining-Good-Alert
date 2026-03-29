@@ -1,6 +1,6 @@
 # 2026-03-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-29 13:41:20  
+Updated at: 2026-03-29 15:32:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-29)  
 **beef**  
 In name:   
@@ -32,14 +32,13 @@ In description:
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-03-29)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-03-29)  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-03-29)  
-**Cod**  
+**mahi mahi**  
 In name:   
- - Cracker Crusted Cod w/ Lemon Sauce @ *1849*  
+ - Island Spiced Mahi Mahi @ *1849*  
   
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Global Kitchen*  
- - Beef & Tater Tot Bake @ *1849*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -48,6 +47,7 @@ In description:
   
 **pork**  
 In name:   
+ - Chicken Grilled Cordon Bleu (Pork) @ *1849*  
  - Pork Carnita @ *Que Rico*  
   
 In description:   
@@ -57,13 +57,10 @@ In description:
 In name:   
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Plant Based Chicken Strips @ *Global Kitchen*  
- - Plant Based Sweet & Sour Chicken @ *1849*  
+ - Chicken Grilled Cordon Bleu (Pork) @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
-  
-In description:   
- - Cracker Crusted Cod w/ Lemon Sauce @ *1849*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-03-29)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-03-29)  
