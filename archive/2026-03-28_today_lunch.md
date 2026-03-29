@@ -1,6 +1,6 @@
 # 2026-03-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-29 09:33:18  
+Updated at: 2026-03-29 10:31:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-29)  
 **steak**  
 In name:   
@@ -70,7 +70,6 @@ In description:
 In name:   
  - Sausage Links Chicken (halal) (AYCTE) @ *1849*  
  - Crispy Chicken Sandwich @ *Fired Up*  
- - Plant Based Chicken Strips @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
