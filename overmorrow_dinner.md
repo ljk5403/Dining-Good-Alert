@@ -1,100 +1,94 @@
-# 2026-03-30 dinner  
+# 2026-03-31 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-28 21:26:47  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-30)  
-**Salmon**  
+Updated at: 2026-03-29 02:02:33  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-31)  
+**Samosas**  
 In name:   
- - Hoisin BBQ Glazed Salmon @ *1849*  
-  
-**Shrimp**  
-In name:   
- - Sweet & Sour Shrimp @ *Global Kitchen*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Hoisin BBQ Glazed Salmon @ *1849*  
+ - Samosas @ *Global Kitchen*  
   
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
   
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
+  
+**curry**  
+In name:   
+ - Beef Bombay Curry @ *Global Kitchen*  
+ - Curry Cauliflower & Butternut Squash @ *Global Kitchen*  
+  
 **beef**  
 In name:   
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Beef Bombay Curry @ *Global Kitchen*  
+ - Beef Mediterranean @ *Que Rico*  
   
 In description:   
- - Burnt Ends @ *1849*  
- - Italian Meat Sauce @ *Buona Cucina*  
- - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Baked Corn Dog (Pork) @ *Fired Up*  
   
 **pork**  
 In name:   
- - Italian Pork Sausage @ *Buona Cucina*  
- - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
-  
-In description:   
- - Pizza Slice Sausage @ *Capital City Pizza*  
+ - Apricot Glazed Pork @ *1849*  
+ - Baked Corn Dog (Pork) @ *Fired Up*  
   
 **chicken**  
 In name:   
- - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
- - Plant Based Sweet & Sour Chicken @ *Global Kitchen*  
- - Chicken Empanada with Green Chili @ *Que Rico*  
+ - Chicken Paprikash @ *1849*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Plant Based Chicken Strips @ *Buona Cucina*  
+ - Mediterranean Chicken @ *Que Rico*  
  - Chicken Salad @ *Delicious*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
+ - Chicken Dumpling Soup @ *Great Greens*  
   
 In description:   
- - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Baked Corn Dog (Pork) @ *Fired Up*  
   
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-03-30)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-03-30)  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-03-30)  
-**Pakoras**  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-03-31)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-03-31)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-03-31)  
+**drumstick**  
 In name:   
- - Appetizer -  Pakoras Vegetable (Veg) @ *Que Rico*  
+ - Smoked Chicken Drumstick @ *1849*  
   
-**mahi mahi**  
+**Tilapia**  
 In name:   
- - Coconut Thai Curry Mahi Mahi @ *Que Rico*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Coconut Thai Curry Mahi Mahi @ *Que Rico*  
- - Tempura Roll (FujiSan) @ *Create-A-Bowl*  
+ - Blackened Tilapia @ *1849*  
   
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
  - Tuna @ *Great Greens*  
   
-**curry**  
+**watermelon**  
 In name:   
- - Black Eyed Pea Curry (AYCTE) @ *Que Rico*  
- - Coconut Thai Curry Mahi Mahi @ *Que Rico*  
- - Curry Potatoes @ *Que Rico*  
+ - Watermelon Slices @ *Great Greens*  
   
 **beef**  
 In name:   
- - BBQ Beef Brisket Slider @ *1849*  
+ - Big Texan Beef Sandwich (Half) @ *Fired Up*  
+ - Mediterranean Beef @ *Create-A-Bowl*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
 In name:   
- - Italian Pork Sausage @ *Global Kitchen*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
 In name:   
- - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
+ - Italian Chicken @ *Global Kitchen*  
+ - Smoked Chicken Drumstick @ *1849*  
+ - Chicken Mole w/ Rice @ *Que Rico*  
+ - Mediterranean Chicken @ *Create-A-Bowl*  
+ - Chicken Dumpling Soup @ *Great Greens*  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-03-30)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-03-30)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-03-31)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-03-31)  
   

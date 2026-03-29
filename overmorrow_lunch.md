@@ -1,95 +1,85 @@
-# 2026-03-30 lunch  
+# 2026-03-31 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-28 21:26:44  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-30)  
+Updated at: 2026-03-29 02:02:32  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-31)  
+**Tandoori Chicken**  
+In name:   
+ - Tandoori Chicken @ *Global Kitchen*  
+  
+**Samosas**  
+In name:   
+ - Samosas @ *Global Kitchen*  
+  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
   
-**beef**  
+**watermelon**  
 In name:   
- - Beef Sirloin Tips @ *1849*  
- - Beef Bean & Carrot Stir Fry @ *Global Kitchen*  
- - Beef Taco Meat @ *Que Rico*  
+ - Watermelon Slices @ *Great Greens*  
+  
+**curry**  
+In name:   
   
 In description:   
- - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
- - Italian Meat Sauce @ *Buona Cucina*  
+ - Tofu & Vegetable Tikka Masala @ *Global Kitchen*  
+  
+**beef**  
+In name:   
+ - Beef Mediterranean @ *Que Rico*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+  
+In description:   
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  
 In name:   
- - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
- - Italian Pork Sausage @ *Buona Cucina*  
-  
-In description:   
- - Pizza Slice Sausage @ *Capital City Pizza*  
- - Italian Sausage w/ Pepper & Onions @ *Fired Up*  
+ - Jerk Pork Chop @ *1849*  
   
 **chicken**  
 In name:   
- - Chicken & Penne w/ Pesto Creme @ *1849*  
- - Chicken Tinga @ *Que Rico*  
- - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
+ - Brazilian Chicken w/ Salsa Vinaigrette @ *1849*  
+ - Chicken Parmesan Sandwich @ *Fired Up*  
+ - Tandoori Chicken @ *Global Kitchen*  
+ - Mediterranean Chicken @ *Que Rico*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Plant Based Chicken Strips @ *Buona Cucina*  
  - Chicken Salad @ *Delicious*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
+ - Chicken Dumpling Soup @ *Great Greens*  
   
 In description:   
- - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-03-30)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-03-30)  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-03-30)  
-**broccoli rabe**  
-In name:   
- - Broccoli Rabe @ *1849*  
-  
-**Samosas**  
-In name:   
- - Samosas @ *Que Rico*  
-  
-**lamb**  
-In name:   
- - Lamb & Beef Gyro Sandwich @ *Fired Up*  
- - Lamb Vindaloo @ *Que Rico*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - California Roll  (FujiSan) @ *Create-A-Bowl*  
- - Tempura Roll (FujiSan) @ *Create-A-Bowl*  
-  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-03-31)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-03-31)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-03-31)  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
   
-**curry**  
-In name:   
- - Curry Potatoes @ *Que Rico*  
-  
-In description:   
- - Lamb Vindaloo @ *Que Rico*  
- - Vegetable Korma @ *Que Rico*  
-  
 **beef**  
 In name:   
- - Beef Stew @ *1849*  
- - Lamb & Beef Gyro Sandwich @ *Fired Up*  
+ - Beef Taco Meat @ *Que Rico*  
+ - Mediterranean Beef @ *Create-A-Bowl*  
   
 In description:   
+ - Burnt Ends @ *1849*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
 In name:   
- - Italian Pork Sausage @ *Global Kitchen*  
+ - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
 In name:   
- - Maple Cider Chicken @ *1849*  
+ - Greek Chicken @ *1849*  
+ - Buffalo Chicken Wrap @ *Fired Up*  
+ - Italian Chicken @ *Global Kitchen*  
+ - Mediterranean Chicken @ *Create-A-Bowl*  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-03-30)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-03-30)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-03-31)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-03-31)  
   
