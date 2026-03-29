@@ -1,6 +1,6 @@
 # 2026-03-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-28 18:30:46  
+Updated at: 2026-03-28 21:26:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-28)  
 **drumstick**  
 In name:   
@@ -23,7 +23,6 @@ In name:
   
 **pork**  
 In name:   
- - Cajun Rice w/ Pork & Black Eyed Peas @ *1849*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
  - BBQ Pork Sandwich @ *Fired Up*  
   
@@ -33,6 +32,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Blackened Chicken @ *1849*  
  - Chicken Drumstick BBQ Glazed @ *1849*  
  - Diced Chicken Breast @ *Buona Cucina*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
