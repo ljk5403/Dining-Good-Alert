@@ -1,6 +1,6 @@
 # 2026-03-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-29 18:32:20  
+Updated at: 2026-03-29 21:29:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-30)  
 **Tuna**  
 In name:   
@@ -37,7 +37,78 @@ In description:
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-03-30)  
+**portabella**  
+In name:   
+  
+In description:   
+ - Vegetable Cheesesteak Sandwich @ *1849*  
+  
+**steak**  
+In name:   
+ - Philly Cheesesteak Sandwich @ *1849*  
+ - Vegetable Cheesesteak Sandwich @ *1849*  
+  
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
+ - Tuna Salad @ *Delicious*  
+  
+**beef**  
+In name:   
+ - Beef Hot Dog @ *Global Kitchen*  
+ - Chili & Cheese Beef Hot Dog @ *Global Kitchen*  
+  
+In description:   
+ - Pork Bratwurst Sandwich @ *Global Kitchen*  
+ - Philly Cheesesteak Sandwich @ *1849*  
+  
+**pork**  
+In name:   
+ - Pork Bratwurst Sandwich @ *Global Kitchen*  
+ - Pork Adobo @ *1849*  
+  
+**chicken**  
+In name:   
+ - Lemon Chicken Rice Soup @ *Great Greens*  
+  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-03-30)  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
+ - Tuna @ *Great Greens*  
+  
+**curry**  
+In name:   
+  
+In description:   
+ - Chana Saag w/ Tofu @ *1849*  
+  
+**beef**  
+In name:   
+ - Beef Stroganoff Creamy @ *1849*  
+ - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Beef Taco Meat @ *Gordon Que Rico*  
+  
+In description:   
+ - Italian Meat Sauce @ *Gordon Buona Cucina*  
+ - Pizza Slice - Bacon Cheeseburger @ *Gordon Capital City Pizza*  
+ - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
+  
+**pork**  
+In name:   
+ - Italian Pork Sausage @ *Gordon Buona Cucina*  
+ - Pulled Pork Sandwich with Maw Maw Slaw @ *Gordon Fired Up*  
+  
+**chicken**  
+In name:   
+ - Blackened Chicken @ *1849*  
+ - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Chicken Tinga @ *Gordon Que Rico*  
+ - Lemon Chicken Rice Soup @ *Great Greens*  
+  
+In description:   
+ - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
+  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-03-30)  
 **broccoli rabe**  
 In name:   
@@ -92,4 +163,27 @@ In name:
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-03-30)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-03-30)  
+**steak**  
+In name:   
+ - Grilled Flank Steak @ *Lowell Market*  
+  
+**Shrimp**  
+In name:   
+ - Coconut Shrimp @ *Lowell Market*  
+  
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
+  
+**beef**  
+In name:   
+  
+In description:   
+ - Grilled Flank Steak @ *Lowell Market*  
+  
+**chicken**  
+In name:   
+ - Orange Sweet & Spicy Chicken @ *Lowell Market*  
+ - Lemon Chicken Rice Soup @ *Great Greens*  
+  
   
