@@ -1,6 +1,6 @@
 # 2026-03-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-30 10:02:07  
+Updated at: 2026-03-30 11:55:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-30)  
 **Tuna**  
 In name:   
@@ -109,10 +109,6 @@ In description:
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-03-30)  
-**broccoli rabe**  
-In name:   
- - Broccoli Rabe @ *1849*  
-  
 **Samosas**  
 In name:   
  - Samosas @ *Que Rico*  
