@@ -1,6 +1,6 @@
 # 2026-03-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-30 02:26:58  
+Updated at: 2026-03-30 10:02:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-30)  
 **Tuna**  
 In name:   
@@ -9,7 +9,6 @@ In name:
 **beef**  
 In name:   
  - Beef Sirloin Tips @ *1849*  
- - Beef Bean & Carrot Stir Fry @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -123,13 +122,6 @@ In name:
  - Lamb & Beef Gyro Sandwich @ *Fired Up*  
  - Lamb Vindaloo @ *Que Rico*  
   
-**fish**  
-In name:   
-  
-In description:   
- - California Roll  (FujiSan) @ *Create-A-Bowl*  
- - Tempura Roll (FujiSan) @ *Create-A-Bowl*  
-  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
@@ -152,7 +144,6 @@ In description:
   
 **pork**  
 In name:   
- - Italian Pork Sausage @ *Global Kitchen*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  

@@ -1,6 +1,6 @@
 # 2026-04-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-30 02:27:20  
+Updated at: 2026-03-30 10:02:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-01)  
 **fish**  
 In name:   
@@ -33,7 +33,6 @@ In description:
 **chicken**  
 In name:   
  - Blackened Chicken with Orange Sauce @ *1849*  
- - Spicy Lo Mein w/Chicken @ *Global Kitchen*  
  - Fajita Chicken @ *Que Rico*  
  - Chicken Salad @ *Delicious*  
   
@@ -114,7 +113,6 @@ In name:
   
 **beef**  
 In name:   
- - (Deli) BBQ Brisket Beef Sliced @ *Create-A-Bowl*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
@@ -130,9 +128,6 @@ In description:
 In name:   
  - Chicken Wings Boneless Plain @ *Que Rico*  
  - Plant-Based Chicken Nuggets (6) @ *Que Rico*  
-  
-In description:   
- - BYO Bar - Mac & Cheese @ *Create-A-Bowl*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-04-01)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-04-01)  

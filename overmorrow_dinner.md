@@ -1,6 +1,6 @@
 # 2026-04-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-30 02:27:25  
+Updated at: 2026-03-30 10:02:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-01)  
 **Beef Alicha**  
 In name:   
@@ -43,7 +43,6 @@ In description:
 **pork**  
 In name:   
  - Italian Pork Sausage @ *Buona Cucina*  
- - Pork Belly for Street Taco - Carson @ *Que Rico*  
   
 In description:   
  - Pizza Slice Sausage @ *Capital City Pizza*  
@@ -162,7 +161,6 @@ In name:
 In name:   
  - Beef Bean & Carrot Stir Fry @ *Global Kitchen*  
  - Beef Hot Tamale Pie @ *1849*  
- - (Deli) BBQ Brisket Beef Sliced @ *Create-A-Bowl*  
  - Beef Chili @ *Great Greens*  
   
 In description:   
@@ -179,9 +177,6 @@ In description:
 In name:   
  - Plant-Based Chicken Nuggets (6) @ *Que Rico*  
  - Chicken Wings Boneless Plain @ *Que Rico*  
-  
-In description:   
- - BYO Bar - Mac & Cheese @ *Create-A-Bowl*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-04-01)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-04-01)  
