@@ -1,6 +1,6 @@
 # 2026-03-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-30 02:27:03  
+Updated at: 2026-03-30 10:02:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-30)  
 **Salmon**  
 In name:   
@@ -40,7 +40,6 @@ In description:
 In name:   
  - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
  - Plant Based Sweet & Sour Chicken @ *Global Kitchen*  
- - Chicken Empanada with Green Chili @ *Que Rico*  
  - Chicken Salad @ *Delicious*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
@@ -121,7 +120,6 @@ In name:
   
 In description:   
  - Coconut Thai Curry Mahi Mahi @ *Que Rico*  
- - Tempura Roll (FujiSan) @ *Create-A-Bowl*  
   
 **Tuna**  
 In name:   
@@ -143,7 +141,6 @@ In description:
   
 **pork**  
 In name:   
- - Italian Pork Sausage @ *Global Kitchen*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
