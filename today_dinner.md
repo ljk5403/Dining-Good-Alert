@@ -1,6 +1,6 @@
 # 2026-03-31 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-31 02:13:20  
+Updated at: 2026-03-31 10:01:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-31)  
 **Samosas**  
 In name:   
@@ -23,7 +23,6 @@ In name:
 In name:   
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Beef Bombay Curry @ *Global Kitchen*  
- - Beef Mediterranean @ *Que Rico*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
@@ -39,7 +38,6 @@ In name:
  - Chicken Paprikash @ *1849*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
- - Mediterranean Chicken @ *Que Rico*  
  - Chicken Salad @ *Delicious*  
  - Chicken Dumpling Soup @ *Great Greens*  
   
@@ -161,7 +159,6 @@ In description:
 In name:   
  - Italian Chicken @ *Global Kitchen*  
  - Smoked Chicken Drumstick @ *1849*  
- - Chicken Mole w/ Rice @ *Que Rico*  
  - Chicken Dumpling Soup @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-03-31)  

@@ -1,6 +1,6 @@
 # 2026-04-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-31 02:13:33  
+Updated at: 2026-03-31 10:01:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-02)  
 **fish**  
 In name:   
@@ -144,7 +144,6 @@ In name:
   
 In description:   
  - Andouille Sausage @ *Global Kitchen*  
- - Pizza Slice Sausage & Mushroom @ *Que Rico*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
