@@ -1,6 +1,6 @@
 # 2026-04-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-31 12:56:39  
+Updated at: 2026-03-31 14:06:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-02)  
 **squid**  
 In name:   
