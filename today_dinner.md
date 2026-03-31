@@ -1,6 +1,6 @@
 # 2026-03-31 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-31 14:06:07  
+Updated at: 2026-03-31 15:41:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-31)  
 **Samosas**  
 In name:   
@@ -154,12 +154,15 @@ In name:
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 **chicken**  
 In name:   
  - Italian Chicken @ *Global Kitchen*  
  - Smoked Chicken Drumstick @ *1849*  
- - Chicken Dumpling Soup @ *Great Greens*  
+  
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-03-31)  
 **portabella**  

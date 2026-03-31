@@ -1,6 +1,6 @@
 # 2026-03-31 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-31 12:56:32  
+Updated at: 2026-03-31 14:06:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-31)  
 **Tuna**  
 In name:   
@@ -140,13 +140,13 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Loin Spicy Greenbush @ *1849*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
 In name:   
- - Greek Chicken @ *1849*  
  - Buffalo Chicken Wrap @ *Fired Up*  
  - Italian Chicken @ *Global Kitchen*  
   
