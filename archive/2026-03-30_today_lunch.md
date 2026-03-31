@@ -1,6 +1,6 @@
 # 2026-03-31 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-31 02:13:16  
+Updated at: 2026-03-31 10:01:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-03-31)  
 **Tuna**  
 In name:   
@@ -134,7 +134,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Taco Meat @ *Que Rico*  
   
 In description:   
  - Burnt Ends @ *1849*  
@@ -142,7 +141,6 @@ In description:
   
 **pork**  
 In name:   
- - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
