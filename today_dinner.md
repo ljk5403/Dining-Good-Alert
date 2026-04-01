@@ -1,6 +1,6 @@
 # 2026-03-31 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-31 18:33:20  
+Updated at: 2026-03-31 21:34:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-31)  
 **Samosas**  
 In name:   
@@ -24,6 +24,7 @@ In name:
  - (Deli) BBQ Brisket Beef Sliced @ *1849*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Beef Bombay Curry @ *Global Kitchen*  
+ - Beef Mediterranean @ *Que Rico*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
@@ -31,13 +32,14 @@ In description:
   
 **pork**  
 In name:   
- - Apricot Glazed Pork @ *1849*  
+ - Jerk Pork Chop @ *1849*  
  - Baked Corn Dog (Pork) @ *Fired Up*  
   
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
+ - Mediterranean Chicken @ *Que Rico*  
  - Chicken Salad @ *Delicious*  
  - Chicken Dumpling Soup @ *Great Greens*  
   
@@ -125,9 +127,15 @@ In name:
  - Chicken Dumpling Soup @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-03-31)  
-**Tilapia**  
+**mahi mahi**  
 In name:   
- - Blackened Tilapia @ *1849*  
+ - Coconut Thai Curry Mahi Mahi @ *1849*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Coconut Thai Curry Mahi Mahi @ *1849*  
   
 **Tuna**  
 In name:   
@@ -138,6 +146,10 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**curry**  
+In name:   
+ - Coconut Thai Curry Mahi Mahi @ *1849*  
+  
 **beef**  
 In name:   
  - Big Texan Beef Sandwich (Half) @ *Fired Up*  
@@ -147,6 +159,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Italian Sausage @ *Global Kitchen*  
  - Pork Loin Spicy Greenbush @ *1849*  
   
 In description:   
@@ -155,7 +168,7 @@ In description:
   
 **chicken**  
 In name:   
- - Italian Chicken @ *Global Kitchen*  
+ - Chicken Mole w/ Rice @ *Que Rico*  
   
 In description:   
  - Kale, Sausage & Potato Soup @ *Great Greens*  

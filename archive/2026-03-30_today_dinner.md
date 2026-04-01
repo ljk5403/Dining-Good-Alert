@@ -1,6 +1,6 @@
 # 2026-03-31 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-03-31 17:33:53  
+Updated at: 2026-03-31 18:33:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-31)  
 **Samosas**  
 In name:   
@@ -21,6 +21,7 @@ In name:
   
 **beef**  
 In name:   
+ - (Deli) BBQ Brisket Beef Sliced @ *1849*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Beef Bombay Curry @ *Global Kitchen*  
   
@@ -35,7 +36,6 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken Paprikash @ *1849*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Chicken Salad @ *Delicious*  
@@ -125,10 +125,6 @@ In name:
  - Chicken Dumpling Soup @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-03-31)  
-**drumstick**  
-In name:   
- - Smoked Chicken Drumstick @ *1849*  
-  
 **Tilapia**  
 In name:   
  - Blackened Tilapia @ *1849*  
@@ -151,6 +147,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Loin Spicy Greenbush @ *1849*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
@@ -159,7 +156,6 @@ In description:
 **chicken**  
 In name:   
  - Italian Chicken @ *Global Kitchen*  
- - Smoked Chicken Drumstick @ *1849*  
   
 In description:   
  - Kale, Sausage & Potato Soup @ *Great Greens*  
