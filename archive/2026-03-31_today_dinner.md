@@ -1,24 +1,14 @@
 # 2026-04-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-01 15:42:00  
+Updated at: 2026-04-01 16:40:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-01)  
 **Beef Alicha**  
 In name:   
  - Beef Alicha @ *1849*  
   
-**Cod**  
-In name:   
- - Miso Cod @ *1849*  
-  
 **lamb**  
 In name:   
  - Lamb Vindaloo @ *Global Kitchen*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Miso Cod @ *1849*  
   
 **Tuna**  
 In name:   
@@ -45,6 +35,7 @@ In name:
  - Italian Pork Sausage @ *Buona Cucina*  
   
 In description:   
+ - Andouille Sausage @ *1849*  
  - Pizza Slice Sausage @ *Capital City Pizza*  
   
 **chicken**  
