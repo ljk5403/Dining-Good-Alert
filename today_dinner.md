@@ -1,6 +1,6 @@
 # 2026-04-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-01 12:51:02  
+Updated at: 2026-04-01 14:01:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-01)  
 **Beef Alicha**  
 In name:   
@@ -152,6 +152,10 @@ In name:
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-04-01)  
+**Cod**  
+In name:   
+ - Cracker Crusted Cod w/ Lemon Sauce @ *1849*  
+  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
@@ -168,7 +172,6 @@ In description:
   
 **pork**  
 In name:   
- - Apricot Glazed Pork @ *1849*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
@@ -177,6 +180,9 @@ In description:
 In name:   
  - Plant-Based Chicken Nuggets (6) @ *Que Rico*  
  - Chicken Wings Boneless Plain @ *Que Rico*  
+  
+In description:   
+ - Cracker Crusted Cod w/ Lemon Sauce @ *1849*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-04-01)  
 **portabella**  
