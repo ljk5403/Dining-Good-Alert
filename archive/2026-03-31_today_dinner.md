@@ -1,0 +1,231 @@
+# 2026-03-31 dinner  
+*THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
+Updated at: 2026-03-31 21:34:23  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-03-31)  
+**Samosas**  
+In name:   
+ - Samosas @ *Global Kitchen*  
+  
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
+  
+**curry**  
+In name:   
+ - Beef Bombay Curry @ *Global Kitchen*  
+ - Indian Vegetable Curry @ *Global Kitchen*  
+  
+**beef**  
+In name:   
+ - (Deli) BBQ Brisket Beef Sliced @ *1849*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Beef Bombay Curry @ *Global Kitchen*  
+ - Beef Mediterranean @ *Que Rico*  
+  
+In description:   
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Baked Corn Dog (Pork) @ *Fired Up*  
+  
+**pork**  
+In name:   
+ - Jerk Pork Chop @ *1849*  
+ - Baked Corn Dog (Pork) @ *Fired Up*  
+  
+**chicken**  
+In name:   
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Plant Based Chicken Strips @ *Buona Cucina*  
+ - Mediterranean Chicken @ *Que Rico*  
+ - Chicken Salad @ *Delicious*  
+ - Chicken Dumpling Soup @ *Great Greens*  
+  
+In description:   
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Baked Corn Dog (Pork) @ *Fired Up*  
+  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-03-31)  
+**Salmon**  
+In name:   
+ - Salmon Caribbean Global w/Rice (AYCTE) @ *Global Kitchen*  
+  
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
+ - Tuna Salad @ *Delicious*  
+  
+**watermelon**  
+In name:   
+ - Melon Watermelon Whole Sliced @ *Great Greens*  
+  
+**chicken**  
+In name:   
+ - Tempura Chicken w/Sauce @ *1849*  
+ - Chicken Dumpling Soup @ *Great Greens*  
+  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-03-31)  
+**FiIipino Pork Spring Roll**  
+In name:   
+ - FiIipino Pork Spring Roll @ *Gordon Eggcetera*  
+  
+**Poke Bar**  
+In name:   
+ - Poke Bar @ *Gordon Global Kitchen*  
+ - Build Your Own Poke Bar @ *Gordon Global Kitchen*  
+  
+**mahi mahi**  
+In name:   
+ - Island Spiced Mahi Mahi @ *1849*  
+  
+**Shrimp**  
+In name:   
+  
+In description:   
+ - Poke Bar @ *Gordon Global Kitchen*  
+  
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
+  
+In description:   
+ - Poke Bar @ *Gordon Global Kitchen*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
+  
+**Filipino Pork Sausage**  
+In name:   
+ - Filipino Pork Sausage @ *Gordon Eggcetera*  
+  
+**beef**  
+In name:   
+ - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+  
+In description:   
+ - Burnt Ends @ *Gordon Eggcetera*  
+  
+**pork**  
+In name:   
+ - Jalapeno Popper (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
+ - Filipino Pork Sausage @ *Gordon Eggcetera*  
+ - FiIipino Pork Spring Roll @ *Gordon Eggcetera*  
+  
+In description:   
+ - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
+  
+**chicken**  
+In name:   
+ - Jamaican Jerk Chicken @ *1849*  
+ - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
+ - Chicken Mole w/ Rice @ *Gordon Que Rico*  
+ - Crispy Chicken Sandwich @ *Fired Up*  
+ - Chicken Dumpling Soup @ *Great Greens*  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-03-31)  
+**mahi mahi**  
+In name:   
+ - Coconut Thai Curry Mahi Mahi @ *1849*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Coconut Thai Curry Mahi Mahi @ *1849*  
+  
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+ - Tuna @ *Great Greens*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
+  
+**curry**  
+In name:   
+ - Coconut Thai Curry Mahi Mahi @ *1849*  
+  
+**beef**  
+In name:   
+ - Big Texan Beef Sandwich (Half) @ *Fired Up*  
+  
+In description:   
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
+  
+**pork**  
+In name:   
+ - Pork Italian Sausage @ *Global Kitchen*  
+ - Pork Loin Spicy Greenbush @ *1849*  
+  
+In description:   
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
+  
+**chicken**  
+In name:   
+ - Chicken Mole w/ Rice @ *Que Rico*  
+  
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
+  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-03-31)  
+**portabella**  
+In name:   
+ - Portabella Mediterranean @ *Global*  
+  
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
+  
+**beef**  
+In name:   
+ - Beef Mediterranean @ *Global*  
+  
+In description:   
+ - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious:  Available Between 11am-4pm*  
+  
+**pork**  
+In name:   
+ - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
+ - Pork Louisiana Creole @ *Fired Up*  
+  
+In description:   
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious:  Available Between 11am-4pm*  
+  
+**chicken**  
+In name:   
+ - Mediterranean Chicken @ *Global*  
+ - Cajun Chicken Pasta @ *Carson's 1849*  
+ - Chicken Dumpling Soup @ *Great Greens*  
+  
+In description:   
+ - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Pork Louisiana Creole @ *Fired Up*  
+  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-03-31)  
+**Shrimp**  
+In name:   
+ - Shrimp Creole @ *Lowell Market*  
+  
+**beef**  
+In name:   
+ - Beef Taco Meat @ *Lowell Market*  
+  
+**chicken**  
+In name:   
+ - Taco Chicken @ *Lowell Market*  
+ - Honey Garlic Chicken @ *Lowell Market*  
+  
+  
