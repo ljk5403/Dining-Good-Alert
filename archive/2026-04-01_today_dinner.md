@@ -1,0 +1,232 @@
+# 2026-04-01 dinner  
+*THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
+Updated at: 2026-04-01 21:12:48  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-01)  
+**lamb**  
+In name:   
+ - Lamb Vindaloo @ *Global Kitchen*  
+  
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
+  
+**curry**  
+In name:   
+  
+In description:   
+ - Lamb Vindaloo @ *Global Kitchen*  
+  
+**beef**  
+In name:   
+ - Texas BBQ Sliced Beef Brisket @ *1849*  
+ - Beef Pasta Tortellini @ *Buona Cucina*  
+ - Beef Chili @ *Great Greens*  
+  
+In description:   
+ - Pepperoni & Mushrooms Pizza @ *Capital City Pizza*  
+  
+**pork**  
+In name:   
+ - Italian Pork Sausage @ *Buona Cucina*  
+ - Pork Belly for Street Taco - Carson @ *Que Rico*  
+  
+In description:   
+ - Pizza Slice Sausage @ *Capital City Pizza*  
+  
+**chicken**  
+In name:   
+ - Blackened Chicken with Orange Sauce @ *1849*  
+ - Chicken Salad @ *Delicious*  
+  
+In description:   
+ - Pepperoni & Mushrooms Pizza @ *Capital City Pizza*  
+  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-04-01)  
+**Pakoras**  
+In name:   
+ - Appetizer -  Pakoras Vegetable (Veg) @ *Global Kitchen*  
+  
+**steak**  
+In name:   
+ - Beef Pepper Steak Stir Fry w/Teriyaki @ *1849*  
+ - Plant-Based Pepper Steak Stir Fry @ *1849*  
+  
+**catfish**  
+In name:   
+  
+In description:   
+ - Indian Fish Curry @ *Global Kitchen*  
+  
+**fish**  
+In name:   
+ - Indian Fish Curry @ *Global Kitchen*  
+  
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
+  
+**curry**  
+In name:   
+ - Sub - Vegetable Coconut Curry - Monsoon @ *Global Kitchen*  
+ - Indian Fish Curry @ *Global Kitchen*  
+ - Curry Potatoes @ *Global Kitchen*  
+  
+In description:   
+ - Tikka Masala Chicken @ *Global Kitchen*  
+  
+**beef**  
+In name:   
+ - Beef Pepper Steak Stir Fry w/Teriyaki @ *1849*  
+ - Beef Chili @ *Great Greens*  
+  
+In description:   
+ - Plant-Based Pepper Steak Stir Fry @ *1849*  
+  
+**chicken**  
+In name:   
+ - Tikka Masala Chicken @ *Global Kitchen*  
+  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-04-01)  
+**steak**  
+In name:   
+ - Country Fried Steak @ *1849*  
+  
+**catfish**  
+In name:   
+ - Garlic Baked Catfish @ *1849*  
+  
+**Cod**  
+In name:   
+  
+In description:   
+ - Fish Tacos @ *Gordon Que Rico*  
+  
+**fish**  
+In name:   
+ - Garlic Baked Catfish @ *1849*  
+ - Vegetarian "Fish" Tacos @ *Gordon Que Rico*  
+ - Fish Tacos @ *Gordon Que Rico*  
+  
+In description:   
+ - California Roll  (FujiSan) @ *Gordon Global Kitchen*  
+ - Tempura Roll (FujiSan) @ *Gordon Global Kitchen*  
+  
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
+  
+**beef**  
+In name:   
+ - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Beef Chili @ *Great Greens*  
+  
+In description:   
+ - Country Fried Steak @ *1849*  
+ - Grilled Blended Burger w/ Cheese @ *Fired Up*  
+  
+**pork**  
+In name:   
+ - Italian Pork Sausage @ *Gordon Buona Cucina*  
+ - Gluten Free Pork Sausage Pizza Quarter @ *Gordon Capital City Pizza*  
+  
+**chicken**  
+In name:   
+ - Plant-Based Chicken & Gravy (VN) @ *1849*  
+ - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Cajun Chicken Pasta @ *Gordon Buona Cucina*  
+ - Sweet & Sour Chicken @ *Gordon Global Kitchen*  
+ - Brown Stew w/ Chicken @ *Gordon Eggcetera*  
+ - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-04-01)  
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+ - Tuna @ *Great Greens*  
+  
+**beef**  
+In name:   
+ - Beef Bean & Carrot Stir Fry @ *Global Kitchen*  
+  
+In description:   
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
+  
+**pork**  
+In name:   
+ - Pork Loin Spicy Greenbush @ *1849*  
+  
+In description:   
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
+  
+**chicken**  
+In name:   
+ - Plant-Based Chicken Nuggets (6) @ *Que Rico*  
+ - Chicken Wings Boneless Plain @ *Que Rico*  
+ - Lemon Chicken Rice Soup @ *Great Greens*  
+  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-04-01)  
+**portabella**  
+In name:   
+ - Bulgogi Portabella Mushrooms @ *Global*  
+  
+**Bulgogi**  
+In name:   
+ - Build Your Own Carson's Korean Bulgogi @ *Global*  
+ - Bulgogi Beef @ *Global*  
+ - Bulgogi Chicken @ *Global*  
+ - Bulgogi Portabella Mushrooms @ *Global*  
+  
+**Tilapia**  
+In name:   
+ - Tilapia Chipotle Lime Crusted @ *Carson's 1849*  
+  
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
+  
+**beef**  
+In name:   
+ - Bulgogi Beef @ *Global*  
+ - Beef Chili @ *Great Greens*  
+  
+In description:   
+ - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
+ - Smoked Brisket & Tots Pizza Slice @ *Capital City Pizza*  
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious:  Available Between 11am-4pm*  
+  
+**pork**  
+In name:   
+ - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
+  
+In description:   
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious:  Available Between 11am-4pm*  
+  
+**chicken**  
+In name:   
+ - Bulgogi Chicken @ *Global*  
+ - Teriyaki Chicken Fillet @ *Fired Up*  
+  
+In description:   
+ - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
+  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-04-01)  
+**Cod**  
+In name:   
+ - Baked Cod Fillet w/Butter & Lemon @ *Lowell Market*  
+  
+**curry**  
+In name:   
+ - Vegan Curry Stew @ *Lowell Market*  
+  
+**pork**  
+In name:   
+ - Pork Miso w/Yakisoba Noodles @ *Lowell Market*  
+  
+**chicken**  
+In name:   
+ - Spicy Crispy Chicken Sandwich @ *Lowell Market*  
+  
+In description:   
+ - Pork Miso w/Yakisoba Noodles @ *Lowell Market*  
+  
+  
