@@ -1,11 +1,7 @@
 # 2026-04-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-01 18:35:08  
+Updated at: 2026-04-01 21:12:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-01)  
-**Beef Alicha**  
-In name:   
- - Beef Alicha @ *1849*  
-  
 **lamb**  
 In name:   
  - Lamb Vindaloo @ *Global Kitchen*  
@@ -18,12 +14,11 @@ In name:
 In name:   
   
 In description:   
- - Chana Saag w/ Tofu @ *1849*  
  - Lamb Vindaloo @ *Global Kitchen*  
   
 **beef**  
 In name:   
- - Beef Alicha @ *1849*  
+ - Texas BBQ Sliced Beef Brisket @ *1849*  
  - Beef Pasta Tortellini @ *Buona Cucina*  
  - Beef Chili @ *Great Greens*  
   
@@ -33,13 +28,14 @@ In description:
 **pork**  
 In name:   
  - Italian Pork Sausage @ *Buona Cucina*  
+ - Pork Belly for Street Taco - Carson @ *Que Rico*  
   
 In description:   
- - Andouille Sausage @ *1849*  
  - Pizza Slice Sausage @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
+ - Blackened Chicken with Orange Sauce @ *1849*  
  - Chicken Salad @ *Delicious*  
   
 In description:   
@@ -143,10 +139,6 @@ In name:
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-04-01)  
-**Cod**  
-In name:   
- - Cracker Crusted Cod w/ Lemon Sauce @ *1849*  
-  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
@@ -155,14 +147,13 @@ In name:
 **beef**  
 In name:   
  - Beef Bean & Carrot Stir Fry @ *Global Kitchen*  
- - Beef Hot Tamale Pie @ *1849*  
- - Beef Chili @ *Great Greens*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
 In name:   
+ - Pork Loin Spicy Greenbush @ *1849*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
@@ -171,9 +162,7 @@ In description:
 In name:   
  - Plant-Based Chicken Nuggets (6) @ *Que Rico*  
  - Chicken Wings Boneless Plain @ *Que Rico*  
-  
-In description:   
- - Cracker Crusted Cod w/ Lemon Sauce @ *1849*  
+ - Lemon Chicken Rice Soup @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-04-01)  
 **portabella**  

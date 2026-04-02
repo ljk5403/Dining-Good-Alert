@@ -1,6 +1,6 @@
 # 2026-04-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-01 18:35:19  
+Updated at: 2026-04-01 21:12:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-03)  
 **drumstick**  
 In name:   
@@ -9,6 +9,7 @@ In name:
 **steak**  
 In name:   
  - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
+ - Fried Steak & Cheese Chimichanga @ *Que Rico*  
   
 **mahi mahi**  
 In name:   
@@ -42,6 +43,7 @@ In name:
   
 In description:   
  - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
+ - Fried Steak & Cheese Chimichanga @ *Que Rico*  
   
 **pork**  
 In name:   

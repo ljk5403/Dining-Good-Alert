@@ -1,6 +1,6 @@
 # 2026-04-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-01 18:35:05  
+Updated at: 2026-04-01 21:12:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-01)  
 **fish**  
 In name:   
@@ -119,6 +119,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork & Broccoli Stir Fry @ *Global Kitchen*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
