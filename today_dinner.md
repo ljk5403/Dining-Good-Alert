@@ -1,6 +1,6 @@
 # 2026-04-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-02 02:12:05  
+Updated at: 2026-04-02 09:55:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-02)  
 **fish**  
 In name:   
@@ -131,6 +131,10 @@ In name:
  - Tuna Salad @ *Delicious*  
  - Tuna @ *Great Greens*  
   
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
+  
 **beef**  
 In name:   
  - Beef Quesadilla @ *Fired Up*  
@@ -144,7 +148,6 @@ In name:
   
 In description:   
  - Andouille Sausage @ *Global Kitchen*  
- - Pizza Slice Sausage & Mushroom @ *Que Rico*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
