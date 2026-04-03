@@ -1,6 +1,6 @@
 # 2026-04-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-03 12:34:09  
+Updated at: 2026-04-03 13:46:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-03)  
 **steak**  
 In name:   
@@ -140,16 +140,6 @@ In description:
  - Shrimp & Pork Andouille Sausage @ *Gordon Buona Cucina*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-04-03)  
-**portabella**  
-In name:   
-  
-In description:   
- - Grilled Portabello Mushroom Sandwich @ *Fired Up*  
-  
-**Cod**  
-In name:   
- - Baked Cod with Tomato Tapenade @ *1849*  
-  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
