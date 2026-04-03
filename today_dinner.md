@@ -1,7 +1,11 @@
 # 2026-04-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-02 18:34:09  
+Updated at: 2026-04-02 21:22:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-02)  
+**Cod**  
+In name:   
+ - Battered Cod @ *1849*  
+  
 **fish**  
 In name:   
   
@@ -29,16 +33,15 @@ In description:
   
 **pork**  
 In name:   
+ - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
  - Currywurst (Pork) @ *Fired Up*  
   
 In description:   
  - Chorizo Sauce @ *Buona Cucina*  
- - Pizza Slice Sausage @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
  - Plant-Based Chicken & Dumplings @ *1849*  
- - Chicken Breast w/Red Pepper Cream @ *1849*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Mediterranean Chicken @ *Que Rico*  
@@ -149,6 +152,7 @@ In name:
   
 In description:   
  - Andouille Sausage @ *Global Kitchen*  
+ - Pizza Slice Sausage & Mushroom @ *Que Rico*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
