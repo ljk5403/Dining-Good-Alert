@@ -1,6 +1,6 @@
 # 2026-04-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-03 02:07:59  
+Updated at: 2026-04-03 09:41:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-04)  
 **Shrimp**  
 In name:   
@@ -9,10 +9,6 @@ In name:
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
-  
-**Chicken Tamale with Oaxaca**  
-In name:   
- - Chicken Tamale with Oaxaca @ *Que Rico*  
   
 **beef**  
 In name:   
@@ -37,7 +33,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Tamale with Oaxaca @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
   
 In description:   
