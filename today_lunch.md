@@ -1,6 +1,6 @@
 # 2026-04-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-03 13:46:22  
+Updated at: 2026-04-03 15:35:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-03)  
 **steak**  
 In name:   
