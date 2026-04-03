@@ -1,6 +1,6 @@
 # 2026-04-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-03 16:33:15  
+Updated at: 2026-04-03 17:32:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-03)  
 **drumstick**  
 In name:   
@@ -52,8 +52,8 @@ In description:
 **chicken**  
 In name:   
  - Chicken Drumstick Szechuan Glazed @ *1849*  
- - Diced Chicken Breast @ *Buona Cucina*  
  - Dan Dan w/ Chicken @ *Global Kitchen*  
+ - Diced Chicken Breast @ *Buona Cucina*  
  - Chicken Salad @ *Delicious*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-04-03)  
