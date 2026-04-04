@@ -1,6 +1,6 @@
 # 2026-04-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-04 02:00:24  
+Updated at: 2026-04-04 09:32:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-04)  
 **Tuna**  
 In name:   
@@ -33,7 +33,6 @@ In description:
 In name:   
  - Chicken Tinga @ *Que Rico*  
  - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
- - Sausage Links Chicken (halal) (AYCTE) @ *Buona Cucina*  
  - Diced Chicken @ *Great Greens*  
   
 In description:   
