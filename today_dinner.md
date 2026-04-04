@@ -1,6 +1,6 @@
 # 2026-04-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-04 10:30:51  
+Updated at: 2026-04-04 11:34:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-04)  
 **Shrimp**  
 In name:   
@@ -33,15 +33,12 @@ In description:
  - Bacon Slice @ *Delicious*  
  - Smoked Ham @ *Delicious*  
  - Bacon @ *Delicious*  
- - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 **chicken**  
 In name:   
  - Chicken Tamale with Oaxaca @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
-  
-In description:   
- - Kale, Sausage & Potato Soup @ *Great Greens*  
+ - Lemon Chicken Rice Soup @ *Great Greens*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-04-04)  
 **Tuna**  

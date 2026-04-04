@@ -1,6 +1,6 @@
 # 2026-04-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-04 10:30:48  
+Updated at: 2026-04-04 11:34:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-04)  
 **Tuna**  
 In name:   
@@ -26,7 +26,6 @@ In description:
  - Bacon @ *Delicious*  
  - Bacon Slice @ *Delicious*  
  - Smoked Ham @ *Delicious*  
- - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 **chicken**  
 In name:   
@@ -34,9 +33,7 @@ In name:
  - Chicken Tinga @ *Que Rico*  
  - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
-  
-In description:   
- - Kale, Sausage & Potato Soup @ *Great Greens*  
+ - Lemon Chicken Rice Soup @ *Great Greens*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-04-04)  
 **Tuna**  
@@ -105,6 +102,7 @@ In description:
 **steak**  
 In name:   
  - Philly Cheesesteak Sandwich @ *Fired Up*  
+ - Ham Steak @ *Create-A-Bowl*  
   
 **Tuna**  
 In name:   
@@ -123,14 +121,16 @@ In name:
   
 In description:   
  - Andouille Sausage @ *1849*  
+ - Ham Steak @ *Create-A-Bowl*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
 In name:   
- - Plant-Based Chicken Nuggets (6) @ *Fired Up*  
+ - Protein Plant Based Chicken Tender @ *Fired Up*  
  - Giardiniera Chicken @ *Global Kitchen*  
  - Plant-Based Chicken Tenders @ *Global Kitchen*  
  - Taco Chicken @ *Que Rico*  
+ - Sausage Links Chicken (halal) (AYCTE) @ *Create-A-Bowl*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-04-04)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-04-04)  

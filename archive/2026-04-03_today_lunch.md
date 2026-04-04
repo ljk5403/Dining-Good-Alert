@@ -1,6 +1,6 @@
 # 2026-04-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-04 09:32:56  
+Updated at: 2026-04-04 10:30:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-04)  
 **Tuna**  
 In name:   
@@ -18,7 +18,6 @@ In description:
 **pork**  
 In name:   
  - Pizza Slice BBQ Pulled Pork @ *Capital City Pizza*  
- - New Orleans Turkey Melt w/ Pork @ *Fired Up*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
@@ -31,6 +30,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Crispy Chicken Sandwich @ *Fired Up*  
  - Chicken Tinga @ *Que Rico*  
  - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
@@ -129,6 +129,7 @@ In description:
 In name:   
  - Plant-Based Chicken Nuggets (6) @ *Fired Up*  
  - Giardiniera Chicken @ *Global Kitchen*  
+ - Plant-Based Chicken Tenders @ *Global Kitchen*  
  - Taco Chicken @ *Que Rico*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-04-04)  

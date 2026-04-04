@@ -1,6 +1,6 @@
 # 2026-04-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-04 10:30:53  
+Updated at: 2026-04-04 11:35:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-05)  
 **Tuna**  
 In name:   
@@ -91,6 +91,7 @@ In description:
 In name:   
  - Corn Dog (Pork) @ *Fired Up*  
  - Pork Carnita @ *Que Rico*  
+ - Pork Sausage Patty @ *Create-A-Bowl*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
