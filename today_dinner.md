@@ -1,6 +1,6 @@
 # 2026-04-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-03 18:33:15  
+Updated at: 2026-04-03 21:07:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-03)  
 **drumstick**  
 In name:   
@@ -10,13 +10,9 @@ In name:
 In name:   
  - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
   
-**mahi mahi**  
-In name:   
- - Blackened Mahi Mahi @ *1849*  
-  
 **Cod**  
 In name:   
- - Cod Nuggets @ *Fired Up*  
+ - Battered Cod @ *Fired Up*  
   
 **clam**  
 In name:   
@@ -25,9 +21,6 @@ In name:
 **fish**  
 In name:   
  - Vegan Fish Sandwich @ *Fired Up*  
-  
-In description:   
- - Eggplant Miso-Glazed @ *1849*  
   
 **Tuna**  
 In name:   
@@ -52,7 +45,7 @@ In description:
 **chicken**  
 In name:   
  - Chicken Drumstick Szechuan Glazed @ *1849*  
- - Dan Dan w/ Chicken @ *Global Kitchen*  
+ - Dan Dan w/ Chicken @ *Buona Cucina*  
  - Diced Chicken Breast @ *Buona Cucina*  
  - Chicken Salad @ *Delicious*  
   
@@ -192,7 +185,7 @@ In description:
   
 **chicken**  
 In name:   
- - Spicy Crispy Chicken Sandwich @ *Fired Up*  
+ - Grilled Chicken Sandwich @ *Fired Up*  
  - Plant-Based Chicken & Dumplings @ *1849*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-04-03)  
