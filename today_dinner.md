@@ -1,6 +1,6 @@
 # 2026-04-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-04 02:00:26  
+Updated at: 2026-04-04 09:33:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-04)  
 **Shrimp**  
 In name:   
@@ -9,6 +9,10 @@ In name:
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
+  
+**Chicken Tamale with Oaxaca**  
+In name:   
+ - Chicken Tamale with Oaxaca @ *Que Rico*  
   
 **beef**  
 In name:   
@@ -33,6 +37,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Tamale with Oaxaca @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
   
 In description:   
@@ -107,7 +112,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Broccoli Stir Fry @ *1849*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -126,7 +130,6 @@ In description:
 In name:   
  - Plant-Based Chicken Tenders @ *Fired Up*  
  - Giardiniera Chicken @ *Global Kitchen*  
- - Plant Based Sweet & Sour Chicken @ *1849*  
  - Taco Chicken @ *Que Rico*  
   
 In description:   

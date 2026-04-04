@@ -1,12 +1,16 @@
 # 2026-04-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-04 02:00:31  
+Updated at: 2026-04-04 09:33:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-06)  
 **steak**  
 In name:   
   
 In description:   
  - Montreal Chicken @ *1849*  
+  
+**Tilapia**  
+In name:   
+ - Tilapia Veracruz @ *Que Rico*  
   
 **Tuna**  
 In name:   
