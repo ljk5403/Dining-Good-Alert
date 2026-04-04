@@ -1,6 +1,6 @@
 # 2026-04-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-04 15:31:28  
+Updated at: 2026-04-04 16:31:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-04)  
 **Shrimp**  
 In name:   
