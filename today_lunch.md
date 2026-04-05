@@ -1,6 +1,6 @@
 # 2026-04-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-05 02:05:35  
+Updated at: 2026-04-05 09:34:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-05)  
 **Tuna**  
 In name:   
@@ -46,18 +46,15 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
  - Plant-Based Pepper Steak Stir Fry @ *1849*  
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
- - Fired Up Blended Burger @ *Gordon Fired Up*  
- - Vegan Taco Filling @ *Gordon Que Rico*  
+ - Grilled Blended Burger w/ Cheese @ *Gordon Fired Up*  
   
 **pork**  
 In name:   
- - Pork Carnita @ *Gordon Que Rico*  
  - Biscuits & Pork Gravy @ *Eggcetera*  
   
 In description:   
