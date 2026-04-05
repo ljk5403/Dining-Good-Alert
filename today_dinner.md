@@ -1,6 +1,6 @@
 # 2026-04-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-05 11:36:20  
+Updated at: 2026-04-05 12:30:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-05)  
 **Tuna**  
 In name:   
@@ -14,6 +14,7 @@ In name:
 **beef**  
 In name:   
  - Beef Taco Meat @ *Que Rico*  
+ - Beef Chili @ *Great Greens*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
@@ -34,7 +35,6 @@ In name:
  - Plant-Based Chicken Tenders @ *1849*  
  - Chicken Teriyaki Stir Fry @ *Global Kitchen*  
  - Fajita Chicken @ *Que Rico*  
- - Chicken Chili @ *Great Greens*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
