@@ -1,6 +1,6 @@
 # 2026-04-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-04 17:29:24  
+Updated at: 2026-04-04 18:31:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-04)  
 **Tuna**  
 In name:   
@@ -30,6 +30,7 @@ In description:
 **chicken**  
 In name:   
  - Crispy Chicken Sandwich @ *Fired Up*  
+ - Chicken Teriyaki Stir Fry @ *Global Kitchen*  
  - Chicken Tinga @ *Que Rico*  
  - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
