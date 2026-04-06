@@ -1,6 +1,6 @@
 # 2026-04-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-05 18:33:14  
+Updated at: 2026-04-05 21:30:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-06)  
 **steak**  
 In name:   
@@ -139,6 +139,10 @@ In name:
 In description:   
  - Indian Fish Curry @ *Que Rico*  
   
+**Shrimp**  
+In name:   
+ - Fried Popcorn Shrimp @ *1849*  
+  
 **fish**  
 In name:   
  - Indian Fish Curry @ *Que Rico*  
@@ -156,9 +160,11 @@ In name:
 **beef**  
 In name:   
  - Beef Stroganoff Creamy @ *1849*  
+ - Beef Tri Tip Carved w/ Chimichurri @ *1849*  
   
 In description:   
  - Chicago-Style Hot Dog @ *Fired Up*  
+ - Grilled Blended Burger w/ Cheese @ *Fired Up*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
