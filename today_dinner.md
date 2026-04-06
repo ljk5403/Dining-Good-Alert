@@ -1,6 +1,6 @@
 # 2026-04-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-06 17:35:57  
+Updated at: 2026-04-06 18:35:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-06)  
 **Tuna**  
 In name:   
@@ -205,9 +205,14 @@ In description:
  - Sausage (Pork) & Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-04-06)  
+**Beef Alicha**  
+In name:   
+ - Beef Alicha @ *Lowell Market*  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Lowell Market*  
+ - Beef Alicha @ *Lowell Market*  
   
 **pork**  
 In name:   
@@ -216,6 +221,5 @@ In name:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Lowell Market*  
- - Breaded Chicken Parmigiana @ *Lowell Market*  
   
   
