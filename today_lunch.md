@@ -1,6 +1,6 @@
 # 2026-04-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-06 10:45:36  
+Updated at: 2026-04-06 11:47:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-06)  
 **Tuna**  
 In name:   
@@ -207,6 +207,10 @@ In description:
 **Beef Alicha**  
 In name:   
  - Beef Alicha @ *Lowell Market*  
+  
+**clam**  
+In name:   
+ - Clam Strips @ *Lowell Market*  
   
 **beef**  
 In name:   
