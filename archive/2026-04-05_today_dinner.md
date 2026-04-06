@@ -1,6 +1,6 @@
 # 2026-04-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-06 13:58:59  
+Updated at: 2026-04-06 15:36:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-06)  
 **Tuna**  
 In name:   
@@ -98,10 +98,6 @@ In description:
 In name:   
  - Portabella Mushroom Ravioli Plain @ *Global Kitchen*  
   
-**broccoli rabe**  
-In name:   
- - Broccoli Rabe @ *1849*  
-  
 **Samosas**  
 In name:   
  - Samosas @ *Que Rico*  
@@ -132,11 +128,9 @@ In name:
   
 **beef**  
 In name:   
- - Beef Stroganoff Creamy @ *1849*  
  - Beef Tri Tip Carved w/ Chimichurri @ *1849*  
   
 In description:   
- - Chicago-Style Hot Dog @ *Fired Up*  
  - Grilled Blended Burger w/ Cheese @ *Fired Up*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
