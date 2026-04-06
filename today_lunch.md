@@ -1,6 +1,6 @@
 # 2026-04-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-06 12:42:48  
+Updated at: 2026-04-06 13:58:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-06)  
 **Tuna**  
 In name:   
@@ -8,17 +8,18 @@ In name:
   
 **beef**  
 In name:   
- - Texas BBQ Sliced Beef Brisket @ *1849*  
  - Beef Fajita Meat @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
  - Beef Ravioli Plain @ *Buona Cucina*  
   
 In description:   
+ - Sliced Kielbasa (Pork) @ *1849*  
  - Grilled Blended Burger w/ Cheese @ *Fired Up*  
  - Italian Meat Sauce @ *Buona Cucina*  
   
 **pork**  
 In name:   
+ - Sliced Kielbasa (Pork) @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
   
 In description:   
@@ -81,9 +82,9 @@ In description:
 In name:   
  - Island Spiced Beef Steak @ *1849*  
   
-**Salmon**  
+**Cod**  
 In name:   
- - Baked Salmon Fillet @ *1849*  
+ - Baked Cod Fillet w/Butter & Lemon @ *1849*  
   
 **Tuna**  
 In name:   
@@ -191,11 +192,11 @@ In name:
  - BBQ Pork Sandwich @ *Fired Up:  Available Between 11am-2pm*  
   
 In description:   
+ - Quesadilla Carnitas & Black Bean @ *Carson's 1849:  Available Between 11am-2pm*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious:  Available Between 11am-4pm*  
   
 **chicken**  
 In name:   
- - Chicken Tinga & Scallion Quesadilla @ *Carson's 1849:  Available Between 11am-2pm*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera:  Available Between 11am-2pm*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
