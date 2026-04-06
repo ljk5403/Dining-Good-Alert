@@ -1,46 +1,19 @@
 # 2026-04-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-06 02:42:31  
+Updated at: 2026-04-06 09:45:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-06)  
-**steak**  
-In name:   
-  
-In description:   
- - Montreal Chicken @ *1849*  
-  
-**Tilapia**  
-In name:   
- - Tilapia Veracruz @ *Que Rico*  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
   
-**curry**  
-In name:   
- - Thai Veggie Meatballs w/ Green Curry @ *1849*  
-  
-**beef**  
-In name:   
- - Beef Ravioli Plain @ *Buona Cucina*  
-  
-In description:   
- - Sausage (Pork), Potatoes, & Peppers @ *1849*  
- - Italian Meat Sauce @ *Buona Cucina*  
- - Chicago-Style Hot Dog @ *Fired Up*  
-  
 **pork**  
 In name:   
- - Sausage (Pork), Potatoes, & Peppers @ *1849*  
- - Italian Pork Sausage @ *Buona Cucina*  
- - Pork Fried Noodles @ *Global Kitchen*  
   
 In description:   
  - Pizza Slice Sausage @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
- - Montreal Chicken @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
