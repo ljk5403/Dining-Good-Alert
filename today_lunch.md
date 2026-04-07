@@ -1,6 +1,6 @@
 # 2026-04-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-07 02:16:16  
+Updated at: 2026-04-07 10:06:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-07)  
 **portabella**  
 In name:   
@@ -109,7 +109,7 @@ In name:
   
 **beef**  
 In name:   
- - Beef Sirloin Tips @ *1849*  
+ - Beef Stew w/ Buttermilk Biscuit @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   

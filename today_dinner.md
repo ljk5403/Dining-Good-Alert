@@ -1,6 +1,6 @@
 # 2026-04-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-07 02:16:22  
+Updated at: 2026-04-07 10:06:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-07)  
 **portabella**  
 In name:   
@@ -217,24 +217,4 @@ In description:
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-04-07)  
-**curry**  
-In name:   
- - Currywurst (Pork) @ *Lowell Market*  
- - Garbanzo Bean Curry @ *Lowell Market*  
-  
-**beef**  
-In name:   
- - Beef Stir Fry w/ Snow Peas @ *Lowell Market*  
-  
-In description:   
- - Currywurst (Pork) @ *Lowell Market*  
-  
-**pork**  
-In name:   
- - Currywurst (Pork) @ *Lowell Market*  
-  
-**chicken**  
-In name:   
- - Chicken Wings Boneless Plain @ *Lowell Market*  
-  
   
