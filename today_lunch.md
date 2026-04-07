@@ -1,6 +1,6 @@
 # 2026-04-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-07 13:01:02  
+Updated at: 2026-04-07 15:47:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-07)  
 **portabella**  
 In name:   
@@ -135,12 +135,13 @@ In name:
  - Chicken Dumpling Soup @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-04-07)  
-**lamb**  
+**curry**  
 In name:   
- - Smoked Leg of Lamb @ *1849*  
+ - Beef Bombay Curry @ *1849*  
   
 **beef**  
 In name:   
+ - Beef Bombay Curry @ *1849*  
  - Traditional Beef Shepard's Pie @ *1849*  
  - Beef Taco Meat @ *Que Rico*  
  - Mediterranean Beef @ *Create-A-Bowl*  

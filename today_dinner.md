@@ -1,6 +1,6 @@
 # 2026-04-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-07 13:01:04  
+Updated at: 2026-04-07 15:47:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-07)  
 **portabella**  
 In name:   
@@ -85,17 +85,13 @@ In name:
  - Chicken Dumpling Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-04-07)  
-**broccoli rabe**  
+**catfish**  
 In name:   
+ - Island Spiced Catfish @ *1849*  
   
-In description:   
- - Tempeh w/Red Peppers & Broc Rabe @ *1849*  
-  
-**steak**  
+**fish**  
 In name:   
-  
-In description:   
- - Montreal Chicken @ *1849*  
+ - Island Spiced Catfish @ *1849*  
   
 **watermelon**  
 In name:   
@@ -120,7 +116,6 @@ In description:
   
 **chicken**  
 In name:   
- - Montreal Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Chicken Empanada with Green Chili @ *Gordon Que Rico*  
