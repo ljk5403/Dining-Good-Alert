@@ -1,19 +1,46 @@
 # 2026-04-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-06 18:35:02  
+Updated at: 2026-04-06 21:24:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-06)  
+**steak**  
+In name:   
+  
+In description:   
+ - Montreal Chicken @ *1849*  
+  
+**Tilapia**  
+In name:   
+ - Tilapia Veracruz @ *Que Rico*  
+  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
   
+**curry**  
+In name:   
+ - Thai Veggie Meatballs w/ Green Curry @ *1849*  
+  
+**beef**  
+In name:   
+ - Beef Ravioli Plain @ *Buona Cucina*  
+  
+In description:   
+ - Sausage (Pork), Potatoes, & Peppers @ *1849*  
+ - Italian Meat Sauce @ *Buona Cucina*  
+ - Chicago-Style Hot Dog @ *Fired Up*  
+  
 **pork**  
 In name:   
+ - Sausage (Pork), Potatoes, & Peppers @ *1849*  
+ - Italian Pork Sausage @ *Buona Cucina*  
+ - Pork Fried Noodles @ *Global Kitchen*  
   
 In description:   
  - Pizza Slice Sausage @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
+ - Montreal Chicken @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
@@ -48,12 +75,6 @@ In name:
 In description:   
  - Pizza Slice Portabello Alfredo (Veg) @ *Gordon Capital City Pizza*  
   
-**fish**  
-In name:   
-  
-In description:   
- - Poulet Braise @ *Gordon Eggcetera*  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
@@ -84,6 +105,7 @@ In name:
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pizza Slice Mediterranean Chicken @ *Gordon Capital City Pizza*  
+ - Jamaican Jerk Chicken @ *Gordon Eggcetera*  
  - Crispy Chicken Sandwich @ *Fired Up*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
@@ -91,7 +113,6 @@ In name:
 In description:   
  - Swedish Meatballs (AYCTE) @ *1849*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
- - Poulet Braise @ *Gordon Eggcetera*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-04-06)  
 **portabella**  
@@ -102,15 +123,15 @@ In name:
 In name:   
  - Samosas @ *Que Rico*  
   
+**steak**  
+In name:   
+ - Country Fried Steak @ *1849*  
+  
 **catfish**  
 In name:   
   
 In description:   
  - Indian Fish Curry @ *Que Rico*  
-  
-**Shrimp**  
-In name:   
- - Fried Popcorn Shrimp @ *1849*  
   
 **fish**  
 In name:   
@@ -128,21 +149,22 @@ In name:
   
 **beef**  
 In name:   
- - Beef Tri Tip Carved w/ Chimichurri @ *1849*  
+ - Beef & Chicken Meatballs @ *Global Kitchen*  
   
 In description:   
  - Grilled Blended Burger w/ Cheese @ *Fired Up*  
+ - Country Fried Steak @ *1849*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
 In name:   
- - Italian Pork Sausage @ *Global Kitchen*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
 In name:   
+ - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
