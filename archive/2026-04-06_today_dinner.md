@@ -1,11 +1,7 @@
 # 2026-04-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-07 16:41:09  
+Updated at: 2026-04-07 17:37:34  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-07)  
-**portabella**  
-In name:   
- - Portabella Mushroom Ravioli Plain @ *Buona Cucina*  
-  
 **Pakoras**  
 In name:   
  - Appetizer -  Pakoras Vegetable (Veg) @ *Global Kitchen*  
@@ -30,6 +26,7 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Beef Ravioli Plain @ *Buona Cucina*  
  - Beef Mediterranean @ *Que Rico*  
   
 In description:   
@@ -44,7 +41,7 @@ In name:
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Spicy Crispy Chicken Sandwich @ *Fired Up*  
- - Butter Chicken @ *Global Kitchen*  
+ - Chicken Vindaloo @ *Global Kitchen*  
  - Mediterranean Chicken @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
@@ -121,7 +118,7 @@ In name:
  - Chicken Empanada with Green Chili @ *Gordon Que Rico*  
  - Chicken Paprikash @ *Gordon Eggcetera*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Dumpling Soup @ *Great Greens*  
+ - Chicken Noodle Soup @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-04-07)  
 **portabella**  
