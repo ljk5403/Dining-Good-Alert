@@ -1,6 +1,6 @@
 # 2026-04-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-07 10:06:51  
+Updated at: 2026-04-07 11:58:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-07)  
 **portabella**  
 In name:   
@@ -36,6 +36,7 @@ In description:
 **pork**  
 In name:   
  - Cajun Rice w/ Pork & Black Eyed Peas @ *1849*  
+ - Pizza Slice BBQ Pulled Pork @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
