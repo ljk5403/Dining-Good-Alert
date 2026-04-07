@@ -1,6 +1,6 @@
 # 2026-04-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-07 15:47:04  
+Updated at: 2026-04-07 16:41:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-07)  
 **portabella**  
 In name:   
@@ -44,7 +44,7 @@ In name:
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Spicy Crispy Chicken Sandwich @ *Fired Up*  
- - Chicken Vindaloo @ *Global Kitchen*  
+ - Butter Chicken @ *Global Kitchen*  
  - Mediterranean Chicken @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
@@ -186,7 +186,7 @@ In name:
 **beef**  
 In name:   
  - Beef Mediterranean @ *Global*  
- - Texas BBQ Sliced Beef Brisket @ *Carson's 1849*  
+ - Corned Beef @ *Carson's 1849*  
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
