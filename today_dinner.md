@@ -1,6 +1,6 @@
 # 2026-04-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-07 18:36:21  
+Updated at: 2026-04-07 21:25:52  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-07)  
 **Pakoras**  
 In name:   
@@ -121,16 +121,9 @@ In name:
  - Chicken Noodle Soup @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-04-07)  
-**portabella**  
-In name:   
-  
-In description:   
- - Mushroom Bulgogi Bao Bun @ *Que Rico*  
-  
 **Bulgogi**  
 In name:   
  - Beef Bulgogi Bao Bun @ *Que Rico*  
- - Mushroom Bulgogi Bao Bun @ *Que Rico*  
   
 **mahi mahi**  
 In name:   
@@ -146,6 +139,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Meatballs @ *Global Kitchen*  
  - Beef Bulgogi Bao Bun @ *Que Rico*  
  - Mediterranean Beef @ *Create-A-Bowl*  
   
@@ -154,18 +148,21 @@ In description:
   
 **pork**  
 In name:   
+ - French Market Pork Jambalaya @ *1849*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
 In name:   
- - Italian Chicken @ *Global Kitchen*  
- - Smoked BBQ Chicken Breast @ *1849*  
  - Mediterranean Chicken @ *Create-A-Bowl*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
+  
+In description:   
+ - Beef Meatballs @ *Global Kitchen*  
+ - French Market Pork Jambalaya @ *1849*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-04-07)  
 **portabella**  
@@ -209,4 +206,24 @@ In description:
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-04-07)  
+**curry**  
+In name:   
+ - Currywurst (Pork) @ *Lowell Market*  
+ - Garbanzo Bean Curry @ *Lowell Market*  
+  
+**beef**  
+In name:   
+ - Beef Stir Fry w/ Snow Peas @ *Lowell Market*  
+  
+In description:   
+ - Currywurst (Pork) @ *Lowell Market*  
+  
+**pork**  
+In name:   
+ - Currywurst (Pork) @ *Lowell Market*  
+  
+**chicken**  
+In name:   
+ - Chicken Wings Boneless Plain @ *Lowell Market*  
+  
   
