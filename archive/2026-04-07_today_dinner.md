@@ -1,6 +1,6 @@
 # 2026-04-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-08 10:09:28  
+Updated at: 2026-04-08 12:00:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-08)  
 **clam**  
 In name:   
@@ -112,9 +112,9 @@ In description:
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-04-08)  
-**Vanilla Coconut Milk Yogurt**  
+**Salmon**  
 In name:   
- - Vanilla Coconut Milk Yogurt @ *Great Greens*  
+ - Smoked Salmon @ *Great Greens*  
   
 **Cod**  
 In name:   
