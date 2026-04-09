@@ -1,6 +1,6 @@
 # 2026-04-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-08 17:38:09  
+Updated at: 2026-04-08 18:37:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-08)  
 **clam**  
 In name:   
@@ -70,6 +70,12 @@ In name:
 In description:   
  - Vegan French Dip Sandwich @ *Fired Up*  
   
+**drumstick**  
+In name:   
+  
+In description:   
+ - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
+  
 **Tilapia**  
 In name:   
  - Baked Tilapia w/Dill Wine Sauce @ *1849*  
@@ -99,7 +105,7 @@ In name:
   
 **chicken**  
 In name:   
- - Huli Huli Chicken @ *1849*  
+ - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Sweet & Sour Chicken @ *Gordon Global Kitchen*  
  - Plant Based Sweet & Sour Chicken @ *Gordon Global Kitchen*  

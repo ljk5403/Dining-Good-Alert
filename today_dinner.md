@@ -1,6 +1,6 @@
 # 2026-04-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-08 18:37:40  
+Updated at: 2026-04-08 21:12:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-08)  
 **clam**  
 In name:   
@@ -70,12 +70,6 @@ In name:
 In description:   
  - Vegan French Dip Sandwich @ *Fired Up*  
   
-**drumstick**  
-In name:   
-  
-In description:   
- - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
-  
 **Tilapia**  
 In name:   
  - Baked Tilapia w/Dill Wine Sauce @ *1849*  
@@ -89,7 +83,9 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Harissa Braised @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef Chili @ *Great Greens*  
   
 In description:   
@@ -105,11 +101,9 @@ In name:
   
 **chicken**  
 In name:   
- - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Sweet & Sour Chicken @ *Gordon Global Kitchen*  
  - Plant Based Sweet & Sour Chicken @ *Gordon Global Kitchen*  
- - Chicken Fajitas w/Rice & Beans @ *Gordon Que Rico*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
  - Diced Chicken @ *Great Greens*  
   
@@ -218,9 +212,9 @@ In description:
 In name:   
  - Portabella Mediterranean @ *Lowell Market*  
   
-**Salmon**  
+**mahi mahi**  
 In name:   
- - BBQ Salmon @ *Lowell Market*  
+ - Baked Mahi Mahi w/ Butter & Lemon @ *Lowell Market*  
   
 **beef**  
 In name:   
