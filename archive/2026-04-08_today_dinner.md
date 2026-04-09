@@ -1,6 +1,6 @@
 # 2026-04-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-09 02:21:39  
+Updated at: 2026-04-09 10:22:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-09)  
 **Chicken Drummies**  
 In name:   
@@ -165,36 +165,27 @@ In description:
  - Shredded Beef Flauta @ *Que Rico*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-04-09)  
-**Shrimp**  
-In name:   
- - Shrimp Etouffee @ *Fired Up*  
-  
 **beef**  
 In name:   
  - Beef Walking Taco w/ Fritos @ *Global*  
   
 In description:   
- - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
  - Station Recipe - Carson's Que Rico @ *Global*  
  - Vegan Walking Taco w/ Fritos @ *Global*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious:  Available Between 11am-4pm*  
   
 **pork**  
 In name:   
- - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious:  Available Between 11am-4pm*  
   
 **chicken**  
 In name:   
- - Chicken Tenders Breaded @ *Carson's 1849*  
- - Plant-Based Chicken Tenders @ *Carson's 1849*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
- - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
  - Station Recipe - Carson's Que Rico @ *Global*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-04-09)  
