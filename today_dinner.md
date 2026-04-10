@@ -1,6 +1,6 @@
 # 2026-04-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-10 02:26:37  
+Updated at: 2026-04-10 09:47:34  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-10)  
 **Shrimp**  
 In name:   
@@ -71,66 +71,6 @@ In name:
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-04-10)  
-**haddock**  
-In name:   
- - Haddock Ginger Glazed (AYCTE) @ *1849*  
-  
-**squid**  
-In name:   
-  
-In description:   
- - Fried Calamari @ *Gordon Eggcetera*  
-  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp @ *Gordon Buona Cucina*  
- - Shrimp Po-Boy Sandwich @ *Fired Up*  
-  
-**lamb**  
-In name:   
-  
-In description:   
- - Pizza Slice Gyro @ *Gordon Capital City Pizza*  
-  
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
-  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
-**curry**  
-In name:   
- - Lentil Chickpea Red Curry @ *Gordon Global Kitchen*  
-  
-**beef**  
-In name:   
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
-  
-In description:   
- - Pizza Slice Gyro @ *Gordon Capital City Pizza*  
-  
-**pork**  
-In name:   
- - Chicken Bacon (Pork) Ranch Pizza @ *Gordon Capital City Pizza*  
-  
-In description:   
- - Gnocchi w/ Sausage & Roast Veg @ *Gordon Buona Cucina*  
-  
-**chicken**  
-In name:   
- - Chicken Breast w/Balsamic BBQ Sauce @ *1849*  
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Chicken Bacon (Pork) Ranch Pizza @ *Gordon Capital City Pizza*  
- - Butter Chicken @ *Gordon Global Kitchen*  
- - Chicken Fajita Meat @ *Gordon Que Rico*  
- - Plant-Based Chicken Nuggets (6) @ *Gordon Eggcetera*  
- - Diced Chicken @ *Great Greens*  
-  
-In description:   
- - Build Your Own Southwest Bowl @ *Gordon Que Rico*  
-  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-04-10)  
 **Poke Bar**  
 In name:   
