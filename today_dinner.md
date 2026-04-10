@@ -1,11 +1,7 @@
 # 2026-04-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-09 18:36:37  
+Updated at: 2026-04-09 21:31:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-09)  
-**Chicken Drummies**  
-In name:   
- - Chicken Drummies @ *Fired Up*  
-  
 **Shrimp**  
 In name:   
  - Blackened Shrimp @ *1849*  
@@ -34,7 +30,7 @@ In name:
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Pizza Slice Chicken Broccoli Alfredo @ *Capital City Pizza*  
- - Chicken Drummies @ *Fired Up*  
+ - Crispy Chicken Sandwich @ *Fired Up*  
  - Protein Plant Based Chicken Tender @ *Fired Up*  
  - Mediterranean Chicken @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
@@ -48,9 +44,15 @@ In description:
 In name:   
  - Country Fried Steak @ *1849*  
   
-**Salmon**  
+**Tilapia**  
 In name:   
- - Ginger Glazed Salmon @ *Global Kitchen*  
+ - Tilapia Chipotle Lime Crusted @ *Global Kitchen*  
+  
+**curry**  
+In name:   
+  
+In description:   
+ - Chicken Madras @ *Global Kitchen*  
   
 **beef**  
 In name:   
@@ -62,7 +64,7 @@ In description:
 In name:   
  - Chicken Pot Pie Filling @ *1849*  
  - Plant-Based Chicken & Gravy (VN) @ *1849*  
- - Marrakech Chicken Breast @ *Global Kitchen*  
+ - Chicken Madras @ *Global Kitchen*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
   
@@ -165,27 +167,36 @@ In description:
  - Shredded Beef Flauta @ *Que Rico*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-04-09)  
+**Shrimp**  
+In name:   
+ - Shrimp Etouffee @ *Fired Up*  
+  
 **beef**  
 In name:   
  - Beef Walking Taco w/ Fritos @ *Global*  
+ - Beef Chili @ *Great Greens*  
   
 In description:   
+ - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
  - Station Recipe - Carson's Que Rico @ *Global*  
  - Vegan Walking Taco w/ Fritos @ *Global*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious:  Available Between 11am-4pm*  
   
 **pork**  
 In name:   
+ - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious:  Available Between 11am-4pm*  
   
 **chicken**  
 In name:   
+ - Chicken Tenders Breaded @ *Carson's 1849*  
+ - Plant-Based Chicken Tenders @ *Carson's 1849*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
+ - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
  - Station Recipe - Carson's Que Rico @ *Global*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-04-09)  
