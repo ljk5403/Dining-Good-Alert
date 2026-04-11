@@ -1,6 +1,6 @@
 # 2026-04-11 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-11 09:35:40  
+Updated at: 2026-04-11 10:33:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-11)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-04-11)  
 **Chicken Drummies**  
@@ -29,6 +29,7 @@ In description:
 **beef**  
 In name:   
  - Beef Carne Guisada @ *1849*  
+ - Plant-Based Beef & Broccoli Stir Fry @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - BBQ Beef Brisket Slider @ *Gordon Fired Up*  
  - Beef Taco Meat @ *Gordon Que Rico*  
