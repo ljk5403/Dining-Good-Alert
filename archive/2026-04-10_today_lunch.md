@@ -1,6 +1,6 @@
 # 2026-04-11 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-11 13:42:48  
+Updated at: 2026-04-11 15:33:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-11)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-04-11)  
 **Chicken Drummies**  
@@ -26,9 +26,12 @@ In description:
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-04-11)  
+**curry**  
+In name:   
+ - Japanese Chicken Curry @ *1849*  
+  
 **beef**  
 In name:   
- - Beef Carne Guisada @ *1849*  
  - Plant-Based Beef & Broccoli Stir Fry @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - BBQ Beef Brisket Slider @ *Gordon Fired Up*  
@@ -51,6 +54,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Japanese Chicken Curry @ *1849*  
  - Chicken Enchilada Bake @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Chicken Tinga @ *Gordon Que Rico*  
