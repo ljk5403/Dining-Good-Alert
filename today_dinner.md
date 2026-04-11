@@ -1,6 +1,6 @@
 # 2026-04-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-10 18:34:31  
+Updated at: 2026-04-10 21:10:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-10)  
 **Shrimp**  
 In name:   
@@ -76,9 +76,13 @@ In name:
 In name:   
  - Build Your Own Poke Bar @ *Create-A-Bowl*  
   
-**Salmon**  
+**drumstick**  
 In name:   
- - Masala Spiced Salmon @ *1849*  
+ - Jamaican Jerk Chicken Drumstick @ *1849*  
+  
+**Tilapia**  
+In name:   
+ - Tilapia Piccata @ *1849*  
   
 **Tuna**  
 In name:   
@@ -91,9 +95,6 @@ In name:
 **curry**  
 In name:   
  - Vegan Curry Stew @ *1849*  
-  
-In description:   
- - Tikka Masala Chicken @ *1849*  
   
 **beef**  
 In name:   
@@ -110,10 +111,13 @@ In description:
   
 **chicken**  
 In name:   
- - Tikka Masala Chicken @ *1849*  
+ - Jamaican Jerk Chicken Drumstick @ *1849*  
  - Chicken Empanada with Green Chili @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
+  
+In description:   
+ - Tilapia Piccata @ *1849*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-04-10)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-04-10)  
