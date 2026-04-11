@@ -1,10 +1,15 @@
 # 2026-04-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-11 13:42:52  
+Updated at: 2026-04-11 15:33:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-11)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-04-11)  
+**Cod**  
+In name:   
+ - Basque Style Cod @ *Global Kitchen*  
+  
 **beef**  
 In name:   
+ - Beef & Tater Tot Bake @ *Global Kitchen*  
  - Beef Enchilada Bake @ *Global Kitchen*  
   
 **pork**  
@@ -15,6 +20,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Basque Style @ *Global Kitchen*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
@@ -63,6 +69,7 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
+ - Grilled Blended Burger w/ Cheese @ *Fired Up*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
@@ -74,7 +81,7 @@ In description:
   
 **chicken**  
 In name:   
- - Plant-Based Chicken Nuggets (6) @ *Fired Up*  
+ - Plant-Based Chicken Tenders @ *Fired Up*  
  - Spicy Crispy Chicken Sandwich @ *Fired Up*  
  - Italian Chicken @ *Global Kitchen*  
  - Spicy Lo Mein w/Chicken @ *1849*  
