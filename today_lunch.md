@@ -1,6 +1,6 @@
 # 2026-04-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-12 12:34:08  
+Updated at: 2026-04-12 13:49:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-12)  
 **steak**  
 In name:   
@@ -27,7 +27,7 @@ In name:
   
 **chicken**  
 In name:   
- - Honey Mustard Chicken & Vegetables @ *1849*  
+ - Huli Huli Chicken @ *1849*  
  - Fajita Chicken @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
