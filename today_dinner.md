@@ -1,6 +1,6 @@
 # 2026-04-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-12 17:33:56  
+Updated at: 2026-04-12 18:34:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-12)  
 **lamb**  
 In name:   
@@ -101,7 +101,6 @@ In description:
   
 **chicken**  
 In name:   
- - Grilled Chicken Sandwich @ *Fired Up*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Plant Based Chicken Strips @ *Global Kitchen*  
  - Chicken Pot Pie w/Biscuit @ *1849*  
