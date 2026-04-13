@@ -1,6 +1,6 @@
 # 2026-04-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-13 14:13:19  
+Updated at: 2026-04-13 15:55:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-13)  
 **drumstick**  
 In name:   
@@ -223,15 +223,18 @@ In name:
   
 In description:   
  - Hoisin BBQ Glazed Salmon @ *Lowell Market*  
+ - Thai BBQ Pork Ribs @ *Lowell Market*  
   
 **curry**  
 In name:   
   
 In description:   
  - Navarathan Korma (AYCTE) @ *Lowell Market*  
+ - Chicken Tikka Masala @ *Lowell Market*  
   
 **beef**  
 In name:   
+ - Beef Sirloin Tips @ *Lowell Market*  
   
 In description:   
  - Baked Corn Dog (Pork) @ *Lowell Market*  
@@ -239,10 +242,15 @@ In description:
 **pork**  
 In name:   
  - Baked Corn Dog (Pork) @ *Lowell Market*  
+ - Thai BBQ Pork Ribs @ *Lowell Market*  
+  
+In description:   
+ - Italian Sausage w/ Pepper & Onions @ *Lowell Market*  
   
 **chicken**  
 In name:   
  - General Tso's Chicken @ *Lowell Market*  
+ - Chicken Tikka Masala @ *Lowell Market*  
   
 In description:   
  - Baked Corn Dog (Pork) @ *Lowell Market*  
