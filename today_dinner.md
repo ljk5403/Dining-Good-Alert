@@ -1,6 +1,6 @@
 # 2026-04-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-12 18:34:10  
+Updated at: 2026-04-12 21:38:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-12)  
 **lamb**  
 In name:   
@@ -23,6 +23,7 @@ In name:
   
 **chicken**  
 In name:   
+ - Huli Huli Chicken @ *1849*  
  - Blackened Chicken @ *1849*  
  - Sweet & Sour Chicken @ *Global Kitchen*  
  - Plant Based Sweet & Sour Chicken @ *Global Kitchen*  
@@ -36,6 +37,10 @@ In description:
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-04-12)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-04-12)  
+**drumstick**  
+In name:   
+ - Chicken Drumstick BBQ Glazed @ *1849*  
+  
 **steak**  
 In name:   
  - Grilled Flank Steak @ *1849*  
@@ -63,6 +68,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Italian Sausage @ *Gordon Buona Cucina*  
  - Pork Carnita @ *Gordon Que Rico*  
   
 In description:   
@@ -70,16 +76,18 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Drumstick BBQ Glazed @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Giardiniera Chicken @ *Gordon Buona Cucina*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-04-12)  
-**steak**  
+**fish**  
 In name:   
- - Rosemary Cabernet Flank Steak @ *1849*  
+  
+In description:   
+ - Vietnamese Pork @ *1849*  
   
 **beef**  
 In name:   
@@ -89,11 +97,11 @@ In name:
   
 In description:   
  - Italian Meat Sauce @ *Global Kitchen*  
- - Rosemary Cabernet Flank Steak @ *1849*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
 In name:   
+ - Vietnamese Pork @ *1849*  
  - Pork Carnita @ *Que Rico*  
   
 In description:   
@@ -103,10 +111,9 @@ In description:
 In name:   
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Plant Based Chicken Strips @ *Global Kitchen*  
- - Chicken Pot Pie w/Biscuit @ *1849*  
+ - Jamaican Jerk Chicken @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Chili @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-04-12)  
 **Shrimp**  
