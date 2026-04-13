@@ -1,6 +1,6 @@
 # 2026-04-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-13 16:49:45  
+Updated at: 2026-04-13 17:42:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-13)  
 **drumstick**  
 In name:   
@@ -230,7 +230,6 @@ In name:
   
 In description:   
  - Navarathan Korma (AYCTE) @ *Lowell Market*  
- - Chicken Tikka Masala @ *Lowell Market*  
   
 **beef**  
 In name:   
@@ -250,7 +249,7 @@ In description:
 **chicken**  
 In name:   
  - General Tso's Chicken @ *Lowell Market*  
- - Chicken Tikka Masala @ *Lowell Market*  
+ - Chicken Baked  (1 piece) @ *Lowell Market*  
   
 In description:   
  - Baked Corn Dog (Pork) @ *Lowell Market*  
