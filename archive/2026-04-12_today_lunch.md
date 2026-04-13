@@ -1,6 +1,6 @@
 # 2026-04-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-13 12:02:26  
+Updated at: 2026-04-13 14:13:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-13)  
 **Tuna**  
 In name:   
@@ -193,6 +193,10 @@ In description:
  - Sausage (Pork) & Pepperoni Pizza Slice @ *Capital City Pizza:  Available Between 11am-4pm*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-04-13)  
+**portabella**  
+In name:   
+ - Portabella Mediterranean @ *Lowell Market*  
+  
 **curry**  
 In name:   
   
