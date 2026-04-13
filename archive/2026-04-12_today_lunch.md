@@ -1,6 +1,6 @@
 # 2026-04-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-13 10:15:48  
+Updated at: 2026-04-13 12:02:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-13)  
 **Tuna**  
 In name:   
@@ -61,6 +61,10 @@ In name:
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-04-13)  
+**Vanilla Coconut Milk Yogurt**  
+In name:   
+ - Vanilla Coconut Milk Yogurt @ *Great Greens*  
+  
 **steak**  
 In name:   
  - Country Fried Steak @ *1849*  
@@ -68,6 +72,7 @@ In name:
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
+ - Tuna @ *Great Greens*  
   
 **beef**  
 In name:   
@@ -76,6 +81,7 @@ In name:
   
 In description:   
  - Country Fried Steak @ *1849*  
+ - Country Gravy @ *1849*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
  - Deli @ *Gordon Delicious*  
   
@@ -150,12 +156,6 @@ In name:
  - Tikka Masala Chicken @ *Que Rico*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-04-13)  
-**portabella**  
-In name:   
-  
-In description:   
- - Vegan Mushroom Banh Mi Sandwich @ *Fired Up:  Available Between 11am-2pm*  
-  
 **steak**  
 In name:   
   
