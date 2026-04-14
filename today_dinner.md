@@ -1,6 +1,6 @@
 # 2026-04-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-13 18:41:43  
+Updated at: 2026-04-13 21:32:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-13)  
 **drumstick**  
 In name:   
@@ -23,7 +23,6 @@ In name:
 **beef**  
 In name:   
  - Beef Ravioli Plain @ *Buona Cucina*  
- - Beef Carne Guisada @ *Que Rico*  
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
@@ -32,6 +31,7 @@ In name:
  - Cajun Rice w/ Pork & Black Eyed Peas @ *1849*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
  - BBQ Pork Sandwich @ *Fired Up*  
+ - Pork Carnita @ *Que Rico*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
@@ -74,9 +74,9 @@ In name:
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-04-13)  
-**Salmon**  
+**Shrimp**  
 In name:   
- - Masala Spiced Salmon @ *1849*  
+ - Fried Popcorn Shrimp @ *1849*  
   
 **Tuna**  
 In name:   
@@ -120,7 +120,7 @@ In name:
   
 **Shrimp**  
 In name:   
- - Redhook Ale Breaded Shrimp @ *1849*  
+ - Fried Popcorn Shrimp @ *1849*  
  - Shrimp Curry @ *Que Rico*  
   
 **fish**  
@@ -214,19 +214,20 @@ In description:
  - Sausage (Pork) & Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-04-13)  
-**Salmon**  
+**mahi mahi**  
 In name:   
- - Hoisin BBQ Glazed Salmon @ *Lowell Market*  
+ - Coconut Thai Curry Mahi Mahi @ *Lowell Market*  
   
 **fish**  
 In name:   
   
 In description:   
- - Hoisin BBQ Glazed Salmon @ *Lowell Market*  
+ - Coconut Thai Curry Mahi Mahi @ *Lowell Market*  
  - Thai BBQ Pork Ribs @ *Lowell Market*  
   
 **curry**  
 In name:   
+ - Coconut Thai Curry Mahi Mahi @ *Lowell Market*  
   
 In description:   
  - Navarathan Korma (AYCTE) @ *Lowell Market*  
@@ -248,7 +249,7 @@ In description:
   
 **chicken**  
 In name:   
- - General Tso's Chicken @ *Lowell Market*  
+ - Baked BBQ Chicken @ *Lowell Market*  
  - Chicken Baked  (1 piece) @ *Lowell Market*  
   
 In description:   
