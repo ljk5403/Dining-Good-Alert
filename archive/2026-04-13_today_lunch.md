@@ -1,6 +1,6 @@
 # 2026-04-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-14 12:06:34  
+Updated at: 2026-04-14 14:14:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-14)  
 **portabella**  
 In name:   
@@ -42,6 +42,7 @@ In description:
 **pork**  
 In name:   
  - Pork Banh Mi @ *Fired Up*  
+ - Cajun Rice w/ Pork & Black Eyed Peas @ *Global Kitchen*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
@@ -52,7 +53,6 @@ In description:
 **chicken**  
 In name:   
  - Jamaican Jerk Chicken @ *1849*  
- - Butter Chicken @ *Global Kitchen*  
  - Mediterranean Chicken @ *Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
@@ -102,16 +102,17 @@ In name:
 **Poke Bar**  
 In name:   
  - Poke Bar @ *Gordon Global Kitchen*  
- - Build Your Own Poke Bar @ *Gordon Global Kitchen*  
   
 **Shrimp**  
 In name:   
+ - Poke Shrimp @ *Gordon Global Kitchen*  
   
 In description:   
  - Poke Bar @ *Gordon Global Kitchen*  
   
 **Tuna**  
 In name:   
+ - Poke Tuna @ *Gordon Global Kitchen*  
   
 In description:   
  - Poke Bar @ *Gordon Global Kitchen*  
@@ -151,10 +152,6 @@ In description:
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-04-14)  
-**Salmon**  
-In name:   
- - Smoked Salmon @ *1849*  
-  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
