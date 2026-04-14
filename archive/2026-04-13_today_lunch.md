@@ -1,6 +1,6 @@
 # 2026-04-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-14 10:12:27  
+Updated at: 2026-04-14 12:06:34  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-14)  
 **portabella**  
 In name:   
@@ -104,12 +104,6 @@ In name:
  - Poke Bar @ *Gordon Global Kitchen*  
  - Build Your Own Poke Bar @ *Gordon Global Kitchen*  
   
-**steak**  
-In name:   
-  
-In description:   
- - Pizza Slice Italian Beef @ *Gordon Capital City Pizza*  
-  
 **Shrimp**  
 In name:   
   
@@ -130,11 +124,11 @@ In name:
 In name:   
  - Beef Tri Tip Carved w/ Chimichurri @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Pizza Slice Italian Beef @ *Gordon Capital City Pizza*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Gordon Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Pork Bratwurst Sandwich @ *Gordon Fired Up*  
   
 **pork**  
@@ -150,9 +144,11 @@ In name:
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Plant Based Protein Chicken Taco Filling @ *Gordon Que Rico*  
  - Chicken Dumpling Soup @ *Great Greens*  
+ - Diced Chicken @ *Great Greens*  
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Gordon Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-04-14)  
 **Salmon**  
