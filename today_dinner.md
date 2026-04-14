@@ -1,6 +1,6 @@
 # 2026-04-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-14 16:51:32  
+Updated at: 2026-04-14 17:43:52  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-14)  
 **Samosas**  
 In name:   
@@ -138,6 +138,7 @@ In description:
 **pork**  
 In name:   
  - BBQ Pork Chop @ *1849*  
+ - Pork Italian Sausage @ *Gordon Buona Cucina*  
  - Pizza Slice Deluxe (Pork) @ *Gordon Capital City Pizza*  
  - Filipino Pork Sausage @ *Gordon Eggcetera*  
  - FiIipino Pork Spring Roll @ *Gordon Eggcetera*  
@@ -145,7 +146,6 @@ In name:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Chicken Fajitas w/Rice & Beans @ *Gordon Que Rico*  
   
 In description:   
