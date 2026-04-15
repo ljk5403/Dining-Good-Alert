@@ -1,6 +1,6 @@
 # 2026-04-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-14 17:43:52  
+Updated at: 2026-04-14 18:40:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-14)  
 **Samosas**  
 In name:   
@@ -133,13 +133,12 @@ In name:
   
 In description:   
  - Burnt Ends @ *1849*  
- - Pizza Slice Deluxe (Pork) @ *Gordon Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
 **pork**  
 In name:   
  - BBQ Pork Chop @ *1849*  
  - Pork Italian Sausage @ *Gordon Buona Cucina*  
- - Pizza Slice Deluxe (Pork) @ *Gordon Capital City Pizza*  
  - Filipino Pork Sausage @ *Gordon Eggcetera*  
  - FiIipino Pork Spring Roll @ *Gordon Eggcetera*  
   
@@ -149,7 +148,7 @@ In name:
  - Chicken Fajitas w/Rice & Beans @ *Gordon Que Rico*  
   
 In description:   
- - Pizza Slice Deluxe (Pork) @ *Gordon Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-04-14)  
 **fish**  
@@ -227,7 +226,7 @@ In description:
 **chicken**  
 In name:   
  - Mediterranean Chicken @ *Global*  
- - Chicken Dumpling Soup @ *Great Greens*  
+ - Chicken Chili @ *Great Greens*  
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
