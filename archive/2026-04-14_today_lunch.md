@@ -1,6 +1,6 @@
 # 2026-04-15 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-15 12:03:25  
+Updated at: 2026-04-15 14:17:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-15)  
 **beef**  
 In name:   
@@ -88,6 +88,7 @@ In name:
  - Broasted Chicken @ *1849*  
  - Chicken Gravy @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Breaded Chicken Tenders @ *Gordon Fired Up*  
  - Orange Sweet & Spicy Chicken @ *Gordon Global Kitchen*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
   
@@ -146,7 +147,6 @@ In description:
   
 **pork**  
 In name:   
- - Ancho Braised Pork @ *Carson's 1849:  Available Between 11am-2pm*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza:  Available Between 11am-4pm*  
  - Pork Sausage Patty @ *Eggcetera:  Available Between 11am-2pm*  
   
@@ -155,20 +155,16 @@ In description:
   
 **chicken**  
 In name:   
+ - General Tso's Chicken @ *Carson's 1849:  Available Between 11am-2pm*  
   
 In description:   
- - Ancho Braised Pork @ *Carson's 1849:  Available Between 11am-2pm*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza:  Available Between 11am-4pm*  
  - Italian Meatball Sandwich @ *Fired Up:  Available Between 11am-2pm*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-04-15)  
-**catfish**  
+**Tilapia**  
 In name:   
- - Blackened Catfish @ *Lowell Market*  
-  
-**fish**  
-In name:   
- - Blackened Catfish @ *Lowell Market*  
+ - Blackened Tilapia @ *Lowell Market*  
   
 **beef**  
 In name:   
