@@ -1,6 +1,6 @@
 # 2026-04-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-15 02:44:47  
+Updated at: 2026-04-15 10:04:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-15)  
 **steak**  
 In name:   
@@ -35,29 +35,9 @@ In description:
  - BYO Bar - Mac & Cheese @ *1849*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-04-15)  
-**Pakoras**  
-In name:   
- - Appetizer -  Pakoras Vegetable (Veg) @ *Global Kitchen*  
-  
-**Tilapia**  
-In name:   
- - Baked Tilapia w/ Tomato Tapenade @ *1849*  
-  
-**curry**  
-In name:   
- - Curry Potatoes @ *Global Kitchen*  
-  
-In description:   
- - Tofu & Vegetable Tikka Masala @ *Global Kitchen*  
-  
 **beef**  
 In name:   
  - Beef Chili @ *Great Greens*  
-  
-**chicken**  
-In name:   
- - Greek Chicken @ *1849*  
- - Butter Chicken @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-04-15)  
 **steak**  
