@@ -1,7 +1,11 @@
 # 2026-04-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-15 18:40:48  
+Updated at: 2026-04-15 21:37:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-15)  
+**Chicken Tamale with Oaxaca**  
+In name:   
+ - Chicken Tamale with Oaxaca @ *Que Rico*  
+  
 **beef**  
 In name:   
  - Lomo Saltado w/ Beef @ *Global Kitchen*  
@@ -22,16 +26,36 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Empanada with Green Chili @ *Que Rico*  
+ - Chicken Tamale with Oaxaca @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
  - BYO Bar - Mac & Cheese @ *1849*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-04-15)  
+**Pakoras**  
+In name:   
+ - Appetizer -  Pakoras Vegetable (Veg) @ *Global Kitchen*  
+  
+**Tilapia**  
+In name:   
+ - Baked Tilapia w/ Tomato Tapenade @ *1849*  
+  
+**curry**  
+In name:   
+ - Curry Potatoes @ *Global Kitchen*  
+  
+In description:   
+ - Tofu & Vegetable Tikka Masala @ *Global Kitchen*  
+  
 **beef**  
 In name:   
  - Beef Chili @ *Great Greens*  
+  
+**chicken**  
+In name:   
+ - Greek Chicken @ *1849*  
+ - Butter Chicken @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-04-15)  
 **steak**  
@@ -104,7 +128,7 @@ In description:
 **chicken**  
 In name:   
  - Chicken Wings Boneless Plain @ *Que Rico*  
- - Plant-Based Chicken Nuggets (6) @ *Que Rico*  
+ - Plant-Based Chicken Tenders @ *Que Rico*  
   
 In description:   
  - BYO Bar - Mac & Cheese @ *Create-A-Bowl*  
@@ -172,12 +196,9 @@ In name:
 In description:   
  - Tikka Masala Chicken @ *Lowell Market*  
   
-**beef**  
-In name:   
- - Honey Garlic Beef @ *Lowell Market*  
-  
 **chicken**  
 In name:   
+ - Breaded Chicken Fillet @ *Lowell Market*  
  - Tikka Masala Chicken @ *Lowell Market*  
   
   
