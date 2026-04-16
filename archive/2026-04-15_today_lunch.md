@@ -1,6 +1,6 @@
 # 2026-04-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-16 10:24:35  
+Updated at: 2026-04-16 12:13:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-16)  
 **steak**  
 In name:   
@@ -102,6 +102,7 @@ In description:
 **pork**  
 In name:   
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
+ - Gluten Free Pork Sausage Pizza Quarter @ *Gordon Capital City Pizza*  
   
 In description:   
  - Pizza Breakfast Meat w/Bacon @ *Gordon Capital City Pizza*  
