@@ -1,6 +1,6 @@
 # 2026-04-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-17 12:48:39  
+Updated at: 2026-04-17 13:59:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-17)  
 **Salmon**  
 In name:   
@@ -64,13 +64,10 @@ In name:
 In name:   
  - Beef Taco Meat @ *Global Kitchen*  
   
-**pork**  
-In name:   
- - Pork Carnita @ *Global Kitchen*  
-  
 **chicken**  
 In name:   
  - Plant Based Protein Chicken Taco Filling @ *Global Kitchen*  
+ - Sumac Chicken @ *Global Kitchen*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-04-17)  

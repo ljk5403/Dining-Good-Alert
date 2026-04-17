@@ -1,6 +1,6 @@
 # 2026-04-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-17 13:59:43  
+Updated at: 2026-04-17 15:42:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-17)  
 **Bibimbap Bowl**  
 In name:   
@@ -33,11 +33,9 @@ In name:
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
-In description:   
- - Burnt Ends @ *1849*  
-  
 **pork**  
 In name:   
+ - Cajun Rice w/ Pork & Black Eyed Peas @ *1849*  
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
