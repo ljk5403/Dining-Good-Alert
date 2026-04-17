@@ -1,6 +1,6 @@
 # 2026-04-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-17 02:45:57  
+Updated at: 2026-04-17 09:54:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-17)  
 **Salmon**  
 In name:   
@@ -78,13 +78,13 @@ In name:
 In name:   
  - Tandoori Chicken @ *Gordon Global Kitchen*  
   
+**mahi mahi**  
+In name:   
+ - Baked Mahi Mahi w/ Butter & Lemon @ *1849*  
+  
 **Shrimp**  
 In name:   
  - Sauteed Shrimp @ *Gordon Buona Cucina*  
-  
-**Cod**  
-In name:   
- - Greek Cod @ *1849*  
   
 **clam**  
 In name:   
