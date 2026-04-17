@@ -1,6 +1,6 @@
 # 2026-04-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-17 17:38:07  
+Updated at: 2026-04-17 18:38:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-17)  
 **Bibimbap Bowl**  
 In name:   
@@ -194,7 +194,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Barbacoa @ *Lowell Market*  
  - Bulgogi Beef @ *Lowell Market*  
   
 **pork**  
@@ -203,6 +202,7 @@ In name:
   
 **chicken**  
 In name:   
+ - Chicken Tinga @ *Lowell Market*  
  - Popcorn Chicken @ *Lowell Market*  
   
   
