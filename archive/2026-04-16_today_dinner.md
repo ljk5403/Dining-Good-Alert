@@ -1,6 +1,6 @@
 # 2026-04-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-17 15:42:41  
+Updated at: 2026-04-17 16:40:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-17)  
 **Bibimbap Bowl**  
 In name:   
@@ -90,10 +90,6 @@ In name:
  - Shredded Beef Flauta @ *Gordon Que Rico*  
  - Chicken and Cheese Flauta @ *Gordon Que Rico*  
   
-**Shrimp**  
-In name:   
- - Sauteed Shrimp @ *Gordon Buona Cucina*  
-  
 **Cod**  
 In name:   
   
@@ -127,6 +123,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Italian Sausage @ *Gordon Buona Cucina*  
  - Tavern Style Sausage Pizza (Pork) @ *Gordon Capital City Pizza*  
   
 **chicken**  
@@ -183,9 +180,21 @@ In description:
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-04-17)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-04-17)  
+**Bulgogi**  
+In name:   
+ - Bulgogi Beef @ *Lowell Market*  
+  
 **Cod**  
 In name:   
  - Baked Lemon Butter Cod @ *Lowell Market*  
+  
+**curry**  
+In name:   
+ - Garbanzo Bean Curry @ *Lowell Market*  
+  
+**beef**  
+In name:   
+ - Bulgogi Beef @ *Lowell Market*  
   
 **pork**  
 In name:   
