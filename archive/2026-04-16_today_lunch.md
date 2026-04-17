@@ -1,6 +1,6 @@
 # 2026-04-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-17 09:54:49  
+Updated at: 2026-04-17 11:00:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-17)  
 **Salmon**  
 In name:   
@@ -119,10 +119,6 @@ In name:
 **Poke Bar**  
 In name:   
  - Build Your Own Poke Bar @ *Create-A-Bowl*  
-  
-**Shrimp**  
-In name:   
- - Blackened Shrimp @ *1849*  
   
 **Tilapia**  
 In name:   
