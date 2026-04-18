@@ -1,15 +1,11 @@
 # 2026-04-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-17 18:38:10  
+Updated at: 2026-04-17 21:24:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-17)  
 **Bibimbap Bowl**  
 In name:   
  - Bibimbap Bowl @ *Global Kitchen*  
  - Bibimbap Bowl  Veggies @ *Global Kitchen*  
-  
-**Flauta**  
-In name:   
- - Chicken and Cheese Flauta @ *Que Rico*  
   
 **Shrimp**  
 In name:   
@@ -37,6 +33,7 @@ In name:
 In name:   
  - Cajun Rice w/ Pork & Black Eyed Peas @ *1849*  
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
+ - Ancho Braised Pork @ *Que Rico*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
@@ -47,8 +44,10 @@ In description:
 **chicken**  
 In name:   
  - Diced Chicken Breast @ *Buona Cucina*  
- - Chicken and Cheese Flauta @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
+  
+In description:   
+ - Ancho Braised Pork @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-04-17)  
 **Salmon**  
@@ -87,7 +86,6 @@ In name:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-04-17)  
 **Flauta**  
 In name:   
- - Shredded Beef Flauta @ *Gordon Que Rico*  
  - Chicken and Cheese Flauta @ *Gordon Que Rico*  
   
 **Cod**  
@@ -116,7 +114,7 @@ In description:
 In name:   
  - Texas BBQ Sliced Beef Brisket @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Shredded Beef Flauta @ *Gordon Que Rico*  
+ - Beef Barbacoa @ *Gordon Que Rico*  
   
 In description:   
  - Chili Bar @ *Gordon Eggcetera*  
@@ -132,17 +130,10 @@ In name:
  - Tikka Masala Chicken @ *Gordon Global Kitchen*  
  - Chicken and Cheese Flauta @ *Gordon Que Rico*  
   
-In description:   
- - Shredded Beef Flauta @ *Gordon Que Rico*  
-  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-04-17)  
 **Poke Bar**  
 In name:   
  - Build Your Own Poke Bar @ *Create-A-Bowl*  
-  
-**Salmon**  
-In name:   
- - Blackened Salmon @ *1849*  
   
 **clam**  
 In name:   
@@ -159,6 +150,7 @@ In name:
 **beef**  
 In name:   
  - Beef @ *Global Kitchen*  
+ - Beef Pita Kabaub @ *1849*  
   
 In description:   
  - Sausage (Pork) & Pepperoni Pizza Slice @ *Que Rico*  
@@ -188,10 +180,6 @@ In name:
 In name:   
  - Baked Lemon Butter Cod @ *Lowell Market*  
   
-**curry**  
-In name:   
- - Garbanzo Bean Curry @ *Lowell Market*  
-  
 **beef**  
 In name:   
  - Bulgogi Beef @ *Lowell Market*  
@@ -204,5 +192,6 @@ In name:
 In name:   
  - Chicken Tinga @ *Lowell Market*  
  - Popcorn Chicken @ *Lowell Market*  
+ - Za'atar and Lemon Grilled Chicken @ *Lowell Market*  
   
   
