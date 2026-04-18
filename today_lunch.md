@@ -1,6 +1,6 @@
 # 2026-04-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-18 12:35:39  
+Updated at: 2026-04-18 13:50:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-18)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-04-18)  
 **pork**  
@@ -97,7 +97,7 @@ In description:
 In name:   
  - Spicy Crispy Chicken Sandwich @ *Fired Up*  
  - Giardiniera Chicken @ *Global Kitchen*  
- - Chicken Tinga @ *Que Rico*  
+ - Taco Chicken @ *Que Rico*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Create-A-Bowl*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-04-18)  
