@@ -1,6 +1,6 @@
 # 2026-04-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-18 13:50:57  
+Updated at: 2026-04-18 15:36:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-18)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-04-18)  
 **steak**  
@@ -68,6 +68,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Goulash @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
