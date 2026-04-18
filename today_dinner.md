@@ -1,6 +1,6 @@
 # 2026-04-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-18 17:34:10  
+Updated at: 2026-04-18 18:34:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-18)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-04-18)  
 **steak**  
@@ -35,6 +35,7 @@ In name:
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
+ - BBQ Beef Brisket Slider @ *Fired Up*  
   
 In description:   
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
@@ -54,7 +55,6 @@ In name:
  - Chicken and Pork Sausage Gumbo @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Chicken Tinga @ *Gordon Que Rico*  
- - Chicken Tenders Breaded @ *Fired Up*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
   
 In description:   
@@ -68,7 +68,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Goulash @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
