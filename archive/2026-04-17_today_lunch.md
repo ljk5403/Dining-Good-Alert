@@ -1,6 +1,6 @@
 # 2026-04-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-18 09:38:30  
+Updated at: 2026-04-18 10:36:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-18)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-04-18)  
 **pork**  
@@ -79,6 +79,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Goulash @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -96,7 +97,7 @@ In description:
 In name:   
  - Spicy Crispy Chicken Sandwich @ *Fired Up*  
  - Giardiniera Chicken @ *Global Kitchen*  
- - Taco Chicken @ *Que Rico*  
+ - Chicken Tinga @ *Que Rico*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Create-A-Bowl*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-04-18)  
