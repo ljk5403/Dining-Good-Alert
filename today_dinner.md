@@ -1,6 +1,6 @@
 # 2026-04-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-18 18:34:13  
+Updated at: 2026-04-18 21:38:34  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-18)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-04-18)  
 **steak**  
@@ -27,12 +27,13 @@ In description:
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-04-18)  
-**Shrimp**  
+**curry**  
 In name:   
- - Shrimp Creole @ *1849*  
+ - Beef Curry Stew @ *1849*  
   
 **beef**  
 In name:   
+ - Beef Curry Stew @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - BBQ Beef Brisket Slider @ *Fired Up*  
@@ -55,6 +56,7 @@ In name:
  - Chicken and Pork Sausage Gumbo @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Chicken Tinga @ *Gordon Que Rico*  
+ - Plant-Based Chicken Tenders @ *Fired Up*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
   
 In description:   
@@ -68,13 +70,14 @@ In name:
   
 **beef**  
 In name:   
- - Beef Taco Meat @ *Que Rico*  
+ - Beef Fajita Meat @ *Que Rico*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
 In name:   
+ - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
@@ -86,7 +89,6 @@ In name:
  - Plant-Based Chicken Nuggets (6) @ *Fired Up*  
  - Giardiniera Chicken @ *Global Kitchen*  
  - General Tso's Chicken @ *1849*  
- - Taco Chicken @ *Que Rico*  
   
 In description:   
  - Kale, Sausage & Potato Soup @ *Great Greens*  
