@@ -1,15 +1,13 @@
 # 2026-04-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-19 13:51:00  
+Updated at: 2026-04-19 15:37:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-19)  
 **curry**  
 In name:   
- - Ground Beef Curry @ *Global Kitchen*  
  - Curry Cauliflower & Butternut Squash @ *Global Kitchen*  
   
 **beef**  
 In name:   
- - Ground Beef Curry @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -26,6 +24,7 @@ In name:
 In name:   
  - Chicken & Vegetables w/Dijon Vinaigrette @ *1849*  
  - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
+ - Chicken Vindaloo - w/ Rice @ *Global Kitchen*  
  - Fajita Chicken @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Chili @ *Great Greens*  
@@ -90,6 +89,7 @@ In description:
  - Polish Combo Blended Cheeseburger (Pork) @ *Fired Up*  
  - Brazilian Flank Steak @ *1849*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
+ - Soup Garden Vegetable @ *Great Greens*  
   
 **pork**  
 In name:   
@@ -103,7 +103,7 @@ In description:
 In name:   
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Plant Based Chicken Strips @ *Global Kitchen*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
+ - Chicken Chili @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-04-19)  
 **portabella**  
