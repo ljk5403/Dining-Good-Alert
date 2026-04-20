@@ -1,7 +1,11 @@
 # 2026-04-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-20 12:02:47  
+Updated at: 2026-04-20 14:04:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-20)  
+**drumstick**  
+In name:   
+ - Chicken Drumstick Szechuan Glazed @ *Fired Up*  
+  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
@@ -17,7 +21,6 @@ In description:
 **pork**  
 In name:   
  - Pizza Slice BBQ Pulled Pork @ *Capital City Pizza*  
- - New Orleans Turkey Melt w/ Pork @ *Fired Up*  
  - Italian Pork Sausage @ *Buona Cucina*  
   
 In description:   
@@ -27,6 +30,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Drumstick Szechuan Glazed @ *Fired Up*  
  - Chicken Teriyaki Stir Fry @ *Global Kitchen*  
  - Chicken Tinga @ *Que Rico*  
  - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
@@ -81,6 +85,7 @@ In name:
 In name:   
  - Beef Curry Stew @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Beef Barbacoa @ *Gordon Que Rico*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
@@ -97,7 +102,6 @@ In name:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Chicken Tinga @ *Gordon Que Rico*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   

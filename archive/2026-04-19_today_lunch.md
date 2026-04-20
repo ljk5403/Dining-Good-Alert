@@ -1,6 +1,6 @@
 # 2026-04-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-20 10:14:55  
+Updated at: 2026-04-20 12:02:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-20)  
 **Tuna**  
 In name:   
@@ -46,13 +46,13 @@ In description:
   
 **beef**  
 In name:   
- - Beef Stew w/ Buttermilk Biscuit @ *1849*  
   
 In description:   
  - Baked Corn Dog (Pork) @ *1849*  
   
 **pork**  
 In name:   
+ - Pork Adobo @ *1849*  
  - Baked Corn Dog (Pork) @ *1849*  
   
 **chicken**  
@@ -141,6 +141,7 @@ In name:
 In name:   
   
 In description:   
+ - Italian Meat Sauce @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
