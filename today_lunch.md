@@ -1,6 +1,6 @@
 # 2026-04-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-20 03:06:08  
+Updated at: 2026-04-20 10:14:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-20)  
 **Tuna**  
 In name:   
@@ -73,9 +73,13 @@ In name:
 In name:   
  - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
   
+**curry**  
+In name:   
+ - Beef Curry Stew @ *1849*  
+  
 **beef**  
 In name:   
- - Beef Sirloin Tips @ *1849*  
+ - Beef Curry Stew @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
@@ -86,7 +90,7 @@ In description:
   
 **pork**  
 In name:   
- - Island Spiced Pork w/ Pineapple Salsa @ *1849*  
+ - Herb Crusted Pork Loin @ *1849*  
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Loaded Potato Bacon (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
   
