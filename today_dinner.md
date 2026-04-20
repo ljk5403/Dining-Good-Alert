@@ -1,6 +1,6 @@
 # 2026-04-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-20 17:42:08  
+Updated at: 2026-04-20 18:41:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-20)  
 **Shrimp**  
 In name:   
@@ -17,6 +17,7 @@ In name:
 **beef**  
 In name:   
  - Southwestern Corned Beef Hash @ *1849*  
+ - Beef Ravioli Plain @ *Buona Cucina*  
  - Big Texan Beef Sandwich @ *Fired Up*  
   
 In description:   
