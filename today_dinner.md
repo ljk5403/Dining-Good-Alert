@@ -1,6 +1,6 @@
 # 2026-04-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-19 18:35:52  
+Updated at: 2026-04-19 21:39:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-19)  
 **curry**  
 In name:   
@@ -54,6 +54,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Baked Chicken (2 piece) @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Giardiniera Chicken @ *Gordon Buona Cucina*  
  - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
@@ -118,11 +119,11 @@ In name:
   
 **beef**  
 In name:   
- - Homemade Beef Lasagna @ *Fired Up*  
   
 In description:   
  - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza*  
  - Carson's MTO Pasta Bar @ *Global*  
+ - Baked Corn Dog @ *Carson's 1849*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious:  Available Between 11am-4pm*  
   
 **pork**  
@@ -131,15 +132,18 @@ In name:
 In description:   
  - Pizza Slice Sausage & Mushroom @ *Capital City Pizza*  
  - Carson's MTO Pasta Bar @ *Global*  
+ - Baked Corn Dog @ *Carson's 1849*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious:  Available Between 11am-4pm*  
   
 **chicken**  
 In name:   
+ - Chicken Wings Boneless Plain @ *Fired Up*  
  - Chicken Chili @ *Great Greens*  
   
 In description:   
  - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza*  
  - Carson's MTO Pasta Bar @ *Global*  
+ - Baked Corn Dog @ *Carson's 1849*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-04-19)  
   
