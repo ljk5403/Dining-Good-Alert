@@ -1,6 +1,6 @@
 # 2026-04-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-20 18:41:33  
+Updated at: 2026-04-20 21:34:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-20)  
 **Shrimp**  
 In name:   
@@ -9,10 +9,6 @@ In name:
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
-  
-**Chicken Tamale with Oaxaca**  
-In name:   
- - Chicken Tamale with Oaxaca @ *Que Rico*  
   
 **beef**  
 In name:   
@@ -26,8 +22,10 @@ In description:
 **pork**  
 In name:   
  - Biscuits & Pork Gravy @ *1849*  
+ - Baked Pork Ham @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
  - Pizza Slice BBQ Pulled Pork @ *Capital City Pizza*  
+ - Ancho Braised Pork @ *Que Rico*  
   
 In description:   
  - Pizza Slice Sausage @ *Capital City Pizza*  
@@ -35,9 +33,11 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Tamale with Oaxaca @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
+  
+In description:   
+ - Ancho Braised Pork @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-04-20)  
 **fish**  
