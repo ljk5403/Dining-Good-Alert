@@ -1,6 +1,6 @@
 # 2026-04-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-21 14:10:51  
+Updated at: 2026-04-21 15:52:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-21)  
 **portabella**  
 In name:   
@@ -110,7 +110,7 @@ In name:
   
 **drumstick**  
 In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
+ - Chicken Drumstick Mango Habanero @ *1849*  
   
 **steak**  
 In name:   
@@ -141,7 +141,7 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
+ - Chicken Drumstick Mango Habanero @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Pizza Slice Chicken Sriracha @ *Gordon Capital City Pizza*  
@@ -243,6 +243,8 @@ In description:
 **chicken**  
 In name:   
  - Jamaican Jerk Chicken @ *Lowell Market*  
+ - Diced Chicken @ *Great Greens*  
+ - Chicken Dumpling Soup @ *Great Greens*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Lowell Market*  

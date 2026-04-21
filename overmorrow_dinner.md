@@ -1,6 +1,6 @@
 # 2026-04-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-21 14:11:05  
+Updated at: 2026-04-21 15:52:52  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-23)  
 **portabella**  
 In name:   
@@ -207,5 +207,7 @@ In name:
 **chicken**  
 In name:   
  - Crispy Chicken Sandwich @ *Lowell Market*  
+ - Diced Chicken @ *Great Greens*  
+ - Chicken Noodle Soup @ *Great Greens*  
   
   
