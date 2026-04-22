@@ -1,6 +1,6 @@
 # 2026-04-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-22 02:46:15  
+Updated at: 2026-04-22 10:13:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-24)  
 **duck**  
 In name:   
@@ -122,9 +122,17 @@ In name:
 In name:   
  - Sauteed Shrimp @ *Gordon Buona Cucina*  
   
+**clam**  
+In name:   
+ - Clam Chowder @ *Great Greens*  
+  
 **fish**  
 In name:   
  - Blackened Catfish @ *1849*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
   
 **beef**  
 In name:   
@@ -146,6 +154,7 @@ In name:
  - Pizza Slice 16" Tandoori Chicken (AYCTE) @ *Gordon Capital City Pizza*  
  - Greek Chicken @ *Gordon Global Kitchen*  
  - Plant-Based Chicken Nuggets (6) @ *Gordon Eggcetera*  
+ - Diced Chicken @ *Great Greens*  
   
 In description:   
  - French Market Pork Jambalaya @ *1849*  

@@ -1,6 +1,6 @@
 # 2026-04-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-22 02:46:11  
+Updated at: 2026-04-22 10:12:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-23)  
 **portabella**  
 In name:   
@@ -110,6 +110,8 @@ In name:
  - Mediterranean Chicken @ *Gordon Global Kitchen*  
  - Chicken Empanada with Green Chili @ *Gordon Que Rico*  
  - Breaded Chicken Parmigiana @ *Gordon Eggcetera*  
+ - Diced Chicken @ *Great Greens*  
+ - Chicken Noodle Soup @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-04-23)  
 **portabella**  

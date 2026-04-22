@@ -1,6 +1,6 @@
 # 2026-04-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-22 02:46:13  
+Updated at: 2026-04-22 10:12:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-24)  
 **portabella**  
 In name:   
@@ -27,21 +27,11 @@ In name:
 In name:   
  - Battered Cod Fillet Sandwich @ *Fired Up*  
   
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
-  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
 **beef**  
 In name:   
  - Bulgogi Beef Tacos @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
  - Beef Fajita Meat @ *Que Rico*  
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
@@ -49,22 +39,16 @@ In description:
 **pork**  
 In name:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Pizza Slice Sausage @ *Capital City Pizza*  
  - Chorizo Sauce @ *Buona Cucina*  
- - Bacon Slice @ *Delicious*  
- - Smoked Ham @ *Delicious*  
- - Bacon @ *Delicious*  
   
 **chicken**  
 In name:   
  - Chicken Drumstick Gochujang Glazed @ *1849*  
  - Chicken Tinga @ *Que Rico*  
  - Diced Chicken Breast @ *Buona Cucina*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
- - Diced Chicken @ *Great Greens*  
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
@@ -117,19 +101,11 @@ In name:
 In name:   
  - Baked Lemon Butter Cod @ *1849*  
   
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
-  
 **fish**  
 In name:   
   
 In description:   
  - Beef Masaman Thai Curry @ *Gordon Global Kitchen*  
-  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
   
 **curry**  
 In name:   
@@ -155,7 +131,6 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pizza Slice 16" Tandoori Chicken (AYCTE) @ *Gordon Capital City Pizza*  
  - Spicy Crispy Chicken Sandwich @ *Gordon Fired Up*  
- - Diced Chicken @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-04-24)  
 **Poke Bar**  
@@ -206,13 +181,8 @@ In description:
 In name:   
  - Caribbean Cod @ *Lowell Market*  
   
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
-  
 **chicken**  
 In name:   
  - Shoyu Chicken @ *Lowell Market*  
- - Diced Chicken @ *Great Greens*  
   
   

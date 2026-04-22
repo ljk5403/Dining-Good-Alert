@@ -1,6 +1,6 @@
 # 2026-04-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-22 02:46:08  
+Updated at: 2026-04-22 10:12:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-22)  
 **portabella**  
 In name:   
@@ -112,6 +112,7 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Beef Chili @ *Great Greens*  
   
 In description:   
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
@@ -132,6 +133,7 @@ In name:
  - Plant Based Sesame Chicken (AYCTE) (VN) @ *Gordon Global Kitchen*  
  - Chicken Fajitas w/Rice & Beans @ *Gordon Que Rico*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
+ - Diced Chicken @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-04-22)  
 **catfish**  
