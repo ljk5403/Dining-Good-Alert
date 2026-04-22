@@ -1,6 +1,6 @@
 # 2026-04-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-22 16:50:57  
+Updated at: 2026-04-22 17:46:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-22)  
 **portabella**  
 In name:   
@@ -203,7 +203,7 @@ In description:
 **beef**  
 In name:   
  - Beef Taco Meat @ *Lowell Market*  
- - Beef Barbacoa @ *Lowell Market*  
+ - Texas BBQ Sliced Beef Brisket @ *Lowell Market*  
  - Beef Chili @ *Great Greens*  
   
 **pork**  
