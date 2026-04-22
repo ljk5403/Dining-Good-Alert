@@ -1,6 +1,6 @@
 # 2026-04-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-22 15:54:05  
+Updated at: 2026-04-22 16:50:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-22)  
 **Tuna**  
 In name:   
@@ -77,6 +77,7 @@ In name:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-04-22)  
 **beef**  
@@ -103,7 +104,6 @@ In description:
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-04-22)  
 **beef**  
 In name:   
- - Beef Chili @ *Great Greens*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious:  Available Between 11am-4pm*  
