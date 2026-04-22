@@ -1,10 +1,14 @@
 # 2026-04-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-21 18:34:20  
+Updated at: 2026-04-21 21:32:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-21)  
 **portabella**  
 In name:   
  - Portabella Mushroom Ravioli Plain @ *Buona Cucina*  
+  
+**drumstick**  
+In name:   
+ - Chicken Drumstick Szechuan Glazed @ *Global Kitchen*  
   
 **Tuna**  
 In name:   
@@ -17,9 +21,6 @@ In name:
 **curry**  
 In name:   
  - Squash Curry @ *Global Kitchen*  
-  
-In description:   
- - Chicken Korma @ *Global Kitchen*  
   
 **beef**  
 In name:   
@@ -49,7 +50,7 @@ In name:
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Crispy Chicken Sandwich @ *Fired Up*  
  - VN Sand Chicken Paradise @ *Fired Up*  
- - Chicken Korma @ *Global Kitchen*  
+ - Chicken Drumstick Szechuan Glazed @ *Global Kitchen*  
  - Mediterranean Chicken @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
@@ -110,11 +111,7 @@ In name:
   
 **drumstick**  
 In name:   
- - Chicken Drumstick Mango Habanero @ *1849*  
-  
-**steak**  
-In name:   
- - Steak Street Taco @ *Gordon Que Rico*  
+ - Chicken Drumstick BBQ Glazed @ *1849*  
   
 **mahi mahi**  
 In name:   
@@ -133,17 +130,16 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
- - Steak Street Taco @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
  - Green Beans w/ Pork Bacon @ *1849*  
+ - Pork Italian Sausage @ *Gordon Buona Cucina*  
   
 **chicken**  
 In name:   
- - Chicken Drumstick Mango Habanero @ *1849*  
+ - Chicken Drumstick BBQ Glazed @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Pizza Slice Chicken Sriracha @ *Gordon Capital City Pizza*  
   
 In description:   
@@ -154,10 +150,14 @@ In description:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**curry**  
+In name:   
+ - Chicken Curry @ *1849*  
+  
 **beef**  
 In name:   
+ - Beef Meatballs @ *Global Kitchen*  
  - Beef French Dip Sandwich @ *1849*  
- - Empanada Beef Picadillo @ *Que Rico*  
  - Mediterranean Beef @ *Create-A-Bowl*  
   
 In description:   
@@ -171,15 +171,14 @@ In description:
   
 **chicken**  
 In name:   
- - Italian Chicken @ *Global Kitchen*  
- - Brazilian Chicken w/ Salsa Vinaigrette @ *1849*  
+ - Chicken Curry @ *1849*  
  - Mediterranean Chicken @ *Create-A-Bowl*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
   
 In description:   
- - Empanada Beef Picadillo @ *Que Rico*  
+ - Beef Meatballs @ *Global Kitchen*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-04-21)  
 **portabella**  
