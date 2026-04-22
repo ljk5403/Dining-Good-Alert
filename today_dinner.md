@@ -1,6 +1,6 @@
 # 2026-04-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-22 13:08:14  
+Updated at: 2026-04-22 15:54:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-22)  
 **portabella**  
 In name:   
@@ -112,7 +112,6 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Chili @ *Great Greens*  
   
 In description:   
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
@@ -175,19 +174,9 @@ In name:
  - Bibimbap Bowl @ *Global*  
  - Build Your Own Bibimbap Bowl @ *Global*  
   
-**mahi mahi**  
-In name:   
- - Coconut Thai Curry Mahi Mahi @ *Fired Up*  
-  
 **fish**  
 In name:   
-  
-In description:   
- - Coconut Thai Curry Mahi Mahi @ *Fired Up*  
-  
-**curry**  
-In name:   
- - Coconut Thai Curry Mahi Mahi @ *Fired Up*  
+ - Whitefish @ *Fired Up*  
   
 **beef**  
 In name:   
@@ -195,13 +184,12 @@ In name:
  - Beef Chili @ *Great Greens*  
   
 In description:   
- - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
- - Smoked Brisket & Tots Pizza Slice @ *Capital City Pizza*  
+ - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious:  Available Between 11am-4pm*  
   
 **pork**  
 In name:   
- - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
+ - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious:  Available Between 11am-4pm*  
@@ -213,7 +201,7 @@ In name:
  - Diced Chicken @ *Great Greens*  
   
 In description:   
- - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
+ - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-04-22)  
 **beef**  
