@@ -1,7 +1,30 @@
 # 2026-04-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-22 13:08:12  
+Updated at: 2026-04-22 15:54:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-22)  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad @ *Delicious*  
+  
+**beef**  
+In name:   
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
+ - Beef Chili @ *Great Greens*  
+  
+**pork**  
+In name:   
+ - Pork & Beef Hard Salami @ *Delicious*  
+  
+In description:   
+ - Bacon Slice @ *Delicious*  
+ - Smoked Ham @ *Delicious*  
+ - Bacon @ *Delicious*  
+  
+**chicken**  
+In name:   
+ - Diced Chicken @ *Great Greens*  
+  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-04-22)  
 **Pakoras**  
 In name:   
@@ -58,6 +81,7 @@ In name:
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-04-22)  
 **beef**  
 In name:   
+ - Beef Chili @ *Great Greens*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
@@ -70,11 +94,29 @@ In description:
   
 **chicken**  
 In name:   
+ - Diced Chicken @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
  - BYO Bar - Mac & Cheese @ *Create-A-Bowl*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-04-22)  
+**beef**  
+In name:   
+ - Beef Chili @ *Great Greens*  
+  
+In description:   
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious:  Available Between 11am-4pm*  
+  
+**pork**  
+In name:   
+  
+In description:   
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious:  Available Between 11am-4pm*  
+  
+**chicken**  
+In name:   
+ - Diced Chicken @ *Great Greens*  
+  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-04-22)  
   
