@@ -1,6 +1,6 @@
 # 2026-04-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-23 02:51:55  
+Updated at: 2026-04-23 10:51:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-23)  
 **lamb**  
 In name:   
@@ -75,10 +75,6 @@ In description:
  - Italian Meatball Sandwich @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-04-23)  
-**steak**  
-In name:   
- - Spicy Steak Fajita @ *Gordon Que Rico*  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
@@ -92,11 +88,11 @@ In name:
 In description:   
  - Smoked Brisket & Tots Pizza Slice @ *Gordon Capital City Pizza*  
  - Grilled Blended Burger w/ Cheese @ *Gordon Fired Up*  
- - Spicy Steak Fajita @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
+ - Pork Carnita @ *Gordon Que Rico*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
