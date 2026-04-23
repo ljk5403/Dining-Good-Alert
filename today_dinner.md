@@ -1,6 +1,6 @@
 # 2026-04-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-23 16:44:16  
+Updated at: 2026-04-23 17:42:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-23)  
 **portabella**  
 In name:   
@@ -87,6 +87,7 @@ In name:
  - Beef Gravy @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Mediterranean Beef @ *Gordon Global Kitchen*  
+ - BBQ Beef Brisket Slider @ *Fired Up*  
   
 In description:   
  - Smoked Brisket & Tots Pizza Slice @ *Gordon Capital City Pizza*  
@@ -94,7 +95,6 @@ In description:
 **pork**  
 In name:   
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
- - Pulled Pork Sliders @ *Fired Up*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
@@ -134,7 +134,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Bulgogi Beef @ *Create-A-Bowl*  
   
 In description:   
@@ -145,6 +144,7 @@ In description:
   
 **pork**  
 In name:   
+ - Italian Pork Sausage @ *Global Kitchen*  
  - Herb Crusted Pork Loin @ *1849*  
  - Filipino Pork Sausage @ *Que Rico*  
  - FiIipino Pork Spring Roll @ *Que Rico*  
@@ -154,7 +154,6 @@ In description:
   
 **chicken**  
 In name:   
- - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Bulgogi Chicken @ *Create-A-Bowl*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
