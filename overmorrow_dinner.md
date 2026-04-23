@@ -1,6 +1,6 @@
 # 2026-04-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-22 18:45:02  
+Updated at: 2026-04-22 21:35:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-24)  
 **duck**  
 In name:   
@@ -38,6 +38,7 @@ In name:
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
+ - Deli @ *Delicious*  
   
 **pork**  
 In name:   
@@ -48,8 +49,7 @@ In description:
  - Andouille Sausage @ *1849*  
  - Chorizo Sauce @ *Buona Cucina*  
  - Pizza Slice Sausage @ *Capital City Pizza*  
- - Bacon Slice @ *Delicious*  
- - Smoked Ham @ *Delicious*  
+ - Deli @ *Delicious*  
  - Bacon @ *Delicious*  
   
 **chicken**  

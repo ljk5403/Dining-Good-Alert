@@ -1,6 +1,6 @@
 # 2026-04-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-22 18:44:55  
+Updated at: 2026-04-22 21:35:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-22)  
 **portabella**  
 In name:   
@@ -17,6 +17,10 @@ In name:
 In name:   
  - Philly Cheesesteak Sandwich @ *Fired Up*  
  - Vegetable Cheesesteak Sandwich @ *Fired Up*  
+  
+**fish**  
+In name:   
+ - Whitefish @ *1849*  
   
 **Tuna**  
 In name:   
@@ -52,7 +56,6 @@ In description:
   
 **chicken**  
 In name:   
- - Teriyaki Chicken Fillet @ *1849*  
  - Diced Chicken @ *Great Greens*  
   
 In description:   
@@ -125,24 +128,16 @@ In name:
  - Chicken Pot Pie w/Biscuit @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pizza Slice BBQ Chicken & Bacon @ *Gordon Capital City Pizza*  
- - Sesame Chicken @ *Gordon Global Kitchen*  
+ - Sweet & Sour Chicken @ *Gordon Global Kitchen*  
  - Plant Based Sesame Chicken (AYCTE) (VN) @ *Gordon Global Kitchen*  
  - Chicken Fajitas w/Rice & Beans @ *Gordon Que Rico*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
  - Diced Chicken @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-04-22)  
-**catfish**  
-In name:   
- - Fried Catfish @ *1849*  
-  
-**fish**  
-In name:   
- - Fried Catfish @ *1849*  
-  
 **beef**  
 In name:   
- - Beef Mediterranean @ *Global Kitchen*  
+ - Beef @ *Global Kitchen*  
  - Beef Chili @ *Great Greens*  
   
 In description:   

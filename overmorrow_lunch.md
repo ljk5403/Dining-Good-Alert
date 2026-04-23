@@ -1,6 +1,6 @@
 # 2026-04-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-22 18:45:00  
+Updated at: 2026-04-22 21:35:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-24)  
 **portabella**  
 In name:   
@@ -45,6 +45,7 @@ In name:
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
+ - Deli @ *Delicious*  
   
 **pork**  
 In name:   
@@ -54,8 +55,7 @@ In name:
 In description:   
  - Pizza Slice Sausage @ *Capital City Pizza*  
  - Chorizo Sauce @ *Buona Cucina*  
- - Bacon Slice @ *Delicious*  
- - Smoked Ham @ *Delicious*  
+ - Deli @ *Delicious*  
  - Bacon @ *Delicious*  
   
 **chicken**  

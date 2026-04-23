@@ -1,6 +1,6 @@
 # 2026-04-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-22 18:44:57  
+Updated at: 2026-04-22 21:35:52  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-23)  
 **lamb**  
 In name:   
@@ -34,8 +34,6 @@ In name:
  - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
- - Bacon Slice @ *Delicious*  
- - Smoked Ham @ *Delicious*  
  - Bacon @ *Delicious*  
   
 **chicken**  
