@@ -1,6 +1,6 @@
 # 2026-04-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-24 11:55:48  
+Updated at: 2026-04-24 12:50:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-24)  
 **portabella**  
 In name:   
@@ -208,13 +208,10 @@ In name:
   
 **beef**  
 In name:   
- - Empanada Beef Picadillo @ *Lowell Market*  
+ - Beef Pot Roast @ *Lowell Market*  
   
 **chicken**  
 In name:   
- - Shoyu Chicken @ *Lowell Market*  
-  
-In description:   
- - Empanada Beef Picadillo @ *Lowell Market*  
+ - Sweet & Sour Chicken @ *Lowell Market*  
   
   
