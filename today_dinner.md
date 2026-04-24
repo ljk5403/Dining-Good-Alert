@@ -1,14 +1,14 @@
 # 2026-04-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-24 16:46:41  
+Updated at: 2026-04-24 17:38:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-24)  
 **duck**  
 In name:   
  - Duck Curry @ *Global Kitchen*  
   
-**Salmon**  
+**catfish**  
 In name:   
- - Grilled Chipotle Salmon @ *1849*  
+ - Blackened Catfish @ *1849*  
   
 **clam**  
 In name:   
@@ -16,6 +16,7 @@ In name:
   
 **fish**  
 In name:   
+ - Blackened Catfish @ *1849*  
   
 In description:   
  - Duck Curry @ *Global Kitchen*  
