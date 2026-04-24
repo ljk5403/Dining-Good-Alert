@@ -1,6 +1,6 @@
 # 2026-04-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-23 18:44:05  
+Updated at: 2026-04-23 21:36:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-23)  
 **portabella**  
 In name:   
@@ -37,7 +37,8 @@ In description:
   
 **pork**  
 In name:   
- - Loaded Potato Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
+ - Pork Adobo @ *1849*  
+ - Pizza Slice Sausage (Pork) @ *Capital City Pizza*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
@@ -45,7 +46,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Piece Seasoned Baked @ *1849*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Mediterranean Chicken @ *Que Rico*  
@@ -128,12 +128,9 @@ In name:
 In name:   
  - Swiss Steak w/Brown Gravy @ *1849*  
   
-**Filipino Pork Sausage**  
-In name:   
- - Filipino Pork Sausage @ *Que Rico*  
-  
 **beef**  
 In name:   
+ - Empanada Beef Picadillo @ *Que Rico*  
  - Bulgogi Beef @ *Create-A-Bowl*  
   
 In description:   
@@ -146,7 +143,6 @@ In description:
 In name:   
  - Italian Pork Sausage @ *Global Kitchen*  
  - Herb Crusted Pork Loin @ *1849*  
- - Filipino Pork Sausage @ *Que Rico*  
  - FiIipino Pork Spring Roll @ *Que Rico*  
   
 In description:   
@@ -158,6 +154,9 @@ In name:
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
+  
+In description:   
+ - Empanada Beef Picadillo @ *Que Rico*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-04-23)  
 **beef**  

@@ -1,6 +1,6 @@
 # 2026-04-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-23 18:44:07  
+Updated at: 2026-04-23 21:36:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-24)  
 **portabella**  
 In name:   
@@ -40,6 +40,8 @@ In name:
  - Bulgogi Beef Tacos @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
  - Beef Fajita Meat @ *Que Rico*  
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
@@ -48,11 +50,13 @@ In description:
 **pork**  
 In name:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Pizza Slice Sausage @ *Capital City Pizza*  
  - Chorizo Sauce @ *Buona Cucina*  
  - Deli @ *Delicious*  
+ - Bacon @ *Delicious*  
   
 **chicken**  
 In name:   
