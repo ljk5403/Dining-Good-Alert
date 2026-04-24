@@ -1,6 +1,6 @@
 # 2026-04-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-24 15:48:04  
+Updated at: 2026-04-24 16:46:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-24)  
 **portabella**  
 In name:   
@@ -117,11 +117,19 @@ In name:
 In name:   
  - Baked Lemon Butter Cod @ *1849*  
   
+**clam**  
+In name:   
+ - Clam Chowder @ *Great Greens*  
+  
 **fish**  
 In name:   
   
 In description:   
  - Beef Masaman Thai Curry @ *Gordon Global Kitchen*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
   
 **curry**  
 In name:   
@@ -147,6 +155,7 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pizza Slice 16" Tandoori Chicken (AYCTE) @ *Gordon Capital City Pizza*  
  - Spicy Crispy Chicken Sandwich @ *Gordon Fired Up*  
+ - Diced Chicken @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-04-24)  
 **Poke Bar**  

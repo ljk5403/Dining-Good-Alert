@@ -1,6 +1,6 @@
 # 2026-04-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-24 15:48:07  
+Updated at: 2026-04-24 16:46:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-25)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-04-25)  
 **pork**  
@@ -52,6 +52,7 @@ In name:
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
  - Bacon Slice @ *Gordon Delicious*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 **chicken**  
 In name:   
@@ -60,10 +61,12 @@ In name:
  - Chicken Tinga @ *Gordon Que Rico*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
+ - Diced Chicken @ *Great Greens*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-04-25)  
 **steak**  
