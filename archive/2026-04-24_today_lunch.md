@@ -1,6 +1,6 @@
 # 2026-04-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-25 10:38:28  
+Updated at: 2026-04-25 11:40:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-25)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-04-25)  
 **pork**  
@@ -20,6 +20,12 @@ In description:
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-04-25)  
+**portabella**  
+In name:   
+  
+In description:   
+ - Portobello Mushroom Stroganoff @ *1849*  
+  
 **steak**  
 In name:   
   
@@ -28,7 +34,7 @@ In description:
   
 **Tilapia**  
 In name:   
- - Tilapia Veracruz @ *1849*  
+ - Blackened Tilapia @ *1849*  
   
 **BBQ Pork Sandwich**  
 In name:   
