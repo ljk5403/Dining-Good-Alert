@@ -1,6 +1,6 @@
 # 2026-04-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-25 13:52:23  
+Updated at: 2026-04-25 15:37:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-25)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-04-25)  
 **steak**  
@@ -39,6 +39,10 @@ In name:
 In description:   
  - Hoisin BBQ Glazed Salmon @ *1849*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Gordon Delicious*  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
@@ -55,7 +59,6 @@ In name:
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
- - Bacon Slice @ *Gordon Delicious*  
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 **chicken**  
@@ -65,7 +68,6 @@ In name:
  - Chicken Tinga @ *Gordon Que Rico*  
  - Chicken Tenders Breaded @ *Fired Up*  
  - Plant-Based Chicken Nuggets (6) @ *Fired Up*  
- - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
  - Diced Chicken @ *Great Greens*  
   
 In description:   
