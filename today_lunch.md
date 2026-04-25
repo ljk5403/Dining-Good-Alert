@@ -1,6 +1,6 @@
 # 2026-04-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-25 13:52:20  
+Updated at: 2026-04-25 15:37:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-25)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-04-25)  
 **pork**  
@@ -36,6 +36,10 @@ In description:
 In name:   
  - Blackened Tilapia @ *1849*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Gordon Delicious*  
+  
 **BBQ Pork Sandwich**  
 In name:   
  - Carolina BBQ Pork Sandwich @ *Gordon Fired Up*  
@@ -57,7 +61,6 @@ In name:
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
- - Bacon Slice @ *Gordon Delicious*  
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 **chicken**  
@@ -66,7 +69,6 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Chicken Tinga @ *Gordon Que Rico*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera*  
- - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
  - Diced Chicken @ *Great Greens*  
   
 In description:   
