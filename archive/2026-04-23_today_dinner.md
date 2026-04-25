@@ -1,6 +1,6 @@
 # 2026-04-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-24 17:38:24  
+Updated at: 2026-04-24 18:38:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-24)  
 **duck**  
 In name:   
@@ -136,10 +136,14 @@ In name:
  - Bibimbap Beef @ *Gordon Global Kitchen*  
  - Beef Carne Guisada @ *Gordon Que Rico*  
   
+In description:   
+ - Pork Bratwurst Sandwich @ *Fired Up*  
+  
 **pork**  
 In name:   
  - French Market Pork Jambalaya @ *1849*  
  - Hawaiian (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
+ - Pork Bratwurst Sandwich @ *Fired Up*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
@@ -179,6 +183,7 @@ In name:
   
 **beef**  
 In name:   
+ - Italian Beef Sandwich @ *Fired Up*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
@@ -192,7 +197,6 @@ In description:
   
 **chicken**  
 In name:   
- - Grilled Chicken Sandwich @ *Fired Up*  
  - Italian Chicken @ *Global Kitchen*  
  - Chicken Grilled Cordon Bleu (Pork) @ *1849*  
  - Chicken and Cheese Flauta @ *Que Rico*  

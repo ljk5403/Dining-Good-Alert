@@ -1,6 +1,6 @@
 # 2026-04-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-24 18:38:47  
+Updated at: 2026-04-24 21:26:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-24)  
 **duck**  
 In name:   
@@ -114,10 +114,6 @@ In description:
 In name:   
  - Blackened Catfish @ *1849*  
   
-**Shrimp**  
-In name:   
- - Sauteed Shrimp @ *Gordon Buona Cucina*  
-  
 **clam**  
 In name:   
  - Clam Chowder @ *Great Greens*  
@@ -133,7 +129,7 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Bibimbap Beef @ *Gordon Global Kitchen*  
+ - Lomo Saltado w/ Beef @ *Gordon Global Kitchen*  
  - Beef Carne Guisada @ *Gordon Que Rico*  
   
 In description:   
@@ -142,6 +138,7 @@ In description:
 **pork**  
 In name:   
  - French Market Pork Jambalaya @ *1849*  
+ - Pork Italian Sausage @ *Gordon Buona Cucina*  
  - Hawaiian (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
  - Pork Bratwurst Sandwich @ *Fired Up*  
   
@@ -151,7 +148,6 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Greek Chicken @ *Gordon Global Kitchen*  
  - Plant-Based Chicken Nuggets (6) @ *Gordon Eggcetera*  
  - Diced Chicken @ *Great Greens*  
   
@@ -169,27 +165,35 @@ In description:
 In name:   
  - Chicken and Cheese Flauta @ *Que Rico*  
   
-**Poke Bar**  
+**mahi mahi**  
 In name:   
- - Build Your Own Poke Bar @ *Create-A-Bowl*  
+ - Blackened Mahi Mahi @ *1849*  
   
 **clam**  
 In name:   
  - Clam Chowder @ *Great Greens*  
   
+**Tuna**  
+In name:   
+ - Poke Tuna @ *Create-A-Bowl*  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**BBQ Pork Sandwich**  
+In name:   
+ - BBQ Pork Sandwich @ *Fired Up*  
+  
 **beef**  
 In name:   
- - Italian Beef Sandwich @ *Fired Up*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
 In name:   
+ - BBQ Pork Sandwich @ *Fired Up*  
  - Chicken Grilled Cordon Bleu (Pork) @ *1849*  
   
 In description:   
