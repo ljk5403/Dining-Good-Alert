@@ -1,6 +1,6 @@
 # 2026-04-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-26 13:54:18  
+Updated at: 2026-04-26 15:37:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-26)  
 **beef**  
 In name:   
@@ -60,7 +60,7 @@ In description:
   
 **pork**  
 In name:   
- - Apricot Glazed Pork @ *1849*  
+ - Roasted Pork Loin @ *1849*  
  - Pork Carnita @ *Gordon Que Rico*  
   
 In description:   
