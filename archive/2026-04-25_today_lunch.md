@@ -1,6 +1,6 @@
 # 2026-04-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-26 09:42:07  
+Updated at: 2026-04-26 10:40:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-26)  
 **steak**  
 In name:   
@@ -21,6 +21,7 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
+ - Beef Chili @ *Great Greens*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
@@ -44,7 +45,6 @@ In name:
  - Sausage Links Chicken (halal) (AYCTE) @ *Buona Cucina*  
  - Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Chili @ *Great Greens*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
