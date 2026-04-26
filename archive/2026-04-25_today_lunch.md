@@ -1,6 +1,6 @@
 # 2026-04-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-26 10:40:56  
+Updated at: 2026-04-26 11:41:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-26)  
 **steak**  
 In name:   
@@ -55,6 +55,10 @@ In description:
 In name:   
  - Chicken Drumstick Mango Habanero @ *1849*  
   
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
@@ -69,6 +73,7 @@ In description:
 **pork**  
 In name:   
  - Jerk Pork Chop @ *1849*  
+ - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Pork Carnita @ *Gordon Que Rico*  
  - Biscuits & Pork Gravy @ *Eggcetera*  
   
@@ -79,8 +84,6 @@ In description:
 In name:   
  - Chicken Drumstick Mango Habanero @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Giardiniera Chicken @ *Gordon Buona Cucina*  
- - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
   
 In description:   

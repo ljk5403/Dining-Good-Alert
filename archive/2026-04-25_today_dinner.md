@@ -1,6 +1,6 @@
 # 2026-04-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-26 10:40:57  
+Updated at: 2026-04-26 11:41:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-26)  
 **beef**  
 In name:   
@@ -37,6 +37,10 @@ In description:
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-04-26)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-04-26)  
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
+  
 **curry**  
 In name:   
  - Thai Veggie Meatballs w/ Green Curry @ *1849*  
@@ -66,7 +70,6 @@ In description:
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Giardiniera Chicken @ *Gordon Buona Cucina*  
- - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
   
 In description:   
