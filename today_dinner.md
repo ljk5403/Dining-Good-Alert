@@ -1,6 +1,6 @@
 # 2026-04-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-26 18:38:12  
+Updated at: 2026-04-26 21:44:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-26)  
 **beef**  
 In name:   
@@ -49,6 +49,7 @@ In name:
 **beef**  
 In name:   
  - Mango Beef Curry @ *1849*  
+ - Beef Carne Guisada @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
@@ -82,7 +83,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Beef & Tater Tot Bake @ *1849*  
  - Beef Taco Meat @ *Que Rico*  
   
@@ -99,7 +99,6 @@ In description:
   
 **chicken**  
 In name:   
- - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Plant Based Chicken Strips @ *Global Kitchen*  
  - Plant Based Sweet & Sour Chicken @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
