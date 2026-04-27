@@ -1,6 +1,6 @@
 # 2026-04-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-27 16:01:16  
+Updated at: 2026-04-27 17:51:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-27)  
 **Salmon**  
 In name:   
@@ -97,6 +97,7 @@ In name:
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - BYO - MTO Chicken Wrap - Gordon @ *Gordon Eggcetera*  
+ - Chicken Thigh Strip @ *Gordon Eggcetera*  
  - Build Your Own Chicken Wrap (Gordon) @ *Gordon Eggcetera*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
