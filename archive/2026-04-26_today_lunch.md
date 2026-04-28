@@ -1,6 +1,6 @@
 # 2026-04-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-27 17:51:15  
+Updated at: 2026-04-27 18:52:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-27)  
 **Tuna**  
 In name:   
@@ -162,12 +162,16 @@ In name:
  - Italian Pork Sausage @ *Global Kitchen*  
   
 In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
 In name:   
  - Maple Cider Chicken @ *1849*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
+ - Lemon Chicken Soup @ *Great Greens*  
+  
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-04-27)  
 **portabella**  

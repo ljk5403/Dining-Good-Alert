@@ -1,20 +1,10 @@
 # 2026-04-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-27 18:53:02  
+Updated at: 2026-04-27 21:51:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-27)  
-**Salmon**  
-In name:   
- - Hoisin BBQ Glazed Salmon @ *1849*  
-  
 **Shrimp**  
 In name:   
  - Sweet & Sour Shrimp @ *Global Kitchen*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Hoisin BBQ Glazed Salmon @ *1849*  
   
 **Tuna**  
 In name:   
@@ -22,9 +12,10 @@ In name:
   
 **beef**  
 In name:   
+ - Smoked Beef Brisket @ *1849*  
+ - Corned Beef @ *1849*  
   
 In description:   
- - Burnt Ends @ *1849*  
  - Italian Meat Sauce @ *Buona Cucina*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
@@ -38,6 +29,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Honey Lime Chicken Breast @ *1849*  
  - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
  - Plant Based Sweet & Sour Chicken @ *Global Kitchen*  
  - Chicken Empanada with Green Chili @ *Que Rico*  
@@ -63,6 +55,7 @@ In description:
 In name:   
  - Popcorn Chicken @ *1849*  
  - Plant-Based Chicken Nuggets (6) @ *1849*  
+ - Sweet & Spicy Orange Chicken @ *1849*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-04-27)  
@@ -71,6 +64,10 @@ In name:
   
 In description:   
  - Vegan Mushroom Banh Mi Sandwich @ *Fired Up*  
+  
+**drumstick**  
+In name:   
+ - Chicken Drumstick Mango Habanero @ *1849*  
   
 **Tuna**  
 In name:   
@@ -86,6 +83,7 @@ In name:
 In description:   
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
  - Pizza Slice - Bacon Cheeseburger @ *Gordon Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
   
 **pork**  
@@ -95,6 +93,7 @@ In name:
   
 **chicken**  
 In name:   
+ - Chicken Drumstick Mango Habanero @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - BYO - MTO Chicken Wrap - Gordon @ *Gordon Eggcetera*  
  - Chicken Thigh Strip @ *Gordon Eggcetera*  
@@ -102,6 +101,7 @@ In name:
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 In description:   
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-04-27)  
@@ -112,6 +112,10 @@ In name:
 **mahi mahi**  
 In name:   
  - Coconut Thai Curry Mahi Mahi @ *Que Rico*  
+  
+**Cod**  
+In name:   
+ - Cod Nuggets @ *1849*  
   
 **fish**  
 In name:   
@@ -133,7 +137,6 @@ In name:
   
 **beef**  
 In name:   
- - BBQ Beef Brisket Slider @ *1849*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
@@ -141,7 +144,7 @@ In description:
 **pork**  
 In name:   
  - Italian Pork Sausage @ *Global Kitchen*  
- - Chicken Grilled Cordon Bleu (Pork) @ *1849*  
+ - Pork Carnita @ *1849*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
@@ -150,7 +153,6 @@ In description:
 **chicken**  
 In name:   
  - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
- - Chicken Grilled Cordon Bleu (Pork) @ *1849*  
  - Lemon Chicken Soup @ *Great Greens*  
   
 In description:   
