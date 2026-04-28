@@ -1,6 +1,6 @@
 # 2026-04-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-28 03:24:11  
+Updated at: 2026-04-28 11:06:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-28)  
 **Samosas**  
 In name:   
@@ -197,7 +197,7 @@ In description:
 In name:   
  - Mediterranean Chicken @ *Global*  
  - Cajun Chicken Pasta @ *Carson's 1849*  
- - Chicken Dumpling Soup @ *Great Greens*  
+ - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
