@@ -1,6 +1,6 @@
 # 2026-04-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-28 13:16:35  
+Updated at: 2026-04-28 16:05:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-28)  
 **Samosas**  
 In name:   
@@ -104,6 +104,7 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Beef Enchilada Bake @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
@@ -119,7 +120,6 @@ In name:
  - Jamaican Jerk Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
- - Chicken Mole w/ Rice @ *Gordon Que Rico*  
  - Crispy Chicken Sandwich @ *Fired Up*  
  - Chicken Dumpling Soup @ *Great Greens*  
   

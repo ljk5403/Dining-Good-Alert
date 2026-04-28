@@ -1,6 +1,6 @@
 # 2026-04-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-28 11:06:46  
+Updated at: 2026-04-28 13:16:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-28)  
 **Tandoori Chicken**  
 In name:   
@@ -223,19 +223,37 @@ In description:
  - Pepperoni Pizza Slice @ *Capital City Pizza:  Available Between 11am-4pm*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-04-28)  
+**steak**  
+In name:   
+ - Beef Flank Steak @ *Lowell Market*  
+  
+**duck**  
+In name:   
+ - Duck Curry @ *Lowell Market*  
+  
 **Tilapia**  
 In name:   
  - Tilapia Chipotle Lime Crusted @ *Lowell Market*  
   
-**curry**  
-In name:   
- - Coconut Tofu w/Red Curry Sauce @ *Lowell Market*  
-  
-**beef**  
+**fish**  
 In name:   
   
 In description:   
+ - Duck Curry @ *Lowell Market*  
+  
+**curry**  
+In name:   
+ - Coconut Tofu w/Red Curry Sauce @ *Lowell Market*  
+ - Duck Curry @ *Lowell Market*  
+ - Black Eyed Pea Curry (AYCTE) @ *Lowell Market*  
+  
+**beef**  
+In name:   
+ - Beef Flank Steak @ *Lowell Market*  
+  
+In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Lowell Market*  
+ - Jaeger Sauce @ *Lowell Market*  
   
 **chicken**  
 In name:   
