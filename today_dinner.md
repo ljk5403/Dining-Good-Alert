@@ -1,6 +1,6 @@
 # 2026-04-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-28 16:05:51  
+Updated at: 2026-04-28 17:55:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-28)  
 **Samosas**  
 In name:   
@@ -27,25 +27,23 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
- - Baked Corn Dog (Pork) @ *Fired Up*  
   
 **pork**  
 In name:   
  - Apricot Glazed Pork @ *1849*  
- - Baked Corn Dog (Pork) @ *Fired Up*  
   
 **chicken**  
 In name:   
  - Chicken Paprikash @ *1849*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
+ - Crispy Chicken Sandwich @ *Fired Up*  
  - Mediterranean Chicken @ *Que Rico*  
  - Chicken Salad @ *Delicious*  
- - Chicken Dumpling Soup @ *Great Greens*  
+ - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
- - Baked Corn Dog (Pork) @ *Fired Up*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-04-28)  
 **Salmon**  
@@ -105,6 +103,9 @@ In name:
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Enchilada Bake @ *Gordon Que Rico*  
+  
+In description:   
+ - Vegetarian Hot Tamale Pie @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
