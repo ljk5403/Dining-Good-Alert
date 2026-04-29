@@ -1,6 +1,6 @@
 # 2026-05-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-29 03:17:46  
+Updated at: 2026-04-29 10:55:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-01)  
 **steak**  
 In name:   
@@ -197,12 +197,20 @@ In name:
 In name:   
  - Battered Cod @ *Lowell Market*  
   
+**clam**  
+In name:   
+ - Clam Chowder @ *Great Greens*  
+  
 **fish**  
 In name:   
  - Vegan Fish Fillet (VN) @ *Lowell Market*  
   
 In description:   
  - Crab Rangoon @ *Lowell Market*  
+  
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
   
 **pork**  
 In name:   

@@ -1,6 +1,6 @@
 # 2026-04-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-29 03:17:40  
+Updated at: 2026-04-29 10:55:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-30)  
 **squid**  
 In name:   
@@ -227,6 +227,10 @@ In description:
 In name:   
  - Baked Salmon with Dill Wine Sauce @ *Lowell Market*  
   
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
+  
 **curry**  
 In name:   
  - Beef Bombay Curry @ *Lowell Market*  
@@ -239,5 +243,6 @@ In name:
 **chicken**  
 In name:   
  - Chicken Parmigiana @ *Lowell Market*  
+ - Chicken Noodle Soup @ *Great Greens*  
   
   
