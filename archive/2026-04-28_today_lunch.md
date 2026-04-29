@@ -1,13 +1,7 @@
 # 2026-04-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-29 03:17:34  
+Updated at: 2026-04-29 10:55:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-29)  
-**fish**  
-In name:   
-  
-In description:   
- - Filipino Barbecue Pork @ *1849*  
-  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
@@ -24,7 +18,7 @@ In description:
   
 **pork**  
 In name:   
- - Filipino Barbecue Pork @ *1849*  
+ - Pork Adobo @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
   
 In description:   
@@ -72,13 +66,6 @@ In description:
 In name:   
  - Oven Roasted Salmon @ *1849*  
   
-**fish**  
-In name:   
-  
-In description:   
- - California Roll  (FujiSan) @ *Gordon Global Kitchen*  
- - Tempura Roll (FujiSan) @ *Gordon Global Kitchen*  
-  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
@@ -104,7 +91,8 @@ In name:
  - Chicken Gravy @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Cajun Chicken Pasta @ *Gordon Buona Cucina*  
- - Orange Sweet & Spicy Chicken @ *Gordon Global Kitchen*  
+ - Sweet & Sour Chicken @ *Gordon Global Kitchen*  
+ - Plant Based Sweet & Sour Chicken @ *Gordon Global Kitchen*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-04-29)  
@@ -137,13 +125,23 @@ In description:
  - BYO Bar - Mac & Cheese @ *Create-A-Bowl*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-04-29)  
-**Salmon**  
+**mahi mahi**  
 In name:   
- - Ginger Glazed Salmon @ *Carson's 1849:  Available Between 11am-2pm*  
+ - Coconut Thai Curry Mahi Mahi @ *Carson's 1849:  Available Between 11am-2pm*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Coconut Thai Curry Mahi Mahi @ *Carson's 1849:  Available Between 11am-2pm*  
   
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
+  
+**curry**  
+In name:   
+ - Coconut Thai Curry Mahi Mahi @ *Carson's 1849:  Available Between 11am-2pm*  
   
 **beef**  
 In name:   
@@ -152,31 +150,36 @@ In name:
  - Beef Chili @ *Great Greens*  
   
 In description:   
- - Pizza Slice Deluxe (Pork) @ *Capital City Pizza:  Available Between 11am-4pm*  
- - Smoked Brisket & Tots Pizza Slice @ *Capital City Pizza:  Available Between 11am-4pm*  
+ - Pizza Slice Meat Lovers w/Bacon @ *Capital City Pizza:  Available Between 11am-4pm*  
  - Italian Meatball Sandwich @ *Fired Up:  Available Between 11am-2pm*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious:  Available Between 11am-4pm*  
   
 **pork**  
 In name:   
- - Pizza Slice Deluxe (Pork) @ *Capital City Pizza:  Available Between 11am-4pm*  
  - Pork Sausage in Country Gravy @ *Eggcetera:  Available Between 11am-2pm*  
  - Pork Sausage Patty @ *Eggcetera:  Available Between 11am-2pm*  
   
 In description:   
+ - Pizza Slice Meat Lovers w/Bacon @ *Capital City Pizza:  Available Between 11am-4pm*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious:  Available Between 11am-4pm*  
   
 **chicken**  
 In name:   
+ - Pizza Slice Chicken Tomatillo @ *Capital City Pizza:  Available Between 11am-4pm*  
   
 In description:   
- - Pizza Slice Deluxe (Pork) @ *Capital City Pizza:  Available Between 11am-4pm*  
+ - Pizza Slice Meat Lovers w/Bacon @ *Capital City Pizza:  Available Between 11am-4pm*  
  - Italian Meatball Sandwich @ *Fired Up:  Available Between 11am-2pm*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-04-29)  
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Lowell Market*  
+ - Beef Chili @ *Great Greens*  
   
 **pork**  
 In name:   

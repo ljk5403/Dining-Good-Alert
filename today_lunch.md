@@ -1,6 +1,6 @@
 # 2026-04-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-29 10:55:18  
+Updated at: 2026-04-29 12:27:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-29)  
 **Tuna**  
 In name:   
@@ -18,7 +18,7 @@ In description:
   
 **pork**  
 In name:   
- - Pork Adobo @ *1849*  
+ - Apricot Glazed Pork @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
   
 In description:   
@@ -82,7 +82,6 @@ In description:
 **pork**  
 In name:   
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
- - Gluten Free Pork Sausage Pizza Quarter @ *Gordon Capital City Pizza*  
  - Pork Carnita @ *Gordon Que Rico*  
   
 **chicken**  
@@ -166,6 +165,7 @@ In description:
 **chicken**  
 In name:   
  - Pizza Slice Chicken Tomatillo @ *Capital City Pizza:  Available Between 11am-4pm*  
+ - Halal Chicken Sausage Link @ *Eggcetera:  Available Between 11am-2pm*  
   
 In description:   
  - Pizza Slice Meat Lovers w/Bacon @ *Capital City Pizza:  Available Between 11am-4pm*  
