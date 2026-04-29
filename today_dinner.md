@@ -1,6 +1,6 @@
 # 2026-04-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-28 18:55:35  
+Updated at: 2026-04-28 21:53:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-28)  
 **Samosas**  
 In name:   
@@ -104,10 +104,12 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Enchilada Bake @ *Gordon Que Rico*  
+ - Beef Chimichurri Taco @ *Gordon Que Rico*  
   
 In description:   
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Vegetarian Hot Tamale Pie @ *Gordon Que Rico*  
+ - Blended Hamburger @ *Fired Up*  
   
 **pork**  
 In name:   
@@ -115,16 +117,15 @@ In name:
  - Filipino Pork Sausage @ *Gordon Eggcetera*  
  - FiIipino Pork Spring Roll @ *Gordon Eggcetera*  
   
-In description:   
- - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
-  
 **chicken**  
 In name:   
- - Jamaican Jerk Chicken @ *1849*  
+ - Chicken Pot Pie Filling @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
- - Crispy Chicken Sandwich @ *Fired Up*  
  - Chicken Dumpling Soup @ *Great Greens*  
+  
+In description:   
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-04-28)  
 **drumstick**  
@@ -147,6 +148,7 @@ In name:
 **beef**  
 In name:   
  - Big Texan Beef Sandwich (Half) @ *Fired Up*  
+ - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Mediterranean Beef @ *Create-A-Bowl*  
   
 In description:   
@@ -154,15 +156,15 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
 In name:   
- - Italian Chicken @ *Global Kitchen*  
+ - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Smoked Chicken Drumstick @ *1849*  
- - Chicken Mole w/ Rice @ *Que Rico*  
  - Mediterranean Chicken @ *Create-A-Bowl*  
  - Chicken Dumpling Soup @ *Great Greens*  
   
