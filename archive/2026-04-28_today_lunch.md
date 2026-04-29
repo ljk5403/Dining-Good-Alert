@@ -1,6 +1,6 @@
 # 2026-04-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-29 12:27:43  
+Updated at: 2026-04-29 14:24:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-29)  
 **Tuna**  
 In name:   
@@ -18,7 +18,7 @@ In description:
   
 **pork**  
 In name:   
- - Apricot Glazed Pork @ *1849*  
+ - Jerk Pork Chop @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
   
 In description:   
@@ -178,16 +178,15 @@ In name:
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *Lowell Market*  
  - Beef Chili @ *Great Greens*  
   
 **pork**  
 In name:   
+ - Pork Italian Sausage @ *Lowell Market*  
  - Pork & Broccoli Stir Fry @ *Lowell Market*  
   
 **chicken**  
 In name:   
- - Beef & Chicken Meatballs @ *Lowell Market*  
  - Diced Chicken Breast @ *Lowell Market*  
   
   
