@@ -1,6 +1,6 @@
 # 2026-04-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-30 14:20:25  
+Updated at: 2026-04-30 15:59:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-30)  
 **fish**  
 In name:   
@@ -139,10 +139,6 @@ In name:
  - Bulgogi Chicken @ *Create-A-Bowl*  
  - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
   
-**steak**  
-In name:   
- - Grilled Flank Steak @ *1849*  
-  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
@@ -151,10 +147,10 @@ In name:
 **beef**  
 In name:   
  - Beef Quesadilla @ *Fired Up*  
+ - Beef Roast Strip Loin w/Mush Demi @ *1849*  
  - Bulgogi Beef @ *Create-A-Bowl*  
   
 In description:   
- - Grilled Flank Steak @ *1849*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
