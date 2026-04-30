@@ -1,12 +1,16 @@
 # 2026-04-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-30 03:21:07  
+Updated at: 2026-04-30 10:46:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-30)  
 **fish**  
 In name:   
   
 In description:   
  - Tempura Roll (FujiSan) @ *Global Kitchen*  
+  
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
   
 **curry**  
 In name:   
@@ -38,12 +42,17 @@ In name:
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Mediterranean Chicken @ *Que Rico*  
  - Chicken Salad @ *Delicious*  
+ - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
  - Chorizo Sauce @ *Buona Cucina*  
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-04-30)  
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
+  
 **beef**  
 In name:   
  - Beef Fajita @ *Global Kitchen*  
@@ -57,6 +66,7 @@ In name:
  - Chicken Baked  (1 piece) @ *1849*  
  - Chicken Gravy @ *1849*  
  - Chicken Fajita @ *Global Kitchen*  
+ - Chicken Noodle Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-04-30)  
 **Chicken Drumstick Gochujang Glazed**  
@@ -74,6 +84,7 @@ In name:
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
+ - Tuna @ *Great Greens*  
   
 **BBQ Pork Sandwich**  
 In name:   
@@ -105,6 +116,7 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Mediterranean Chicken @ *Gordon Buona Cucina*  
  - Chicken Tamale with Oaxaca @ *Gordon Que Rico*  
+ - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
  - Sausage (Pork) & Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
@@ -128,6 +140,7 @@ In name:
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
+ - Tuna @ *Great Greens*  
   
 **beef**  
 In name:   
@@ -150,8 +163,23 @@ In description:
 In name:   
  - Cajun Chicken Pasta @ *1849*  
  - Bulgogi Chicken @ *Create-A-Bowl*  
+ - Chicken Noodle Soup @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-04-30)  
+**Shrimp**  
+In name:   
+ - Shrimp Cocktail @ *Buckingham Bakery*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Shrimp Cocktail @ *Buckingham Bakery*  
+  
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
+  
 **beef**  
 In name:   
   
@@ -172,6 +200,7 @@ In description:
 In name:   
  - Chicken Tenders Breaded @ *Carson's 1849*  
  - Plant-Based Chicken Tenders @ *Carson's 1849*  
+ - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
@@ -193,6 +222,10 @@ In name:
 In name:   
  - Baked Haddock w/Butter & Lemon @ *Lowell Market*  
   
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
+  
 **beef**  
 In name:   
  - Bulgogi Beef @ *Lowell Market*  
@@ -204,5 +237,6 @@ In name:
 **chicken**  
 In name:   
  - Bulgogi Chicken @ *Lowell Market*  
+ - Chicken Noodle Soup @ *Great Greens*  
   
   

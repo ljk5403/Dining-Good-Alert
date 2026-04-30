@@ -1,6 +1,6 @@
 # 2026-04-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-30 10:46:13  
+Updated at: 2026-04-30 12:20:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-30)  
 **fish**  
 In name:   
@@ -52,6 +52,12 @@ In description:
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
+  
+**curry**  
+In name:   
+  
+In description:   
+ - Cauliflower Masala Taco @ *Global Kitchen*  
   
 **beef**  
 In name:   
