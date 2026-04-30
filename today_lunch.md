@@ -1,7 +1,11 @@
 # 2026-04-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-30 12:20:02  
+Updated at: 2026-04-30 14:20:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-30)  
+**lamb**  
+In name:   
+ - Lamb & Beef Gyro Sandwich @ *Fired Up*  
+  
 **clam**  
 In name:   
  - Clam Strips @ *1849*  
@@ -18,12 +22,12 @@ In name:
   
 **beef**  
 In name:   
+ - Lamb & Beef Gyro Sandwich @ *Fired Up*  
  - Beef Mediterranean @ *Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
- - Reuben @ *Fired Up*  
   
 **pork**  
 In name:   
@@ -133,24 +137,14 @@ In name:
  - Bulgogi Chicken @ *Create-A-Bowl*  
  - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
   
-**fish**  
-In name:   
-  
-In description:   
- - Beef Masaman Thai Curry @ *1849*  
-  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
  - Tuna Salad @ *Delicious*  
   
-**curry**  
-In name:   
- - Beef Masaman Thai Curry @ *1849*  
-  
 **beef**  
 In name:   
- - Beef Masaman Thai Curry @ *1849*  
+ - Beef Pita Kabaub @ *1849*  
  - Bulgogi Beef @ *Create-A-Bowl*  
   
 In description:   
