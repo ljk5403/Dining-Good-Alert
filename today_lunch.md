@@ -1,6 +1,6 @@
 # 2026-04-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-30 03:21:01  
+Updated at: 2026-04-30 10:46:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-04-30)  
 **squid**  
 In name:   
@@ -135,15 +135,11 @@ In name:
  - Bulgogi Chicken @ *Create-A-Bowl*  
  - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
   
-**duck**  
-In name:   
- - Duck Curry @ *1849*  
-  
 **fish**  
 In name:   
   
 In description:   
- - Duck Curry @ *1849*  
+ - Beef Masaman Thai Curry @ *1849*  
   
 **Tuna**  
 In name:   
@@ -152,10 +148,11 @@ In name:
   
 **curry**  
 In name:   
- - Duck Curry @ *1849*  
+ - Beef Masaman Thai Curry @ *1849*  
   
 **beef**  
 In name:   
+ - Beef Masaman Thai Curry @ *1849*  
  - Bulgogi Beef @ *Create-A-Bowl*  
   
 In description:   
@@ -180,6 +177,10 @@ In description:
  - Pepperoni Pizza Slice @ *Que Rico*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-04-30)  
+**Shrimp**  
+In name:   
+ - Shrimp Cocktail @ *Buckingham Bakery*  
+  
 **Cod**  
 In name:   
   
@@ -190,6 +191,9 @@ In description:
 In name:   
  - Vegan Fish Sandwich @ *Fired Up:  Available Between 11am-2pm*  
  - Petite Fish Sandwich @ *Fired Up:  Available Between 11am-2pm*  
+  
+In description:   
+ - Shrimp Cocktail @ *Buckingham Bakery*  
   
 **Tuna**  
 In name:   
@@ -217,6 +221,7 @@ In description:
 **chicken**  
 In name:   
  - Chicken Vindaloo @ *Carson's 1849:  Available Between 11am-2pm*  
+ - Halal Chicken Sausage Link @ *Eggcetera:  Available Between 11am-2pm*  
  - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   

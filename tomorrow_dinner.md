@@ -1,6 +1,6 @@
 # 2026-05-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-30 03:21:16  
+Updated at: 2026-04-30 10:46:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-01)  
 **drumstick**  
 In name:   
@@ -19,12 +19,24 @@ In name:
 In name:   
  - Cod Nuggets @ *Fired Up*  
   
+**clam**  
+In name:   
+ - Clam Chowder @ *Great Greens*  
+  
 **fish**  
 In name:   
  - Vegan Fish Sandwich @ *Fired Up*  
   
 In description:   
  - Eggplant Miso-Glazed @ *1849*  
+  
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
   
 **beef**  
 In name:   
@@ -50,6 +62,18 @@ In name:
 **Salmon**  
 In name:   
  - Salmon Tandoori Roasted @ *1849*  
+  
+**clam**  
+In name:   
+ - Clam Chowder @ *Great Greens*  
+  
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
+  
+**watermelon**  
+In name:   
+ - Melon Watermelon Whole Sliced @ *Great Greens*  
   
 **beef**  
 In name:   
@@ -77,6 +101,18 @@ In name:
  - Shrimp & Pork Andouille Sausage @ *Gordon Buona Cucina*  
  - Sauteed Shrimp @ *Gordon Buona Cucina*  
  - Popcorn Shrimp Basket @ *Fired Up*  
+  
+**clam**  
+In name:   
+ - Clam Chowder @ *Great Greens*  
+  
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
   
 **curry**  
 In name:   
@@ -132,6 +168,10 @@ In name:
 In description:   
  - Fish Tacos @ *Que Rico*  
   
+**clam**  
+In name:   
+ - Clam Chowder @ *Great Greens*  
+  
 **fish**  
 In name:   
  - Vegan Fish Sandwich @ *Fired Up*  
@@ -141,6 +181,11 @@ In name:
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
+ - Tuna @ *Great Greens*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
   
 **beef**  
 In name:   
@@ -166,9 +211,17 @@ In name:
 In name:   
  - Panfried Southern Catfish @ *Lowell Market*  
   
+**clam**  
+In name:   
+ - Clam Chowder @ *Great Greens*  
+  
 **fish**  
 In name:   
  - Panfried Southern Catfish @ *Lowell Market*  
+  
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
   
 **pork**  
 In name:   
