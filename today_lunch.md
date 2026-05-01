@@ -1,6 +1,6 @@
 # 2026-05-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-01 09:55:05  
+Updated at: 2026-05-01 10:56:34  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-01)  
 **steak**  
 In name:   
@@ -89,7 +89,6 @@ In name:
   
 **Shrimp**  
 In name:   
- - Shrimp & Pork Andouille Sausage @ *Gordon Buona Cucina*  
  - Sauteed Shrimp @ *Gordon Buona Cucina*  
   
 **Cod**  
@@ -129,7 +128,6 @@ In name:
   
 **pork**  
 In name:   
- - Shrimp & Pork Andouille Sausage @ *Gordon Buona Cucina*  
  - Pizza Slice Chicken Cordon Bleu (Pork) @ *Gordon Capital City Pizza*  
   
 **chicken**  
@@ -137,9 +135,6 @@ In name:
  - Honey Lime Chicken Breast @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pizza Slice Chicken Cordon Bleu (Pork) @ *Gordon Capital City Pizza*  
-  
-In description:   
- - Shrimp & Pork Andouille Sausage @ *Gordon Buona Cucina*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-05-01)  
 **portabella**  
@@ -215,6 +210,7 @@ In name:
 **pork**  
 In name:   
  - Jerk Pork Chop @ *Lowell Market*  
+ - Imperial Pork Stir Fry @ *Lowell Market*  
   
 **chicken**  
 In name:   
