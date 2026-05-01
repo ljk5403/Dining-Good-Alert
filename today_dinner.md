@@ -1,6 +1,6 @@
 # 2026-05-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-01 17:49:50  
+Updated at: 2026-05-01 18:51:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-01)  
 **drumstick**  
 In name:   
@@ -9,10 +9,6 @@ In name:
 **steak**  
 In name:   
  - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
-  
-**mahi mahi**  
-In name:   
- - Blackened Mahi Mahi @ *1849*  
   
 **Cod**  
 In name:   
@@ -41,6 +37,7 @@ In name:
 In name:   
   
 In description:   
+ - Burnt Ends @ *1849*  
  - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
   
 **pork**  
@@ -53,7 +50,7 @@ In description:
 In name:   
  - Chicken Drumstick Teriyaki Glazed @ *1849*  
  - Diced Chicken Breast @ *Buona Cucina*  
- - Dan Dan w/ Chicken @ *Global Kitchen*  
+ - Brazilian Chicken w/ Salsa Vinaigrette @ *Global Kitchen*  
  - Chicken Empanada with Green Chili @ *Que Rico*  
  - Chicken Salad @ *Delicious*  
   
