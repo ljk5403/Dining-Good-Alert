@@ -1,6 +1,6 @@
 # 2026-05-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-01 13:04:48  
+Updated at: 2026-05-01 15:51:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-01)  
 **steak**  
 In name:   
@@ -31,6 +31,7 @@ In name:
   
 **curry**  
 In name:   
+ - Beef Bombay Curry @ *Global Kitchen*  
  - Mixed Vegetable Curry @ *Global Kitchen*  
   
 In description:   
@@ -39,6 +40,7 @@ In description:
 **beef**  
 In name:   
  - Island Spiced Beef Steak @ *1849*  
+ - Beef Bombay Curry @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -53,7 +55,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Vindaloo @ *Global Kitchen*  
  - Fajita Chicken @ *Que Rico*  
  - Diced Chicken Breast @ *Buona Cucina*  
  - Chicken Salad @ *Delicious*  
@@ -141,9 +142,9 @@ In name:
 In name:   
  - Build Your Own Poke Bar @ *Create-A-Bowl*  
   
-**Cod**  
+**Tilapia**  
 In name:   
- - Baked Cod with Tomato Tapenade @ *1849*  
+ - Blackened Tilapia @ *1849*  
   
 **clam**  
 In name:   
@@ -178,6 +179,7 @@ In description:
 **chicken**  
 In name:   
  - Crispy Chicken Sandwich @ *Fired Up*  
+ - Chipotle Chicken Baked Pasta @ *Global Kitchen*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-05-01)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-05-01)  

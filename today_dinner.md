@@ -1,6 +1,6 @@
 # 2026-05-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-01 15:51:51  
+Updated at: 2026-05-01 16:52:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-01)  
 **drumstick**  
 In name:   
@@ -9,7 +9,6 @@ In name:
 **steak**  
 In name:   
  - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
- - Fried Steak & Cheese Chimichanga @ *Que Rico*  
   
 **mahi mahi**  
 In name:   
@@ -43,7 +42,6 @@ In name:
   
 In description:   
  - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
- - Fried Steak & Cheese Chimichanga @ *Que Rico*  
   
 **pork**  
 In name:   
@@ -56,6 +54,7 @@ In name:
  - Chicken Drumstick Teriyaki Glazed @ *1849*  
  - Diced Chicken Breast @ *Buona Cucina*  
  - Dan Dan w/ Chicken @ *Global Kitchen*  
+ - Chicken Empanada with Green Chili @ *Que Rico*  
  - Chicken Salad @ *Delicious*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-05-01)  
@@ -98,7 +97,6 @@ In name:
   
 **Shrimp**  
 In name:   
- - Shrimp & Pork Andouille Sausage @ *Gordon Buona Cucina*  
  - Sauteed Shrimp @ *Gordon Buona Cucina*  
  - Popcorn Shrimp Basket @ *Fired Up*  
   
@@ -131,7 +129,6 @@ In description:
   
 **pork**  
 In name:   
- - Shrimp & Pork Andouille Sausage @ *Gordon Buona Cucina*  
  - Pizza Slice Chicken Cordon Bleu (Pork) @ *Gordon Capital City Pizza*  
   
 In description:   
@@ -146,7 +143,6 @@ In name:
  - Chicken and Cheese Flauta @ *Gordon Que Rico*  
   
 In description:   
- - Shrimp & Pork Andouille Sausage @ *Gordon Buona Cucina*  
  - Shredded Beef Flauta @ *Gordon Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-05-01)  
@@ -157,6 +153,10 @@ In name:
 **Salmon**  
 In name:   
  - Grilled Chipotle Salmon @ *1849*  
+  
+**Shrimp**  
+In name:   
+ - Shrimp @ *Global Kitchen*  
   
 **Cod**  
 In name:   
@@ -185,7 +185,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *Global Kitchen*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
@@ -200,8 +199,6 @@ In description:
 **chicken**  
 In name:   
  - Spicy Crispy Chicken Sandwich @ *Fired Up*  
- - Beef & Chicken Meatballs @ *Global Kitchen*  
- - Cajun Chicken Pasta @ *Global Kitchen*  
  - Plant-Based Chicken & Dumplings @ *1849*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-05-01)  
