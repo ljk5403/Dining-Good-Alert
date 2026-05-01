@@ -1,6 +1,6 @@
 # 2026-05-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-01 10:56:34  
+Updated at: 2026-05-01 11:59:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-01)  
 **steak**  
 In name:   
@@ -137,12 +137,6 @@ In name:
  - Pizza Slice Chicken Cordon Bleu (Pork) @ *Gordon Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-05-01)  
-**portabella**  
-In name:   
-  
-In description:   
- - Grilled Portabello Mushroom Sandwich @ *Fired Up*  
-  
 **Poke Bar**  
 In name:   
  - Build Your Own Poke Bar @ *Create-A-Bowl*  
@@ -183,7 +177,6 @@ In description:
   
 **chicken**  
 In name:   
- - Grilled Chicken Sandwich @ *Fired Up*  
  - Crispy Chicken Sandwich @ *Fired Up*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-05-01)  
