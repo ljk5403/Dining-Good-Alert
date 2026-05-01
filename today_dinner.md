@@ -1,6 +1,6 @@
 # 2026-05-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-01 13:04:50  
+Updated at: 2026-05-01 15:51:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-01)  
 **drumstick**  
 In name:   
@@ -158,10 +158,6 @@ In name:
 In name:   
  - Grilled Chipotle Salmon @ *1849*  
   
-**Shrimp**  
-In name:   
- - Sauteed Shrimp @ *Global Kitchen*  
-  
 **Cod**  
 In name:   
   
@@ -189,6 +185,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef & Chicken Meatballs @ *Global Kitchen*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
@@ -203,6 +200,8 @@ In description:
 **chicken**  
 In name:   
  - Spicy Crispy Chicken Sandwich @ *Fired Up*  
+ - Beef & Chicken Meatballs @ *Global Kitchen*  
+ - Cajun Chicken Pasta @ *Global Kitchen*  
  - Plant-Based Chicken & Dumplings @ *1849*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-05-01)  
