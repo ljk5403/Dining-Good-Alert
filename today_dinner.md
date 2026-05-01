@@ -1,6 +1,6 @@
 # 2026-04-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-04-30 18:52:23  
+Updated at: 2026-04-30 22:21:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-04-30)  
 **fish**  
 In name:   
@@ -127,16 +127,12 @@ In description:
  - Sausage (Pork) & Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-04-30)  
-**portabella**  
-In name:   
- - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
-  
 **Bulgogi**  
 In name:   
  - BYO Bar - Four Lakes Bulgogi @ *Create-A-Bowl*  
  - Bulgogi Beef @ *Create-A-Bowl*  
  - Bulgogi Chicken @ *Create-A-Bowl*  
- - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
+ - Build Your Own Bulgogi Bar - Four Lakes @ *Create-A-Bowl*  
   
 **Tuna**  
 In name:   
@@ -219,9 +215,9 @@ In name:
  - Bulgogi Chicken @ *Lowell Market*  
  - Bulgogi Portabella Mushrooms @ *Lowell Market*  
   
-**haddock**  
+**Salmon**  
 In name:   
- - Baked Haddock w/Butter & Lemon @ *Lowell Market*  
+ - Baked Salmon with Dill Wine Sauce @ *Lowell Market*  
   
 **Tuna**  
 In name:   
