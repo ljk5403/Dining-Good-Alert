@@ -1,6 +1,6 @@
 # 2026-05-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-02 12:42:25  
+Updated at: 2026-05-02 13:58:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-02)  
 **Tuna**  
 In name:   
@@ -41,6 +41,10 @@ In description:
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-05-02)  
+**Salmon**  
+In name:   
+ - Salmon Caribbean Global w/Rice (AYCTE) @ *Global Kitchen*  
+  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
@@ -55,7 +59,6 @@ In description:
   
 **chicken**  
 In name:   
- - Grilled Buffalo Chicken Sandwich @ *Global Kitchen*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Global Kitchen*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
