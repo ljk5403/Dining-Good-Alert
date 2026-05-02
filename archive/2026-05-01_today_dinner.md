@@ -1,6 +1,6 @@
 # 2026-05-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-02 15:40:40  
+Updated at: 2026-05-02 16:39:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-02)  
 **Shrimp**  
 In name:   
@@ -70,6 +70,10 @@ In description:
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-05-02)  
+**Shrimp**  
+In name:   
+ - Popcorn Shrimp Basket @ *Fired Up*  
+  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
@@ -78,7 +82,6 @@ In name:
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
- - Chili & Cheese Beef Hot Dog @ *Fired Up*  
   
 In description:   
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
