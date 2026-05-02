@@ -1,6 +1,6 @@
 # 2026-05-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-01 18:51:19  
+Updated at: 2026-05-01 21:39:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-01)  
 **drumstick**  
 In name:   
@@ -147,6 +147,10 @@ In description:
 In name:   
  - Build Your Own Poke Bar @ *Create-A-Bowl*  
   
+**drumstick**  
+In name:   
+ - Smoked Chicken Drumstick @ *1849*  
+  
 **Salmon**  
 In name:   
  - Grilled Chipotle Salmon @ *1849*  
@@ -188,14 +192,14 @@ In description:
   
 **pork**  
 In name:   
- - Smoked Pulled Pork Sandwich @ *1849*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
 In name:   
- - Spicy Crispy Chicken Sandwich @ *Fired Up*  
+ - Crispy Chicken Sandwich @ *Fired Up*  
+ - Smoked Chicken Drumstick @ *1849*  
  - Plant-Based Chicken & Dumplings @ *1849*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-05-01)  
