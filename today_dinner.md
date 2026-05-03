@@ -1,6 +1,6 @@
 # 2026-05-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-03 16:41:02  
+Updated at: 2026-05-03 17:40:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-03)  
 **Tuna**  
 In name:   
@@ -94,6 +94,7 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Global Kitchen*  
+ - Beef @ *Que Rico*  
   
 In description:   
  - Grilled Blended Burger w/ Cheese @ *Fired Up*  
@@ -102,7 +103,6 @@ In description:
 **pork**  
 In name:   
  - French Market Pork Jambalaya @ *1849*  
- - Pork Belly for Street Taco @ *Que Rico*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
@@ -110,7 +110,7 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Global Kitchen*  
- - Taco Chicken @ *Que Rico*  
+ - Diced Chicken Breast @ *Que Rico*  
  - Chicken Chili @ *Great Greens*  
   
 In description:   
