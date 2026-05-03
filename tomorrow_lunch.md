@@ -1,6 +1,6 @@
 # 2026-05-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-03 03:00:23  
+Updated at: 2026-05-03 09:48:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-04)  
 **Tuna**  
 In name:   
