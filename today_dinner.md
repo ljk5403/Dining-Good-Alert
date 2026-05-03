@@ -1,6 +1,6 @@
 # 2026-05-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-03 10:46:44  
+Updated at: 2026-05-03 11:50:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-03)  
 **Tuna**  
 In name:   
@@ -132,6 +132,7 @@ In name:
 **beef**  
 In name:   
  - Beef Stroganoff Creamy @ *Fired Up*  
+ - Beef Chili @ *Great Greens*  
   
 In description:   
  - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza*  
@@ -152,7 +153,6 @@ In description:
 **chicken**  
 In name:   
  - Popcorn Chicken @ *Global*  
- - Chicken Chili @ *Great Greens*  
   
 In description:   
  - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza*  

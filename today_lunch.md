@@ -1,6 +1,6 @@
 # 2026-05-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-03 10:46:42  
+Updated at: 2026-05-03 11:50:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-03)  
 **Tuna**  
 In name:   
@@ -124,6 +124,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Chili @ *Great Greens*  
   
 In description:   
  - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza:  Available Between 11am-4pm*  
@@ -141,7 +142,6 @@ In description:
 **chicken**  
 In name:   
  - Maple Cider Chicken @ *Carson's 1849:  Available Between 11am-2pm*  
- - Chicken Chili @ *Great Greens*  
   
 In description:   
  - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza:  Available Between 11am-4pm*  
