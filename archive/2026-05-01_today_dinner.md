@@ -1,6 +1,6 @@
 # 2026-05-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-02 17:40:18  
+Updated at: 2026-05-02 18:42:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-02)  
 **Shrimp**  
 In name:   
@@ -111,6 +111,10 @@ In description:
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-05-02)  
+**Cod**  
+In name:   
+ - Battered Cod Fillet Sandwich @ *Fired Up*  
+  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
@@ -122,12 +126,10 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Pork Bratwurst Sandwich @ *Fired Up*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
 In name:   
- - Pork Bratwurst Sandwich @ *Fired Up*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  

@@ -1,6 +1,6 @@
 # 2026-05-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-02 18:42:00  
+Updated at: 2026-05-02 21:51:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-02)  
 **Shrimp**  
 In name:   
@@ -70,10 +70,6 @@ In description:
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-05-02)  
-**lamb**  
-In name:   
- - Lamb & Beef Gyro Sandwich @ *Fired Up*  
-  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
@@ -81,13 +77,14 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Beef Barbacoa @ *Gordon Que Rico*  
  - Beef Taco Meat @ *Gordon Que Rico*  
- - Lamb & Beef Gyro Sandwich @ *Fired Up*  
   
 In description:   
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
+ - Italian Meatball Sandwich @ *Fired Up*  
   
 **pork**  
 In name:   
@@ -102,15 +99,19 @@ In description:
 In name:   
  - Cajun Chicken Pasta @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Chicken Tinga @ *Gordon Que Rico*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
+ - Italian Meatball Sandwich @ *Fired Up*  
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-05-02)  
+**Bulgogi**  
+In name:   
+ - Bulgogi Chicken @ *1849*  
+  
 **Cod**  
 In name:   
  - Battered Cod Fillet Sandwich @ *Fired Up*  
@@ -122,7 +123,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Broccoli Stir Fry @ *1849*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -130,6 +130,7 @@ In description:
   
 **pork**  
 In name:   
+ - Andouille Pork Sausage @ *Global Kitchen*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
@@ -138,8 +139,8 @@ In description:
 **chicken**  
 In name:   
  - Plant-Based Chicken Tenders @ *Fired Up*  
- - Giardiniera Chicken @ *Global Kitchen*  
  - Plant Based Sweet & Sour Chicken @ *1849*  
+ - Bulgogi Chicken @ *1849*  
  - Taco Chicken @ *Que Rico*  
   
 In description:   
