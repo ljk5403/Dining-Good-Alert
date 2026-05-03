@@ -1,6 +1,6 @@
 # 2026-05-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-03 12:46:20  
+Updated at: 2026-05-03 13:58:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-03)  
 **Tuna**  
 In name:   
@@ -31,13 +31,12 @@ In description:
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-05-03)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-05-03)  
-**drumstick**  
-In name:   
- - Chicken Drumstick Mango Habanero @ *1849*  
-  
 **steak**  
 In name:   
  - Plant-Based Pepper Steak Stir Fry @ *1849*  
+  
+In description:   
+ - Montreal Chicken @ *1849*  
   
 **Shrimp**  
 In name:   
@@ -70,7 +69,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Drumstick Mango Habanero @ *1849*  
+ - Montreal Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Chicken Chili @ *Great Greens*  
   
@@ -108,8 +107,13 @@ In name:
  - Chicken Chili @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-05-03)  
+**catfish**  
+In name:   
+ - Fried Catfish @ *Carson's 1849:  Available Between 11am-2pm*  
+  
 **fish**  
 In name:   
+ - Fried Catfish @ *Carson's 1849:  Available Between 11am-2pm*  
   
 In description:   
  - Vietnamese Pork @ *Global Kitchen:  Available Between 11am-2pm*  
@@ -137,7 +141,6 @@ In description:
   
 **chicken**  
 In name:   
- - Maple Cider Chicken @ *Carson's 1849:  Available Between 11am-2pm*  
   
 In description:   
  - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza:  Available Between 11am-4pm*  
