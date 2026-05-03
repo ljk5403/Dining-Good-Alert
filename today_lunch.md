@@ -1,6 +1,6 @@
 # 2026-05-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-03 09:48:46  
+Updated at: 2026-05-03 10:46:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-03)  
 **Tuna**  
 In name:   
@@ -31,6 +31,10 @@ In description:
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-05-03)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-05-03)  
+**drumstick**  
+In name:   
+ - Chicken Drumstick Mango Habanero @ *1849*  
+  
 **steak**  
 In name:   
  - Plant-Based Pepper Steak Stir Fry @ *1849*  
@@ -57,6 +61,7 @@ In description:
   
 **pork**  
 In name:   
+ - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Pork Carnita @ *Gordon Que Rico*  
  - Biscuits & Pork Gravy @ *Eggcetera*  
   
@@ -65,9 +70,8 @@ In description:
   
 **chicken**  
 In name:   
- - Jamaican Jerk Chicken @ *1849*  
+ - Chicken Drumstick Mango Habanero @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Giardiniera Chicken @ *Gordon Buona Cucina*  
  - Chicken Chili @ *Great Greens*  
   
 In description:   
