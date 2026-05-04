@@ -1,6 +1,6 @@
 # 2026-05-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-04 16:08:02  
+Updated at: 2026-05-04 17:56:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-04)  
 **steak**  
 In name:   
@@ -26,7 +26,6 @@ In name:
   
 In description:   
  - Sausage (Pork), Potatoes, & Peppers @ *1849*  
- - Italian Meat Sauce @ *Buona Cucina*  
  - Chicago-Style Hot Dog @ *Fired Up*  
   
 **pork**  
@@ -36,6 +35,7 @@ In name:
  - Pork Fried Noodles @ *Global Kitchen*  
   
 In description:   
+ - Chorizo Sauce @ *Buona Cucina*  
  - Pizza Slice Sausage @ *Capital City Pizza*  
   
 **chicken**  
@@ -43,6 +43,9 @@ In name:
  - Montreal Chicken @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
+  
+In description:   
+ - Chorizo Sauce @ *Buona Cucina*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-05-04)  
 **Tuna**  
@@ -116,7 +119,6 @@ In name:
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pizza Slice Mediterranean Chicken @ *Gordon Capital City Pizza*  
- - Crispy Chicken Sandwich @ *Fired Up*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
@@ -193,7 +195,6 @@ In description:
   
 **Shrimp**  
 In name:   
- - Manicotti Shrimp Alfredo @ *Carson's 1849*  
   
 In description:   
  - Poke Bar Carsons (AYCTE) @ *Global*  
