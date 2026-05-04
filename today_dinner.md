@@ -1,6 +1,6 @@
 # 2026-05-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-03 18:43:42  
+Updated at: 2026-05-03 21:49:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-03)  
 **Tuna**  
 In name:   
@@ -45,8 +45,13 @@ In description:
 In name:   
  - Tuna @ *Great Greens*  
   
+**curry**  
+In name:   
+ - Beef Bombay Curry @ *1849*  
+  
 **beef**  
 In name:   
+ - Beef Bombay Curry @ *1849*  
  - Beef Stew @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
@@ -58,7 +63,6 @@ In description:
   
 **pork**  
 In name:   
- - Boneless Baked Pork Ham @ *1849*  
  - Pork Carnita @ *Gordon Que Rico*  
   
 In description:   
@@ -68,7 +72,7 @@ In description:
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Giardiniera Chicken @ *Gordon Buona Cucina*  
- - Chicken Tenders Breaded @ *Fired Up*  
+ - Popcorn Chicken @ *Fired Up*  
  - Plant-Based Chicken Nuggets (6) @ *Fired Up*  
  - Chicken Chili @ *Great Greens*  
   
