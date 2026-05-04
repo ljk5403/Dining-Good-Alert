@@ -1,6 +1,6 @@
 # 2026-05-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-04 03:28:52  
+Updated at: 2026-05-04 11:01:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-04)  
 **steak**  
 In name:   
@@ -101,6 +101,7 @@ In description:
  - Swedish Meatballs (AYCTE) @ *1849*  
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
+ - Soup Garden Vegetable @ *Great Greens*  
   
 **pork**  
 In name:   
@@ -250,6 +251,5 @@ In name:
  - Beef & Chicken Meatballs @ *Lowell Market*  
  - Breaded Chicken Parmigiana @ *Lowell Market*  
  - Diced Chicken @ *Great Greens*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
   
   
