@@ -1,6 +1,6 @@
 # 2026-05-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-04 13:13:32  
+Updated at: 2026-05-04 16:08:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-04)  
 **steak**  
 In name:   
@@ -75,6 +75,10 @@ In name:
 In description:   
  - Pizza Slice Portabello Alfredo (Veg) @ *Gordon Capital City Pizza*  
   
+**steak**  
+In name:   
+ - Steak Street Taco @ *Gordon Que Rico*  
+  
 **fish**  
 In name:   
   
@@ -95,12 +99,12 @@ In description:
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Ravioli w/Tomato Sauce @ *Gordon Buona Cucina*  
- - Beef Chimichurri Taco @ *Gordon Que Rico*  
   
 In description:   
  - Swedish Meatballs (AYCTE) @ *1849*  
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
+ - Steak Street Taco @ *Gordon Que Rico*  
  - Soup Garden Vegetable @ *Great Greens*  
   
 **pork**  
@@ -140,10 +144,6 @@ In name:
 In description:   
  - Indian Fish Curry @ *Que Rico*  
   
-**Shrimp**  
-In name:   
- - Fried Popcorn Shrimp @ *1849*  
-  
 **fish**  
 In name:   
  - Indian Fish Curry @ *Que Rico*  
@@ -161,10 +161,8 @@ In name:
 **beef**  
 In name:   
  - Beef Stroganoff Creamy @ *1849*  
- - Beef Tri Tip Carved w/ Chimichurri @ *1849*  
   
 In description:   
- - Chicago-Style Hot Dog @ *Fired Up*  
  - Grilled Blended Burger w/ Cheese @ *Fired Up*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
@@ -238,13 +236,23 @@ In description:
  - Sausage (Pork) & Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-05-04)  
+**Shrimp**  
+In name:   
+ - Sauteed Shrimp @ *Lowell Market*  
+  
+**Tilapia**  
+In name:   
+ - Tilapia Chipotle Lime Crusted @ *Lowell Market*  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Lowell Market*  
   
 **pork**  
 In name:   
- - Cajun Rice w/ Pork & Black Eyed Peas @ *Lowell Market*  
+  
+In description:   
+ - Andouille Sausage @ *Lowell Market*  
   
 **chicken**  
 In name:   
