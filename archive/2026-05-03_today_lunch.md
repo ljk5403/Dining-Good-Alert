@@ -1,6 +1,6 @@
 # 2026-05-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-04 03:28:47  
+Updated at: 2026-05-04 11:01:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-04)  
 **Tuna**  
 In name:   
@@ -94,6 +94,7 @@ In name:
  - Island Spiced Beef Steak @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Ravioli w/Tomato Sauce @ *Gordon Buona Cucina*  
+ - Beef Barbacoa @ *Gordon Que Rico*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
@@ -101,6 +102,7 @@ In description:
  - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
  - Pork Bratwurst Sandwich @ *Gordon Fired Up*  
  - Sandwich Choripan @ *Gordon Fired Up*  
+ - Soup Garden Vegetable @ *Great Greens*  
   
 **pork**  
 In name:   
@@ -114,7 +116,6 @@ In description:
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pizza Slice Mediterranean Chicken @ *Gordon Capital City Pizza*  
- - Chicken Tinga @ *Gordon Que Rico*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
@@ -220,10 +221,13 @@ In name:
 In name:   
  - Beef Alicha @ *Lowell Market*  
   
+**pork**  
+In name:   
+ - Jerk Pork Chop @ *Lowell Market*  
+  
 **chicken**  
 In name:   
  - Honey Mustard Chicken & Vegetables @ *Lowell Market*  
  - Diced Chicken @ *Great Greens*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
   
   

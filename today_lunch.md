@@ -1,6 +1,6 @@
 # 2026-05-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-04 11:01:13  
+Updated at: 2026-05-04 13:13:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-04)  
 **Tuna**  
 In name:   
@@ -81,9 +81,9 @@ In description:
 In name:   
  - Island Spiced Beef Steak @ *1849*  
   
-**Salmon**  
+**Cod**  
 In name:   
- - Baked Salmon Fillet @ *1849*  
+ - Lemon Pepper Cod Fillet @ *1849*  
   
 **Tuna**  
 In name:   
