@@ -1,6 +1,6 @@
 # 2026-05-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-05 03:08:30  
+Updated at: 2026-05-05 10:52:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-05)  
 **portabella**  
 In name:   
@@ -32,6 +32,7 @@ In name:
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
+ - Pastrami & Swiss Sandwich @ *Fired Up*  
   
 **pork**  
 In name:   
@@ -100,7 +101,6 @@ In description:
   
 **steak**  
 In name:   
- - Country Fried Steak @ *1849*  
  - Philly Cheesesteak Sandwich @ *Gordon Fired Up*  
  - Tempeh Philly Cheesesteak Sandwich @ *Gordon Fired Up*  
   
@@ -110,12 +110,11 @@ In name:
   
 **beef**  
 In name:   
- - Beef Sirloin Tips @ *1849*  
+ - Beef Stew w/ Buttermilk Biscuit @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
- - Country Fried Steak @ *1849*  
  - Philly Cheesesteak Sandwich @ *Gordon Fired Up*  
   
 **pork**  
@@ -183,6 +182,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Chili @ *Great Greens*  
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza:  Available Between 11am-4pm*  
@@ -205,7 +205,6 @@ In name:
  - Plant Based Sweet & Sour Chicken @ *Global Kitchen:  Available Between 11am-2pm*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera:  Available Between 11am-2pm*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Dumpling Soup @ *Great Greens*  
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza:  Available Between 11am-4pm*  

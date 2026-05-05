@@ -1,6 +1,6 @@
 # 2026-05-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-05 03:08:32  
+Updated at: 2026-05-05 10:52:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-05)  
 **portabella**  
 In name:   
@@ -192,6 +192,7 @@ In name:
 In name:   
  - Beef Mediterranean @ *Global*  
  - Beef Meatloaf @ *Carson's 1849*  
+ - Beef Chili @ *Great Greens*  
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
@@ -210,7 +211,6 @@ In name:
  - Mediterranean Chicken @ *Global*  
  - Chicken Stir-Fry Coconut Lime @ *Fired Up*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Dumpling Soup @ *Great Greens*  
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
