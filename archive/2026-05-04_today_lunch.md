@@ -1,6 +1,6 @@
 # 2026-05-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-05 12:22:32  
+Updated at: 2026-05-05 12:53:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-05)  
 **portabella**  
 In name:   
@@ -50,6 +50,43 @@ In name:
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-05-05)  
+**lamb**  
+In name:   
+ - Smoked Leg of Lamb @ *1849*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
+  
+**beef**  
+In name:   
+ - Traditional Beef Shepard's Pie @ *1849*  
+ - Beef Taco Meat @ *Que Rico*  
+ - Mediterranean Beef @ *Create-A-Bowl*  
+  
+In description:   
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
+  
+**pork**  
+In name:   
+ - Ancho Braised Pork @ *Que Rico*  
+  
+In description:   
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
+  
+**chicken**  
+In name:   
+ - Grilled Chicken Sandwich @ *Fired Up*  
+ - Italian Chicken @ *Global Kitchen*  
+ - Mediterranean Chicken @ *Create-A-Bowl*  
+ - Diced Chicken @ *Great Greens*  
+ - Chicken Dumpling Soup @ *Great Greens*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
+  
+In description:   
+ - Ancho Braised Pork @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-05-05)  
 **Salmon**  
@@ -133,43 +170,6 @@ In name:
  - Butter Chicken @ *Gordon Global Kitchen*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
-  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-05-05)  
-**lamb**  
-In name:   
- - Smoked Leg of Lamb @ *1849*  
-  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
-**beef**  
-In name:   
- - Traditional Beef Shepard's Pie @ *1849*  
- - Beef Taco Meat @ *Que Rico*  
- - Mediterranean Beef @ *Create-A-Bowl*  
-  
-In description:   
- - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
-  
-**pork**  
-In name:   
- - Ancho Braised Pork @ *Que Rico*  
-  
-In description:   
- - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
-  
-**chicken**  
-In name:   
- - Grilled Chicken Sandwich @ *Fired Up*  
- - Italian Chicken @ *Global Kitchen*  
- - Mediterranean Chicken @ *Create-A-Bowl*  
- - Diced Chicken @ *Great Greens*  
- - Chicken Dumpling Soup @ *Great Greens*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
-  
-In description:   
- - Ancho Braised Pork @ *Que Rico*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-05-05)  
 **Shrimp**  
