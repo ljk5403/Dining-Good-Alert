@@ -1,14 +1,10 @@
 # 2026-05-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-05 16:01:35  
+Updated at: 2026-05-05 16:21:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-05)  
 **portabella**  
 In name:   
  - Portabella Mushroom Ravioli Plain @ *Buona Cucina*  
-  
-**Pakoras**  
-In name:   
- - Appetizer -  Pakoras Vegetable (Veg) @ *Global Kitchen*  
   
 **Salmon**  
 In name:   
@@ -17,6 +13,10 @@ In name:
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
+  
+**Pakoras**  
+In name:   
+ - Appetizer -  Pakoras Vegetable (Veg) @ *Global Kitchen*  
   
 **watermelon**  
 In name:   
