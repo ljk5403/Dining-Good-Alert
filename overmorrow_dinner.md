@@ -1,6 +1,6 @@
 # 2026-05-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-05 12:22:53  
+Updated at: 2026-05-05 12:53:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-07)  
 **Chicken Drummies**  
 In name:   
@@ -42,6 +42,54 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-05-07)  
+**portabella**  
+In name:   
+ - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
+  
+**Bulgogi**  
+In name:   
+ - BYO Bar - Four Lakes Bulgogi @ *Create-A-Bowl*  
+ - Bulgogi Beef @ *Create-A-Bowl*  
+ - Bulgogi Chicken @ *Create-A-Bowl*  
+ - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
+  
+**Flauta**  
+In name:   
+ - Shredded Beef Flauta @ *Que Rico*  
+  
+**drumstick**  
+In name:   
+ - Jamaican Jerk Chicken Drumstick @ *1849*  
+  
+**beef**  
+In name:   
+ - Italian Beef Sandwich @ *1849*  
+ - Shredded Beef Flauta @ *Que Rico*  
+ - Bulgogi Beef @ *Create-A-Bowl*  
+  
+In description:   
+ - Grilled Blended Burger w/ Cheese @ *Fired Up*  
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
+  
+**pork**  
+In name:   
+  
+In description:   
+ - Andouille Sausage @ *Global Kitchen*  
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
+  
+**chicken**  
+In name:   
+ - Jamaican Jerk Chicken Drumstick @ *1849*  
+ - Bulgogi Chicken @ *Create-A-Bowl*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Diced Chicken @ *Great Greens*  
+ - Chicken Noodle Soup @ *Great Greens*  
+  
+In description:   
+ - Shredded Beef Flauta @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-05-07)  
 **steak**  
@@ -122,54 +170,6 @@ In name:
   
 In description:   
  - Italian Meatball Sandwich @ *Fired Up*  
-  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-05-07)  
-**portabella**  
-In name:   
- - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
-  
-**Bulgogi**  
-In name:   
- - BYO Bar - Four Lakes Bulgogi @ *Create-A-Bowl*  
- - Bulgogi Beef @ *Create-A-Bowl*  
- - Bulgogi Chicken @ *Create-A-Bowl*  
- - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
-  
-**Flauta**  
-In name:   
- - Shredded Beef Flauta @ *Que Rico*  
-  
-**drumstick**  
-In name:   
- - Jamaican Jerk Chicken Drumstick @ *1849*  
-  
-**beef**  
-In name:   
- - Italian Beef Sandwich @ *1849*  
- - Shredded Beef Flauta @ *Que Rico*  
- - Bulgogi Beef @ *Create-A-Bowl*  
-  
-In description:   
- - Grilled Blended Burger w/ Cheese @ *Fired Up*  
- - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
-  
-**pork**  
-In name:   
-  
-In description:   
- - Andouille Sausage @ *Global Kitchen*  
- - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
-  
-**chicken**  
-In name:   
- - Jamaican Jerk Chicken Drumstick @ *1849*  
- - Bulgogi Chicken @ *Create-A-Bowl*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
- - Diced Chicken @ *Great Greens*  
- - Chicken Noodle Soup @ *Great Greens*  
-  
-In description:   
- - Shredded Beef Flauta @ *Que Rico*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-05-07)  
 **Shrimp**  

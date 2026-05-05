@@ -1,6 +1,6 @@
 # 2026-05-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-05 10:52:29  
+Updated at: 2026-05-05 12:22:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-05)  
 **portabella**  
 In name:   
@@ -214,6 +214,10 @@ In description:
 **Salmon**  
 In name:   
  - Blackened Salmon @ *Lowell Market*  
+  
+**fish**  
+In name:   
+ - Fishless Filet @ *Lowell Market*  
   
 **beef**  
 In name:   

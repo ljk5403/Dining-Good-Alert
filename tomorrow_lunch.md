@@ -1,6 +1,6 @@
 # 2026-05-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-05 12:22:40  
+Updated at: 2026-05-05 12:53:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-06)  
 **FiIipino Pork Spring Roll**  
 In name:   
@@ -45,6 +45,40 @@ In name:
  - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
  - Fajita Chicken @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-05-06)  
+**Vanilla Coconut Milk Yogurt**  
+In name:   
+ - Vanilla Coconut Milk Yogurt @ *Great Greens*  
+  
+**Tilapia**  
+In name:   
+ - Tilapia Chipotle Lime Crusted @ *1849*  
+  
+**beef**  
+In name:   
+ - Beef Chili @ *Great Greens*  
+  
+In description:   
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
+  
+**pork**  
+In name:   
+  
+In description:   
+ - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
+  
+**chicken**  
+In name:   
+ - Huli Huli Chicken @ *1849*  
+ - Chicken Stir-Fry Coconut Lime @ *Global Kitchen*  
+ - Chicken Wings Boneless Plain @ *Que Rico*  
+ - Plant-Based Chicken Nuggets (6) @ *Que Rico*  
+ - Diced Chicken @ *Great Greens*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
+  
+In description:   
+ - BYO Bar - Mac & Cheese @ *Create-A-Bowl*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-05-06)  
 **Pakoras**  
@@ -116,40 +150,6 @@ In name:
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
-  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-05-06)  
-**Vanilla Coconut Milk Yogurt**  
-In name:   
- - Vanilla Coconut Milk Yogurt @ *Great Greens*  
-  
-**Tilapia**  
-In name:   
- - Tilapia Chipotle Lime Crusted @ *1849*  
-  
-**beef**  
-In name:   
- - Beef Chili @ *Great Greens*  
-  
-In description:   
- - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
-  
-**pork**  
-In name:   
-  
-In description:   
- - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
-  
-**chicken**  
-In name:   
- - Huli Huli Chicken @ *1849*  
- - Chicken Stir-Fry Coconut Lime @ *Global Kitchen*  
- - Chicken Wings Boneless Plain @ *Que Rico*  
- - Plant-Based Chicken Nuggets (6) @ *Que Rico*  
- - Diced Chicken @ *Great Greens*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
-  
-In description:   
- - BYO Bar - Mac & Cheese @ *Create-A-Bowl*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-05-06)  
 **fish**  
