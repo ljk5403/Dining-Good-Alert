@@ -12,7 +12,7 @@ import pprint
 
 zone = ZoneInfo("America/Chicago")
 
-dinning_hall_tuple = ('rhetas-market', 'lizs-market', 'gordon-avenue-market', 'four-lakes-market', 'carsons-market', 'lowell-market')
+dinning_hall_tuple = ('rhetas-market', 'four-lakes-market', 'lizs-market', 'gordon-avenue-market', 'carsons-market', 'lowell-market')
 #meals_tuple = ('breakfast', 'lunch', 'dinner')
 meals_tuple = ('lunch', 'dinner')
 
