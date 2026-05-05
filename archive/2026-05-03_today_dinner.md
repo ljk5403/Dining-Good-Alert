@@ -1,6 +1,6 @@
 # 2026-05-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-04 17:56:26  
+Updated at: 2026-05-04 18:55:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-04)  
 **steak**  
 In name:   
@@ -11,6 +11,10 @@ In description:
 **Tilapia**  
 In name:   
  - Tilapia Veracruz @ *Que Rico*  
+  
+**lamb**  
+In name:   
+ - Lamb & Beef Gyro Sandwich @ *Fired Up*  
   
 **Tuna**  
 In name:   
@@ -23,10 +27,10 @@ In name:
 **beef**  
 In name:   
  - Beef Ravioli Plain @ *Buona Cucina*  
+ - Lamb & Beef Gyro Sandwich @ *Fired Up*  
   
 In description:   
  - Sausage (Pork), Potatoes, & Peppers @ *1849*  
- - Chicago-Style Hot Dog @ *Fired Up*  
   
 **pork**  
 In name:   

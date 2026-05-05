@@ -1,6 +1,6 @@
 # 2026-05-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-04 18:55:22  
+Updated at: 2026-05-04 21:41:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-04)  
 **steak**  
 In name:   
@@ -77,7 +77,6 @@ In name:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-05-04)  
 **portabella**  
 In name:   
- - Smothered Portabella Mushroom @ *Gordon Que Rico*  
   
 In description:   
  - Pizza Slice Portabello Alfredo (Veg) @ *Gordon Capital City Pizza*  
