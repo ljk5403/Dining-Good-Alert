@@ -1,6 +1,6 @@
 # 2026-05-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-05 12:53:03  
+Updated at: 2026-05-05 14:18:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-05)  
 **portabella**  
 In name:   
@@ -52,17 +52,12 @@ In description:
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-05-05)  
-**lamb**  
-In name:   
- - Smoked Leg of Lamb @ *1849*  
-  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
 **beef**  
 In name:   
- - Traditional Beef Shepard's Pie @ *1849*  
  - Beef Taco Meat @ *Que Rico*  
  - Mediterranean Beef @ *Create-A-Bowl*  
   
@@ -71,6 +66,7 @@ In description:
   
 **pork**  
 In name:   
+ - French Market Pork Jambalaya @ *1849*  
  - Ancho Braised Pork @ *Que Rico*  
   
 In description:   
@@ -86,6 +82,7 @@ In name:
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
+ - French Market Pork Jambalaya @ *1849*  
  - Ancho Braised Pork @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-05-05)  
@@ -145,6 +142,14 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**Chicken Tamale with Oaxaca**  
+In name:   
+ - Chicken Tamale with Oaxaca @ *Gordon Global Kitchen*  
+  
+**curry**  
+In name:   
+ - Thai Veggie Meatballs w/ Green Curry @ *Gordon Global Kitchen*  
+  
 **beef**  
 In name:   
  - Beef Stew w/ Buttermilk Biscuit @ *1849*  
@@ -167,7 +172,7 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
- - Butter Chicken @ *Gordon Global Kitchen*  
+ - Chicken Tamale with Oaxaca @ *Gordon Global Kitchen*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
   
