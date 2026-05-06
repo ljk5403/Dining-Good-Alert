@@ -1,6 +1,6 @@
 # 2026-05-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-06 03:25:43  
+Updated at: 2026-05-06 11:00:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-06)  
 **clam**  
 In name:   
@@ -121,13 +121,6 @@ In description:
 In name:   
  - Baked Tilapia w/Dill Wine Sauce @ *1849*  
   
-**fish**  
-In name:   
-  
-In description:   
- - Tempura Roll (FujiSan) @ *Gordon Global Kitchen*  
- - California Roll  (FujiSan) @ *Gordon Global Kitchen*  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
@@ -141,7 +134,6 @@ In description:
 In name:   
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
- - Gluten Free Pork Sausage Pizza Quarter @ *Gordon Capital City Pizza*  
  - Italian Sausage (Pork) w/ Pepper & Onion @ *Fired Up*  
   
 **chicken**  
@@ -151,7 +143,6 @@ In name:
  - Sweet & Sour Chicken @ *Gordon Global Kitchen*  
  - Plant Based Sweet & Sour Chicken @ *Gordon Global Kitchen*  
  - Chicken Fajitas w/Rice & Beans @ *Gordon Que Rico*  
- - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
  - Diced Chicken @ *Great Greens*  
   
 In description:   
@@ -183,7 +174,6 @@ In description:
 **beef**  
 In name:   
  - Bulgogi Beef @ *Global*  
- - Beef Chili @ *Great Greens*  
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
@@ -203,6 +193,7 @@ In name:
  - Bulgogi Chicken @ *Global*  
  - Chicken Ala King over Biscuit @ *Carson's 1849*  
  - Diced Chicken @ *Great Greens*  
+ - Chicken Chili @ *Great Greens*  
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
@@ -219,7 +210,6 @@ In name:
 **beef**  
 In name:   
  - Mediterranean Beef @ *Lowell Market*  
- - Beef Chili @ *Great Greens*  
   
 **chicken**  
 In name:   
