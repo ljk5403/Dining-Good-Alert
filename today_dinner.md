@@ -1,6 +1,6 @@
 # 2026-05-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-06 13:15:12  
+Updated at: 2026-05-06 16:10:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-06)  
 **clam**  
 In name:   
@@ -117,9 +117,13 @@ In name:
 In description:   
  - Vegan French Dip Sandwich @ *Fired Up*  
   
-**Tilapia**  
+**catfish**  
 In name:   
- - Baked Tilapia w/Dill Wine Sauce @ *1849*  
+ - Blackened Catfish @ *1849*  
+  
+**fish**  
+In name:   
+ - Blackened Catfish @ *1849*  
   
 **Tuna**  
 In name:   

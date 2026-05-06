@@ -1,6 +1,6 @@
 # 2026-05-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-06 13:15:10  
+Updated at: 2026-05-06 16:10:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-06)  
 **FiIipino Pork Spring Roll**  
 In name:   
@@ -36,7 +36,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Parmigiana @ *1849*  
+ - Chicken Creole @ *1849*  
  - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
  - Chicken Teriyaki Stir Fry @ *Global Kitchen*  
  - Fajita Chicken @ *Que Rico*  
@@ -96,6 +96,10 @@ In name:
  - Diced Chicken @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-05-06)  
+**Chicken Drummies**  
+In name:   
+ - Chicken Drummies @ *Gordon Fired Up*  
+  
 **Cod**  
 In name:   
  - Miso Cod @ *1849*  
@@ -105,6 +109,7 @@ In name:
   
 In description:   
  - Miso Cod @ *1849*  
+ - Poulet Braise @ *1849*  
   
 **Tuna**  
 In name:   
@@ -133,12 +138,13 @@ In name:
   
 **chicken**  
 In name:   
- - Broasted Chicken @ *1849*  
  - Chicken Gravy @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Chicken Drummies @ *Gordon Fired Up*  
  - General Tso's Chicken @ *Gordon Global Kitchen*  
   
 In description:   
+ - Poulet Braise @ *1849*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
   

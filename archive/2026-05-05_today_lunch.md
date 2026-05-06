@@ -1,6 +1,6 @@
 # 2026-05-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-06 11:00:39  
+Updated at: 2026-05-06 13:15:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-06)  
 **FiIipino Pork Spring Roll**  
 In name:   
@@ -14,10 +14,6 @@ In name:
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
   
-**Filipino Pork Sausage**  
-In name:   
- - Filipino Pork Sausage @ *Global Kitchen*  
-  
 **beef**  
 In name:   
  - Roast Beef & Provolone Sub @ *Fired Up*  
@@ -26,13 +22,12 @@ In name:
  - Beef Chili @ *Great Greens*  
   
 In description:   
- - Sliced Kielbasa (Pork) @ *1849*  
+ - Sausage (Pork), Potatoes, & Peppers @ *1849*  
  - Vegan Sloppy Joe @ *Fired Up*  
   
 **pork**  
 In name:   
- - Sliced Kielbasa (Pork) @ *1849*  
- - Filipino Pork Sausage @ *Global Kitchen*  
+ - Sausage (Pork), Potatoes, & Peppers @ *1849*  
  - FiIipino Pork Spring Roll @ *Global Kitchen*  
  - Italian Pork Sausage @ *Buona Cucina*  
   
@@ -43,6 +38,7 @@ In description:
 In name:   
  - Chicken Parmigiana @ *1849*  
  - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
+ - Chicken Teriyaki Stir Fry @ *Global Kitchen*  
  - Fajita Chicken @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
   
@@ -50,10 +46,6 @@ In name:
 **Vanilla Coconut Milk Yogurt**  
 In name:   
  - Vanilla Coconut Milk Yogurt @ *Great Greens*  
-  
-**Tilapia**  
-In name:   
- - Tilapia Chipotle Lime Crusted @ *1849*  
   
 **beef**  
 In name:   
@@ -104,9 +96,19 @@ In name:
  - Diced Chicken @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-05-06)  
-**mahi mahi**  
+**Cod**  
 In name:   
- - Island Spiced Mahi Mahi @ *1849*  
+ - Miso Cod @ *1849*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Miso Cod @ *1849*  
+  
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
   
 **curry**  
 In name:   
@@ -135,7 +137,6 @@ In name:
  - Chicken Gravy @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - General Tso's Chicken @ *Gordon Global Kitchen*  
- - Diced Chicken @ *Great Greens*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
@@ -164,7 +165,7 @@ In description:
   
 **pork**  
 In name:   
- - Spicy Greenbush Pork Loin @ *Carson's 1849:  Available Between 11am-2pm*  
+ - Jerk Pork Chop @ *Carson's 1849:  Available Between 11am-2pm*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza:  Available Between 11am-4pm*  
  - Pork Sausage Patty @ *Eggcetera:  Available Between 11am-2pm*  
   
@@ -186,14 +187,6 @@ In name:
   
 In description:   
  - Tikka Masala Pizza @ *Lowell Market*  
-  
-**beef**  
-In name:   
- - Beef Stir Fry w/ Snow Peas @ *Lowell Market*  
-  
-**pork**  
-In name:   
- - Pork Italian Sausage @ *Lowell Market*  
   
 **chicken**  
 In name:   
