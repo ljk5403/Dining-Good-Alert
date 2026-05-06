@@ -1,14 +1,14 @@
 # 2026-05-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-05 18:46:05  
+Updated at: 2026-05-05 21:47:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-05)  
 **portabella**  
 In name:   
  - Portabella Mushroom Ravioli Plain @ *Buona Cucina*  
   
-**Salmon**  
+**Tilapia**  
 In name:   
- - Ginger Glazed Salmon @ *1849*  
+ - Blackened Tilapia @ *1849*  
   
 **Tuna**  
 In name:   
@@ -138,12 +138,6 @@ In name:
 In description:   
  - Tempeh w/Red Peppers & Broc Rabe @ *1849*  
   
-**steak**  
-In name:   
-  
-In description:   
- - Montreal Chicken @ *1849*  
-  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -154,12 +148,14 @@ In name:
  - Beef Gravy @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Harissa w/Couscous @ *Gordon Global Kitchen*  
+ - Beef & Cilantro Empanada @ *Gordon Que Rico*  
   
 In description:   
  - Grilled Blended Burger w/ Cheese @ *Fired Up*  
   
 **pork**  
 In name:   
+ - Herb Crusted Pork Loin @ *1849*  
  - Cubano (Pork) Pizza @ *Gordon Capital City Pizza*  
   
 In description:   
@@ -167,10 +163,8 @@ In description:
   
 **chicken**  
 In name:   
- - Montreal Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
- - Chicken Empanada with Green Chili @ *Gordon Que Rico*  
  - Chicken Paprikash @ *Gordon Eggcetera*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
