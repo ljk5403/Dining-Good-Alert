@@ -1,6 +1,6 @@
 # 2026-05-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-06 16:10:17  
+Updated at: 2026-05-06 17:52:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-06)  
 **clam**  
 In name:   
@@ -210,10 +210,6 @@ In description:
 In name:   
  - Portabella Mediterranean @ *Lowell Market*  
   
-**Salmon**  
-In name:   
- - BBQ Salmon @ *Lowell Market*  
-  
 **beef**  
 In name:   
  - Mediterranean Beef @ *Lowell Market*  
@@ -221,6 +217,7 @@ In name:
 **chicken**  
 In name:   
  - Mediterranean Chicken @ *Lowell Market*  
+ - Plant Based Protein Chicken Taco Filling @ *Lowell Market*  
  - Diced Chicken @ *Great Greens*  
   
   
