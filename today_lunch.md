@@ -1,6 +1,6 @@
 # 2026-05-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-06 03:25:41  
+Updated at: 2026-05-06 11:00:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-06)  
 **FiIipino Pork Spring Roll**  
 In name:   
@@ -70,7 +70,6 @@ In description:
   
 **chicken**  
 In name:   
- - Huli Huli Chicken @ *1849*  
  - Chicken Stir-Fry Coconut Lime @ *Global Kitchen*  
  - Chicken Wings Boneless Plain @ *Que Rico*  
  - Plant-Based Chicken Nuggets (6) @ *Que Rico*  
@@ -107,14 +106,7 @@ In name:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-05-06)  
 **mahi mahi**  
 In name:   
- - Baked Mahi Mahi w/ Butter & Lemon @ *1849*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Tempura Roll (FujiSan) @ *Gordon Global Kitchen*  
- - California Roll  (FujiSan) @ *Gordon Global Kitchen*  
+ - Island Spiced Mahi Mahi @ *1849*  
   
 **curry**  
 In name:   
@@ -135,7 +127,6 @@ In description:
 In name:   
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Gordon Capital City Pizza*  
- - Gluten Free Pork Sausage Pizza Quarter @ *Gordon Capital City Pizza*  
  - Pork Carnita @ *Gordon Que Rico*  
   
 **chicken**  
@@ -144,7 +135,6 @@ In name:
  - Chicken Gravy @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - General Tso's Chicken @ *Gordon Global Kitchen*  
- - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
  - Diced Chicken @ *Great Greens*  
   
 In description:   
@@ -166,7 +156,6 @@ In name:
 **beef**  
 In name:   
  - Beef Masaman Thai Curry @ *Global Kitchen:  Available Between 11am-2pm*  
- - Beef Chili @ *Great Greens*  
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza:  Available Between 11am-4pm*  
@@ -186,6 +175,7 @@ In description:
 In name:   
  - Crispy Chicken & Waffle Sandwich @ *Fired Up:  Available Between 11am-2pm*  
  - Diced Chicken @ *Great Greens*  
+ - Chicken Chili @ *Great Greens*  
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza:  Available Between 11am-4pm*  
@@ -199,7 +189,11 @@ In description:
   
 **beef**  
 In name:   
- - Beef Chili @ *Great Greens*  
+ - Beef Stir Fry w/ Snow Peas @ *Lowell Market*  
+  
+**pork**  
+In name:   
+ - Pork Italian Sausage @ *Lowell Market*  
   
 **chicken**  
 In name:   
