@@ -1,6 +1,6 @@
 # 2026-05-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-07 13:23:22  
+Updated at: 2026-05-07 16:03:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-07)  
 **Tuna**  
 In name:   
@@ -19,6 +19,7 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Pastrami & Swiss Sandwich @ *Fired Up*  
   
 **pork**  
 In name:   
@@ -31,7 +32,6 @@ In description:
 **chicken**  
 In name:   
  - Pizza Slice Chicken Broccoli Alfredo @ *Capital City Pizza*  
- - Chicken Breakfast Biscuit @ *Fired Up*  
  - Mediterranean Chicken @ *Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  

@@ -1,6 +1,6 @@
 # 2026-05-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-07 13:23:24  
+Updated at: 2026-05-07 16:03:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-07)  
 **Chicken Drummies**  
 In name:   
@@ -101,13 +101,9 @@ In name:
 In name:   
  - Chicken Drummies @ *1849*  
   
-**steak**  
+**mahi mahi**  
 In name:   
- - Spicy Steak Fajita @ *Gordon Que Rico*  
-  
-**Cod**  
-In name:   
- - Basque Style Cod @ *1849*  
+ - Island Spiced Mahi Mahi @ *1849*  
   
 **Tuna**  
 In name:   
@@ -123,12 +119,14 @@ In description:
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Mediterranean Beef @ *Gordon Global Kitchen*  
- - Beef Birria Tacos @ *Gordon Que Rico*  
- - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
- - Spicy Steak Fajita @ *Gordon Que Rico*  
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Italian Meatball Sandwich @ *Fired Up*  
+  
+**pork**  
+In name:   
+ - Biscuits & Pork Gravy @ *Gordon Eggcetera*  
   
 **chicken**  
 In name:   
@@ -136,10 +134,12 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Mediterranean Chicken @ *Gordon Global Kitchen*  
+ - Chicken Empanada with Green Chili @ *Gordon Que Rico*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Italian Meatball Sandwich @ *Fired Up*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-05-07)  
