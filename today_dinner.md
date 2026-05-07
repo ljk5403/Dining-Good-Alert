@@ -1,6 +1,6 @@
 # 2026-05-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-07 03:32:33  
+Updated at: 2026-05-07 11:05:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-07)  
 **Chicken Drummies**  
 In name:   
@@ -9,12 +9,6 @@ In name:
 **Shrimp**  
 In name:   
  - Blackened Shrimp @ *1849*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Tempura Roll (FujiSan) @ *Global Kitchen*  
   
 **Tuna**  
 In name:   
@@ -44,17 +38,6 @@ In description:
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-05-07)  
-**portabella**  
-In name:   
- - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
-  
-**Bulgogi**  
-In name:   
- - BYO Bar - Four Lakes Bulgogi @ *Create-A-Bowl*  
- - Bulgogi Beef @ *Create-A-Bowl*  
- - Bulgogi Chicken @ *Create-A-Bowl*  
- - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
-  
 **Flauta**  
 In name:   
  - Shredded Beef Flauta @ *Que Rico*  
@@ -67,7 +50,6 @@ In name:
 In name:   
  - Italian Beef Sandwich @ *1849*  
  - Shredded Beef Flauta @ *Que Rico*  
- - Bulgogi Beef @ *Create-A-Bowl*  
   
 In description:   
  - Grilled Blended Burger w/ Cheese @ *Fired Up*  
@@ -83,13 +65,13 @@ In description:
 **chicken**  
 In name:   
  - Jamaican Jerk Chicken Drumstick @ *1849*  
- - Bulgogi Chicken @ *Create-A-Bowl*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
  - Shredded Beef Flauta @ *Que Rico*  
+ - BYO Bar - Mac & Cheese @ *Create-A-Bowl*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-05-07)  
 **steak**  
@@ -119,14 +101,6 @@ In name:
 In name:   
  - Chicken Drummies @ *1849*  
   
-**Tandoori Chicken**  
-In name:   
- - Tandoori Chicken @ *Gordon Eggcetera*  
-  
-**Samosas**  
-In name:   
- - Samosas @ *Gordon Eggcetera*  
-  
 **steak**  
 In name:   
  - Spicy Steak Fajita @ *Gordon Que Rico*  
@@ -137,11 +111,10 @@ In name:
   
 **Tuna**  
 In name:   
- - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
+ - Tuna @ *Great Greens*  
   
 **curry**  
 In name:   
- - Curry Potatoes @ *Gordon Eggcetera*  
   
 In description:   
  - Coconut Vegetable Stew @ *1849*  
@@ -163,9 +136,7 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Mediterranean Chicken @ *Gordon Global Kitchen*  
- - Tandoori Chicken @ *Gordon Eggcetera*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
- - Diced Chicken @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
@@ -196,7 +167,7 @@ In name:
  - Chicken Tenders Breaded @ *Carson's 1849*  
  - Plant-Based Chicken Tenders @ *Carson's 1849*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Noodle Soup @ *Great Greens*  
+ - Lemon Chicken Rice Soup @ *Great Greens*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  

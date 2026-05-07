@@ -1,6 +1,6 @@
 # 2026-05-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-07 03:32:39  
+Updated at: 2026-05-07 11:05:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-08)  
 **Salmon**  
 In name:   
@@ -135,12 +135,6 @@ In name:
 In name:   
  - Cod w/ Roasted Fruit Salsa @ *1849*  
   
-**lamb**  
-In name:   
-  
-In description:   
- - Pizza Slice Gyro @ *Gordon Capital City Pizza*  
-  
 **clam**  
 In name:   
  - Clam Chowder @ *Great Greens*  
@@ -157,24 +151,19 @@ In name:
   
 In description:   
  - Burnt Ends @ *1849*  
- - Pizza Slice Gyro @ *Gordon Capital City Pizza*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
 **pork**  
 In name:   
- - Chicken Bacon (Pork) Ranch Pizza @ *Gordon Capital City Pizza*  
   
 In description:   
- - Gnocchi w/ Sausage & Roast Veg @ *Gordon Buona Cucina*  
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
   
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Chicken Bacon (Pork) Ranch Pizza @ *Gordon Capital City Pizza*  
  - Chicken Tenders Breaded @ *Gordon Fired Up*  
  - Plant-Based Chicken Nuggets (6) @ *Gordon Fired Up*  
- - Greek Chicken @ *Gordon Global Kitchen*  
  - Diced Chicken @ *Great Greens*  
   
 In description:   
