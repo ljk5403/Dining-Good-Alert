@@ -1,6 +1,6 @@
 # 2026-05-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-06 18:51:45  
+Updated at: 2026-05-06 21:48:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-06)  
 **clam**  
 In name:   
@@ -29,6 +29,7 @@ In name:
  - BBQ Pork Chop @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
  - Thai BBQ Pork Ribs @ *Global Kitchen*  
+ - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Pizza Slice Sausage @ *Capital City Pizza*  
@@ -37,13 +38,16 @@ In description:
 In name:   
  - Chicken Pot Pie w/Biscuit @ *1849*  
  - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
- - Chicken Fajita @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-05-06)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
  - Vanilla Coconut Milk Yogurt @ *Great Greens*  
+  
+**Shrimp**  
+In name:   
+ - Coconut Shrimp @ *Fired Up*  
   
 **Cod**  
 In name:   
@@ -53,7 +57,6 @@ In name:
 In name:   
   
 In description:   
- - Vietnamese Pork @ *1849*  
  - Miso Cod @ *1849*  
   
 **curry**  
@@ -64,7 +67,7 @@ In description:
   
 **beef**  
 In name:   
- - Beef Broccoli Stir Fry @ *Global Kitchen*  
+ - Beef Stroganoff Creamy @ *Global Kitchen*  
  - Beef Chili @ *Great Greens*  
   
 In description:   
@@ -72,7 +75,7 @@ In description:
   
 **pork**  
 In name:   
- - Vietnamese Pork @ *1849*  
+ - French Market Pork Jambalaya @ *1849*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
@@ -85,6 +88,7 @@ In name:
  - Diced Chicken @ *Great Greens*  
   
 In description:   
+ - French Market Pork Jambalaya @ *1849*  
  - BYO Bar - Mac & Cheese @ *Create-A-Bowl*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-05-06)  
@@ -121,6 +125,10 @@ In description:
 In name:   
  - Blackened Catfish @ *1849*  
   
+**Shrimp**  
+In name:   
+ - Coconut Shrimp @ *Gordon Global Kitchen*  
+  
 **fish**  
 In name:   
  - Blackened Catfish @ *1849*  
@@ -148,7 +156,6 @@ In name:
 In name:   
  - Huli Huli Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Sweet & Sour Chicken @ *Gordon Global Kitchen*  
  - Plant Based Sweet & Sour Chicken @ *Gordon Global Kitchen*  
  - Chicken Fajitas w/Rice & Beans @ *Gordon Que Rico*  
   

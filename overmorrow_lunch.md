@@ -1,6 +1,6 @@
 # 2026-05-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-06 18:51:51  
+Updated at: 2026-05-06 21:49:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-08)  
 **Salmon**  
 In name:   
@@ -172,6 +172,8 @@ In description:
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Gordon Capital City Pizza*  
+ - Chicken Tenders Breaded @ *Gordon Fired Up*  
+ - Plant-Based Chicken Nuggets (6) @ *Gordon Fired Up*  
  - Greek Chicken @ *Gordon Global Kitchen*  
  - Diced Chicken @ *Great Greens*  
   

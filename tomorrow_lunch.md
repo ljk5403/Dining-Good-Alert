@@ -1,6 +1,6 @@
 # 2026-05-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-06 18:51:47  
+Updated at: 2026-05-06 21:49:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-07)  
 **fish**  
 In name:   
@@ -117,6 +117,7 @@ In name:
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
+ - Mushroom Swiss Blended Burger @ *Gordon Fired Up*  
  - Grilled Blended Burger w/ Cheese @ *Gordon Fired Up*  
  - Spicy Steak Fajita @ *Gordon Que Rico*  
   
