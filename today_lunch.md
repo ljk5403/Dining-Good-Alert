@@ -1,6 +1,6 @@
 # 2026-05-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-07 11:05:28  
+Updated at: 2026-05-07 13:23:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-07)  
 **Tuna**  
 In name:   
@@ -9,6 +9,7 @@ In name:
 **curry**  
 In name:   
  - Garbanzo Bean Curry @ *1849*  
+ - Curry Mango - Pork @ *Global Kitchen*  
   
 **beef**  
 In name:   
@@ -22,10 +23,13 @@ In description:
 **pork**  
 In name:   
  - Cowboy Bean w/ Beef & Pork @ *1849*  
+ - Curry Mango - Pork @ *Global Kitchen*  
+  
+In description:   
+ - Andouille Sausage @ *1849*  
   
 **chicken**  
 In name:   
- - Huli Huli Chicken @ *1849*  
  - Pizza Slice Chicken Broccoli Alfredo @ *Capital City Pizza*  
  - Chicken Breakfast Biscuit @ *Fired Up*  
  - Mediterranean Chicken @ *Que Rico*  
@@ -38,9 +42,14 @@ In description:
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-05-07)  
-**steak**  
+**catfish**  
 In name:   
- - Country Fried Steak @ *1849*  
+ - Fried Catfish @ *1849*  
+  
+**fish**  
+In name:   
+ - Fried Catfish @ *1849*  
+ - Vegan Fish Fillet (VN) @ *Fired Up*  
   
 **beef**  
 In name:   
@@ -48,7 +57,6 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Country Fried Steak @ *1849*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  

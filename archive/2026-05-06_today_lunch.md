@@ -1,13 +1,7 @@
 # 2026-05-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-07 03:32:27  
+Updated at: 2026-05-07 11:05:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-07)  
-**fish**  
-In name:   
-  
-In description:   
- - Tempura Roll (FujiSan) @ *Global Kitchen*  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
@@ -44,25 +38,17 @@ In description:
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-05-07)  
-**portabella**  
+**steak**  
 In name:   
- - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
-  
-**Bulgogi**  
-In name:   
- - BYO Bar - Four Lakes Bulgogi @ *Create-A-Bowl*  
- - Bulgogi Beef @ *Create-A-Bowl*  
- - Bulgogi Chicken @ *Create-A-Bowl*  
- - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
+ - Country Fried Steak @ *1849*  
   
 **beef**  
 In name:   
- - Beef Tri Tip Carved w/ Chimichurri @ *1849*  
  - Roast Beef & Cheddar Panini on Rye @ *Fired Up*  
  - Beef Taco Meat @ *Que Rico*  
- - Bulgogi Beef @ *Create-A-Bowl*  
   
 In description:   
+ - Country Fried Steak @ *1849*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
@@ -76,13 +62,14 @@ In description:
 **chicken**  
 In name:   
  - Plant-Based Chicken Tenders @ *Fired Up*  
- - Bulgogi Chicken @ *Create-A-Bowl*  
+ - Popcorn Chicken @ *Create-A-Bowl*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
  - Apple Cider Braised Pork @ *1849*  
+ - BYO Bar - Mac & Cheese @ *Create-A-Bowl*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-05-07)  
 **portabella**  
@@ -108,7 +95,7 @@ In name:
   
 **Tuna**  
 In name:   
- - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
+ - Tuna @ *Great Greens*  
   
 **beef**  
 In name:   
@@ -117,13 +104,14 @@ In name:
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
- - Mushroom Swiss Blended Burger @ *Gordon Fired Up*  
+ - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
  - Grilled Blended Burger w/ Cheese @ *Gordon Fired Up*  
  - Spicy Steak Fajita @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
- - Pork Chop (1) @ *1849*  
+ - Herb Crusted Pork Loin @ *1849*  
+ - Pork Sausage Country Gravy w/ Biscuit @ *Gordon Eggcetera*  
   
 **chicken**  
 In name:   
@@ -133,8 +121,10 @@ In name:
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Mediterranean Chicken @ *Gordon Global Kitchen*  
- - Diced Chicken @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
+  
+In description:   
+ - Gluten Free Pepperoni Pizza Quarter @ *Gordon Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-05-07)  
 **Samosas**  
@@ -164,7 +154,7 @@ In description:
 In name:   
  - Butter Chicken @ *Carson's 1849:  Available Between 11am-2pm*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Noodle Soup @ *Great Greens*  
+ - Lemon Chicken Rice Soup @ *Great Greens*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza:  Available Between 11am-4pm*  
@@ -187,10 +177,7 @@ In description:
 **beef**  
 In name:   
  - Lamb & Beef Gyro Sandwich @ *Lowell Market*  
-  
-**pork**  
-In name:   
- - Italian Sausage (Pork) w/ Pepper & Onion @ *Lowell Market*  
+ - Beef Mediterranean @ *Lowell Market*  
   
 **chicken**  
 In name:   
