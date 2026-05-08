@@ -1,6 +1,6 @@
 # 2026-05-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-07 17:59:49  
+Updated at: 2026-05-07 19:01:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-07)  
 **Tuna**  
 In name:   
@@ -49,6 +49,7 @@ In name:
 **fish**  
 In name:   
  - Fried Catfish @ *1849*  
+ - Vegan Fish Sandwich @ *Fired Up*  
  - Vegan Fish Fillet (VN) @ *Fired Up*  
   
 **beef**  
@@ -69,7 +70,6 @@ In description:
   
 **chicken**  
 In name:   
- - Plant-Based Chicken Tenders @ *Fired Up*  
  - Popcorn Chicken @ *Create-A-Bowl*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  

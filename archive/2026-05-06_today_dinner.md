@@ -1,6 +1,6 @@
 # 2026-05-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-07 16:03:25  
+Updated at: 2026-05-07 17:59:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-07)  
 **Chicken Drummies**  
 In name:   
@@ -174,29 +174,16 @@ In description:
  - Station Recipe - Carson's Que Rico @ *Global*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-05-07)  
-**fish**  
+**Shrimp**  
 In name:   
-  
-In description:   
- - Thai BBQ Pork Ribs @ *Lowell Market*  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Tofu & Vegetable Tikka Masala @ *Lowell Market*  
+ - Coconut Shrimp @ *Lowell Market*  
   
 **beef**  
 In name:   
  - Beef Sirloin Tips @ *Lowell Market*  
   
-**pork**  
-In name:   
- - Thai BBQ Pork Ribs @ *Lowell Market*  
-  
 **chicken**  
 In name:   
- - Chicken Baked  (1 piece) @ *Lowell Market*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
   

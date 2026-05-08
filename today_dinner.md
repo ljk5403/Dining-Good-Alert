@@ -1,6 +1,6 @@
 # 2026-05-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-07 17:59:53  
+Updated at: 2026-05-07 19:01:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-07)  
 **Chicken Drummies**  
 In name:   
@@ -38,10 +38,6 @@ In description:
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-05-07)  
-**Flauta**  
-In name:   
- - Shredded Beef Flauta @ *Que Rico*  
-  
 **drumstick**  
 In name:   
  - Jamaican Jerk Chicken Drumstick @ *1849*  
@@ -49,7 +45,7 @@ In name:
 **beef**  
 In name:   
  - Italian Beef Sandwich @ *1849*  
- - Shredded Beef Flauta @ *Que Rico*  
+ - Empanada Beef Picadillo @ *Que Rico*  
   
 In description:   
  - Grilled Blended Burger w/ Cheese @ *Fired Up*  
@@ -70,7 +66,7 @@ In name:
  - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
- - Shredded Beef Flauta @ *Que Rico*  
+ - Empanada Beef Picadillo @ *Que Rico*  
  - BYO Bar - Mac & Cheese @ *Create-A-Bowl*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-05-07)  
@@ -78,9 +74,19 @@ In description:
 In name:   
  - Country Fried Steak @ *1849*  
   
-**Salmon**  
+**catfish**  
 In name:   
- - Ginger Glazed Salmon @ *Global Kitchen*  
+ - Blackened Catfish @ *Global Kitchen*  
+  
+**fish**  
+In name:   
+ - Blackened Catfish @ *Global Kitchen*  
+  
+**curry**  
+In name:   
+  
+In description:   
+ - Chicken Madras @ *Global Kitchen*  
   
 **beef**  
 In name:   
@@ -92,14 +98,14 @@ In description:
 In name:   
  - Chicken Pot Pie Filling @ *1849*  
  - Plant-Based Chicken & Gravy (VN) @ *1849*  
- - Marrakech Chicken Breast @ *Global Kitchen*  
+ - Chicken Madras @ *Global Kitchen*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-05-07)  
-**Chicken Drummies**  
+**steak**  
 In name:   
- - Chicken Drummies @ *1849*  
+ - Grilled Flank Steak @ *1849*  
   
 **mahi mahi**  
 In name:   
@@ -121,6 +127,7 @@ In name:
  - Mediterranean Beef @ *Gordon Global Kitchen*  
   
 In description:   
+ - Grilled Flank Steak @ *1849*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Italian Meatball Sandwich @ *Fired Up*  
   
@@ -130,7 +137,6 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken Drummies @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Pulled Chicken Thigh @ *Gordon Buona Cucina*  
  - Mediterranean Chicken @ *Gordon Global Kitchen*  
