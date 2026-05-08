@@ -1,6 +1,6 @@
 # 2026-05-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-08 17:05:59  
+Updated at: 2026-05-08 18:55:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-08)  
 **Shrimp**  
 In name:   
@@ -51,17 +51,9 @@ In description:
 In name:   
  - Build Your Own Poke Bar @ *Create-A-Bowl*  
   
-**Salmon**  
+**Shrimp**  
 In name:   
- - Masala Spiced Salmon @ *1849*  
-  
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
-  
-**Tuna**  
-In name:   
- - Grilled Tuna & Swiss Melt @ *Fired Up*  
+ - Fried Popcorn Shrimp @ *1849*  
   
 **watermelon**  
 In name:   
@@ -70,6 +62,7 @@ In name:
 **beef**  
 In name:   
  - Smoked Beef Round Plate @ *1849*  
+ - Beef Chili @ *Great Greens*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
@@ -83,6 +76,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Spicy Crispy Chicken Sandwich @ *Fired Up*  
  - Chicken Empanada with Green Chili @ *Que Rico*  
  - Taco Chicken @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
