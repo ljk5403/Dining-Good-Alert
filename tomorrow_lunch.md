@@ -1,6 +1,6 @@
 # 2026-05-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-08 10:21:04  
+Updated at: 2026-05-08 12:16:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-09)  
 **beef**  
 In name:   
@@ -22,7 +22,7 @@ In description:
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-05-09)  
 **steak**  
 In name:   
- - Ham Steak @ *Create-A-Bowl*  
+ - Ham Steak @ *1849*  
   
 **beef**  
 In name:   
@@ -37,13 +37,13 @@ In name:
   
 In description:   
  - Lumberjack Bowl w/Bacon @ *1849*  
- - Ham Steak @ *Create-A-Bowl*  
+ - Ham Steak @ *1849*  
  - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
 In name:   
- - Sausage Links Chicken (halal) (AYCTE) @ *Create-A-Bowl*  
+ - Sausage Links Chicken (halal) (AYCTE) @ *1849*  
  - Italian Chicken @ *Global Kitchen*  
  - Taco Chicken @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  

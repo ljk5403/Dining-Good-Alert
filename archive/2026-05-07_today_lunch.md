@@ -1,6 +1,6 @@
 # 2026-05-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-08 02:40:38  
+Updated at: 2026-05-08 10:20:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-08)  
 **Salmon**  
 In name:   
@@ -73,7 +73,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -85,11 +84,11 @@ In name:
  - Denver Scramble (Pork) @ *1849*  
   
 In description:   
+ - Andouille Sausage @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
 In name:   
- - Chipotle BBQ Chicken Sandwich @ *Fired Up*  
  - Spicy Crispy Chicken Sandwich @ *Fired Up*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
@@ -127,23 +126,17 @@ In name:
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-05-08)  
+**catfish**  
+In name:   
+ - Blackened Catfish @ *1849*  
+  
 **Shrimp**  
 In name:   
  - Sauteed Shrimp @ *Gordon Buona Cucina*  
   
-**Cod**  
+**fish**  
 In name:   
- - Cod w/ Roasted Fruit Salsa @ *1849*  
-  
-**lamb**  
-In name:   
-  
-In description:   
- - Pizza Slice Gyro @ *Gordon Capital City Pizza*  
-  
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
+ - Blackened Catfish @ *1849*  
   
 **watermelon**  
 In name:   
@@ -152,29 +145,25 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Barbacoa @ *Gordon Que Rico*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
  - Burnt Ends @ *1849*  
- - Pizza Slice Gyro @ *Gordon Capital City Pizza*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
 **pork**  
 In name:   
- - Chicken Bacon (Pork) Ranch Pizza @ *Gordon Capital City Pizza*  
   
 In description:   
- - Gnocchi w/ Sausage & Roast Veg @ *Gordon Buona Cucina*  
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
   
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Chicken Bacon (Pork) Ranch Pizza @ *Gordon Capital City Pizza*  
  - Chicken Tenders Breaded @ *Gordon Fired Up*  
  - Plant-Based Chicken Nuggets (6) @ *Gordon Fired Up*  
  - Diced Chicken @ *Great Greens*  
+ - Chicken Chili @ *Great Greens*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  

@@ -1,6 +1,6 @@
 # 2026-05-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-08 02:40:39  
+Updated at: 2026-05-08 10:21:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-08)  
 **Shrimp**  
 In name:   
@@ -123,25 +123,9 @@ In name:
 In name:   
  - Haddock Ginger Glazed (AYCTE) @ *1849*  
   
-**squid**  
-In name:   
-  
-In description:   
- - Fried Calamari @ *Gordon Eggcetera*  
-  
 **Shrimp**  
 In name:   
  - Sauteed Shrimp @ *Gordon Buona Cucina*  
-  
-**lamb**  
-In name:   
-  
-In description:   
- - Pizza Slice Gyro @ *Gordon Capital City Pizza*  
-  
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
   
 **watermelon**  
 In name:   
@@ -151,16 +135,13 @@ In name:
 In name:   
  - Corned Beef @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Barbacoa @ *Gordon Que Rico*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
- - Pizza Slice Gyro @ *Gordon Capital City Pizza*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
 **pork**  
 In name:   
- - Chicken Bacon (Pork) Ranch Pizza @ *Gordon Capital City Pizza*  
   
 In description:   
  - Gnocchi w/ Sausage & Roast Veg @ *Gordon Buona Cucina*  
@@ -170,14 +151,11 @@ In description:
 In name:   
  - Chicken Breast w/Balsamic BBQ Sauce @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Chicken Bacon (Pork) Ranch Pizza @ *Gordon Capital City Pizza*  
- - Chicken Fajita Meat @ *Gordon Que Rico*  
- - Plant-Based Chicken Nuggets (6) @ *Gordon Eggcetera*  
  - Diced Chicken @ *Great Greens*  
+ - Chicken Chili @ *Great Greens*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
- - Build Your Own Southwest Bowl @ *Gordon Que Rico*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-05-08)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-05-08)  
