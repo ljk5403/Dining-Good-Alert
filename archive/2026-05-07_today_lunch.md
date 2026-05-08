@@ -1,14 +1,10 @@
 # 2026-05-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-08 10:20:55  
+Updated at: 2026-05-08 12:16:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-08)  
 **Salmon**  
 In name:   
  - Grilled Chipotle Salmon @ *1849*  
-  
-**Shrimp**  
-In name:   
- - Steamed Shrimp @ *Global Kitchen*  
   
 **Cod**  
 In name:   
@@ -20,7 +16,6 @@ In name:
   
 **Tuna**  
 In name:   
- - Poke Tuna (*Raw) @ *Global Kitchen*  
  - Lemon Pepper Tuna Salad @ *Delicious*  
   
 **watermelon**  
@@ -51,21 +46,21 @@ In name:
  - Diced Chicken @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-05-08)  
-**Poke Bar**  
+**catfish**  
 In name:   
- - Build Your Own Poke Bar @ *Create-A-Bowl*  
+ - Blackened Catfish @ *1849*  
   
 **Shrimp**  
 In name:   
  - Sauteed Shrimp @ *Que Rico*  
   
-**Tilapia**  
-In name:   
- - Tilapia Veracruz @ *1849*  
-  
 **clam**  
 In name:   
  - Clam Chowder @ *Great Greens*  
+  
+**fish**  
+In name:   
+ - Blackened Catfish @ *1849*  
   
 **watermelon**  
 In name:   
@@ -89,6 +84,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Halal Chicken Sausage Link @ *1849*  
  - Spicy Crispy Chicken Sandwich @ *Fired Up*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
@@ -110,9 +106,11 @@ In name:
 In name:   
  - Melon Watermelon Whole Sliced @ *Great Greens*  
   
-**beef**  
+**curry**  
 In name:   
- - Mediterranean Beef @ *Global Kitchen*  
+  
+In description:   
+ - Chicken Tikka Masala @ *Global Kitchen*  
   
 **pork**  
 In name:   
@@ -120,7 +118,7 @@ In name:
   
 **chicken**  
 In name:   
- - Mediterranean Chicken @ *Global Kitchen*  
+ - Chicken Tikka Masala @ *Global Kitchen*  
  - Chicken Gravy @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
@@ -170,9 +168,9 @@ In description:
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-05-08)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-05-08)  
-**Cod**  
+**Shrimp**  
 In name:   
- - Cracker Crusted Cod w/ Lemon Sauce @ *Lowell Market*  
+ - Sauteed Shrimp @ *Lowell Market*  
   
 **clam**  
 In name:   
@@ -180,20 +178,13 @@ In name:
   
 **pork**  
 In name:   
- - Italian Pork Sausage @ *Lowell Market*  
- - Pork Belly for Street Taco - Carson @ *Lowell Market*  
   
 In description:   
- - BYO Beach Taco Bar @ *Lowell Market*  
+ - Andouille Sausage @ *Lowell Market*  
   
 **chicken**  
 In name:   
- - Chicken Marsala Creamy @ *Lowell Market*  
- - Grilled Halal Chicken @ *Lowell Market*  
+ - General Tso's Chicken @ *Lowell Market*  
  - Diced Chicken @ *Great Greens*  
-  
-In description:   
- - BYO Beach Taco Bar @ *Lowell Market*  
- - Cracker Crusted Cod w/ Lemon Sauce @ *Lowell Market*  
   
   

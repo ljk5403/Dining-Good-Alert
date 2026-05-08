@@ -1,6 +1,6 @@
 # 2026-05-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-08 12:16:26  
+Updated at: 2026-05-08 14:16:34  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-08)  
 **Salmon**  
 In name:   
@@ -124,6 +124,12 @@ In name:
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-05-08)  
+**drumstick**  
+In name:   
+  
+In description:   
+ - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
+  
 **catfish**  
 In name:   
  - Blackened Catfish @ *1849*  
@@ -146,7 +152,6 @@ In name:
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
- - Burnt Ends @ *1849*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
 **pork**  
@@ -157,6 +162,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Chicken Tenders Breaded @ *Gordon Fired Up*  
  - Plant-Based Chicken Nuggets (6) @ *Gordon Fired Up*  
@@ -168,10 +174,6 @@ In description:
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-05-08)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-05-08)  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp @ *Lowell Market*  
-  
 **clam**  
 In name:   
  - Clam Chowder @ *Great Greens*  
@@ -184,7 +186,6 @@ In description:
   
 **chicken**  
 In name:   
- - General Tso's Chicken @ *Lowell Market*  
  - Diced Chicken @ *Great Greens*  
   
   
