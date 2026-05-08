@@ -1,6 +1,6 @@
 # 2026-05-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-08 14:16:41  
+Updated at: 2026-05-08 15:59:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-08)  
 **Shrimp**  
 In name:   
@@ -67,16 +67,9 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**curry**  
-In name:   
- - Vegan Curry Stew @ *1849*  
-  
-In description:   
- - Tikka Masala Chicken @ *1849*  
-  
 **beef**  
 In name:   
- - Beef Taco Meat @ *Que Rico*  
+ - Smoked Beef Round Plate @ *1849*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
@@ -90,8 +83,8 @@ In description:
   
 **chicken**  
 In name:   
- - Tikka Masala Chicken @ *1849*  
  - Chicken Empanada with Green Chili @ *Que Rico*  
+ - Taco Chicken @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
   
@@ -171,39 +164,4 @@ In description:
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-05-08)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-05-08)  
-**steak**  
-In name:   
- - Country Fried Steak @ *Lowell Market*  
-  
-**mahi mahi**  
-In name:   
- - Coconut Thai Curry Mahi Mahi @ *Lowell Market*  
-  
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Coconut Thai Curry Mahi Mahi @ *Lowell Market*  
-  
-**curry**  
-In name:   
- - Coconut Thai Curry Mahi Mahi @ *Lowell Market*  
-  
-**beef**  
-In name:   
- - Plant-Based Beef Lo Mein @ *Lowell Market*  
-  
-In description:   
- - Country Fried Steak @ *Lowell Market*  
-  
-**chicken**  
-In name:   
- - Chicken Marsala Creamy @ *Lowell Market*  
- - BBQ Chicken Breast @ *Lowell Market*  
- - Diced Chicken @ *Great Greens*  
-  
   

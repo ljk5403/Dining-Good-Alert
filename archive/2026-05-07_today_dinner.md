@@ -1,6 +1,6 @@
 # 2026-05-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-08 12:16:28  
+Updated at: 2026-05-08 14:16:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-08)  
 **Shrimp**  
 In name:   
@@ -76,7 +76,7 @@ In description:
   
 **beef**  
 In name:   
- - Beef @ *Global Kitchen*  
+ - Beef Taco Meat @ *Que Rico*  
   
 In description:   
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
@@ -85,6 +85,7 @@ In description:
 In name:   
   
 In description:   
+ - Andouille Sausage @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
@@ -95,9 +96,13 @@ In name:
  - Diced Chicken @ *Great Greens*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-05-08)  
+**Chicken Drummies**  
+In name:   
+ - Chicken Drummies @ *Global Kitchen*  
+  
 **Cod**  
 In name:   
- - Basque Style Cod @ *Global Kitchen*  
+ - Battered Cod @ *Global Kitchen*  
   
 **clam**  
 In name:   
@@ -107,24 +112,32 @@ In name:
 In name:   
  - Melon Watermelon Whole Sliced @ *Great Greens*  
   
+**curry**  
+In name:   
+  
+In description:   
+ - Chicken Madras @ *Global Kitchen*  
+  
 **beef**  
 In name:   
- - Beef & Tater Tot Bake @ *1849*  
+ - Beef Vindaloo @ *Global Kitchen*  
+ - Beef Meatballs @ *Global Kitchen*  
   
 **chicken**  
 In name:   
- - Breaded Chicken Parmigiana @ *1849*  
- - Chicken Basque Style @ *Global Kitchen*  
+ - Protein Plant Based Chicken Tender @ *Global Kitchen*  
+ - Chicken Drummies @ *Global Kitchen*  
+ - Chicken Madras @ *Global Kitchen*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-05-08)  
-**haddock**  
-In name:   
- - Haddock Ginger Glazed (AYCTE) @ *1849*  
+In description:   
+ - Beef Meatballs @ *Global Kitchen*  
   
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-05-08)  
 **Shrimp**  
 In name:   
+ - Shrimp Etouffee @ *1849*  
  - Sauteed Shrimp @ *Gordon Buona Cucina*  
   
 **watermelon**  
@@ -149,7 +162,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Breast w/Balsamic BBQ Sauce @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  

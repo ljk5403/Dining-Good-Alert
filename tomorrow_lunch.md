@@ -1,6 +1,6 @@
 # 2026-05-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-08 14:16:47  
+Updated at: 2026-05-08 15:59:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-09)  
 **beef**  
 In name:   
@@ -53,28 +53,6 @@ In description:
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-05-09)  
-**Chicken Drummies**  
-In name:   
- - Chicken Drummies @ *Global Kitchen*  
-  
-**pork**  
-In name:   
- - Pork Sausage Links @ *Global Kitchen*  
-  
-In description:   
- - Kale, Sausage & Potato Soup @ *Great Greens*  
-  
-**chicken**  
-In name:   
- - Chicken Drummies @ *Global Kitchen*  
- - Chicken Gravy @ *Global Kitchen*  
- - Sausage Links Chicken (halal) (AYCTE) @ *Global Kitchen*  
- - Diced Chicken @ *Great Greens*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
-  
-In description:   
- - Kale, Sausage & Potato Soup @ *Great Greens*  
-  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-05-09)  
 **beef**  
 In name:   
