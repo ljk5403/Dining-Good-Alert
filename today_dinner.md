@@ -1,6 +1,6 @@
 # 2026-05-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-08 15:59:19  
+Updated at: 2026-05-08 17:05:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-08)  
 **Shrimp**  
 In name:   
@@ -150,7 +150,6 @@ In description:
 In name:   
   
 In description:   
- - Gnocchi w/ Sausage & Roast Veg @ *Gordon Buona Cucina*  
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
   
 **chicken**  

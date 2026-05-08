@@ -1,6 +1,6 @@
 # 2026-05-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-08 15:59:31  
+Updated at: 2026-05-08 17:06:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-09)  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-05-09)  
 **beef**  
@@ -30,6 +30,24 @@ In description:
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-05-09)  
+**beef**  
+In name:   
+ - Beef Enchilada Bake @ *Global Kitchen*  
+  
+**pork**  
+In name:   
+  
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
+  
+**chicken**  
+In name:   
+ - Diced Chicken @ *Great Greens*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
+  
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
+  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-05-09)  
 **Shrimp**  
 In name:   
