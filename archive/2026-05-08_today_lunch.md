@@ -1,188 +1,106 @@
-# 2026-05-08 lunch  
+# 2026-05-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-08 21:46:53  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-08)  
-**Salmon**  
-In name:   
- - Grilled Chipotle Salmon @ *1849*  
-  
-**Cod**  
-In name:   
- - Battered Cod Fillet Sandwich w/ Cheese @ *Fired Up*  
-  
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
-  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
+Updated at: 2026-05-09 02:55:40  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-09)  
 **beef**  
 In name:   
- - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Porkloin Fritter Plate @ *1849*  
- - Jaeger Sauce @ *1849*  
+ - Pepperoni Pizza 16" @ *Capital City Pizza*  
   
 **pork**  
 In name:   
- - Porkloin Fritter Plate @ *1849*  
- - Hawaiian (Pork) Pizza Slice @ *Capital City Pizza*  
  - Pork Sausage Patty @ *Buona Cucina*  
   
-In description:   
- - Pizza Slice Sausage @ *Capital City Pizza*  
-  
 **chicken**  
 In name:   
- - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
- - Fajita Chicken @ *Que Rico*  
- - Diced Chicken @ *Great Greens*  
+ - Crispy Chicken Sandwich @ *Fired Up*  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-05-08)  
-**catfish**  
-In name:   
- - Blackened Catfish @ *1849*  
+In description:   
+ - Pepperoni Pizza 16" @ *Capital City Pizza*  
   
-**Shrimp**  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-05-09)  
+**steak**  
 In name:   
- - Sauteed Shrimp @ *Que Rico*  
-  
-**fish**  
-In name:   
- - Blackened Catfish @ *1849*  
-  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
+ - Ham Steak @ *Create-A-Bowl*  
   
 **beef**  
 In name:   
  - Beef Taco Meat @ *Que Rico*  
- - Beef Chili @ *Great Greens*  
   
 In description:   
- - Vegan Taco Filling @ *Que Rico*  
+ - Grilled Blended Burger w/ Cheese @ *Fired Up*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **pork**  
 In name:   
- - Denver Scramble (Pork) @ *1849*  
   
 In description:   
- - Andouille Sausage @ *Global Kitchen*  
+ - Lumberjack Bowl w/Bacon @ *1849*  
+ - Ham Steak @ *Create-A-Bowl*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
 In name:   
- - Halal Chicken Sausage Link @ *1849*  
- - Spicy Crispy Chicken Sandwich @ *Fired Up*  
+ - Sausage Links Chicken (halal) (AYCTE) @ *Create-A-Bowl*  
+ - Italian Chicken @ *Global Kitchen*  
+ - Taco Chicken @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-05-08)  
-**portabella**  
-In name:   
- - Portabella Vegetable Mixture @ *1849*  
-  
-**Salmon**  
-In name:   
- - Blackened Salmon @ *1849*  
-  
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
-  
-**watermelon**  
-In name:   
- - Melon Watermelon Whole Sliced @ *Great Greens*  
-  
-**curry**  
-In name:   
-  
 In description:   
- - Chicken Tikka Masala @ *Global Kitchen*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
+  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-05-09)  
+**Chicken Drummies**  
+In name:   
+ - Chicken Drummies @ *Global Kitchen*  
   
 **pork**  
 In name:   
- - Herb Crusted Pork Loin @ *1849*  
+ - Pork Sausage Links @ *Global Kitchen*  
+  
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 **chicken**  
 In name:   
- - Chicken Tikka Masala @ *Global Kitchen*  
- - Chicken Gravy @ *1849*  
+ - Chicken Drummies @ *Global Kitchen*  
+ - Chicken Gravy @ *Global Kitchen*  
+ - Sausage Links Chicken (halal) (AYCTE) @ *Global Kitchen*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-05-08)  
-**drumstick**  
-In name:   
-  
 In description:   
- - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
-**catfish**  
-In name:   
- - Blackened Catfish @ *1849*  
-  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp @ *Gordon Buona Cucina*  
-  
-**fish**  
-In name:   
- - Blackened Catfish @ *1849*  
-  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-05-09)  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
- - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
+ - Italian Meat Sauce @ *Gordon Buona Cucina*  
+ - Deli @ *Gordon Delicious*  
   
 **pork**  
 In name:   
+ - Italian Pork Sausage @ *Gordon Buona Cucina*  
   
 In description:   
- - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
+ - Deli @ *Gordon Delicious*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 **chicken**  
 In name:   
- - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Chicken Tenders Breaded @ *Gordon Fired Up*  
- - Plant-Based Chicken Nuggets (6) @ *Gordon Fired Up*  
- - Diced Chicken @ *Great Greens*  
- - Chicken Chili @ *Great Greens*  
-  
-In description:   
- - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
-  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-05-08)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-05-08)  
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
-  
-**pork**  
-In name:   
-  
-In description:   
- - Andouille Sausage @ *Lowell Market*  
-  
-**chicken**  
-In name:   
+ - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
  - Diced Chicken @ *Great Greens*  
   
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
+  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-05-09)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-05-09)  
   
