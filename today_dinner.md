@@ -1,6 +1,6 @@
 # 2026-05-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-08 18:55:06  
+Updated at: 2026-05-08 21:46:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-08)  
 **Shrimp**  
 In name:   
@@ -8,7 +8,6 @@ In name:
   
 **Cod**  
 In name:   
- - Cod w/ Roasted Fruit Salsa @ *1849*  
   
 In description:   
  - Fish Tacos @ *Fired Up*  
@@ -30,21 +29,22 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**beef**  
+In name:   
+ - Beef & Cilantro Empanada @ *Que Rico*  
+  
 **pork**  
 In name:   
  - Pork Sausage Patty @ *Buona Cucina*  
  - Hawaiian (Pork) Pizza Slice @ *Capital City Pizza*  
- - Ancho Braised Pork @ *Que Rico*  
   
 In description:   
  - Pizza Slice Sausage @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
+ - Chicken Pot Pie Filling @ *1849*  
  - Diced Chicken @ *Great Greens*  
-  
-In description:   
- - Ancho Braised Pork @ *Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-05-08)  
 **Poke Bar**  
@@ -71,12 +71,12 @@ In description:
 In name:   
   
 In description:   
+ - Egg Roll Egg Bacon & Cheese @ *Fired Up*  
  - Andouille Sausage @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE FLM @ *Delicious*  
   
 **chicken**  
 In name:   
- - Spicy Crispy Chicken Sandwich @ *Fired Up*  
  - Chicken Empanada with Green Chili @ *Que Rico*  
  - Taco Chicken @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
@@ -110,6 +110,10 @@ In name:
  - Beef Vindaloo @ *Global Kitchen*  
  - Beef Meatballs @ *Global Kitchen*  
   
+**pork**  
+In name:   
+ - Italian Pork Sausage @ *Global Kitchen*  
+  
 **chicken**  
 In name:   
  - Protein Plant Based Chicken Tender @ *Global Kitchen*  
@@ -122,6 +126,10 @@ In description:
  - Beef Meatballs @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-05-08)  
+**steak**  
+In name:   
+ - Spicy Steak Fajita @ *Gordon Que Rico*  
+  
 **Shrimp**  
 In name:   
  - Shrimp Etouffee @ *1849*  
@@ -133,12 +141,11 @@ In name:
   
 **beef**  
 In name:   
- - Corned Beef @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
+ - Spicy Steak Fajita @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
@@ -148,6 +155,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Mediterranean Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  

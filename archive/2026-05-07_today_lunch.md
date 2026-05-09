@@ -1,6 +1,6 @@
 # 2026-05-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-08 17:05:55  
+Updated at: 2026-05-08 18:55:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-08)  
 **Salmon**  
 In name:   
@@ -54,10 +54,6 @@ In name:
 In name:   
  - Sauteed Shrimp @ *Que Rico*  
   
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
-  
 **fish**  
 In name:   
  - Blackened Catfish @ *1849*  
@@ -69,6 +65,7 @@ In name:
 **beef**  
 In name:   
  - Beef Taco Meat @ *Que Rico*  
+ - Beef Chili @ *Great Greens*  
   
 In description:   
  - Vegan Taco Filling @ *Que Rico*  
