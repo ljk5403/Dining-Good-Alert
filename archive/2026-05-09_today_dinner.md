@@ -1,6 +1,6 @@
 # 2026-05-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-10 15:46:41  
+Updated at: 2026-05-10 16:47:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-10)  
 **lamb**  
 In name:   
@@ -30,7 +30,7 @@ In description:
 In name:   
  - Chicken Parmigiana @ *1849*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Plant Based Chicken Strips @ *Buona Cucina*  
+ - Diced Chicken Breast @ *Buona Cucina*  
  - Chicken Teriyaki Stir Fry @ *Global Kitchen*  
  - Fajita Chicken @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
