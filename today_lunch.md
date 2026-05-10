@@ -1,6 +1,6 @@
 # 2026-05-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-10 09:52:01  
+Updated at: 2026-05-10 10:53:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-10)  
 **steak**  
 In name:   
@@ -9,10 +9,6 @@ In name:
 **curry**  
 In name:   
  - Squash Curry @ *1849*  
-  
-In description:   
- - Tikka Masala Chicken @ *Global Kitchen*  
- - Tofu & Vegetable Tikka Masala @ *Global Kitchen*  
   
 **beef**  
 In name:   
@@ -24,7 +20,6 @@ In description:
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Philly Cheesesteak Sandwich @ *Fired Up*  
  - Vegan Taco Filling @ *Que Rico*  
- - Italian Meat Sauce @ *Buona Cucina*  
   
 **pork**  
 In name:   
@@ -33,7 +28,6 @@ In name:
 **chicken**  
 In name:   
  - Honey Mustard Chicken & Vegetables @ *1849*  
- - Tikka Masala Chicken @ *Global Kitchen*  
  - Fajita Chicken @ *Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
