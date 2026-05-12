@@ -1,6 +1,6 @@
 # 2026-05-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-12 03:38:33  
+Updated at: 2026-05-12 11:17:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-12)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -35,6 +35,7 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Soup Garden Vegetable @ *Great Greens*  
   
 **pork**  
 In name:   
@@ -54,7 +55,7 @@ In name:
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Chicken Dumpling Soup @ *Great Greens*  
+ - Chicken Chili @ *Great Greens*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
