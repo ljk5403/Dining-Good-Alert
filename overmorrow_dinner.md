@@ -1,11 +1,7 @@
 # 2026-05-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-12 11:17:48  
+Updated at: 2026-05-12 13:54:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-14)  
-**Vanilla Coconut Milk Yogurt**  
-In name:   
- - Vanilla Coconut Milk Yogurt @ *Great Greens*  
-  
 **Bibimbap Bowl**  
 In name:   
  - Bibimbap Bowl @ *Global Kitchen*  
@@ -19,8 +15,6 @@ In name:
 In name:   
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Beef Mediterranean @ *Que Rico*  
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Italian Meat Sauce @ *Buona Cucina*  
@@ -30,13 +24,9 @@ In description:
 In name:   
  - Pork Belly Char Sui @ *1849*  
  - Pork Carnita Torta @ *Fired Up*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Pizza Slice Sausage @ *Capital City Pizza*  
- - Smoked Ham @ *Delicious*  
- - Bacon Slice @ *Delicious*  
- - Bacon @ *Delicious*  
   
 **chicken**  
 In name:   

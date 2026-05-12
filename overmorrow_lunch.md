@@ -1,11 +1,7 @@
 # 2026-05-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-12 11:17:47  
+Updated at: 2026-05-12 13:54:52  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-14)  
-**Vanilla Coconut Milk Yogurt**  
-In name:   
- - Vanilla Coconut Milk Yogurt @ *Great Greens*  
-  
 **steak**  
 In name:   
  - Swiss Steak w/Brown Gravy @ *1849*  
@@ -21,8 +17,6 @@ In name:
  - Barbacoa Beef w/Mango Habanero Sandwich @ *Fired Up*  
  - Beef Mediterranean @ *Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Swiss Steak w/Brown Gravy @ *1849*  
@@ -32,12 +26,6 @@ In description:
 **pork**  
 In name:   
  - Apple Cider Braised Pork w/Spatzle @ *1849*  
- - Pork & Beef Hard Salami @ *Delicious*  
-  
-In description:   
- - Smoked Ham @ *Delicious*  
- - Bacon Slice @ *Delicious*  
- - Bacon @ *Delicious*  
   
 **chicken**  
 In name:   
