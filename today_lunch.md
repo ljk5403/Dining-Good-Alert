@@ -1,6 +1,6 @@
 # 2026-05-15 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-15 17:06:06  
+Updated at: 2026-05-15 18:54:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-15)  
 **steak**  
 In name:   
@@ -9,10 +9,6 @@ In name:
 **Salmon**  
 In name:   
  - Blackened Salmon @ *1849*  
-  
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
   
 **watermelon**  
 In name:   
