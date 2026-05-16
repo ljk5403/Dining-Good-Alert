@@ -1,6 +1,6 @@
 # 2026-05-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-16 10:58:36  
+Updated at: 2026-05-16 12:07:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-16)  
 **beef**  
 In name:   
@@ -11,12 +11,10 @@ In name:
 In description:   
  - Pepperoni & Mushrooms Pizza @ *Capital City Pizza*  
  - Italian Meatball Sandwich @ *Fired Up*  
- - Italian Meat Sauce @ *Buona Cucina*  
   
 **pork**  
 In name:   
  - Smoked Pork Rib @ *1849*  
- - Pork Carnita @ *Que Rico*  
  - Italian Pork Sausage @ *Buona Cucina*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
@@ -29,6 +27,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Huli Huli Chicken @ *1849*  
  - Chicken Tinga @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   

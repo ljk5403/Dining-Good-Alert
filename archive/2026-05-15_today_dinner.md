@@ -1,6 +1,6 @@
 # 2026-05-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-16 09:56:07  
+Updated at: 2026-05-16 10:58:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-16)  
 **beef**  
 In name:   
@@ -23,15 +23,16 @@ In description:
  - Bacon Slice @ *Delicious*  
  - Smoked Ham @ *Delicious*  
  - Bacon @ *Delicious*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 **chicken**  
 In name:   
  - General Tso's Chicken @ *Global Kitchen*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Chicken Chili @ *Great Greens*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-05-16)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-05-16)  
