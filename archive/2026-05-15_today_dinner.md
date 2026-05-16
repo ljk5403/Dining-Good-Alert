@@ -1,6 +1,6 @@
 # 2026-05-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-16 10:58:39  
+Updated at: 2026-05-16 12:07:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-16)  
 **beef**  
 In name:   
@@ -11,7 +11,6 @@ In name:
   
 In description:   
  - Italian Meat Sauce @ *Buona Cucina*  
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  
 In name:   
@@ -20,6 +19,7 @@ In name:
  - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
+ - Pizza Slice Sausage @ *Capital City Pizza*  
  - Bacon Slice @ *Delicious*  
  - Smoked Ham @ *Delicious*  
  - Bacon @ *Delicious*  
@@ -31,7 +31,6 @@ In name:
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-05-16)  
