@@ -1,6 +1,6 @@
 # 2026-05-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-19 13:59:40  
+Updated at: 2026-05-19 16:18:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-19)  
 **portabella**  
 In name:   
@@ -11,12 +11,6 @@ In description:
 **Salmon**  
 In name:   
  - Ginger Glazed Salmon @ *1849*  
-  
-**lamb**  
-In name:   
-  
-In description:   
- - Pizza Slice Gyro @ *Capital City Pizza*  
   
 **Tuna**  
 In name:   
@@ -37,11 +31,9 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Beef Mediterranean @ *Que Rico*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
- - Pizza Slice Gyro @ *Capital City Pizza*  
  - Cocktail Wieners & BBQ Sauce @ *Fired Up*  
   
 **pork**  
@@ -57,7 +49,6 @@ In name:
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Crispy Chicken Sandwich @ *Fired Up*  
  - Chicken Korma @ *Global Kitchen*  
- - Mediterranean Chicken @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
   
