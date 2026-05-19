@@ -71,7 +71,7 @@ def get_menu_raw(target_url):
 def get_menu_dict(data, date : datetime):
     menu_dict = {}
     target_menu=next((d for d in data["days"] if d["date"] == date.strftime('%Y-%m-%d')), None)
-    menu_info = target_menu["menu_info"]
+    menu_info = target_menu.get("menu_info", {})
     for d in target_menu["menu_items"]:
         if isinstance(d["food"], dict):
             if "name" in d["food"]:
