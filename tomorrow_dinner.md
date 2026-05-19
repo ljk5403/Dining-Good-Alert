@@ -1,73 +1,58 @@
-# 2026-05-19 dinner  
+# 2026-05-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-18 20:23:55  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-19)  
+Updated at: 2026-05-19 04:40:31  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-20)  
 **portabella**  
 In name:   
   
 In description:   
- - Pesto Mushroom Sandwich @ *Fired Up*  
+ - Vegetable Cheesesteak Sandwich @ *Fired Up*  
   
-**Salmon**  
+**FiIipino Pork Spring Roll**  
 In name:   
- - Ginger Glazed Salmon @ *1849*  
+ - FiIipino Pork Spring Roll @ *Global Kitchen*  
   
-**lamb**  
+**steak**  
 In name:   
-  
-In description:   
- - Pizza Slice Gyro @ *Capital City Pizza*  
+ - Philly Cheesesteak Sandwich @ *Fired Up*  
+ - Vegetable Cheesesteak Sandwich @ *Fired Up*  
   
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
   
-**watermelon**  
+**Filipino Pork Sausage**  
 In name:   
- - Watermelon Slices @ *Great Greens*  
-  
-**curry**  
-In name:   
- - Curry Mango - Pork @ *1849*  
- - Squash Curry @ *Global Kitchen*  
-  
-In description:   
- - Chicken Korma @ *Global Kitchen*  
+ - Filipino Pork Sausage @ *Global Kitchen*  
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Beef Mediterranean @ *Que Rico*  
+ - Beef Pasta Tortellini @ *Buona Cucina*  
+ - Beef Chili @ *Great Greens*  
   
 In description:   
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
- - Pizza Slice Gyro @ *Capital City Pizza*  
- - Cocktail Wieners & BBQ Sauce @ *Fired Up*  
+ - Philly Cheesesteak Sandwich @ *Fired Up*  
   
 **pork**  
 In name:   
- - Curry Mango - Pork @ *1849*  
-  
-In description:   
- - Cocktail Wieners & BBQ Sauce @ *Fired Up*  
+ - BBQ Pork Chop @ *1849*  
+ - Italian Pork Sausage @ *Buona Cucina*  
+ - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
+ - Filipino Pork Sausage @ *Global Kitchen*  
+ - FiIipino Pork Spring Roll @ *Global Kitchen*  
+ - Ancho Pork Rice Bowl @ *Que Rico*  
   
 **chicken**  
 In name:   
- - Plant Based Chicken Strips @ *Buona Cucina*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Crispy Chicken Sandwich @ *Fired Up*  
- - Chicken Korma @ *Global Kitchen*  
- - Mediterranean Chicken @ *Que Rico*  
+ - Chicken Pot Pie w/Biscuit @ *1849*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Dumpling Soup @ *Great Greens*  
   
 In description:   
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
- - Cocktail Wieners & BBQ Sauce @ *Fired Up*  
+ - Ancho Pork Rice Bowl @ *Que Rico*  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-05-19)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-05-19)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-05-19)  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-05-19)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-05-19)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-05-20)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-05-20)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-05-20)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-05-20)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-05-20)  
   
