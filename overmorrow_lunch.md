@@ -1,60 +1,59 @@
-# 2026-05-21 lunch  
+# 2026-05-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-19 22:32:10  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-21)  
-**Vanilla Coconut Milk Yogurt**  
+Updated at: 2026-05-20 04:32:02  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-22)  
+**Salmon**  
 In name:   
+ - Grilled Chipotle Salmon @ *1849*  
   
-In description:   
- - Great Greans - Yogurt Bar @ *Great Greens*  
-  
-**Tuna**  
+**catfish**  
 In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
+ - Catfish Nuggets w/ Remoulade Sauce @ *Fired Up*  
+  
+**clam**  
+In name:   
+ - Clam Chowder @ *Great Greens*  
+  
+**fish**  
+In name:   
+ - Catfish Nuggets w/ Remoulade Sauce @ *Fired Up*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
   
 **curry**  
 In name:   
- - Garbanzo Bean Curry @ *1849*  
- - Squash Curry @ *Global Kitchen*  
-  
-In description:   
- - Madras Chicken w/Basmati Rice @ *Global Kitchen*  
+ - Mixed Vegetable Curry @ *Global Kitchen*  
   
 **beef**  
 In name:   
- - Cowboy Bean w/ Beef & Pork @ *1849*  
- - Beef Mediterranean @ *Que Rico*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
- - Reuben @ *Fired Up*  
+ - Porkloin Fritter Plate @ *1849*  
+ - Jaeger Sauce @ *1849*  
+ - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
   
 **pork**  
 In name:   
- - Cowboy Bean w/ Beef & Pork @ *1849*  
- - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
-  
-In description:   
- - Chorizo Sauce @ *Buona Cucina*  
+ - Porkloin Fritter Plate @ *1849*  
+ - Pork Carnita @ *Que Rico*  
   
 **chicken**  
 In name:   
- - Huli Huli Chicken @ *1849*  
- - Madras Chicken w/Basmati Rice @ *Global Kitchen*  
- - Mediterranean Chicken @ *Que Rico*  
- - Plant Based Chicken Strips @ *Buona Cucina*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Butter Chicken @ *Global Kitchen*  
+ - Fajita Chicken @ *Que Rico*  
+ - Diced Chicken Breast @ *Buona Cucina*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
- - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
- - Chorizo Sauce @ *Buona Cucina*  
+ - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-05-21)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-05-21)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-05-21)  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-05-21)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-05-21)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-05-22)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-05-22)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-05-22)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-05-22)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-05-22)  
   
