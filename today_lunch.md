@@ -1,6 +1,6 @@
 # 2026-05-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-20 04:31:59  
+Updated at: 2026-05-20 11:50:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-20)  
 **broccoli rabe**  
 In name:   
@@ -19,17 +19,19 @@ In name:
   
 In description:   
  - Sliced Kielbasa (Pork) @ *1849*  
+ - Reuben Pizza @ *Capital City Pizza*  
   
 **pork**  
 In name:   
  - Sliced Kielbasa (Pork) @ *1849*  
- - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
  - Italian Pork Sausage @ *Buona Cucina*  
+  
+In description:   
+ - Pizza Slice Sausage @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
  - Chicken Parmigiana @ *1849*  
- - Chicken, Bacon, Jalapeno Pizza @ *Capital City Pizza*  
  - Spicy Lo Mein w/Chicken @ *Global Kitchen*  
  - Fajita Chicken @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
