@@ -1,6 +1,6 @@
 # 2026-05-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-19 18:01:03  
+Updated at: 2026-05-19 22:32:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-21)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -44,10 +44,11 @@ In name:
  - Beef Mediterranean @ *Que Rico*  
   
 In description:   
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
 **pork**  
 In name:   
+ - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
  - Thai BBQ Pork Ribs @ *Global Kitchen*  
   
 In description:   
@@ -64,7 +65,7 @@ In name:
   
 In description:   
  - Chorizo Sauce @ *Buona Cucina*  
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-05-21)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-05-21)  
