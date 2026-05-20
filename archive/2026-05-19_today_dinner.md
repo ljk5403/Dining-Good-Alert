@@ -1,6 +1,6 @@
 # 2026-05-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-20 14:23:50  
+Updated at: 2026-05-20 16:52:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-20)  
 **portabella**  
 In name:   
@@ -8,18 +8,17 @@ In name:
 In description:   
  - Vegetable Cheesesteak Sandwich @ *Fired Up*  
   
-**FiIipino Pork Spring Roll**  
-In name:   
- - FiIipino Pork Spring Roll @ *Global Kitchen*  
-  
 **steak**  
 In name:   
- - Philly Cheesesteak Sandwich @ *Fired Up*  
  - Vegetable Cheesesteak Sandwich @ *Fired Up*  
   
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
+  
+**Pakoras**  
+In name:   
+ - Appetizer -  Pakoras Vegetable (Veg) @ *Global Kitchen*  
   
 **Filipino Pork Sausage**  
 In name:   
@@ -31,15 +30,15 @@ In name:
  - Beef Chili @ *Great Greens*  
   
 In description:   
- - Philly Cheesesteak Sandwich @ *Fired Up*  
+ - Pizza Slice Reuben @ *Capital City Pizza*  
   
 **pork**  
 In name:   
  - BBQ Pork Chop @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
+ - Pulled Pork Sliders @ *Fired Up*  
  - Filipino Pork Sausage @ *Global Kitchen*  
- - FiIipino Pork Spring Roll @ *Global Kitchen*  
  - Ancho Pork Rice Bowl @ *Que Rico*  
   
 **chicken**  
