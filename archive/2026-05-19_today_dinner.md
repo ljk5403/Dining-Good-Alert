@@ -1,6 +1,6 @@
 # 2026-05-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-20 16:52:38  
+Updated at: 2026-05-20 18:12:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-20)  
 **portabella**  
 In name:   
@@ -20,10 +20,6 @@ In name:
 In name:   
  - Appetizer -  Pakoras Vegetable (Veg) @ *Global Kitchen*  
   
-**Filipino Pork Sausage**  
-In name:   
- - Filipino Pork Sausage @ *Global Kitchen*  
-  
 **beef**  
 In name:   
  - Beef Pasta Tortellini @ *Buona Cucina*  
@@ -38,12 +34,12 @@ In name:
  - Italian Pork Sausage @ *Buona Cucina*  
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
  - Pulled Pork Sliders @ *Fired Up*  
- - Filipino Pork Sausage @ *Global Kitchen*  
  - Ancho Pork Rice Bowl @ *Que Rico*  
   
 **chicken**  
 In name:   
  - Chicken Pot Pie w/Biscuit @ *1849*  
+ - Chicken Teriyaki Stir Fry @ *Global Kitchen*  
  - Diced Chicken @ *Great Greens*  
   
 In description:   
