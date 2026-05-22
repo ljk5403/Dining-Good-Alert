@@ -1,14 +1,18 @@
 # 2026-05-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-22 13:53:44  
+Updated at: 2026-05-22 16:08:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-22)  
-**Cod**  
+**catfish**  
 In name:   
- - Cod w/ Roasted Fruit Salsa @ *1849*  
+ - Blackened Catfish @ *1849*  
   
 **clam**  
 In name:   
  - Clam Chowder @ *Great Greens*  
+  
+**fish**  
+In name:   
+ - Blackened Catfish @ *1849*  
   
 **watermelon**  
 In name:   

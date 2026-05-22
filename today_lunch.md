@@ -1,6 +1,6 @@
 # 2026-05-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-22 16:08:14  
+Updated at: 2026-05-22 17:57:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-22)  
 **catfish**  
 In name:   
