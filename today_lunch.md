@@ -1,13 +1,10 @@
 # 2026-05-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-22 11:25:29  
+Updated at: 2026-05-22 13:53:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-22)  
-**Salmon**  
-In name:   
- - Grilled Chipotle Salmon @ *1849*  
-  
 **catfish**  
 In name:   
+ - Blackened Catfish @ *1849*  
  - Catfish Nuggets w/ Remoulade Sauce @ *Fired Up*  
   
 **clam**  
@@ -16,6 +13,7 @@ In name:
   
 **fish**  
 In name:   
+ - Blackened Catfish @ *1849*  
  - Catfish Nuggets w/ Remoulade Sauce @ *Fired Up*  
   
 **watermelon**  

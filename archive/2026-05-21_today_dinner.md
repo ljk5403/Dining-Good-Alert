@@ -1,6 +1,6 @@
 # 2026-05-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-22 04:21:37  
+Updated at: 2026-05-22 11:25:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-22)  
 **Cod**  
 In name:   
@@ -19,18 +19,16 @@ In name:
  - Sliced BBQ Beef Brisket Sandwich @ *Fired Up*  
  - Beef Broccoli Stir Fry w/Teriyaki Sauce @ *Global Kitchen*  
   
+**pork**  
+In name:   
+  
 In description:   
- - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
+ - Pizza Slice Sausage @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
- - Diced Chicken Breast @ *Buona Cucina*  
- - Chicken Mole w/ Rice @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
-  
-In description:   
- - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-05-22)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-05-22)  
