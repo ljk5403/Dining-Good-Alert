@@ -1,6 +1,6 @@
 # 2026-05-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-21 16:26:33  
+Updated at: 2026-05-21 18:02:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-21)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -10,14 +10,12 @@ In description:
   
 **portabella**  
 In name:   
-  
-In description:   
- - Mushroom Bulgogi Bao Bun @ *Fired Up*  
+ - Portabella Mushroom Bulgogi Taco @ *Fired Up*  
   
 **Bulgogi**  
 In name:   
- - Beef Bulgogi Bao Bun @ *Fired Up*  
- - Mushroom Bulgogi Bao Bun @ *Fired Up*  
+ - Beef Bulgogi Taco @ *Fired Up*  
+ - Portabella Mushroom Bulgogi Taco @ *Fired Up*  
   
 **Shrimp**  
 In name:   
@@ -40,7 +38,7 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Beef Bulgogi Bao Bun @ *Fired Up*  
+ - Beef Bulgogi Taco @ *Fired Up*  
  - Beef Mediterranean @ *Que Rico*  
   
 In description:   
