@@ -1,37 +1,51 @@
-# 2026-05-23 lunch  
+# 2026-05-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-23 22:55:15  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-23)  
-**Shrimp**  
+Updated at: 2026-05-24 03:28:05  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-24)  
+**steak**  
 In name:   
- - Manicotti Shrimp Alfredo @ *1849*  
+ - Philly Cheesesteak Sandwich @ *Fired Up*  
+  
+**curry**  
+In name:   
+ - Squash Curry @ *1849*  
+  
+In description:   
+ - Tikka Masala Chicken @ *Global Kitchen*  
+ - Tofu & Vegetable Tikka Masala @ *Global Kitchen*  
   
 **beef**  
 In name:   
  - Beef Taco Meat @ *Que Rico*  
- - Beef Pasta Tortellini @ *Buona Cucina*  
+ - Beef Ravioli Plain @ *Buona Cucina*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
- - Chicago-Style Hot Dog @ *Fired Up*  
+ - Philly Cheesesteak Sandwich @ *Fired Up*  
+ - Vegan Taco Filling @ *Que Rico*  
+ - Italian Meat Sauce @ *Buona Cucina*  
   
 **pork**  
 In name:   
- - Boneless Baked Pork Ham @ *1849*  
  - Pork Carnita @ *Que Rico*  
- - Italian Pork Sausage @ *Buona Cucina*  
+  
+In description:   
+ - Pizza Slice Sausage @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
- - Noodles Sesame w/ Chicken @ *Global Kitchen*  
- - Chicken Tinga @ *Que Rico*  
+ - Honey Mustard Chicken & Vegetables @ *1849*  
+ - Tikka Masala Chicken @ *Global Kitchen*  
+ - Fajita Chicken @ *Que Rico*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Plant Based Chicken Strips @ *Buona Cucina*  
+ - Chicken Salad @ *Delicious*  
+ - Diced Chicken @ *Great Greens*  
+ - Chicken Chili @ *Great Greens*  
   
-In description:   
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
-  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-05-23)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-05-23)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-05-23)  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-05-23)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-05-23)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-05-24)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-05-24)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-05-24)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-05-24)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-05-24)  
   
