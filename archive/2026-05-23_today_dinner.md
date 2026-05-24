@@ -1,6 +1,6 @@
 # 2026-05-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-24 15:54:40  
+Updated at: 2026-05-24 16:55:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-24)  
 **lamb**  
 In name:   
@@ -16,15 +16,13 @@ In name:
 In description:   
  - Sliced Kielbasa (Pork) @ *1849*  
  - Italian Meat Sauce @ *Buona Cucina*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Vegan Taco Filling @ *Que Rico*  
   
 **pork**  
 In name:   
  - Sliced Kielbasa (Pork) @ *1849*  
  - Pork Carnita @ *Que Rico*  
-  
-In description:   
- - Pizza Slice Sausage @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
@@ -36,6 +34,9 @@ In name:
  - Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
+  
+In description:   
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-05-24)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-05-24)  
