@@ -1,6 +1,6 @@
 # 2026-05-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-25 16:04:56  
+Updated at: 2026-05-25 18:00:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-25)  
 **drumstick**  
 In name:   
@@ -26,7 +26,7 @@ In name:
  - Beef Carne Guisada @ *Que Rico*  
   
 In description:   
- - Pizza Slice - Bacon Cheeseburger @ *Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  
 In name:   
@@ -40,6 +40,7 @@ In name:
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 In description:   
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Tom Kha Gai Soup @ *Global Kitchen*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-05-25)  
