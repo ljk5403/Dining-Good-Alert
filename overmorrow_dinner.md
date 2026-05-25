@@ -1,49 +1,32 @@
-# 2026-05-26 dinner  
+# 2026-05-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-24 19:07:52  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-26)  
-**Samosas**  
+Updated at: 2026-05-25 05:04:02  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-27)  
+**steak**  
 In name:   
- - Samosas @ *Global Kitchen*  
-  
-**Salmon**  
-In name:   
- - Oven Roasted Salmon @ *1849*  
-  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
-**curry**  
-In name:   
- - Plant-Based Beef Curry Squash @ *Global Kitchen*  
+ - Smothered Steak Burrito @ *Que Rico*  
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Beef Street Taco @ *Fired Up*  
- - Plant-Based Beef Curry Squash @ *Global Kitchen*  
- - Beef Vindaloo @ *Global Kitchen*  
- - Beef Mediterranean @ *Que Rico*  
+ - Lomo Saltado w/ Beef @ *Global Kitchen*  
+ - Beef Chili @ *Great Greens*  
   
 In description:   
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Smothered Steak Burrito @ *Que Rico*  
+  
+**pork**  
+In name:   
+ - Southern Style Pork Spare Ribs @ *1849*  
+ - Italian Pork Sausage @ *Buona Cucina*  
   
 **chicken**  
 In name:   
- - Za'atar and Lemon Grilled Chicken @ *1849*  
- - Plant Based Chicken Strips @ *Buona Cucina*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Mediterranean Chicken @ *Que Rico*  
+ - Pizza Slice Chicken Sriracha @ *Capital City Pizza*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Chicken Dumpling Soup @ *Great Greens*  
   
-In description:   
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
-  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-05-26)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-05-26)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-05-26)  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-05-26)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-05-26)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-05-27)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-05-27)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-05-27)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-05-27)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-05-27)  
   

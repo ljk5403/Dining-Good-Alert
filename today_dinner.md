@@ -1,46 +1,50 @@
-# 2026-05-24 dinner  
+# 2026-05-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-24 19:07:43  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-24)  
-**lamb**  
+Updated at: 2026-05-25 05:03:59  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-25)  
+**drumstick**  
 In name:   
- - Lamb & Beef Gyro Sandwich @ *Fired Up*  
+ - Chicken Drumstick BBQ Glazed @ *1849*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Tom Kha Gai Soup @ *Global Kitchen*  
+  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad @ *Delicious*  
+  
+**BBQ Pork Sandwich**  
+In name:   
+ - BBQ Pork Sandwich @ *Fired Up*  
   
 **beef**  
 In name:   
  - Beef Ravioli Plain @ *Buona Cucina*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Lamb & Beef Gyro Sandwich @ *Fired Up*  
- - Beef Taco Meat @ *Que Rico*  
+ - Beef Carne Guisada @ *Que Rico*  
   
 In description:   
- - Sliced Kielbasa (Pork) @ *1849*  
- - Italian Meat Sauce @ *Buona Cucina*  
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
- - Vegan Taco Filling @ *Que Rico*  
+ - Pizza Slice - Bacon Cheeseburger @ *Capital City Pizza*  
   
 **pork**  
 In name:   
- - Sliced Kielbasa (Pork) @ *1849*  
- - Pork Carnita @ *Que Rico*  
+ - Cajun Rice w/ Pork & Black Eyed Peas @ *1849*  
+ - BBQ Pork Sandwich @ *Fired Up*  
   
 **chicken**  
 In name:   
- - Chicken Parmigiana @ *1849*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Plant Based Chicken Strips @ *Buona Cucina*  
- - Chicken Teriyaki Stir Fry @ *Global Kitchen*  
- - Fajita Chicken @ *Que Rico*  
- - Chicken Salad @ *Delicious*  
- - Diced Chicken @ *Great Greens*  
- - Chicken Chili @ *Great Greens*  
+ - Chicken Drumstick BBQ Glazed @ *1849*  
+ - Diced Chicken Breast @ *Buona Cucina*  
+ - Lemon Chicken Rice Soup @ *Great Greens*  
   
 In description:   
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Tom Kha Gai Soup @ *Global Kitchen*  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-05-24)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-05-24)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-05-24)  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-05-24)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-05-24)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-05-25)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-05-25)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-05-25)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-05-25)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-05-25)  
   
