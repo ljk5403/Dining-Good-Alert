@@ -1,6 +1,6 @@
 # 2026-05-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-25 05:03:58  
+Updated at: 2026-05-25 11:21:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-25)  
 **Tuna**  
 In name:   
@@ -13,12 +13,10 @@ In name:
  - Beef Ravioli Plain @ *Buona Cucina*  
   
 In description:   
- - Pizza Slice - Bacon Cheeseburger @ *Capital City Pizza*  
- - Grilled Blended Burger w/ Cheese @ *Fired Up*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  
 In name:   
- - Imperial Pork Stir Fry @ *Global Kitchen*  
  - Pork Carnita @ *Que Rico*  
   
 **chicken**  
@@ -27,6 +25,9 @@ In name:
  - Chicken Tinga @ *Que Rico*  
  - Diced Chicken Breast @ *Buona Cucina*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
+  
+In description:   
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-05-25)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-05-25)  
