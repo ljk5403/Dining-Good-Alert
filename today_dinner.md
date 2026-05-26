@@ -1,6 +1,6 @@
 # 2026-05-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-26 15:07:37  
+Updated at: 2026-05-26 17:18:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-26)  
 **Samosas**  
 In name:   
@@ -18,12 +18,15 @@ In name:
 In name:   
  - Plant-Based Beef Curry Squash @ *Global Kitchen*  
   
+In description:   
+ - Chicken Korma @ *Global Kitchen*  
+  
 **beef**  
 In name:   
+ - Traditional Beef Shepard's Pie @ *1849*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Beef Street Taco @ *Fired Up*  
  - Plant-Based Beef Curry Squash @ *Global Kitchen*  
- - Beef Vindaloo @ *Global Kitchen*  
  - Beef Mediterranean @ *Que Rico*  
   
 In description:   
@@ -31,9 +34,9 @@ In description:
   
 **chicken**  
 In name:   
- - Za'atar and Lemon Grilled Chicken @ *1849*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Chicken Korma @ *Global Kitchen*  
  - Mediterranean Chicken @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Dumpling Soup @ *Great Greens*  
