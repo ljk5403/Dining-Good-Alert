@@ -1,17 +1,10 @@
 # 2026-05-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-27 15:15:46  
+Updated at: 2026-05-27 17:39:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-27)  
-**steak**  
-In name:   
- - Smothered Steak Burrito @ *Que Rico*  
-  
 **beef**  
 In name:   
  - Lomo Saltado w/ Beef @ *Global Kitchen*  
-  
-In description:   
- - Smothered Steak Burrito @ *Que Rico*  
   
 **pork**  
 In name:   
@@ -20,7 +13,6 @@ In name:
   
 **chicken**  
 In name:   
- - Plant Based Chicken Strips @ *Buona Cucina*  
  - Pizza Slice Chicken Sriracha @ *Capital City Pizza*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
