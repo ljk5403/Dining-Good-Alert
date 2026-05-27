@@ -1,13 +1,12 @@
 # 2026-05-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-27 04:44:04  
+Updated at: 2026-05-27 12:17:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-27)  
 **beef**  
 In name:   
  - Beef Harissa w/Couscous @ *1849*  
  - Beef Fajita Meat @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
- - Beef Chili @ *Great Greens*  
   
 **pork**  
 In name:   
@@ -17,30 +16,17 @@ In name:
 In name:   
  - Marrakech Chicken Breast @ *1849*  
  - Pizza Slice Chicken Sriracha @ *Capital City Pizza*  
- - Spicy Lo Mein w/Chicken @ *Global Kitchen*  
  - Chicken Tinga @ *Que Rico*  
+ - Plant Based Chicken Strips @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-05-27)  
-**Vanilla Coconut Milk Yogurt**  
-In name:   
- - Vanilla Coconut Milk Yogurt @ *Great Greens*  
-  
 **mahi mahi**  
 In name:   
  - Blackened Mahi Mahi @ *1849*  
   
-**catfish**  
-In name:   
- - Panfried Southern Catfish @ *1849*  
-  
-**fish**  
-In name:   
- - Panfried Southern Catfish @ *1849*  
-  
 **beef**  
 In name:   
- - Beef Chili @ *Great Greens*  
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
@@ -60,7 +46,7 @@ In description:
 In name:   
  - Smoked BBQ Chicken Breast @ *1849*  
  - Diced Chicken @ *Great Greens*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Chicken Tortilla Soup @ *Great Greens*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-05-27)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-05-27)  
