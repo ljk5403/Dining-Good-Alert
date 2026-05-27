@@ -1,14 +1,10 @@
 # 2026-05-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-26 17:18:19  
+Updated at: 2026-05-26 19:02:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-26)  
 **Samosas**  
 In name:   
  - Samosas @ *Global Kitchen*  
-  
-**Salmon**  
-In name:   
- - Oven Roasted Salmon @ *1849*  
   
 **watermelon**  
 In name:   
@@ -31,6 +27,10 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
+  
+**pork**  
+In name:   
+ - Pork Adobo @ *1849*  
   
 **chicken**  
 In name:   
