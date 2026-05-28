@@ -1,43 +1,43 @@
-# 2026-05-27 dinner  
+# 2026-05-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-27 23:22:09  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-27)  
+Updated at: 2026-05-28 04:59:27  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-28)  
+**Bibimbap Bowl**  
+In name:   
+ - Bibimbap Bowl @ *Global Kitchen*  
+ - Bibimbap Bowl - Modified - Composed Tofu @ *Global Kitchen*  
+  
+**drumstick**  
+In name:   
+ - Chicken Drumstick Szechuan Glazed @ *1849*  
+  
 **beef**  
 In name:   
- - Lomo Saltado w/ Beef @ *Global Kitchen*  
-  
-**pork**  
-In name:   
- - Southern Style Pork Spare Ribs @ *1849*  
- - Italian Pork Sausage @ *Buona Cucina*  
-  
-**chicken**  
-In name:   
- - Pizza Slice Chicken Sriracha @ *Capital City Pizza*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
-  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-05-27)  
-**beef**  
-In name:   
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
-  
-**pork**  
-In name:   
- - Pork & Beef Hard Salami @ *Delicious*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Beef Mediterranean @ *Que Rico*  
   
 In description:   
- - Bacon Slice @ *Delicious*  
- - Smoked Ham @ *Delicious*  
- - Bacon @ *Delicious*  
+ - Italian Meat Sauce @ *Buona Cucina*  
+ - Bibimbap Bowl @ *Global Kitchen*  
+  
+**pork**  
+In name:   
+ - Pork Belly Char Sui @ *1849*  
+ - Pork Carnita Torta @ *Fired Up*  
   
 **chicken**  
 In name:   
- - Diced Chicken @ *Great Greens*  
- - Chicken Tortilla Soup @ *Great Greens*  
+ - Chicken Drumstick Szechuan Glazed @ *1849*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Plant Based Chicken Strips @ *Buona Cucina*  
+ - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
+ - Mediterranean Chicken @ *Que Rico*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Chicken Noodle Soup @ *Great Greens*  
   
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-05-27)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-05-27)  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-05-27)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-05-27)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-05-28)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-05-28)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-05-28)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-05-28)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-05-28)  
   

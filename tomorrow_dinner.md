@@ -1,6 +1,6 @@
 # 2026-05-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-28 04:59:30  
+Updated at: 2026-05-28 12:33:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-29)  
 **Flauta**  
 In name:   
