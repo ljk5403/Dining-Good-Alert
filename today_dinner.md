@@ -1,6 +1,6 @@
 # 2026-05-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-28 12:33:17  
+Updated at: 2026-05-28 15:21:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-28)  
 **Bibimbap Bowl**  
 In name:   
@@ -9,7 +9,7 @@ In name:
   
 **drumstick**  
 In name:   
- - Chicken Drumstick Szechuan Glazed @ *1849*  
+ - Chicken Drumstick BBQ Glazed @ *1849*  
   
 **beef**  
 In name:   
@@ -26,7 +26,7 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken Drumstick Szechuan Glazed @ *1849*  
+ - Chicken Drumstick BBQ Glazed @ *1849*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
