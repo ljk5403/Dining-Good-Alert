@@ -1,6 +1,6 @@
 # 2026-05-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-27 18:59:39  
+Updated at: 2026-05-27 23:22:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-28)  
 **Bibimbap Bowl**  
 In name:   
@@ -33,6 +33,7 @@ In name:
  - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
  - Mediterranean Chicken @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Chicken Noodle Soup @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-05-28)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-05-28)  
