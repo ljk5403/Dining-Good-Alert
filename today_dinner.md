@@ -1,6 +1,6 @@
 # 2026-05-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-29 12:32:08  
+Updated at: 2026-05-29 15:23:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-29)  
 **Flauta**  
 In name:   
@@ -13,10 +13,6 @@ In name:
 **Shrimp**  
 In name:   
  - Shrimp Po-Boy Sandwich @ *Fired Up*  
-  
-**Tilapia**  
-In name:   
- - Blackened Tilapia @ *1849*  
   
 **clam**  
 In name:   
@@ -33,11 +29,19 @@ In description:
  - Burnt Ends @ *1849*  
  - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
   
+**pork**  
+In name:   
+ - Spicy Citrus Pork w/Black Beans & Rice @ *1849*  
+  
 **chicken**  
 In name:   
  - Diced Chicken Breast @ *Buona Cucina*  
+ - Spicy Lo Mein w/Chicken @ *Global Kitchen*  
  - Chicken and Cheese Flauta @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
+  
+In description:   
+ - Spicy Citrus Pork w/Black Beans & Rice @ *1849*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-05-29)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-05-29)  
