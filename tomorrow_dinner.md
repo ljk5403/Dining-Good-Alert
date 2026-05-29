@@ -1,47 +1,36 @@
-# 2026-05-29 dinner  
+# 2026-05-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-28 19:10:54  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-29)  
-**Flauta**  
-In name:   
- - Chicken and Cheese Flauta @ *Que Rico*  
-  
-**steak**  
-In name:   
- - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
-  
-**Shrimp**  
-In name:   
- - Shrimp Po-Boy Sandwich @ *Fired Up*  
-  
-**Tilapia**  
-In name:   
- - Blackened Tilapia @ *1849*  
-  
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
-  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
+Updated at: 2026-05-29 04:53:05  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-30)  
 **beef**  
 In name:   
+ - Southwestern Corned Beef Hash @ *1849*  
+ - Sliced BBQ Beef Brisket Sandwich @ *Fired Up*  
+ - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Burnt Ends @ *1849*  
- - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
+ - Italian Meat Sauce @ *Buona Cucina*  
+ - Pepperoni & Mushrooms Pizza @ *Capital City Pizza*  
+  
+**pork**  
+In name:   
+ - Biscuits & Pork Gravy @ *1849*  
+ - Italian Pork Sausage @ *Buona Cucina*  
+ - Pork Carnita @ *Que Rico*  
   
 **chicken**  
 In name:   
- - Diced Chicken Breast @ *Buona Cucina*  
- - Chicken and Cheese Flauta @ *Que Rico*  
+ - General Tso's Chicken @ *Global Kitchen*  
+ - Chicken Tinga @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Chicken Chili @ *Great Greens*  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-05-29)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-05-29)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-05-29)  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-05-29)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-05-29)  
+In description:   
+ - Pepperoni & Mushrooms Pizza @ *Capital City Pizza*  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-05-30)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-05-30)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-05-30)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-05-30)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-05-30)  
   
