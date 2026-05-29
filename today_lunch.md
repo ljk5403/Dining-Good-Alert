@@ -1,14 +1,10 @@
 # 2026-05-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-29 04:52:57  
+Updated at: 2026-05-29 12:32:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-29)  
-**steak**  
+**Tilapia**  
 In name:   
- - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
-  
-**Salmon**  
-In name:   
- - Blackened Salmon @ *1849*  
+ - Blackened Tilapia @ *1849*  
   
 **clam**  
 In name:   
@@ -23,7 +19,7 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Pork Bratwurst Sandwich @ *Fired Up*  
   
 **pork**  
@@ -40,6 +36,7 @@ In name:
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Pork Miso w/Yakisoba Noodles @ *Global Kitchen*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-05-29)  
