@@ -1,14 +1,10 @@
 # 2026-05-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-29 15:23:56  
+Updated at: 2026-05-29 17:27:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-29)  
 **Flauta**  
 In name:   
  - Chicken and Cheese Flauta @ *Que Rico*  
-  
-**steak**  
-In name:   
- - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
   
 **Shrimp**  
 In name:   
@@ -27,7 +23,7 @@ In name:
   
 In description:   
  - Burnt Ends @ *1849*  
- - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  
 In name:   
@@ -42,6 +38,7 @@ In name:
   
 In description:   
  - Spicy Citrus Pork w/Black Beans & Rice @ *1849*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-05-29)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-05-29)  
