@@ -1,12 +1,11 @@
 # 2026-05-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-30 12:03:07  
+Updated at: 2026-05-30 14:14:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-30)  
 **beef**  
 In name:   
  - Southwestern Corned Beef Hash @ *1849*  
  - Sliced BBQ Beef Brisket Sandwich @ *Fired Up*  
- - Beef Taco Meat @ *Que Rico*  
   
 In description:   
  - Italian Meat Sauce @ *Buona Cucina*  
@@ -16,12 +15,10 @@ In description:
 In name:   
  - Biscuits & Pork Gravy @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
- - Pork Carnita @ *Que Rico*  
   
 **chicken**  
 In name:   
  - General Tso's Chicken @ *Global Kitchen*  
- - Chicken Tinga @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
