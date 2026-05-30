@@ -1,6 +1,6 @@
 # 2026-05-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-30 14:14:20  
+Updated at: 2026-05-30 15:55:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-30)  
 **beef**  
 In name:   
@@ -8,13 +8,11 @@ In name:
  - Sliced BBQ Beef Brisket Sandwich @ *Fired Up*  
   
 In description:   
- - Italian Meat Sauce @ *Buona Cucina*  
  - Pepperoni & Mushrooms Pizza @ *Capital City Pizza*  
   
 **pork**  
 In name:   
  - Biscuits & Pork Gravy @ *1849*  
- - Italian Pork Sausage @ *Buona Cucina*  
   
 **chicken**  
 In name:   
