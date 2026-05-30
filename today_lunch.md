@@ -1,22 +1,14 @@
 # 2026-05-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-30 10:05:30  
+Updated at: 2026-05-30 12:03:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-30)  
-**steak**  
-In name:   
- - Beef Pepper Steak Stir Fry w/Teriyaki @ *Global Kitchen*  
- - Plant-Based Pepper Steak Stir Fry @ *Global Kitchen*  
-  
 **beef**  
 In name:   
- - Beef Pepper Steak Stir Fry w/Teriyaki @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
  - Pepperoni & Mushrooms Pizza @ *Capital City Pizza*  
  - Italian Meatball Sandwich @ *Fired Up*  
- - Plant-Based Pepper Steak Stir Fry @ *Global Kitchen*  
- - Italian Meat Sauce @ *Buona Cucina*  
   
 **pork**  
 In name:   
