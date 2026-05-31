@@ -1,6 +1,6 @@
 # 2026-06-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-31 15:58:59  
+Updated at: 2026-05-31 17:08:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-02)  
 **portabella**  
 In name:   
@@ -22,11 +22,8 @@ In name:
   
 **curry**  
 In name:   
- - Curry Mango - Pork @ *1849*  
+ - Curry Mango - Pork @ *Global Kitchen*  
  - Squash Curry @ *Global Kitchen*  
-  
-In description:   
- - Chicken Korma @ *Global Kitchen*  
   
 **beef**  
 In name:   
@@ -39,7 +36,7 @@ In description:
   
 **pork**  
 In name:   
- - Curry Mango - Pork @ *1849*  
+ - Curry Mango - Pork @ *Global Kitchen*  
   
 In description:   
  - Cocktail Wieners & BBQ Sauce @ *Fired Up*  
@@ -49,7 +46,6 @@ In name:
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Crispy Chicken Sandwich @ *Fired Up*  
- - Chicken Korma @ *Global Kitchen*  
  - Mediterranean Chicken @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
