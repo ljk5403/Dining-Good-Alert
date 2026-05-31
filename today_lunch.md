@@ -1,6 +1,6 @@
 # 2026-05-31 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-05-31 10:16:40  
+Updated at: 2026-05-31 12:05:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-05-31)  
 **portabella**  
 In name:   
@@ -8,7 +8,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef French Dip Sandwich @ *Fired Up*  
  - Beef Taco Meat @ *Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
@@ -23,8 +22,6 @@ In name:
   
 **chicken**  
 In name:   
- - Sweet & Sour Chicken @ *Global Kitchen*  
- - Plant Based Sweet & Sour Chicken @ *Global Kitchen*  
  - Chicken Tinga @ *Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
