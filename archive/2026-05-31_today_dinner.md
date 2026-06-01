@@ -1,0 +1,36 @@
+# 2026-05-31 dinner  
+*THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
+Updated at: 2026-05-31 19:04:55  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-05-31)  
+**curry**  
+In name:   
+ - Curry Mango - Pork @ *Global Kitchen*  
+ - Curry Cauliflower & Butternut Squash @ *Global Kitchen*  
+  
+**beef**  
+In name:   
+  
+In description:   
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
+  
+**pork**  
+In name:   
+ - Boneless Baked Pork Ham @ *1849*  
+ - Curry Mango - Pork @ *Global Kitchen*  
+  
+**chicken**  
+In name:   
+ - Blackened Chicken @ *1849*  
+ - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Chicken Chili @ *Great Greens*  
+  
+In description:   
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-05-31)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-05-31)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-05-31)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-05-31)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-05-31)  
+  
