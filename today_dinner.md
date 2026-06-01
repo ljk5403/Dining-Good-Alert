@@ -1,13 +1,7 @@
 # 2026-06-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-01 14:19:13  
+Updated at: 2026-06-01 17:35:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-01)  
-**steak**  
-In name:   
-  
-In description:   
- - Montreal Chicken @ *1849*  
-  
 **Shrimp**  
 In name:   
  - Five Treasure Shrimp Lo Mein @ *Global Kitchen*  
@@ -41,7 +35,7 @@ In name:
   
 **chicken**  
 In name:   
- - Montreal Chicken @ *1849*  
+ - Chicken & Vegetables w/Dijon Vinaigrette @ *1849*  
  - Chicken Tamale with Oaxaca @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
