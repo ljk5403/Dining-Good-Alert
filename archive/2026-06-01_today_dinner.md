@@ -1,16 +1,12 @@
 # 2026-06-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-02 13:03:21  
+Updated at: 2026-06-02 17:21:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-02)  
 **portabella**  
 In name:   
   
 In description:   
  - Pesto Mushroom Sandwich @ *Fired Up*  
-  
-**Salmon**  
-In name:   
- - Ginger Glazed Salmon @ *1849*  
   
 **Tuna**  
 In name:   
@@ -34,6 +30,7 @@ In name:
  - Beef Mediterranean @ *Que Rico*  
   
 In description:   
+ - Burnt Ends @ *1849*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Cocktail Wieners & BBQ Sauce @ *Fired Up*  
   
