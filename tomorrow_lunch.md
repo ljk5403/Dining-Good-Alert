@@ -1,42 +1,54 @@
-# 2026-06-03 lunch  
+# 2026-06-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-02 19:26:28  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-03)  
-**broccoli rabe**  
-In name:   
- - Broccoli Rabe @ *1849*  
-  
+Updated at: 2026-06-03 05:57:28  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-04)  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
   
-**beef**  
+**curry**  
 In name:   
- - Beef Fajita Meat @ *Que Rico*  
- - Beef Taco Meat @ *Que Rico*  
- - Beef Pasta Tortellini @ *Buona Cucina*  
- - Beef Chili @ *Great Greens*  
+ - Garbanzo Bean Curry @ *1849*  
+ - Squash Curry @ *Global Kitchen*  
   
 In description:   
- - Sliced Kielbasa (Pork) @ *1849*  
+ - Madras Chicken w/Basmati Rice @ *Global Kitchen*  
+  
+**beef**  
+In name:   
+ - Cowboy Bean w/ Beef & Pork @ *1849*  
+ - Beef Mediterranean @ *Que Rico*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+  
+In description:   
+ - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
+ - Reuben @ *Fired Up*  
   
 **pork**  
 In name:   
- - Sliced Kielbasa (Pork) @ *1849*  
- - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
- - Italian Pork Sausage @ *Buona Cucina*  
+ - Cowboy Bean w/ Beef & Pork @ *1849*  
+ - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
+  
+In description:   
+ - Chorizo Sauce @ *Buona Cucina*  
   
 **chicken**  
 In name:   
- - Chicken Parmigiana @ *1849*  
- - Chicken, Bacon, Jalapeno Pizza @ *Capital City Pizza*  
- - Spicy Lo Mein w/Chicken @ *Global Kitchen*  
- - Fajita Chicken @ *Que Rico*  
+ - Huli Huli Chicken @ *1849*  
+ - Madras Chicken w/Basmati Rice @ *Global Kitchen*  
+ - Mediterranean Chicken @ *Que Rico*  
+ - Plant Based Chicken Strips @ *Buona Cucina*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Diced Chicken @ *Great Greens*  
+ - Chicken Noodle Soup @ *Great Greens*  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-06-03)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-06-03)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-06-03)  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-06-03)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-06-03)  
+In description:   
+ - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
+ - Chorizo Sauce @ *Buona Cucina*  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-06-04)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-06-04)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-06-04)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-06-04)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-06-04)  
   
