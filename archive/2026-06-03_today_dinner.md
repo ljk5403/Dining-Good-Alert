@@ -1,17 +1,15 @@
 # 2026-06-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-04 14:22:29  
+Updated at: 2026-06-04 16:40:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-04)  
 **portabella**  
 In name:   
-  
-In description:   
- - Mushroom Bulgogi Bao Bun @ *Fired Up*  
+ - Portabella Mushroom Bulgogi Tacos @ *Fired Up*  
   
 **Bulgogi**  
 In name:   
- - Beef Bulgogi Bao Bun @ *Fired Up*  
- - Mushroom Bulgogi Bao Bun @ *Fired Up*  
+ - Beef Bulgogi Taco @ *Fired Up*  
+ - Portabella Mushroom Bulgogi Tacos @ *Fired Up*  
   
 **Shrimp**  
 In name:   
@@ -34,19 +32,16 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Beef Bulgogi Bao Bun @ *Fired Up*  
+ - Beef Bulgogi Taco @ *Fired Up*  
  - Beef Mediterranean @ *Que Rico*  
-  
-In description:   
- - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
 **pork**  
 In name:   
- - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
  - Thai BBQ Pork Ribs @ *Global Kitchen*  
   
 In description:   
  - Chorizo Sauce @ *Buona Cucina*  
+ - Pizza Slice Sausage & Mushroom @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
@@ -59,7 +54,6 @@ In name:
   
 In description:   
  - Chorizo Sauce @ *Buona Cucina*  
- - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-06-04)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-06-04)  
