@@ -1,6 +1,6 @@
 # 2026-06-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-04 04:54:22  
+Updated at: 2026-06-04 11:53:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-04)  
 **Tuna**  
 In name:   
@@ -9,10 +9,6 @@ In name:
 **curry**  
 In name:   
  - Garbanzo Bean Curry @ *1849*  
- - Squash Curry @ *Global Kitchen*  
-  
-In description:   
- - Madras Chicken w/Basmati Rice @ *Global Kitchen*  
   
 **beef**  
 In name:   
@@ -35,7 +31,6 @@ In description:
 **chicken**  
 In name:   
  - Huli Huli Chicken @ *1849*  
- - Madras Chicken w/Basmati Rice @ *Global Kitchen*  
  - Mediterranean Chicken @ *Que Rico*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
