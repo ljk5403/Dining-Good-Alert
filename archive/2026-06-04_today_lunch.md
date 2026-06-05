@@ -1,10 +1,10 @@
 # 2026-06-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-05 04:48:19  
+Updated at: 2026-06-05 11:28:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-05)  
-**Salmon**  
+**mahi mahi**  
 In name:   
- - Grilled Chipotle Salmon @ *1849*  
+ - Blackened Mahi Mahi @ *1849*  
   
 **catfish**  
 In name:   
@@ -29,6 +29,7 @@ In name:
 **beef**  
 In name:   
  - Beef Taco Meat @ *Que Rico*  
+ - Beef Tortellini @ *Buona Cucina*  
   
 In description:   
  - Porkloin Fritter Plate @ *1849*  
