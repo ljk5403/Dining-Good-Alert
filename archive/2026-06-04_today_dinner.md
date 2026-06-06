@@ -1,6 +1,6 @@
 # 2026-06-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-05 16:25:04  
+Updated at: 2026-06-05 18:07:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-05)  
 **Tandoori Chicken**  
 In name:   
@@ -18,12 +18,19 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**BBQ Pork Sandwich**  
+In name:   
+ - BBQ Pork Sandwich @ *Fired Up*  
+  
 **beef**  
 In name:   
- - Sliced BBQ Beef Brisket Sandwich @ *Fired Up*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
+  
+**pork**  
+In name:   
+ - BBQ Pork Sandwich @ *Fired Up*  
   
 **chicken**  
 In name:   
