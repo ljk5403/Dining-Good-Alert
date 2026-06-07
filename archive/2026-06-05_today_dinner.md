@@ -1,6 +1,6 @@
 # 2026-06-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-06 14:21:34  
+Updated at: 2026-06-06 18:02:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-06)  
 **portabella**  
 In name:   
@@ -10,19 +10,18 @@ In name:
 In name:   
  - Chicken Drummies @ *Fired Up*  
   
-**duck**  
-In name:   
- - Duck Curry @ *Global Kitchen*  
-  
 **fish**  
 In name:   
   
 In description:   
- - Duck Curry @ *Global Kitchen*  
+ - Thai BBQ Pork Ribs @ *1849*  
+  
+**Filipino Pork Sausage**  
+In name:   
+ - Filipino Pork Sausage @ *Global Kitchen*  
   
 **curry**  
 In name:   
- - Duck Curry @ *Global Kitchen*  
  - Coconut Tofu w/Red Curry Sauce @ *Global Kitchen*  
   
 **beef**  
@@ -35,8 +34,9 @@ In description:
   
 **pork**  
 In name:   
- - Pork Adobo @ *1849*  
+ - Thai BBQ Pork Ribs @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
+ - Filipino Pork Sausage @ *Global Kitchen*  
  - Pork Carnita @ *Que Rico*  
   
 **chicken**  
