@@ -1,27 +1,17 @@
 # 2026-06-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-07 10:23:12  
+Updated at: 2026-06-07 12:15:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-07)  
-**steak**  
-In name:   
- - Philly Cheesesteak Sandwich @ *Fired Up*  
-  
 **curry**  
 In name:   
  - Squash Curry @ *1849*  
-  
-In description:   
- - Tikka Masala Chicken @ *Global Kitchen*  
- - Tofu & Vegetable Tikka Masala @ *Global Kitchen*  
   
 **beef**  
 In name:   
  - Beef Taco Meat @ *Que Rico*  
  - Beef Ravioli Plain @ *Buona Cucina*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
- - Philly Cheesesteak Sandwich @ *Fired Up*  
  - Vegan Taco Filling @ *Que Rico*  
  - Italian Meat Sauce @ *Buona Cucina*  
   
@@ -35,12 +25,10 @@ In description:
 **chicken**  
 In name:   
  - Honey Mustard Chicken & Vegetables @ *1849*  
- - Tikka Masala Chicken @ *Global Kitchen*  
- - Fajita Chicken @ *Que Rico*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Chicken Tinga @ *Que Rico*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
- - Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
+ - Chicken Salad @ *Delicious*  
  - Chicken Chili @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-06-07)  
