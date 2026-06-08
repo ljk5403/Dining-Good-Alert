@@ -1,6 +1,6 @@
 # 2026-06-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-08 15:14:04  
+Updated at: 2026-06-08 17:26:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-10)  
 **steak**  
 In name:   
@@ -61,7 +61,6 @@ In description:
   
 **chicken**  
 In name:   
- - Crispy Chicken Sandwich @ *Fired Up*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-06-10)  
