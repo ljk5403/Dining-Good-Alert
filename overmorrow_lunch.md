@@ -1,6 +1,6 @@
 # 2026-06-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-08 05:52:53  
+Updated at: 2026-06-08 12:21:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-10)  
 **beef**  
 In name:   
@@ -50,48 +50,6 @@ In name:
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-06-10)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-06-10)  
-**Vanilla Coconut Milk Yogurt**  
-In name:   
- - Vanilla Coconut Milk Yogurt @ *Great Greens*  
-  
-**beef**  
-In name:   
- - Beef Roast w/Mushroom Demi Glace @ *1849*  
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Barbacoa @ *Gordon Que Rico*  
- - Beef Taco Meat @ *Gordon Que Rico*  
- - Roast Beef @ *Gordon Delicious*  
- - Pork & Beef Hard Salami @ *Gordon Delicious*  
- - Beef Chili @ *Great Greens*  
-  
-In description:   
- - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
-  
-**pork**  
-In name:   
- - Italian Pork Sausage @ *Gordon Buona Cucina*  
- - Pork & Beef Hard Salami @ *Gordon Delicious*  
-  
-In description:   
- - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
- - Bacon @ *Gordon Delicious*  
- - Smoked Ham @ *Gordon Delicious*  
- - Bacon Slice @ *Gordon Delicious*  
-  
-**chicken**  
-In name:   
- - Broasted Chicken @ *1849*  
- - Plant-Based Chicken & Dumplings @ *1849*  
- - Chicken Gravy @ *1849*  
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Orange Sweet & Spicy Chicken @ *Gordon Global Kitchen*  
- - Orange Sweet & Spicy "Chicken" @ *Gordon Global Kitchen*  
- - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
- - Diced Chicken @ *Great Greens*  
-  
-In description:   
- - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
-  
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-06-10)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-06-10)  
   

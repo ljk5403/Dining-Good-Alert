@@ -1,6 +1,6 @@
 # 2026-06-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-08 05:52:57  
+Updated at: 2026-06-08 12:21:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-10)  
 **steak**  
 In name:   
@@ -66,49 +66,6 @@ In name:
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-06-10)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-06-10)  
-**Vanilla Coconut Milk Yogurt**  
-In name:   
- - Vanilla Coconut Milk Yogurt @ *Great Greens*  
-  
-**drumstick**  
-In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
-  
-**beef**  
-In name:   
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Barbacoa @ *Gordon Que Rico*  
- - Beef Taco Meat @ *Gordon Que Rico*  
- - Roast Beef @ *Gordon Delicious*  
- - Pork & Beef Hard Salami @ *Gordon Delicious*  
- - Beef Chili @ *Great Greens*  
-  
-In description:   
- - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
-  
-**pork**  
-In name:   
- - Italian Pork Sausage @ *Gordon Buona Cucina*  
- - Pork & Beef Hard Salami @ *Gordon Delicious*  
-  
-In description:   
- - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
- - Smoked Ham @ *Gordon Delicious*  
- - Bacon Slice @ *Gordon Delicious*  
- - Bacon @ *Gordon Delicious*  
-  
-**chicken**  
-In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
- - Chicken Pot Pie w/Biscuit @ *1849*  
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Greek Lemon Chicken @ *Gordon Global Kitchen*  
- - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
- - Diced Chicken @ *Great Greens*  
-  
-In description:   
- - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
-  
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-06-10)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-06-10)  
   

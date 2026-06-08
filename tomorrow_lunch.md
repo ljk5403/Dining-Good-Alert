@@ -1,6 +1,6 @@
 # 2026-06-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-08 05:52:45  
+Updated at: 2026-06-08 12:21:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-09)  
 **portabella**  
 In name:   
@@ -72,55 +72,6 @@ In name:
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-06-09)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-06-09)  
-**Vanilla Coconut Milk Yogurt**  
-In name:   
- - Vanilla Coconut Milk Yogurt @ *Great Greens*  
-  
-**steak**  
-In name:   
- - Spicy Steak Fajita @ *Gordon Que Rico*  
-  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
-**beef**  
-In name:   
- - Texas BBQ Sliced Beef Brisket @ *1849*  
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Broccoli Stir Fry w/Teriyaki Sauce @ *Gordon Global Kitchen*  
- - Plant-Based Beef & Broccoli Stir Fry @ *Gordon Global Kitchen*  
- - Beef Taco Meat @ *Gordon Que Rico*  
- - Roast Beef @ *Gordon Delicious*  
- - Pork & Beef Hard Salami @ *Gordon Delicious*  
-  
-In description:   
- - Italian Meat Sauce @ *Gordon Buona Cucina*  
- - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
- - Spicy Steak Fajita @ *Gordon Que Rico*  
-  
-**pork**  
-In name:   
- - Pork & Beef Hard Salami @ *Gordon Delicious*  
-  
-In description:   
- - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
- - Bacon @ *Gordon Delicious*  
- - Bacon Slice @ *Gordon Delicious*  
- - Smoked Ham @ *Gordon Delicious*  
-  
-**chicken**  
-In name:   
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Giardiniera Chicken @ *Gordon Buona Cucina*  
- - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
- - Crispy Chicken Sandwich @ *Gordon Fired Up*  
- - Diced Chicken @ *Great Greens*  
- - Chicken Dumpling Soup @ *Great Greens*  
-  
-In description:   
- - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
-  
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-06-09)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-06-09)  
   
