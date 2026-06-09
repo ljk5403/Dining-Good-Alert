@@ -1,6 +1,6 @@
 # 2026-06-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-09 14:12:04  
+Updated at: 2026-06-09 16:46:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-09)  
 **Samosas**  
 In name:   
@@ -14,14 +14,9 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**curry**  
-In name:   
- - Plant-Based Beef Curry Squash @ *Global Kitchen*  
-  
 **beef**  
 In name:   
  - Beef Street Taco @ *Fired Up*  
- - Plant-Based Beef Curry Squash @ *Global Kitchen*  
  - Beef Vindaloo @ *Global Kitchen*  
   
 In description:   
@@ -29,7 +24,7 @@ In description:
   
 **chicken**  
 In name:   
- - Za'atar and Lemon Grilled Chicken @ *1849*  
+ - Blackened Chicken @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Dumpling Soup @ *Great Greens*  
   
@@ -49,22 +44,12 @@ In name:
 In name:   
  - Curry Cauliflower & Butternut Squash @ *1849*  
   
-**beef**  
-In name:   
- - Mediterranean Beef @ *Global Kitchen*  
- - Beef Taco Meat @ *Que Rico*  
-  
-In description:   
- - Grilled Blended Burger w/ Cheese @ *Fired Up*  
-  
 **pork**  
 In name:   
  - BBQ Pork Chop @ *1849*  
   
 **chicken**  
 In name:   
- - Mediterranean Chicken @ *Global Kitchen*  
- - Taco Chicken @ *Que Rico*  
  - Chicken Dumpling Soup @ *Great Greens*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-06-09)  
