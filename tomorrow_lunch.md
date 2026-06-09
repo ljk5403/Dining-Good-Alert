@@ -1,6 +1,6 @@
 # 2026-06-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-09 11:30:21  
+Updated at: 2026-06-09 14:12:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-10)  
 **beef**  
 In name:   
@@ -32,6 +32,8 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Barbacoa @ *Que Rico*  
+ - Beef Taco Meat @ *Que Rico*  
  - Beef Chili @ *Great Greens*  
   
 In description:   
@@ -42,6 +44,7 @@ In description:
 In name:   
   
 In description:   
+ - Grilled Ham & Swiss Sandwich @ *Fired Up*  
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **chicken**  

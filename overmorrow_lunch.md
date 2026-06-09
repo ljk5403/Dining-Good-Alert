@@ -1,6 +1,6 @@
 # 2026-06-11 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-09 11:30:24  
+Updated at: 2026-06-09 14:12:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-11)  
 **steak**  
 In name:   
@@ -47,19 +47,24 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Taco Meat @ *Que Rico*  
   
 In description:   
  - Swiss Steak w/Brown Gravy @ *1849*  
+ - Pork Bratwurst Sandwich @ *Fired Up*  
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **pork**  
 In name:   
+ - Pork Bratwurst Sandwich @ *Fired Up*  
+ - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **chicken**  
 In name:   
+ - Plant-Based Chicken Taco Filling @ *Que Rico*  
  - Chicken Noodle Soup @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
