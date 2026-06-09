@@ -1,11 +1,7 @@
 # 2026-06-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-08 15:13:47  
+Updated at: 2026-06-08 17:25:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-08)  
-**drumstick**  
-In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
-  
 **fish**  
 In name:   
   
@@ -20,23 +16,23 @@ In name:
 In name:   
  - BBQ Pork Sandwich @ *Fired Up*  
   
+**Filipino Pork Sausage**  
+In name:   
+ - Filipino Pork Sausage @ *1849*  
+  
 **beef**  
 In name:   
- - Beef Ravioli Plain @ *Buona Cucina*  
- - Beef Carne Guisada @ *Que Rico*  
   
 In description:   
  - Pizza Slice - Bacon Cheeseburger @ *Capital City Pizza*  
   
 **pork**  
 In name:   
- - Cajun Rice w/ Pork & Black Eyed Peas @ *1849*  
+ - Filipino Pork Sausage @ *1849*  
  - BBQ Pork Sandwich @ *Fired Up*  
   
 **chicken**  
 In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
- - Diced Chicken Breast @ *Buona Cucina*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 In description:   
@@ -65,13 +61,13 @@ In name:
   
 **beef**  
 In name:   
- - Big Texan Beef Sandwich (Half) @ *Fired Up*  
  - Protein - Beef Thinly Sliced @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
  - Build Your Own Maki Mono Bar @ *Global Kitchen*  
  - Vegan Taco Filling @ *Que Rico*  
+ - Soup Garden Vegetable @ *Great Greens*  
   
 **pork**  
 In name:   
