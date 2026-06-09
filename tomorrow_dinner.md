@@ -1,6 +1,6 @@
 # 2026-06-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-09 14:12:06  
+Updated at: 2026-06-09 16:47:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-10)  
 **beef**  
 In name:   
@@ -10,7 +10,6 @@ In name:
 **pork**  
 In name:   
  - Southern Style Pork Spare Ribs @ *1849*  
- - Italian Pork Sausage @ *Buona Cucina*  
   
 **chicken**  
 In name:   

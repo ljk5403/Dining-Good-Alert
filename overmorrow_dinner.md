@@ -1,6 +1,6 @@
 # 2026-06-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-09 14:12:08  
+Updated at: 2026-06-09 16:47:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-11)  
 **Bibimbap Bowl**  
 In name:   
@@ -13,10 +13,8 @@ In name:
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
- - Italian Meat Sauce @ *Buona Cucina*  
  - Bibimbap Bowl @ *Global Kitchen*  
   
 **pork**  
@@ -27,8 +25,6 @@ In name:
 **chicken**  
 In name:   
  - Chicken Drumstick Szechuan Glazed @ *1849*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Plant Based Chicken Strips @ *Buona Cucina*  
  - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Noodle Soup @ *Great Greens*  
