@@ -1,6 +1,6 @@
 # 2026-06-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-10 04:58:30  
+Updated at: 2026-06-10 11:57:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-11)  
 **Bibimbap Bowl**  
 In name:   

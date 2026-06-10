@@ -1,6 +1,6 @@
 # 2026-06-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-10 04:58:26  
+Updated at: 2026-06-10 11:57:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-10)  
 **beef**  
 In name:   
@@ -17,8 +17,7 @@ In name:
 In name:   
  - Marrakech Chicken Breast @ *1849*  
  - Pizza Slice Chicken Sriracha @ *Capital City Pizza*  
- - Spicy Lo Mein w/Chicken @ *Global Kitchen*  
- - Chicken Tinga @ *Que Rico*  
+ - Chicken Fajita @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-06-10)  
@@ -30,26 +29,27 @@ In name:
 In name:   
  - Panfried Southern Catfish @ *1849*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **beef**  
 In name:   
- - Beef Barbacoa @ *Que Rico*  
- - Beef Taco Meat @ *Que Rico*  
  - Beef Chili @ *Great Greens*  
   
 In description:   
  - Vegan Sloppy Joe @ *1849*  
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **pork**  
 In name:   
   
 In description:   
  - Grilled Ham & Swiss Sandwich @ *Fired Up*  
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **chicken**  
 In name:   
- - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Plant-Based Chicken Nuggets (6) @ *Que Rico*  
+ - Chicken Wings Boneless Plain @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-06-10)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-06-10)  
