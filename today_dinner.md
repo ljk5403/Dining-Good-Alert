@@ -1,6 +1,6 @@
 # 2026-06-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-10 14:36:18  
+Updated at: 2026-06-10 17:01:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-10)  
 **steak**  
 In name:   
@@ -18,10 +18,10 @@ In description:
 In name:   
  - Southern Style Pork Spare Ribs @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
+ - Hawaiian (Pork) Pizza Slice @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
- - Pizza Slice Chicken Sriracha @ *Capital City Pizza*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-06-10)  
@@ -29,34 +29,13 @@ In name:
 In name:   
  - Grilled Sesame Ginger Salmon @ *1849*  
   
-**lamb**  
-In name:   
- - Lamb Vindaloo @ *Global Kitchen*  
-  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
   
-**Pakoras**  
-In name:   
- - Appetizer -  Pakoras Vegetable (Veg) @ *Global Kitchen*  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Lamb Vindaloo @ *Global Kitchen*  
- - Vegetable & Tofu Madras w/Basmati Rice @ *Global Kitchen*  
-  
 **beef**  
 In name:   
- - Beef Barbacoa @ *Que Rico*  
- - Beef Taco Meat @ *Que Rico*  
  - Beef Chili @ *Great Greens*  
-  
-**chicken**  
-In name:   
- - Crispy Chicken Sandwich @ *Fired Up*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-06-10)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-06-10)  
