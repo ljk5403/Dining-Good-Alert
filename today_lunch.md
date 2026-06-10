@@ -1,6 +1,6 @@
 # 2026-06-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-09 18:16:15  
+Updated at: 2026-06-09 22:39:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-09)  
 **portabella**  
 In name:   
@@ -54,11 +54,51 @@ In name:
   
 **chicken**  
 In name:   
+ - Grilled Chicken Sandwich @ *Fired Up*  
  - Taco Chicken @ *Que Rico*  
  - Chicken Dumpling Soup @ *Great Greens*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-06-09)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-06-09)  
+**steak**  
+In name:   
+ - Spicy Steak Fajita @ *Gordon Que Rico*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
+  
+**beef**  
+In name:   
+ - Texas BBQ Sliced Beef Brisket @ *1849*  
+ - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Beef Broccoli Stir Fry w/Teriyaki Sauce @ *Gordon Global Kitchen*  
+ - Plant-Based Beef & Broccoli Stir Fry @ *Gordon Global Kitchen*  
+ - Beef Taco Meat @ *Gordon Que Rico*  
+  
+In description:   
+ - Italian Meat Sauce @ *Gordon Buona Cucina*  
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
+ - Spicy Steak Fajita @ *Gordon Que Rico*  
+  
+**pork**  
+In name:   
+  
+In description:   
+ - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
+  
+**chicken**  
+In name:   
+ - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Giardiniera Chicken @ *Gordon Buona Cucina*  
+ - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
+ - Crispy Chicken Sandwich @ *Gordon Fired Up*  
+ - Diced Chicken @ *Great Greens*  
+ - Chicken Dumpling Soup @ *Great Greens*  
+  
+In description:   
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
+  
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-06-09)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-06-09)  
   
