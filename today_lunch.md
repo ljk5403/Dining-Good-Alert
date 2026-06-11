@@ -1,11 +1,7 @@
 # 2026-06-11 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-11 12:35:18  
+Updated at: 2026-06-11 15:20:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-11)  
-**Chicken Drummies**  
-In name:   
- - Chicken Drummies @ *Fired Up*  
-  
 **steak**  
 In name:   
  - Swiss Steak w/Brown Gravy @ *1849*  
@@ -27,7 +23,7 @@ In name:
 **chicken**  
 In name:   
  - BBQ Chicken & Bacon (Pork) Pizza @ *Capital City Pizza*  
- - Chicken Drummies @ *Fired Up*  
+ - Chicken Biscuit Breakfast Sandwich @ *Fired Up*  
  - Mediterranean Chicken @ *Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
