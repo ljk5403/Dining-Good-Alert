@@ -1,20 +1,17 @@
 # 2026-06-11 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-11 05:22:24  
+Updated at: 2026-06-11 12:35:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-11)  
+**Chicken Drummies**  
+In name:   
+ - Chicken Drummies @ *Fired Up*  
+  
 **steak**  
 In name:   
  - Swiss Steak w/Brown Gravy @ *1849*  
   
-**fish**  
-In name:   
-  
-In description:   
- - Kung Pao Chicken @ *Global Kitchen*  
-  
 **beef**  
 In name:   
- - Barbacoa Beef w/Mango Habanero Sandwich @ *Fired Up*  
  - Beef Mediterranean @ *Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
@@ -30,7 +27,7 @@ In name:
 **chicken**  
 In name:   
  - BBQ Chicken & Bacon (Pork) Pizza @ *Capital City Pizza*  
- - Kung Pao Chicken @ *Global Kitchen*  
+ - Chicken Drummies @ *Fired Up*  
  - Mediterranean Chicken @ *Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
@@ -45,6 +42,10 @@ In description:
 In name:   
  - Swiss Steak w/Brown Gravy @ *1849*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **beef**  
 In name:   
  - Beef Taco Meat @ *Que Rico*  
@@ -52,21 +53,16 @@ In name:
 In description:   
  - Swiss Steak w/Brown Gravy @ *1849*  
  - Pork Bratwurst Sandwich @ *Fired Up*  
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **pork**  
 In name:   
  - Pork Bratwurst Sandwich @ *Fired Up*  
  - Pork Carnita @ *Que Rico*  
   
-In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
-  
 **chicken**  
 In name:   
  - Plant-Based Chicken Taco Filling @ *Que Rico*  
- - Chicken Noodle Soup @ *Great Greens*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Chicken Dumpling Soup @ *Great Greens*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-06-11)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-06-11)  
