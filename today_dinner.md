@@ -1,14 +1,10 @@
 # 2026-06-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-12 16:42:43  
+Updated at: 2026-06-12 18:16:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-12)  
 **Flauta**  
 In name:   
  - Chicken and Cheese Flauta @ *Que Rico*  
-  
-**steak**  
-In name:   
- - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
   
 **Shrimp**  
 In name:   
@@ -32,11 +28,11 @@ In name:
   
 In description:   
  - Burnt Ends @ *1849*  
- - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
  - Diced Chicken Breast @ *Buona Cucina*  
+ - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
  - Chicken and Cheese Flauta @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
