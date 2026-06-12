@@ -1,6 +1,6 @@
 # 2026-06-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-12 14:03:38  
+Updated at: 2026-06-12 16:42:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-12)  
 **Flauta**  
 In name:   
@@ -28,6 +28,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Vindaloo @ *Global Kitchen*  
   
 In description:   
  - Burnt Ends @ *1849*  
@@ -81,7 +82,6 @@ In name:
 In description:   
  - Fired Up Blended Burger @ *Fired Up*  
  - Plant-Based Pepper Steak Stir Fry @ *Global Kitchen*  
- - Vegan Taco Filling @ *Que Rico*  
   
 **chicken**  
 In name:   
