@@ -1,6 +1,6 @@
 # 2026-06-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-13 03:56:51  
+Updated at: 2026-06-13 10:41:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-13)  
 **steak**  
 In name:   
@@ -14,7 +14,6 @@ In name:
   
 In description:   
  - Pepperoni & Mushrooms Pizza @ *Capital City Pizza*  
- - Italian Meatball Sandwich @ *Fired Up*  
  - Plant-Based Pepper Steak Stir Fry @ *Global Kitchen*  
  - Italian Meat Sauce @ *Buona Cucina*  
   
@@ -32,11 +31,11 @@ In name:
   
 In description:   
  - Pepperoni & Mushrooms Pizza @ *Capital City Pizza*  
- - Italian Meatball Sandwich @ *Fired Up*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-06-13)  
 **beef**  
 In name:   
+ - Beef Barbacoa @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -51,7 +50,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Chili @ *Great Greens*  
+ - Chicken Noodle Soup @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-06-13)  
@@ -70,6 +69,7 @@ In name:
 In name:   
  - Beef Gravy @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Beef Barbacoa @ *Gordon Que Rico*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
@@ -89,7 +89,6 @@ In name:
  - Blackened Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
- - Chicken Tinga @ *Gordon Que Rico*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
