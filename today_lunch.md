@@ -1,6 +1,6 @@
 # 2026-06-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-12 18:16:00  
+Updated at: 2026-06-12 22:39:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-12)  
 **Salmon**  
 In name:   
@@ -79,6 +79,47 @@ In description:
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-06-12)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-06-12)  
+**Tandoori Chicken**  
+In name:   
+ - Tandoori Chicken @ *Gordon Global Kitchen*  
+  
+**steak**  
+In name:   
+ - Spicy Steak Fajita @ *Gordon Que Rico*  
+  
+**Shrimp**  
+In name:   
+ - Sauteed Shrimp @ *Gordon Buona Cucina*  
+  
+**Cod**  
+In name:   
+ - Fried Cod Basket @ *1849*  
+  
+**beef**  
+In name:   
+ - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Beef Taco Meat @ *Gordon Que Rico*  
+  
+In description:   
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
+ - Vegan Taco Filling @ *Gordon Que Rico*  
+ - Spicy Steak Fajita @ *Gordon Que Rico*  
+  
+**pork**  
+In name:   
+  
+In description:   
+ - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
+  
+**chicken**  
+In name:   
+ - Chicken Piece Seasoned Baked @ *1849*  
+ - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Tandoori Chicken @ *Gordon Global Kitchen*  
+  
+In description:   
+ - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
+  
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-06-12)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-06-12)  
   
