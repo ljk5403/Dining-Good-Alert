@@ -1,6 +1,6 @@
 # 2026-06-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-13 03:56:55  
+Updated at: 2026-06-13 10:41:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-13)  
 **beef**  
 In name:   
@@ -46,7 +46,7 @@ In description:
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Chicken Chili @ *Great Greens*  
+ - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
  - BYO Bar - Mac & Cheese @ *Global Kitchen*  
