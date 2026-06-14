@@ -1,6 +1,6 @@
 # 2026-06-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-13 16:14:55  
+Updated at: 2026-06-13 18:03:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-13)  
 **beef**  
 In name:   
@@ -63,6 +63,7 @@ In description:
   
 **pork**  
 In name:   
+ - French Market Pork Jambalaya @ *1849*  
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
   
 In description:   
@@ -71,7 +72,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Enchilada Bake @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Chicken Tinga @ *Gordon Que Rico*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
@@ -79,6 +79,7 @@ In name:
  - Lemon Chicken Soup @ *Great Greens*  
   
 In description:   
+ - French Market Pork Jambalaya @ *1849*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
