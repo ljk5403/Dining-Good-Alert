@@ -1,10 +1,9 @@
 # 2026-06-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-14 10:47:44  
+Updated at: 2026-06-14 12:19:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-14)  
 **beef**  
 In name:   
- - Beef French Dip Sandwich @ *Fired Up*  
  - Beef Taco Meat @ *Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
@@ -19,8 +18,6 @@ In name:
   
 **chicken**  
 In name:   
- - Sweet & Sour Chicken @ *Global Kitchen*  
- - Plant Based Sweet & Sour Chicken @ *Global Kitchen*  
  - Chicken Tinga @ *Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
@@ -31,6 +28,17 @@ In description:
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-06-14)  
+**Samosas**  
+In name:   
+ - Samosas @ *Global Kitchen*  
+  
+**curry**  
+In name:   
+  
+In description:   
+ - Tikka Masala Chicken @ *Global Kitchen*  
+ - Sub - Vegetable & Tofu Madras @ *Global Kitchen*  
+  
 **beef**  
 In name:   
  - Beef Taco Meat @ *Que Rico*  
@@ -47,6 +55,7 @@ In description:
 **chicken**  
 In name:   
  - Crispy Chicken Sandwich @ *Fired Up*  
+ - Tikka Masala Chicken @ *Global Kitchen*  
  - Chicken Tinga @ *Que Rico*  
  - Chicken Chili @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
@@ -81,6 +90,7 @@ In name:
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
   
 In description:   
+ - Brown Sugar Glazed Ham @ *1849*  
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
   
 **chicken**  
