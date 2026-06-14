@@ -1,11 +1,7 @@
 # 2026-06-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-14 04:32:50  
+Updated at: 2026-06-14 10:47:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-14)  
-**portabella**  
-In name:   
- - Portabella Mushroom Ravioli Plain @ *Buona Cucina*  
-  
 **beef**  
 In name:   
  - Beef French Dip Sandwich @ *Fired Up*  
@@ -82,6 +78,7 @@ In description:
 **pork**  
 In name:   
  - Boneless Baked Pork Ham @ *1849*  
+ - Italian Pork Sausage @ *Gordon Buona Cucina*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
@@ -89,7 +86,6 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Giardiniera Chicken @ *Gordon Buona Cucina*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  

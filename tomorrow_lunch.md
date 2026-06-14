@@ -1,6 +1,6 @@
 # 2026-06-15 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-14 10:47:47  
+Updated at: 2026-06-14 12:20:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-15)  
 **Tuna**  
 In name:   
@@ -49,16 +49,22 @@ In description:
   
 **pork**  
 In name:   
+ - Italian Pork Sausage @ *Global Kitchen*  
   
 In description:   
+ - Chorizo Sauce @ *Global Kitchen*  
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **chicken**  
 In name:   
  - Buffalo Chicken Wrap @ *Fired Up*  
+ - Plant Based Chicken Strips @ *Global Kitchen*  
  - Chicken Tinga @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
+  
+In description:   
+ - Chorizo Sauce @ *Global Kitchen*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-06-15)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-06-15)  
