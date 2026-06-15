@@ -1,137 +1,108 @@
-# 2026-06-16 lunch  
+# 2026-06-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-14 23:14:02  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-16)  
-**Tandoori Chicken**  
+Updated at: 2026-06-15 07:11:57  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-17)  
+**broccoli rabe**  
 In name:   
- - Tandoori Chicken @ *Global Kitchen*  
-  
-**Samosas**  
-In name:   
- - Samosas @ *Global Kitchen*  
+ - Broccoli Rabe @ *1849*  
   
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
   
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Tofu & Vegetable Tikka Masala @ *Global Kitchen*  
-  
 **beef**  
 In name:   
- - Beef Mediterranean @ *Que Rico*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
-  
-In description:   
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
-  
-**pork**  
-In name:   
- - Cajun Rice w/ Pork & Black Eyed Peas @ *1849*  
-  
-**chicken**  
-In name:   
- - Chicken Creole @ *1849*  
- - Chicken Parmesan Sandwich @ *Fired Up*  
- - Tandoori Chicken @ *Global Kitchen*  
- - Mediterranean Chicken @ *Que Rico*  
- - Plant Based Chicken Strips @ *Buona Cucina*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Diced Chicken @ *Great Greens*  
- - Chicken Dumpling Soup @ *Great Greens*  
-  
-In description:   
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
-  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-06-16)  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
-  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
-**beef**  
-In name:   
+ - Beef Fajita Meat @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
+ - Beef Pasta Tortellini @ *Buona Cucina*  
+ - Beef Chili @ *Great Greens*  
+  
+In description:   
+ - Sliced Kielbasa (Pork) @ *1849*  
+  
+**pork**  
+In name:   
+ - Sliced Kielbasa (Pork) @ *1849*  
+ - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
+ - Italian Pork Sausage @ *Buona Cucina*  
+  
+**chicken**  
+In name:   
+ - Chicken Parmigiana @ *1849*  
+ - Chicken, Bacon, Jalapeno Pizza @ *Capital City Pizza*  
+ - Spicy Lo Mein w/Chicken @ *Global Kitchen*  
+ - Fajita Chicken @ *Que Rico*  
+ - Diced Chicken @ *Great Greens*  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-06-17)  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad @ *Delicious*  
+  
+**beef**  
+In name:   
+ - Beef Barbacoa @ *Que Rico*  
+ - Beef Taco Meat @ *Que Rico*  
+ - Beef Chili @ *Great Greens*  
   
 In description:   
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **pork**  
 In name:   
- - Apple Cider Braised Pork @ *1849*  
- - Imperial Pork Stir Fry @ *Global Kitchen*  
   
 In description:   
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **chicken**  
 In name:   
- - Grilled BBQ Chicken Sandwich @ *Fired Up*  
- - Plant Based Sweet & Sour Chicken @ *Global Kitchen*  
- - Taco Chicken @ *Que Rico*  
- - Plant-Based Chicken Taco Filling @ *Que Rico*  
+ - Chicken Pot Pie w/ Biscuit @ *1849*  
+ - Plant-Based Chicken Nuggets (8) @ *Global Kitchen*  
+ - Chicken Wings Boneless (CN) @ *Global Kitchen*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Dumpling Soup @ *Great Greens*  
   
-In description:   
- - Apple Cider Braised Pork @ *1849*  
-  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-06-16)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-06-16)  
-**steak**  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-06-17)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-06-17)  
+**portabella**  
 In name:   
- - Spicy Steak Fajita @ *Gordon Que Rico*  
+ - Portabella Mushroom Bulgogi Taco @ *Gordon Global Kitchen*  
   
-**Cod**  
+**Bulgogi**  
 In name:   
+ - Beef Bulgogi Taco @ *Gordon Global Kitchen*  
+ - Portabella Mushroom Bulgogi Taco @ *Gordon Global Kitchen*  
   
-In description:   
- - Petite Fish Sandwich @ *Gordon Fired Up*  
-  
-**fish**  
+**Tilapia**  
 In name:   
- - Petite Fish Sandwich @ *Gordon Fired Up*  
- - Vegan Fish Sandwich @ *Gordon Fired Up*  
+ - Baked Tilapia w/ Tomato Tapenade @ *1849*  
   
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Beef Bulgogi Taco @ *Gordon Global Kitchen*  
+ - Beef Barbacoa @ *Gordon Que Rico*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
+ - Italian Meat Sauce @ *Gordon Buona Cucina*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
- - Spicy Steak Fajita @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
- - BBQ Pork Chop @ *1849*  
+ - Italian Pork Sausage @ *Gordon Buona Cucina*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
   
 **chicken**  
 In name:   
- - Plant-Based Chicken Etouffee @ *1849*  
- - Maple Cider Chicken @ *1849*  
+ - Broasted Chicken @ *1849*  
+ - Chicken Gravy @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Giardiniera Chicken @ *Gordon Buona Cucina*  
- - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
- - Sesame Chicken @ *Gordon Global Kitchen*  
- - Plant Based Sesame Chicken (AYCTE) (VN) @ *Gordon Global Kitchen*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-06-16)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-06-16)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-06-17)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-06-17)  
   
