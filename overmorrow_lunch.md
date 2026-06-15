@@ -1,6 +1,6 @@
 # 2026-06-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-15 13:24:40  
+Updated at: 2026-06-15 17:18:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-17)  
 **broccoli rabe**  
 In name:   
