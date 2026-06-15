@@ -1,6 +1,6 @@
 # 2026-06-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-15 07:11:54  
+Updated at: 2026-06-15 13:24:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-16)  
 **Tandoori Chicken**  
 In name:   
@@ -103,6 +103,10 @@ In name:
  - Petite Fish Sandwich @ *Gordon Fired Up*  
  - Vegan Fish Sandwich @ *Gordon Fired Up*  
   
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
@@ -128,6 +132,7 @@ In name:
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Sesame Chicken @ *Gordon Global Kitchen*  
  - Plant Based Sesame Chicken (AYCTE) (VN) @ *Gordon Global Kitchen*  
+ - Chicken Dumpling Soup @ *Great Greens*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  

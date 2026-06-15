@@ -1,6 +1,6 @@
 # 2026-06-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-15 07:11:55  
+Updated at: 2026-06-15 13:24:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-16)  
 **portabella**  
 In name:   
@@ -105,10 +105,6 @@ In name:
 In name:   
  - Island Spiced Mahi Mahi @ *1849*  
   
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
@@ -130,7 +126,6 @@ In name:
  - Chicken Creole @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Giardiniera Chicken @ *Gordon Buona Cucina*  
- - Chicken Dumpling Soup @ *Great Greens*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  

@@ -1,6 +1,6 @@
 # 2026-06-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-15 07:11:57  
+Updated at: 2026-06-15 13:24:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-17)  
 **broccoli rabe**  
 In name:   
@@ -82,6 +82,7 @@ In name:
  - Beef Bulgogi Taco @ *Gordon Global Kitchen*  
  - Beef Barbacoa @ *Gordon Que Rico*  
  - Beef Taco Meat @ *Gordon Que Rico*  
+ - Beef Chili @ *Great Greens*  
   
 In description:   
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
@@ -99,6 +100,7 @@ In name:
  - Broasted Chicken @ *1849*  
  - Chicken Gravy @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
