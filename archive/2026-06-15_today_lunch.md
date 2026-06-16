@@ -1,15 +1,7 @@
 # 2026-06-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-16 06:08:45  
+Updated at: 2026-06-16 13:26:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-16)  
-**Tandoori Chicken**  
-In name:   
- - Tandoori Chicken @ *Global Kitchen*  
-  
-**Samosas**  
-In name:   
- - Samosas @ *Global Kitchen*  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
@@ -17,12 +9,6 @@ In name:
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Tofu & Vegetable Tikka Masala @ *Global Kitchen*  
   
 **beef**  
 In name:   
@@ -40,7 +26,6 @@ In name:
 In name:   
  - Chicken Creole @ *1849*  
  - Chicken Parmesan Sandwich @ *Fired Up*  
- - Tandoori Chicken @ *Global Kitchen*  
  - Mediterranean Chicken @ *Que Rico*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
@@ -51,10 +36,6 @@ In description:
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-06-16)  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
-  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -63,16 +44,10 @@ In name:
 In name:   
  - Beef Taco Meat @ *Que Rico*  
   
-In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
-  
 **pork**  
 In name:   
  - Apple Cider Braised Pork @ *1849*  
  - Imperial Pork Stir Fry @ *Global Kitchen*  
-  
-In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -82,6 +57,7 @@ In name:
  - Plant-Based Chicken Taco Filling @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
  - Apple Cider Braised Pork @ *1849*  
@@ -107,6 +83,10 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**BBQ Pork Sandwich**  
+In name:   
+ - Carolina BBQ Pork Sandwich @ *Gordon Eggcetera*  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
@@ -118,7 +98,7 @@ In description:
   
 **pork**  
 In name:   
- - BBQ Pork Chop @ *1849*  
+ - Carolina BBQ Pork Sandwich @ *Gordon Eggcetera*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
@@ -127,9 +107,8 @@ In description:
 In name:   
  - Plant-Based Chicken Etouffee @ *1849*  
  - Maple Cider Chicken @ *1849*  
+ - Diced Chicken @ *Gordon Buona Cucina*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Giardiniera Chicken @ *Gordon Buona Cucina*  
- - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Sesame Chicken @ *Gordon Global Kitchen*  
  - Plant Based Sesame Chicken (AYCTE) (VN) @ *Gordon Global Kitchen*  
  - Chicken Dumpling Soup @ *Great Greens*  

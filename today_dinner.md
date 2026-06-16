@@ -1,6 +1,6 @@
 # 2026-06-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-16 13:26:20  
+Updated at: 2026-06-16 17:10:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-16)  
 **portabella**  
 In name:   
@@ -8,9 +8,11 @@ In name:
 In description:   
  - Pesto Mushroom Sandwich @ *Fired Up*  
   
-**Salmon**  
+**steak**  
 In name:   
- - Ginger Glazed Salmon @ *1849*  
+  
+In description:   
+ - Montreal Chicken @ *1849*  
   
 **Tuna**  
 In name:   
@@ -22,11 +24,10 @@ In name:
   
 **curry**  
 In name:   
- - Curry Mango - Pork @ *1849*  
  - Squash Curry @ *Global Kitchen*  
   
 In description:   
- - Chicken Korma @ *Global Kitchen*  
+ - Chicken Tikka Masala @ *Global Kitchen*  
   
 **beef**  
 In name:   
@@ -39,17 +40,18 @@ In description:
   
 **pork**  
 In name:   
- - Curry Mango - Pork @ *1849*  
+ - Southern Style Pork Spare Ribs @ *1849*  
   
 In description:   
  - Cocktail Wieners & BBQ Sauce @ *Fired Up*  
   
 **chicken**  
 In name:   
+ - Montreal Chicken @ *1849*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Crispy Chicken Sandwich @ *Fired Up*  
- - Chicken Korma @ *Global Kitchen*  
+ - Chicken Tikka Masala @ *Global Kitchen*  
  - Mediterranean Chicken @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
@@ -110,7 +112,6 @@ In description:
   
 **pork**  
 In name:   
- - Edamame Fried Rice w/ Pork Potsticker @ *Gordon Global Kitchen*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
@@ -119,7 +120,7 @@ In description:
 In name:   
  - Chicken Creole @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Giardiniera Chicken @ *Gordon Buona Cucina*  
+ - Diced Chicken @ *Gordon Buona Cucina*  
  - Chicken Dumpling Soup @ *Great Greens*  
   
 In description:   
