@@ -1,32 +1,23 @@
 # 2026-06-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-15 13:24:37  
+Updated at: 2026-06-15 17:17:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-15)  
-**steak**  
+**Salmon**  
 In name:   
-  
-In description:   
- - Montreal Chicken @ *1849*  
-  
-**Shrimp**  
-In name:   
- - Five Treasure Shrimp Lo Mein @ *Global Kitchen*  
+ - Ginger Glazed Salmon @ *1849*  
   
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
   
-**Chicken Tamale with Oaxaca**  
-In name:   
- - Chicken Tamale with Oaxaca @ *Que Rico*  
-  
 **curry**  
 In name:   
  - Thai Veggie Meatballs w/ Green Curry @ *1849*  
+ - Coconut Tofu w/Red Curry Sauce @ *Global Kitchen*  
   
 **beef**  
 In name:   
- - Big Texan Beef Sandwich @ *Fired Up*  
+ - Lomo Saltado w/ Beef @ *Global Kitchen*  
   
 In description:   
  - Sausage (Pork), Potatoes, & Peppers @ *1849*  
@@ -37,18 +28,15 @@ In description:
 In name:   
  - Sausage (Pork), Potatoes, & Peppers @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
- - Pork Tamale with Oaxaca @ *Que Rico*  
+ - Italian Sausage (Pork) w/ Pepper & Onion @ *Fired Up*  
   
 **chicken**  
 In name:   
- - Montreal Chicken @ *1849*  
- - Chicken Tamale with Oaxaca @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 In description:   
  - Pepperoni & Mushrooms Pizza @ *Capital City Pizza*  
- - Pork Tamale with Oaxaca @ *Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-06-15)  
 **broccoli rabe**  
