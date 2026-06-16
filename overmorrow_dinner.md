@@ -1,6 +1,6 @@
 # 2026-06-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-16 06:08:54  
+Updated at: 2026-06-16 13:26:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-18)  
 **portabella**  
 In name:   
@@ -101,6 +101,10 @@ In name:
 In name:   
  - Grilled Flank Steak @ *1849*  
   
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
+  
 **curry**  
 In name:   
   
@@ -130,6 +134,7 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Giardiniera Chicken @ *Gordon Buona Cucina*  
  - Tikka Masala Chicken @ *Gordon Global Kitchen*  
+ - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  

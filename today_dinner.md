@@ -1,6 +1,6 @@
 # 2026-06-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-16 06:08:46  
+Updated at: 2026-06-16 13:26:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-16)  
 **portabella**  
 In name:   
@@ -63,10 +63,6 @@ In description:
 In name:   
  - Smoked Chicken Drumstick @ *1849*  
   
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
-  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -78,13 +74,6 @@ In name:
   
 In description:   
  - Bacon Bleu Blended Burger @ *Fired Up*  
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
-  
-**pork**  
-In name:   
-  
-In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -92,6 +81,7 @@ In name:
  - Chicken Gravy @ *1849*  
  - Taco Chicken @ *Que Rico*  
  - Plant-Based Chicken Taco Filling @ *Que Rico*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
   
@@ -104,6 +94,10 @@ In name:
 **mahi mahi**  
 In name:   
  - Island Spiced Mahi Mahi @ *1849*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
   
 **beef**  
 In name:   
@@ -126,6 +120,7 @@ In name:
  - Chicken Creole @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Giardiniera Chicken @ *Gordon Buona Cucina*  
+ - Chicken Dumpling Soup @ *Great Greens*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
