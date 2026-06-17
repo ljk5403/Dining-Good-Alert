@@ -1,6 +1,6 @@
 # 2026-06-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-17 14:24:32  
+Updated at: 2026-06-17 16:59:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-17)  
 **FiIipino Pork Spring Roll**  
 In name:   
@@ -16,7 +16,7 @@ In name:
   
 **beef**  
 In name:   
- - Beef Pasta Tortellini @ *Buona Cucina*  
+ - Beef Taco Meat @ *Que Rico*  
  - Beef Chili @ *Great Greens*  
   
 **pork**  
@@ -26,15 +26,12 @@ In name:
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
  - Filipino Pork Sausage @ *Global Kitchen*  
  - FiIipino Pork Spring Roll @ *Global Kitchen*  
- - Ancho Pork Rice Bowl @ *Que Rico*  
   
 **chicken**  
 In name:   
  - Chicken Pot Pie w/Biscuit @ *1849*  
+ - Chicken Tinga @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
-  
-In description:   
- - Ancho Pork Rice Bowl @ *Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-06-17)  
 **portabella**  
@@ -63,20 +60,9 @@ In name:
 In name:   
  - Chicken Drummies @ *1849*  
   
-**fish**  
-In name:   
-  
-In description:   
- - Beef Masaman Thai Curry @ *Gordon Global Kitchen*  
-  
-**curry**  
-In name:   
- - Beef Masaman Thai Curry @ *Gordon Global Kitchen*  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Masaman Thai Curry @ *Gordon Global Kitchen*  
  - Beef Barbacoa @ *Gordon Que Rico*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef Chili @ *Great Greens*  
