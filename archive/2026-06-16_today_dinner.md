@@ -1,21 +1,10 @@
 # 2026-06-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-17 11:53:29  
+Updated at: 2026-06-17 14:24:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-17)  
-**portabella**  
-In name:   
-  
-In description:   
- - Vegetable Cheesesteak Sandwich @ *Fired Up*  
-  
 **FiIipino Pork Spring Roll**  
 In name:   
  - FiIipino Pork Spring Roll @ *Global Kitchen*  
-  
-**steak**  
-In name:   
- - Philly Cheesesteak Sandwich @ *Fired Up*  
- - Vegetable Cheesesteak Sandwich @ *Fired Up*  
   
 **Tuna**  
 In name:   
@@ -29,9 +18,6 @@ In name:
 In name:   
  - Beef Pasta Tortellini @ *Buona Cucina*  
  - Beef Chili @ *Great Greens*  
-  
-In description:   
- - Philly Cheesesteak Sandwich @ *Fired Up*  
   
 **pork**  
 In name:   
