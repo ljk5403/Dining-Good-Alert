@@ -1,6 +1,6 @@
 # 2026-06-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-17 11:53:29  
+Updated at: 2026-06-17 05:53:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-17)  
 **portabella**  
 In name:   
@@ -57,6 +57,10 @@ In name:
 In description:   
  - Vegan French Dip Sandwich @ *Fired Up*  
   
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad @ *Delicious*  
+  
 **beef**  
 In name:   
  - Beef Ravioli w/Tomato Sauce @ *1849*  
@@ -64,11 +68,19 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
  - Beef Chili @ *Great Greens*  
   
+In description:   
+ - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
+  
+**pork**  
+In name:   
+  
+In description:   
+ - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
+  
 **chicken**  
 In name:   
  - Crispy Chicken Sandwich @ *Fired Up*  
  - Chicken Wings Boneless (CN) @ *Global Kitchen*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-06-17)  
