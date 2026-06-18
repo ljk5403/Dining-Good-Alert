@@ -1,17 +1,15 @@
 # 2026-06-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-18 14:28:22  
+Updated at: 2026-06-18 17:06:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-18)  
 **portabella**  
 In name:   
-  
-In description:   
- - Mushroom Bulgogi Bao Bun @ *Fired Up*  
+ - Portabella Mushroom Bulgogi Tacos @ *Fired Up*  
   
 **Bulgogi**  
 In name:   
- - Beef Bulgogi Bao Bun @ *Fired Up*  
- - Mushroom Bulgogi Bao Bun @ *Fired Up*  
+ - Beef Bulgogi Taco @ *Fired Up*  
+ - Portabella Mushroom Bulgogi Tacos @ *Fired Up*  
   
 **Shrimp**  
 In name:   
@@ -27,26 +25,19 @@ In description:
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
   
-**curry**  
-In name:   
- - VEGAN Thai Chick'n w/ Green Curry (VN) @ *Global Kitchen*  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Beef Bulgogi Bao Bun @ *Fired Up*  
+ - Beef Bulgogi Taco @ *Fired Up*  
  - Beef Mediterranean @ *Que Rico*  
-  
-In description:   
- - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
 **pork**  
 In name:   
- - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
  - Thai BBQ Pork Ribs @ *Global Kitchen*  
   
 In description:   
  - Chorizo Sauce @ *Buona Cucina*  
+ - Pizza Slice Sausage @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
@@ -59,7 +50,6 @@ In name:
   
 In description:   
  - Chorizo Sauce @ *Buona Cucina*  
- - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-06-18)  
 **Poke Bar**  
@@ -86,13 +76,12 @@ In name:
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-06-18)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-06-18)  
-**corn bake**  
-In name:   
- - Sweet Corn Bake (Veg) @ *1849*  
-  
 **steak**  
 In name:   
  - Grilled Flank Steak @ *1849*  
+  
+In description:   
+ - Montreal Chicken @ *1849*  
   
 **Tuna**  
 In name:   
@@ -124,6 +113,7 @@ In description:
 **chicken**  
 In name:   
  - Cajun Chicken Pasta @ *1849*  
+ - Montreal Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Giardiniera Chicken @ *Gordon Buona Cucina*  
  - Tikka Masala Chicken @ *Gordon Global Kitchen*  
