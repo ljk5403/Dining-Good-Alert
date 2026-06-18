@@ -1,6 +1,6 @@
 # 2026-06-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-17 16:59:44  
+Updated at: 2026-06-17 18:45:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-17)  
 **FiIipino Pork Spring Roll**  
 In name:   
@@ -30,6 +30,7 @@ In name:
 **chicken**  
 In name:   
  - Chicken Pot Pie w/Biscuit @ *1849*  
+ - Plant Based Chicken Strips @ *Buona Cucina*  
  - Chicken Tinga @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
   
