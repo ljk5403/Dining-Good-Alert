@@ -1,6 +1,6 @@
 # 2026-06-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-18 05:19:22  
+Updated at: 2026-06-18 11:55:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-18)  
 **Tuna**  
 In name:   
@@ -51,10 +51,6 @@ In description:
 In name:   
  - Grilled Flank Steak @ *1849*  
   
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
-  
 **beef**  
 In name:   
  - Beef Taco Meat @ *Que Rico*  
@@ -62,7 +58,6 @@ In name:
 In description:   
  - Grilled Flank Steak @ *1849*  
  - Grilled Cuban Sandwich @ *Fired Up*  
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **pork**  
 In name:   
@@ -70,16 +65,25 @@ In name:
   
 In description:   
  - Grilled Cuban Sandwich @ *Fired Up*  
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **chicken**  
 In name:   
  - Italian Chicken @ *Global Kitchen*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-06-18)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-06-18)  
+**portabella**  
+In name:   
+ - Bulgogi Portabella Mushrooms @ *Gordon Global Kitchen*  
+  
+**Bulgogi**  
+In name:   
+ - Bulgogi Beef @ *Gordon Global Kitchen*  
+ - Bulgogi Portabella Mushrooms @ *Gordon Global Kitchen*  
+  
 **steak**  
 In name:   
   
@@ -90,19 +94,18 @@ In description:
 In name:   
  - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
   
-**curry**  
-In name:   
- - Vegan Curry Stew @ *Gordon Global Kitchen*  
-  
 **beef**  
 In name:   
  - Beef Goulash w/Egg Noodles @ *1849*  
+ - Italian Beef Sandwich @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Bulgogi Beef @ *Gordon Global Kitchen*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Grilled Blended Burger w/ Cheese @ *Gordon Fired Up*  
+ - Vegan Taco Filling @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
@@ -115,9 +118,8 @@ In description:
 In name:   
  - Montreal Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Giardiniera Chicken @ *Gordon Buona Cucina*  
+ - Diced Chicken @ *Gordon Buona Cucina*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
- - Jamaican Jerk Chicken @ *Gordon Global Kitchen*  
  - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
