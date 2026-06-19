@@ -1,11 +1,7 @@
 # 2026-06-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-19 16:09:48  
+Updated at: 2026-06-19 17:56:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-19)  
-**Cod**  
-In name:   
- - Cod w/ Roasted Fruit Salsa @ *1849*  
-  
 **clam**  
 In name:   
  - Clam Chowder @ *Great Greens*  
@@ -13,6 +9,10 @@ In name:
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
+  
+**Filipino Pork Sausage**  
+In name:   
+ - Filipino Pork Sausage @ *1849*  
   
 **beef**  
 In name:   
@@ -23,6 +23,7 @@ In description:
   
 **pork**  
 In name:   
+ - Filipino Pork Sausage @ *1849*  
  - Stir Fry Vietnamese Pork w/rice (CN) @ *Global Kitchen*  
   
 **chicken**  
@@ -112,7 +113,7 @@ In description:
   
 **chicken**  
 In name:   
- - Brazilian Chicken w/ Salsa Vinaigrette @ *1849*  
+ - Brazilian Chicken w/ Salsa Vinaigrette @ *Gordon Buona Cucina*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
   
 In description:   
