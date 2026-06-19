@@ -1,6 +1,6 @@
 # 2026-06-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-19 05:24:25  
+Updated at: 2026-06-19 11:30:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-19)  
 **Salmon**  
 In name:   
@@ -22,10 +22,6 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**curry**  
-In name:   
- - Mixed Vegetable Curry @ *Global Kitchen*  
-  
 **beef**  
 In name:   
  - Beef Taco Meat @ *Que Rico*  
@@ -42,7 +38,6 @@ In name:
   
 **chicken**  
 In name:   
- - Butter Chicken @ *Global Kitchen*  
  - Fajita Chicken @ *Que Rico*  
  - Diced Chicken Breast @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
@@ -79,13 +74,6 @@ In name:
   
 In description:   
  - Vegan Taco Filling @ *Que Rico*  
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
-  
-**pork**  
-In name:   
-  
-In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **chicken**  
 In name:   

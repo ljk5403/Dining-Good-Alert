@@ -1,98 +1,118 @@
-# 2026-06-18 dinner  
+# 2026-06-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-18 19:25:40  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-18)  
-**portabella**  
+Updated at: 2026-06-19 05:24:26  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-19)  
+**Cod**  
 In name:   
- - Portabella Mushroom Bulgogi Tacos @ *Fired Up*  
+ - Cod w/ Roasted Fruit Salsa @ *1849*  
   
-**Bulgogi**  
+**clam**  
 In name:   
- - Beef Bulgogi Taco @ *Fired Up*  
- - Portabella Mushroom Bulgogi Tacos @ *Fired Up*  
+ - Clam Chowder @ *Great Greens*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
+  
+**beef**  
+In name:   
+ - Sliced BBQ Beef Brisket Sandwich @ *Fired Up*  
+ - Beef Broccoli Stir Fry w/Teriyaki Sauce @ *Global Kitchen*  
+  
+In description:   
+ - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
+  
+**chicken**  
+In name:   
+ - Diced Chicken Breast @ *Buona Cucina*  
+ - Chicken Mole w/ Rice @ *Que Rico*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Diced Chicken @ *Great Greens*  
+  
+In description:   
+ - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-06-19)  
+**steak**  
+In name:   
+ - Grilled Steak Hero @ *Fired Up*  
   
 **Shrimp**  
 In name:   
- - Blackened Shrimp @ *1849*  
+ - Shrimp Curry @ *1849*  
+ - Sauteed Shrimp @ *Que Rico*  
+  
+**clam**  
+In name:   
+ - Clam Chowder @ *Great Greens*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
+  
+**curry**  
+In name:   
+ - Shrimp Curry @ *1849*  
+  
+**beef**  
+In name:   
+ - Mediterranean Beef @ *Global Kitchen*  
+ - Beef Taco Meat @ *Que Rico*  
+  
+In description:   
+ - Grilled Steak Hero @ *Fired Up*  
+ - Vegan Taco Filling @ *Que Rico*  
+ - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
+  
+**pork**  
+In name:   
+  
+In description:   
+ - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
+  
+**chicken**  
+In name:   
+ - Mediterranean Chicken @ *Global Kitchen*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Diced Chicken @ *Great Greens*  
+  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-06-19)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-06-19)  
+**drumstick**  
+In name:   
+ - Chicken Drumstick Teriyaki Glazed @ *1849*  
+  
+**Shrimp**  
+In name:   
+ - Sauteed Shrimp @ *Gordon Buona Cucina*  
+ - Shrimp Curry @ *Gordon Global Kitchen*  
+ - Chipotle Shrimp @ *Gordon Que Rico*  
+  
+**Cod**  
+In name:   
+ - Battered Cod @ *1849*  
+ - Vegan Cod Battered (2 pc) @ *1849*  
+  
+**clam**  
+In name:   
+ - Clam Chowder @ *Great Greens*  
   
 **fish**  
 In name:   
   
 In description:   
- - Thai BBQ Pork Ribs @ *Global Kitchen*  
+ - Vegan Cod Battered (2 pc) @ *1849*  
   
-**Tuna**  
+**watermelon**  
 In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
-  
-**beef**  
-In name:   
- - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Beef Bulgogi Taco @ *Fired Up*  
- - Beef Mediterranean @ *Que Rico*  
-  
-**pork**  
-In name:   
- - Thai BBQ Pork Ribs @ *Global Kitchen*  
-  
-In description:   
- - Chorizo Sauce @ *Buona Cucina*  
- - Pizza Slice Sausage @ *Capital City Pizza*  
-  
-**chicken**  
-In name:   
- - Chicken Spaghetti @ *1849*  
- - Plant Based Chicken Strips @ *Buona Cucina*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Mediterranean Chicken @ *Que Rico*  
- - Diced Chicken @ *Great Greens*  
- - Chicken Noodle Soup @ *Great Greens*  
-  
-In description:   
- - Chorizo Sauce @ *Buona Cucina*  
-  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-06-18)  
-**Poke Bar**  
-In name:   
- - Build Your Own Poke Bar @ *Global Kitchen*  
-  
-**beef**  
-In name:   
- - Beef Taco Meat @ *Que Rico*  
-  
-In description:   
- - Grilled Blended Burger w/ Cheese @ *Fired Up*  
-  
-**pork**  
-In name:   
- - Pork Loin Spicy Greenbush @ *1849*  
- - Pork Carnita @ *Que Rico*  
-  
-**chicken**  
-In name:   
- - Lemon Pepper Chicken Salad @ *Delicious*  
- - Diced Chicken @ *Great Greens*  
- - Chicken Noodle Soup @ *Great Greens*  
-  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-06-18)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-06-18)  
-**steak**  
-In name:   
- - Grilled Flank Steak @ *1849*  
-  
-In description:   
- - Montreal Chicken @ *1849*  
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
+ - Watermelon Slices @ *Great Greens*  
   
 **curry**  
 In name:   
+ - Shrimp Curry @ *Gordon Global Kitchen*  
   
 In description:   
- - Tikka Masala Chicken @ *Gordon Global Kitchen*  
- - Tofu & Vegetable Tikka Masala @ *Gordon Global Kitchen*  
+ - Navarathan Korma (AYCTE) @ *Gordon Global Kitchen*  
   
 **beef**  
 In name:   
@@ -100,28 +120,23 @@ In name:
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
- - Grilled Flank Steak @ *1849*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
+ - Vegan Taco Filling @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
- - Pork Carnita @ *Gordon Que Rico*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
   
 **chicken**  
 In name:   
- - Cajun Chicken Pasta @ *1849*  
- - Montreal Chicken @ *1849*  
+ - Chicken Drumstick Teriyaki Glazed @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Giardiniera Chicken @ *Gordon Buona Cucina*  
- - Tikka Masala Chicken @ *Gordon Global Kitchen*  
- - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-06-18)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-06-18)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-06-19)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-06-19)  
   
