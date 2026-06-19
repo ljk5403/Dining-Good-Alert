@@ -1,10 +1,10 @@
 # 2026-06-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-19 11:30:57  
+Updated at: 2026-06-19 13:53:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-19)  
-**Salmon**  
+**Bulgogi**  
 In name:   
- - Grilled Chipotle Salmon @ *1849*  
+ - Bulgogi Beef @ *1849*  
   
 **catfish**  
 In name:   
@@ -24,6 +24,7 @@ In name:
   
 **beef**  
 In name:   
+ - Bulgogi Beef @ *1849*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
