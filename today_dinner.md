@@ -1,6 +1,6 @@
 # 2026-06-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-19 13:53:14  
+Updated at: 2026-06-19 16:09:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-19)  
 **Cod**  
 In name:   
@@ -17,10 +17,13 @@ In name:
 **beef**  
 In name:   
  - Sliced BBQ Beef Brisket Sandwich @ *Fired Up*  
- - Beef Broccoli Stir Fry w/Teriyaki Sauce @ *Global Kitchen*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
+  
+**pork**  
+In name:   
+ - Stir Fry Vietnamese Pork w/rice (CN) @ *Global Kitchen*  
   
 **chicken**  
 In name:   
@@ -74,7 +77,6 @@ In name:
 **Shrimp**  
 In name:   
  - Sauteed Shrimp @ *Gordon Buona Cucina*  
- - Chipotle Shrimp @ *Gordon Que Rico*  
   
 **Cod**  
 In name:   
@@ -98,11 +100,9 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
- - Vegan Taco Filling @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
