@@ -1,11 +1,7 @@
 # 2026-06-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-20 14:25:00  
+Updated at: 2026-06-20 16:17:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-20)  
-**portabella**  
-In name:   
- - Caribbean Portabella w/Rice @ *1849*  
-  
 **Chicken Drummies**  
 In name:   
  - Chicken Drummies @ *Fired Up*  
@@ -65,14 +61,14 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Pork Bratwurst Sandwich @ *Fired Up*  
+ - Grilled Cuban Sandwich @ *Fired Up*  
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **pork**  
 In name:   
- - Pork Bratwurst Sandwich @ *Fired Up*  
   
 In description:   
+ - Grilled Cuban Sandwich @ *Fired Up*  
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **chicken**  
