@@ -1,6 +1,6 @@
 # 2026-06-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-20 03:54:24  
+Updated at: 2026-06-20 10:44:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-20)  
 **portabella**  
 In name:   
@@ -55,6 +55,10 @@ In name:
   
 In description:   
  - Kung Pao Chicken @ *Global Kitchen*  
+  
+**Tuna**  
+In name:   
+ - Poke Tuna @ *Great Greens*  
   
 **beef**  
 In name:   

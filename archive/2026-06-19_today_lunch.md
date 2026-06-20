@@ -1,6 +1,6 @@
 # 2026-06-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-20 03:54:22  
+Updated at: 2026-06-20 10:44:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-20)  
 **Shrimp**  
 In name:   
@@ -41,24 +41,26 @@ In name:
  - Beef Bulgogi Bao Bun @ *Global Kitchen*  
  - Mushroom Bulgogi Bao Bun @ *Global Kitchen*  
   
-**steak**  
+**Tuna**  
 In name:   
- - Philly Cheesesteak Sandwich @ *Fired Up*  
+ - Poke Tuna @ *Great Greens*  
   
 **beef**  
 In name:   
  - Homemade Beef Lasagna @ *1849*  
  - Beef Bulgogi Bao Bun @ *Global Kitchen*  
+ - Beef Barbacoa @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Philly Cheesesteak Sandwich @ *Fired Up*  
+ - Grilled Cuban Sandwich @ *Fired Up*  
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **pork**  
 In name:   
   
 In description:   
+ - Grilled Cuban Sandwich @ *Fired Up*  
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **chicken**  
@@ -75,9 +77,14 @@ In name:
 In name:   
  - Chicken Drumstick Gochujang Glazed @ *1849*  
   
+**curry**  
+In name:   
+ - Beef Bombay Curry w/Basmati Rice @ *1849*  
+  
 **beef**  
 In name:   
- - Beef Tri Tip Carved w/ Chimichurri @ *1849*  
+ - Beef Bombay Curry w/Basmati Rice @ *1849*  
+ - Beef Meatballs @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
@@ -102,6 +109,7 @@ In name:
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
   
 In description:   
+ - Beef Meatballs @ *1849*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
