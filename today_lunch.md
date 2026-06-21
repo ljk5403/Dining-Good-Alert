@@ -1,6 +1,6 @@
 # 2026-06-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-21 14:39:25  
+Updated at: 2026-06-21 16:12:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-21)  
 **broccoli rabe**  
 In name:   
@@ -39,10 +39,6 @@ In name:
 In name:   
  - Smoked Chicken Drumstick @ *1849*  
   
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
-  
 **fish**  
 In name:   
   
@@ -71,6 +67,7 @@ In name:
  - Smoked Chicken Drumstick @ *1849*  
  - Italian Chicken @ *Global Kitchen*  
  - Diced Chicken @ *Great Greens*  
+ - Lemon Chicken Rice Soup @ *Great Greens*  
  - Chicken Salad @ *Delicious*  
   
 In description:   
