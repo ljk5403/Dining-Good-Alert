@@ -1,6 +1,6 @@
 # 2026-06-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-21 14:39:26  
+Updated at: 2026-06-21 16:12:34  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-21)  
 **portabella**  
 In name:   
@@ -39,10 +39,6 @@ In name:
 In name:   
  - Tuscan Butter Salmon @ *1849*  
   
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
-  
 **fish**  
 In name:   
   
@@ -78,6 +74,7 @@ In description:
 In name:   
  - Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
+ - Lemon Chicken Rice Soup @ *Great Greens*  
   
 In description:   
  - Spicy Italian Meatball Sandwich @ *Fired Up*  
