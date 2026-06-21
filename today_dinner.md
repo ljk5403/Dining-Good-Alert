@@ -1,11 +1,17 @@
 # 2026-06-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-21 12:26:35  
+Updated at: 2026-06-21 14:39:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-21)  
+**portabella**  
+In name:   
+  
+In description:   
+ - Vegetable Cheesesteak Sandwich @ *Fired Up*  
+  
 **steak**  
 In name:   
  - Philly Cheesesteak Sandwich @ *Fired Up*  
- - Tempeh Philly Cheesesteak Sandwich @ *Fired Up*  
+ - Vegetable Cheesesteak Sandwich @ *Fired Up*  
   
 **beef**  
 In name:   
