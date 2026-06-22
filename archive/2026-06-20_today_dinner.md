@@ -1,6 +1,6 @@
 # 2026-06-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-21 16:12:34  
+Updated at: 2026-06-21 18:11:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-21)  
 **portabella**  
 In name:   
@@ -102,7 +102,7 @@ In description:
 In name:   
  - Chicken Pot Pie w/Biscuit @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Giardiniera Chicken @ *Gordon Buona Cucina*  
+ - Diced Chicken @ *Gordon Buona Cucina*  
  - Chicken Chili @ *Great Greens*  
   
 In description:   
