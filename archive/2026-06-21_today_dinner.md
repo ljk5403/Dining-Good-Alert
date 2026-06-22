@@ -1,11 +1,7 @@
 # 2026-06-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-22 06:52:19  
+Updated at: 2026-06-22 13:11:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-22)  
-**drumstick**  
-In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
-  
 **fish**  
 In name:   
   
@@ -22,8 +18,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Ravioli Plain @ *Buona Cucina*  
- - Beef Carne Guisada @ *Que Rico*  
   
 In description:   
  - Pizza Slice - Bacon Cheeseburger @ *Capital City Pizza*  
@@ -31,13 +25,11 @@ In description:
 **pork**  
 In name:   
  - Cajun Rice w/ Pork & Black Eyed Peas @ *1849*  
+ - Pork Adobo @ *1849*  
  - BBQ Pork Sandwich @ *Fired Up*  
   
 **chicken**  
 In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
- - Diced Chicken Breast @ *Buona Cucina*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
   
 In description:   
  - Tom Kha Gai Soup @ *Global Kitchen*  
@@ -51,7 +43,7 @@ In description:
   
 **Tuna**  
 In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
+ - Tuna Salad @ *Delicious*  
   
 **curry**  
 In name:   
@@ -66,14 +58,10 @@ In name:
 In description:   
  - Build Your Own Maki Mono Bar @ *Global Kitchen*  
  - Vegan Taco Filling @ *Que Rico*  
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **pork**  
 In name:   
  - Pork Adobo @ *1849*  
-  
-In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **chicken**  
 In name:   
