@@ -1,6 +1,6 @@
 # 2026-06-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-22 06:52:16  
+Updated at: 2026-06-22 13:11:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-22)  
 **Tuna**  
 In name:   
@@ -14,19 +14,17 @@ In name:
   
 In description:   
  - Pizza Slice - Bacon Cheeseburger @ *Capital City Pizza*  
- - Grilled Blended Burger w/ Cheese @ *Fired Up*  
   
 **pork**  
 In name:   
- - Imperial Pork Stir Fry @ *Global Kitchen*  
  - Pork Carnita @ *Que Rico*  
   
 **chicken**  
 In name:   
  - Popcorn Chicken @ *1849*  
+ - Crispy Chicken Sandwich @ *Fired Up*  
  - Chicken Tinga @ *Que Rico*  
  - Diced Chicken Breast @ *Buona Cucina*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-06-22)  
 **broccoli rabe**  
@@ -37,7 +35,7 @@ In description:
   
 **Tuna**  
 In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
+ - Tuna Salad @ *Delicious*  
   
 **beef**  
 In name:   
@@ -46,7 +44,6 @@ In name:
   
 In description:   
  - Vegan Taco Filling @ *Que Rico*  
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **pork**  
 In name:   
@@ -54,7 +51,6 @@ In name:
   
 In description:   
  - Andouille Sausage @ *Global Kitchen*  
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -67,23 +63,17 @@ In name:
 In name:   
  - Plant-Based Pepper Steak Stir Fry @ *1849*  
   
-**Salmon**  
+**haddock**  
 In name:   
- - Baked Salmon with Mustard Sauce @ *1849*  
+ - Baked Haddock w/Butter & Lemon @ *1849*  
   
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
   
-**curry**  
-In name:   
-  
-In description:   
- - Tikka Masala Chicken @ *Gordon Global Kitchen*  
-  
 **beef**  
 In name:   
- - Beef Stew @ *1849*  
+ - Beef Stew w/ Buttermilk Biscuit @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
@@ -104,7 +94,6 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Tikka Masala Chicken @ *Gordon Global Kitchen*  
  - Chicken Tinga @ *Gordon Que Rico*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
