@@ -1,6 +1,6 @@
 # 2026-06-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-23 14:08:03  
+Updated at: 2026-06-23 16:42:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-23)  
 **Samosas**  
 In name:   
@@ -16,6 +16,7 @@ In name:
   
 **beef**  
 In name:   
+ - Texas BBQ Sliced Beef Brisket @ *1849*  
  - Beef Street Taco @ *Fired Up*  
  - Plant-Based Beef Curry Squash @ *Global Kitchen*  
  - Beef Vindaloo @ *Global Kitchen*  
@@ -64,19 +65,9 @@ In name:
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-06-23)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-06-23)  
-**steak**  
-In name:   
- - Spicy Steak Fajita @ *Gordon Que Rico*  
-  
 **Salmon**  
 In name:   
- - Hoisin BBQ Glazed Salmon @ *1849*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Hoisin BBQ Glazed Salmon @ *1849*  
+ - Baked Salmon with Mustard Sauce @ *1849*  
   
 **watermelon**  
 In name:   
@@ -84,15 +75,12 @@ In name:
   
 **beef**  
 In name:   
- - Beef Tri Tip Carved w/ Chimichurri @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Vindaloo @ *Gordon Global Kitchen*  
- - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
- - Spicy Steak Fajita @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
@@ -103,8 +91,8 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Pot Pie w/Biscuit @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Giardiniera Chicken @ *Gordon Buona Cucina*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
   
