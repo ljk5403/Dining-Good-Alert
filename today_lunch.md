@@ -1,6 +1,6 @@
 # 2026-06-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-23 11:25:40  
+Updated at: 2026-06-23 14:08:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-23)  
 **portabella**  
 In name:   
@@ -93,9 +93,8 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Giardiniera Chicken @ *Gordon Buona Cucina*  
- - Crispy Chicken Sandwich @ *Gordon Fired Up*  
  - Diced Chicken @ *Great Greens*  
+ - Crispy Chicken Sandwich @ *Gordon Fired Up*  
  - Chicken Dumpling Soup @ *Great Greens*  
   
 In description:   
