@@ -1,13 +1,7 @@
 # 2026-06-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-22 13:11:33  
+Updated at: 2026-06-22 17:01:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-22)  
-**fish**  
-In name:   
-  
-In description:   
- - Tom Kha Gai Soup @ *Global Kitchen*  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
@@ -16,23 +10,18 @@ In name:
 In name:   
  - BBQ Pork Sandwich @ *Fired Up*  
   
-**beef**  
-In name:   
-  
-In description:   
- - Pizza Slice - Bacon Cheeseburger @ *Capital City Pizza*  
-  
 **pork**  
 In name:   
  - Cajun Rice w/ Pork & Black Eyed Peas @ *1849*  
  - Pork Adobo @ *1849*  
  - BBQ Pork Sandwich @ *Fired Up*  
   
+In description:   
+ - Pizza Slice Sausage @ *Capital City Pizza*  
+  
 **chicken**  
 In name:   
-  
-In description:   
- - Tom Kha Gai Soup @ *Global Kitchen*  
+ - Chicken Teriyaki Stir Fry @ *Global Kitchen*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-06-22)  
 **fish**  

@@ -1,7 +1,13 @@
 # 2026-06-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-22 17:01:13  
+Updated at: 2026-06-22 19:04:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-22)  
+**fish**  
+In name:   
+  
+In description:   
+ - Thai BBQ Pork Ribs @ *1849*  
+  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
@@ -13,7 +19,7 @@ In name:
 **pork**  
 In name:   
  - Cajun Rice w/ Pork & Black Eyed Peas @ *1849*  
- - Pork Adobo @ *1849*  
+ - Thai BBQ Pork Ribs @ *1849*  
  - BBQ Pork Sandwich @ *Fired Up*  
   
 In description:   
