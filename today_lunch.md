@@ -1,14 +1,10 @@
 # 2026-06-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-23 04:37:08  
+Updated at: 2026-06-23 11:25:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-23)  
 **portabella**  
 In name:   
  - Banh Mi w/ Portabella Mushrooms @ *Fired Up*  
-  
-**Samosas**  
-In name:   
- - Samosas @ *Global Kitchen*  
   
 **Shrimp**  
 In name:   
@@ -17,10 +13,6 @@ In name:
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
-  
-**curry**  
-In name:   
- - Indian Vegetable Curry @ *Global Kitchen*  
   
 **beef**  
 In name:   
@@ -37,17 +29,19 @@ In name:
 **chicken**  
 In name:   
  - Jamaican Jerk Chicken @ *1849*  
- - Butter Chicken @ *Global Kitchen*  
  - Mediterranean Chicken @ *Que Rico*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Chicken Dumpling Soup @ *Great Greens*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-06-23)  
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -57,22 +51,15 @@ In name:
  - Beef French Dip Sandwich @ *1849*  
  - Beef Taco Meat @ *Que Rico*  
   
-In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
-  
 **pork**  
 In name:   
  - Pork & Broccoli Stir Fry @ *Global Kitchen*  
-  
-In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **chicken**  
 In name:   
  - Grilled Chicken Sandwich @ *Fired Up*  
  - Taco Chicken @ *Que Rico*  
  - Chicken Dumpling Soup @ *Great Greens*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-06-23)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-06-23)  
@@ -107,7 +94,6 @@ In description:
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Giardiniera Chicken @ *Gordon Buona Cucina*  
- - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Crispy Chicken Sandwich @ *Gordon Fired Up*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
