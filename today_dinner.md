@@ -1,6 +1,6 @@
 # 2026-06-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-23 18:07:45  
+Updated at: 2026-06-23 22:32:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-23)  
 **Samosas**  
 In name:   
@@ -17,9 +17,11 @@ In name:
 **beef**  
 In name:   
  - Texas BBQ Sliced Beef Brisket @ *1849*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Beef Street Taco @ *Fired Up*  
  - Plant-Based Beef Curry Squash @ *Global Kitchen*  
  - Beef Vindaloo @ *Global Kitchen*  
+ - Beef Mediterranean @ *Que Rico*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
@@ -27,6 +29,9 @@ In description:
 **chicken**  
 In name:   
  - Za'atar and Lemon Grilled Chicken @ *1849*  
+ - Plant Based Chicken Strips @ *Buona Cucina*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Mediterranean Chicken @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
