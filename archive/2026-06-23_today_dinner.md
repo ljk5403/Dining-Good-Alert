@@ -1,15 +1,18 @@
 # 2026-06-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-24 04:27:55  
+Updated at: 2026-06-24 11:21:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-24)  
 **steak**  
 In name:   
  - Smothered Steak Burrito @ *Que Rico*  
   
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad @ *Delicious*  
+  
 **beef**  
 In name:   
  - Lomo Saltado w/ Beef @ *Global Kitchen*  
- - Beef Chili @ *Great Greens*  
   
 In description:   
  - Smothered Steak Burrito @ *Que Rico*  
@@ -22,7 +25,7 @@ In name:
 **chicken**  
 In name:   
  - Pizza Slice Chicken Sriracha @ *Capital City Pizza*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Chicken Chili @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-06-24)  
 **Salmon**  
@@ -32,6 +35,10 @@ In name:
 **lamb**  
 In name:   
  - Lamb Vindaloo @ *Global Kitchen*  
+  
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
   
 **Pakoras**  
 In name:   
@@ -50,25 +57,19 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
  - Beef Chili @ *Great Greens*  
   
-In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
-  
-**pork**  
-In name:   
-  
-In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
-  
 **chicken**  
 In name:   
  - Crispy Chicken Sandwich @ *Fired Up*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-06-24)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-06-24)  
 **drumstick**  
 In name:   
  - Chicken Drumstick BBQ Glazed @ *1849*  
+  
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Gordon Delicious*  
   
 **beef**  
 In name:   
@@ -94,7 +95,6 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Greek Lemon Chicken @ *Gordon Global Kitchen*  
  - Diced Chicken @ *Great Greens*  
- - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
