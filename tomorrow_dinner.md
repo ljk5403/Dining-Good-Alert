@@ -1,6 +1,6 @@
 # 2026-06-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-24 16:21:19  
+Updated at: 2026-06-24 18:02:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-25)  
 **Bibimbap Bowl**  
 In name:   
@@ -65,6 +65,12 @@ In name:
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-06-25)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-06-25)  
+**portabella**  
+In name:   
+  
+In description:   
+ - Vegan Mushroom Banh Mi Sandwich @ *Fired Up*  
+  
 **fish**  
 In name:   
   
@@ -101,6 +107,7 @@ In description:
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Giardiniera Chicken @ *Gordon Buona Cucina*  
+ - Chicken Banh Mi @ *Fired Up*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
   

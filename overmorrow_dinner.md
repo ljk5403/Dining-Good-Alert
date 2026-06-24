@@ -1,6 +1,6 @@
 # 2026-06-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-24 16:21:23  
+Updated at: 2026-06-24 18:02:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-26)  
 **Flauta**  
 In name:   
@@ -127,10 +127,12 @@ In description:
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Vegan Taco Filling @ *Gordon Que Rico*  
  - Spicy Steak Fajita @ *Gordon Que Rico*  
+ - Baked Corn Dog (Pork) @ *Fired Up*  
   
 **pork**  
 In name:   
  - French Market Pork Jambalaya @ *1849*  
+ - Baked Corn Dog (Pork) @ *Fired Up*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
@@ -144,6 +146,7 @@ In name:
 In description:   
  - French Market Pork Jambalaya @ *1849*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
+ - Baked Corn Dog (Pork) @ *Fired Up*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-06-26)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-06-26)  
