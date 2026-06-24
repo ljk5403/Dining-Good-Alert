@@ -1,6 +1,6 @@
 # 2026-06-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-24 11:21:13  
+Updated at: 2026-06-24 13:51:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-24)  
 **Tuna**  
 In name:   
@@ -20,7 +20,6 @@ In name:
 In name:   
  - Marrakech Chicken Breast @ *1849*  
  - Pizza Slice Chicken Sriracha @ *Capital City Pizza*  
- - Spicy Lo Mein w/Chicken @ *Global Kitchen*  
  - Chicken Tinga @ *Que Rico*  
  - Chicken Chili @ *Great Greens*  
   
