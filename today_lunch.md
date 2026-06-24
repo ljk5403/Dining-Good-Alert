@@ -1,16 +1,19 @@
 # 2026-06-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-24 04:27:51  
+Updated at: 2026-06-24 11:21:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-24)  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad @ *Delicious*  
+  
 **beef**  
 In name:   
  - Beef Harissa w/Couscous @ *1849*  
- - Beef Fajita Meat @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
- - Beef Chili @ *Great Greens*  
   
 **pork**  
 In name:   
+ - Pork Carnita @ *Que Rico*  
  - Italian Pork Sausage @ *Buona Cucina*  
   
 **chicken**  
@@ -19,7 +22,7 @@ In name:
  - Pizza Slice Chicken Sriracha @ *Capital City Pizza*  
  - Spicy Lo Mein w/Chicken @ *Global Kitchen*  
  - Chicken Tinga @ *Que Rico*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Chicken Chili @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-06-24)  
 **catfish**  
@@ -30,6 +33,10 @@ In name:
 In name:   
  - Panfried Southern Catfish @ *1849*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **beef**  
 In name:   
  - Beef Barbacoa @ *Que Rico*  
@@ -38,23 +45,24 @@ In name:
   
 In description:   
  - Vegan Sloppy Joe @ *1849*  
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **pork**  
 In name:   
   
 In description:   
  - Grilled Ham & Swiss Sandwich @ *Fired Up*  
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **chicken**  
 In name:   
  - Plant-Based Chicken Nuggets (8) @ *Global Kitchen*  
  - Chicken Wings Boneless Plain @ *Global Kitchen*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-06-24)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-06-24)  
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Gordon Delicious*  
+  
 **beef**  
 In name:   
  - Garlic Herb Roast Beef @ *1849*  
@@ -81,7 +89,6 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Orange Sweet & Spicy Chicken @ *Gordon Global Kitchen*  
  - Orange Sweet & Spicy "Chicken" @ *Gordon Global Kitchen*  
- - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
  - Diced Chicken @ *Great Greens*  
   
 In description:   
