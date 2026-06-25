@@ -1,6 +1,6 @@
 # 2026-06-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-25 11:22:24  
+Updated at: 2026-06-25 14:03:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-26)  
 **steak**  
 In name:   
@@ -29,7 +29,6 @@ In description:
 **pork**  
 In name:   
  - Pork Bratwurst Sandwich @ *Fired Up*  
- - Pork Miso w/Yakisoba Noodles @ *Global Kitchen*  
   
 **chicken**  
 In name:   
@@ -38,9 +37,6 @@ In name:
  - Chicken Tinga @ *Que Rico*  
  - Diced Chicken Breast @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
-  
-In description:   
- - Pork Miso w/Yakisoba Noodles @ *Global Kitchen*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-06-26)  
 **portabella**  

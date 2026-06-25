@@ -1,6 +1,6 @@
 # 2026-06-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-25 04:19:52  
+Updated at: 2026-06-25 11:22:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-25)  
 **steak**  
 In name:   
@@ -45,6 +45,10 @@ In description:
 In name:   
  - Swiss Steak w/Brown Gravy @ *1849*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **beef**  
 In name:   
  - Beef Taco Meat @ *Que Rico*  
@@ -52,29 +56,22 @@ In name:
 In description:   
  - Swiss Steak w/Brown Gravy @ *1849*  
  - Pork Bratwurst Sandwich @ *Fired Up*  
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **pork**  
 In name:   
  - Pork Bratwurst Sandwich @ *Fired Up*  
  - Pork Carnita @ *Que Rico*  
   
-In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
-  
 **chicken**  
 In name:   
  - Plant-Based Chicken Taco Filling @ *Que Rico*  
  - Chicken Noodle Soup @ *Great Greens*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-06-25)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-06-25)  
-**portabella**  
+**Salmon**  
 In name:   
-  
-In description:   
- - Pesto Mushroom Sandwich @ *Gordon Fired Up*  
+ - Baked Salmon Fillet @ *Great Greens*  
   
 **Tuna**  
 In name:   
