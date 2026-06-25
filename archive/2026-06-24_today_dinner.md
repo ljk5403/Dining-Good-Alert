@@ -1,39 +1,37 @@
 # 2026-06-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-25 11:22:23  
+Updated at: 2026-06-25 14:03:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-25)  
-**Bibimbap Bowl**  
+**Beef Alicha**  
 In name:   
- - Bibimbap Bowl @ *Global Kitchen*  
- - Bibimbap Bowl - Modified - Composed Tofu @ *Global Kitchen*  
+ - Beef Alicha @ *1849*  
   
-**drumstick**  
+**Filipino Pork Sausage**  
 In name:   
- - Chicken Drumstick Szechuan Glazed @ *1849*  
+ - Filipino Pork Sausage @ *1849*  
+  
+**curry**  
+In name:   
+ - Plant-Based Beef Curry Squash @ *Global Kitchen*  
+  
+In description:   
+ - Chicken Korma @ *Global Kitchen*  
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Beef Mediterranean @ *Que Rico*  
-  
-In description:   
- - Italian Meat Sauce @ *Buona Cucina*  
- - Bibimbap Bowl @ *Global Kitchen*  
+ - Beef Alicha @ *1849*  
+ - Plant-Based Beef Curry Squash @ *Global Kitchen*  
   
 **pork**  
 In name:   
- - Pork Belly Char Sui @ *1849*  
+ - Filipino Pork Sausage @ *1849*  
  - Pork Carnita Torta @ *Fired Up*  
   
 **chicken**  
 In name:   
- - Chicken Drumstick Szechuan Glazed @ *1849*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Plant Based Chicken Strips @ *Buona Cucina*  
  - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
- - Mediterranean Chicken @ *Que Rico*  
+ - Chicken Korma @ *Global Kitchen*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Chicken Noodle Soup @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-06-25)  
 **portabella**  
