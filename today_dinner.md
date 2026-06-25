@@ -1,10 +1,16 @@
 # 2026-06-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-24 18:02:30  
+Updated at: 2026-06-24 22:30:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-24)  
 **steak**  
 In name:   
  - Smothered Steak Burrito @ *Que Rico*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Vietnamese Pork @ *1849*  
   
 **Tuna**  
 In name:   
@@ -19,7 +25,7 @@ In description:
   
 **pork**  
 In name:   
- - Southern Style Pork Spare Ribs @ *1849*  
+ - Vietnamese Pork @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
   
 **chicken**  
@@ -74,6 +80,7 @@ In name:
 **beef**  
 In name:   
  - Beef Tri Tip Carved w/ Chimichurri @ *1849*  
+ - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Barbacoa @ *Gordon Que Rico*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef Chili @ *Great Greens*  
@@ -83,6 +90,7 @@ In description:
   
 **pork**  
 In name:   
+ - Italian Pork Sausage @ *Gordon Buona Cucina*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
@@ -90,6 +98,8 @@ In description:
 **chicken**  
 In name:   
  - Chicken Drumstick BBQ Glazed @ *1849*  
+ - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Greek Lemon Chicken @ *Gordon Global Kitchen*  
  - Diced Chicken @ *Great Greens*  
   
 In description:   
