@@ -1,6 +1,6 @@
 # 2026-06-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-25 14:03:40  
+Updated at: 2026-06-25 16:41:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-25)  
 **steak**  
 In name:   
@@ -9,7 +9,6 @@ In name:
 **beef**  
 In name:   
  - Barbacoa Beef w/Mango Habanero Sandwich @ *Fired Up*  
- - Beef Mediterranean @ *Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
@@ -24,7 +23,6 @@ In name:
 **chicken**  
 In name:   
  - BBQ Chicken & Bacon (Pork) Pizza @ *Capital City Pizza*  
- - Mediterranean Chicken @ *Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
