@@ -1,14 +1,10 @@
 # 2026-06-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-26 16:17:31  
+Updated at: 2026-06-26 18:04:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-26)  
 **Flauta**  
 In name:   
  - Chicken and Cheese Flauta @ *Que Rico*  
-  
-**steak**  
-In name:   
- - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
   
 **Shrimp**  
 In name:   
@@ -31,7 +27,7 @@ In name:
   
 In description:   
  - Burnt Ends @ *1849*  
- - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  
 In name:   
@@ -42,6 +38,9 @@ In name:
  - Diced Chicken Breast @ *Buona Cucina*  
  - Chicken and Cheese Flauta @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
+  
+In description:   
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-06-26)  
 **Drunken Noodles**  
@@ -95,14 +94,6 @@ In name:
 In name:   
  - Spicy Steak Fajita @ *Gordon Que Rico*  
   
-**Salmon**  
-In name:   
- - Baked Salmon Fillet @ *Great Greens*  
-  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp @ *Gordon Buona Cucina*  
-  
 **Cod**  
 In name:   
  - Lemon Pepper Cod Fillet @ *1849*  
@@ -115,14 +106,8 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**curry**  
-In name:   
- - Chicken Curry @ *Gordon Global Kitchen*  
- - Garbanzo Bean Curry @ *Gordon Global Kitchen*  
-  
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
@@ -133,7 +118,6 @@ In description:
   
 **pork**  
 In name:   
- - French Market Pork Jambalaya @ *1849*  
  - Baked Corn Dog (Pork) @ *Fired Up*  
   
 In description:   
@@ -141,12 +125,10 @@ In description:
   
 **chicken**  
 In name:   
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Chicken Curry @ *Gordon Global Kitchen*  
+ - Chicken Piece Seasoned Baked @ *1849*  
  - Diced Chicken @ *Great Greens*  
   
 In description:   
- - French Market Pork Jambalaya @ *1849*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Baked Corn Dog (Pork) @ *Fired Up*  
   
