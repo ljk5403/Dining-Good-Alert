@@ -1,6 +1,6 @@
 # 2026-06-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-25 18:16:51  
+Updated at: 2026-06-25 22:38:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-25)  
 **Beef Alicha**  
 In name:   
@@ -16,7 +16,12 @@ In description:
 **beef**  
 In name:   
  - Beef Alicha @ *1849*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant-Based Beef Curry Squash @ *Global Kitchen*  
+ - Beef Mediterranean @ *Que Rico*  
+  
+In description:   
+ - Italian Meat Sauce @ *Buona Cucina*  
   
 **pork**  
 In name:   
@@ -25,8 +30,11 @@ In name:
   
 **chicken**  
 In name:   
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Plant Based Chicken Strips @ *Buona Cucina*  
  - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
  - Chicken Korma @ *Global Kitchen*  
+ - Mediterranean Chicken @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-06-25)  

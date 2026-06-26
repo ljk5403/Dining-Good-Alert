@@ -1,14 +1,10 @@
 # 2026-06-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-25 16:41:05  
+Updated at: 2026-06-25 18:16:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-25)  
 **Beef Alicha**  
 In name:   
  - Beef Alicha @ *1849*  
-  
-**Filipino Pork Sausage**  
-In name:   
- - Filipino Pork Sausage @ *1849*  
   
 **curry**  
 In name:   
@@ -24,7 +20,7 @@ In name:
   
 **pork**  
 In name:   
- - Filipino Pork Sausage @ *1849*  
+ - Pork Belly Char Sui @ *1849*  
  - Pork Carnita Torta @ *Fired Up*  
   
 **chicken**  
@@ -58,6 +54,7 @@ In name:
  - Chicken Bruschetta Sandwich @ *Fired Up*  
  - Jamaican Jerk Chicken @ *1849*  
  - Plant-Based Chicken Taco Filling @ *Que Rico*  
+ - Chicken Chili @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-06-25)  

@@ -1,6 +1,6 @@
 # 2026-06-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-25 18:16:47  
+Updated at: 2026-06-25 22:38:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-25)  
 **steak**  
 In name:   
@@ -9,6 +9,7 @@ In name:
 **beef**  
 In name:   
  - Barbacoa Beef w/Mango Habanero Sandwich @ *Fired Up*  
+ - Beef Mediterranean @ *Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
@@ -23,6 +24,7 @@ In name:
 **chicken**  
 In name:   
  - BBQ Chicken & Bacon (Pork) Pizza @ *Capital City Pizza*  
+ - Mediterranean Chicken @ *Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
@@ -91,6 +93,7 @@ In name:
  - Plant-Based Chicken Nuggets (6) @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Diced Chicken @ *Great Greens*  
+ - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Shoyu Chicken @ *Gordon Global Kitchen*  
  - Chicken Noodle Soup @ *Great Greens*  
   

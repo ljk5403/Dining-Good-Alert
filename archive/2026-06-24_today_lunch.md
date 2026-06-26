@@ -1,6 +1,6 @@
 # 2026-06-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-25 16:41:04  
+Updated at: 2026-06-25 18:16:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-25)  
 **steak**  
 In name:   
@@ -55,6 +55,7 @@ In name:
 **chicken**  
 In name:   
  - Plant-Based Chicken Taco Filling @ *Que Rico*  
+ - Chicken Chili @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-06-25)  
