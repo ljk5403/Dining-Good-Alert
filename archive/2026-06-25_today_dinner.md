@@ -1,6 +1,6 @@
 # 2026-06-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-26 04:24:42  
+Updated at: 2026-06-26 11:14:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-26)  
 **Flauta**  
 In name:   
@@ -66,6 +66,10 @@ In name:
 In description:   
  - Drunken Noodles @ *1849*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -78,24 +82,20 @@ In description:
  - Fired Up Blended Burger @ *Fired Up*  
  - Plant-Based Pepper Steak Stir Fry @ *Global Kitchen*  
  - Vegan Taco Filling @ *Que Rico*  
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
-  
-**pork**  
-In name:   
-  
-In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **chicken**  
 In name:   
  - Orange Sweet & Spicy Chicken @ *Global Kitchen*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-06-26)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-06-26)  
 **steak**  
 In name:   
  - Spicy Steak Fajita @ *Gordon Que Rico*  
+  
+**Salmon**  
+In name:   
+ - Baked Salmon Fillet @ *Great Greens*  
   
 **Shrimp**  
 In name:   

@@ -1,11 +1,7 @@
 # 2026-06-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-26 04:24:41  
+Updated at: 2026-06-26 11:14:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-26)  
-**steak**  
-In name:   
- - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
-  
 **Salmon**  
 In name:   
  - Blackened Salmon @ *1849*  
@@ -23,13 +19,12 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Pork Bratwurst Sandwich @ *Fired Up*  
   
 **pork**  
 In name:   
  - Pork Bratwurst Sandwich @ *Fired Up*  
- - Pork Miso w/Yakisoba Noodles @ *Global Kitchen*  
   
 **chicken**  
 In name:   
@@ -40,7 +35,7 @@ In name:
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
- - Pork Miso w/Yakisoba Noodles @ *Global Kitchen*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-06-26)  
 **portabella**  
@@ -67,6 +62,10 @@ In name:
 In description:   
  - Coconut Thai Curry Mahi Mahi @ *1849*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -83,18 +82,10 @@ In name:
 In description:   
  - Mushroom Swiss Blended Burger @ *Fired Up*  
  - Vegan Taco Filling @ *Que Rico*  
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
-  
-**pork**  
-In name:   
-  
-In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **chicken**  
 In name:   
  - Mediterranean Chicken @ *Global Kitchen*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-06-26)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-06-26)  
@@ -105,6 +96,10 @@ In name:
 **steak**  
 In name:   
  - Spicy Steak Fajita @ *Gordon Que Rico*  
+  
+**Salmon**  
+In name:   
+ - Baked Salmon Fillet @ *Great Greens*  
   
 **Shrimp**  
 In name:   
