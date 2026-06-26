@@ -1,6 +1,6 @@
 # 2026-06-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-26 13:50:22  
+Updated at: 2026-06-26 16:17:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-26)  
 **Flauta**  
 In name:   
@@ -33,6 +33,10 @@ In description:
  - Burnt Ends @ *1849*  
  - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
   
+**pork**  
+In name:   
+ - Sri Lanka Deviled Pork @ *Global Kitchen*  
+  
 **chicken**  
 In name:   
  - Diced Chicken Breast @ *Buona Cucina*  
@@ -61,7 +65,6 @@ In name:
   
 **fish**  
 In name:   
- - Vegan Fish Sandwich @ *Fired Up*  
   
 In description:   
  - Drunken Noodles @ *1849*  
@@ -79,7 +82,6 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Fired Up Blended Burger @ *Fired Up*  
  - Plant-Based Pepper Steak Stir Fry @ *Global Kitchen*  
  - Vegan Taco Filling @ *Que Rico*  
   

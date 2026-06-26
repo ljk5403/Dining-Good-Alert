@@ -1,6 +1,6 @@
 # 2026-06-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-26 11:14:49  
+Updated at: 2026-06-26 13:50:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-26)  
 **Salmon**  
 In name:   
@@ -89,10 +89,6 @@ In name:
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-06-26)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-06-26)  
-**Tandoori Chicken**  
-In name:   
- - Tandoori Chicken @ *Gordon Global Kitchen*  
-  
 **steak**  
 In name:   
  - Spicy Steak Fajita @ *Gordon Que Rico*  
@@ -137,7 +133,6 @@ In description:
 In name:   
  - Chicken Piece Seasoned Baked @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Tandoori Chicken @ *Gordon Global Kitchen*  
  - Diced Chicken @ *Great Greens*  
   
 In description:   
