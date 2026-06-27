@@ -1,6 +1,6 @@
 # 2026-06-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-27 12:09:18  
+Updated at: 2026-06-27 14:19:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-27)  
 **beef**  
 In name:   
@@ -31,6 +31,7 @@ In description:
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-06-27)  
 **beef**  
 In name:   
+ - Beef Hot Dog @ *Fired Up*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -41,7 +42,6 @@ In description:
 In name:   
   
 In description:   
- - Brewer's Club Sandwich w/ Bacon Sauce @ *Fired Up*  
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **chicken**  
