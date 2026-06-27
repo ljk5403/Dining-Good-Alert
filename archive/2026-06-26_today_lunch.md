@@ -1,144 +1,104 @@
-# 2026-06-26 lunch  
+# 2026-06-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-26 22:23:33  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-26)  
-**Salmon**  
+Updated at: 2026-06-27 03:34:36  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-27)  
+**steak**  
 In name:   
- - Blackened Salmon @ *1849*  
+ - Beef Pepper Steak Stir Fry w/Teriyaki @ *Global Kitchen*  
+ - Plant-Based Pepper Steak Stir Fry @ *Global Kitchen*  
   
-**clam**  
+**beef**  
 In name:   
- - Clam Chowder @ *Great Greens*  
+ - Beef Pepper Steak Stir Fry w/Teriyaki @ *Global Kitchen*  
+ - Beef Taco Meat @ *Que Rico*  
   
-**watermelon**  
+In description:   
+ - Pepperoni & Mushrooms Pizza @ *Capital City Pizza*  
+ - Italian Meatball Sandwich @ *Fired Up*  
+ - Plant-Based Pepper Steak Stir Fry @ *Global Kitchen*  
+ - Italian Meat Sauce @ *Buona Cucina*  
+  
+**pork**  
 In name:   
- - Watermelon Slices @ *Great Greens*  
+ - BBQ Pork Chop @ *1849*  
+ - Pork Carnita @ *Que Rico*  
+ - Italian Pork Sausage @ *Buona Cucina*  
   
+**chicken**  
+In name:   
+ - Chicken Tinga @ *Que Rico*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Chicken Chili @ *Great Greens*  
+  
+In description:   
+ - Pepperoni & Mushrooms Pizza @ *Capital City Pizza*  
+ - Italian Meatball Sandwich @ *Fired Up*  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-06-27)  
 **beef**  
 In name:   
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
- - Pork Bratwurst Sandwich @ *Fired Up*  
+ - Chicago-Style Hot Dog @ *Fired Up*  
+ - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **pork**  
 In name:   
- - Pork Bratwurst Sandwich @ *Fired Up*  
+ - Appetizer -  Fried Pork Potstickers @ *Global Kitchen*  
+  
+In description:   
+ - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **chicken**  
 In name:   
- - Baked BBQ Chicken @ *1849*  
- - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
- - Chicken Tinga @ *Que Rico*  
- - Diced Chicken Breast @ *Buona Cucina*  
+ - Chicken Chili @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
-In description:   
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
-  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-06-26)  
-**portabella**  
-In name:   
-  
-In description:   
- - Portobello Mushroom Stroganoff @ *1849*  
-  
-**mahi mahi**  
-In name:   
- - Coconut Thai Curry Mahi Mahi @ *1849*  
-  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp @ *Que Rico*  
-  
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
-  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-06-27)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-06-27)  
 **fish**  
 In name:   
   
 In description:   
- - Coconut Thai Curry Mahi Mahi @ *1849*  
+ - Tempura Roll (FujiSan) @ *Gordon Global Kitchen*  
   
-**Tuna**  
+**BBQ Pork Sandwich**  
 In name:   
- - Tuna Salad @ *Delicious*  
-  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
-**curry**  
-In name:   
- - Coconut Thai Curry Mahi Mahi @ *1849*  
+ - Carolina BBQ Pork Sandwich @ *Gordon Fired Up*  
   
 **beef**  
 In name:   
- - Mediterranean Beef @ *Global Kitchen*  
- - Beef Taco Meat @ *Que Rico*  
-  
-In description:   
- - Mushroom Swiss Blended Burger @ *Fired Up*  
- - Vegan Taco Filling @ *Que Rico*  
-  
-**chicken**  
-In name:   
- - Mediterranean Chicken @ *Global Kitchen*  
-  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-06-26)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-06-26)  
-**Tandoori Chicken**  
-In name:   
- - Tandoori Chicken @ *Gordon Global Kitchen*  
-  
-**steak**  
-In name:   
- - Spicy Steak Fajita @ *Gordon Que Rico*  
-  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp @ *Gordon Buona Cucina*  
-  
-**Cod**  
-In name:   
- - Fried Cod Basket @ *1849*  
-  
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
-  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
-**beef**  
-In name:   
+ - Beef Gravy @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
+ - Burnt Ends @ *1849*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
- - Vegan Taco Filling @ *Gordon Que Rico*  
- - Spicy Steak Fajita @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
+ - Italian Pork Sausage @ *Gordon Buona Cucina*  
+ - Carolina BBQ Pork Sandwich @ *Gordon Fired Up*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 **chicken**  
 In name:   
- - Chicken Piece Seasoned Baked @ *1849*  
+ - Blackened Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Tandoori Chicken @ *Gordon Global Kitchen*  
+ - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
+ - Chicken Tinga @ *Gordon Que Rico*  
+ - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
  - Diced Chicken @ *Great Greens*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-06-26)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-06-26)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-06-27)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-06-27)  
   

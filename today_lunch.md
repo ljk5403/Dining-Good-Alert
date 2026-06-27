@@ -1,6 +1,6 @@
 # 2026-06-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-27 03:34:36  
+Updated at: 2026-06-27 10:14:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-27)  
 **steak**  
 In name:   
@@ -41,6 +41,7 @@ In name:
   
 In description:   
  - Chicago-Style Hot Dog @ *Fired Up*  
+ - Soup Garden Vegetable @ *Great Greens*  
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **pork**  
