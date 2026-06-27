@@ -1,6 +1,6 @@
 # 2026-06-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-27 16:02:40  
+Updated at: 2026-06-27 18:01:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-27)  
 **beef**  
 In name:   
@@ -29,6 +29,10 @@ In description:
  - Pepperoni & Mushrooms Pizza @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-06-27)  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
+  
 **beef**  
 In name:   
  - Beef Hot Dog @ *Fired Up*  
