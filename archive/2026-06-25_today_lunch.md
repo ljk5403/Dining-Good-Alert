@@ -1,6 +1,6 @@
 # 2026-06-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-26 16:17:26  
+Updated at: 2026-06-26 18:04:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-26)  
 **Salmon**  
 In name:   
@@ -92,10 +92,6 @@ In name:
 **steak**  
 In name:   
  - Spicy Steak Fajita @ *Gordon Que Rico*  
-  
-**Salmon**  
-In name:   
- - Baked Salmon Fillet @ *Great Greens*  
   
 **Shrimp**  
 In name:   

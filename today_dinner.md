@@ -1,6 +1,6 @@
 # 2026-06-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-26 18:04:35  
+Updated at: 2026-06-26 22:23:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-26)  
 **Flauta**  
 In name:   
@@ -64,6 +64,7 @@ In name:
   
 **fish**  
 In name:   
+ - Vegan Fish Sandwich @ *Fired Up*  
   
 In description:   
  - Drunken Noodles @ *1849*  
@@ -81,6 +82,7 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
+ - Fired Up Blended Burger @ *Fired Up*  
  - Plant-Based Pepper Steak Stir Fry @ *Global Kitchen*  
  - Vegan Taco Filling @ *Que Rico*  
   
