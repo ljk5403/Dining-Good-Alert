@@ -1,145 +1,163 @@
-# 2026-06-29 dinner  
+# 2026-06-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-27 22:45:30  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-29)  
-**steak**  
+Updated at: 2026-06-28 03:50:19  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-30)  
+**portabella**  
 In name:   
   
 In description:   
- - Montreal Chicken @ *1849*  
+ - Pesto Mushroom Sandwich @ *Fired Up*  
   
-**Shrimp**  
+**Salmon**  
 In name:   
- - Five Treasure Shrimp Lo Mein @ *Global Kitchen*  
+ - Ginger Glazed Salmon @ *1849*  
   
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
   
-**Chicken Tamale with Oaxaca**  
+**watermelon**  
 In name:   
- - Chicken Tamale with Oaxaca @ *Que Rico*  
+ - Watermelon Slices @ *Great Greens*  
   
 **curry**  
 In name:   
- - Thai Veggie Meatballs w/ Green Curry @ *1849*  
+ - Curry Mango - Pork @ *1849*  
+ - Squash Curry @ *Global Kitchen*  
+  
+In description:   
+ - Chicken Korma @ *Global Kitchen*  
   
 **beef**  
 In name:   
- - Big Texan Beef Sandwich @ *Fired Up*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Beef Mediterranean @ *Que Rico*  
   
 In description:   
- - Sausage (Pork), Potatoes, & Peppers @ *1849*  
- - Italian Meat Sauce @ *Buona Cucina*  
- - Pepperoni & Mushrooms Pizza @ *Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Cocktail Wieners & BBQ Sauce @ *Fired Up*  
   
 **pork**  
 In name:   
- - Sausage (Pork), Potatoes, & Peppers @ *1849*  
- - Italian Pork Sausage @ *Buona Cucina*  
- - Pork Tamale with Oaxaca @ *Que Rico*  
+ - Curry Mango - Pork @ *1849*  
+  
+In description:   
+ - Cocktail Wieners & BBQ Sauce @ *Fired Up*  
   
 **chicken**  
 In name:   
- - Montreal Chicken @ *1849*  
- - Chicken Tamale with Oaxaca @ *Que Rico*  
+ - Plant Based Chicken Strips @ *Buona Cucina*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Crispy Chicken Sandwich @ *Fired Up*  
+ - Chicken Korma @ *Global Kitchen*  
+ - Mediterranean Chicken @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
+ - Chicken Dumpling Soup @ *Great Greens*  
   
 In description:   
- - Pepperoni & Mushrooms Pizza @ *Capital City Pizza*  
- - Pork Tamale with Oaxaca @ *Que Rico*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Cocktail Wieners & BBQ Sauce @ *Fired Up*  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-06-29)  
-**broccoli rabe**  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-06-30)  
+**drumstick**  
 In name:   
- - Broccoli Rabe @ *1849*  
+ - Smoked Chicken Drumstick @ *1849*  
   
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
   
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
+  
 **beef**  
 In name:   
+ - Beef Broccoli Stir Fry @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Banh Mi Hot Dog @ *Fired Up*  
- - Burnt Ends @ *1849*  
- - Vegan Taco Filling @ *Que Rico*  
+ - Bacon Bleu Blended Burger @ *Fired Up*  
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **pork**  
 In name:   
- - Italian Pork Sausage @ *Global Kitchen*  
   
 In description:   
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **chicken**  
 In name:   
- - Chicken Tinga @ *Que Rico*  
+ - Smoked Chicken Drumstick @ *1849*  
+ - Chicken Gravy @ *1849*  
+ - Taco Chicken @ *Que Rico*  
+ - Plant-Based Chicken Taco Filling @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
+ - Chicken Dumpling Soup @ *Great Greens*  
   
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-06-29)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-06-30)  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
   
-**curry**  
+**watermelon**  
 In name:   
- - Currywurst (Pork) @ *Global Kitchen*  
- - Coconut Tofu w/Red Curry Sauce @ *Global Kitchen*  
+ - Melon Watermelon Whole Sliced @ *Great Greens*  
   
 **beef**  
 In name:   
-  
-In description:   
- - Currywurst (Pork) @ *Global Kitchen*  
-  
-**pork**  
-In name:   
- - Currywurst (Pork) @ *Global Kitchen*  
+ - Beef & Chicken Meatballs (4 each) CN @ *Global Kitchen*  
   
 **chicken**  
 In name:   
- - Chicken Pot Pie w/ Biscuit (AYCTE)(CN) @ *Global Kitchen*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
+ - Huli Huli Chicken @ *Global Kitchen*  
+ - Beef & Chicken Meatballs (4 each) CN @ *Global Kitchen*  
+ - Chicken Dumpling Soup @ *Great Greens*  
   
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-06-29)  
-**Tuna**  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-06-30)  
+**portabella**  
 In name:   
- - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
+ - Banh Mi w/ Portabella Mushrooms @ *Fired Up*  
+  
+**steak**  
+In name:   
+ - Spicy Steak Fajita @ *Gordon Que Rico*  
+  
+**mahi mahi**  
+In name:   
+ - Island Spiced Mahi Mahi @ *1849*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
   
 **beef**  
 In name:   
- - Beef Stroganoff Creamy @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
- - Vegan Taco Filling @ *Gordon Que Rico*  
- - Bacon Blended Cheeseburger @ *Fired Up*  
+ - Spicy Steak Fajita @ *Gordon Que Rico*  
+ - Banh Mi Hot Dog @ *Fired Up*  
   
 **pork**  
 In name:   
- - Italian Pork Sausage @ *Gordon Buona Cucina*  
+ - Edamame Fried Rice w/ Pork Potsticker @ *Gordon Global Kitchen*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
   
 **chicken**  
 In name:   
+ - Chicken Creole @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Orange Sweet & Spicy Chicken @ *Gordon Global Kitchen*  
- - Chicken Tinga @ *Gordon Que Rico*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
+ - Italian Chicken @ *Gordon Buona Cucina*  
+ - Chicken Dumpling Soup @ *Great Greens*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-06-29)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-06-29)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-06-30)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-06-30)  
   
