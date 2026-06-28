@@ -1,6 +1,6 @@
 # 2026-06-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-28 03:49:57  
+Updated at: 2026-06-28 10:16:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-28)  
 **portabella**  
 In name:   
@@ -51,6 +51,7 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
+ - Soup Garden Vegetable @ *Great Greens*  
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **pork**  
@@ -92,22 +93,10 @@ In description:
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-06-28)  
-**catfish**  
-In name:   
- - Blackened Catfish @ *1849*  
-  
-**fish**  
-In name:   
- - Blackened Catfish @ *1849*  
-  
-**curry**  
-In name:   
- - Thai Veggie Meatballs w/ Green Curry @ *1849*  
-  
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Barbacoa @ *Gordon Que Rico*  
+ - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
@@ -116,13 +105,13 @@ In description:
   
 **pork**  
 In name:   
- - Boneless Baked Pork Ham @ *1849*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
   
 **chicken**  
 In name:   
+ - Chicken Pot Pie w/Biscuit @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Italian Chicken @ *Gordon Buona Cucina*  
  - Diced Chicken @ *Great Greens*  
