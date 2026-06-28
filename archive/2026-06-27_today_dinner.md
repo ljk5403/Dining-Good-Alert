@@ -1,6 +1,6 @@
 # 2026-06-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-28 14:18:02  
+Updated at: 2026-06-28 15:59:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-28)  
 **portabella**  
 In name:   
@@ -58,7 +58,6 @@ In description:
 In name:   
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Island Spiced Beef Steak @ *1849*  
- - Beef Gravy @ *1849*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
