@@ -1,20 +1,25 @@
 # 2026-06-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-28 15:59:48  
+Updated at: 2026-06-28 17:09:52  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-28)  
 **portabella**  
 In name:   
  - Portabella Mushroom Ravioli Plain @ *Buona Cucina*  
   
+**Salmon**  
+In name:   
+ - Blackened Salmon @ *1849*  
+  
 **curry**  
 In name:   
- - Ground Beef Curry @ *Global Kitchen*  
  - Curry Cauliflower & Butternut Squash @ *Global Kitchen*  
+  
+In description:   
+ - Chicken Korma @ *Global Kitchen*  
   
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Ground Beef Curry @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -28,10 +33,10 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken & Vegetables w/Dijon Vinaigrette @ *1849*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
+ - Chicken Korma @ *Global Kitchen*  
  - Fajita Chicken @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Chili @ *Great Greens*  

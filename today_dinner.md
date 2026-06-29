@@ -1,14 +1,14 @@
 # 2026-06-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-28 17:09:52  
+Updated at: 2026-06-28 19:08:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-28)  
 **portabella**  
 In name:   
  - Portabella Mushroom Ravioli Plain @ *Buona Cucina*  
   
-**Salmon**  
+**Filipino Pork Sausage**  
 In name:   
- - Blackened Salmon @ *1849*  
+ - Filipino Pork Sausage @ *1849*  
   
 **curry**  
 In name:   
@@ -28,6 +28,7 @@ In description:
   
 **pork**  
 In name:   
+ - Filipino Pork Sausage @ *1849*  
  - Boneless Baked Pork Ham @ *1849*  
  - Pork Carnita @ *Que Rico*  
   
@@ -94,13 +95,14 @@ In name:
   
 **pork**  
 In name:   
- - BBQ Pork Chop @ *Global Kitchen*  
+ - BBQ Pork Chop @ *1849*  
   
 In description:   
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 **chicken**  
 In name:   
+ - Breaded Chicken Tenders @ *Global Kitchen*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
