@@ -1,6 +1,6 @@
 # 2026-06-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-29 05:57:35  
+Updated at: 2026-06-29 11:51:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-29)  
 **steak**  
 In name:   
@@ -15,10 +15,6 @@ In name:
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
-  
-**Chicken Tamale with Oaxaca**  
-In name:   
- - Chicken Tamale with Oaxaca @ *Que Rico*  
   
 **curry**  
 In name:   
@@ -37,27 +33,19 @@ In description:
 In name:   
  - Sausage (Pork), Potatoes, & Peppers @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
- - Pork Tamale with Oaxaca @ *Que Rico*  
   
 **chicken**  
 In name:   
  - Montreal Chicken @ *1849*  
- - Chicken Tamale with Oaxaca @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
   
 In description:   
  - Pepperoni & Mushrooms Pizza @ *Capital City Pizza*  
- - Pork Tamale with Oaxaca @ *Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-06-29)  
 **broccoli rabe**  
 In name:   
  - Broccoli Rabe @ *1849*  
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
   
 **beef**  
 In name:   
@@ -79,6 +67,7 @@ In description:
 **chicken**  
 In name:   
  - Chicken Tinga @ *Que Rico*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
@@ -135,7 +124,7 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Orange Sweet & Spicy Chicken @ *Gordon Global Kitchen*  
  - Chicken Tinga @ *Gordon Que Rico*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
+ - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  

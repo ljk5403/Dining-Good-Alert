@@ -1,6 +1,6 @@
 # 2026-06-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-29 11:51:38  
+Updated at: 2026-06-29 14:03:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-29)  
 **Tuna**  
 In name:   
@@ -79,6 +79,10 @@ In name:
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-06-29)  
+**Salmon**  
+In name:   
+ - Baked Salmon Fillet @ *1849*  
+  
 **Cod**  
 In name:   
  - Lemon Pepper Cod Fillet @ *1849*  
@@ -106,7 +110,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Honey Lime w/ rice @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Chicken Tenders Breaded @ *Gordon Fired Up*  
  - Chicken Tinga @ *Gordon Que Rico*  
