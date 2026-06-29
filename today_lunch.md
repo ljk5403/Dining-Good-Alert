@@ -1,6 +1,6 @@
 # 2026-06-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-29 05:57:33  
+Updated at: 2026-06-29 11:51:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-29)  
 **Tuna**  
 In name:   
@@ -9,7 +9,7 @@ In name:
 **beef**  
 In name:   
  - Texas BBQ Sliced Beef Brisket @ *1849*  
- - Beef Bean & Carrot Stir Fry @ *Global Kitchen*  
+ - Beef Barbacoa @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -25,19 +25,13 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Tinga @ *Que Rico*  
  - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
   
 In description:   
  - Pepperoni & Mushrooms Pizza @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-06-29)  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
-  
 **beef**  
 In name:   
  - Beef Taco Meat @ *Que Rico*  
@@ -62,6 +56,7 @@ In name:
  - Chicken Tinga @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
  - Chorizo Sauce @ *Global Kitchen*  
@@ -84,22 +79,18 @@ In name:
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-06-29)  
+**Cod**  
+In name:   
+ - Lemon Pepper Cod Fillet @ *1849*  
+  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
-  
-**curry**  
-In name:   
- - Beef Bombay Curry @ *Gordon Global Kitchen*  
-  
-In description:   
- - Chana Saag w/ Tofu @ *Gordon Global Kitchen*  
   
 **beef**  
 In name:   
  - Beef Pot Roast @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Bombay Curry @ *Gordon Global Kitchen*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
@@ -119,7 +110,7 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Chicken Tenders Breaded @ *Gordon Fired Up*  
  - Chicken Tinga @ *Gordon Que Rico*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
+ - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  

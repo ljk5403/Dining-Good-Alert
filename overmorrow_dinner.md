@@ -1,6 +1,6 @@
 # 2026-07-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-29 05:57:40  
+Updated at: 2026-06-29 11:51:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-01)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -46,7 +46,6 @@ In name:
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
  - Filipino Pork Sausage @ *Global Kitchen*  
  - FiIipino Pork Spring Roll @ *Global Kitchen*  
- - Ancho Pork Rice Bowl @ *Que Rico*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
@@ -58,9 +57,6 @@ In description:
 In name:   
  - Chicken Pot Pie w/Biscuit @ *1849*  
  - Diced Chicken @ *Great Greens*  
-  
-In description:   
- - Ancho Pork Rice Bowl @ *Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-07-01)  
 **portabella**  
