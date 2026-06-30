@@ -1,6 +1,6 @@
 # 2026-06-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-30 04:33:33  
+Updated at: 2026-06-30 11:22:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-30)  
 **portabella**  
 In name:   
@@ -11,10 +11,6 @@ In description:
 **Salmon**  
 In name:   
  - Ginger Glazed Salmon @ *1849*  
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
   
 **watermelon**  
 In name:   
@@ -51,6 +47,7 @@ In name:
  - Crispy Chicken Sandwich @ *Fired Up*  
  - Chicken Korma @ *Global Kitchen*  
  - Mediterranean Chicken @ *Que Rico*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
   
@@ -62,14 +59,6 @@ In description:
 **drumstick**  
 In name:   
  - Smoked Chicken Drumstick @ *1849*  
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
-  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
   
 **beef**  
 In name:   
@@ -92,6 +81,7 @@ In name:
  - Chicken Gravy @ *1849*  
  - Taco Chicken @ *Que Rico*  
  - Plant-Based Chicken Taco Filling @ *Que Rico*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
   
@@ -122,6 +112,10 @@ In name:
 **steak**  
 In name:   
  - Spicy Steak Fajita @ *Gordon Que Rico*  
+  
+**Salmon**  
+In name:   
+ - Baked Salmon Fillet @ *Great Greens*  
   
 **mahi mahi**  
 In name:   
