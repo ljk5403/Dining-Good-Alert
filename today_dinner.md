@@ -1,6 +1,6 @@
 # 2026-06-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-29 17:56:46  
+Updated at: 2026-06-29 19:07:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-06-29)  
 **Shrimp**  
 In name:   
@@ -40,6 +40,12 @@ In description:
 **broccoli rabe**  
 In name:   
  - Broccoli Rabe @ *1849*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Veggie Meatballs (Veg) @ *Global Kitchen*  
   
 **beef**  
 In name:   
