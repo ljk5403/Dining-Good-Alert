@@ -1,6 +1,6 @@
 # 2026-06-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-30 11:21:56  
+Updated at: 2026-06-30 13:54:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-30)  
 **Tandoori Chicken**  
 In name:   
@@ -107,13 +107,10 @@ In name:
   
 **Cod**  
 In name:   
-  
-In description:   
- - Petite Fish Sandwich @ *Gordon Fired Up*  
+ - Battered Cod Fillet Sandwich @ *Gordon Fired Up*  
   
 **fish**  
 In name:   
- - Petite Fish Sandwich @ *Gordon Fired Up*  
  - Vegan Fish Sandwich @ *Gordon Fired Up*  
   
 **watermelon**  
