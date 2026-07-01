@@ -1,6 +1,6 @@
 # 2026-07-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-01 13:58:14  
+Updated at: 2026-07-01 16:27:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-01)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -26,13 +26,11 @@ In name:
  - Pork & Beef Hard Salami @ *Delicious*  
  - Beef Chili @ *Great Greens*  
   
-In description:   
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
-  
 **pork**  
 In name:   
  - BBQ Pork Chop @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
+ - Pizza Slice Sausage (Pork) @ *Capital City Pizza*  
  - Filipino Pork Sausage @ *Global Kitchen*  
  - FiIipino Pork Spring Roll @ *Global Kitchen*  
  - Pork Carnita @ *Que Rico*  
@@ -50,9 +48,6 @@ In name:
  - Fajita Chicken @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
   
-In description:   
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
-  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-07-01)  
 **portabella**  
 In name:   
@@ -60,30 +55,18 @@ In name:
 In description:   
  - Vegan French Dip Sandwich @ *Fired Up*  
   
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
-  
 **beef**  
 In name:   
  - Beef Ravioli w/Tomato Sauce @ *1849*  
- - Beef Barbacoa @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
  - Beef Chili @ *Great Greens*  
-  
-In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
-  
-**pork**  
-In name:   
-  
-In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **chicken**  
 In name:   
  - Crispy Chicken Sandwich @ *Fired Up*  
  - Chicken Wings Boneless (CN) @ *Global Kitchen*  
+ - Chicken Tinga @ *Que Rico*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-07-01)  
@@ -93,6 +76,10 @@ In name:
 In description:   
  - Grilled Portabello Mushroom Sandwich @ *Global Kitchen*  
   
+**watermelon**  
+In name:   
+ - Melon Watermelon Whole Sliced @ *Great Greens*  
+  
 **beef**  
 In name:   
  - Beef Roast w/Mushroom Demi Glace @ *Global Kitchen*  
@@ -101,6 +88,7 @@ In name:
 **chicken**  
 In name:   
  - Greek Lemon Chicken Breast @ *Global Kitchen*  
+ - Diced Chicken @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-07-01)  
 **Chicken Drummies**  
