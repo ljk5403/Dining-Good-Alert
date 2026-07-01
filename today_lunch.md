@@ -1,6 +1,6 @@
 # 2026-06-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-06-30 18:11:40  
+Updated at: 2026-06-30 22:49:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-06-30)  
 **Tandoori Chicken**  
 In name:   
@@ -139,6 +139,9 @@ In name:
  - Maple Cider Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Italian Chicken @ *Gordon Buona Cucina*  
+ - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
+ - Sesame Chicken @ *Gordon Global Kitchen*  
+ - Plant Based Sesame Chicken (AYCTE) (VN) @ *Gordon Global Kitchen*  
  - Chicken Dumpling Soup @ *Great Greens*  
   
 In description:   
