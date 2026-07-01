@@ -1,25 +1,14 @@
 # 2026-07-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-01 04:43:45  
+Updated at: 2026-07-01 11:25:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-01)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
  - Vanilla Coconut Milk Yogurt @ *Great Greens*  
   
-**portabella**  
-In name:   
-  
-In description:   
- - Vegetable Cheesesteak Sandwich @ *Fired Up*  
-  
 **FiIipino Pork Spring Roll**  
 In name:   
  - FiIipino Pork Spring Roll @ *Global Kitchen*  
-  
-**steak**  
-In name:   
- - Philly Cheesesteak Sandwich @ *Fired Up*  
- - Vegetable Cheesesteak Sandwich @ *Fired Up*  
   
 **Tuna**  
 In name:   
@@ -32,21 +21,21 @@ In name:
 **beef**  
 In name:   
  - Beef Pasta Tortellini @ *Buona Cucina*  
+ - Beef Taco Meat @ *Que Rico*  
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
  - Beef Chili @ *Great Greens*  
   
 In description:   
- - Philly Cheesesteak Sandwich @ *Fired Up*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  
 In name:   
  - BBQ Pork Chop @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
- - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
  - Filipino Pork Sausage @ *Global Kitchen*  
  - FiIipino Pork Spring Roll @ *Global Kitchen*  
- - Ancho Pork Rice Bowl @ *Que Rico*  
+ - Pork Carnita @ *Que Rico*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
@@ -57,10 +46,12 @@ In description:
 **chicken**  
 In name:   
  - Chicken Pot Pie w/Biscuit @ *1849*  
+ - Crispy Chicken Sandwich @ *Fired Up*  
+ - Fajita Chicken @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
   
 In description:   
- - Ancho Pork Rice Bowl @ *Que Rico*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-07-01)  
 **portabella**  
@@ -118,6 +109,10 @@ In name:
 **Chicken Drummies**  
 In name:   
  - Chicken Drummies @ *1849*  
+  
+**Salmon**  
+In name:   
+ - Salmon @ *Great Greens*  
   
 **fish**  
 In name:   

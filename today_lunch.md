@@ -1,6 +1,6 @@
 # 2026-07-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-01 04:43:43  
+Updated at: 2026-07-01 11:25:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-01)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -41,8 +41,6 @@ In description:
 **chicken**  
 In name:   
  - Chicken Parmigiana @ *1849*  
- - Chicken, Bacon, Jalapeno Pizza @ *Capital City Pizza*  
- - Spicy Lo Mein w/Chicken @ *Global Kitchen*  
  - Fajita Chicken @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
   
@@ -53,7 +51,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Barbacoa @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
  - Beef Chili @ *Great Greens*  
   
@@ -71,6 +68,7 @@ In name:
  - Chicken Pot Pie w/ Biscuit @ *1849*  
  - Plant-Based Chicken Nuggets (8) @ *Global Kitchen*  
  - Chicken Wings Boneless (CN) @ *Global Kitchen*  
+ - Chicken Tinga @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-07-01)  
@@ -92,14 +90,9 @@ In name:
  - Dan Dan w/ Chicken (CN) @ *1849*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-07-01)  
-**portabella**  
+**Salmon**  
 In name:   
- - Portabella Mushroom Bulgogi Taco @ *Gordon Global Kitchen*  
-  
-**Bulgogi**  
-In name:   
- - Beef Bulgogi Taco @ *Gordon Global Kitchen*  
- - Portabella Mushroom Bulgogi Taco @ *Gordon Global Kitchen*  
+ - Salmon @ *Great Greens*  
   
 **Tilapia**  
 In name:   
@@ -108,7 +101,6 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Bulgogi Taco @ *Gordon Global Kitchen*  
  - Beef Barbacoa @ *Gordon Que Rico*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef Chili @ *Great Greens*  
