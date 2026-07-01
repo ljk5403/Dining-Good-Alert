@@ -1,6 +1,6 @@
 # 2026-07-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-01 13:58:09  
+Updated at: 2026-07-01 16:27:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-01)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -45,23 +45,10 @@ In name:
  - Diced Chicken @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-07-01)  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
-  
 **beef**  
 In name:   
  - Beef Taco Meat @ *Que Rico*  
  - Beef Chili @ *Great Greens*  
-  
-In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
-  
-**pork**  
-In name:   
-  
-In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -70,11 +57,16 @@ In name:
  - Chicken Wings Boneless (CN) @ *Global Kitchen*  
  - Chicken Tinga @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-07-01)  
 **steak**  
 In name:   
  - Beef Stir Fry Pepper Steak (CN) @ *1849*  
+  
+**watermelon**  
+In name:   
+ - Melon Watermelon Whole Sliced @ *Great Greens*  
   
 **curry**  
 In name:   
@@ -89,6 +81,7 @@ In name:
 In name:   
  - Dan Dan w/ Chicken (CN) @ *1849*  
  - Chicken Pot Pie w/ Biscuit (AYCTE)(CN) @ *Global Kitchen*  
+ - Diced Chicken @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-07-01)  
 **Salmon**  
