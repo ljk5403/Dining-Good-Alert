@@ -1,6 +1,6 @@
 # 2026-07-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-01 11:25:35  
+Updated at: 2026-07-01 13:58:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-01)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -95,11 +95,8 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Roast w/Mushroom Demi Glace @ *Global Kitchen*  
  - Beef Chili @ *Great Greens*  
-  
-**pork**  
-In name:   
- - Baked Pork Ham @ *Global Kitchen*  
   
 **chicken**  
 In name:   
