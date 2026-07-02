@@ -1,6 +1,6 @@
 # 2026-07-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-02 11:04:14  
+Updated at: 2026-07-02 13:24:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-02)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -110,7 +110,7 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
- - Baked Corn Dog @ *Gordon Fired Up*  
+ - Grilled Blended Burger w/ Cheese @ *Gordon Fired Up*  
   
 **pork**  
 In name:   
@@ -118,18 +118,16 @@ In name:
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
- - Baked Corn Dog @ *Gordon Fired Up*  
   
 **chicken**  
 In name:   
  - Montreal Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Italian Chicken @ *Gordon Buona Cucina*  
- - Chicken Noodle Soup @ *Great Greens*  
+ - Lemon Chicken Rice Soup @ *Great Greens*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
- - Baked Corn Dog @ *Gordon Fired Up*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-07-02)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-07-02)  
