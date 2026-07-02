@@ -1,6 +1,6 @@
 # 2026-07-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-01 18:14:26  
+Updated at: 2026-07-01 22:31:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-01)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -41,6 +41,7 @@ In description:
 **chicken**  
 In name:   
  - Chicken Parmigiana @ *1849*  
+ - Spicy Lo Mein w/Chicken @ *Global Kitchen*  
  - Fajita Chicken @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
   
@@ -49,6 +50,9 @@ In name:
 In name:   
  - Beef Taco Meat @ *Que Rico*  
  - Beef Chili @ *Great Greens*  
+  
+In description:   
+ - Soup Garden Vegetable @ *Great Greens*  
   
 **chicken**  
 In name:   
@@ -84,6 +88,15 @@ In name:
  - Diced Chicken @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-07-01)  
+**portabella**  
+In name:   
+ - Portabella Mushroom Bulgogi Taco @ *Gordon Global Kitchen*  
+  
+**Bulgogi**  
+In name:   
+ - Beef Bulgogi Taco @ *Gordon Global Kitchen*  
+ - Portabella Mushroom Bulgogi Taco @ *Gordon Global Kitchen*  
+  
 **Salmon**  
 In name:   
  - Salmon @ *Great Greens*  
@@ -95,6 +108,7 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Beef Bulgogi Taco @ *Gordon Global Kitchen*  
  - Beef Barbacoa @ *Gordon Que Rico*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef Chili @ *Great Greens*  

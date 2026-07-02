@@ -1,6 +1,6 @@
 # 2026-07-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-01 18:14:30  
+Updated at: 2026-07-01 22:31:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-01)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -60,6 +60,9 @@ In name:
  - Beef Ravioli w/Tomato Sauce @ *1849*  
  - Beef Taco Meat @ *Que Rico*  
  - Beef Chili @ *Great Greens*  
+  
+In description:   
+ - Soup Garden Vegetable @ *Great Greens*  
   
 **chicken**  
 In name:   
