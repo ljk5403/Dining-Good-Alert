@@ -1,6 +1,6 @@
 # 2026-07-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-02 13:24:25  
+Updated at: 2026-07-02 16:05:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-02)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -21,18 +21,13 @@ In name:
 In name:   
  - Blackened Shrimp @ *1849*  
   
-**fish**  
-In name:   
-  
-In description:   
- - Thai BBQ Pork Ribs @ *Global Kitchen*  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
   
 **curry**  
 In name:   
+ - Curry Mango - Pork @ *Global Kitchen*  
  - VEGAN Thai Chick'n w/ Green Curry (VN) @ *Global Kitchen*  
   
 **beef**  
@@ -48,8 +43,9 @@ In description:
   
 **pork**  
 In name:   
+ - Jerk Pork Chop @ *1849*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
- - Thai BBQ Pork Ribs @ *Global Kitchen*  
+ - Curry Mango - Pork @ *Global Kitchen*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
@@ -60,7 +56,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Spaghetti @ *1849*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Mediterranean Chicken @ *Que Rico*  
@@ -72,6 +67,22 @@ In description:
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-07-02)  
+**Poke Bar**  
+In name:   
+ - Poke Bar @ *Global Kitchen*  
+  
+**Shrimp**  
+In name:   
+  
+In description:   
+ - Poke Bar @ *Global Kitchen*  
+  
+**Tuna**  
+In name:   
+  
+In description:   
+ - Poke Bar @ *Global Kitchen*  
+  
 **beef**  
 In name:   
  - Beef Taco Meat @ *Que Rico*  
