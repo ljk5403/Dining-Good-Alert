@@ -1,6 +1,6 @@
 # 2026-07-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-02 11:04:18  
+Updated at: 2026-07-02 13:24:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-02)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -152,7 +152,7 @@ In name:
  - Italian Chicken @ *Gordon Buona Cucina*  
  - Tikka Masala Chicken @ *Gordon Global Kitchen*  
  - Jerk Chicken Sandwich @ *Fired Up*  
- - Chicken Noodle Soup @ *Great Greens*  
+ - Lemon Chicken Rice Soup @ *Great Greens*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
