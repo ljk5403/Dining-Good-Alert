@@ -1,6 +1,6 @@
 # 2026-07-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-03 14:20:24  
+Updated at: 2026-07-03 16:04:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-03)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -48,10 +48,6 @@ In description:
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-07-03)  
-**steak**  
-In name:   
- - Grilled Steak Hero @ *Fired Up*  
-  
 **Shrimp**  
 In name:   
  - Shrimp Curry @ *1849*  
@@ -75,7 +71,6 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Grilled Steak Hero @ *Fired Up*  
  - Vegan Taco Filling @ *Que Rico*  
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
@@ -87,6 +82,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Spicy Crispy Chicken Sandwich @ *Fired Up*  
  - Mediterranean Chicken @ *Global Kitchen*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
@@ -115,10 +111,6 @@ In name:
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-07-03)  
-**drumstick**  
-In name:   
- - Chicken Drumstick Teriyaki Glazed @ *1849*  
-  
 **Shrimp**  
 In name:   
  - Sauteed Shrimp @ *Gordon Buona Cucina*  
@@ -170,7 +162,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Drumstick Teriyaki Glazed @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
   
 In description:   

@@ -1,6 +1,6 @@
 # 2026-07-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-03 16:04:51  
+Updated at: 2026-07-03 18:02:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-03)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -113,9 +113,8 @@ In name:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-07-03)  
 **Shrimp**  
 In name:   
- - Sauteed Shrimp @ *Gordon Buona Cucina*  
+ - Chipotle Shrimp @ *Gordon Buona Cucina*  
  - Shrimp Curry @ *Gordon Global Kitchen*  
- - Chipotle Shrimp @ *Gordon Que Rico*  
  - Shrimp Po-Boy Sandwich @ *Fired Up*  
   
 **Cod**  
@@ -163,6 +162,7 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Chicken Tinga @ *Gordon Que Rico*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
