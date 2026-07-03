@@ -1,6 +1,6 @@
 # 2026-07-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-03 12:24:30  
+Updated at: 2026-07-03 14:20:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-03)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -26,10 +26,6 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**curry**  
-In name:   
- - Mixed Vegetable Curry @ *Global Kitchen*  
-  
 **beef**  
 In name:   
  - Beef Taco Meat @ *Que Rico*  
@@ -54,7 +50,6 @@ In description:
   
 **chicken**  
 In name:   
- - Butter Chicken @ *Global Kitchen*  
  - Fajita Chicken @ *Que Rico*  
  - Diced Chicken Breast @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
@@ -64,10 +59,6 @@ In description:
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-07-03)  
-**Salmon**  
-In name:   
- - Blackened Salmon @ *1849*  
-  
 **Shrimp**  
 In name:   
  - Sauteed Shrimp @ *Que Rico*  
@@ -101,6 +92,7 @@ In description:
   
 **chicken**  
 In name:   
+ - BBQ Chicken Breast @ *1849*  
  - Plant-Based Chicken & Dumplings @ *1849*  
  - Grilled Chicken Sandwich @ *Fired Up*  
  - Mediterranean Chicken @ *Global Kitchen*  
@@ -133,7 +125,6 @@ In name:
 **Shrimp**  
 In name:   
  - Sauteed Shrimp @ *Gordon Buona Cucina*  
- - Chipotle Shrimp @ *Gordon Que Rico*  
   
 **Cod**  
 In name:   
@@ -171,6 +162,7 @@ In description:
 In name:   
  - Brazilian Chicken w/ Salsa Vinaigrette @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Chicken Tinga @ *Gordon Que Rico*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
