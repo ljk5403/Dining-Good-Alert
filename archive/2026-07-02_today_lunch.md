@@ -1,6 +1,6 @@
 # 2026-07-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-03 04:16:13  
+Updated at: 2026-07-03 10:51:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-03)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -147,9 +147,9 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**curry**  
+**BBQ Pork Sandwich**  
 In name:   
- - Coconut Tofu w/Red Curry Sauce @ *Gordon Global Kitchen*  
+ - BBQ Pork Sandwich @ *Gordon Fired Up*  
   
 **beef**  
 In name:   
@@ -162,7 +162,7 @@ In description:
   
 **pork**  
 In name:   
- - Pulled Pork Sandwich with Maw Maw Slaw @ *Gordon Fired Up*  
+ - BBQ Pork Sandwich @ *Gordon Fired Up*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
@@ -171,7 +171,6 @@ In description:
 In name:   
  - Brazilian Chicken w/ Salsa Vinaigrette @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Butter Chicken @ *Gordon Global Kitchen*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
