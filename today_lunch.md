@@ -1,6 +1,6 @@
 # 2026-07-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-02 18:05:11  
+Updated at: 2026-07-02 21:54:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-02)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -102,6 +102,10 @@ In name:
 In name:   
  - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
   
+**curry**  
+In name:   
+ - Vegan Curry Stew @ *Gordon Global Kitchen*  
+  
 **beef**  
 In name:   
  - Beef Goulash w/Egg Noodles @ *1849*  
@@ -124,6 +128,8 @@ In name:
  - Montreal Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Italian Chicken @ *Gordon Buona Cucina*  
+ - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
+ - Jamaican Jerk Chicken @ *Gordon Global Kitchen*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 In description:   

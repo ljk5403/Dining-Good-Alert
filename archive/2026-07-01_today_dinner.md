@@ -1,6 +1,6 @@
 # 2026-07-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-02 16:05:37  
+Updated at: 2026-07-02 18:05:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-02)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -25,9 +25,12 @@ In name:
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
   
+**Filipino Pork Sausage**  
+In name:   
+ - Filipino Pork Sausage @ *Global Kitchen*  
+  
 **curry**  
 In name:   
- - Curry Mango - Pork @ *Global Kitchen*  
  - VEGAN Thai Chick'n w/ Green Curry (VN) @ *Global Kitchen*  
   
 **beef**  
@@ -45,7 +48,7 @@ In description:
 In name:   
  - Jerk Pork Chop @ *1849*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
- - Curry Mango - Pork @ *Global Kitchen*  
+ - Filipino Pork Sausage @ *Global Kitchen*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
@@ -115,12 +118,6 @@ In name:
  - Chicken Noodle Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-07-02)  
-**portabella**  
-In name:   
-  
-In description:   
- - Pesto Mushroom Sandwich @ *Fired Up*  
-  
 **steak**  
 In name:   
  - Grilled Flank Steak @ *1849*  
@@ -162,7 +159,6 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Italian Chicken @ *Gordon Buona Cucina*  
  - Tikka Masala Chicken @ *Gordon Global Kitchen*  
- - Jerk Chicken Sandwich @ *Fired Up*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 In description:   
