@@ -1,6 +1,6 @@
 # 2026-07-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-04 03:35:21  
+Updated at: 2026-07-04 10:04:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-05)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -127,53 +127,6 @@ In name:
  - Chicken Chili @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-07-05)  
-**portabella**  
-In name:   
-  
-In description:   
- - Pesto Mushroom Sandwich @ *1849*  
-  
-**steak**  
-In name:   
- - Plant-Based Pepper Steak Stir Fry @ *1849*  
-  
-**Shrimp**  
-In name:   
- - Coconut Shrimp @ *1849*  
-  
-**curry**  
-In name:   
- - Beef Bombay Curry @ *1849*  
-  
-**beef**  
-In name:   
- - Beef Bombay Curry @ *1849*  
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Barbacoa @ *Gordon Que Rico*  
- - Beef Taco Meat @ *Gordon Que Rico*  
-  
-In description:   
- - Plant-Based Pepper Steak Stir Fry @ *1849*  
- - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
- - Chicago-Style Hot Dog @ *Gordon Fired Up*  
-  
-**pork**  
-In name:   
- - Pork Miso w/Yakisoba Noodles @ *1849*  
-  
-In description:   
- - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
-  
-**chicken**  
-In name:   
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Italian Chicken @ *Gordon Buona Cucina*  
- - Chicken Chili @ *Great Greens*  
-  
-In description:   
- - Pork Miso w/Yakisoba Noodles @ *1849*  
- - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
-  
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-07-05)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-07-05)  
   

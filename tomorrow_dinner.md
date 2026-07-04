@@ -1,6 +1,6 @@
 # 2026-07-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-04 03:35:24  
+Updated at: 2026-07-04 10:04:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-05)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -132,36 +132,6 @@ In name:
  - Chicken Chili @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-07-05)  
-**beef**  
-In name:   
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Barbacoa @ *Gordon Que Rico*  
- - Beef Taco Meat @ *Gordon Que Rico*  
-  
-In description:   
- - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
-  
-**pork**  
-In name:   
- - Boneless Baked Pork Ham @ *1849*  
- - BBQ Pork Chop @ *1849*  
-  
-In description:   
- - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
-  
-**chicken**  
-In name:   
- - Chicken Pot Pie w/Biscuit @ *1849*  
- - Chicken Creole @ *1849*  
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Italian Chicken @ *Gordon Buona Cucina*  
- - Chicken Tenders Breaded @ *Fired Up*  
- - Plant-Based Chicken Nuggets (6) @ *Fired Up*  
- - Chicken Chili @ *Great Greens*  
-  
-In description:   
- - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
-  
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-07-05)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-07-05)  
   

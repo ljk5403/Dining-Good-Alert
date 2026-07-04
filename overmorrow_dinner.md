@@ -1,6 +1,6 @@
 # 2026-07-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-04 03:35:31  
+Updated at: 2026-07-04 10:04:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-06)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -132,48 +132,6 @@ In name:
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-07-06)  
-**fish**  
-In name:   
-  
-In description:   
- - Kung Pao Chicken @ *Gordon Global Kitchen*  
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
-  
-**beef**  
-In name:   
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Taco Meat @ *Gordon Que Rico*  
-  
-In description:   
- - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
- - Vegan Taco Filling @ *Gordon Que Rico*  
- - Blended Cowboy Burger @ *Fired Up*  
-  
-**pork**  
-In name:   
- - Pork Loin Spicy Greenbush @ *1849*  
- - Italian Pork Sausage @ *Gordon Buona Cucina*  
-  
-In description:   
- - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
-  
-**chicken**  
-In name:   
- - Grilled Chicken Fillet @ *1849*  
- - Chicken Gravy @ *1849*  
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Kung Pao Chicken @ *Gordon Global Kitchen*  
- - Plant-Based Chicken Lo Mein @ *Gordon Global Kitchen*  
- - Chicken Tinga @ *Gordon Que Rico*  
- - Diced Chicken @ *Great Greens*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
-  
-In description:   
- - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
-  
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-07-06)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-07-06)  
   

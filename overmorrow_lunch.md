@@ -1,6 +1,6 @@
 # 2026-07-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-04 03:35:28  
+Updated at: 2026-07-04 10:04:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-06)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -101,55 +101,6 @@ In name:
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-07-06)  
-**steak**  
-In name:   
- - Plant-Based Pepper Steak Stir Fry @ *1849*  
-  
-**Salmon**  
-In name:   
- - Baked Salmon with Mustard Sauce @ *1849*  
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Tikka Masala Chicken @ *Gordon Global Kitchen*  
-  
-**beef**  
-In name:   
- - Beef Stew @ *1849*  
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Taco Meat @ *Gordon Que Rico*  
-  
-In description:   
- - Plant-Based Pepper Steak Stir Fry @ *1849*  
- - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
- - Pork Bratwurst Sandwich @ *Gordon Fired Up*  
- - Vegan Taco Filling @ *Gordon Que Rico*  
-  
-**pork**  
-In name:   
- - Italian Pork Sausage @ *Gordon Buona Cucina*  
- - Pork Bratwurst Sandwich @ *Gordon Fired Up*  
-  
-In description:   
- - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
-  
-**chicken**  
-In name:   
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Tikka Masala Chicken @ *Gordon Global Kitchen*  
- - Chicken Tinga @ *Gordon Que Rico*  
- - Diced Chicken @ *Great Greens*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
-  
-In description:   
- - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
-  
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-07-06)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-07-06)  
   
