@@ -1,6 +1,6 @@
 # 2026-07-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-04 14:11:23  
+Updated at: 2026-07-04 15:56:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-04)  
 **portabella**  
 In name:   
@@ -58,15 +58,15 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Hot Dog @ *Fired Up*  
+ - Homemade Beef Lasagna @ *1849*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Pork Bratwurst Sandwich @ *Fired Up*  
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **pork**  
 In name:   
- - Pork Bratwurst Sandwich @ *Fired Up*  
   
 In description:   
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
