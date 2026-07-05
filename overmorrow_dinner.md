@@ -1,137 +1,113 @@
-# 2026-07-06 dinner  
+# 2026-07-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-04 23:14:37  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-06)  
+Updated at: 2026-07-05 03:50:56  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-07)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
  - Vanilla Coconut Milk Yogurt @ *Great Greens*  
   
-**drumstick**  
+**Samosas**  
 In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
+ - Samosas @ *Global Kitchen*  
   
-**fish**  
+**Salmon**  
 In name:   
+ - Oven Roasted Salmon @ *1849*  
   
-In description:   
- - Tom Kha Gai Soup @ *Global Kitchen*  
-  
-**Tuna**  
+**watermelon**  
 In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
+ - Watermelon Slices @ *Great Greens*  
   
-**BBQ Pork Sandwich**  
+**curry**  
 In name:   
- - BBQ Pork Sandwich @ *Fired Up*  
+ - Plant-Based Beef Curry Squash @ *Global Kitchen*  
   
 **beef**  
 In name:   
- - Beef Ravioli Plain @ *Buona Cucina*  
- - Beef Carne Guisada @ *Que Rico*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Beef Street Taco @ *Fired Up*  
+ - Plant-Based Beef Curry Squash @ *Global Kitchen*  
+ - Beef Vindaloo @ *Global Kitchen*  
+ - Beef Mediterranean @ *Que Rico*  
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
- - Pizza Slice - Bacon Cheeseburger @ *Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  
 In name:   
- - Cajun Rice w/ Pork & Black Eyed Peas @ *1849*  
- - BBQ Pork Sandwich @ *Fired Up*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
- - Bacon Slice @ *Delicious*  
  - Smoked Ham @ *Delicious*  
+ - Bacon Slice @ *Delicious*  
  - Bacon @ *Delicious*  
   
 **chicken**  
 In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
- - Diced Chicken Breast @ *Buona Cucina*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
+ - Za'atar and Lemon Grilled Chicken @ *1849*  
+ - Plant Based Chicken Strips @ *Buona Cucina*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Mediterranean Chicken @ *Que Rico*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Chicken Dumpling Soup @ *Great Greens*  
   
 In description:   
- - Tom Kha Gai Soup @ *Global Kitchen*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-07-06)  
-**Vanilla Coconut Milk Yogurt**  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-07-07)  
+**watermelon**  
 In name:   
-  
-In description:   
- - Great Greans - Yogurt Bar @ *Great Greens*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Crab Rangoon @ *Global Kitchen*  
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
+ - Watermelon Slices @ *Great Greens*  
   
 **curry**  
 In name:   
- - Seitan & Coconut Thai Curry @ *1849*  
+ - Curry Cauliflower & Butternut Squash @ *1849*  
   
 **beef**  
 In name:   
- - Big Texan Beef Sandwich (Half) @ *Fired Up*  
- - Protein - Beef Thinly Sliced @ *Global Kitchen*  
+ - Mediterranean Beef @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Build Your Own Maki Mono Bar @ *Global Kitchen*  
- - Vegan Taco Filling @ *Que Rico*  
+ - Grilled Blended Burger w/ Cheese @ *Fired Up*  
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **pork**  
 In name:   
- - Pork Adobo @ *1849*  
+ - BBQ Pork Chop @ *1849*  
   
 In description:   
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **chicken**  
 In name:   
- - Protein - Chicken Thinly Sliced @ *Global Kitchen*  
- - Chicken Tinga @ *Que Rico*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
+ - Mediterranean Chicken @ *Global Kitchen*  
+ - Taco Chicken @ *Que Rico*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Chicken Dumpling Soup @ *Great Greens*  
   
-In description:   
- - Build Your Own Maki Mono Bar @ *Global Kitchen*  
-  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-07-06)  
-**Chicken Drumstick Gochujang Glazed**  
-In name:   
- - Chicken Drumstick Gochujang Glazed @ *Global Kitchen*  
-  
-**drumstick**  
-In name:   
- - Chicken Drumstick Gochujang Glazed @ *Global Kitchen*  
-  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-07-07)  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
   
+**watermelon**  
+In name:   
+ - Melon Watermelon Whole Sliced @ *Great Greens*  
+  
 **beef**  
 In name:   
-  
-In description:   
- - Kielbasa (Pork) with Pierogis @ *Global Kitchen*  
-  
-**pork**  
-In name:   
- - Kielbasa (Pork) with Pierogis @ *Global Kitchen*  
+ - Beef Broccoli Stir Fry w/Teriyaki Sauce @ *Global Kitchen*  
   
 **chicken**  
 In name:   
- - Chicken Drumstick Gochujang Glazed @ *Global Kitchen*  
+ - Teriyaki Chicken Fillet @ *Global Kitchen*  
  - Diced Chicken @ *Great Greens*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
+ - Chicken Dumpling Soup @ *Great Greens*  
   
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-07-06)  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-07-06)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-07-06)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-07-07)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-07-07)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-07-07)  
   

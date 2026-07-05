@@ -1,66 +1,86 @@
-# 2026-07-04 dinner  
+# 2026-07-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-04 23:14:20  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-04)  
-**portabella**  
+Updated at: 2026-07-05 03:50:50  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-05)  
+**Vanilla Coconut Milk Yogurt**  
 In name:   
- - Caribbean Portabella w/Rice @ *Buona Cucina*  
+ - Vanilla Coconut Milk Yogurt @ *Great Greens*  
   
-**Chicken Drummies**  
+**lamb**  
 In name:   
- - Chicken Drummies @ *Fired Up*  
+ - Lamb & Beef Gyro Sandwich @ *Fired Up*  
   
-**duck**  
+**beef**  
 In name:   
- - Duck Curry @ *Global Kitchen*  
+ - Beef Ravioli Plain @ *Buona Cucina*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Lamb & Beef Gyro Sandwich @ *Fired Up*  
+ - Beef Taco Meat @ *Que Rico*  
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
+  
+In description:   
+ - Sliced Kielbasa (Pork) @ *1849*  
+ - Italian Meat Sauce @ *Buona Cucina*  
+ - Vegan Taco Filling @ *Que Rico*  
+  
+**pork**  
+In name:   
+ - Sliced Kielbasa (Pork) @ *1849*  
+ - Pork Carnita @ *Que Rico*  
+ - Pork & Beef Hard Salami @ *Delicious*  
+  
+In description:   
+ - Pizza Slice Sausage @ *Capital City Pizza*  
+ - Bacon Slice @ *Delicious*  
+ - Smoked Ham @ *Delicious*  
+ - Bacon @ *Delicious*  
+  
+**chicken**  
+In name:   
+ - Chicken Parmigiana @ *1849*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Plant Based Chicken Strips @ *Buona Cucina*  
+ - Chicken Teriyaki Stir Fry @ *Global Kitchen*  
+ - Fajita Chicken @ *Que Rico*  
+ - Chicken Salad @ *Delicious*  
+ - Diced Chicken @ *Great Greens*  
+ - Chicken Chili @ *Great Greens*  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-07-05)  
+**Vanilla Coconut Milk Yogurt**  
+In name:   
+  
+In description:   
+ - Great Greans - Yogurt Bar @ *Great Greens*  
+  
+**Salmon**  
+In name:   
+ - Tuscan Butter Salmon @ *1849*  
   
 **fish**  
 In name:   
   
 In description:   
- - Duck Curry @ *Global Kitchen*  
+ - Beef Masaman Thai Curry @ *Global Kitchen*  
   
 **curry**  
 In name:   
- - Duck Curry @ *Global Kitchen*  
- - Coconut Tofu w/Red Curry Sauce @ *Global Kitchen*  
+ - Beef Masaman Thai Curry @ *Global Kitchen*  
+ - Beef Thai Meatballs W/Green Curry Sauce @ *Global Kitchen*  
+  
+In description:   
+ - Citrus Couscous (VN) (AYCTE) @ *1849*  
   
 **beef**  
 In name:   
+ - Beef Masaman Thai Curry @ *Global Kitchen*  
+ - Beef Thai Meatballs W/Green Curry Sauce @ *Global Kitchen*  
+ - Beef Barbacoa @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
-  
-**pork**  
-In name:   
- - Pork Adobo @ *Buona Cucina*  
- - Pork Carnita @ *Que Rico*  
-  
-**chicken**  
-In name:   
- - Teriyaki Chicken Fillet @ *Buona Cucina*  
- - Chicken Drummies @ *Fired Up*  
- - Plant-Based Chicken Nuggets (6) @ *Fired Up*  
- - Chicken Tinga @ *Que Rico*  
-  
-In description:   
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
-  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-07-04)  
-**fish**  
-In name:   
-  
-In description:   
- - Kung Pao Chicken @ *Global Kitchen*  
-  
-**beef**  
-In name:   
- - Beef Hot Dog @ *Fired Up*  
- - Homemade Beef Lasagna @ *1849*  
- - Beef Taco Meat @ *Que Rico*  
-  
-In description:   
+ - Spicy Italian Meatball Sandwich @ *Fired Up*  
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **pork**  
@@ -71,11 +91,47 @@ In description:
   
 **chicken**  
 In name:   
- - Kung Pao Chicken @ *Global Kitchen*  
+ - Chicken Salad @ *Delicious*  
+ - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
   
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-07-04)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-07-04)  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-07-04)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-07-04)  
+In description:   
+ - Spicy Italian Meatball Sandwich @ *Fired Up*  
+  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-07-05)  
+**Vanilla Coconut Milk Yogurt**  
+In name:   
+ - Vanilla Coconut Milk Yogurt @ *Great Greens*  
+  
+**portabella**  
+In name:   
+ - Caribbean Portabella w/Rice @ *Global Kitchen*  
+  
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
+**curry**  
+In name:   
+  
+In description:   
+ - Maple Tahini Dressing @ *Great Greens*  
+  
+**beef**  
+In name:   
+ - Wrap Lettuce Beef Korean BBQ (no nuts) @ *Global Kitchen*  
+  
+**pork**  
+In name:   
+ - Herb Crusted Pork Loin @ *Global Kitchen*  
+  
+**chicken**  
+In name:   
+ - Chicken Gravy @ *Global Kitchen*  
+ - Diced Chicken @ *Great Greens*  
+ - Chicken Chili @ *Great Greens*  
+  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-07-05)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-07-05)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-07-05)  
   
