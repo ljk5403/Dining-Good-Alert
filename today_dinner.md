@@ -1,6 +1,6 @@
 # 2026-07-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-05 10:11:27  
+Updated at: 2026-07-05 12:08:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-05)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -99,10 +99,6 @@ In description:
  - Spicy Italian Meatball Sandwich @ *Fired Up*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-07-05)  
-**Vanilla Coconut Milk Yogurt**  
-In name:   
- - Vanilla Coconut Milk Yogurt @ *Great Greens*  
-  
 **portabella**  
 In name:   
  - Caribbean Portabella w/Rice @ *Global Kitchen*  
@@ -110,12 +106,6 @@ In name:
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Maple Tahini Dressing @ *Great Greens*  
   
 **beef**  
 In name:   

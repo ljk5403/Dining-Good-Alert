@@ -1,6 +1,6 @@
 # 2026-07-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-05 10:11:26  
+Updated at: 2026-07-05 12:08:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-05)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -22,7 +22,6 @@ In description:
 In name:   
  - Beef Taco Meat @ *Que Rico*  
  - Beef Ravioli Plain @ *Buona Cucina*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
@@ -47,10 +46,8 @@ In name:
  - Honey Mustard Chicken & Vegetables @ *1849*  
  - Tikka Masala Chicken @ *Global Kitchen*  
  - Fajita Chicken @ *Que Rico*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Plant Based Chicken Strips @ *Buona Cucina*  
- - Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
+ - Chicken Salad @ *Delicious*  
  - Chicken Chili @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-07-05)  
@@ -99,9 +96,9 @@ In description:
  - Corn Dog (Pork) @ *Fired Up*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-07-05)  
-**Vanilla Coconut Milk Yogurt**  
+**steak**  
 In name:   
- - Vanilla Coconut Milk Yogurt @ *Great Greens*  
+ - Beef Stir Fry Pepper Steak (CN) @ *1849*  
   
 **Tuna**  
 In name:   
@@ -111,11 +108,12 @@ In name:
 In name:   
   
 In description:   
- - Maple Tahini Dressing @ *Great Greens*  
+ - Aloo Bodi Tama (VN) @ *1849*  
   
 **beef**  
 In name:   
  - Beef Tri Tip Carved w/ Chimichurri @ *1849*  
+ - Beef Stir Fry Pepper Steak (CN) @ *1849*  
   
 **pork**  
 In name:   
