@@ -1,14 +1,10 @@
 # 2026-07-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-06 13:54:06  
+Updated at: 2026-07-06 16:27:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-06)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
  - Vanilla Coconut Milk Yogurt @ *Great Greens*  
-  
-**drumstick**  
-In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
   
 **fish**  
 In name:   
@@ -47,7 +43,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
+ - Blackened Chicken @ *1849*  
  - Diced Chicken Breast @ *Buona Cucina*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
