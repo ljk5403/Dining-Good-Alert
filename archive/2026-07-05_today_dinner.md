@@ -1,6 +1,6 @@
 # 2026-07-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-06 05:19:04  
+Updated at: 2026-07-06 11:50:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-06)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -69,7 +69,7 @@ In description:
   
 **Tuna**  
 In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
+ - Tuna Salad @ *Delicious*  
   
 **curry**  
 In name:   
@@ -84,14 +84,10 @@ In name:
 In description:   
  - Build Your Own Maki Mono Bar @ *Global Kitchen*  
  - Vegan Taco Filling @ *Que Rico*  
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **pork**  
 In name:   
  - Pork Adobo @ *1849*  
-  
-In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **chicken**  
 In name:   
