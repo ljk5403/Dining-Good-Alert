@@ -1,6 +1,6 @@
 # 2026-07-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-05 15:58:54  
+Updated at: 2026-07-05 17:08:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-05)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -54,28 +54,30 @@ In name:
 In description:   
  - Great Greans - Yogurt Bar @ *Great Greens*  
   
+**portabella**  
+In name:   
+  
+In description:   
+ - Mushroom Bulgogi Bao Bun @ *Global Kitchen*  
+  
+**Bulgogi**  
+In name:   
+ - Beef Bulgogi Bao Bun @ *Global Kitchen*  
+ - Mushroom Bulgogi Bao Bun @ *Global Kitchen*  
+  
 **Salmon**  
 In name:   
  - Tuscan Butter Salmon @ *1849*  
   
-**fish**  
-In name:   
-  
-In description:   
- - Beef Masaman Thai Curry @ *Global Kitchen*  
-  
 **curry**  
 In name:   
- - Beef Masaman Thai Curry @ *Global Kitchen*  
- - Beef Thai Meatballs W/Green Curry Sauce @ *Global Kitchen*  
   
 In description:   
  - Citrus Couscous (VN) (AYCTE) @ *1849*  
   
 **beef**  
 In name:   
- - Beef Masaman Thai Curry @ *Global Kitchen*  
- - Beef Thai Meatballs W/Green Curry Sauce @ *Global Kitchen*  
+ - Beef Bulgogi Bao Bun @ *Global Kitchen*  
  - Beef Barbacoa @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
   
