@@ -1,6 +1,6 @@
 # 2026-07-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-06 16:27:58  
+Updated at: 2026-07-06 18:06:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-06)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -124,6 +124,10 @@ In name:
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-07-06)  
+**steak**  
+In name:   
+ - Grilled Flank Steak @ *1849*  
+  
 **fish**  
 In name:   
   
@@ -140,6 +144,7 @@ In name:
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
+ - Grilled Flank Steak @ *1849*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Vegan Taco Filling @ *Gordon Que Rico*  
  - Blended Cowboy Burger @ *Fired Up*  
@@ -154,7 +159,6 @@ In description:
   
 **chicken**  
 In name:   
- - Grilled Chicken Fillet @ *1849*  
  - Chicken Gravy @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Kung Pao Chicken @ *Gordon Global Kitchen*  
