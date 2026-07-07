@@ -1,6 +1,6 @@
 # 2026-07-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-07 16:22:58  
+Updated at: 2026-07-07 18:00:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-07)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -9,10 +9,6 @@ In name:
 **Samosas**  
 In name:   
  - Samosas @ *Global Kitchen*  
-  
-**Salmon**  
-In name:   
- - Oven Roasted Salmon @ *1849*  
   
 **watermelon**  
 In name:   
@@ -47,6 +43,7 @@ In description:
 **chicken**  
 In name:   
  - Za'atar and Lemon Grilled Chicken @ *1849*  
+ - Butter Chicken @ *1849*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Mediterranean Chicken @ *Que Rico*  
@@ -121,16 +118,8 @@ In name:
 In name:   
  - Hoisin BBQ Glazed Salmon @ *1849*  
   
-**Cod**  
-In name:   
-  
-In description:   
- - Petite Fish Sandwich @ *Fired Up*  
-  
 **fish**  
 In name:   
- - Petite Fish Sandwich @ *Fired Up*  
- - Vegan Fish Sandwich @ *Fired Up*  
   
 In description:   
  - Hoisin BBQ Glazed Salmon @ *1849*  
@@ -144,7 +133,6 @@ In name:
  - Beef Tri Tip Carved w/ Chimichurri @ *1849*  
  - Texas BBQ Sliced Beef Brisket @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Vindaloo @ *Gordon Global Kitchen*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   

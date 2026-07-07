@@ -1,6 +1,6 @@
 # 2026-07-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-07 14:00:59  
+Updated at: 2026-07-07 16:22:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-07)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -88,6 +88,10 @@ In name:
  - Chicken Dumpling Soup @ *Great Greens*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-07-07)  
+**Bulgogi**  
+In name:   
+ - Bulgogi Beef @ *1849*  
+  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
@@ -99,10 +103,12 @@ In name:
 **beef**  
 In name:   
  - Beef Broccoli Stir Fry w/Teriyaki Sauce @ *Global Kitchen*  
+ - Bulgogi Beef @ *1849*  
   
 **chicken**  
 In name:   
  - Teriyaki Chicken Fillet @ *Global Kitchen*  
+ - General Tso's Chicken @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
   
@@ -136,6 +142,7 @@ In name:
 **beef**  
 In name:   
  - Beef Tri Tip Carved w/ Chimichurri @ *1849*  
+ - Texas BBQ Sliced Beef Brisket @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Vindaloo @ *Gordon Global Kitchen*  
  - Beef Taco Meat @ *Gordon Que Rico*  
@@ -154,6 +161,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Brazilian Chicken w/ Salsa Vinaigrette @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Italian Chicken @ *Gordon Buona Cucina*  
  - Diced Chicken @ *Great Greens*  
