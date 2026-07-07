@@ -1,6 +1,6 @@
 # 2026-07-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-07 11:29:26  
+Updated at: 2026-07-07 14:00:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-07)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -38,7 +38,7 @@ In description:
   
 **pork**  
 In name:   
- - Jerk Pork Chop @ *1849*  
+ - Pork Adobo @ *1849*  
  - Pork Banh Mi @ *Fired Up*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
