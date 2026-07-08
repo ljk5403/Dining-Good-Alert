@@ -1,23 +1,37 @@
-# 2026-07-08 lunch  
+# 2026-07-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-07 19:07:33  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-08)  
+Updated at: 2026-07-08 03:26:03  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-09)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
  - Vanilla Coconut Milk Yogurt @ *Great Greens*  
   
+**steak**  
+In name:   
+ - Swiss Steak w/Brown Gravy @ *1849*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Kung Pao Chicken @ *Global Kitchen*  
+  
 **beef**  
 In name:   
- - Beef Harissa w/Couscous @ *1849*  
- - Beef Fajita Meat @ *Que Rico*  
- - Beef Taco Meat @ *Que Rico*  
+ - Barbacoa Beef w/Mango Habanero Sandwich @ *Fired Up*  
+ - Beef Mediterranean @ *Que Rico*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
- - Beef Chili @ *Great Greens*  
+  
+In description:   
+ - Swiss Steak w/Brown Gravy @ *1849*  
+ - Italian Meat Sauce @ *Buona Cucina*  
   
 **pork**  
 In name:   
- - Italian Pork Sausage @ *Buona Cucina*  
+ - Apple Cider Braised Pork w/Spatzle @ *1849*  
+ - BBQ Chicken & Bacon (Pork) Pizza @ *Capital City Pizza*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
@@ -27,95 +41,102 @@ In description:
   
 **chicken**  
 In name:   
- - Marrakech Chicken Breast @ *1849*  
- - Pizza Slice Chicken Sriracha @ *Capital City Pizza*  
- - Spicy Lo Mein w/Chicken @ *Global Kitchen*  
- - Chicken Tinga @ *Que Rico*  
+ - BBQ Chicken & Bacon (Pork) Pizza @ *Capital City Pizza*  
+ - Kung Pao Chicken @ *Global Kitchen*  
+ - Mediterranean Chicken @ *Que Rico*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Plant Based Chicken Strips @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Chicken Noodle Soup @ *Great Greens*  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-07-08)  
-**catfish**  
-In name:   
- - Panfried Southern Catfish @ *1849*  
+In description:   
+ - Apple Cider Braised Pork w/Spatzle @ *1849*  
   
-**fish**  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-07-09)  
+**Poke Bar**  
 In name:   
- - Panfried Southern Catfish @ *1849*  
+ - Build Your Own Poke Bar @ *Global Kitchen*  
+  
+**steak**  
+In name:   
+ - Swiss Steak w/Brown Gravy @ *1849*  
   
 **beef**  
 In name:   
- - Beef Barbacoa @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
- - Beef Chili @ *Great Greens*  
   
 In description:   
- - Vegan Sloppy Joe @ *1849*  
+ - Swiss Steak w/Brown Gravy @ *1849*  
+ - Pork Bratwurst Sandwich @ *Fired Up*  
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **pork**  
 In name:   
+ - Pork Bratwurst Sandwich @ *Fired Up*  
+ - Pork Carnita @ *Que Rico*  
   
 In description:   
- - Grilled Ham & Swiss Sandwich @ *Fired Up*  
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **chicken**  
 In name:   
- - Plant-Based Chicken Nuggets (8) @ *Global Kitchen*  
- - Chicken Wings Boneless Plain @ *Global Kitchen*  
+ - Plant-Based Chicken Taco Filling @ *Que Rico*  
+ - Chicken Noodle Soup @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-07-08)  
-**BBQ Pork Sandwich**  
-In name:   
- - BBQ Pork Sandwich @ *1849*  
-  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-07-09)  
 **beef**  
 In name:   
- - Garlic Herb Roast Beef @ *1849*  
- - Beef Chili @ *Great Greens*  
-  
-**pork**  
-In name:   
- - BBQ Pork Sandwich @ *1849*  
+ - Beef Taco Meat @ *1849*  
   
 **chicken**  
 In name:   
+ - Chicken Tinga @ *1849*  
  - Diced Chicken @ *Great Greens*  
+ - Chicken Noodle Soup @ *Great Greens*  
   
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-07-08)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-07-09)  
+**portabella**  
+In name:   
+  
+In description:   
+ - Pesto Mushroom Sandwich @ *Gordon Fired Up*  
+  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
+  
 **beef**  
 In name:   
- - Garlic Herb Roast Beef @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Barbacoa @ *Gordon Que Rico*  
  - Beef Taco Meat @ *Gordon Que Rico*  
- - Beef Chili @ *Great Greens*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
+ - Grilled Blended Burger w/ Cheese @ *Gordon Fired Up*  
   
 **pork**  
 In name:   
- - Italian Pork Sausage @ *Gordon Buona Cucina*  
+ - Pork Carnita @ *Gordon Que Rico*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
   
 **chicken**  
 In name:   
- - Broasted Chicken @ *1849*  
- - Plant-Based Chicken & Dumplings @ *1849*  
- - Chicken Gravy @ *1849*  
+ - Chicken Wings Bone-In Plain @ *1849*  
+ - Chicken Wings Boneless Plain @ *1849*  
+ - Plant-Based Chicken Nuggets (6) @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Orange Sweet & Spicy Chicken @ *Gordon Global Kitchen*  
- - Orange Sweet & Spicy "Chicken" @ *Gordon Global Kitchen*  
- - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
+ - Italian Chicken @ *Gordon Buona Cucina*  
+ - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
+ - Shoyu Chicken @ *Gordon Global Kitchen*  
  - Diced Chicken @ *Great Greens*  
+ - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-07-08)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-07-08)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-07-09)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-07-09)  
   
