@@ -1,6 +1,6 @@
 # 2026-07-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-08 03:25:58  
+Updated at: 2026-07-08 11:00:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-08)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -45,6 +45,10 @@ In name:
 In name:   
  - Lamb Vindaloo @ *Global Kitchen*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **Pakoras**  
 In name:   
  - Appetizer -  Pakoras Vegetable (Veg) @ *Global Kitchen*  
@@ -62,19 +66,9 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
  - Beef Chili @ *Great Greens*  
   
-In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
-  
-**pork**  
-In name:   
-  
-In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
-  
 **chicken**  
 In name:   
  - Crispy Chicken Sandwich @ *Fired Up*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-07-08)  
 **haddock**  

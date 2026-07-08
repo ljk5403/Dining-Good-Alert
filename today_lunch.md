@@ -1,6 +1,6 @@
 # 2026-07-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-08 03:25:53  
+Updated at: 2026-07-08 11:00:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-08)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -42,6 +42,10 @@ In name:
 In name:   
  - Panfried Southern Catfish @ *1849*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **beef**  
 In name:   
  - Beef Barbacoa @ *Que Rico*  
@@ -50,20 +54,17 @@ In name:
   
 In description:   
  - Vegan Sloppy Joe @ *1849*  
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **pork**  
 In name:   
   
 In description:   
  - Grilled Ham & Swiss Sandwich @ *Fired Up*  
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **chicken**  
 In name:   
  - Plant-Based Chicken Nuggets (8) @ *Global Kitchen*  
  - Chicken Wings Boneless Plain @ *Global Kitchen*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-07-08)  
 **BBQ Pork Sandwich**  
