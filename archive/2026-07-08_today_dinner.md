@@ -1,6 +1,6 @@
 # 2026-07-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-09 13:49:38  
+Updated at: 2026-07-09 16:22:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-09)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -48,10 +48,6 @@ In name:
  - Chicken Noodle Soup @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-07-09)  
-**portabella**  
-In name:   
- - Caribbean Portabella w/Rice @ *1849*  
-  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
