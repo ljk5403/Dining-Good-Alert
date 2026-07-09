@@ -1,6 +1,6 @@
 # 2026-07-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-09 04:37:17  
+Updated at: 2026-07-09 11:26:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-09)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -52,12 +52,13 @@ In name:
 In name:   
  - Caribbean Portabella w/Rice @ *1849*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **beef**  
 In name:   
  - Beef Taco Meat @ *Que Rico*  
-  
-In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **pork**  
 In name:   
@@ -65,14 +66,12 @@ In name:
   
 In description:   
  - Pizza Slice Sausage @ *Global Kitchen*  
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **chicken**  
 In name:   
  - Chicken Bruschetta Sandwich @ *Fired Up*  
  - Jamaican Jerk Chicken @ *1849*  
  - Plant-Based Chicken Taco Filling @ *Que Rico*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Noodle Soup @ *Great Greens*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-07-09)  
