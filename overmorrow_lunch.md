@@ -1,34 +1,31 @@
-# 2026-07-11 lunch  
+# 2026-07-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-09 21:57:50  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-11)  
+Updated at: 2026-07-10 04:32:52  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-12)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
  - Vanilla Coconut Milk Yogurt @ *Great Greens*  
   
-**steak**  
+**portabella**  
 In name:   
- - Beef Pepper Steak Stir Fry w/Teriyaki @ *Global Kitchen*  
- - Plant-Based Pepper Steak Stir Fry @ *Global Kitchen*  
+ - Portabella Mushroom Ravioli Plain @ *Buona Cucina*  
   
 **beef**  
 In name:   
- - Beef Pepper Steak Stir Fry w/Teriyaki @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
- - Pepperoni & Mushrooms Pizza @ *Capital City Pizza*  
- - Italian Meatball Sandwich @ *Fired Up*  
- - Plant-Based Pepper Steak Stir Fry @ *Global Kitchen*  
- - Italian Meat Sauce @ *Buona Cucina*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Grilled Blended Burger w/ Cheese @ *Fired Up*  
+ - Vegan Taco Filling @ *Que Rico*  
   
 **pork**  
 In name:   
- - BBQ Pork Chop @ *1849*  
+ - Baked Rigatoni w/ Pork Italian Sausage @ *1849*  
  - Pork Carnita @ *Que Rico*  
- - Italian Pork Sausage @ *Buona Cucina*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
@@ -38,99 +35,107 @@ In description:
   
 **chicken**  
 In name:   
+ - Sweet & Sour Chicken @ *Global Kitchen*  
+ - Plant Based Sweet & Sour Chicken @ *Global Kitchen*  
  - Chicken Tinga @ *Que Rico*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Plant Based Chicken Strips @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Chili @ *Great Greens*  
   
 In description:   
- - Pepperoni & Mushrooms Pizza @ *Capital City Pizza*  
- - Italian Meatball Sandwich @ *Fired Up*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-07-11)  
-**broccoli rabe**  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-07-12)  
+**Samosas**  
+In name:   
+ - Samosas @ *Global Kitchen*  
+  
+**curry**  
 In name:   
   
 In description:   
- - Tempeh w/Red Peppers & Broc Rabe @ *1849*  
-  
-**Shrimp**  
-In name:   
- - Chipotle Shrimp @ *1849*  
+ - Tikka Masala Chicken @ *Global Kitchen*  
+ - Sub - Vegetable & Tofu Madras @ *Global Kitchen*  
   
 **beef**  
 In name:   
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Chicago-Style Hot Dog @ *Fired Up*  
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **pork**  
 In name:   
- - Appetizer -  Fried Pork Potstickers @ *Global Kitchen*  
+ - Island Spiced Pork w/ Pineapple Salsa @ *1849*  
   
 In description:   
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **chicken**  
 In name:   
+ - Crispy Chicken Sandwich @ *Fired Up*  
+ - Tikka Masala Chicken @ *Global Kitchen*  
+ - Chicken Tinga @ *Que Rico*  
  - Chicken Chili @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-07-11)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-07-12)  
+**lamb**  
+In name:   
+ - Lamb & Beef Gyro Sandwich @ *1849*  
+  
 **beef**  
 In name:   
- - Homemade Beef Lasagna @ *1849*  
+ - Lamb & Beef Gyro Sandwich @ *1849*  
   
 **chicken**  
 In name:   
+ - Baked BBQ Chicken @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-07-11)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-07-12)  
+**catfish**  
+In name:   
+ - Blackened Catfish @ *1849*  
+  
 **fish**  
 In name:   
+ - Blackened Catfish @ *1849*  
   
-In description:   
- - Tempura Roll (FujiSan) @ *Gordon Global Kitchen*  
-  
-**BBQ Pork Sandwich**  
+**curry**  
 In name:   
- - Carolina BBQ Pork Sandwich @ *Gordon Fired Up*  
+ - Thai Veggie Meatballs w/ Green Curry @ *1849*  
   
 **beef**  
 In name:   
- - Beef Gravy @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Beef Barbacoa @ *Gordon Que Rico*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
- - Burnt Ends @ *1849*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
+ - Chicago-Style Hot Dog @ *Gordon Fired Up*  
   
 **pork**  
 In name:   
- - Italian Pork Sausage @ *Gordon Buona Cucina*  
- - Carolina BBQ Pork Sandwich @ *Gordon Fired Up*  
+ - Boneless Baked Pork Ham @ *1849*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
- - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 **chicken**  
 In name:   
- - Blackened Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
- - Chicken Tinga @ *Gordon Que Rico*  
- - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
+ - Italian Chicken @ *Gordon Buona Cucina*  
  - Diced Chicken @ *Great Greens*  
+ - Chicken Chili @ *Great Greens*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
- - Kale, Sausage & Potato Soup @ *Great Greens*  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-07-11)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-07-11)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-07-12)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-07-12)  
   
