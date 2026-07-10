@@ -1,6 +1,6 @@
 # 2026-07-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-09 16:22:11  
+Updated at: 2026-07-09 18:09:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-09)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -10,10 +10,6 @@ In name:
 In name:   
  - Bibimbap Bowl @ *Global Kitchen*  
  - Bibimbap Bowl - Modified - Composed Tofu @ *Global Kitchen*  
-  
-**drumstick**  
-In name:   
- - Chicken Drumstick Szechuan Glazed @ *1849*  
   
 **beef**  
 In name:   
@@ -39,7 +35,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Drumstick Szechuan Glazed @ *1849*  
+ - Teriyaki Chicken Fillet @ *1849*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
@@ -94,12 +90,6 @@ In description:
  - BYO Bar - Mac & Cheese (CN) @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-07-09)  
-**portabella**  
-In name:   
-  
-In description:   
- - Vegan Mushroom Banh Mi Sandwich @ *Fired Up*  
-  
 **fish**  
 In name:   
   
@@ -117,6 +107,7 @@ In name:
 **beef**  
 In name:   
  - Beef Tri Tip Carved w/ Chimichurri @ *1849*  
+ - Texas BBQ Sliced Beef Brisket @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
@@ -136,7 +127,7 @@ In description:
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Italian Chicken @ *Gordon Buona Cucina*  
- - Chicken Banh Mi @ *Fired Up*  
+ - Breaded Chicken Tenders @ *Fired Up*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
   

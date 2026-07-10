@@ -1,6 +1,6 @@
 # 2026-07-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-09 18:09:55  
+Updated at: 2026-07-09 21:57:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-09)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -128,6 +128,8 @@ In name:
  - Plant-Based Chicken Nuggets (6) @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Italian Chicken @ *Gordon Buona Cucina*  
+ - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
+ - Shoyu Chicken @ *Gordon Global Kitchen*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
   
