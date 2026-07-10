@@ -1,6 +1,6 @@
 # 2026-07-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-10 13:21:52  
+Updated at: 2026-07-10 16:04:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-10)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -25,6 +25,12 @@ In name:
 **clam**  
 In name:   
  - Clam Chowder @ *Great Greens*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Kung Pao Chicken @ *Global Kitchen*  
   
 **watermelon**  
 In name:   
@@ -51,6 +57,8 @@ In description:
 **chicken**  
 In name:   
  - Diced Chicken Breast @ *Buona Cucina*  
+ - Kung Pao Chicken @ *Global Kitchen*  
+ - Plant Based Sweet & Sour Chicken @ *Global Kitchen*  
  - Chicken and Cheese Flauta @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
@@ -65,7 +73,6 @@ In name:
   
 **Shrimp**  
 In name:   
- - Sauteed Shrimp @ *Que Rico*  
   
 In description:   
  - Drunken Noodles @ *1849*  
@@ -90,7 +97,7 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Fired Up Blended Burger @ *Fired Up*  
+ - Grilled Cheeseburger @ *Fired Up*  
  - Plant-Based Pepper Steak Stir Fry @ *Global Kitchen*  
  - Vegan Taco Filling @ *Que Rico*  
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
@@ -104,6 +111,7 @@ In description:
 **chicken**  
 In name:   
  - Orange Sweet & Spicy Chicken @ *Global Kitchen*  
+ - Chicken Tinga @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-07-10)  
