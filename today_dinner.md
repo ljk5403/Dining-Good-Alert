@@ -1,6 +1,6 @@
 # 2026-07-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-10 16:04:31  
+Updated at: 2026-07-10 17:58:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-10)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -94,7 +94,7 @@ In name:
   
 **beef**  
 In name:   
- - Beef Taco Meat @ *Que Rico*  
+ - Beef Barbacoa @ *Que Rico*  
   
 In description:   
  - Grilled Cheeseburger @ *Fired Up*  
@@ -104,6 +104,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Adobo @ *Que Rico*  
   
 In description:   
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
@@ -111,7 +112,6 @@ In description:
 **chicken**  
 In name:   
  - Orange Sweet & Spicy Chicken @ *Global Kitchen*  
- - Chicken Tinga @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-07-10)  
@@ -149,10 +149,6 @@ In description:
 **steak**  
 In name:   
  - Spicy Steak Fajita @ *Gordon Que Rico*  
-  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp @ *Gordon Buona Cucina*  
   
 **Cod**  
 In name:   
