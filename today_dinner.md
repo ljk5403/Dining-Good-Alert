@@ -1,6 +1,6 @@
 # 2026-07-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-11 14:05:23  
+Updated at: 2026-07-11 15:45:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-11)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -41,25 +41,20 @@ In description:
  - Pepperoni & Mushrooms Pizza @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-07-11)  
-**mahi mahi**  
+**steak**  
 In name:   
- - Baked Mahi Mahi w/ Butter & Lemon @ *1849*  
+ - Swiss Steak w/Brown Gravy @ *1849*  
   
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Citrus Couscous (VN) (AYCTE) @ *1849*  
   
 **beef**  
 In name:   
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
+ - Swiss Steak w/Brown Gravy @ *1849*  
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
  - Soup Garden Vegetable @ *Great Greens*  
   
@@ -77,6 +72,7 @@ In name:
   
 In description:   
  - BYO Bar - Mac & Cheese @ *Global Kitchen*  
+ - Collard Greens w/Bacon @ *1849*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-07-11)  
 **steak**  
