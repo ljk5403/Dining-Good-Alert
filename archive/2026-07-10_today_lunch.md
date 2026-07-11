@@ -1,6 +1,6 @@
 # 2026-07-11 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-11 11:57:02  
+Updated at: 2026-07-11 12:56:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-11)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -47,6 +47,10 @@ In description:
  - Italian Meatball Sandwich @ *Fired Up*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-07-11)  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
+  
 **BBQ Pork Sandwich**  
 In name:   
  - BBQ Pork Sandwich @ *1849*  
