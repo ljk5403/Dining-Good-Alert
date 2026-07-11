@@ -1,10 +1,14 @@
 # 2026-07-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-11 15:45:33  
+Updated at: 2026-07-11 16:48:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-11)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
  - Vanilla Coconut Milk Yogurt @ *Great Greens*  
+  
+**Salmon**  
+In name:   
+ - Grilled Sesame Ginger Salmon @ *1849*  
   
 **beef**  
 In name:   
@@ -20,7 +24,6 @@ In description:
   
 **pork**  
 In name:   
- - Biscuits & Pork Gravy @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
  - Pork Carnita @ *Que Rico*  
  - Pork & Beef Hard Salami @ *Delicious*  
@@ -100,6 +103,7 @@ In name:
 **beef**  
 In name:   
  - Beef Meatloaf @ *1849*  
+ - Beef Stroganoff Creamy @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
@@ -116,7 +120,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Enchilada Bake @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Chicken Tinga @ *Gordon Que Rico*  
  - Chicken Parmesan Sandwich @ *Fired Up*  
