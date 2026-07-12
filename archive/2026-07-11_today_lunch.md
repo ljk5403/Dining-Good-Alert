@@ -1,6 +1,6 @@
 # 2026-07-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-12 09:54:57  
+Updated at: 2026-07-12 10:58:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-12)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -122,6 +122,7 @@ In description:
 **pork**  
 In name:   
  - Boneless Baked Pork Ham @ *1849*  
+ - Pork Italian Sausage @ *Gordon Buona Cucina*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
@@ -129,7 +130,6 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Italian Chicken @ *Gordon Buona Cucina*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
   
