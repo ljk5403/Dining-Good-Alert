@@ -1,6 +1,6 @@
 # 2026-07-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-12 15:45:35  
+Updated at: 2026-07-12 16:49:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-12)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -37,7 +37,6 @@ In description:
 **pork**  
 In name:   
  - Pork Belly Char Sui @ *1849*  
- - Smoked Pulled Pork Sandwich @ *Fired Up*  
  - Pork Carnita @ *Que Rico*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
@@ -50,6 +49,7 @@ In description:
 In name:   
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
+ - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
  - Fajita Chicken @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Chili @ *Great Greens*  
