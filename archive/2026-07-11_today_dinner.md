@@ -1,6 +1,6 @@
 # 2026-07-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-12 12:09:43  
+Updated at: 2026-07-12 14:04:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-12)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -10,15 +10,22 @@ In name:
 In name:   
  - Portabella Mushroom Ravioli Plain @ *Buona Cucina*  
   
+**Bulgogi**  
+In name:   
+ - Bulgogi Beef @ *1849*  
+  
+**Shrimp**  
+In name:   
+ - Sweet & Sour Shrimp @ *Global Kitchen*  
+  
 **curry**  
 In name:   
- - Ground Beef Curry @ *Global Kitchen*  
  - Curry Cauliflower & Butternut Squash @ *Global Kitchen*  
   
 **beef**  
 In name:   
+ - Bulgogi Beef @ *1849*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Ground Beef Curry @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
@@ -29,7 +36,8 @@ In description:
   
 **pork**  
 In name:   
- - Boneless Baked Pork Ham @ *1849*  
+ - Pork Belly Char Sui @ *1849*  
+ - Smoked Pulled Pork Sandwich @ *Fired Up*  
  - Pork Carnita @ *Que Rico*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
@@ -40,10 +48,8 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken & Vegetables w/Dijon Vinaigrette @ *1849*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
- - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
  - Fajita Chicken @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Chili @ *Great Greens*  
