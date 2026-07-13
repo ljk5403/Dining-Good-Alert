@@ -1,6 +1,6 @@
 # 2026-07-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-13 04:24:32  
+Updated at: 2026-07-13 11:31:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-14)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
