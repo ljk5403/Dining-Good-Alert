@@ -1,16 +1,14 @@
 # 2026-07-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-13 16:56:19  
+Updated at: 2026-07-13 17:56:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-13)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
  - Vanilla Coconut Milk Yogurt @ *Great Greens*  
   
-**steak**  
+**Salmon**  
 In name:   
-  
-In description:   
- - Montreal Chicken @ *1849*  
+ - Oven Roasted Salmon @ *1849*  
   
 **Shrimp**  
 In name:   
@@ -53,7 +51,6 @@ In description:
   
 **chicken**  
 In name:   
- - Montreal Chicken @ *1849*  
  - Chicken Tamale with Oaxaca @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  

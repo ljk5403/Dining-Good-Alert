@@ -1,6 +1,6 @@
 # 2026-07-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-13 15:55:40  
+Updated at: 2026-07-13 16:56:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-13)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -127,17 +127,17 @@ In name:
 **beef**  
 In name:   
  - Beef Stroganoff Creamy @ *1849*  
+ - Sub - Korean Beef Top 9 Free @ *1849*  
+ - Beef Pot Roast @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
- - Vegan Taco Filling @ *Gordon Que Rico*  
- - Bacon Blended Cheeseburger @ *Fired Up*  
   
 **pork**  
 In name:   
- - Italian Pork Sausage @ *Gordon Buona Cucina*  
+ - Sri Lanka Deviled Pork @ *1849*  
+ - Italian Pork Sausage @ *1849*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
@@ -145,8 +145,7 @@ In description:
 **chicken**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Orange Sweet & Spicy Chicken @ *Gordon Global Kitchen*  
- - Chicken Tinga @ *Gordon Que Rico*  
+ - Italian Chicken @ *Gordon Buona Cucina*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 In description:   
