@@ -1,6 +1,6 @@
 # 2026-07-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-12 18:52:58  
+Updated at: 2026-07-12 21:42:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-12)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -118,6 +118,7 @@ In name:
 In description:   
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
+ - Chicago-Style Hot Dog @ *Gordon Fired Up*  
   
 **pork**  
 In name:   
