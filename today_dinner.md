@@ -1,6 +1,6 @@
 # 2026-07-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-13 13:42:24  
+Updated at: 2026-07-13 15:55:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-13)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -153,5 +153,9 @@ In description:
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-07-13)  
+**beef**  
+In name:   
+ - Texas BBQ Sliced Beef Brisket @ *Carson's 1849*  
+  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-07-13)  
   
