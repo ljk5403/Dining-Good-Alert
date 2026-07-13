@@ -1,6 +1,6 @@
 # 2026-07-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-13 04:24:25  
+Updated at: 2026-07-13 11:31:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-13)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -100,41 +100,24 @@ In name:
 In name:   
  - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
   
-**curry**  
-In name:   
- - Beef Bombay Curry @ *Gordon Global Kitchen*  
-  
-In description:   
- - Chana Saag w/ Tofu @ *Gordon Global Kitchen*  
-  
 **beef**  
 In name:   
  - Beef Pot Roast @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Bombay Curry @ *Gordon Global Kitchen*  
- - Beef Taco Meat @ *Gordon Que Rico*  
-  
-In description:   
- - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
- - Vegan Taco Filling @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
+ - French Market Pork Jambalaya @ *1849*  
  - Italian Pork Sausage @ *Gordon Buona Cucina*  
-  
-In description:   
- - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
   
 **chicken**  
 In name:   
  - Chicken Honey Lime w/ rice @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Chicken Tenders Breaded @ *Gordon Fired Up*  
- - Chicken Tinga @ *Gordon Que Rico*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 In description:   
- - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
+ - French Market Pork Jambalaya @ *1849*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-07-13)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-07-13)  
