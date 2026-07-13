@@ -1,6 +1,6 @@
 # 2026-07-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-13 15:56:04  
+Updated at: 2026-07-13 16:56:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-15)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -119,20 +119,9 @@ In name:
 In name:   
  - Chicken Drummies @ *1849*  
   
-**fish**  
-In name:   
-  
-In description:   
- - Beef Masaman Thai Curry @ *Gordon Global Kitchen*  
-  
-**curry**  
-In name:   
- - Beef Masaman Thai Curry @ *Gordon Global Kitchen*  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Masaman Thai Curry @ *Gordon Global Kitchen*  
  - Beef Barbacoa @ *Gordon Que Rico*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef Chili @ *Great Greens*  

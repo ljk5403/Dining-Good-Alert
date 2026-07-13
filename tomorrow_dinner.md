@@ -1,6 +1,6 @@
 # 2026-07-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-13 15:55:49  
+Updated at: 2026-07-13 16:56:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-14)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -153,7 +153,6 @@ In description:
   
 **pork**  
 In name:   
- - Edamame Fried Rice w/ Pork Potsticker @ *Gordon Global Kitchen*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
