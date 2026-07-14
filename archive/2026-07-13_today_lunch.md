@@ -1,6 +1,6 @@
 # 2026-07-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-14 03:02:20  
+Updated at: 2026-07-14 10:22:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-14)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -123,54 +123,24 @@ In name:
  - Chicken Dumpling Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-07-14)  
-**steak**  
-In name:   
- - Spicy Steak Fajita @ *Gordon Que Rico*  
-  
-**Cod**  
-In name:   
-  
-In description:   
- - Petite Fish Sandwich @ *Gordon Fired Up*  
-  
-**fish**  
-In name:   
- - Petite Fish Sandwich @ *Gordon Fired Up*  
- - Vegan Fish Sandwich @ *Gordon Fired Up*  
-  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Taco Meat @ *Gordon Que Rico*  
-  
-In description:   
- - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
- - Spicy Steak Fajita @ *Gordon Que Rico*  
+ - Beef & Chicken Meatballs @ *1849*  
   
 **pork**  
 In name:   
  - BBQ Pork Chop @ *1849*  
   
-In description:   
- - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
-  
 **chicken**  
 In name:   
  - Plant-Based Chicken Etouffee @ *1849*  
  - Maple Cider Chicken @ *1849*  
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Italian Chicken @ *Gordon Buona Cucina*  
- - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
- - Sesame Chicken @ *Gordon Global Kitchen*  
- - Plant Based Sesame Chicken (AYCTE) (VN) @ *Gordon Global Kitchen*  
+ - Beef & Chicken Meatballs @ *1849*  
  - Chicken Dumpling Soup @ *Great Greens*  
-  
-In description:   
- - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-07-14)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-07-14)  

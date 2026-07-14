@@ -1,6 +1,6 @@
 # 2026-07-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-14 10:22:09  
+Updated at: 2026-07-14 12:12:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-14)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -9,10 +9,6 @@ In name:
 **Tandoori Chicken**  
 In name:   
  - Tandoori Chicken @ *Global Kitchen*  
-  
-**Samosas**  
-In name:   
- - Samosas @ *Global Kitchen*  
   
 **Tuna**  
 In name:   
@@ -123,13 +119,20 @@ In name:
  - Chicken Dumpling Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-07-14)  
+**Vanilla Coconut Milk Yogurt**  
+In name:   
+ - Vanilla Coconut Milk Yogurt @ *Great Greens*  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *1849*  
+ - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+  
+In description:   
+ - Soup Garden Vegetable @ *Great Greens*  
   
 **pork**  
 In name:   
@@ -139,8 +142,10 @@ In name:
 In name:   
  - Plant-Based Chicken Etouffee @ *1849*  
  - Maple Cider Chicken @ *1849*  
- - Beef & Chicken Meatballs @ *1849*  
+ - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Italian Chicken @ *Gordon Buona Cucina*  
  - Chicken Dumpling Soup @ *Great Greens*  
+ - Chicken @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-07-14)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-07-14)  
