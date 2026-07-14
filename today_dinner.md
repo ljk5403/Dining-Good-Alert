@@ -1,6 +1,6 @@
 # 2026-07-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-14 14:17:52  
+Updated at: 2026-07-14 15:58:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-14)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -137,9 +137,13 @@ In name:
 In name:   
  - Spicy Steak Fajita @ *Gordon Que Rico*  
   
-**mahi mahi**  
+**catfish**  
 In name:   
- - Island Spiced Mahi Mahi @ *1849*  
+ - Blackened Catfish @ *1849*  
+  
+**fish**  
+In name:   
+ - Blackened Catfish @ *1849*  
   
 **watermelon**  
 In name:   
@@ -158,19 +162,20 @@ In description:
   
 **pork**  
 In name:   
+ - French Market Pork Jambalaya @ *1849*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
   
 **chicken**  
 In name:   
- - Chicken Creole @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Italian Chicken @ *Gordon Buona Cucina*  
  - Chicken Dumpling Soup @ *Great Greens*  
  - Chicken @ *Great Greens*  
   
 In description:   
+ - French Market Pork Jambalaya @ *1849*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-07-14)  
