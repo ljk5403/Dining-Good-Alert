@@ -1,6 +1,6 @@
 # 2026-07-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-14 17:05:09  
+Updated at: 2026-07-14 18:52:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-14)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -84,7 +84,6 @@ In name:
 **beef**  
 In name:   
  - Beef Broccoli Stir Fry @ *Global Kitchen*  
- - Beef Taco Meat @ *Que Rico*  
   
 In description:   
  - Bacon Bleu Blended Burger @ *Fired Up*  
@@ -92,6 +91,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
