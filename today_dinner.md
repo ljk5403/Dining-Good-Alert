@@ -1,6 +1,6 @@
 # 2026-07-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-14 15:58:50  
+Updated at: 2026-07-14 17:05:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-14)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -129,14 +129,6 @@ In name:
 In name:   
  - Vanilla Coconut Milk Yogurt @ *Great Greens*  
   
-**portabella**  
-In name:   
- - Banh Mi w/ Portabella Mushrooms @ *Fired Up*  
-  
-**steak**  
-In name:   
- - Spicy Steak Fajita @ *Gordon Que Rico*  
-  
 **catfish**  
 In name:   
  - Blackened Catfish @ *1849*  
@@ -151,32 +143,21 @@ In name:
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
- - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
- - Spicy Steak Fajita @ *Gordon Que Rico*  
- - Banh Mi Hot Dog @ *Fired Up*  
  - Soup Garden Vegetable @ *Great Greens*  
   
 **pork**  
 In name:   
  - French Market Pork Jambalaya @ *1849*  
   
-In description:   
- - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
-  
 **chicken**  
 In name:   
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Italian Chicken @ *Gordon Buona Cucina*  
  - Chicken Dumpling Soup @ *Great Greens*  
  - Chicken @ *Great Greens*  
   
 In description:   
  - French Market Pork Jambalaya @ *1849*  
- - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-07-14)  
 **pork**  
