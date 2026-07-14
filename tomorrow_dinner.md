@@ -1,6 +1,6 @@
 # 2026-07-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-13 18:55:25  
+Updated at: 2026-07-13 21:27:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-14)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -168,5 +168,13 @@ In description:
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-07-14)  
+**pork**  
+In name:   
+ - Cajun Rice w/ Pork & Black Eyed Peas @ *Carson's 1849*  
+  
+**chicken**  
+In name:   
+ - Chicken Creole @ *Carson's 1849*  
+  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-07-14)  
   
