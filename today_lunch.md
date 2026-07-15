@@ -1,14 +1,10 @@
 # 2026-07-15 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-15 10:24:53  
+Updated at: 2026-07-15 12:15:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-15)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
  - Vanilla Coconut Milk Yogurt @ *Great Greens*  
-  
-**broccoli rabe**  
-In name:   
- - Broccoli Rabe @ *1849*  
   
 **Tuna**  
 In name:   
@@ -91,15 +87,6 @@ In name:
  - Dan Dan w/ Chicken (CN) @ *1849*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-07-15)  
-**portabella**  
-In name:   
- - Portabella Mushroom Bulgogi Taco @ *Gordon Global Kitchen*  
-  
-**Bulgogi**  
-In name:   
- - Beef Bulgogi Taco @ *Gordon Global Kitchen*  
- - Portabella Mushroom Bulgogi Taco @ *Gordon Global Kitchen*  
-  
 **Tilapia**  
 In name:   
  - Baked Tilapia w/ Tomato Tapenade @ *1849*  
@@ -107,21 +94,9 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Bulgogi Taco @ *Gordon Global Kitchen*  
- - Beef Barbacoa @ *Gordon Que Rico*  
- - Beef Taco Meat @ *Gordon Que Rico*  
- - Beef Chili @ *Great Greens*  
   
 In description:   
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
- - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
-  
-**pork**  
-In name:   
- - Italian Pork Sausage @ *Gordon Buona Cucina*  
-  
-In description:   
- - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
   
 **chicken**  
 In name:   
@@ -129,9 +104,6 @@ In name:
  - Chicken Gravy @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
-  
-In description:   
- - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-07-15)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-07-15)  

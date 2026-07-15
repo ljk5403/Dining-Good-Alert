@@ -1,6 +1,6 @@
 # 2026-07-15 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-15 03:07:44  
+Updated at: 2026-07-15 10:24:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-15)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -41,7 +41,6 @@ In description:
 **chicken**  
 In name:   
  - Chicken Parmigiana @ *1849*  
- - Chicken, Bacon, Jalapeno Pizza @ *Capital City Pizza*  
  - Spicy Lo Mein w/Chicken @ *Global Kitchen*  
  - Fajita Chicken @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
