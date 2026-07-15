@@ -1,6 +1,6 @@
 # 2026-07-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-15 12:15:46  
+Updated at: 2026-07-15 14:08:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-15)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -75,7 +75,7 @@ In name:
   
 **beef**  
 In name:   
- - Beef Ravioli w/Tomato Sauce @ *1849*  
+ - Beef Ravioli w/Tomato Sauce @ *Global Kitchen*  
  - Beef Barbacoa @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
  - Beef Chili @ *Great Greens*  
@@ -92,7 +92,7 @@ In description:
 **chicken**  
 In name:   
  - Crispy Chicken Sandwich @ *Fired Up*  
- - Chicken Wings Boneless (CN) @ *Global Kitchen*  
+ - Chicken Wings Boneless (CN) @ *1849*  
  - Diced Chicken @ *Great Greens*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-07-15)  
@@ -115,6 +115,12 @@ In name:
  - Greek Lemon Chicken Breast @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-07-15)  
+**Vanilla Coconut Milk Yogurt**  
+In name:   
+  
+In description:   
+ - Yogurt Bar @ *Great Greens*  
+  
 **Chicken Drummies**  
 In name:   
  - Chicken Drummies @ *1849*  
@@ -124,6 +130,7 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Barbacoa @ *Gordon Que Rico*  
  - Beef Taco Meat @ *Gordon Que Rico*  
+ - Beef Chili @ *Great Greens*  
   
 In description:   
  - Italian Meat Sauce @ *Gordon Buona Cucina*  
@@ -142,6 +149,7 @@ In description:
 In name:   
  - Chicken Drummies @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Diced Chicken @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
   
 In description:   
