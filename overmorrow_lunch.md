@@ -1,6 +1,6 @@
 # 2026-07-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-15 18:56:40  
+Updated at: 2026-07-15 21:49:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-17)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -64,6 +64,12 @@ In description:
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-07-17)  
+**Vanilla Coconut Milk Yogurt**  
+In name:   
+  
+In description:   
+ - Great Greans - Yogurt Bar @ *Great Greens*  
+  
 **Salmon**  
 In name:   
  - Blackened Salmon @ *1849*  
@@ -130,6 +136,12 @@ In name:
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-07-17)  
+**Vanilla Coconut Milk Yogurt**  
+In name:   
+  
+In description:   
+ - Yogurt Bar @ *Great Greens*  
+  
 **Shrimp**  
 In name:   
  - Sauteed Shrimp @ *Gordon Buona Cucina*  
@@ -146,10 +158,6 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**BBQ Pork Sandwich**  
-In name:   
- - BBQ Pork Sandwich @ *Gordon Fired Up*  
-  
 **curry**  
 In name:   
  - Coconut Tofu w/Red Curry Sauce @ *Gordon Global Kitchen*  
@@ -157,15 +165,12 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
- - Vegan Taco Filling @ *Gordon Que Rico*  
   
 **pork**  
 In name:   
- - BBQ Pork Sandwich @ *Gordon Fired Up*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
@@ -175,7 +180,8 @@ In name:
  - Brazilian Chicken w/ Salsa Vinaigrette @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Butter Chicken @ *Gordon Global Kitchen*  
- - Taco Chicken @ *Gordon Que Rico*  
+ - Diced Chicken @ *Great Greens*  
+ - Chicken Sausage Patty @ *Great Greens*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  

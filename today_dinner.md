@@ -1,6 +1,6 @@
 # 2026-07-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-15 18:56:37  
+Updated at: 2026-07-15 21:48:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-15)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -134,6 +134,9 @@ In name:
  - Beef Barbacoa @ *Gordon Que Rico*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef Chili @ *Great Greens*  
+  
+In description:   
+ - Blended Cowboy Burger @ *Fired Up*  
   
 **chicken**  
 In name:   

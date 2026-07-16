@@ -1,6 +1,6 @@
 # 2026-07-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-15 18:56:39  
+Updated at: 2026-07-15 21:49:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-16)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -60,7 +60,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Spaghetti @ *1849*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Mediterranean Chicken @ *Que Rico*  
@@ -72,6 +71,12 @@ In description:
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-07-16)  
+**Vanilla Coconut Milk Yogurt**  
+In name:   
+  
+In description:   
+ - Great Greans - Yogurt Bar @ *Great Greens*  
+  
 **Poke Bar**  
 In name:   
  - Build Your Own Poke Bar @ *Global Kitchen*  
@@ -115,11 +120,11 @@ In name:
  - Chicken Noodle Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-07-16)  
-**portabella**  
+**Vanilla Coconut Milk Yogurt**  
 In name:   
   
 In description:   
- - Pesto Mushroom Sandwich @ *Fired Up*  
+ - Yogurt Bar @ *Great Greens*  
   
 **steak**  
 In name:   
@@ -150,8 +155,8 @@ In name:
  - Cajun Chicken Pasta @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Italian Chicken @ *Gordon Buona Cucina*  
- - Jerk Chicken Sandwich @ *Fired Up*  
- - Crispy Chicken Sandwich @ *Fired Up*  
+ - Diced Chicken @ *Great Greens*  
+ - Chicken Sausage Patty @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   

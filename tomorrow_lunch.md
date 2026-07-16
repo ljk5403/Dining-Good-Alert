@@ -1,6 +1,6 @@
 # 2026-07-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-15 18:56:38  
+Updated at: 2026-07-15 21:49:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-16)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -57,6 +57,12 @@ In description:
  - Chorizo Sauce @ *Buona Cucina*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-07-16)  
+**Vanilla Coconut Milk Yogurt**  
+In name:   
+  
+In description:   
+ - Great Greans - Yogurt Bar @ *Great Greens*  
+  
 **steak**  
 In name:   
  - Grilled Flank Steak @ *1849*  
@@ -102,6 +108,12 @@ In name:
  - Chicken Noodle Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-07-16)  
+**Vanilla Coconut Milk Yogurt**  
+In name:   
+  
+In description:   
+ - Yogurt Bar @ *Great Greens*  
+  
 **steak**  
 In name:   
   
@@ -138,8 +150,9 @@ In name:
  - Montreal Chicken @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Italian Chicken @ *Gordon Buona Cucina*  
- - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Jamaican Jerk Chicken @ *Gordon Global Kitchen*  
+ - Diced Chicken @ *Great Greens*  
+ - Chicken Sausage Patty @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   

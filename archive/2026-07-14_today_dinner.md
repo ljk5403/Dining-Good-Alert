@@ -1,6 +1,6 @@
 # 2026-07-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-15 17:08:24  
+Updated at: 2026-07-15 18:56:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-15)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -31,6 +31,7 @@ In name:
   
 **beef**  
 In name:   
+ - Texas BBQ Sliced Beef Brisket @ *1849*  
  - Beef Pasta Tortellini @ *Buona Cucina*  
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
@@ -41,7 +42,6 @@ In description:
   
 **pork**  
 In name:   
- - BBQ Pork Chop @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
  - Filipino Pork Sausage @ *Global Kitchen*  

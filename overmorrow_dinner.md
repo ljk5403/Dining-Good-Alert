@@ -1,6 +1,6 @@
 # 2026-07-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-15 18:56:42  
+Updated at: 2026-07-15 21:49:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-17)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -48,6 +48,12 @@ In description:
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-07-17)  
+**Vanilla Coconut Milk Yogurt**  
+In name:   
+  
+In description:   
+ - Great Greans - Yogurt Bar @ *Great Greens*  
+  
 **steak**  
 In name:   
  - Grilled Steak Hero @ *Fired Up*  
@@ -115,6 +121,12 @@ In name:
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-07-17)  
+**Vanilla Coconut Milk Yogurt**  
+In name:   
+  
+In description:   
+ - Yogurt Bar @ *Great Greens*  
+  
 **drumstick**  
 In name:   
  - Chicken Drumstick Teriyaki Glazed @ *1849*  
@@ -163,6 +175,8 @@ In description:
 In name:   
  - Chicken Drumstick Teriyaki Glazed @ *1849*  
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Diced Chicken @ *Great Greens*  
+ - Chicken Sausage Patty @ *Great Greens*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
