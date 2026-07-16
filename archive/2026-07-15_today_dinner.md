@@ -1,10 +1,12 @@
 # 2026-07-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-16 12:13:55  
+Updated at: 2026-07-16 14:08:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-16)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
- - Vanilla Coconut Milk Yogurt @ *Great Greens*  
+  
+In description:   
+ - Great Greans - Yogurt Bar @ *Great Greens*  
   
 **portabella**  
 In name:   
@@ -37,34 +39,34 @@ In name:
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Beef Bulgogi Bao Bun @ *Fired Up*  
  - Beef Mediterranean @ *Que Rico*  
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
 **pork**  
 In name:   
- - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
  - Thai BBQ Pork Ribs @ *Global Kitchen*  
  - Pork & Beef Hard Salami @ *Delicious*  
+ - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
 In description:   
- - Chorizo Sauce @ *Buona Cucina*  
  - Smoked Ham @ *Delicious*  
  - Bacon Slice @ *Delicious*  
  - Bacon @ *Delicious*  
+ - Chorizo Sauce @ *Buona Cucina*  
   
 **chicken**  
 In name:   
- - Plant Based Chicken Strips @ *Buona Cucina*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Mediterranean Chicken @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
+ - Plant Based Chicken Strips @ *Buona Cucina*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
  - Chorizo Sauce @ *Buona Cucina*  

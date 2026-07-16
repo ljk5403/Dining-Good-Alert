@@ -1,6 +1,6 @@
 # 2026-07-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-16 14:08:21  
+Updated at: 2026-07-16 15:56:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-17)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -24,26 +24,22 @@ In name:
 In name:   
  - Sliced BBQ Beef Brisket Sandwich @ *Fired Up*  
  - Beef Broccoli Stir Fry w/Teriyaki Sauce @ *Global Kitchen*  
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
+ - Deli @ *Delicious*  
   
 **pork**  
 In name:   
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
- - Bacon Slice @ *Delicious*  
- - Smoked Ham @ *Delicious*  
- - Bacon @ *Delicious*  
+ - Deli @ *Delicious*  
   
 **chicken**  
 In name:   
- - Chicken Mole w/ Rice @ *Que Rico*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Chicken Mole w/ Rice @ *Que Rico*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
@@ -82,9 +78,10 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Grilled Steak Hero @ *Fired Up*  
- - Vegan Taco Filling @ *Que Rico*  
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
+ - Grilled Steak Hero @ *Fired Up*  
+ - Build Your Own Mediterranean Bar @ *Global Kitchen*  
+ - Vegan Taco Filling @ *Que Rico*  
   
 **pork**  
 In name:   
@@ -94,9 +91,12 @@ In description:
   
 **chicken**  
 In name:   
- - Mediterranean Chicken @ *Global Kitchen*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Mediterranean Chicken @ *Global Kitchen*  
+  
+In description:   
+ - Build Your Own Mediterranean Bar @ *Global Kitchen*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-07-17)  
 **steak**  
@@ -134,9 +134,9 @@ In name:
   
 **Shrimp**  
 In name:   
- - Sauteed Shrimp @ *Gordon Buona Cucina*  
  - Chipotle Shrimp @ *Gordon Que Rico*  
  - Shrimp Po-Boy Sandwich @ *Fired Up*  
+ - Shrimp Curry @ *Global Kitchen*  
   
 **Cod**  
 In name:   
@@ -157,9 +157,15 @@ In description:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**curry**  
+In name:   
+ - Shrimp Curry @ *Global Kitchen*  
+  
+In description:   
+ - Navarathan Korma (AYCTE) @ *Global Kitchen*  
+  
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
@@ -175,7 +181,6 @@ In description:
 **chicken**  
 In name:   
  - Chicken Drumstick Teriyaki Glazed @ *1849*  
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Sausage Patty @ *Great Greens*  
   

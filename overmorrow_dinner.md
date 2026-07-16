@@ -1,6 +1,6 @@
 # 2026-07-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-16 14:08:29  
+Updated at: 2026-07-16 15:56:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-18)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -26,28 +26,35 @@ In name:
 In description:   
  - Duck Curry @ *Global Kitchen*  
   
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad @ *Delicious*  
+  
 **curry**  
 In name:   
- - Duck Curry @ *Global Kitchen*  
  - Coconut Tofu w/Red Curry Sauce @ *Global Kitchen*  
+ - Duck Curry @ *Global Kitchen*  
   
 **beef**  
 In name:   
- - Beef Taco Meat @ *Que Rico*  
+  
+In description:   
+ - Deli @ *Delicious*  
   
 **pork**  
 In name:   
  - Pork Belly Adobo @ *1849*  
- - Pork Carnita @ *Que Rico*  
+  
+In description:   
+ - Deli @ *Delicious*  
   
 **chicken**  
 In name:   
  - Teriyaki Chicken Fillet @ *1849*  
- - Chicken Drummies @ *Fired Up*  
- - Plant-Based Chicken Nuggets (6) @ *Fired Up*  
- - Chicken Tinga @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
+ - Plant-Based Chicken Nuggets (6) @ *Fired Up*  
+ - Chicken Drummies @ *Fired Up*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-07-18)  
 **Vanilla Coconut Milk Yogurt**  
@@ -67,8 +74,8 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Pork Bratwurst Sandwich @ *Fired Up*  
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
+ - Pork Bratwurst Sandwich @ *Fired Up*  
   
 **pork**  
 In name:   
@@ -79,9 +86,10 @@ In description:
   
 **chicken**  
 In name:   
- - Kung Pao Chicken @ *Global Kitchen*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Kung Pao Chicken @ *Global Kitchen*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-07-18)  
 **beef**  
@@ -112,7 +120,6 @@ In description:
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
@@ -122,7 +129,6 @@ In description:
 **pork**  
 In name:   
  - Herb Crusted Pork Loin @ *1849*  
- - Italian Pork Sausage @ *Gordon Buona Cucina*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
@@ -130,7 +136,6 @@ In description:
 **chicken**  
 In name:   
  - Greek Chicken @ *1849*  
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Chicken Tinga @ *Gordon Que Rico*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Sausage Patty @ *Great Greens*  

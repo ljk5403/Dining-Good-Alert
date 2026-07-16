@@ -1,10 +1,12 @@
 # 2026-07-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-16 12:13:53  
+Updated at: 2026-07-16 14:08:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-16)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
- - Vanilla Coconut Milk Yogurt @ *Great Greens*  
+  
+In description:   
+ - Great Greans - Yogurt Bar @ *Great Greens*  
   
 **Cod**  
 In name:   
@@ -26,7 +28,6 @@ In description:
 In name:   
  - Cowboy Bean w/ Beef & Pork @ *1849*  
  - Beef Mediterranean @ *Que Rico*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
@@ -40,18 +41,16 @@ In name:
  - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
- - Chorizo Sauce @ *Buona Cucina*  
  - Smoked Ham @ *Delicious*  
  - Bacon Slice @ *Delicious*  
  - Bacon @ *Delicious*  
+ - Chorizo Sauce @ *Buona Cucina*  
   
 **chicken**  
 In name:   
  - Huli Huli Chicken @ *1849*  
  - Madras Chicken w/Basmati Rice @ *Global Kitchen*  
  - Mediterranean Chicken @ *Que Rico*  
- - Plant Based Chicken Strips @ *Buona Cucina*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
   

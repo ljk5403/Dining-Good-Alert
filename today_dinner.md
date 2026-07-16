@@ -1,6 +1,6 @@
 # 2026-07-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-16 14:08:13  
+Updated at: 2026-07-16 15:56:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-16)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -39,30 +39,24 @@ In name:
   
 **beef**  
 In name:   
- - Beef Bulgogi Bao Bun @ *Fired Up*  
- - Beef Mediterranean @ *Que Rico*  
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Beef Bulgogi Bao Bun @ *Fired Up*  
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
+ - Deli @ *Delicious*  
   
 **pork**  
 In name:   
- - Thai BBQ Pork Ribs @ *Global Kitchen*  
- - Pork & Beef Hard Salami @ *Delicious*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
+ - Thai BBQ Pork Ribs @ *Global Kitchen*  
   
 In description:   
- - Smoked Ham @ *Delicious*  
- - Bacon Slice @ *Delicious*  
- - Bacon @ *Delicious*  
  - Chorizo Sauce @ *Buona Cucina*  
+ - Deli @ *Delicious*  
   
 **chicken**  
 In name:   
- - Mediterranean Chicken @ *Que Rico*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
@@ -81,11 +75,25 @@ In description:
   
 **Poke Bar**  
 In name:   
- - Build Your Own Poke Bar @ *Global Kitchen*  
+ - Poke Bar @ *Global Kitchen*  
+  
+**Shrimp**  
+In name:   
+  
+In description:   
+ - Poke Bar @ *Global Kitchen*  
   
 **Tuna**  
 In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
+  
+In description:   
+ - Poke Bar @ *Global Kitchen*  
+  
+**curry**  
+In name:   
+  
+In description:   
+ - Vegetable & Tofu Madras w/Basmati Rice @ *1849*  
   
 **beef**  
 In name:   
@@ -93,20 +101,20 @@ In name:
   
 In description:   
  - Grilled Blended Burger w/ Cheese @ *Fired Up*  
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **pork**  
 In name:   
  - Pork Loin Spicy Greenbush @ *1849*  
  - Pork Carnita @ *Que Rico*  
   
-In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
-  
 **chicken**  
 In name:   
  - Diced Chicken @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
+  
+In description:   
+ - Collard Greens w/Bacon @ *1849*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-07-16)  
 **fish**  
@@ -132,8 +140,8 @@ In name:
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Beef Taco Meat @ *Gordon Que Rico*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
  - Grilled Flank Steak @ *1849*  
@@ -149,10 +157,10 @@ In description:
 **chicken**  
 In name:   
  - Cajun Chicken Pasta @ *1849*  
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Italian Chicken @ *Gordon Buona Cucina*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Italian Chicken @ *Buona Cucina*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  

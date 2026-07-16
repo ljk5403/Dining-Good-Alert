@@ -1,6 +1,6 @@
 # 2026-07-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-16 14:08:17  
+Updated at: 2026-07-16 15:56:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-17)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -35,31 +35,27 @@ In name:
 **beef**  
 In name:   
  - Beef Taco Meat @ *Que Rico*  
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Porkloin Fritter Plate @ *1849*  
  - Jaeger Sauce @ *1849*  
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
+ - Deli @ *Delicious*  
   
 **pork**  
 In name:   
  - Porkloin Fritter Plate @ *1849*  
  - Pork Carnita @ *Que Rico*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
- - Bacon Slice @ *Delicious*  
- - Smoked Ham @ *Delicious*  
- - Bacon @ *Delicious*  
+ - Deli @ *Delicious*  
   
 **chicken**  
 In name:   
+ - Diced Chicken @ *Great Greens*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
  - Butter Chicken @ *Global Kitchen*  
  - Fajita Chicken @ *Que Rico*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
- - Diced Chicken @ *Great Greens*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
@@ -97,8 +93,9 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Vegan Taco Filling @ *Que Rico*  
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
+ - Build Your Own Mediterranean Bar @ *Global Kitchen*  
+ - Vegan Taco Filling @ *Que Rico*  
   
 **pork**  
 In name:   
@@ -108,11 +105,14 @@ In description:
   
 **chicken**  
 In name:   
+ - Diced Chicken @ *Great Greens*  
  - Plant-Based Chicken & Dumplings @ *1849*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
  - Grilled Chicken Sandwich @ *Fired Up*  
  - Mediterranean Chicken @ *Global Kitchen*  
- - Diced Chicken @ *Great Greens*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
+  
+In description:   
+ - Build Your Own Mediterranean Bar @ *Global Kitchen*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-07-17)  
 **catfish**  
@@ -145,7 +145,7 @@ In description:
   
 **Shrimp**  
 In name:   
- - Sauteed Shrimp @ *Gordon Buona Cucina*  
+ - Sauteed Shrimp @ *Buona Cucina*  
   
 **Cod**  
 In name:   
@@ -159,13 +159,9 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**curry**  
-In name:   
- - Coconut Tofu w/Red Curry Sauce @ *Gordon Global Kitchen*  
-  
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
@@ -179,10 +175,9 @@ In description:
 **chicken**  
 In name:   
  - Brazilian Chicken w/ Salsa Vinaigrette @ *1849*  
- - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
- - Butter Chicken @ *Gordon Global Kitchen*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Sausage Patty @ *Great Greens*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
