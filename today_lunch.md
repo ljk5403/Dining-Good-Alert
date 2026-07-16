@@ -1,6 +1,6 @@
 # 2026-07-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-16 03:11:08  
+Updated at: 2026-07-16 10:37:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-16)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -153,7 +153,7 @@ In name:
  - Jamaican Jerk Chicken @ *Gordon Global Kitchen*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Sausage Patty @ *Great Greens*  
- - Chicken Noodle Soup @ *Great Greens*  
+ - Chicken Chili @ *Great Greens*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
