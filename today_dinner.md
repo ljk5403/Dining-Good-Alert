@@ -1,6 +1,6 @@
 # 2026-07-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-16 15:56:19  
+Updated at: 2026-07-16 17:04:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-16)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -136,7 +136,7 @@ In name:
   
 **Tuna**  
 In name:   
- - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
+ - Lemon Pepper Tuna Salad @ *Delicious*  
   
 **beef**  
 In name:   
@@ -146,6 +146,7 @@ In name:
 In description:   
  - Grilled Flank Steak @ *1849*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
+ - Deli @ *Delicious*  
   
 **pork**  
 In name:   
@@ -153,6 +154,7 @@ In name:
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
+ - Deli @ *Delicious*  
   
 **chicken**  
 In name:   

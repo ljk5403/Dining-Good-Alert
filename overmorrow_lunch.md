@@ -1,6 +1,6 @@
 # 2026-07-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-16 15:56:31  
+Updated at: 2026-07-16 17:04:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-18)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -119,29 +119,29 @@ In name:
 In name:   
  - Chicken Drumstick Gochujang Glazed @ *1849*  
   
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad @ *Delicious*  
+  
 **beef**  
 In name:   
   
 In description:   
- - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
+ - Deli @ *Delicious*  
   
 **pork**  
 In name:   
   
 In description:   
- - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
+ - Deli @ *Delicious*  
   
 **chicken**  
 In name:   
  - Chicken Drumstick Gochujang Glazed @ *1849*  
  - Crispy Buffalo Chicken Sandwich @ *Gordon Fired Up*  
- - Lemon Pepper Chicken Salad @ *Gordon Delicious*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Sausage Patty @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
-  
-In description:   
- - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-07-18)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-07-18)  
