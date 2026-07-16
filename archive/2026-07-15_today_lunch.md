@@ -1,6 +1,6 @@
 # 2026-07-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-16 15:56:15  
+Updated at: 2026-07-16 17:03:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-16)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -101,7 +101,7 @@ In description:
   
 **Tuna**  
 In name:   
- - Lemon Pepper Tuna Salad @ *Gordon Delicious*  
+ - Lemon Pepper Tuna Salad @ *Delicious*  
   
 **beef**  
 In name:   
@@ -110,15 +110,17 @@ In name:
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
- - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Grilled Blended Burger w/ Cheese @ *Gordon Fired Up*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Deli @ *Delicious*  
   
 **pork**  
 In name:   
  - Pork Carnita @ *Gordon Que Rico*  
   
 In description:   
- - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
+ - Pizza Slice Sausage @ *Capital City Pizza*  
+ - Deli @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -129,7 +131,7 @@ In name:
  - Italian Chicken @ *Buona Cucina*  
   
 In description:   
- - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-07-16)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-07-16)  
