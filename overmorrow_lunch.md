@@ -1,7 +1,13 @@
 # 2026-07-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-16 12:14:00  
+Updated at: 2026-07-16 14:08:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-18)  
+**Vanilla Coconut Milk Yogurt**  
+In name:   
+  
+In description:   
+ - Great Greans - Yogurt Bar @ *Great Greens*  
+  
 **Shrimp**  
 In name:   
  - Manicotti Shrimp Alfredo @ *1849*  
@@ -9,7 +15,6 @@ In name:
 **beef**  
 In name:   
  - Beef Taco Meat @ *Que Rico*  
- - Beef Pasta Tortellini @ *Buona Cucina*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
@@ -19,12 +24,13 @@ In description:
 In name:   
  - Boneless Baked Pork Ham @ *1849*  
  - Pork Carnita @ *Que Rico*  
- - Italian Pork Sausage @ *Buona Cucina*  
   
 **chicken**  
 In name:   
  - Noodles Sesame w/ Chicken @ *Global Kitchen*  
  - Chicken Tinga @ *Que Rico*  
+ - Diced Chicken @ *Great Greens*  
+ - Chicken Chili @ *Great Greens*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  

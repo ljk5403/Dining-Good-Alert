@@ -1,6 +1,6 @@
 # 2026-07-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-16 10:37:35  
+Updated at: 2026-07-16 12:13:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-16)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -120,12 +120,6 @@ In name:
  - Chicken Noodle Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-07-16)  
-**Vanilla Coconut Milk Yogurt**  
-In name:   
-  
-In description:   
- - Yogurt Bar @ *Great Greens*  
-  
 **steak**  
 In name:   
  - Grilled Flank Steak @ *1849*  
@@ -156,7 +150,6 @@ In name:
  - Beef & Chicken Meatballs @ *Gordon Buona Cucina*  
  - Italian Chicken @ *Gordon Buona Cucina*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Sausage Patty @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
   
 In description:   

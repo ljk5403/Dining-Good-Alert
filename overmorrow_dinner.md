@@ -1,7 +1,13 @@
 # 2026-07-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-16 12:14:01  
+Updated at: 2026-07-16 14:08:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-18)  
+**Vanilla Coconut Milk Yogurt**  
+In name:   
+  
+In description:   
+ - Great Greans - Yogurt Bar @ *Great Greens*  
+  
 **portabella**  
 In name:   
  - Caribbean Portabella w/Rice @ *1849*  
@@ -27,16 +33,11 @@ In name:
   
 **beef**  
 In name:   
- - Beef Pasta Tortellini @ *Buona Cucina*  
  - Beef Taco Meat @ *Que Rico*  
-  
-In description:   
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  
 In name:   
  - Pork Belly Adobo @ *1849*  
- - Italian Pork Sausage @ *Buona Cucina*  
  - Pork Carnita @ *Que Rico*  
   
 **chicken**  
@@ -45,9 +46,8 @@ In name:
  - Chicken Drummies @ *Fired Up*  
  - Plant-Based Chicken Nuggets (6) @ *Fired Up*  
  - Chicken Tinga @ *Que Rico*  
-  
-In description:   
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Diced Chicken @ *Great Greens*  
+ - Chicken Chili @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-07-18)  
 **Vanilla Coconut Milk Yogurt**  

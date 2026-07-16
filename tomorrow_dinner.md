@@ -1,10 +1,12 @@
 # 2026-07-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-16 12:13:58  
+Updated at: 2026-07-16 14:08:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-17)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
- - Vanilla Coconut Milk Yogurt @ *Great Greens*  
+  
+In description:   
+ - Great Greans - Yogurt Bar @ *Great Greens*  
   
 **Cod**  
 In name:   
@@ -39,7 +41,6 @@ In description:
   
 **chicken**  
 In name:   
- - Diced Chicken Breast @ *Buona Cucina*  
  - Chicken Mole w/ Rice @ *Que Rico*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
