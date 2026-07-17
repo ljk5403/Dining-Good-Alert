@@ -1,6 +1,6 @@
 # 2026-07-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-17 03:07:55  
+Updated at: 2026-07-17 10:11:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-17)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -151,10 +151,6 @@ In name:
 In name:   
  - Basque Style Cod @ *1849*  
   
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
-  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -166,6 +162,7 @@ In name:
 **beef**  
 In name:   
  - Beef Taco Meat @ *Gordon Que Rico*  
+ - Beef Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   

@@ -1,6 +1,6 @@
 # 2026-07-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-17 03:07:57  
+Updated at: 2026-07-17 10:11:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-17)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -136,16 +136,13 @@ In name:
 In name:   
  - Battered Cod @ *1849*  
   
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
-  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
 **beef**  
 In name:   
+ - Beef Chili @ *Great Greens*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
