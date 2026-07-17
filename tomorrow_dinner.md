@@ -1,6 +1,6 @@
 # 2026-07-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-16 18:58:18  
+Updated at: 2026-07-16 22:24:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-17)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -132,63 +132,40 @@ In description:
 In name:   
  - Chicken Drumstick Teriyaki Glazed @ *1849*  
   
-**Shrimp**  
-In name:   
- - Chipotle Shrimp @ *Gordon Que Rico*  
- - Shrimp Po-Boy Sandwich @ *Fired Up*  
- - Shrimp Curry @ *Global Kitchen*  
-  
 **Cod**  
 In name:   
  - Battered Cod @ *1849*  
- - Vegan Cod Battered (2 pc) @ *1849*  
   
 **clam**  
 In name:   
  - Clam Chowder @ *Great Greens*  
   
-**fish**  
-In name:   
-  
-In description:   
- - Vegan Cod Battered (2 pc) @ *1849*  
-  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**curry**  
-In name:   
- - Shrimp Curry @ *Global Kitchen*  
-  
-In description:   
- - Navarathan Korma (AYCTE) @ *Global Kitchen*  
-  
 **beef**  
 In name:   
- - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
- - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
- - Vegan Taco Filling @ *Gordon Que Rico*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Deli @ *Delicious*  
   
 **pork**  
 In name:   
   
 In description:   
- - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
+ - Pizza Slice Sausage @ *Capital City Pizza*  
  - Deli @ *Delicious*  
   
 **chicken**  
 In name:   
  - Chicken Drumstick Teriyaki Glazed @ *1849*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Sausage Patty @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
- - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-07-17)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-07-17)  

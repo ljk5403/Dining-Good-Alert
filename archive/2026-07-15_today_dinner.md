@@ -1,6 +1,6 @@
 # 2026-07-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-16 17:04:00  
+Updated at: 2026-07-16 18:58:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-16)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -105,13 +105,13 @@ In description:
 **pork**  
 In name:   
  - Pork Loin Spicy Greenbush @ *1849*  
- - Pork Carnita @ *Que Rico*  
   
 **chicken**  
 In name:   
  - Diced Chicken @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Chicken Tinga @ *Que Rico*  
   
 In description:   
  - Collard Greens w/Bacon @ *1849*  
@@ -130,9 +130,9 @@ In name:
  - Chicken Noodle Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-07-16)  
-**steak**  
+**Chicken Drummies**  
 In name:   
- - Grilled Flank Steak @ *1849*  
+ - Chicken Drummies @ *1849*  
   
 **Tuna**  
 In name:   
@@ -144,7 +144,6 @@ In name:
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
- - Grilled Flank Steak @ *1849*  
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
  - Deli @ *Delicious*  
   
@@ -158,7 +157,9 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Drummies @ *1849*  
  - Cajun Chicken Pasta @ *1849*  
+ - Crispy Chicken Sandwich @ *Fired Up*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  

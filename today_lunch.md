@@ -1,6 +1,6 @@
 # 2026-07-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-16 18:58:10  
+Updated at: 2026-07-16 22:23:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-16)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -15,6 +15,10 @@ In name:
 **curry**  
 In name:   
  - Garbanzo Bean Curry @ *1849*  
+ - Squash Curry @ *Global Kitchen*  
+  
+In description:   
+ - Madras Chicken w/Basmati Rice @ *Global Kitchen*  
   
 **beef**  
 In name:   
@@ -40,6 +44,7 @@ In name:
  - Huli Huli Chicken @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
+ - Madras Chicken w/Basmati Rice @ *Global Kitchen*  
  - Mediterranean Chicken @ *Que Rico*  
   
 In description:   

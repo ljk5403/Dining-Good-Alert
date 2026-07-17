@@ -1,6 +1,6 @@
 # 2026-07-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-16 18:58:24  
+Updated at: 2026-07-16 22:24:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-18)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -39,6 +39,7 @@ In name:
 In name:   
   
 In description:   
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Deli @ *Delicious*  
   
 **pork**  
@@ -55,6 +56,9 @@ In name:
  - Chicken Chili @ *Great Greens*  
  - Plant-Based Chicken Nuggets (6) @ *Fired Up*  
  - Chicken Drummies @ *Fired Up*  
+  
+In description:   
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-07-18)  
 **Vanilla Coconut Milk Yogurt**  
@@ -112,28 +116,19 @@ In description:
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-07-18)  
-**Vanilla Coconut Milk Yogurt**  
-In name:   
-  
-In description:   
- - Yogurt Bar @ *Great Greens*  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
   
 **beef**  
 In name:   
- - Beef Taco Meat @ *Gordon Que Rico*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  
- - Grilled Blended Burger w/ Cheese @ *Fired Up*  
  - Deli @ *Delicious*  
   
 **pork**  
 In name:   
- - Herb Crusted Pork Loin @ *1849*  
   
 In description:   
  - Pizza Slice Sausage @ *Gordon Capital City Pizza*  
@@ -141,11 +136,6 @@ In description:
   
 **chicken**  
 In name:   
- - Greek Chicken @ *1849*  
- - Chicken Tinga @ *Gordon Que Rico*  
- - Diced Chicken @ *Great Greens*  
- - Chicken Sausage Patty @ *Great Greens*  
- - Chicken Chili @ *Great Greens*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Gordon Capital City Pizza*  

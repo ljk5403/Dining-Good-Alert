@@ -1,6 +1,6 @@
 # 2026-07-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-16 18:58:15  
+Updated at: 2026-07-16 22:23:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-17)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -159,16 +159,23 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**BBQ Pork Sandwich**  
+In name:   
+ - BBQ Pork Sandwich @ *Gordon Fired Up*  
+  
 **beef**  
 In name:   
+ - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
+ - Vegan Taco Filling @ *Gordon Que Rico*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Deli @ *Delicious*  
   
 **pork**  
 In name:   
+ - BBQ Pork Sandwich @ *Gordon Fired Up*  
   
 In description:   
  - Pizza Slice Sausage @ *Capital City Pizza*  
@@ -177,8 +184,8 @@ In description:
 **chicken**  
 In name:   
  - Brazilian Chicken w/ Salsa Vinaigrette @ *1849*  
+ - Taco Chicken @ *Gordon Que Rico*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Sausage Patty @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
