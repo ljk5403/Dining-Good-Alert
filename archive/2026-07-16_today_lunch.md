@@ -1,6 +1,6 @@
 # 2026-07-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-17 10:11:53  
+Updated at: 2026-07-17 12:09:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-17)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -182,7 +182,6 @@ In description:
 In name:   
  - Brazilian Chicken w/ Salsa Vinaigrette @ *1849*  
  - Taco Chicken @ *Gordon Que Rico*  
- - Diced Chicken @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
