@@ -1,90 +1,89 @@
-# 2026-07-17 dinner  
+# 2026-07-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-17 21:24:55  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-17)  
+Updated at: 2026-07-18 02:47:34  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-18)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
   
 In description:   
  - Great Greans - Yogurt Bar @ *Great Greens*  
   
-**Cod**  
+**portabella**  
 In name:   
- - Cod w/ Roasted Fruit Salsa @ *1849*  
+ - Caribbean Portabella w/Rice @ *1849*  
   
-**clam**  
+**Chicken Drummies**  
 In name:   
- - Clam Chowder @ *Great Greens*  
+ - Chicken Drummies @ *Fired Up*  
   
-**watermelon**  
+**duck**  
 In name:   
- - Watermelon Slices @ *Great Greens*  
+ - Duck Curry @ *Global Kitchen*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Duck Curry @ *Global Kitchen*  
+  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad @ *Delicious*  
+  
+**curry**  
+In name:   
+ - Coconut Tofu w/Red Curry Sauce @ *Global Kitchen*  
+ - Duck Curry @ *Global Kitchen*  
   
 **beef**  
 In name:   
- - Sliced BBQ Beef Brisket Sandwich @ *Fired Up*  
- - Beef Broccoli Stir Fry w/Teriyaki Sauce @ *Global Kitchen*  
   
 In description:   
- - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Deli @ *Delicious*  
   
 **pork**  
 In name:   
+ - Pork Belly Adobo @ *1849*  
   
 In description:   
  - Deli @ *Delicious*  
   
 **chicken**  
 In name:   
+ - Teriyaki Chicken Fillet @ *1849*  
  - Diced Chicken @ *Great Greens*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
- - Chicken Mole w/ Rice @ *Que Rico*  
+ - Chicken Chili @ *Great Greens*  
+ - Plant-Based Chicken Nuggets (6) @ *Fired Up*  
+ - Chicken Drummies @ *Fired Up*  
   
 In description:   
- - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-07-17)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-07-18)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
   
 In description:   
  - Great Greans - Yogurt Bar @ *Great Greens*  
   
-**steak**  
+**fish**  
 In name:   
- - Grilled Steak Hero @ *Fired Up*  
   
-**Shrimp**  
-In name:   
- - Shrimp Curry @ *1849*  
- - Sauteed Shrimp @ *Que Rico*  
-  
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
-  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
-**curry**  
-In name:   
- - Shrimp Curry @ *1849*  
+In description:   
+ - Kung Pao Chicken @ *Global Kitchen*  
   
 **beef**  
 In name:   
- - Mediterranean Beef @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
- - Grilled Steak Hero @ *Fired Up*  
- - Build Your Own Mediterranean Bar @ *Global Kitchen*  
- - Vegan Taco Filling @ *Que Rico*  
+ - Pork Bratwurst Sandwich @ *Fired Up*  
   
 **pork**  
 In name:   
+ - Pork Bratwurst Sandwich @ *Fired Up*  
   
 In description:   
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
@@ -92,57 +91,37 @@ In description:
 **chicken**  
 In name:   
  - Diced Chicken @ *Great Greens*  
+ - Chicken Chili @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Mediterranean Chicken @ *Global Kitchen*  
+ - Kung Pao Chicken @ *Global Kitchen*  
   
-In description:   
- - Build Your Own Mediterranean Bar @ *Global Kitchen*  
-  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-07-17)  
-**steak**  
-In name:   
- - Sand Beef Philly Cheesesteak (CN) @ *Global Kitchen*  
-  
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
-  
-**watermelon**  
-In name:   
- - Melon Watermelon Whole Sliced @ *Great Greens*  
-  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-07-18)  
 **beef**  
 In name:   
- - Sand Beef Philly Cheesesteak (CN) @ *Global Kitchen*  
- - Plant-Based Beef & Broccoli Stir Fry @ *Global Kitchen*  
+ - Beef & Chicken Meatballs (4 each) CN @ *Global Kitchen*  
+  
+**pork**  
+In name:   
+  
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 **chicken**  
 In name:   
- - Sand Chicken Buffalo on Pretzel Bun (CN) @ *Global Kitchen*  
+ - Beef & Chicken Meatballs (4 each) CN @ *Global Kitchen*  
+ - Diced Chicken Breast @ *Global Kitchen*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-07-17)  
-**Vanilla Coconut Milk Yogurt**  
-In name:   
-  
 In description:   
- - Yogurt Bar @ *Great Greens*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
-**drumstick**  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-07-18)  
+**Tuna**  
 In name:   
- - Chicken Drumstick Teriyaki Glazed @ *1849*  
-  
-**Cod**  
-In name:   
- - Battered Cod @ *1849*  
-  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
+ - Lemon Pepper Tuna Salad @ *Delicious*  
   
 **beef**  
 In name:   
- - Beef Chili @ *Great Greens*  
   
 In description:   
  - Deli @ *Delicious*  
@@ -153,11 +132,6 @@ In name:
 In description:   
  - Deli @ *Delicious*  
   
-**chicken**  
-In name:   
- - Chicken Drumstick Teriyaki Glazed @ *1849*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
-  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-07-17)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-07-17)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-07-18)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-07-18)  
   

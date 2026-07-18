@@ -1,6 +1,6 @@
 # 2026-07-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-18 02:47:31  
+Updated at: 2026-07-18 09:50:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-18)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -19,16 +19,15 @@ In name:
 **beef**  
 In name:   
  - Beef Taco Meat @ *Que Rico*  
+ - Beef Barbacoa @ *Que Rico*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Deli @ *Delicious*  
- - Chicago-Style Hot Dog @ *Fired Up*  
   
 **pork**  
 In name:   
  - Boneless Baked Pork Ham @ *1849*  
- - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Deli @ *Delicious*  
