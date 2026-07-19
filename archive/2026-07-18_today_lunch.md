@@ -1,6 +1,6 @@
 # 2026-07-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-19 12:00:21  
+Updated at: 2026-07-19 14:03:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-19)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -81,7 +81,7 @@ In description:
 In name:   
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
- - Baked BBQ Chicken @ *1849*  
+ - Chicken Pot Pie w/Biscuit @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
