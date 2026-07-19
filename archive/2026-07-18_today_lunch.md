@@ -1,80 +1,86 @@
-# 2026-07-18 lunch  
+# 2026-07-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-18 21:37:58  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-18)  
+Updated at: 2026-07-19 03:15:08  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-19)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
   
 In description:   
  - Great Greans - Yogurt Bar @ *Great Greens*  
-  
-**Shrimp**  
-In name:   
- - Manicotti Shrimp Alfredo @ *1849*  
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
-  
-**beef**  
-In name:   
- - Beef Taco Meat @ *Que Rico*  
- - Beef Barbacoa @ *Que Rico*  
-  
-In description:   
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
- - Deli @ *Delicious*  
-  
-**pork**  
-In name:   
- - Boneless Baked Pork Ham @ *1849*  
-  
-In description:   
- - Deli @ *Delicious*  
-  
-**chicken**  
-In name:   
- - Diced Chicken @ *Great Greens*  
- - Chicken Chili @ *Great Greens*  
- - Chicken Tinga @ *Que Rico*  
-  
-In description:   
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
-  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-07-18)  
-**Vanilla Coconut Milk Yogurt**  
-In name:   
-  
-In description:   
- - Great Greans - Yogurt Bar @ *Great Greens*  
-  
-**portabella**  
-In name:   
-  
-In description:   
- - Mushroom Bulgogi Bao Bun @ *Global Kitchen*  
-  
-**Bulgogi**  
-In name:   
- - Beef Bulgogi Bao Bun @ *Global Kitchen*  
- - Mushroom Bulgogi Bao Bun @ *Global Kitchen*  
   
 **steak**  
 In name:   
  - Philly Cheesesteak Sandwich @ *Fired Up*  
   
+**curry**  
+In name:   
+ - Squash Curry @ *1849*  
+  
 **beef**  
 In name:   
- - Beef Lasagna @ *1849*  
- - Beef Bulgogi Bao Bun @ *Global Kitchen*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Beef Ravioli Plain @ *Buona Cucina*  
+ - Beef Taco Meat @ *Que Rico*  
+  
+In description:   
+ - Italian Meat Sauce @ *Buona Cucina*  
+ - Deli @ *Delicious*  
+ - Philly Cheesesteak Sandwich @ *Fired Up*  
+ - Vegan Taco Filling @ *Que Rico*  
+  
+**pork**  
+In name:   
+ - Pork Carnita @ *Que Rico*  
+  
+In description:   
+ - Pizza Slice Sausage @ *Capital City Pizza*  
+ - Build Your Own Breakfast Sandwich @ *Delicious*  
+ - Deli @ *Delicious*  
+  
+**chicken**  
+In name:   
+ - Honey Mustard Chicken & Vegetables @ *1849*  
+ - Diced Chicken @ *Great Greens*  
+ - Chicken Chili @ *Great Greens*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Plant Based Chicken Strips @ *Buona Cucina*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Fajita Chicken @ *Que Rico*  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-07-19)  
+**Vanilla Coconut Milk Yogurt**  
+In name:   
+  
+In description:   
+ - Great Greans - Yogurt Bar @ *Great Greens*  
+  
+**Tilapia**  
+In name:   
+ - Lemon Grass Tilapia @ *Global Kitchen*  
+  
+**Pakoras**  
+In name:   
+ - Appetizer -  Pakoras Vegetable (Veg) @ *Global Kitchen*  
+  
+**curry**  
+In name:   
+ - Curry Mango - Tofu @ *Global Kitchen*  
+  
+In description:   
+ - Appetizer -  Pakoras Vegetable (Veg) @ *Global Kitchen*  
+  
+**beef**  
+In name:   
+ - Beef Barbacoa @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
- - Philly Cheesesteak Sandwich @ *Fired Up*  
+ - Corn Dog (Pork) @ *Fired Up*  
   
 **pork**  
 In name:   
+ - Corn Dog (Pork) @ *Fired Up*  
   
 In description:   
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
@@ -83,43 +89,30 @@ In description:
 In name:   
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
+ - Baked BBQ Chicken @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-07-18)  
+In description:   
+ - Corn Dog (Pork) @ *Fired Up*  
+  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-07-19)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-07-19)  
 **beef**  
 In name:   
- - Beef Stew w/ Buttermilk Biscuit @ *1849*  
+  
+In description:   
+ - Deli @ *Delicious*  
   
 **pork**  
 In name:   
   
 In description:   
- - Kale, Sausage & Potato Soup @ *Great Greens*  
+ - Deli @ *Delicious*  
   
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
-In description:   
- - Kale, Sausage & Potato Soup @ *Great Greens*  
-  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-07-18)  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
-  
-**beef**  
-In name:   
-  
-In description:   
- - Deli @ *Delicious*  
-  
-**pork**  
-In name:   
-  
-In description:   
- - Deli @ *Delicious*  
-  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-07-18)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-07-18)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-07-19)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-07-19)  
   
