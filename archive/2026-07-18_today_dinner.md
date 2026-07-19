@@ -1,6 +1,6 @@
 # 2026-07-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-19 14:03:53  
+Updated at: 2026-07-19 15:46:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-19)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -32,7 +32,7 @@ In description:
   
 **chicken**  
 In name:   
- - Breaded Chicken Parmigiana @ *1849*  
+ - Huli Huli Chicken @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
@@ -49,6 +49,10 @@ In description:
 In name:   
  - Tuscan Butter Salmon @ *1849*  
   
+**Tilapia**  
+In name:   
+ - Lemon Grass Tilapia @ *Global Kitchen*  
+  
 **fish**  
 In name:   
   
@@ -58,7 +62,7 @@ In description:
 **curry**  
 In name:   
  - Beef Masaman Thai Curry @ *Global Kitchen*  
- - Beef Thai Meatballs W/Green Curry Sauce @ *Global Kitchen*  
+ - Thai Veggie Meatballs w/ Green Curry @ *Global Kitchen*  
   
 In description:   
  - Citrus Couscous (VN) (AYCTE) @ *1849*  
@@ -66,7 +70,6 @@ In description:
 **beef**  
 In name:   
  - Beef Masaman Thai Curry @ *Global Kitchen*  
- - Beef Thai Meatballs W/Green Curry Sauce @ *Global Kitchen*  
  - Beef Barbacoa @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
   
