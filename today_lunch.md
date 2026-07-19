@@ -1,6 +1,6 @@
 # 2026-07-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-19 10:56:39  
+Updated at: 2026-07-19 12:00:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-19)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -14,7 +14,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Beef Ravioli Plain @ *Buona Cucina*  
  - Beef Taco Meat @ *Que Rico*  
   
@@ -35,10 +34,8 @@ In description:
 **chicken**  
 In name:   
  - Honey Mustard Chicken & Vegetables @ *1849*  
- - Diced Chicken @ *Great Greens*  
+ - Diced Chicken @ *Buona Cucina*  
  - Chicken Chili @ *Great Greens*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Plant Based Chicken Strips @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Fajita Chicken @ *Que Rico*  
   

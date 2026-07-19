@@ -1,16 +1,12 @@
 # 2026-07-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-19 09:54:14  
+Updated at: 2026-07-19 10:56:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-19)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
   
 In description:   
  - Great Greans - Yogurt Bar @ *Great Greens*  
-  
-**steak**  
-In name:   
- - Philly Cheesesteak Sandwich @ *Fired Up*  
   
 **curry**  
 In name:   
@@ -25,7 +21,6 @@ In name:
 In description:   
  - Italian Meat Sauce @ *Buona Cucina*  
  - Deli @ *Delicious*  
- - Philly Cheesesteak Sandwich @ *Fired Up*  
  - Vegan Taco Filling @ *Que Rico*  
   
 **pork**  
