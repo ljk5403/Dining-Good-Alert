@@ -1,6 +1,6 @@
 # 2026-07-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-20 03:55:59  
+Updated at: 2026-07-20 10:48:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-21)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -92,6 +92,31 @@ In name:
  - Taco Chicken @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-07-21)  
+**Vanilla Coconut Milk Yogurt**  
+In name:   
+  
+In description:   
+ - Great Greans - Yogurt Bar @ *Great Greens*  
+  
+**portabella**  
+In name:   
+  
+In description:   
+ - Vegan Portobella Mushroom Stroganoff @ *Global Kitchen*  
+  
+**Cod**  
+In name:   
+ - Lemon Pepper Cod Fillet @ *Global Kitchen*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
+  
+**chicken**  
+In name:   
+ - General Tso's Chicken @ *Global Kitchen*  
+ - Chicken Dumpling Soup @ *Great Greens*  
+  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-07-21)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   

@@ -1,6 +1,6 @@
 # 2026-07-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-20 03:56:06  
+Updated at: 2026-07-20 10:48:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-22)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -80,6 +80,24 @@ In name:
  - Crispy Chicken Sandwich @ *Fired Up*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-07-22)  
+**Vanilla Coconut Milk Yogurt**  
+In name:   
+  
+In description:   
+ - Great Greans - Yogurt Bar @ *Great Greens*  
+  
+**haddock**  
+In name:   
+ - Baked Haddock w/Butter & Lemon @ *Global Kitchen*  
+  
+**beef**  
+In name:   
+ - Beef Chili @ *Great Greens*  
+  
+**chicken**  
+In name:   
+ - Chicken Honey Lime w/ rice @ *Global Kitchen*  
+  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-07-22)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   

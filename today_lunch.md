@@ -1,6 +1,6 @@
 # 2026-07-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-20 03:55:54  
+Updated at: 2026-07-20 10:48:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-20)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -19,7 +19,7 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Pizza Slice - Bacon Cheeseburger @ *Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Deli @ *Delicious*  
  - Grilled Blended Burger w/ Cheese @ *Fired Up*  
  - Vegan Taco Filling @ *Que Rico*  
@@ -39,6 +39,9 @@ In name:
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Diced Chicken Breast @ *Buona Cucina*  
   
+In description:   
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
+  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-07-20)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -52,13 +55,16 @@ In name:
 In description:   
  - Tempeh w/Red Peppers & Broc Rabe @ *1849*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **beef**  
 In name:   
  - Roast Beef & Cheddar Panini on Rye @ *Fired Up*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
  - Vegan Taco Filling @ *Que Rico*  
   
 **pork**  
@@ -66,16 +72,35 @@ In name:
  - Boneless Baked Pork Ham @ *1849*  
   
 In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
  - Andouille Sausage @ *Global Kitchen*  
   
 **chicken**  
 In name:   
  - Lemon Chicken Rice Soup @ *Great Greens*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Tinga @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-07-20)  
+**Vanilla Coconut Milk Yogurt**  
+In name:   
+  
+In description:   
+ - Great Greans - Yogurt Bar @ *Great Greens*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Thai BBQ Pork Ribs @ *Global Kitchen*  
+  
+**pork**  
+In name:   
+ - Thai BBQ Pork Ribs @ *Global Kitchen*  
+  
+**chicken**  
+In name:   
+ - Breaded Chicken Parmigiana @ *Global Kitchen*  
+ - Lemon Chicken Rice Soup @ *Great Greens*  
+  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-07-20)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -98,10 +123,12 @@ In name:
 **beef**  
 In name:   
  - Beef Stew w/ Buttermilk Biscuit @ *1849*  
+ - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
  - Plant-Based Pepper Steak Stir Fry @ *1849*  
+ - Vegan Taco Filling @ *Gordon Que Rico*  
  - Deli @ *Delicious*  
   
 **pork**  
@@ -113,6 +140,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Tinga @ *Gordon Que Rico*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  

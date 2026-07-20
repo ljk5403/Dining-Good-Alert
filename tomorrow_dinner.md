@@ -1,6 +1,6 @@
 # 2026-07-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-20 03:56:01  
+Updated at: 2026-07-20 10:48:52  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-21)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -91,6 +91,25 @@ In description:
  - Build Your Own Mediterranean Bar @ *Global Kitchen*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-07-21)  
+**Vanilla Coconut Milk Yogurt**  
+In name:   
+  
+In description:   
+ - Great Greans - Yogurt Bar @ *Great Greens*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
+  
+**beef**  
+In name:   
+ - Beef Broccoli Stir Fry w/Teriyaki Sauce @ *Global Kitchen*  
+  
+**chicken**  
+In name:   
+ - Teriyaki Chicken Fillet @ *Global Kitchen*  
+ - Chicken Dumpling Soup @ *Great Greens*  
+  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-07-21)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   

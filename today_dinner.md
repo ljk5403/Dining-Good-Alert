@@ -1,6 +1,6 @@
 # 2026-07-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-20 03:55:57  
+Updated at: 2026-07-20 10:48:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-20)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -66,6 +66,10 @@ In name:
 In description:   
  - Crab Rangoon @ *Global Kitchen*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **curry**  
 In name:   
  - Seitan & Coconut Thai Curry @ *1849*  
@@ -77,7 +81,6 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
  - Build Your Own Maki Mono Bar @ *Global Kitchen*  
  - Vegan Taco Filling @ *Que Rico*  
   
@@ -85,13 +88,9 @@ In description:
 In name:   
  - Pork Belly Adobo @ *1849*  
   
-In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
-  
 **chicken**  
 In name:   
  - Lemon Chicken Rice Soup @ *Great Greens*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Protein - Chicken Thinly Sliced @ *Global Kitchen*  
  - Chicken Tinga @ *Que Rico*  
   
@@ -99,6 +98,35 @@ In description:
  - Build Your Own Maki Mono Bar @ *Global Kitchen*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-07-20)  
+**Vanilla Coconut Milk Yogurt**  
+In name:   
+  
+In description:   
+ - Great Greans - Yogurt Bar @ *Great Greens*  
+  
+**Chicken Drumstick Gochujang Glazed**  
+In name:   
+ - Chicken Drumstick Gochujang Glazed @ *Global Kitchen*  
+  
+**drumstick**  
+In name:   
+ - Chicken Drumstick Gochujang Glazed @ *Global Kitchen*  
+  
+**beef**  
+In name:   
+  
+In description:   
+ - Kielbasa (Pork) with Pierogis @ *Global Kitchen*  
+  
+**pork**  
+In name:   
+ - Kielbasa (Pork) with Pierogis @ *Global Kitchen*  
+  
+**chicken**  
+In name:   
+ - Chicken Drumstick Gochujang Glazed @ *Global Kitchen*  
+ - Lemon Chicken Rice Soup @ *Great Greens*  
+  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-07-20)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
