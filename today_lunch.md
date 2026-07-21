@@ -1,6 +1,6 @@
 # 2026-07-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-21 03:26:21  
+Updated at: 2026-07-21 10:42:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-21)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -65,6 +65,10 @@ In name:
 In description:   
  - Great Greans - Yogurt Bar @ *Great Greens*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -74,20 +78,13 @@ In name:
  - Beef French Dip Sandwich @ *1849*  
  - Beef Taco Meat @ *Que Rico*  
   
-In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
-  
 **pork**  
 In name:   
  - Pork & Broccoli Stir Fry @ *Global Kitchen*  
   
-In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
-  
 **chicken**  
 In name:   
  - Chicken Dumpling Soup @ *Great Greens*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Grilled Chicken Sandwich @ *Fired Up*  
  - Taco Chicken @ *Que Rico*  
   
