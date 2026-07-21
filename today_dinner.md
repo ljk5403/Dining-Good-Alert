@@ -1,12 +1,16 @@
 # 2026-07-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-21 12:17:57  
+Updated at: 2026-07-21 14:19:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-21)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
   
 In description:   
  - Great Greans - Yogurt Bar @ *Great Greens*  
+  
+**Beef Alicha**  
+In name:   
+ - Beef Alicha @ *Global Kitchen*  
   
 **Samosas**  
 In name:   
@@ -27,7 +31,7 @@ In name:
 **beef**  
 In name:   
  - Beef Street Taco @ *Fired Up*  
- - Beef Vindaloo @ *Global Kitchen*  
+ - Beef Alicha @ *Global Kitchen*  
  - Plant-Based Beef Curry Squash @ *Global Kitchen*  
   
 In description:   
