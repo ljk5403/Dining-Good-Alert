@@ -1,6 +1,6 @@
 # 2026-07-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-20 17:59:06  
+Updated at: 2026-07-20 19:03:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-20)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -76,7 +76,7 @@ In description:
   
 **chicken**  
 In name:   
- - Lemon Chicken Rice Soup @ *Great Greens*  
+ - Chicken Noodle Soup @ *Great Greens*  
  - Chicken Tinga @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-07-20)  

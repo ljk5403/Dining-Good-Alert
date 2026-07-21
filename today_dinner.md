@@ -1,6 +1,6 @@
 # 2026-07-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-20 17:59:08  
+Updated at: 2026-07-20 19:03:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-20)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -70,10 +70,6 @@ In description:
 In name:   
  - Tuna Salad @ *Delicious*  
   
-**curry**  
-In name:   
- - Seitan & Coconut Thai Curry @ *1849*  
-  
 **beef**  
 In name:   
  - Big Texan Beef Sandwich @ *Fired Up*  
@@ -90,9 +86,9 @@ In name:
   
 **chicken**  
 In name:   
- - Lemon Chicken Rice Soup @ *Great Greens*  
+ - Chicken Noodle Soup @ *Great Greens*  
  - Protein - Chicken Thinly Sliced @ *Global Kitchen*  
- - Chicken Tinga @ *Que Rico*  
+ - Taco Chicken @ *Que Rico*  
   
 In description:   
  - Build Your Own Maki Mono Bar @ *Global Kitchen*  
