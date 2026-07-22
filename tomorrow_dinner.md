@@ -1,28 +1,34 @@
-# 2026-07-22 dinner  
+# 2026-07-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-21 21:34:33  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-22)  
+Updated at: 2026-07-22 03:27:00  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-23)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
   
 In description:   
  - Great Greans - Yogurt Bar @ *Great Greens*  
   
-**Tuna**  
+**Bibimbap Bowl**  
 In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
+ - Bibimbap Bowl @ *Global Kitchen*  
+ - Bibimbap Bowl - Modified - Composed Tofu @ *Global Kitchen*  
+  
+**drumstick**  
+In name:   
+ - Chicken Drumstick Szechuan Glazed @ *1849*  
   
 **beef**  
 In name:   
- - Beef Chili @ *Great Greens*  
- - Lomo Saltado w/ Beef @ *Global Kitchen*  
   
 In description:   
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Deli @ *Delicious*  
+ - Bibimbap Bowl @ *Global Kitchen*  
   
 **pork**  
 In name:   
- - Southern Style Pork Spare Ribs @ *1849*  
+ - Pork Belly Char Sui @ *1849*  
+ - Pork Carnita Torta @ *Fired Up*  
   
 In description:   
  - Build Your Own Breakfast Sandwich @ *Delicious*  
@@ -30,39 +36,26 @@ In description:
   
 **chicken**  
 In name:   
- - Pizza Slice Chicken Sriracha @ *Capital City Pizza*  
+ - Chicken Drumstick Szechuan Glazed @ *1849*  
+ - Chicken Noodle Soup @ *Great Greens*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-07-22)  
+In description:   
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-07-23)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
   
 In description:   
  - Great Greans - Yogurt Bar @ *Great Greens*  
   
-**Salmon**  
+**portabella**  
 In name:   
- - Grilled Sesame Ginger Salmon @ *1849*  
-  
-**lamb**  
-In name:   
- - Lamb Vindaloo @ *Global Kitchen*  
-  
-**Pakoras**  
-In name:   
- - Appetizer -  Pakoras Vegetable (Veg) @ *Global Kitchen*  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Appetizer -  Pakoras Vegetable (Veg) @ *Global Kitchen*  
- - Lamb Vindaloo @ *Global Kitchen*  
- - Vegetable & Tofu Madras w/Basmati Rice @ *Global Kitchen*  
+ - Caribbean Portabella w/Rice @ *1849*  
   
 **beef**  
 In name:   
- - Beef Chili @ *Great Greens*  
- - Beef Barbacoa @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -70,53 +63,65 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
+ - Pizza Slice Sausage @ *Global Kitchen*  
   
 **chicken**  
 In name:   
+ - Chicken Noodle Soup @ *Great Greens*  
+ - Jamaican Jerk Chicken @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Crispy Chicken Sandwich @ *Fired Up*  
+ - Chicken Bruschetta Sandwich @ *Fired Up*  
+ - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
   
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-07-22)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-07-22)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-07-23)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-07-23)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
   
 In description:   
  - Yogurt Bar @ *Great Greens*  
   
-**drumstick**  
+**portabella**  
 In name:   
- - BBQ Glazed Chicken Drumstick @ *1849*  
   
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
+In description:   
+ - Vegan Mushroom Banh Mi Sandwich @ *Fired Up*  
   
 **beef**  
 In name:   
- - Beef Sirloin Tips @ *1849*  
- - Beef Chili @ *Great Greens*  
+ - Beef Tri Tip Carved w/ Chimichurri @ *1849*  
+ - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Deli @ *Delicious*  
   
 **pork**  
 In name:   
- - Italian Pork Sausage @ *Buona Cucina*  
+ - Sri Lanka Deviled Pork @ *1849*  
+ - Pork Carnita @ *Gordon Que Rico*  
   
 In description:   
+ - Pizza Slice Sausage @ *Capital City Pizza*  
  - Deli @ *Delicious*  
   
 **chicken**  
 In name:   
- - BBQ Glazed Chicken Drumstick @ *1849*  
+ - Chicken Banh Mi @ *Fired Up*  
  - Diced Chicken @ *Great Greens*  
+ - Chicken Noodle Soup @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Italian Chicken @ *Buona Cucina*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-07-22)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-07-22)  
+In description:   
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
+  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-07-23)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-07-23)  
   
