@@ -1,6 +1,6 @@
 # 2026-07-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-22 03:26:57  
+Updated at: 2026-07-22 10:40:52  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-22)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -52,6 +52,10 @@ In name:
 In name:   
  - Panfried Southern Catfish @ *1849*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **beef**  
 In name:   
  - Beef Chili @ *Great Greens*  
@@ -60,18 +64,15 @@ In name:
   
 In description:   
  - Vegan Sloppy Joe @ *1849*  
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **pork**  
 In name:   
   
 In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
  - Grilled Ham & Swiss Sandwich @ *Fired Up*  
   
 **chicken**  
 In name:   
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Plant-Based Chicken Nuggets (8) @ *Global Kitchen*  
  - Chicken Wings Boneless Plain @ *Global Kitchen*  
   
