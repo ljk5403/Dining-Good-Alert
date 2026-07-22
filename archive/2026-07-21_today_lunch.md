@@ -1,6 +1,6 @@
 # 2026-07-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-22 10:40:52  
+Updated at: 2026-07-22 12:17:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-22)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -51,6 +51,7 @@ In name:
 **fish**  
 In name:   
  - Panfried Southern Catfish @ *1849*  
+ - Friedtfish CBX @ *1849*  
   
 **Tuna**  
 In name:   
@@ -91,17 +92,19 @@ In name:
 **beef**  
 In name:   
  - Garlic Herb Roast Beef @ *1849*  
- - Beef Barbacoa @ *Gordon Que Rico*  
- - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef Chili @ *Great Greens*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Deli @ *Delicious*  
   
 **pork**  
 In name:   
+ - Italian Pork Sausage @ *Buona Cucina*  
   
 In description:   
+ - Pizza Slice Sausage @ *Capital City Pizza*  
  - Deli @ *Delicious*  
   
 **chicken**  
@@ -110,6 +113,10 @@ In name:
  - Broasted Chicken @ *1849*  
  - Chicken Gravy @ *1849*  
  - Diced Chicken @ *Great Greens*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+  
+In description:   
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-07-22)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-07-22)  
