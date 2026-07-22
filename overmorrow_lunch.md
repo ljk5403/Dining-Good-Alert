@@ -1,6 +1,6 @@
 # 2026-07-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-21 18:55:30  
+Updated at: 2026-07-21 21:34:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-23)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -102,21 +102,6 @@ In name:
  - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-07-23)  
-**Vanilla Coconut Milk Yogurt**  
-In name:   
-  
-In description:   
- - Great Greans - Yogurt Bar @ *Great Greens*  
-  
-**beef**  
-In name:   
- - Beef Taco Meat @ *Global Kitchen*  
-  
-**chicken**  
-In name:   
- - Chicken Tinga @ *Global Kitchen*  
- - Chicken Noodle Soup @ *Great Greens*  
-  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-07-23)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   

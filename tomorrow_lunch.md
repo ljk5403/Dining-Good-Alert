@@ -1,6 +1,6 @@
 # 2026-07-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-21 18:55:22  
+Updated at: 2026-07-21 21:34:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-22)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -76,25 +76,6 @@ In name:
  - Chicken Wings Boneless Plain @ *Global Kitchen*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-07-22)  
-**Vanilla Coconut Milk Yogurt**  
-In name:   
-  
-In description:   
- - Great Greans - Yogurt Bar @ *Great Greens*  
-  
-**BBQ Pork Sandwich**  
-In name:   
- - BBQ Pork Sandwich @ *Global Kitchen*  
-  
-**beef**  
-In name:   
- - Garlic Herb Roast Beef @ *Global Kitchen*  
- - Beef Chili @ *Great Greens*  
-  
-**pork**  
-In name:   
- - BBQ Pork Sandwich @ *Global Kitchen*  
-  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-07-22)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
