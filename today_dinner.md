@@ -1,6 +1,6 @@
 # 2026-07-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-22 14:16:36  
+Updated at: 2026-07-22 16:05:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-22)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -84,6 +84,16 @@ In description:
 **drumstick**  
 In name:   
  - BBQ Glazed Chicken Drumstick @ *1849*  
+  
+**Salmon**  
+In name:   
+ - Hoisin BBQ Glazed Salmon @ *1849*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Hoisin BBQ Glazed Salmon @ *1849*  
   
 **Tuna**  
 In name:   

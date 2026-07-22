@@ -1,6 +1,6 @@
 # 2026-07-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-22 12:17:26  
+Updated at: 2026-07-22 14:16:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-22)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -44,14 +44,9 @@ In name:
 In description:   
  - Great Greans - Yogurt Bar @ *Great Greens*  
   
-**catfish**  
+**Salmon**  
 In name:   
- - Panfried Southern Catfish @ *1849*  
-  
-**fish**  
-In name:   
- - Panfried Southern Catfish @ *1849*  
- - Friedtfish CBX @ *1849*  
+ - Blackened Salmon @ *1849*  
   
 **Tuna**  
 In name:   
