@@ -1,6 +1,6 @@
 # 2026-07-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-22 16:05:30  
+Updated at: 2026-07-22 18:01:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-22)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -43,10 +43,6 @@ In description:
 In name:   
  - Grilled Sesame Ginger Salmon @ *1849*  
   
-**lamb**  
-In name:   
- - Lamb Vindaloo @ *Global Kitchen*  
-  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
@@ -57,10 +53,10 @@ In name:
   
 **curry**  
 In name:   
+ - Thai Veggie Meatballs w/ Green Curry @ *Global Kitchen*  
   
 In description:   
  - Appetizer -  Pakoras Vegetable (Veg) @ *Global Kitchen*  
- - Lamb Vindaloo @ *Global Kitchen*  
  - Vegetable & Tofu Madras w/Basmati Rice @ *Global Kitchen*  
   
 **beef**  
@@ -106,6 +102,7 @@ In name:
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Deli @ *Delicious*  
   
 **pork**  
@@ -113,6 +110,7 @@ In name:
  - Italian Pork Sausage @ *Buona Cucina*  
   
 In description:   
+ - Pizza Slice Sausage @ *Capital City Pizza*  
  - Deli @ *Delicious*  
   
 **chicken**  
@@ -120,6 +118,9 @@ In name:
  - BBQ Glazed Chicken Drumstick @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
+  
+In description:   
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-07-22)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-07-22)  
