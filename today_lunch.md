@@ -1,6 +1,6 @@
 # 2026-07-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-23 03:27:56  
+Updated at: 2026-07-23 10:54:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-23)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -74,6 +74,7 @@ In description:
   
 **Tuna**  
 In name:   
+ - Tuna Salad @ *Delicious*  
   
 In description:   
  - Poke Bar @ *Global Kitchen*  
@@ -84,7 +85,6 @@ In name:
   
 In description:   
  - Swiss Steak w/Brown Gravy @ *1849*  
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
  - Pork Bratwurst Sandwich @ *Fired Up*  
   
 **pork**  
@@ -92,13 +92,9 @@ In name:
  - Pork Bratwurst Sandwich @ *Fired Up*  
  - Pork Carnita @ *Que Rico*  
   
-In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
-  
 **chicken**  
 In name:   
  - Chicken Noodle Soup @ *Great Greens*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-07-23)  
@@ -117,7 +113,6 @@ In description:
   
 **beef**  
 In name:   
- - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
@@ -127,7 +122,6 @@ In description:
   
 **pork**  
 In name:   
- - Pork Carnita @ *Gordon Que Rico*  
   
 In description:   
  - Pizza Slice Sausage @ *Capital City Pizza*  
