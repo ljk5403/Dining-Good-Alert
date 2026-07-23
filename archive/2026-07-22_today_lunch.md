@@ -1,6 +1,6 @@
 # 2026-07-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-23 10:54:32  
+Updated at: 2026-07-23 12:21:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-23)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -95,7 +95,6 @@ In name:
 **chicken**  
 In name:   
  - Chicken Noodle Soup @ *Great Greens*  
- - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-07-23)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-07-23)  
@@ -113,6 +112,7 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
@@ -122,6 +122,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Carnita @ *Gordon Que Rico*  
   
 In description:   
  - Pizza Slice Sausage @ *Capital City Pizza*  
