@@ -1,6 +1,6 @@
 # 2026-07-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-23 14:15:06  
+Updated at: 2026-07-23 16:02:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-23)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -62,6 +62,9 @@ In name:
 In name:   
  - Beef Taco Meat @ *Que Rico*  
   
+In description:   
+ - Grilled Blended Burger w/ Cheese @ *Fired Up*  
+  
 **pork**  
 In name:   
  - Pork Carnita @ *Que Rico*  
@@ -73,7 +76,6 @@ In description:
 In name:   
  - Chicken Noodle Soup @ *Great Greens*  
  - Jamaican Jerk Chicken @ *1849*  
- - Chicken Bruschetta Sandwich @ *Fired Up*  
  - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-07-23)  
