@@ -1,6 +1,6 @@
 # 2026-07-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-23 16:02:40  
+Updated at: 2026-07-23 17:55:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-23)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -86,12 +86,6 @@ In name:
 In description:   
  - Yogurt Bar @ *Great Greens*  
   
-**portabella**  
-In name:   
-  
-In description:   
- - Vegan Mushroom Banh Mi Sandwich @ *Fired Up*  
-  
 **beef**  
 In name:   
  - Beef Tri Tip Carved w/ Chimichurri @ *1849*  
@@ -99,6 +93,7 @@ In name:
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
+ - Fired Up Blended Burger @ *Fired Up*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Deli @ *Delicious*  
   
@@ -113,7 +108,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Banh Mi @ *Fired Up*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
