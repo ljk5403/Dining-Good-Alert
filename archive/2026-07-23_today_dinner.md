@@ -1,6 +1,6 @@
 # 2026-07-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-24 14:23:09  
+Updated at: 2026-07-24 16:01:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-24)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -103,13 +103,13 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Fired Up Blended Burger @ *Fired Up*  
  - Plant-Based Pepper Steak Stir Fry @ *Global Kitchen*  
- - Vegan Taco Filling @ *Que Rico*  
   
 **chicken**  
 In name:   
+ - Chicken Bruschetta Sandwich @ *Fired Up*  
  - Orange Sweet & Spicy Chicken @ *Global Kitchen*  
+ - Plant-Based Chicken Taco Filling @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-07-24)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-07-24)  
