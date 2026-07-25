@@ -1,6 +1,6 @@
 # 2026-07-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-25 14:15:41  
+Updated at: 2026-07-25 15:51:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-25)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -15,11 +15,11 @@ In name:
 **beef**  
 In name:   
  - Southwestern Corned Beef Hash @ *1849*  
- - Sliced BBQ Beef Brisket Sandwich @ *Fired Up*  
   
 In description:   
  - Pepperoni & Mushrooms Pizza @ *Capital City Pizza*  
  - Deli @ *Delicious*  
+ - Bratwurst @ *Fired Up*  
   
 **pork**  
 In name:   
@@ -28,6 +28,7 @@ In name:
 In description:   
  - Build Your Own Breakfast Sandwich @ *Delicious*  
  - Deli @ *Delicious*  
+ - Bratwurst @ *Fired Up*  
   
 **chicken**  
 In name:   
@@ -50,6 +51,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Hot Dog  (no bun) @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
