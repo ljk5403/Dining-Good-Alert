@@ -1,17 +1,16 @@
-# 2026-07-25 lunch  
+# 2026-07-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-24 19:11:30  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-25)  
+Updated at: 2026-07-25 03:04:25  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-26)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
   
 In description:   
  - Great Greans - Yogurt Bar @ *Great Greens*  
   
-**steak**  
+**portabella**  
 In name:   
- - Beef Pepper Steak Stir Fry w/Teriyaki @ *Global Kitchen*  
- - Plant-Based Pepper Steak Stir Fry @ *Global Kitchen*  
+ - Portabella Mushroom Ravioli Plain @ *Buona Cucina*  
   
 **Tuna**  
 In name:   
@@ -19,19 +18,18 @@ In name:
   
 **beef**  
 In name:   
- - Beef Pepper Steak Stir Fry w/Teriyaki @ *Global Kitchen*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Beef French Dip Sandwich @ *Fired Up*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Pepperoni & Mushrooms Pizza @ *Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Deli @ *Delicious*  
- - Italian Meatball Sandwich @ *Fired Up*  
- - Plant-Based Pepper Steak Stir Fry @ *Global Kitchen*  
+ - Vegan Taco Filling @ *Que Rico*  
   
 **pork**  
 In name:   
- - BBQ Pork Chop @ *1849*  
- - Italian Pork Sausage @ *Buona Cucina*  
+ - Baked Rigatoni w/ Pork Italian Sausage @ *1849*  
  - Pork Carnita @ *Que Rico*  
   
 In description:   
@@ -41,18 +39,30 @@ In description:
 **chicken**  
 In name:   
  - Chicken Chili @ *Great Greens*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Plant Based Chicken Strips @ *Buona Cucina*  
  - Chicken Tinga @ *Que Rico*  
   
 In description:   
- - Pepperoni & Mushrooms Pizza @ *Capital City Pizza*  
- - Italian Meatball Sandwich @ *Fired Up*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-07-25)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-07-26)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
   
 In description:   
  - Great Greans - Yogurt Bar @ *Great Greens*  
+  
+**Samosas**  
+In name:   
+ - Samosas @ *Global Kitchen*  
+  
+**curry**  
+In name:   
+  
+In description:   
+ - Tikka Masala Chicken @ *Global Kitchen*  
+ - Sub - Vegetable & Tofu Madras @ *Global Kitchen*  
   
 **beef**  
 In name:   
@@ -60,11 +70,9 @@ In name:
   
 In description:   
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
- - Chicago-Style Hot Dog @ *Fired Up*  
   
 **pork**  
 In name:   
- - Appetizer -  Fried Pork Potstickers @ *Global Kitchen*  
   
 In description:   
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
@@ -73,9 +81,24 @@ In description:
 In name:   
  - Chicken Chili @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Crispy Chicken Sandwich @ *Fired Up*  
+ - Tikka Masala Chicken @ *Global Kitchen*  
+ - Chicken Tinga @ *Que Rico*  
   
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-07-25)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-07-25)  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-07-25)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-07-25)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-07-26)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-07-26)  
+**beef**  
+In name:   
+  
+In description:   
+ - Deli @ *Delicious*  
+  
+**pork**  
+In name:   
+  
+In description:   
+ - Deli @ *Delicious*  
+  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-07-26)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-07-26)  
   
