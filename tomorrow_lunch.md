@@ -1,6 +1,6 @@
 # 2026-07-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-25 03:04:25  
+Updated at: 2026-07-25 10:01:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-26)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -87,18 +87,6 @@ In name:
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-07-26)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-07-26)  
-**beef**  
-In name:   
-  
-In description:   
- - Deli @ *Delicious*  
-  
-**pork**  
-In name:   
-  
-In description:   
- - Deli @ *Delicious*  
-  
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-07-26)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-07-26)  
   
