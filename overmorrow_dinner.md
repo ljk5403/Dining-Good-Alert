@@ -1,85 +1,98 @@
-# 2026-07-27 dinner  
+# 2026-07-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-25 22:46:16  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-27)  
+Updated at: 2026-07-26 03:24:21  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-28)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
   
 In description:   
  - Great Greans - Yogurt Bar @ *Great Greens*  
   
-**steak**  
+**portabella**  
 In name:   
   
 In description:   
- - Montreal Chicken @ *1849*  
+ - Pesto Mushroom Sandwich @ *Fired Up*  
   
-**Shrimp**  
+**Salmon**  
 In name:   
- - Five Treasure Shrimp Lo Mein @ *Global Kitchen*  
+ - Ginger Glazed Salmon @ *1849*  
   
-**Chicken Tamale with Oaxaca**  
+**Tuna**  
 In name:   
- - Chicken Tamale with Oaxaca @ *Que Rico*  
+ - Lemon Pepper Tuna Salad @ *Delicious*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
   
 **curry**  
 In name:   
- - Thai Veggie Meatballs w/ Green Curry @ *1849*  
+ - Curry Mango - Pork @ *1849*  
+ - Squash Curry @ *Global Kitchen*  
+  
+In description:   
+ - Chicken Korma @ *Global Kitchen*  
   
 **beef**  
 In name:   
- - Big Texan Beef Sandwich @ *Fired Up*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Beef Mediterranean @ *Que Rico*  
   
 In description:   
- - Sausage (Pork), Potatoes, & Peppers @ *1849*  
- - Pepperoni & Mushrooms Pizza @ *Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Deli @ *Delicious*  
+ - Cocktail Wieners & BBQ Sauce @ *Fired Up*  
   
 **pork**  
 In name:   
- - Sausage (Pork), Potatoes, & Peppers @ *1849*  
- - Pork Tamale with Oaxaca @ *Que Rico*  
+ - Curry Mango - Pork @ *1849*  
   
 In description:   
  - Build Your Own Breakfast Sandwich @ *Delicious*  
  - Deli @ *Delicious*  
+ - Cocktail Wieners & BBQ Sauce @ *Fired Up*  
   
 **chicken**  
 In name:   
- - Montreal Chicken @ *1849*  
  - Diced Chicken @ *Great Greens*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
- - Chicken Tamale with Oaxaca @ *Que Rico*  
+ - Chicken Dumpling Soup @ *Great Greens*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Plant Based Chicken Strips @ *Buona Cucina*  
+ - Crispy Chicken Sandwich @ *Fired Up*  
+ - Chicken Korma @ *Global Kitchen*  
+ - Mediterranean Chicken @ *Que Rico*  
   
 In description:   
- - Pepperoni & Mushrooms Pizza @ *Capital City Pizza*  
- - Pork Tamale with Oaxaca @ *Que Rico*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Cocktail Wieners & BBQ Sauce @ *Fired Up*  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-07-27)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-07-28)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
   
 In description:   
  - Great Greans - Yogurt Bar @ *Great Greens*  
   
-**broccoli rabe**  
+**drumstick**  
 In name:   
- - Broccoli Rabe @ *1849*  
+ - Smoked Chicken Drumstick @ *1849*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
   
 **beef**  
 In name:   
+ - Beef Broccoli Stir Fry @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Burnt Ends @ *1849*  
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
- - Banh Mi Hot Dog @ *Fired Up*  
- - Vegan Taco Filling @ *Que Rico*  
+ - Bacon Bleu Blended Burger @ *Fired Up*  
   
 **pork**  
 In name:   
- - Italian Pork Sausage @ *Global Kitchen*  
   
 In description:   
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
@@ -87,12 +100,15 @@ In description:
 **chicken**  
 In name:   
  - Diced Chicken @ *Great Greens*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
+ - Chicken Dumpling Soup @ *Great Greens*  
+ - Smoked Chicken Drumstick @ *1849*  
+ - Chicken Gravy @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Chicken Tinga @ *Que Rico*  
+ - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
+ - Taco Chicken @ *Que Rico*  
   
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-07-27)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-07-27)  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-07-27)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-07-27)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-07-28)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-07-28)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-07-28)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-07-28)  
   

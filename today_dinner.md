@@ -1,78 +1,101 @@
-# 2026-07-25 dinner  
+# 2026-07-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-25 22:46:10  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-25)  
+Updated at: 2026-07-26 03:24:12  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-26)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
   
 In description:   
  - Great Greans - Yogurt Bar @ *Great Greens*  
+  
+**portabella**  
+In name:   
+ - Portabella Mushroom Ravioli Plain @ *Buona Cucina*  
   
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
   
+**curry**  
+In name:   
+ - Ground Beef Curry @ *Global Kitchen*  
+ - Curry Cauliflower & Butternut Squash @ *Global Kitchen*  
+  
 **beef**  
 In name:   
- - Southwestern Corned Beef Hash @ *1849*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Ground Beef Curry @ *Global Kitchen*  
   
 In description:   
- - Pepperoni & Mushrooms Pizza @ *Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Deli @ *Delicious*  
- - Bratwurst @ *Fired Up*  
   
 **pork**  
 In name:   
- - Pork Sausage Country Gravy w/ Biscuit @ *1849*  
+ - Baked Pork Ham @ *1849*  
   
 In description:   
  - Build Your Own Breakfast Sandwich @ *Delicious*  
  - Deli @ *Delicious*  
- - Bratwurst @ *Fired Up*  
   
 **chicken**  
 In name:   
+ - Chicken & Vegetables w/Dijon Vinaigrette @ *1849*  
  - Chicken Chili @ *Great Greens*  
- - General Tso's Chicken @ *Global Kitchen*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Plant Based Chicken Strips @ *Buona Cucina*  
+ - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
   
 In description:   
- - Pepperoni & Mushrooms Pizza @ *Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-07-25)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-07-26)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
   
 In description:   
  - Great Greans - Yogurt Bar @ *Great Greens*  
   
-**Tuna**  
+**steak**  
 In name:   
- - Tuna Salad @ *Delicious*  
+ - Island Spiced Beef Steak @ *1849*  
+  
+**Cod**  
+In name:   
+ - Caribbean Cod @ *1849*  
+  
+**curry**  
+In name:   
+  
+In description:   
+ - Coconut Vegetable Stew @ *1849*  
   
 **beef**  
 In name:   
- - Beef Hot Dog  (no bun) @ *Global Kitchen*  
+ - Island Spiced Beef Steak @ *1849*  
+ - Beef Gravy @ *1849*  
+ - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
+ - Grilled Blended Burger w/ Cheese @ *Fired Up*  
   
 **pork**  
 In name:   
   
 In description:   
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
- - Brewer's Club Sandwich w/ Bacon Sauce @ *Fired Up*  
   
 **chicken**  
 In name:   
  - Chicken Chili @ *Great Greens*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Beef & Chicken Meatballs @ *Global Kitchen*  
+ - Chicken Tinga @ *Que Rico*  
   
-In description:   
- - BYO Bar - Mac & Cheese @ *Global Kitchen*  
-  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-07-25)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-07-25)  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-07-25)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-07-25)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-07-26)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-07-26)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-07-26)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-07-26)  
   
