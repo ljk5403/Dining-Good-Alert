@@ -1,6 +1,6 @@
 # 2026-07-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-26 10:03:50  
+Updated at: 2026-07-26 11:59:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-26)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -57,6 +57,10 @@ In description:
 In name:   
  - Samosas @ *Global Kitchen*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **curry**  
 In name:   
   
@@ -81,7 +85,6 @@ In description:
 **chicken**  
 In name:   
  - Chicken Chili @ *Great Greens*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Crispy Chicken Sandwich @ *Fired Up*  
  - Tikka Masala Chicken @ *Global Kitchen*  
   
