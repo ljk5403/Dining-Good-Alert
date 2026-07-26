@@ -1,6 +1,6 @@
 # 2026-07-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-26 13:06:25  
+Updated at: 2026-07-26 15:56:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-26)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -77,7 +77,6 @@ In description:
 **beef**  
 In name:   
  - Island Spiced Beef Steak @ *1849*  
- - Beef Gravy @ *1849*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
