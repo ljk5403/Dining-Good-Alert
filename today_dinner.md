@@ -1,6 +1,6 @@
 # 2026-07-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-26 10:03:51  
+Updated at: 2026-07-26 11:59:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-26)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -64,6 +64,10 @@ In name:
 In name:   
  - Caribbean Cod @ *1849*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **curry**  
 In name:   
   
@@ -90,7 +94,6 @@ In description:
 **chicken**  
 In name:   
  - Chicken Chili @ *Great Greens*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Chicken Tinga @ *Que Rico*  
   

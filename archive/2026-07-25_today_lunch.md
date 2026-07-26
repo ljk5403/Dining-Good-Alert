@@ -1,6 +1,6 @@
 # 2026-07-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-26 03:24:10  
+Updated at: 2026-07-26 10:03:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-26)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -73,6 +73,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
@@ -83,7 +84,6 @@ In name:
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Crispy Chicken Sandwich @ *Fired Up*  
  - Tikka Masala Chicken @ *Global Kitchen*  
- - Chicken Tinga @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-07-26)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-07-26)  
