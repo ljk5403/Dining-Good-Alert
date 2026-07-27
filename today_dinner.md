@@ -1,6 +1,6 @@
 # 2026-07-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-27 13:23:19  
+Updated at: 2026-07-27 16:08:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-27)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -69,12 +69,12 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Chili @ *Great Greens*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
  - Burnt Ends @ *1849*  
  - Banh Mi Hot Dog @ *Fired Up*  
- - Vegan Taco Filling @ *Que Rico*  
   
 **pork**  
 In name:   

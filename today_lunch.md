@@ -1,6 +1,6 @@
 # 2026-07-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-27 13:23:15  
+Updated at: 2026-07-27 16:08:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-27)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -48,6 +48,7 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Chili @ *Great Greens*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
