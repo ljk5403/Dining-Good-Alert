@@ -1,6 +1,6 @@
 # 2026-07-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-27 04:49:49  
+Updated at: 2026-07-27 11:17:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-27)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -73,16 +73,12 @@ In name:
   
 In description:   
  - Burnt Ends @ *1849*  
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
  - Banh Mi Hot Dog @ *Fired Up*  
  - Vegan Taco Filling @ *Que Rico*  
   
 **pork**  
 In name:   
  - Italian Pork Sausage @ *Global Kitchen*  
-  
-In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **chicken**  
 In name:   
