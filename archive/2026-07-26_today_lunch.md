@@ -1,6 +1,6 @@
 # 2026-07-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-27 04:49:46  
+Updated at: 2026-07-27 11:17:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-27)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
@@ -52,7 +52,6 @@ In name:
   
 In description:   
  - BBQ Brisket Sandwich @ *1849*  
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
  - Vegan Taco Filling @ *Que Rico*  
   
 **pork**  
@@ -60,7 +59,6 @@ In name:
  - Italian Pork Sausage @ *Global Kitchen*  
   
 In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
  - Chorizo Sauce @ *Global Kitchen*  
   
 **chicken**  
@@ -82,6 +80,10 @@ In name:
   
 In description:   
  - Yogurt Bar @ *Great Greens*  
+  
+**Salmon**  
+In name:   
+ - Salmon @ *Great Greens*  
   
 **beef**  
 In name:   
