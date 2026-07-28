@@ -1,13 +1,7 @@
 # 2026-07-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-28 03:31:57  
+Updated at: 2026-07-28 11:03:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-28)  
-**Vanilla Coconut Milk Yogurt**  
-In name:   
-  
-In description:   
- - Great Greans - Yogurt Bar @ *Great Greens*  
-  
 **Tandoori Chicken**  
 In name:   
  - Tandoori Chicken @ *Global Kitchen*  
@@ -62,10 +56,6 @@ In description:
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-07-28)  
-**Vanilla Coconut Milk Yogurt**  
-In name:   
- - Vanilla Coconut Milk Yogurt @ *Great Greens*  
-  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -74,16 +64,10 @@ In name:
 In name:   
  - Beef Taco Meat @ *Que Rico*  
   
-In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
-  
 **pork**  
 In name:   
  - Apple Cider Braised Pork @ *1849*  
  - Imperial Pork Stir Fry @ *Global Kitchen*  
-  
-In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **chicken**  
 In name:   
