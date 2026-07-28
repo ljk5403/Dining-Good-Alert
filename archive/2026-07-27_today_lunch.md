@@ -1,6 +1,6 @@
 # 2026-07-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-28 16:05:46  
+Updated at: 2026-07-28 17:56:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-28)  
 **Tandoori Chicken**  
 In name:   
@@ -56,6 +56,10 @@ In description:
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-07-28)  
+**clam**  
+In name:   
+ - Clam Chowder @ *Great Greens*  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -72,7 +76,6 @@ In name:
 **chicken**  
 In name:   
  - Diced Chicken @ *Great Greens*  
- - Chicken Dumpling Soup @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Grilled BBQ Chicken Sandwich @ *Fired Up*  
  - Plant Based Sweet & Sour Chicken @ *Global Kitchen*  

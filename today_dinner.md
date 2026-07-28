@@ -1,6 +1,6 @@
 # 2026-07-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-28 17:56:46  
+Updated at: 2026-07-28 18:59:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-28)  
 **portabella**  
 In name:   
@@ -63,10 +63,6 @@ In description:
  - Cocktail Wieners & BBQ Sauce @ *Fired Up*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-07-28)  
-**drumstick**  
-In name:   
- - Smoked Chicken Drumstick @ *1849*  
-  
 **clam**  
 In name:   
  - Clam Chowder @ *Great Greens*  
@@ -77,6 +73,7 @@ In name:
   
 **beef**  
 In name:   
+ - Smoked Beef Brisket @ *1849*  
  - Beef Broccoli Stir Fry @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
@@ -86,9 +83,9 @@ In description:
 **chicken**  
 In name:   
  - Diced Chicken @ *Great Greens*  
- - Smoked Chicken Drumstick @ *1849*  
  - Chicken Gravy @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Protein Plant Based Chicken Tender @ *Fired Up*  
  - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-07-28)  
