@@ -1,13 +1,7 @@
 # 2026-07-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-28 03:31:59  
+Updated at: 2026-07-28 11:03:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-29)  
-**Vanilla Coconut Milk Yogurt**  
-In name:   
-  
-In description:   
- - Great Greans - Yogurt Bar @ *Great Greens*  
-  
 **broccoli rabe**  
 In name:   
  - Broccoli Rabe @ *1849*  
