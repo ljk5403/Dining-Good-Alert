@@ -1,6 +1,6 @@
 # 2026-07-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-28 16:05:48  
+Updated at: 2026-07-28 17:56:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-28)  
 **portabella**  
 In name:   
@@ -23,6 +23,7 @@ In name:
 **curry**  
 In name:   
  - Curry Mango - Pork @ *1849*  
+ - Coconut Tofu w/Red Curry Sauce @ *1849*  
  - Squash Curry @ *Global Kitchen*  
   
 In description:   
@@ -66,6 +67,10 @@ In description:
 In name:   
  - Smoked Chicken Drumstick @ *1849*  
   
+**clam**  
+In name:   
+ - Clam Chowder @ *Great Greens*  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -81,12 +86,10 @@ In description:
 **chicken**  
 In name:   
  - Diced Chicken @ *Great Greens*  
- - Chicken Dumpling Soup @ *Great Greens*  
  - Smoked Chicken Drumstick @ *1849*  
  - Chicken Gravy @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
- - Taco Chicken @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-07-28)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-07-28)  
