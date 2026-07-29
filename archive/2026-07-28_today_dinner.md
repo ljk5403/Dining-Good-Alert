@@ -1,6 +1,6 @@
 # 2026-07-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-29 03:38:35  
+Updated at: 2026-07-29 10:47:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-29)  
 **portabella**  
 In name:   
@@ -64,15 +64,6 @@ In name:
  - Beef Chili @ *Great Greens*  
  - Beef Barbacoa @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
-  
-In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
-  
-**pork**  
-In name:   
-  
-In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **chicken**  
 In name:   

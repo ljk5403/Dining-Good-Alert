@@ -1,6 +1,6 @@
 # 2026-07-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-29 03:38:32  
+Updated at: 2026-07-29 10:47:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-29)  
 **broccoli rabe**  
 In name:   
@@ -29,7 +29,7 @@ In description:
   
 **chicken**  
 In name:   
- - Breaded Chicken Parmigiana @ *1849*  
+ - Chicken Parmigiana @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Spicy Lo Mein w/Chicken @ *Global Kitchen*  
@@ -41,15 +41,6 @@ In name:
  - Beef Chili @ *Great Greens*  
  - Beef Barbacoa @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
-  
-In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
-  
-**pork**  
-In name:   
-  
-In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -83,8 +74,8 @@ In name:
   
 **beef**  
 In name:   
- - Beef Barbacoa @ *Gordon Que Rico*  
- - Beef Taco Meat @ *Gordon Que Rico*  
+ - Beef Barbacoa @ *Gordon Eggcetera*  
+ - Beef Taco Meat @ *Gordon Eggcetera*  
  - Beef Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
@@ -105,9 +96,9 @@ In description:
 In name:   
  - Broasted Chicken @ *1849*  
  - Chicken Gravy @ *1849*  
+ - Maple Cider Chicken @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
