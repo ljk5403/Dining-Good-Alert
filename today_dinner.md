@@ -1,21 +1,10 @@
 # 2026-07-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-29 15:53:54  
+Updated at: 2026-07-29 16:59:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-29)  
-**portabella**  
-In name:   
-  
-In description:   
- - Vegetable Cheesesteak Sandwich @ *Fired Up*  
-  
 **FiIipino Pork Spring Roll**  
 In name:   
  - FiIipino Pork Spring Roll @ *Global Kitchen*  
-  
-**steak**  
-In name:   
- - Philly Cheesesteak Sandwich @ *Fired Up*  
- - Vegetable Cheesesteak Sandwich @ *Fired Up*  
   
 **Filipino Pork Sausage**  
 In name:   
@@ -28,13 +17,13 @@ In name:
   
 In description:   
  - Deli @ *Delicious*  
- - Philly Cheesesteak Sandwich @ *Fired Up*  
   
 **pork**  
 In name:   
  - BBQ Pork Chop @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
+ - Italian Sausage (Pork) w/ Pepper & Onion @ *Fired Up*  
  - FiIipino Pork Spring Roll @ *Global Kitchen*  
  - Filipino Pork Sausage @ *Global Kitchen*  
  - Ancho Pork Rice Bowl @ *Que Rico*  
@@ -47,6 +36,7 @@ In description:
 In name:   
  - Chicken Pot Pie w/Biscuit @ *1849*  
  - Diced Chicken @ *Great Greens*  
+ - Plant Based Chicken Strips @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
@@ -64,6 +54,7 @@ In name:
  - Beef Chili @ *Great Greens*  
  - Beef Meatballs @ *1849*  
  - Beef Barbacoa @ *Que Rico*  
+ - Beef Taco Meat @ *Que Rico*  
   
 **chicken**  
 In name:   
@@ -71,7 +62,6 @@ In name:
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Crispy Chicken Sandwich @ *Fired Up*  
  - Chicken Wings Boneless (CN) @ *Global Kitchen*  
- - Chicken Tinga @ *Que Rico*  
   
 In description:   
  - Beef Meatballs @ *1849*  
