@@ -1,6 +1,6 @@
 # 2026-07-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-30 10:50:59  
+Updated at: 2026-07-30 12:25:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-30)  
 **Tuna**  
 In name:   
@@ -58,14 +58,10 @@ In name:
   
 In description:   
  - Grilled Flank Steak @ *1849*  
- - Grilled Cuban Sandwich @ *Fired Up*  
   
 **pork**  
 In name:   
  - Pork Carnita @ *Que Rico*  
-  
-In description:   
- - Grilled Cuban Sandwich @ *Fired Up*  
   
 **chicken**  
 In name:   
@@ -87,11 +83,15 @@ In name:
  - Vegetarian "Chicken" Nuggets @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-07-30)  
-**steak**  
+**Salmon**  
+In name:   
+ - Hoisin BBQ Glazed Salmon @ *1849*  
+  
+**fish**  
 In name:   
   
 In description:   
- - Montreal Chicken @ *1849*  
+ - Hoisin BBQ Glazed Salmon @ *1849*  
   
 **Tuna**  
 In name:   
@@ -99,7 +99,7 @@ In name:
   
 **beef**  
 In name:   
- - Beef Goulash w/Egg Noodles @ *1849*  
+ - Empanada Beef Picadillo @ *1849*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
@@ -115,13 +115,13 @@ In description:
   
 **chicken**  
 In name:   
- - Montreal Chicken @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Italian Chicken @ *Buona Cucina*  
   
 In description:   
+ - Empanada Beef Picadillo @ *1849*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-07-30)  
