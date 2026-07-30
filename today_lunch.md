@@ -1,6 +1,6 @@
 # 2026-07-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-29 18:06:04  
+Updated at: 2026-07-29 21:20:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-29)  
 **broccoli rabe**  
 In name:   
@@ -74,8 +74,8 @@ In name:
   
 **beef**  
 In name:   
- - Beef Barbacoa @ *Gordon Eggcetera*  
- - Beef Taco Meat @ *Gordon Eggcetera*  
+ - Beef Barbacoa @ *Gordon Que Rico*  
+ - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
