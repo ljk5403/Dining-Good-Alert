@@ -1,6 +1,6 @@
 # 2026-07-31 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-31 03:47:30  
+Updated at: 2026-07-31 11:00:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-31)  
 **Salmon**  
 In name:   
@@ -39,7 +39,6 @@ In description:
 **pork**  
 In name:   
  - Porkloin Fritter Plate @ *1849*  
- - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Build Your Own Breakfast Sandwich @ *Delicious*  
@@ -51,7 +50,7 @@ In name:
  - Diced Chicken Breast @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Butter Chicken @ *Global Kitchen*  
- - Fajita Chicken @ *Que Rico*  
+ - Chicken Tinga @ *Que Rico*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
@@ -83,15 +82,7 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
  - Build Your Own Mediterranean Bar @ *Global Kitchen*  
- - Vegan Taco Filling @ *Que Rico*  
-  
-**pork**  
-In name:   
-  
-In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -124,11 +115,18 @@ In name:
   
 **Cod**  
 In name:   
- - Basque Style Cod @ *1849*  
+ - Battered Cod @ *1849*  
+ - Vegan Cod Battered (2 pc) @ *1849*  
   
 **clam**  
 In name:   
  - Clam Chowder @ *Great Greens*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Vegan Cod Battered (2 pc) @ *1849*  
   
 **watermelon**  
 In name:   
@@ -142,24 +140,17 @@ In name:
 In name:   
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Vegan Taco Filling @ *Gordon Que Rico*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
- - Deli @ *Delicious*  
   
 **pork**  
 In name:   
  - BBQ Pork Sandwich @ *Fired Up*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Pizza Slice Sausage @ *Capital City Pizza*  
- - Deli @ *Delicious*  
- - Bacon @ *Delicious*  
- - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -167,7 +158,6 @@ In name:
  - Taco Chicken @ *Gordon Que Rico*  
  - Diced Chicken @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  

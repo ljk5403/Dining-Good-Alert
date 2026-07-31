@@ -1,6 +1,6 @@
 # 2026-07-31 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-31 03:47:31  
+Updated at: 2026-07-31 11:00:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-07-31)  
 **Cod**  
 In name:   
@@ -68,16 +68,9 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
  - Grilled Steak Hero @ *Fired Up*  
  - Build Your Own Mediterranean Bar @ *Global Kitchen*  
  - Vegan Taco Filling @ *Que Rico*  
-  
-**pork**  
-In name:   
-  
-In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **chicken**  
 In name:   
