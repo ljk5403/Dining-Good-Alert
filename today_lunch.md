@@ -1,6 +1,6 @@
 # 2026-07-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-30 18:05:31  
+Updated at: 2026-07-30 21:43:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-30)  
 **Tuna**  
 In name:   
@@ -58,10 +58,14 @@ In name:
   
 In description:   
  - Grilled Flank Steak @ *1849*  
+ - Grilled Cuban Sandwich @ *Fired Up*  
   
 **pork**  
 In name:   
  - Pork Carnita @ *Que Rico*  
+  
+In description:   
+ - Grilled Cuban Sandwich @ *Fired Up*  
   
 **chicken**  
 In name:   

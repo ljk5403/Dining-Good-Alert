@@ -1,6 +1,6 @@
 # 2026-07-31 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-30 18:05:33  
+Updated at: 2026-07-30 21:44:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-31)  
 **Salmon**  
 In name:   
@@ -142,6 +142,8 @@ In name:
 In name:   
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Vegan Taco Filling @ *Gordon Que Rico*  
@@ -151,10 +153,13 @@ In description:
 **pork**  
 In name:   
  - BBQ Pork Sandwich @ *Fired Up*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Pizza Slice Sausage @ *Capital City Pizza*  
  - Deli @ *Delicious*  
+ - Bacon @ *Delicious*  
+ - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   
