@@ -1,6 +1,6 @@
 # 2026-07-31 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-07-31 11:00:19  
+Updated at: 2026-07-31 13:19:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-07-31)  
 **Salmon**  
 In name:   
@@ -49,7 +49,7 @@ In name:
  - Diced Chicken @ *Great Greens*  
  - Diced Chicken Breast @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Butter Chicken @ *Global Kitchen*  
+ - Huli Huli Chicken @ *Global Kitchen*  
  - Chicken Tinga @ *Que Rico*  
   
 In description:   
