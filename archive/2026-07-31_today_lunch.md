@@ -1,6 +1,6 @@
 # 2026-08-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-01 11:07:37  
+Updated at: 2026-08-01 12:58:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-01)  
 **Shrimp**  
 In name:   
@@ -34,6 +34,7 @@ In description:
 In name:   
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
+ - Plant Based Chicken Strips @ *Buona Cucina*  
  - Chicken Tinga @ *Que Rico*  
   
 In description:   
