@@ -1,11 +1,7 @@
 # 2026-08-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-02 03:22:11  
+Updated at: 2026-08-02 10:00:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-02)  
-**steak**  
-In name:   
- - Philly Cheesesteak Sandwich @ *Fired Up*  
-  
 **curry**  
 In name:   
  - Squash Curry @ *1849*  
@@ -18,7 +14,6 @@ In name:
   
 In description:   
  - Deli @ *Delicious*  
- - Philly Cheesesteak Sandwich @ *Fired Up*  
  - Vegan Taco Filling @ *Que Rico*  
   
 **pork**  
