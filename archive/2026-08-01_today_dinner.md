@@ -1,10 +1,16 @@
 # 2026-08-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-02 15:54:15  
+Updated at: 2026-08-02 17:55:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-02)  
 **lamb**  
 In name:   
  - Lamb & Beef Gyro Sandwich @ *Fired Up*  
+  
+**curry**  
+In name:   
+  
+In description:   
+ - Chicken Ala King over Biscuit @ *1849*  
   
 **beef**  
 In name:   
@@ -29,13 +35,12 @@ In description:
   
 **chicken**  
 In name:   
- - Breaded Chicken Parmigiana @ *1849*  
+ - Chicken Ala King over Biscuit @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Teriyaki Stir Fry @ *Global Kitchen*  
- - Fajita Chicken @ *Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-08-02)  
 **Salmon**  
