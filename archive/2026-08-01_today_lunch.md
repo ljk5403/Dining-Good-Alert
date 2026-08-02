@@ -1,6 +1,6 @@
 # 2026-08-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-02 10:00:07  
+Updated at: 2026-08-02 11:08:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-02)  
 **curry**  
 In name:   
@@ -28,11 +28,9 @@ In description:
 In name:   
  - Honey Mustard Chicken & Vegetables @ *1849*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Fajita Chicken @ *Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-08-02)  
 **beef**  

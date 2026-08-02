@@ -1,6 +1,6 @@
 # 2026-08-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-02 10:00:08  
+Updated at: 2026-08-02 11:08:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-02)  
 **lamb**  
 In name:   
@@ -31,7 +31,6 @@ In description:
 In name:   
  - Breaded Chicken Parmigiana @ *1849*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
