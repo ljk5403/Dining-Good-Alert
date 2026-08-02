@@ -1,6 +1,6 @@
 # 2026-08-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-02 13:00:10  
+Updated at: 2026-08-02 14:22:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-02)  
 **lamb**  
 In name:   
@@ -40,18 +40,16 @@ In name:
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-08-02)  
 **Salmon**  
 In name:   
- - Tuscan Butter Salmon @ *1849*  
+ - Tuscan Butter Salmon @ *Que Rico*  
   
 **curry**  
 In name:   
   
 In description:   
- - Citrus Couscous (VN) (AYCTE) @ *1849*  
+ - Citrus Couscous (VN) (AYCTE) @ *Que Rico*  
   
 **beef**  
 In name:   
- - Beef Barbacoa @ *Que Rico*  
- - Beef Taco Meat @ *Que Rico*  
   
 In description:   
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
