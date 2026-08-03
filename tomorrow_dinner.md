@@ -1,92 +1,91 @@
-# 2026-08-03 dinner  
+# 2026-08-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-02 22:33:23  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-03)  
-**drumstick**  
+Updated at: 2026-08-03 04:41:57  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-04)  
+**Samosas**  
 In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
+ - Samosas @ *Global Kitchen*  
   
-**fish**  
+**Salmon**  
 In name:   
+ - Oven Roasted Salmon @ *1849*  
   
-In description:   
- - Tom Kha Gai Soup @ *Global Kitchen*  
-  
-**Tuna**  
+**watermelon**  
 In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
+ - Watermelon Slices @ *Great Greens*  
   
-**BBQ Pork Sandwich**  
+**curry**  
 In name:   
- - BBQ Pork Sandwich @ *Fired Up*  
+ - Plant-Based Beef Curry Squash @ *Global Kitchen*  
   
 **beef**  
 In name:   
- - Beef Ravioli Plain @ *Buona Cucina*  
- - Beef Carne Guisada @ *Que Rico*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Beef Street Taco @ *Fired Up*  
+ - Beef Vindaloo @ *Global Kitchen*  
+ - Plant-Based Beef Curry Squash @ *Global Kitchen*  
+ - Beef Mediterranean @ *Que Rico*  
   
 In description:   
- - Pizza Slice - Bacon Cheeseburger @ *Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Deli @ *Delicious*  
   
 **pork**  
 In name:   
- - Cajun Rice w/ Pork & Black Eyed Peas @ *1849*  
- - BBQ Pork Sandwich @ *Fired Up*  
   
 In description:   
  - Deli @ *Delicious*  
   
 **chicken**  
 In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
- - Diced Chicken Breast @ *Buona Cucina*  
+ - Za'tar and Lemon Grilled Chicken @ *1849*  
+ - Chicken Dumpling Soup @ *Great Greens*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Plant Based Chicken Strips @ *Buona Cucina*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Mediterranean Chicken @ *Que Rico*  
   
 In description:   
- - Tom Kha Gai Soup @ *Global Kitchen*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-08-03)  
-**fish**  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-08-04)  
+**watermelon**  
 In name:   
-  
-In description:   
- - Crab Rangoon @ *Global Kitchen*  
+ - Watermelon Slices @ *Great Greens*  
   
 **curry**  
 In name:   
- - Seitan & Coconut Thai Curry @ *1849*  
+ - Curry Cauliflower & Butternut Squash @ *1849*  
   
 **beef**  
 In name:   
- - Big Texan Beef Sandwich @ *Fired Up*  
- - Protein - Beef Thinly Sliced @ *Global Kitchen*  
+ - Mediterranean Beef @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
- - Build Your Own Maki Mono Bar @ *Global Kitchen*  
- - Vegan Taco Filling @ *Que Rico*  
+ - Grilled Blended Burger w/ Cheese @ *Fired Up*  
+ - Build Your Own Mediterranean Bar @ *Global Kitchen*  
   
 **pork**  
 In name:   
- - Pork Adobo @ *1849*  
+ - BBQ Pork Chop @ *1849*  
   
 In description:   
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **chicken**  
 In name:   
- - Lemon Chicken Rice Soup @ *Great Greens*  
+ - Chicken Dumpling Soup @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Protein - Chicken Thinly Sliced @ *Global Kitchen*  
- - Chicken Tinga @ *Que Rico*  
+ - Mediterranean Chicken @ *Global Kitchen*  
+ - Taco Chicken @ *Que Rico*  
   
 In description:   
- - Build Your Own Maki Mono Bar @ *Global Kitchen*  
+ - Build Your Own Mediterranean Bar @ *Global Kitchen*  
   
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-08-03)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-08-03)  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-08-03)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-08-03)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-08-04)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-08-04)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-08-04)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-08-04)  
   
