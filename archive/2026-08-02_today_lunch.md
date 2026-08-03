@@ -1,6 +1,6 @@
 # 2026-08-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-03 04:41:49  
+Updated at: 2026-08-03 11:23:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-03)  
 **Tuna**  
 In name:   
@@ -45,7 +45,6 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
  - Vegan Taco Filling @ *Que Rico*  
   
 **pork**  
@@ -53,7 +52,6 @@ In name:
  - Boneless Baked Pork Ham @ *1849*  
   
 In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
  - Andouille Sausage @ *Global Kitchen*  
   
 **chicken**  
@@ -92,7 +90,7 @@ In name:
   
 **beef**  
 In name:   
- - Beef Stew @ *1849*  
+ - Beef Stew w/ Buttermilk Biscuit @ *1849*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   

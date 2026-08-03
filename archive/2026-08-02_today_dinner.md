@@ -1,6 +1,6 @@
 # 2026-08-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-03 04:41:52  
+Updated at: 2026-08-03 11:23:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-03)  
 **drumstick**  
 In name:   
@@ -64,16 +64,12 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
  - Build Your Own Maki Mono Bar @ *Global Kitchen*  
  - Vegan Taco Filling @ *Que Rico*  
   
 **pork**  
 In name:   
  - Pork Adobo @ *1849*  
-  
-In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **chicken**  
 In name:   
