@@ -1,6 +1,6 @@
 # 2026-08-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-03 17:58:27  
+Updated at: 2026-08-03 19:12:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-03)  
 **drumstick**  
 In name:   
@@ -16,10 +16,6 @@ In description:
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
   
-**BBQ Pork Sandwich**  
-In name:   
- - BBQ Pork Sandwich @ *Fired Up*  
-  
 **beef**  
 In name:   
  - Beef Ravioli Plain @ *Buona Cucina*  
@@ -31,8 +27,6 @@ In description:
   
 **pork**  
 In name:   
- - Cajun Rice w/ Pork & Black Eyed Peas @ *1849*  
- - BBQ Pork Sandwich @ *Fired Up*  
   
 In description:   
  - Deli @ *Delicious*  
@@ -42,6 +36,7 @@ In name:
  - Chicken Drumstick BBQ Glazed @ *1849*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Diced Chicken Breast @ *Buona Cucina*  
+ - Crispy Chicken Sandwich @ *Fired Up*  
   
 In description:   
  - Tom Kha Gai Soup @ *Global Kitchen*  
