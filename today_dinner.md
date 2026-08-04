@@ -1,82 +1,91 @@
-# 2026-08-03 dinner  
+# 2026-08-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-03 19:12:54  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-03)  
-**drumstick**  
+Updated at: 2026-08-04 03:34:22  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-04)  
+**Samosas**  
 In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
+ - Samosas @ *Global Kitchen*  
   
-**fish**  
+**Salmon**  
 In name:   
+ - Oven Roasted Salmon @ *1849*  
   
-In description:   
- - Tom Kha Gai Soup @ *Global Kitchen*  
-  
-**Tuna**  
+**watermelon**  
 In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
-  
-**beef**  
-In name:   
- - Beef Ravioli Plain @ *Buona Cucina*  
- - Beef Carne Guisada @ *Que Rico*  
-  
-In description:   
- - Pizza Slice - Bacon Cheeseburger @ *Capital City Pizza*  
- - Deli @ *Delicious*  
-  
-**pork**  
-In name:   
-  
-In description:   
- - Deli @ *Delicious*  
-  
-**chicken**  
-In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
- - Diced Chicken Breast @ *Buona Cucina*  
- - Crispy Chicken Sandwich @ *Fired Up*  
-  
-In description:   
- - Tom Kha Gai Soup @ *Global Kitchen*  
-  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-08-03)  
-**fish**  
-In name:   
-  
-In description:   
- - Crab Rangoon @ *Global Kitchen*  
+ - Watermelon Slices @ *Great Greens*  
   
 **curry**  
 In name:   
- - Seitan & Coconut Thai Curry @ *1849*  
+ - Plant-Based Beef Curry Squash @ *Global Kitchen*  
   
 **beef**  
 In name:   
- - Protein - Beef Thinly Sliced @ *Global Kitchen*  
- - Beef Taco Meat @ *Que Rico*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Beef Street Taco @ *Fired Up*  
+ - Beef Vindaloo @ *Global Kitchen*  
+ - Plant-Based Beef Curry Squash @ *Global Kitchen*  
+ - Beef Mediterranean @ *Que Rico*  
   
 In description:   
- - Build Your Own Maki Mono Bar @ *Global Kitchen*  
- - Vegan Taco Filling @ *Que Rico*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Deli @ *Delicious*  
   
 **pork**  
 In name:   
- - Pork Adobo @ *1849*  
+  
+In description:   
+ - Deli @ *Delicious*  
   
 **chicken**  
 In name:   
- - Lemon Chicken Rice Soup @ *Great Greens*  
+ - Za'tar and Lemon Grilled Chicken @ *1849*  
+ - Chicken Dumpling Soup @ *Great Greens*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Plant Based Chicken Strips @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Protein - Chicken Thinly Sliced @ *Global Kitchen*  
- - Chicken Tinga @ *Que Rico*  
+ - Mediterranean Chicken @ *Que Rico*  
   
 In description:   
- - Build Your Own Maki Mono Bar @ *Global Kitchen*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-08-03)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-08-03)  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-08-03)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-08-03)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-08-04)  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
+  
+**curry**  
+In name:   
+ - Curry Cauliflower & Butternut Squash @ *1849*  
+  
+**beef**  
+In name:   
+ - Mediterranean Beef @ *Global Kitchen*  
+ - Beef Taco Meat @ *Que Rico*  
+  
+In description:   
+ - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
+ - Grilled Blended Burger w/ Cheese @ *Fired Up*  
+ - Build Your Own Mediterranean Bar @ *Global Kitchen*  
+  
+**pork**  
+In name:   
+ - BBQ Pork Chop @ *1849*  
+  
+In description:   
+ - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
+  
+**chicken**  
+In name:   
+ - Chicken Dumpling Soup @ *Great Greens*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Mediterranean Chicken @ *Global Kitchen*  
+ - Taco Chicken @ *Que Rico*  
+  
+In description:   
+ - Build Your Own Mediterranean Bar @ *Global Kitchen*  
+  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-08-04)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-08-04)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-08-04)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-08-04)  
   
