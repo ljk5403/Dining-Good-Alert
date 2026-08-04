@@ -1,6 +1,6 @@
 # 2026-08-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-04 11:10:12  
+Updated at: 2026-08-04 13:25:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-04)  
 **portabella**  
 In name:   
@@ -96,6 +96,10 @@ In name:
  - General Tso's Chicken @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-08-04)  
+**steak**  
+In name:   
+ - Country Fried Steak @ *1849*  
+  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
@@ -104,18 +108,23 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**BBQ Pork Sandwich**  
+In name:   
+ - BBQ Pork Sandwich @ *1849*  
+  
 **beef**  
 In name:   
- - Texas BBQ Sliced Beef Brisket @ *1849*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
+ - Country Fried Steak @ *1849*  
  - Italian Meat Sauce @ *Buona Cucina*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Deli @ *Delicious*  
   
 **pork**  
 In name:   
+ - BBQ Pork Sandwich @ *1849*  
   
 In description:   
  - Pizza Slice Sausage @ *Capital City Pizza*  

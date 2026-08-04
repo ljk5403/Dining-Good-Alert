@@ -1,6 +1,6 @@
 # 2026-08-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-04 03:34:17  
+Updated at: 2026-08-04 11:10:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-04)  
 **portabella**  
 In name:   
@@ -52,13 +52,16 @@ In description:
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-08-04)  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad @ *Delicious*  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
 **beef**  
 In name:   
- - Beef French Dip Sandwich @ *1849*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -74,7 +77,6 @@ In description:
 **chicken**  
 In name:   
  - Chicken Dumpling Soup @ *Great Greens*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Grilled Chicken Sandwich @ *Fired Up*  
  - Taco Chicken @ *Que Rico*  
   
@@ -94,6 +96,10 @@ In name:
  - General Tso's Chicken @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-08-04)  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad @ *Delicious*  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -118,10 +124,9 @@ In description:
 **chicken**  
 In name:   
  - Diced Chicken @ *Great Greens*  
- - Chicken Dumpling Soup @ *Great Greens*  
+ - Chicken Noodle Soup @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Italian Chicken @ *Buona Cucina*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
