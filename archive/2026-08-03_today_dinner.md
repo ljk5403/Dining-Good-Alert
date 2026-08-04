@@ -1,6 +1,6 @@
 # 2026-08-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-04 13:25:50  
+Updated at: 2026-08-04 16:11:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-04)  
 **Samosas**  
 In name:   
@@ -83,6 +83,7 @@ In name:
  - Chicken Dumpling Soup @ *Great Greens*  
  - Mediterranean Chicken @ *Global Kitchen*  
  - Taco Chicken @ *Que Rico*  
+ - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
   
 In description:   
  - Build Your Own Mediterranean Bar @ *Global Kitchen*  
