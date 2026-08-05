@@ -1,6 +1,6 @@
 # 2026-08-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-05 12:49:25  
+Updated at: 2026-08-05 14:27:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-05)  
 **steak**  
 In name:   
@@ -36,25 +36,9 @@ In name:
 In name:   
  - Grilled Sesame Ginger Salmon @ *1849*  
   
-**lamb**  
-In name:   
- - Lamb Vindaloo @ *Global Kitchen*  
-  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
-  
-**Pakoras**  
-In name:   
- - Appetizer -  Pakoras Vegetable (Veg) @ *Global Kitchen*  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Appetizer -  Pakoras Vegetable (Veg) @ *Global Kitchen*  
- - Lamb Vindaloo @ *Global Kitchen*  
- - Vegetable & Tofu Madras w/Basmati Rice @ *Global Kitchen*  
   
 **beef**  
 In name:   

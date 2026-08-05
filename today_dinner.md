@@ -1,6 +1,6 @@
 # 2026-08-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-05 14:27:18  
+Updated at: 2026-08-05 16:05:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-05)  
 **steak**  
 In name:   
@@ -13,7 +13,7 @@ In name:
 **beef**  
 In name:   
  - Beef Chili @ *Great Greens*  
- - Lomo Saltado w/ Beef @ *Global Kitchen*  
+ - Lomo Saltado w/ Beef @ *Buona Cucina*  
   
 In description:   
  - Deli @ *Delicious*  
@@ -22,7 +22,6 @@ In description:
 **pork**  
 In name:   
  - Southern Style Pork Spare Ribs @ *1849*  
- - Italian Pork Sausage @ *Buona Cucina*  
   
 In description:   
  - Deli @ *Delicious*  
