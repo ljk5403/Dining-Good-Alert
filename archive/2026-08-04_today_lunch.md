@@ -1,6 +1,6 @@
 # 2026-08-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-05 03:33:20  
+Updated at: 2026-08-05 11:00:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-05)  
 **Tuna**  
 In name:   
@@ -31,13 +31,9 @@ In name:
  - Chicken Tinga @ *Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-08-05)  
-**catfish**  
+**Tuna**  
 In name:   
- - Panfried Southern Catfish @ *1849*  
-  
-**fish**  
-In name:   
- - Panfried Southern Catfish @ *1849*  
+ - Tuna Salad @ *Delicious*  
   
 **beef**  
 In name:   
@@ -45,20 +41,14 @@ In name:
  - Beef Barbacoa @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
   
-In description:   
- - Vegan Sloppy Joe @ *1849*  
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
-  
 **pork**  
 In name:   
   
 In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
  - Grilled Ham & Swiss Sandwich @ *Fired Up*  
   
 **chicken**  
 In name:   
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Plant-Based Chicken Nuggets (8) @ *Global Kitchen*  
  - Chicken Wings Boneless Plain @ *Global Kitchen*  
   
@@ -77,6 +67,7 @@ In name:
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Deli @ *Delicious*  
   
 **pork**  
@@ -84,6 +75,7 @@ In name:
  - Italian Pork Sausage @ *Buona Cucina*  
   
 In description:   
+ - Pizza Slice Sausage @ *Capital City Pizza*  
  - Deli @ *Delicious*  
   
 **chicken**  
@@ -93,6 +85,9 @@ In name:
  - Chicken Gravy @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
+  
+In description:   
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-08-05)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-08-05)  
