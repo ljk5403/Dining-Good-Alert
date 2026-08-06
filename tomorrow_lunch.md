@@ -1,121 +1,161 @@
-# 2026-08-06 lunch  
+# 2026-08-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-05 19:02:15  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-06)  
+Updated at: 2026-08-06 03:33:38  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-07)  
 **steak**  
 In name:   
- - Swiss Steak w/Brown Gravy @ *1849*  
+ - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
+  
+**Salmon**  
+In name:   
+ - Blackened Salmon @ *1849*  
+  
+**clam**  
+In name:   
+ - Clam Chowder @ *Great Greens*  
+  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad @ *Delicious*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
+  
+**beef**  
+In name:   
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
+ - Beef Taco Meat @ *Que Rico*  
+  
+In description:   
+ - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
+ - Deli @ *Delicious*  
+ - Pork Bratwurst Sandwich @ *Fired Up*  
+  
+**pork**  
+In name:   
+ - Pork & Beef Hard Salami @ *Delicious*  
+ - Pork Bratwurst Sandwich @ *Fired Up*  
+ - Pork Miso w/Yakisoba Noodles @ *Global Kitchen*  
+  
+In description:   
+ - Deli @ *Delicious*  
+ - Bacon @ *Delicious*  
+ - Smoked Ham @ *Delicious*  
+  
+**chicken**  
+In name:   
+ - Baked BBQ Chicken @ *1849*  
+ - Diced Chicken Breast @ *Buona Cucina*  
+ - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
+ - Chicken Tinga @ *Que Rico*  
+  
+In description:   
+ - Pork Miso w/Yakisoba Noodles @ *Global Kitchen*  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-08-07)  
+**portabella**  
+In name:   
+  
+In description:   
+ - Portobello Mushroom Stroganoff @ *1849*  
+  
+**mahi mahi**  
+In name:   
+ - Coconut Thai Curry Mahi Mahi @ *1849*  
+  
+**Shrimp**  
+In name:   
+ - Sauteed Shrimp @ *Que Rico*  
+  
+**clam**  
+In name:   
+ - Clam Chowder @ *Great Greens*  
   
 **fish**  
 In name:   
   
 In description:   
- - Kung Pao Chicken @ *Global Kitchen*  
+ - Coconut Thai Curry Mahi Mahi @ *1849*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
+  
+**curry**  
+In name:   
+ - Coconut Thai Curry Mahi Mahi @ *1849*  
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Barbacoa Beef w/Mango Habanero Sandwich @ *Fired Up*  
- - Beef Mediterranean @ *Que Rico*  
-  
-In description:   
- - Swiss Steak w/Brown Gravy @ *1849*  
- - Italian Meat Sauce @ *Buona Cucina*  
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
- - Deli @ *Delicious*  
-  
-**pork**  
-In name:   
- - Apple Cider Braised Pork w/Spatzle @ *1849*  
-  
-In description:   
- - Deli @ *Delicious*  
-  
-**chicken**  
-In name:   
- - Chicken Noodle Soup @ *Great Greens*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Plant Based Chicken Strips @ *Buona Cucina*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
- - Kung Pao Chicken @ *Global Kitchen*  
- - Mediterranean Chicken @ *Que Rico*  
-  
-In description:   
- - Apple Cider Braised Pork w/Spatzle @ *1849*  
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
-  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-08-06)  
-**Poke Bar**  
-In name:   
- - Poke Bar @ *Global Kitchen*  
-  
-**steak**  
-In name:   
- - Swiss Steak w/Brown Gravy @ *1849*  
-  
-**Shrimp**  
-In name:   
-  
-In description:   
- - Poke Bar @ *Global Kitchen*  
-  
-**Tuna**  
-In name:   
-  
-In description:   
- - Poke Bar @ *Global Kitchen*  
-  
-**beef**  
-In name:   
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
+ - Mediterranean Beef @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Swiss Steak w/Brown Gravy @ *1849*  
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
- - Pork Bratwurst Sandwich @ *Fired Up*  
+ - Mushroom Swiss Blended Burger @ *Fired Up*  
+ - Build Your Own Mediterranean Bar @ *Global Kitchen*  
+ - Vegan Taco Filling @ *Que Rico*  
   
 **pork**  
 In name:   
- - Pork Bratwurst Sandwich @ *Fired Up*  
- - Pork Carnita @ *Que Rico*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
+ - Bacon @ *Delicious*  
+ - Bacon Slice @ *Delicious*  
+ - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   
- - Chicken Noodle Soup @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
+ - Mediterranean Chicken @ *Global Kitchen*  
   
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-08-06)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-08-06)  
+In description:   
+ - Build Your Own Mediterranean Bar @ *Global Kitchen*  
+  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-08-07)  
+**Vanilla Coconut Milk Yogurt**  
+In name:   
+  
+In description:   
+ - Great Greans - Yogurt Bar @ *Great Greens*  
+  
+**clam**  
+In name:   
+ - Clam Chowder @ *Great Greens*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
+  
 **beef**  
 In name:   
- - Beef Taco Meat @ *Gordon Que Rico*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Deli @ *Delicious*  
   
 **pork**  
 In name:   
- - Pork Carnita @ *Gordon Que Rico*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Deli @ *Delicious*  
+ - Bacon @ *Delicious*  
+ - Bacon Slice @ *Delicious*  
+ - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   
- - Plant-Based Chicken Nuggets (6) @ *1849*  
- - Chicken Wings Bone-In Plain @ *1849*  
- - Chicken Wings Boneless Plain @ *1849*  
- - Diced Chicken @ *Great Greens*  
- - Chicken Noodle Soup @ *Great Greens*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Italian Chicken @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-08-06)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-08-06)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-08-07)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-08-07)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-08-07)  
   
