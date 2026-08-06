@@ -1,6 +1,6 @@
 # 2026-08-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-05 17:56:55  
+Updated at: 2026-08-05 19:02:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-05)  
 **steak**  
 In name:   
@@ -31,9 +31,9 @@ In name:
  - Pizza Slice Chicken Sriracha @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-08-05)  
-**Salmon**  
+**Cod**  
 In name:   
- - Grilled Sesame Ginger Salmon @ *1849*  
+ - Lemon Pepper Cod Fillet @ *1849*  
   
 **Tuna**  
 In name:   
