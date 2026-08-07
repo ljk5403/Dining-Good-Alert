@@ -1,6 +1,6 @@
 # 2026-08-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-06 03:33:29  
+Updated at: 2026-08-06 19:51:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-06)  
 **steak**  
 In name:   
@@ -50,25 +50,13 @@ In description:
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-08-06)  
-**Poke Bar**  
-In name:   
- - Poke Bar @ *Global Kitchen*  
-  
 **steak**  
 In name:   
  - Swiss Steak w/Brown Gravy @ *1849*  
   
-**Shrimp**  
-In name:   
-  
-In description:   
- - Poke Bar @ *Global Kitchen*  
-  
 **Tuna**  
 In name:   
-  
-In description:   
- - Poke Bar @ *Global Kitchen*  
+ - Tuna Salad @ *Delicious*  
   
 **beef**  
 In name:   
@@ -78,17 +66,16 @@ In name:
   
 In description:   
  - Swiss Steak w/Brown Gravy @ *1849*  
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
  - Pork Bratwurst Sandwich @ *Fired Up*  
   
 **pork**  
 In name:   
  - Pork & Beef Hard Salami @ *Delicious*  
  - Pork Bratwurst Sandwich @ *Fired Up*  
+ - Pizza Slice Sausage (Pork) @ *Global Kitchen*  
  - Pork Carnita @ *Que Rico*  
   
 In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
  - Bacon @ *Delicious*  
  - Bacon Slice @ *Delicious*  
  - Smoked Ham @ *Delicious*  
@@ -96,8 +83,6 @@ In description:
 **chicken**  
 In name:   
  - Chicken Noodle Soup @ *Great Greens*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
- - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-08-06)  
 **Vanilla Coconut Milk Yogurt**  
@@ -140,6 +125,7 @@ In description:
 **pork**  
 In name:   
  - Pork Carnita @ *Gordon Que Rico*  
+ - Italian Pork Sausage @ *Buona Cucina*  
   
 In description:   
  - Deli @ *Delicious*  
@@ -150,10 +136,8 @@ In name:
  - Chicken Wings Bone-In Plain @ *1849*  
  - Chicken Wings Boneless Plain @ *1849*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Noodle Soup @ *Great Greens*  
+ - Chicken Dumpling Soup @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Italian Chicken @ *Buona Cucina*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-08-06)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-08-06)  
