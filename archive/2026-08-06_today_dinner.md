@@ -1,6 +1,6 @@
 # 2026-08-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-07 02:12:47  
+Updated at: 2026-08-07 09:50:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-07)  
 **Poke Bar**  
 In name:   
@@ -82,6 +82,10 @@ In name:
 In description:   
  - Drunken Noodles @ *1849*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -91,20 +95,12 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
  - Fired Up Blended Burger @ *Fired Up*  
  - Plant-Based Pepper Steak Stir Fry @ *Global Kitchen*  
  - Vegan Taco Filling @ *Que Rico*  
   
-**pork**  
-In name:   
-  
-In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
-  
 **chicken**  
 In name:   
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Orange Sweet & Spicy Chicken @ *Global Kitchen*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-08-07)  
