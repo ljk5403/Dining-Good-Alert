@@ -1,6 +1,6 @@
 # 2026-08-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-07 02:12:42  
+Updated at: 2026-08-07 09:50:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-07)  
 **steak**  
 In name:   
@@ -79,6 +79,10 @@ In name:
 In description:   
  - Coconut Thai Curry Mahi Mahi @ *1849*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -93,20 +97,12 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
  - Mushroom Swiss Blended Burger @ *Fired Up*  
  - Build Your Own Mediterranean Bar @ *Global Kitchen*  
  - Vegan Taco Filling @ *Que Rico*  
   
-**pork**  
-In name:   
-  
-In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
-  
 **chicken**  
 In name:   
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Mediterranean Chicken @ *Global Kitchen*  
   
 In description:   
