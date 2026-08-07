@@ -1,11 +1,7 @@
 # 2026-08-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-07 10:54:16  
+Updated at: 2026-08-07 11:52:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-07)  
-**Poke Bar**  
-In name:   
- - Poke Bar @ *Global Kitchen*  
-  
 **steak**  
 In name:   
  - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
@@ -13,9 +9,6 @@ In name:
 **Shrimp**  
 In name:   
  - Shrimp Po-Boy Sandwich @ *Fired Up*  
-  
-In description:   
- - Poke Bar @ *Global Kitchen*  
   
 **Tilapia**  
 In name:   
@@ -28,9 +21,6 @@ In name:
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
-  
-In description:   
- - Poke Bar @ *Global Kitchen*  
   
 **watermelon**  
 In name:   
