@@ -1,11 +1,7 @@
 # 2026-08-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-07 15:39:01  
+Updated at: 2026-08-07 16:36:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-07)  
-**steak**  
-In name:   
- - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
-  
 **Shrimp**  
 In name:   
  - Shrimp Po-Boy Sandwich @ *Fired Up*  
@@ -33,11 +29,11 @@ In name:
   
 In description:   
  - Burnt Ends @ *1849*  
- - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
  - Deli @ *Delicious*  
   
 **pork**  
 In name:   
+ - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   

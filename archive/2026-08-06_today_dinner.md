@@ -1,6 +1,6 @@
 # 2026-08-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-07 13:54:22  
+Updated at: 2026-08-07 15:39:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-07)  
 **steak**  
 In name:   
@@ -46,20 +46,15 @@ In description:
  - Smoked Ham @ *Delicious*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-08-07)  
-**Drunken Noodles**  
+**portabella**  
 In name:   
- - Drunken Noodles @ *1849*  
-  
-**steak**  
-In name:   
- - Plant-Based Pepper Steak Stir Fry @ *Global Kitchen*  
-  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp @ *Que Rico*  
   
 In description:   
- - Drunken Noodles @ *1849*  
+ - Portobello Mushroom Stroganoff @ *1849*  
+  
+**mahi mahi**  
+In name:   
+ - Coconut Thai Curry Mahi Mahi @ *1849*  
   
 **clam**  
 In name:   
@@ -67,10 +62,9 @@ In name:
   
 **fish**  
 In name:   
- - Vegan Fish Sandwich @ *Fired Up*  
   
 In description:   
- - Drunken Noodles @ *1849*  
+ - Coconut Thai Curry Mahi Mahi @ *1849*  
   
 **Tuna**  
 In name:   
@@ -80,18 +74,15 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**curry**  
+In name:   
+ - Coconut Thai Curry Mahi Mahi @ *1849*  
+  
 **beef**  
 In name:   
- - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Fired Up Blended Burger @ *Fired Up*  
- - Plant-Based Pepper Steak Stir Fry @ *Global Kitchen*  
- - Vegan Taco Filling @ *Que Rico*  
-  
-**chicken**  
-In name:   
- - Orange Sweet & Spicy Chicken @ *Global Kitchen*  
+ - Blended Hamburger @ *1849*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-08-07)  
 **Vanilla Coconut Milk Yogurt**  
