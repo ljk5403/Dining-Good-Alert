@@ -1,11 +1,7 @@
 # 2026-08-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-09 10:29:56  
+Updated at: 2026-08-09 11:32:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-09)  
-**portabella**  
-In name:   
- - Portabella Mushroom Ravioli Plain @ *Buona Cucina*  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
@@ -27,7 +23,6 @@ In description:
 In name:   
  - Baked Rigatoni w/ Pork Italian Sausage @ *1849*  
  - Pork & Beef Hard Salami @ *Delicious*  
- - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Deli @ *Delicious*  
