@@ -1,6 +1,6 @@
 # 2026-08-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-09 12:29:27  
+Updated at: 2026-08-09 13:38:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-09)  
 **Tuna**  
 In name:   
@@ -69,7 +69,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Chili @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Tikka Masala Chicken @ *Global Kitchen*  
   
