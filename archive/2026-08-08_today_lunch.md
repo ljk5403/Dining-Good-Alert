@@ -1,6 +1,6 @@
 # 2026-08-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-09 01:54:09  
+Updated at: 2026-08-09 09:32:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-09)  
 **portabella**  
 In name:   
@@ -60,6 +60,8 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Barbacoa @ *Que Rico*  
+ - Beef Taco Meat @ *Que Rico*  
   
 In description:   
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
