@@ -1,6 +1,6 @@
 # 2026-08-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-09 17:29:00  
+Updated at: 2026-08-09 18:29:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-09)  
 **portabella**  
 In name:   
@@ -56,17 +56,18 @@ In description:
 In name:   
   
 In description:   
+ - Bratwurst @ *1849*  
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **pork**  
 In name:   
   
 In description:   
+ - Bratwurst @ *1849*  
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
   
 **chicken**  
 In name:   
- - BBQ Chicken Breast @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-08-09)  
