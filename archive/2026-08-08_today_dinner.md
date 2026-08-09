@@ -1,6 +1,6 @@
 # 2026-08-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-09 12:29:31  
+Updated at: 2026-08-09 13:38:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-09)  
 **portabella**  
 In name:   
@@ -54,7 +54,6 @@ In description:
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-08-09)  
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *Global Kitchen*  
   
 In description:   
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
@@ -67,9 +66,8 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Chili @ *Great Greens*  
+ - BBQ Chicken Breast @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Beef & Chicken Meatballs @ *Global Kitchen*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-08-09)  
 **Vanilla Coconut Milk Yogurt**  
