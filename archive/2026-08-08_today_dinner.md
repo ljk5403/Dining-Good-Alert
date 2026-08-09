@@ -1,6 +1,6 @@
 # 2026-08-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-09 15:30:04  
+Updated at: 2026-08-09 16:30:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-09)  
 **portabella**  
 In name:   
@@ -17,6 +17,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Mediterranean @ *1849*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
@@ -30,7 +31,6 @@ In description:
   
 **pork**  
 In name:   
- - Baked Pork Ham @ *1849*  
  - Pork & Beef Hard Salami @ *Delicious*  
  - Pork Carnita @ *Que Rico*  
   
