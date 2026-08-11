@@ -1,6 +1,6 @@
 # 2026-08-11 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-11 09:55:33  
+Updated at: 2026-08-11 11:00:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-11)  
 **Tandoori Chicken**  
 In name:   
