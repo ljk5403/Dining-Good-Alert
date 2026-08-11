@@ -1,12 +1,16 @@
 # 2026-08-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-11 13:59:41  
+Updated at: 2026-08-11 15:40:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-11)  
 **portabella**  
 In name:   
   
 In description:   
  - Pesto Mushroom Sandwich @ *Fired Up*  
+  
+**Tandoori Chicken**  
+In name:   
+ - Tandoori Chicken @ *Global Kitchen*  
   
 **Salmon**  
 In name:   
@@ -19,14 +23,6 @@ In name:
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
-  
-**curry**  
-In name:   
- - Curry Mango - Pork @ *1849*  
- - Squash Curry @ *Global Kitchen*  
-  
-In description:   
- - Chicken Korma @ *Global Kitchen*  
   
 **beef**  
 In name:   
@@ -42,7 +38,6 @@ In description:
   
 **pork**  
 In name:   
- - Curry Mango - Pork @ *1849*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
@@ -54,12 +49,13 @@ In description:
   
 **chicken**  
 In name:   
+ - Blackened Chicken @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Crispy Chicken Sandwich @ *Fired Up*  
- - Chicken Korma @ *Global Kitchen*  
+ - Tandoori Chicken @ *Global Kitchen*  
  - Mediterranean Chicken @ *Que Rico*  
   
 In description:   
