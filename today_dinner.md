@@ -1,6 +1,6 @@
 # 2026-08-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-11 17:39:37  
+Updated at: 2026-08-11 18:38:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-11)  
 **portabella**  
 In name:   
@@ -37,6 +37,7 @@ In description:
   
 **pork**  
 In name:   
+ - BBQ Pork Back Ribs @ *1849*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
@@ -48,7 +49,6 @@ In description:
   
 **chicken**  
 In name:   
- - Blackened Chicken @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
  - Crispy Chicken Sandwich @ *Fired Up*  
