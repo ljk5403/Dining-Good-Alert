@@ -1,6 +1,6 @@
 # 2026-08-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-11 18:38:03  
+Updated at: 2026-08-11 20:50:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-11)  
 **portabella**  
 In name:   
@@ -26,6 +26,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
  - Beef Mediterranean @ *Que Rico*  
@@ -51,6 +52,8 @@ In description:
 In name:   
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Plant Based Chicken Strips @ *Buona Cucina*  
  - Crispy Chicken Sandwich @ *Fired Up*  
  - Tandoori Chicken @ *Global Kitchen*  
  - Mediterranean Chicken @ *Que Rico*  
