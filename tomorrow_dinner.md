@@ -1,6 +1,6 @@
 # 2026-08-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-12 09:55:25  
+Updated at: 2026-08-12 10:57:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-13)  
 **portabella**  
 In name:   
@@ -86,6 +86,8 @@ In description:
   
 **beef**  
 In name:   
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
@@ -94,9 +96,12 @@ In description:
 **pork**  
 In name:   
  - Pork Loin Spicy Greenbush @ *1849*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
+ - Bacon @ *Delicious*  
+ - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -145,15 +150,20 @@ In name:
   
 **beef**  
 In name:   
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Deli @ *Delicious*  
   
 **pork**  
 In name:   
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Deli @ *Delicious*  
+ - Bacon @ *Delicious*  
+ - Smoked Ham @ *Delicious*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-08-13)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-08-13)  

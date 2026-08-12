@@ -1,6 +1,6 @@
 # 2026-08-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-12 09:55:18  
+Updated at: 2026-08-12 10:57:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-12)  
 **portabella**  
 In name:   
@@ -92,15 +92,20 @@ In name:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-08-12)  
 **beef**  
 In name:   
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Deli @ *Delicious*  
   
 **pork**  
 In name:   
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Deli @ *Delicious*  
+ - Bacon @ *Delicious*  
+ - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   

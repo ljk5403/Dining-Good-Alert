@@ -1,6 +1,6 @@
 # 2026-08-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-12 09:55:21  
+Updated at: 2026-08-12 10:57:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-13)  
 **Tuna**  
 In name:   
@@ -59,6 +59,8 @@ In name:
   
 **beef**  
 In name:   
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -68,10 +70,13 @@ In description:
   
 **pork**  
 In name:   
+ - Pork & Beef Hard Salami @ *Delicious*  
  - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
+ - Bacon @ *Delicious*  
+ - Smoked Ham @ *Delicious*  
  - Grilled Cuban Sandwich @ *Fired Up*  
   
 **chicken**  
@@ -129,15 +134,20 @@ In name:
 **beef**  
 In name:   
  - Beef Goulash w/Egg Noodles @ *1849*  
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Deli @ *Delicious*  
   
 **pork**  
 In name:   
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Deli @ *Delicious*  
+ - Bacon @ *Delicious*  
+ - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   
