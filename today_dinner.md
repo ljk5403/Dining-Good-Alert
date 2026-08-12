@@ -1,6 +1,6 @@
 # 2026-08-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-12 15:41:23  
+Updated at: 2026-08-12 16:42:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-12)  
 **portabella**  
 In name:   
@@ -24,7 +24,6 @@ In name:
 **beef**  
 In name:   
  - Beef Chili @ *Great Greens*  
- - Beef Pasta Tortellini @ *Buona Cucina*  
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
@@ -34,13 +33,11 @@ In description:
   
 **pork**  
 In name:   
- - BBQ Pork Chop @ *1849*  
- - Italian Pork Sausage @ *Buona Cucina*  
- - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
- - Pork & Beef Hard Salami @ *Delicious*  
+ - BBQ Pork Chop @ *Buona Cucina*  
  - FiIipino Pork Spring Roll @ *Global Kitchen*  
  - Filipino Pork Sausage @ *Global Kitchen*  
- - Ancho Pork Rice Bowl @ *Que Rico*  
+ - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Build Your Own Breakfast Sandwich @ *Delicious*  
@@ -50,12 +47,9 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Pot Pie w/Biscuit @ *1849*  
+ - Chicken Pot Pie w/Biscuit @ *Buona Cucina*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
-  
-In description:   
- - Ancho Pork Rice Bowl @ *Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-08-12)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-08-12)  
