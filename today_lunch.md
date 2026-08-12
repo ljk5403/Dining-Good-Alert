@@ -1,6 +1,6 @@
 # 2026-08-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-12 02:22:17  
+Updated at: 2026-08-12 09:55:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-12)  
 **broccoli rabe**  
 In name:   
@@ -34,7 +34,7 @@ In description:
   
 **chicken**  
 In name:   
- - Breaded Chicken Parmigiana @ *1849*  
+ - Chicken Parmigiana @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Spicy Lo Mein w/Chicken @ *Global Kitchen*  
