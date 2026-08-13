@@ -1,6 +1,6 @@
 # 2026-08-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-12 18:39:39  
+Updated at: 2026-08-12 20:53:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-14)  
 **Cod**  
 In name:   
@@ -115,21 +115,15 @@ In name:
   
 **beef**  
 In name:   
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Station Recipe - Liz - Deli  AYCTE @ *Delicious*  
   
 **pork**  
 In name:   
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Station Recipe - Liz - Deli  AYCTE @ *Delicious*  
- - Bacon @ *Delicious*  
- - Bacon Slice @ *Delicious*  
- - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -139,20 +133,15 @@ In name:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-08-14)  
 **beef**  
 In name:   
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Deli @ *Delicious*  
   
 **pork**  
 In name:   
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Deli @ *Delicious*  
- - Bacon @ *Delicious*  
- - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   

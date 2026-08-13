@@ -1,6 +1,6 @@
 # 2026-08-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-12 17:38:53  
+Updated at: 2026-08-12 18:39:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-12)  
 **portabella**  
 In name:   
@@ -19,13 +19,18 @@ In name:
   
 **Filipino Pork Sausage**  
 In name:   
- - Filipino Pork Sausage @ *Global Kitchen*  
+ - Filipino Pork Sausage @ *Buona Cucina*  
+  
+**curry**  
+In name:   
+ - Ground Beef Curry @ *Global Kitchen*  
   
 **beef**  
 In name:   
  - Beef Chili @ *Great Greens*  
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
+ - Ground Beef Curry @ *Global Kitchen*  
   
 In description:   
  - Deli @ *Delicious*  
@@ -35,7 +40,7 @@ In description:
 In name:   
  - BBQ Pork Chop @ *Buona Cucina*  
  - FiIipino Pork Spring Roll @ *Global Kitchen*  
- - Filipino Pork Sausage @ *Global Kitchen*  
+ - Filipino Pork Sausage @ *Buona Cucina*  
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
@@ -47,8 +52,9 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Pot Pie w/Biscuit @ *Buona Cucina*  
+ - Chicken Creole @ *1849*  
  - Diced Chicken @ *Great Greens*  
+ - Chicken Pot Pie w/Biscuit @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-08-12)  
