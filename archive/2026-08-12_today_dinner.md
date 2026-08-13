@@ -1,6 +1,6 @@
 # 2026-08-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-13 14:01:07  
+Updated at: 2026-08-13 15:40:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-13)  
 **portabella**  
 In name:   
@@ -68,35 +68,28 @@ In description:
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-08-13)  
-**Poke Bar**  
+**steak**  
 In name:   
- - Poke Bar @ *Global Kitchen*  
-  
-**Shrimp**  
-In name:   
-  
-In description:   
- - Poke Bar @ *Global Kitchen*  
+ - Grilled Flank Steak @ *1849*  
   
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
   
-In description:   
- - Poke Bar @ *Global Kitchen*  
-  
 **beef**  
 In name:   
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
+ - Sub - Beef Taco Meat Filling @ *Que Rico*  
   
 In description:   
+ - Grilled Flank Steak @ *1849*  
  - Grilled Blended Burger w/ Cheese @ *Fired Up*  
   
 **pork**  
 In name:   
- - Pork Loin Spicy Greenbush @ *1849*  
  - Pork & Beef Hard Salami @ *Delicious*  
+ - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Bacon @ *Delicious*  
