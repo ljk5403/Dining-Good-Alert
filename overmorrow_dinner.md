@@ -1,33 +1,51 @@
-# 2026-08-14 dinner  
+# 2026-08-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-12 20:53:15  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-14)  
-**Cod**  
+Updated at: 2026-08-13 02:24:38  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-15)  
+**portabella**  
 In name:   
- - Cod w/ Roasted Fruit Salsa @ *1849*  
+ - Caribbean Portabella w/Rice @ *1849*  
   
-**clam**  
+**Chicken Drummies**  
 In name:   
- - Clam Chowder @ *Great Greens*  
+ - Chicken Drummies @ *Fired Up*  
   
-**watermelon**  
+**duck**  
 In name:   
- - Watermelon Slices @ *Great Greens*  
+ - Duck Curry @ *Global Kitchen*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Duck Curry @ *Global Kitchen*  
+  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad @ *Delicious*  
+  
+**curry**  
+In name:   
+ - Coconut Tofu w/Red Curry Sauce @ *Global Kitchen*  
+ - Duck Curry @ *Global Kitchen*  
   
 **beef**  
 In name:   
+ - Beef Pasta Tortellini @ *Buona Cucina*  
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
- - Sliced BBQ Beef Brisket Sandwich @ *Fired Up*  
- - Beef Broccoli Stir Fry w/Teriyaki Sauce @ *Global Kitchen*  
+ - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Deli @ *Delicious*  
   
 **pork**  
 In name:   
+ - Pork Adobo @ *1849*  
+ - Italian Pork Sausage @ *Buona Cucina*  
  - Pork & Beef Hard Salami @ *Delicious*  
+ - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Build Your Own Breakfast Sandwich @ *Delicious*  
@@ -37,52 +55,37 @@ In description:
   
 **chicken**  
 In name:   
+ - Teriyaki Chicken Fillet @ *1849*  
  - Diced Chicken @ *Great Greens*  
- - Diced Chicken Breast @ *Buona Cucina*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
- - Chicken Mole w/ Rice @ *Que Rico*  
+ - Chicken Chili @ *Great Greens*  
+ - Plant-Based Chicken Nuggets (6) @ *Fired Up*  
+ - Chicken Drummies @ *Fired Up*  
+ - Chicken Tinga @ *Que Rico*  
   
 In description:   
- - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-08-14)  
-**steak**  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-08-15)  
+**fish**  
 In name:   
- - Grilled Steak Hero @ *Fired Up*  
   
-**Shrimp**  
-In name:   
- - Shrimp Curry @ *1849*  
- - Sauteed Shrimp @ *Que Rico*  
-  
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
-  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
-**curry**  
-In name:   
- - Shrimp Curry @ *1849*  
+In description:   
+ - Kung Pao Chicken @ *Global Kitchen*  
   
 **beef**  
 In name:   
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
- - Mediterranean Beef @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
- - Grilled Steak Hero @ *Fired Up*  
- - Build Your Own Mediterranean Bar @ *Global Kitchen*  
- - Vegan Taco Filling @ *Que Rico*  
+ - Pork Bratwurst Sandwich @ *Fired Up*  
   
 **pork**  
 In name:   
  - Pork & Beef Hard Salami @ *Delicious*  
+ - Pork Bratwurst Sandwich @ *Fired Up*  
   
 In description:   
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
@@ -92,26 +95,16 @@ In description:
 **chicken**  
 In name:   
  - Diced Chicken @ *Great Greens*  
+ - Chicken Chili @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Mediterranean Chicken @ *Global Kitchen*  
+ - Kung Pao Chicken @ *Global Kitchen*  
   
-In description:   
- - Build Your Own Mediterranean Bar @ *Global Kitchen*  
-  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-08-14)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-08-15)  
 **Vanilla Coconut Milk Yogurt**  
 In name:   
   
 In description:   
  - Great Greans - Yogurt Bar @ *Great Greens*  
-  
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
-  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
   
 **beef**  
 In name:   
@@ -129,8 +122,13 @@ In description:
 In name:   
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
+ - Chicken Chili @ *Great Greens*  
   
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-08-14)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-08-15)  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad @ *Delicious*  
+  
 **beef**  
 In name:   
   
@@ -143,10 +141,6 @@ In name:
 In description:   
  - Deli @ *Delicious*  
   
-**chicken**  
-In name:   
- - Lemon Pepper Chicken Salad @ *Delicious*  
-  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-08-14)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-08-14)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-08-15)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-08-15)  
   
