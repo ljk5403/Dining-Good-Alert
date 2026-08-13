@@ -1,6 +1,6 @@
 # 2026-08-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-13 09:55:33  
+Updated at: 2026-08-13 10:57:52  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-13)  
 **Tuna**  
 In name:   
@@ -53,9 +53,9 @@ In description:
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-08-13)  
-**steak**  
+**Tuna**  
 In name:   
- - Grilled Flank Steak @ *1849*  
+ - Tuna Salad @ *Delicious*  
   
 **beef**  
 In name:   
@@ -63,27 +63,20 @@ In name:
  - Pork & Beef Hard Salami @ *Delicious*  
  - Beef Taco Meat @ *Que Rico*  
   
-In description:   
- - Grilled Flank Steak @ *1849*  
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
- - Grilled Cuban Sandwich @ *Fired Up*  
-  
 **pork**  
 In name:   
  - Pork & Beef Hard Salami @ *Delicious*  
  - Pork Carnita @ *Que Rico*  
   
 In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
  - Bacon @ *Delicious*  
  - Smoked Ham @ *Delicious*  
- - Grilled Cuban Sandwich @ *Fired Up*  
   
 **chicken**  
 In name:   
  - Diced Chicken @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Crispy Chicken Sandwich @ *Fired Up*  
  - Italian Chicken @ *Global Kitchen*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-08-13)  

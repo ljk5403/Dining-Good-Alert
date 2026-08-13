@@ -1,6 +1,6 @@
 # 2026-08-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-13 09:55:36  
+Updated at: 2026-08-13 10:57:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-13)  
 **portabella**  
 In name:   
@@ -80,6 +80,7 @@ In description:
   
 **Tuna**  
 In name:   
+ - Tuna Salad @ *Delicious*  
   
 In description:   
  - Poke Bar @ *Global Kitchen*  
@@ -90,7 +91,6 @@ In name:
  - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
  - Grilled Blended Burger w/ Cheese @ *Fired Up*  
   
 **pork**  
@@ -99,7 +99,6 @@ In name:
  - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
- - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
  - Bacon @ *Delicious*  
  - Smoked Ham @ *Delicious*  
   
@@ -107,7 +106,6 @@ In description:
 In name:   
  - Diced Chicken @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-08-13)  
 **Vanilla Coconut Milk Yogurt**  
