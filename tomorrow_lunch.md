@@ -1,6 +1,6 @@
 # 2026-08-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-13 18:39:07  
+Updated at: 2026-08-13 20:50:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-14)  
 **Salmon**  
 In name:   
@@ -108,7 +108,6 @@ In name:
  - Diced Chicken @ *Great Greens*  
  - Plant-Based Chicken & Dumplings @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Crispy Chicken Sandwich @ *Fired Up*  
  - Grilled Chicken Sandwich @ *Fired Up*  
  - Mediterranean Chicken @ *Global Kitchen*  
   
