@@ -1,6 +1,6 @@
 # 2026-08-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-14 10:50:00  
+Updated at: 2026-08-14 11:50:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-14)  
 **Salmon**  
 In name:   
@@ -34,6 +34,7 @@ In name:
   
 In description:   
  - Jaeger Sauce @ *1849*  
+ - Italian Meat Sauce @ *Buona Cucina*  
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
  - Deli @ *Delicious*  
   
