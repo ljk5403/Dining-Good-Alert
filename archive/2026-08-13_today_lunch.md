@@ -1,6 +1,6 @@
 # 2026-08-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-14 09:49:30  
+Updated at: 2026-08-14 10:50:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-14)  
 **Salmon**  
 In name:   
@@ -33,14 +33,13 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Porkloin Fritter Plate @ *1849*  
  - Jaeger Sauce @ *1849*  
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
  - Deli @ *Delicious*  
   
 **pork**  
 In name:   
- - Porkloin Fritter Plate @ *1849*  
+ - Grilled Pork Loin @ *1849*  
  - Pork & Beef Hard Salami @ *Delicious*  
  - Pork Carnita @ *Que Rico*  
   
@@ -62,10 +61,6 @@ In description:
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-08-14)  
-**Salmon**  
-In name:   
- - Blackened Salmon @ *1849*  
-  
 **clam**  
 In name:   
  - Clam Chowder @ *Great Greens*  
@@ -88,7 +83,6 @@ In name:
 In description:   
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
  - Build Your Own Mediterranean Bar @ *Global Kitchen*  
- - Vegan Taco Filling @ *Que Rico*  
   
 **pork**  
 In name:   
@@ -103,7 +97,6 @@ In description:
 **chicken**  
 In name:   
  - Diced Chicken @ *Great Greens*  
- - Plant-Based Chicken & Dumplings @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Grilled Chicken Sandwich @ *Fired Up*  
  - Mediterranean Chicken @ *Global Kitchen*  
