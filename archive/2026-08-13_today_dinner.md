@@ -1,10 +1,10 @@
 # 2026-08-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-14 15:29:17  
+Updated at: 2026-08-14 16:23:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-14)  
 **Cod**  
 In name:   
- - Cod w/ Roasted Fruit Salsa @ *1849*  
+ - Cod w/ Roasted Fruit Salsa @ *Buona Cucina*  
   
 **clam**  
 In name:   
@@ -37,10 +37,9 @@ In description:
   
 **chicken**  
 In name:   
- - Diced Chicken @ *Great Greens*  
- - Diced Chicken Breast @ *Buona Cucina*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Mole w/ Rice @ *Que Rico*  
+ - Diced Chicken @ *Great Greens*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
@@ -53,7 +52,6 @@ In name:
 **Shrimp**  
 In name:   
  - Shrimp Curry @ *1849*  
- - Sauteed Shrimp @ *Que Rico*  
   
 **clam**  
 In name:   
@@ -72,13 +70,11 @@ In name:
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
  - Mediterranean Beef @ *Global Kitchen*  
- - Beef Taco Meat @ *Que Rico*  
   
 In description:   
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
  - Grilled Steak Hero @ *Fired Up*  
  - Build Your Own Mediterranean Bar @ *Global Kitchen*  
- - Vegan Taco Filling @ *Que Rico*  
   
 **pork**  
 In name:   
