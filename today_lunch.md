@@ -1,6 +1,6 @@
 # 2026-08-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-14 02:22:01  
+Updated at: 2026-08-14 09:49:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-14)  
 **Salmon**  
 In name:   
@@ -66,10 +66,6 @@ In description:
 In name:   
  - Blackened Salmon @ *1849*  
   
-**Shrimp**  
-In name:   
- - Sauteed Shrimp @ *Que Rico*  
-  
 **clam**  
 In name:   
  - Clam Chowder @ *Great Greens*  
@@ -97,6 +93,7 @@ In description:
 **pork**  
 In name:   
  - Pork & Beef Hard Salami @ *Delicious*  
+ - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
