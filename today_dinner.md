@@ -1,10 +1,10 @@
 # 2026-08-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-15 13:27:00  
+Updated at: 2026-08-15 15:20:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-15)  
 **portabella**  
 In name:   
- - Caribbean Portabella w/Rice @ *1849*  
+ - Caribbean Portabella w/Rice @ *Buona Cucina*  
   
 **Chicken Drummies**  
 In name:   
@@ -31,10 +31,8 @@ In name:
   
 **beef**  
 In name:   
- - Beef Pasta Tortellini @ *Buona Cucina*  
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
- - Beef Taco Meat @ *Que Rico*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
@@ -42,10 +40,8 @@ In description:
   
 **pork**  
 In name:   
- - Pork Adobo @ *1849*  
- - Italian Pork Sausage @ *Buona Cucina*  
+ - Pork Adobo @ *Buona Cucina*  
  - Pork & Beef Hard Salami @ *Delicious*  
- - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Build Your Own Breakfast Sandwich @ *Delicious*  
@@ -55,12 +51,11 @@ In description:
   
 **chicken**  
 In name:   
- - Teriyaki Chicken Fillet @ *1849*  
+ - Teriyaki Chicken Fillet @ *Buona Cucina*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
  - Plant-Based Chicken Nuggets (6) @ *Fired Up*  
  - Chicken Drummies @ *Fired Up*  
- - Chicken Tinga @ *Que Rico*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
