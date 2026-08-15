@@ -1,6 +1,6 @@
 # 2026-08-15 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-15 10:18:26  
+Updated at: 2026-08-15 11:21:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-15)  
 **Shrimp**  
 In name:   
@@ -20,7 +20,6 @@ In name:
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Deli @ *Delicious*  
- - Chicago-Style Hot Dog @ *Fired Up*  
   
 **pork**  
 In name:   
@@ -39,7 +38,6 @@ In description:
 In name:   
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
- - Noodles Sesame w/ Chicken @ *Global Kitchen*  
  - Chicken Tinga @ *Que Rico*  
   
 In description:   
