@@ -1,6 +1,6 @@
 # 2026-08-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-16 01:36:49  
+Updated at: 2026-08-16 09:20:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-16)  
 **steak**  
 In name:   
@@ -59,6 +59,7 @@ In description:
   
 **pork**  
 In name:   
+ - Baked Pork Ham @ *1849*  
  - Pork & Beef Hard Salami @ *Delicious*  
  - Corn Dog (Pork) @ *Fired Up*  
   
@@ -71,7 +72,6 @@ In description:
 In name:   
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
- - Baked BBQ Chicken @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
