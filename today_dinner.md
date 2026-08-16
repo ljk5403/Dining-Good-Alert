@@ -1,6 +1,6 @@
 # 2026-08-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-16 15:19:40  
+Updated at: 2026-08-16 16:18:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-16)  
 **lamb**  
 In name:   
@@ -31,7 +31,6 @@ In description:
 In name:   
  - Breaded Chicken Parmigiana @ *Buona Cucina*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Chili @ *Great Greens*  
  - Chicken Teriyaki Stir Fry @ *Global Kitchen*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
@@ -49,7 +48,9 @@ In description:
 **curry**  
 In name:   
  - Beef Masaman Thai Curry @ *Global Kitchen*  
+ - Plant-Based Beef Curry Squash @ *Global Kitchen*  
  - Beef Thai Meatballs W/Green Curry Sauce @ *Global Kitchen*  
+ - Green Curry Sauce @ *Global Kitchen*  
   
 In description:   
  - Citrus Couscous (VN) (AYCTE) @ *1849*  
@@ -59,6 +60,7 @@ In name:
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
  - Beef Masaman Thai Curry @ *Global Kitchen*  
+ - Plant-Based Beef Curry Squash @ *Global Kitchen*  
  - Beef Thai Meatballs W/Green Curry Sauce @ *Global Kitchen*  
  - Beef Barbacoa @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
