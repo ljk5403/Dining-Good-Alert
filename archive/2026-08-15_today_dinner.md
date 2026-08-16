@@ -1,6 +1,6 @@
 # 2026-08-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-16 11:22:33  
+Updated at: 2026-08-16 12:17:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-16)  
 **lamb**  
 In name:   
@@ -8,24 +8,18 @@ In name:
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Beef Ravioli Plain @ *Buona Cucina*  
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
  - Lamb & Beef Gyro Sandwich @ *Fired Up*  
- - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Sliced Kielbasa (Pork) @ *1849*  
- - Italian Meat Sauce @ *Buona Cucina*  
+ - Sliced Kielbasa (Pork) @ *Buona Cucina*  
  - Deli @ *Delicious*  
- - Vegan Taco Filling @ *Que Rico*  
   
 **pork**  
 In name:   
- - Sliced Kielbasa (Pork) @ *1849*  
+ - Sliced Kielbasa (Pork) @ *Buona Cucina*  
  - Pork & Beef Hard Salami @ *Delicious*  
- - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Pizza Slice Sausage @ *Capital City Pizza*  
@@ -35,14 +29,11 @@ In description:
   
 **chicken**  
 In name:   
- - Breaded Chicken Parmigiana @ *1849*  
+ - Breaded Chicken Parmigiana @ *Buona Cucina*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Plant Based Chicken Strips @ *Buona Cucina*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Teriyaki Stir Fry @ *Global Kitchen*  
- - Fajita Chicken @ *Que Rico*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-08-16)  
 **Salmon**  
