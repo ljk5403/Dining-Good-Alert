@@ -1,10 +1,14 @@
 # 2026-08-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-16 16:18:14  
+Updated at: 2026-08-16 17:18:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-16)  
 **lamb**  
 In name:   
  - Lamb & Beef Gyro Sandwich @ *Fired Up*  
+  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad @ *Delicious*  
   
 **beef**  
 In name:   
@@ -32,7 +36,6 @@ In name:
  - Breaded Chicken Parmigiana @ *Buona Cucina*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Teriyaki Stir Fry @ *Global Kitchen*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-08-16)  
 **Cod**  
@@ -48,7 +51,6 @@ In description:
 **curry**  
 In name:   
  - Beef Masaman Thai Curry @ *Global Kitchen*  
- - Plant-Based Beef Curry Squash @ *Global Kitchen*  
  - Beef Thai Meatballs W/Green Curry Sauce @ *Global Kitchen*  
  - Green Curry Sauce @ *Global Kitchen*  
   
@@ -60,14 +62,12 @@ In name:
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
  - Beef Masaman Thai Curry @ *Global Kitchen*  
- - Plant-Based Beef Curry Squash @ *Global Kitchen*  
  - Beef Thai Meatballs W/Green Curry Sauce @ *Global Kitchen*  
  - Beef Barbacoa @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
  - Station Recipe - Deli  AYCTE - FLM Sum26 @ *Delicious*  
- - Spicy Italian Meatball Sandwich @ *Fired Up*  
   
 **pork**  
 In name:   
@@ -83,9 +83,6 @@ In name:
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
-  
-In description:   
- - Spicy Italian Meatball Sandwich @ *Fired Up*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-08-16)  
 **Vanilla Coconut Milk Yogurt**  
