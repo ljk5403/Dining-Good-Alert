@@ -1,6 +1,6 @@
 # 2026-08-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-16 17:18:35  
+Updated at: 2026-08-16 18:17:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-16)  
 **lamb**  
 In name:   
@@ -51,7 +51,6 @@ In description:
 **curry**  
 In name:   
  - Beef Masaman Thai Curry @ *Global Kitchen*  
- - Beef Thai Meatballs W/Green Curry Sauce @ *Global Kitchen*  
  - Green Curry Sauce @ *Global Kitchen*  
   
 In description:   
@@ -62,7 +61,6 @@ In name:
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
  - Beef Masaman Thai Curry @ *Global Kitchen*  
- - Beef Thai Meatballs W/Green Curry Sauce @ *Global Kitchen*  
  - Beef Barbacoa @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
   
