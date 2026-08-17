@@ -1,6 +1,6 @@
 # 2026-08-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-17 13:36:55  
+Updated at: 2026-08-17 15:24:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-17)  
 **Shrimp**  
 In name:   
@@ -13,6 +13,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Ravioli Plain @ *Buona Cucina*  
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
@@ -27,6 +28,7 @@ In name:
  - Italian Pork Sausage @ *Buona Cucina*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
  - Pork & Beef Hard Salami @ *Delicious*  
+ - Pork Tamale with Oaxaca @ *Que Rico*  
   
 In description:   
  - Pizza Slice Sausage @ *Capital City Pizza*  
@@ -41,10 +43,10 @@ In name:
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
  - Plant Based Sweet & Sour Chicken @ *Global Kitchen*  
- - Chicken Empanada with Green Chili @ *Que Rico*  
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
+ - Pork Tamale with Oaxaca @ *Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-08-17)  
 **mahi mahi**  
