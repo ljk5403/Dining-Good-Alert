@@ -1,6 +1,6 @@
 # 2026-08-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-17 16:23:51  
+Updated at: 2026-08-17 17:22:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-17)  
 **Shrimp**  
 In name:   
@@ -19,7 +19,6 @@ In name:
   
 In description:   
  - Burnt Ends @ *1849*  
- - Italian Meat Sauce @ *Buona Cucina*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
  - Deli @ *Delicious*  
   
