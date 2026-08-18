@@ -1,39 +1,49 @@
-# 2026-08-19 lunch  
+# 2026-08-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-17 20:08:50  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-19)  
+Updated at: 2026-08-18 01:40:17  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-20)  
+**squid**  
+In name:   
+  
+In description:   
+ - Fried Calamari @ *1849*  
+  
 **fish**  
 In name:   
   
 In description:   
- - Filipino Barbecue Pork @ *1849*  
+ - Curried Pumpkin Soup @ *Great Greens*  
+ - Tempura Roll (FujiSan) @ *Global Kitchen*  
   
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
- - Lemon Pepper Tuna Salad @ *Delicious*  
+  
+**curry**  
+In name:   
+  
+In description:   
+ - Curried Pumpkin Soup @ *Great Greens*  
   
 **beef**  
 In name:   
- - Beef Chili @ *Great Greens*  
- - Beef Pasta Tortellini @ *Buona Cucina*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
- - Beef Fajita Meat @ *Que Rico*  
- - Beef Taco Meat @ *Que Rico*  
+ - Beef Mediterranean @ *Que Rico*  
   
 In description:   
- - Pepperoni & Mushrooms Pizza @ *Capital City Pizza*  
+ - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
  - Deli @ *Delicious*  
+ - Reuben @ *Fired Up*  
   
 **pork**  
 In name:   
- - Filipino Barbecue Pork @ *1849*  
- - Italian Pork Sausage @ *Buona Cucina*  
+ - Spicy ChilI Rice Pork Chops @ *1849*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
- - Pizza Slice Sausage @ *Capital City Pizza*  
+ - Chorizo Sauce @ *Buona Cucina*  
  - Build Your Own Breakfast Sandwich @ *Delicious*  
  - Deli @ *Delicious*  
  - Bacon @ *Delicious*  
@@ -41,41 +51,68 @@ In description:
   
 **chicken**  
 In name:   
- - Blackened Chicken with Orange Sauce @ *1849*  
- - Spicy Lo Mein w/Chicken @ *Global Kitchen*  
- - Fajita Chicken @ *Que Rico*  
+ - Chicken Noodle Soup @ *Great Greens*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Plant Based Chicken Strips @ *Buona Cucina*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Mediterranean Chicken @ *Que Rico*  
   
 In description:   
- - Pepperoni & Mushrooms Pizza @ *Capital City Pizza*  
+ - Chorizo Sauce @ *Buona Cucina*  
+ - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-08-19)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-08-20)  
+**duck**  
+In name:   
+ - Duck Curry @ *1849*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Curried Pumpkin Soup @ *Great Greens*  
+ - Duck Curry @ *1849*  
+  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
  - Tuna Salad @ *Delicious*  
   
+**curry**  
+In name:   
+ - Duck Curry @ *1849*  
+  
+In description:   
+ - Curried Pumpkin Soup @ *Great Greens*  
+  
 **beef**  
 In name:   
- - Beef Chili @ *Great Greens*  
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
+In description:   
+ - Grilled Blended Burger w/ Cheese @ *Fired Up*  
+ - Pepperoni Pizza Slice @ *Que Rico*  
+  
 **pork**  
 In name:   
+ - Pork Loin Spicy Greenbush @ *1849*  
  - Pork & Beef Hard Salami @ *Delicious*  
- - Pork & Broccoli Stir Fry @ *Global Kitchen*  
   
 In description:   
  - Bacon @ *Delicious*  
  - Smoked Ham @ *Delicious*  
+ - Andouille Sausage @ *Global Kitchen*  
   
 **chicken**  
 In name:   
- - Plant-Based Chicken Nuggets (6) @ *Que Rico*  
- - Chicken Wings Boneless Plain @ *Que Rico*  
+ - Chicken Noodle Soup @ *Great Greens*  
   
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-08-19)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-08-19)  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-08-19)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-08-19)  
+In description:   
+ - Pepperoni Pizza Slice @ *Que Rico*  
+  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-08-20)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-08-20)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-08-20)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-08-20)  
   

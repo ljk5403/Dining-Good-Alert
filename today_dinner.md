@@ -1,35 +1,44 @@
-# 2026-08-17 dinner  
+# 2026-08-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-17 20:08:47  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-17)  
-**Shrimp**  
+Updated at: 2026-08-18 01:40:07  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-18)  
+**Samosas**  
 In name:   
- - Sweet & Sour Shrimp @ *Global Kitchen*  
+ - Samosas @ *Global Kitchen*  
   
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
- - Lemon Pepper Tuna Salad @ *Delicious*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
+  
+**curry**  
+In name:   
+ - Beef Bombay Curry @ *Global Kitchen*  
+ - Curry Cauliflower & Butternut Squash @ *Global Kitchen*  
   
 **beef**  
 In name:   
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
+ - Beef Bombay Curry @ *Global Kitchen*  
+ - Beef Mediterranean @ *Que Rico*  
   
 In description:   
- - Burnt Ends @ *1849*  
- - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Deli @ *Delicious*  
+ - Baked Corn Dog (Pork) @ *Fired Up*  
   
 **pork**  
 In name:   
- - Italian Pork Sausage @ *Buona Cucina*  
- - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
+ - Apricot Glazed Pork @ *1849*  
  - Pork & Beef Hard Salami @ *Delicious*  
- - Pork Tamale with Oaxaca @ *Que Rico*  
+ - Baked Corn Dog (Pork) @ *Fired Up*  
   
 In description:   
- - Pizza Slice Sausage @ *Capital City Pizza*  
  - Build Your Own Breakfast Sandwich @ *Delicious*  
  - Deli @ *Delicious*  
  - Bacon @ *Delicious*  
@@ -37,54 +46,43 @@ In description:
   
 **chicken**  
 In name:   
- - BBQ Chicken Wings Bone-In @ *1849*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
- - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
- - Plant Based Sweet & Sour Chicken @ *Global Kitchen*  
+ - Chicken Paprikash @ *1849*  
+ - Chicken Dumpling Soup @ *Great Greens*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Plant Based Chicken Strips @ *Buona Cucina*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Mediterranean Chicken @ *Que Rico*  
   
 In description:   
- - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
- - Pork Tamale with Oaxaca @ *Que Rico*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Baked Corn Dog (Pork) @ *Fired Up*  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-08-17)  
-**mahi mahi**  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-08-18)  
+**drumstick**  
 In name:   
- - Coconut Thai Curry Mahi Mahi @ *Que Rico*  
+ - Smoked Chicken Drumstick @ *1849*  
   
-**fish**  
+**Tilapia**  
 In name:   
-  
-In description:   
- - Coconut Thai Curry Mahi Mahi @ *Que Rico*  
+ - Blackened Tilapia @ *1849*  
   
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
  - Tuna Salad @ *Delicious*  
   
-**Pakoras**  
+**watermelon**  
 In name:   
- - Appetizer -  Pakoras Vegetable (Veg) @ *Que Rico*  
-  
-**curry**  
-In name:   
- - Black Eyed Pea Curry (AYCTE) @ *Que Rico*  
- - Coconut Thai Curry Mahi Mahi @ *Que Rico*  
- - Curry Potatoes @ *Que Rico*  
-  
-In description:   
- - Appetizer -  Pakoras Vegetable (Veg) @ *Que Rico*  
+ - Watermelon Slices @ *Great Greens*  
   
 **beef**  
 In name:   
- - BBQ Beef Brisket Sliders @ *1849*  
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
 **pork**  
 In name:   
  - Pork & Beef Hard Salami @ *Delicious*  
- - Italian Pork Sausage @ *Global Kitchen*  
   
 In description:   
  - Bacon @ *Delicious*  
@@ -92,11 +90,13 @@ In description:
   
 **chicken**  
 In name:   
- - Lemon Chicken Rice Soup @ *Great Greens*  
- - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
+ - Chicken Dumpling Soup @ *Great Greens*  
+ - Smoked Chicken Drumstick @ *1849*  
+ - Italian Chicken @ *Global Kitchen*  
+ - Chicken Empanada with Green Chili @ *Que Rico*  
   
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-08-17)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-08-17)  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-08-17)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-08-17)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-08-18)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-08-18)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-08-18)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-08-18)  
   
