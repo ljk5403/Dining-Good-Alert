@@ -1,6 +1,6 @@
 # 2026-08-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-18 10:29:46  
+Updated at: 2026-08-18 11:29:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-18)  
 **Tandoori Chicken**  
 In name:   
@@ -38,7 +38,6 @@ In description:
   
 **pork**  
 In name:   
- - Jerk Pork Chop @ *1849*  
  - Brazilian Pork Feijoada @ *1849*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
