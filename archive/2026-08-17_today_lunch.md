@@ -1,6 +1,6 @@
 # 2026-08-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-18 11:29:33  
+Updated at: 2026-08-18 12:25:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-18)  
 **Tandoori Chicken**  
 In name:   
@@ -9,10 +9,6 @@ In name:
 **Samosas**  
 In name:   
  - Samosas @ *Global Kitchen*  
-  
-**Tuna**  
-In name:   
- - Tuna @ *Great Greens*  
   
 **watermelon**  
 In name:   
@@ -50,6 +46,7 @@ In description:
 **chicken**  
 In name:   
  - Brazilian Chicken w/ Salsa Vinaigrette @ *1849*  
+ - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
