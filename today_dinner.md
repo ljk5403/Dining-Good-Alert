@@ -1,6 +1,6 @@
 # 2026-08-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-18 13:35:39  
+Updated at: 2026-08-18 15:21:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-18)  
 **Samosas**  
 In name:   
@@ -76,6 +76,11 @@ In name:
 In name:   
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
+ - Empanada Beef Picadillo @ *Que Rico*  
+  
+In description:   
+ - Fired Up Blended Burger @ *Fired Up*  
+ - Grilled Blended Burger w/ Cheese @ *Fired Up*  
   
 **pork**  
 In name:   
@@ -90,7 +95,9 @@ In name:
  - Chicken Dumpling Soup @ *Great Greens*  
  - Smoked Chicken Drumstick @ *1849*  
  - Italian Chicken @ *Global Kitchen*  
- - Chicken Empanada with Green Chili @ *Que Rico*  
+  
+In description:   
+ - Empanada Beef Picadillo @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-08-18)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-08-18)  

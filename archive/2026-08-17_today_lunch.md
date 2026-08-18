@@ -1,6 +1,6 @@
 # 2026-08-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-18 12:25:09  
+Updated at: 2026-08-18 13:35:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-18)  
 **Tandoori Chicken**  
 In name:   
@@ -74,9 +74,6 @@ In name:
  - Pork & Beef Hard Salami @ *Delicious*  
  - Beef Taco Meat @ *Que Rico*  
   
-In description:   
- - Burnt Ends @ *1849*  
-  
 **pork**  
 In name:   
  - Pork & Beef Hard Salami @ *Delicious*  
@@ -89,7 +86,7 @@ In description:
 **chicken**  
 In name:   
  - Chicken Dumpling Soup @ *Great Greens*  
- - Greek Chicken @ *1849*  
+ - Chicken Paprikash @ *1849*  
  - Buffalo Chicken Wrap @ *Fired Up*  
  - Italian Chicken @ *Global Kitchen*  
   
