@@ -1,11 +1,7 @@
 # 2026-08-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-18 15:21:30  
+Updated at: 2026-08-18 16:22:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-18)  
-**Samosas**  
-In name:   
- - Samosas @ *Global Kitchen*  
-  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -79,7 +75,6 @@ In name:
  - Empanada Beef Picadillo @ *Que Rico*  
   
 In description:   
- - Fired Up Blended Burger @ *Fired Up*  
  - Grilled Blended Burger w/ Cheese @ *Fired Up*  
   
 **pork**  
