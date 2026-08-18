@@ -1,14 +1,10 @@
 # 2026-08-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-18 11:29:37  
+Updated at: 2026-08-18 12:25:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-18)  
 **Samosas**  
 In name:   
  - Samosas @ *Global Kitchen*  
-  
-**Tuna**  
-In name:   
- - Tuna @ *Great Greens*  
   
 **watermelon**  
 In name:   
@@ -47,6 +43,7 @@ In description:
 **chicken**  
 In name:   
  - Chicken Paprikash @ *1849*  
+ - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
