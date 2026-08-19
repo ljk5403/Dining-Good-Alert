@@ -1,6 +1,6 @@
 # 2026-08-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-19 15:25:07  
+Updated at: 2026-08-19 16:23:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-19)  
 **Beef Alicha**  
 In name:   
@@ -9,10 +9,6 @@ In name:
 **Cod**  
 In name:   
  - Miso Cod @ *1849*  
-  
-**lamb**  
-In name:   
- - Lamb Vindaloo @ *Global Kitchen*  
   
 **fish**  
 In name:   
@@ -30,7 +26,6 @@ In name:
   
 In description:   
  - Chana Saag w/ Tofu @ *1849*  
- - Lamb Vindaloo @ *Global Kitchen*  
   
 **beef**  
 In name:   
@@ -59,6 +54,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Butter Chicken @ *Global Kitchen*  
   
 In description:   
  - Pepperoni & Mushrooms Pizza @ *Capital City Pizza*  
