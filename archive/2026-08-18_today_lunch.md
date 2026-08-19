@@ -1,13 +1,7 @@
 # 2026-08-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-19 12:24:53  
+Updated at: 2026-08-19 13:32:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-19)  
-**fish**  
-In name:   
-  
-In description:   
- - Filipino Barbecue Pork @ *1849*  
-  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
@@ -28,7 +22,6 @@ In description:
   
 **pork**  
 In name:   
- - Filipino Barbecue Pork @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
@@ -42,6 +35,7 @@ In description:
 **chicken**  
 In name:   
  - Blackened Chicken with Orange Sauce @ *1849*  
+ - Chicken & Penne w/ Pesto Creme @ *1849*  
  - Spicy Lo Mein w/Chicken @ *Global Kitchen*  
  - Fajita Chicken @ *Que Rico*  
   
