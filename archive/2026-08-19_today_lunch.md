@@ -1,6 +1,6 @@
 # 2026-08-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-20 10:31:28  
+Updated at: 2026-08-20 11:33:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-20)  
 **squid**  
 In name:   
@@ -39,6 +39,7 @@ In description:
 **pork**  
 In name:   
  - Spicy ChilI Rice Pork Chops @ *1849*  
+ - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
