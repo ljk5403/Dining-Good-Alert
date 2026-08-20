@@ -1,13 +1,12 @@
 # 2026-08-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-20 13:36:27  
+Updated at: 2026-08-20 15:25:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-20)  
 **fish**  
 In name:   
   
 In description:   
  - Curried Pumpkin Soup @ *Great Greens*  
- - Tempura Roll (FujiSan) @ *Global Kitchen*  
   
 **Tuna**  
 In name:   
@@ -67,9 +66,9 @@ In name:
 In description:   
  - Portobello Mushroom Stroganoff @ *1849*  
   
-**steak**  
+**Tilapia**  
 In name:   
- - Grilled Flank Steak @ *1849*  
+ - Blackened Tilapia @ *1849*  
   
 **fish**  
 In name:   
@@ -94,17 +93,14 @@ In name:
  - Pork & Beef Hard Salami @ *Delicious*  
  - Beef Quesadilla @ *Fired Up*  
   
-In description:   
- - Grilled Flank Steak @ *1849*  
-  
 **pork**  
 In name:   
  - Pork & Beef Hard Salami @ *Delicious*  
+ - Pork Italian Sausage @ *Global Kitchen*  
   
 In description:   
  - Bacon @ *Delicious*  
  - Smoked Ham @ *Delicious*  
- - Andouille Sausage @ *Global Kitchen*  
  - Pizza Slice Sausage & Mushroom @ *Que Rico*  
   
 **chicken**  
