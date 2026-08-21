@@ -1,49 +1,60 @@
-# 2026-08-20 lunch  
+# 2026-08-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-20 20:12:55  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-20)  
-**squid**  
+Updated at: 2026-08-21 01:42:41  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-21)  
+**steak**  
 In name:   
+ - Island Spiced Beef Steak @ *1849*  
+ - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
   
-In description:   
- - Fried Calamari @ *1849*  
+**catfish**  
+In name:   
+ - Island Spiced Catfish @ *1849*  
+ - Catfish Nuggets w/ Remoulade Sauce @ *Fired Up*  
+  
+**clam**  
+In name:   
+ - Clam Chowder @ *Great Greens*  
   
 **fish**  
 In name:   
-  
-In description:   
- - Curried Pumpkin Soup @ *Great Greens*  
+ - Island Spiced Catfish @ *1849*  
+ - Catfish Nuggets w/ Remoulade Sauce @ *Fired Up*  
   
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
+ - Lemon Pepper Tuna Salad @ *Delicious*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
   
 **curry**  
 In name:   
+ - Mixed Vegetable Curry @ *Global Kitchen*  
   
 In description:   
- - Curried Pumpkin Soup @ *Great Greens*  
+ - Coconut Vegetable Stew @ *1849*  
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Island Spiced Beef Steak @ *1849*  
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
- - Beef Mediterranean @ *Que Rico*  
+ - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
+ - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
  - Deli @ *Delicious*  
- - Reuben @ *Fired Up*  
   
 **pork**  
 In name:   
- - Spicy ChilI Rice Pork Chops @ *1849*  
- - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
  - Pork & Beef Hard Salami @ *Delicious*  
+ - Pork Carnita @ *Que Rico*  
   
 In description:   
- - Chorizo Sauce @ *Buona Cucina*  
+ - Pizza Slice Sausage @ *Capital City Pizza*  
  - Build Your Own Breakfast Sandwich @ *Delicious*  
  - Deli @ *Delicious*  
  - Bacon @ *Delicious*  
@@ -51,68 +62,60 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Noodle Soup @ *Great Greens*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Plant Based Chicken Strips @ *Buona Cucina*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
- - Mediterranean Chicken @ *Que Rico*  
+ - Diced Chicken Breast @ *Buona Cucina*  
+ - Butter Chicken @ *Global Kitchen*  
+ - Fajita Chicken @ *Que Rico*  
   
-In description:   
- - Chorizo Sauce @ *Buona Cucina*  
- - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
-  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-08-20)  
-**duck**  
-In name:   
- - Duck Curry @ *1849*  
-  
-**fish**  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-08-21)  
+**portabella**  
 In name:   
   
 In description:   
- - Curried Pumpkin Soup @ *Great Greens*  
- - Duck Curry @ *1849*  
+ - Grilled Portabello Mushroom Sandwich @ *Fired Up*  
+  
+**Cod**  
+In name:   
+ - Baked Cod with Tomato Tapenade @ *1849*  
+  
+**clam**  
+In name:   
+ - Clam Chowder @ *Great Greens*  
   
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
  - Tuna Salad @ *Delicious*  
   
-**curry**  
+**watermelon**  
 In name:   
- - Duck Curry @ *1849*  
-  
-In description:   
- - Curried Pumpkin Soup @ *Great Greens*  
+ - Watermelon Slices @ *Great Greens*  
   
 **beef**  
 In name:   
+ - Beef Ragu Sauce @ *1849*  
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
+ - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Grilled Blended Burger w/ Cheese @ *Fired Up*  
- - Pepperoni Pizza Slice @ *Que Rico*  
+ - Sliced Kielbasa (Pork) @ *Global Kitchen*  
   
 **pork**  
 In name:   
- - Pork Loin Spicy Greenbush @ *1849*  
  - Pork & Beef Hard Salami @ *Delicious*  
+ - Sliced Kielbasa (Pork) @ *Global Kitchen*  
+ - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Bacon @ *Delicious*  
  - Smoked Ham @ *Delicious*  
- - Andouille Sausage @ *Global Kitchen*  
   
 **chicken**  
 In name:   
- - Chicken Noodle Soup @ *Great Greens*  
+ - Grilled Chicken Sandwich @ *Fired Up*  
   
-In description:   
- - Pepperoni Pizza Slice @ *Que Rico*  
-  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-08-20)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-08-20)  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-08-20)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-08-20)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-08-21)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-08-21)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-08-21)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-08-21)  
   

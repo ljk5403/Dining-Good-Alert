@@ -1,58 +1,49 @@
-# 2026-08-21 dinner  
+# 2026-08-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-20 20:13:03  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-21)  
-**drumstick**  
+Updated at: 2026-08-21 01:42:54  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-22)  
+**Samosas**  
 In name:   
- - Chicken Drumstick Teriyaki Glazed @ *1849*  
+ - Samosas @ *Global Kitchen*  
   
-**steak**  
+**Salmon**  
 In name:   
- - Grilled Flank Steak @ *1849*  
- - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
- - Fried Steak & Cheese Chimichanga @ *Que Rico*  
+ - Oven Roasted Salmon @ *1849*  
   
-**Cod**  
+**lamb**  
 In name:   
- - Cod Nuggets @ *Fired Up*  
-  
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
-  
-**fish**  
-In name:   
- - Vegan Fish Sandwich @ *Fired Up*  
   
 In description:   
- - Eggplant Miso-Glazed @ *1849*  
-  
-**Tuna**  
-In name:   
- - Tuna @ *Great Greens*  
- - Lemon Pepper Tuna Salad @ *Delicious*  
+ - Pizza Slice Gyro @ *Capital City Pizza*  
   
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**curry**  
+In name:   
+ - Plant-Based Beef Curry Squash @ *Global Kitchen*  
+  
 **beef**  
 In name:   
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
+ - Beef Street Taco @ *Fired Up*  
+ - Beef Vindaloo @ *Global Kitchen*  
+ - Plant-Based Beef Curry Squash @ *Global Kitchen*  
+ - Mediterranean Beef @ *Que Rico*  
   
 In description:   
- - Grilled Flank Steak @ *1849*  
- - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
+ - Pizza Slice Gyro @ *Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Deli @ *Delicious*  
- - Fried Steak & Cheese Chimichanga @ *Que Rico*  
   
 **pork**  
 In name:   
  - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
- - Pizza Slice Sausage @ *Capital City Pizza*  
  - Build Your Own Breakfast Sandwich @ *Delicious*  
  - Deli @ *Delicious*  
  - Bacon @ *Delicious*  
@@ -60,64 +51,54 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Drumstick Teriyaki Glazed @ *1849*  
- - Diced Chicken Breast @ *Buona Cucina*  
- - Dan Dan w/ Chicken @ *Global Kitchen*  
-  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-08-21)  
-**Salmon**  
-In name:   
- - Grilled Chipotle Salmon @ *1849*  
-  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp @ *Global Kitchen*  
-  
-**Cod**  
-In name:   
+ - Greek Chicken @ *1849*  
+ - Chicken Dumpling Soup @ *Great Greens*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Plant Based Chicken Strips @ *Buona Cucina*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Mediterranean Chicken @ *Que Rico*  
   
 In description:   
- - Fish Tacos @ *Que Rico*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
-  
-**fish**  
-In name:   
- - Vegan Fish Sandwich @ *Fired Up*  
- - Vegetarian "Fish" Tacos @ *Que Rico*  
- - Fish Tacos @ *Que Rico*  
-  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-08-22)  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
  - Tuna Salad @ *Delicious*  
   
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
 **beef**  
 In name:   
+ - Beef Broccoli Stir Fry @ *1849*  
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
+ - Beef Taco Meat @ *Que Rico*  
+  
+In description:   
+ - Pork Bratwurst Sandwich @ *Fired Up*  
   
 **pork**  
 In name:   
- - Smoked Pulled Pork Sandwich @ *1849*  
  - Pork & Beef Hard Salami @ *Delicious*  
+ - Pork Bratwurst Sandwich @ *Fired Up*  
   
 In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Bacon @ *Delicious*  
  - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   
- - Spicy Crispy Chicken Sandwich @ *Fired Up*  
+ - Plant Based Sweet & Sour Chicken @ *1849*  
+ - Plant-Based Chicken Tenders @ *Fired Up*  
+ - Giardiniera Chicken @ *Global Kitchen*  
+ - Taco Chicken @ *Que Rico*  
   
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-08-21)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-08-21)  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-08-21)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-08-21)  
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
+  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-08-22)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-08-22)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-08-22)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-08-22)  
   
