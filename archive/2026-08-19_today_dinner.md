@@ -1,6 +1,6 @@
 # 2026-08-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-20 17:25:32  
+Updated at: 2026-08-20 18:24:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-20)  
 **fish**  
 In name:   
@@ -66,10 +66,6 @@ In name:
 In description:   
  - Portobello Mushroom Stroganoff @ *1849*  
   
-**Tilapia**  
-In name:   
- - Blackened Tilapia @ *1849*  
-  
 **fish**  
 In name:   
   
@@ -89,6 +85,7 @@ In description:
   
 **beef**  
 In name:   
+ - BBQ Beef Brisket Slider @ *1849*  
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
  - Beef Quesadilla @ *Fired Up*  
