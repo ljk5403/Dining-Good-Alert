@@ -1,6 +1,6 @@
 # 2026-08-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-21 01:42:46  
+Updated at: 2026-08-21 09:33:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-21)  
 **drumstick**  
 In name:   
@@ -78,10 +78,6 @@ In name:
   
 In description:   
  - Fish Tacos @ *Que Rico*  
-  
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
   
 **fish**  
 In name:   

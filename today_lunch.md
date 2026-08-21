@@ -1,6 +1,6 @@
 # 2026-08-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-21 09:32:57  
+Updated at: 2026-08-21 10:31:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-21)  
 **steak**  
 In name:   
@@ -67,12 +67,6 @@ In name:
  - Fajita Chicken @ *Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-08-21)  
-**portabella**  
-In name:   
-  
-In description:   
- - Grilled Portabello Mushroom Sandwich @ *Fired Up*  
-  
 **Cod**  
 In name:   
  - Baked Cod with Tomato Tapenade @ *1849*  
