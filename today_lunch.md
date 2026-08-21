@@ -1,6 +1,6 @@
 # 2026-08-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-21 11:31:52  
+Updated at: 2026-08-21 12:26:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-21)  
 **steak**  
 In name:   
@@ -67,9 +67,15 @@ In name:
  - Fajita Chicken @ *Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-08-21)  
-**Cod**  
+**mahi mahi**  
 In name:   
- - Baked Cod with Tomato Tapenade @ *1849*  
+ - Coconut Thai Curry Mahi Mahi @ *1849*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Coconut Thai Curry Mahi Mahi @ *1849*  
   
 **Tuna**  
 In name:   
@@ -79,6 +85,10 @@ In name:
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
+  
+**curry**  
+In name:   
+ - Coconut Thai Curry Mahi Mahi @ *1849*  
   
 **beef**  
 In name:   
