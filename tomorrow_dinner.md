@@ -1,49 +1,35 @@
-# 2026-08-22 dinner  
+# 2026-08-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-21 20:08:55  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-22)  
-**Samosas**  
+Updated at: 2026-08-22 01:37:14  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-23)  
+**Tuna**  
 In name:   
- - Samosas @ *Global Kitchen*  
+ - Tuna @ *Great Greens*  
   
-**Salmon**  
+**BBQ Pork Sandwich**  
 In name:   
- - Oven Roasted Salmon @ *1849*  
-  
-**lamb**  
-In name:   
-  
-In description:   
- - Pizza Slice Gyro @ *Capital City Pizza*  
-  
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
-**curry**  
-In name:   
- - Plant-Based Beef Curry Squash @ *Global Kitchen*  
+ - BBQ Pork Sandwich @ *Fired Up*  
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
- - Beef Street Taco @ *Fired Up*  
- - Beef Vindaloo @ *Global Kitchen*  
- - Plant-Based Beef Curry Squash @ *Global Kitchen*  
- - Mediterranean Beef @ *Que Rico*  
+ - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Pizza Slice Gyro @ *Capital City Pizza*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Deli @ *Delicious*  
+ - Vegan Taco Filling @ *Que Rico*  
   
 **pork**  
 In name:   
+ - Italian Pork Sausage @ *Buona Cucina*  
  - Pork & Beef Hard Salami @ *Delicious*  
+ - BBQ Pork Sandwich @ *Fired Up*  
+ - Pork Carnita @ *Que Rico*  
   
 In description:   
+ - Gnocchi w/ Sausage & Roast Veg @ *1849*  
  - Build Your Own Breakfast Sandwich @ *Delicious*  
  - Deli @ *Delicious*  
  - Bacon @ *Delicious*  
@@ -51,17 +37,21 @@ In description:
   
 **chicken**  
 In name:   
- - Greek Chicken @ *1849*  
- - Chicken Dumpling Soup @ *Great Greens*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Plant Based Chicken Strips @ *Buona Cucina*  
+ - Plant-Based Chicken Tenders @ *1849*  
+ - Chicken Tenders Breaded @ *1849*  
+ - Chicken Chili @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Mediterranean Chicken @ *Que Rico*  
+ - Chicken Teriyaki Stir Fry @ *Global Kitchen*  
+ - Fajita Chicken @ *Que Rico*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-08-22)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-08-23)  
+**Salmon**  
+In name:   
+ - Tuscan Butter Salmon @ *1849*  
+  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
@@ -69,36 +59,66 @@ In name:
   
 **beef**  
 In name:   
- - Beef Broccoli Stir Fry @ *1849*  
+ - Beef Harissa w/Couscous @ *1849*  
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
+ - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Pork Bratwurst Sandwich @ *Fired Up*  
+ - Grilled Blended Burger w/ Cheese @ *Fired Up*  
   
 **pork**  
 In name:   
  - Pork & Beef Hard Salami @ *Delicious*  
- - Pork Bratwurst Sandwich @ *Fired Up*  
+ - Pork Carnita @ *Que Rico*  
   
 In description:   
- - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Bacon @ *Delicious*  
  - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   
- - Plant Based Sweet & Sour Chicken @ *1849*  
- - Plant-Based Chicken Tenders @ *Fired Up*  
- - Giardiniera Chicken @ *Global Kitchen*  
- - Taco Chicken @ *Que Rico*  
+ - Chicken Chili @ *Great Greens*  
+ - Beef & Chicken Meatballs @ *Global Kitchen*  
+  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-08-23)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-08-23)  
+**beef**  
+In name:   
+ - Beef Taco Meat @ *Gordon Que Rico*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
- - Kale, Sausage & Potato Soup @ *Great Greens*  
+ - Vegan Taco Filling @ *Gordon Que Rico*  
+ - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-08-22)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-08-22)  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-08-22)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-08-22)  
+**pork**  
+In name:   
+ - Boneless Baked Pork Ham @ *1849*  
+ - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
+ - Pork & Beef Hard Salami @ *Delicious*  
+  
+In description:   
+ - Andouille Sausage @ *Buona Cucina*  
+ - Bacon @ *Delicious*  
+ - Smoked Ham @ *Delicious*  
+  
+**chicken**  
+In name:   
+ - Chicken Pot Pie w/Biscuit @ *1849*  
+ - Chicken Tinga @ *Gordon Que Rico*  
+ - Plant-Based Chicken Nuggets (6) @ *Fired Up*  
+ - Chicken Tenders Breaded @ *Fired Up*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+  
+In description:   
+ - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
+  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-08-23)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-08-23)  
   
