@@ -1,6 +1,6 @@
 # 2026-08-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-22 12:18:35  
+Updated at: 2026-08-22 13:27:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-22)  
 **portabella**  
 In name:   
@@ -19,6 +19,12 @@ In name:
   
 In description:   
  - Pizza Slice Gyro @ *Capital City Pizza*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Poulet Braise @ *1849*  
   
 **watermelon**  
 In name:   
@@ -53,7 +59,6 @@ In description:
   
 **chicken**  
 In name:   
- - Jamaican Jerk Chicken @ *1849*  
  - Chicken Dumpling Soup @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
@@ -62,6 +67,7 @@ In name:
  - Mediterranean Chicken @ *Que Rico*  
   
 In description:   
+ - Poulet Braise @ *1849*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-08-22)  
@@ -96,7 +102,7 @@ In description:
 **chicken**  
 In name:   
  - Plant-Based Chicken Nuggets (6) @ *Fired Up*  
- - Italian Chicken @ *Global Kitchen*  
+ - Giardiniera Chicken @ *Global Kitchen*  
  - Taco Chicken @ *Que Rico*  
   
 In description:   
