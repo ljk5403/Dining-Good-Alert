@@ -1,6 +1,6 @@
 # 2026-08-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-22 17:19:36  
+Updated at: 2026-08-22 18:19:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-22)  
 **Samosas**  
 In name:   
@@ -51,7 +51,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Paprikash @ *1849*  
+ - Blackened Chicken @ *1849*  
  - Chicken Dumpling Soup @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
