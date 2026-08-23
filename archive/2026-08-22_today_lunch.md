@@ -1,6 +1,6 @@
 # 2026-08-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-23 13:26:46  
+Updated at: 2026-08-23 15:20:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-23)  
 **portabella**  
 In name:   
@@ -99,7 +99,7 @@ In description:
   
 **chicken**  
 In name:   
- - Crispy Chicken Sandwich @ *Fired Up*  
+ - King's Hawaiian Spicy Chicken Sandwich @ *Fired Up*  
  - Chicken Tinga @ *Gordon Que Rico*  
  - Chicken Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
