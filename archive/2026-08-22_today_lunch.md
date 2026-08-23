@@ -1,6 +1,6 @@
 # 2026-08-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-23 11:23:08  
+Updated at: 2026-08-23 12:18:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-23)  
 **portabella**  
 In name:   
@@ -39,7 +39,6 @@ In description:
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
- - Tuna Salad @ *Delicious*  
   
 **beef**  
 In name:   
@@ -58,6 +57,7 @@ In name:
 In name:   
  - Chicken Chili @ *Great Greens*  
  - Sausage Links Chicken (halal) (AYCTE) @ *1849*  
+ - Chicken Salad @ *Delicious*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Plant Based Chicken Strips @ *Global Kitchen*  
   
