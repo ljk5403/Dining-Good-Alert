@@ -1,6 +1,6 @@
 # 2026-08-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-23 13:26:57  
+Updated at: 2026-08-23 15:20:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-25)  
 **portabella**  
 In name:   
@@ -25,24 +25,17 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
  - Beef Mediterranean @ *Que Rico*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
- - Deli @ *Delicious*  
   
 **pork**  
 In name:   
  - Cajun Rice w/ Pork & Black Eyed Peas @ *1849*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Build Your Own Breakfast Sandwich @ *Delicious*  
- - Deli @ *Delicious*  
- - Bacon @ *Delicious*  
- - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -71,18 +64,11 @@ In name:
 In name:   
  - Mediterranean Beef @ *Create-A-Bowl*  
  - Traditional Beef Shepard's Pie @ *1849*  
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
  - Beef Taco Meat @ *Que Rico*  
   
 **pork**  
 In name:   
- - Pork & Beef Hard Salami @ *Delicious*  
  - Ancho Braised Pork @ *Que Rico*  
-  
-In description:   
- - Bacon @ *Delicious*  
- - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -121,8 +107,6 @@ In name:
  - Beef Sirloin Tips @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - King's Hawaiian Sand Chili Dog @ *Fired Up*  
@@ -131,11 +115,6 @@ In description:
 **pork**  
 In name:   
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
- - Pork & Beef Hard Salami @ *Delicious*  
-  
-In description:   
- - Bacon @ *Delicious*  
- - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   
