@@ -1,6 +1,6 @@
 # 2026-08-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-23 16:19:41  
+Updated at: 2026-08-23 17:19:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-23)  
 **Salmon**  
 In name:   
@@ -77,13 +77,12 @@ In name:
   
 In description:   
  - Vegan Taco Filling @ *Gordon Que Rico*  
- - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  
 In name:   
  - Boneless Baked Pork Ham @ *1849*  
- - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
+ - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
   
 In description:   
  - Andouille Sausage @ *Buona Cucina*  
@@ -94,10 +93,10 @@ In name:
  - Chicken Tinga @ *Gordon Que Rico*  
  - Plant-Based Chicken Nuggets (6) @ *Fired Up*  
  - Chicken Tenders Breaded @ *Fired Up*  
+ - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
- - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-08-23)  
