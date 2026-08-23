@@ -1,6 +1,6 @@
 # 2026-08-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-23 01:38:13  
+Updated at: 2026-08-23 09:21:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-23)  
 **Tuna**  
 In name:   
@@ -12,28 +12,20 @@ In name:
   
 **beef**  
 In name:   
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
- - Deli @ *Delicious*  
  - Vegan Taco Filling @ *Que Rico*  
   
 **pork**  
 In name:   
  - Italian Pork Sausage @ *Buona Cucina*  
- - Pork & Beef Hard Salami @ *Delicious*  
  - BBQ Pork Sandwich @ *Fired Up*  
  - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Gnocchi w/ Sausage & Roast Veg @ *1849*  
- - Build Your Own Breakfast Sandwich @ *Delicious*  
- - Deli @ *Delicious*  
- - Bacon @ *Delicious*  
- - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -60,8 +52,6 @@ In name:
 **beef**  
 In name:   
  - Beef Harissa w/Couscous @ *1849*  
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
@@ -70,12 +60,7 @@ In description:
   
 **pork**  
 In name:   
- - Pork & Beef Hard Salami @ *Delicious*  
  - Pork Carnita @ *Que Rico*  
-  
-In description:   
- - Bacon @ *Delicious*  
- - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -88,8 +73,6 @@ In name:
 In name:   
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Vegan Taco Filling @ *Gordon Que Rico*  
@@ -100,12 +83,9 @@ In description:
 In name:   
  - Boneless Baked Pork Ham @ *1849*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Andouille Sausage @ *Buona Cucina*  
- - Bacon @ *Delicious*  
- - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   

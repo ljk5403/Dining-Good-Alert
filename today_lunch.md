@@ -1,6 +1,6 @@
 # 2026-08-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-23 01:38:08  
+Updated at: 2026-08-23 09:21:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-23)  
 **Tuna**  
 In name:   
@@ -8,26 +8,16 @@ In name:
   
 **beef**  
 In name:   
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
  - Beef French Dip Sandwich @ *Fired Up*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
- - Deli @ *Delicious*  
  - Vegan Taco Filling @ *Que Rico*  
   
 **pork**  
 In name:   
- - Pork & Beef Hard Salami @ *Delicious*  
  - Pork Carnita @ *Que Rico*  
-  
-In description:   
- - Bacon @ *Delicious*  
- - Build Your Own Breakfast Sandwich @ *Delicious*  
- - Deli @ *Delicious*  
- - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -47,8 +37,6 @@ In name:
   
 **beef**  
 In name:   
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
@@ -57,13 +45,8 @@ In description:
   
 **pork**  
 In name:   
- - Pork & Beef Hard Salami @ *Delicious*  
  - Corn Dog (Pork) @ *Fired Up*  
  - Pork Carnita @ *Que Rico*  
-  
-In description:   
- - Bacon @ *Delicious*  
- - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -93,8 +76,6 @@ In name:
 In name:   
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Plant-Based Pepper Steak Stir Fry @ *1849*  
@@ -107,12 +88,9 @@ In name:
  - Jerk Pork Chop @ *1849*  
  - Biscuits & Pork Gravy @ *Eggcetera*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
- - Bacon @ *Delicious*  
  - Andouille Sausage @ *Buona Cucina*  
- - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   
