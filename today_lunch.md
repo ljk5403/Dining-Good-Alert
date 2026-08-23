@@ -1,7 +1,13 @@
 # 2026-08-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-23 10:20:04  
+Updated at: 2026-08-23 11:23:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-23)  
+**portabella**  
+In name:   
+  
+In description:   
+ - Vegan French Dip Sandwich @ *Fired Up*  
+  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
@@ -80,28 +86,27 @@ In name:
 In description:   
  - Plant-Based Pepper Steak Stir Fry @ *1849*  
  - Vegan Taco Filling @ *Gordon Que Rico*  
- - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  
 In name:   
  - Jerk Pork Chop @ *1849*  
  - Biscuits & Pork Gravy @ *Eggcetera*  
- - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
+ - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
   
 In description:   
  - Andouille Sausage @ *Buona Cucina*  
   
 **chicken**  
 In name:   
- - King's Hawaiian Spicy Chicken Sandwich @ *Fired Up*  
+ - Crispy Chicken Sandwich @ *Fired Up*  
  - Chicken Tinga @ *Gordon Que Rico*  
  - Chicken Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
   
 In description:   
  - Biscuits & Pork Gravy @ *Eggcetera*  
- - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-08-23)  
