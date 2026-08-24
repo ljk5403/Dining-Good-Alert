@@ -1,6 +1,6 @@
 # 2026-08-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-24 13:38:03  
+Updated at: 2026-08-24 15:28:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-26)  
 **clam**  
 In name:   
@@ -73,7 +73,7 @@ In name:
  - Popcorn Chicken @ *Create-A-Bowl*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Plant-Based Chicken Nuggets (6) @ *Que Rico*  
+ - Plant-Based Chicken Nuggets @ *Que Rico*  
  - Chicken Wings Boneless Plain @ *Que Rico*  
   
 In description:   
