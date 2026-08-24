@@ -1,6 +1,6 @@
 # 2026-08-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-24 01:55:09  
+Updated at: 2026-08-24 09:39:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-24)  
 **Tuna**  
 In name:   
@@ -88,7 +88,7 @@ In name:
 In name:   
   
 In description:   
- - Vegan French Dip Sandwich @ *Fired Up*  
+ - Vegan French Dip Sandwich @ *King's Hawaiian*  
   
 **steak**  
 In name:   
@@ -107,7 +107,7 @@ In name:
 **beef**  
 In name:   
  - Island Spiced Beef Steak @ *1849*  
- - King's Hawaiian Sand Beef French Dip @ *Fired Up*  
+ - King's Hawaiian Sand Beef French Dip @ *King's Hawaiian*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   

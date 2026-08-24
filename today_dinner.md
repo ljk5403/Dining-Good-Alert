@@ -1,6 +1,6 @@
 # 2026-08-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-24 01:55:12  
+Updated at: 2026-08-24 09:39:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-24)  
 **steak**  
 In name:   
@@ -113,7 +113,7 @@ In name:
 **chicken**  
 In name:   
  - Chicken Drumstick BBQ Glazed @ *1849*  
- - King's Hawaiian Sand Chicken w/ Tandoori @ *Fired Up*  
+ - King's Hawaiian Sand Chicken w/ Tandoori @ *King's Hawaiian*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Diced Chicken Breast @ *Buona Cucina*  

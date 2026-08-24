@@ -1,6 +1,6 @@
 # 2026-08-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-24 01:55:24  
+Updated at: 2026-08-24 09:39:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-26)  
 **clam**  
 In name:   
@@ -85,7 +85,7 @@ In description:
 In name:   
   
 In description:   
- - Vegan Mushroom Banh Mi Sandwich @ *Fired Up*  
+ - Vegan Mushroom Banh Mi Sandwich @ *King's Hawaiian*  
   
 **Chicken Drummies**  
 In name:   
@@ -113,7 +113,7 @@ In name:
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
   
 In description:   
- - King's Hawaiian Ham and Swiss Slider @ *Fired Up*  
+ - King's Hawaiian Ham and Swiss Slider @ *King's Hawaiian*  
   
 **chicken**  
 In name:   
