@@ -1,6 +1,6 @@
 # 2026-08-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-24 10:37:19  
+Updated at: 2026-08-24 11:34:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-24)  
 **Tuna**  
 In name:   
@@ -28,7 +28,6 @@ In description:
 **chicken**  
 In name:   
  - Diced Chicken @ *Great Greens*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
  - Noodles Sesame w/ Chicken @ *Global Kitchen*  
  - Chicken Tinga @ *Que Rico*  
   

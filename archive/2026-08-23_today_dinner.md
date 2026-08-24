@@ -1,6 +1,6 @@
 # 2026-08-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-24 10:37:21  
+Updated at: 2026-08-24 11:35:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-24)  
 **steak**  
 In name:   
@@ -38,7 +38,6 @@ In description:
 In name:   
  - Montreal Chicken @ *1849*  
  - Diced Chicken @ *Great Greens*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-08-24)  
 **portabella**  
