@@ -1,6 +1,6 @@
 # 2026-08-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-23 17:19:47  
+Updated at: 2026-08-23 18:18:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-23)  
 **Salmon**  
 In name:   
@@ -58,15 +58,12 @@ In name:
 In description:   
  - Grilled Blended Burger w/ Cheese @ *Fired Up*  
   
-**pork**  
-In name:   
- - Pork Carnita @ *Que Rico*  
-  
 **chicken**  
 In name:   
  - Chicken Chili @ *Great Greens*  
  - Chicken Salad @ *Delicious*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
+ - Taco Chicken @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-08-23)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-08-23)  
