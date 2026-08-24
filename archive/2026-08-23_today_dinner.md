@@ -1,6 +1,6 @@
 # 2026-08-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-24 15:28:11  
+Updated at: 2026-08-24 16:26:34  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-24)  
 **steak**  
 In name:   
@@ -11,10 +11,6 @@ In description:
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
-  
-**curry**  
-In name:   
- - Thai Veggie Meatballs w/ Green Curry @ *1849*  
   
 **beef**  
 In name:   
