@@ -1,6 +1,6 @@
 # 2026-08-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-24 13:37:40  
+Updated at: 2026-08-24 15:28:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-24)  
 **steak**  
 In name:   
@@ -18,7 +18,7 @@ In name:
   
 **beef**  
 In name:   
- - Beef Ravioli Plain @ *Buona Cucina*  
+ - Beef Tortellini @ *Buona Cucina*  
   
 In description:   
  - Sausage (Pork), Potatoes, & Peppers @ *1849*  
