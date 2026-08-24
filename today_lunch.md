@@ -1,6 +1,6 @@
 # 2026-08-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-24 09:39:38  
+Updated at: 2026-08-24 10:37:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-24)  
 **Tuna**  
 In name:   
@@ -48,6 +48,10 @@ In description:
  - California Roll  (FujiSan) @ *Create-A-Bowl*  
  - Tempura Roll (FujiSan) @ *Create-A-Bowl*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **Pakoras**  
 In name:   
  - Appetizer -  Pakoras Vegetable (Veg) @ *Que Rico*  
@@ -79,7 +83,6 @@ In name:
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Chicken Drumstick BBQ Glazed @ *1849*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Vindaloo @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-08-24)  
