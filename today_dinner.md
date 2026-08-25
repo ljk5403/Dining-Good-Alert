@@ -1,6 +1,6 @@
 # 2026-08-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-25 01:42:55  
+Updated at: 2026-08-25 09:42:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-25)  
 **portabella**  
 In name:   
@@ -67,6 +67,10 @@ In name:
 In name:   
  - Shrimp Po-Boy Sandwich @ *Fired Up*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -82,7 +86,6 @@ In name:
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
  - Smoked Chicken Quarters - 2 pc @ *1849*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Italian Chicken @ *Global Kitchen*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-08-25)  
