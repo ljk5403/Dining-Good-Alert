@@ -1,6 +1,6 @@
 # 2026-08-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-25 01:42:49  
+Updated at: 2026-08-25 09:42:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-25)  
 **portabella**  
 In name:   
@@ -57,6 +57,10 @@ In description:
 In name:   
  - Smoked Leg of Lamb @ *1849*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -76,7 +80,6 @@ In name:
  - Mediterranean Chicken @ *Create-A-Bowl*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Grilled Chicken Sandwich @ *Fired Up*  
  - Italian Chicken @ *Global Kitchen*  
   
@@ -95,6 +98,10 @@ In name:
 In description:   
  - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
   
+**steak**  
+In name:   
+ - Island Spiced Beef Steak @ *Gordon Que Rico*  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -107,6 +114,7 @@ In name:
 In name:   
  - Beef Sirloin Tips @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
+ - Island Spiced Beef Steak @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   

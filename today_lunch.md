@@ -1,10 +1,14 @@
 # 2026-08-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-25 09:42:29  
+Updated at: 2026-08-25 10:39:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-25)  
 **portabella**  
 In name:   
  - Portabella Mushroom Ravioli Plain @ *Buona Cucina*  
+  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad @ *Delicious*  
   
 **Pakoras**  
 In name:   
@@ -45,7 +49,6 @@ In name:
  - Chicken Dumpling Soup @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Tikka Masala Chicken @ *Global Kitchen*  
  - Mediterranean Chicken @ *Que Rico*  
   
@@ -67,7 +70,6 @@ In name:
   
 **beef**  
 In name:   
- - Mediterranean Beef @ *Create-A-Bowl*  
  - Traditional Beef Shepard's Pie @ *1849*  
  - Beef Taco Meat @ *Que Rico*  
   
@@ -77,9 +79,8 @@ In name:
   
 **chicken**  
 In name:   
- - Mediterranean Chicken @ *Create-A-Bowl*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Dumpling Soup @ *Great Greens*  
+ - Chicken Noodle Soup @ *Great Greens*  
  - Grilled Chicken Sandwich @ *Fired Up*  
  - Italian Chicken @ *Global Kitchen*  
   
