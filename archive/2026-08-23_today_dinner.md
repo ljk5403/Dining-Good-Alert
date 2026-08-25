@@ -1,6 +1,6 @@
 # 2026-08-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-24 17:24:12  
+Updated at: 2026-08-24 18:20:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-24)  
 **steak**  
 In name:   
@@ -53,10 +53,6 @@ In description:
 **fish**  
 In name:   
  - Indian Fish Curry @ *Que Rico*  
-  
-In description:   
- - California Roll  (FujiSan) @ *Create-A-Bowl*  
- - Tempura Roll (FujiSan) @ *Create-A-Bowl*  
   
 **Tuna**  
 In name:   

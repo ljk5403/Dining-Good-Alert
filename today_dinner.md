@@ -1,13 +1,7 @@
 # 2026-08-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-24 18:20:42  
+Updated at: 2026-08-24 20:11:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-24)  
-**steak**  
-In name:   
-  
-In description:   
- - Montreal Chicken @ *1849*  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
@@ -17,6 +11,7 @@ In name:
  - Beef Tortellini @ *Buona Cucina*  
   
 In description:   
+ - AUSTIN BLUES Chopped Brisket @ *1849*  
  - Sausage (Pork), Potatoes, & Peppers @ *1849*  
  - Italian Meat Sauce @ *Buona Cucina*  
  - Chicago-Style Hot Dog @ *Fired Up*  
@@ -32,7 +27,6 @@ In description:
   
 **chicken**  
 In name:   
- - Montreal Chicken @ *1849*  
  - Diced Chicken @ *Great Greens*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-08-24)  
@@ -53,6 +47,9 @@ In description:
 **fish**  
 In name:   
  - Indian Fish Curry @ *Que Rico*  
+  
+In description:   
+ - Tempura Roll (FujiSan) @ *Create-A-Bowl*  
   
 **Tuna**  
 In name:   
@@ -82,10 +79,6 @@ In name:
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-08-24)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-08-24)  
-**drumstick**  
-In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
@@ -102,11 +95,11 @@ In description:
   
 **pork**  
 In name:   
+ - Spicy Greenbush Pork Loin @ *1849*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
  - King's Hawaiian Sand Chicken w/ Tandoori @ *King's Hawaiian*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
