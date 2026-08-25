@@ -1,6 +1,6 @@
 # 2026-08-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-25 16:26:11  
+Updated at: 2026-08-25 17:25:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-25)  
 **Salmon**  
 In name:   
@@ -38,7 +38,6 @@ In name:
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Plant Based Chicken Strips @ *Buona Cucina*  
  - Spicy Crispy Chicken Sandwich @ *Fired Up*  
  - Brown Stew w/ Chicken @ *Global Kitchen*  
  - Mediterranean Chicken @ *Que Rico*  
