@@ -1,11 +1,7 @@
 # 2026-08-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-25 15:26:47  
+Updated at: 2026-08-25 16:26:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-25)  
-**portabella**  
-In name:   
- - Portabella Mushroom Ravioli Plain @ *Buona Cucina*  
-  
 **Salmon**  
 In name:   
  - Ginger Glazed Salmon @ *1849*  
@@ -62,13 +58,13 @@ In name:
  - Beef Bulgogi Bao Bun @ *Que Rico*  
  - Mushroom Bulgogi Bao Bun @ *Que Rico*  
   
-**mahi mahi**  
-In name:   
- - Blackened Mahi Mahi @ *1849*  
-  
 **Shrimp**  
 In name:   
  - Shrimp Po-Boy Sandwich @ *Fired Up*  
+  
+**Cod**  
+In name:   
+ - Lemon Pepper Cod Fillet @ *1849*  
   
 **Tuna**  
 In name:   
