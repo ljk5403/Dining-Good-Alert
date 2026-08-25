@@ -1,6 +1,6 @@
 # 2026-08-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-25 12:29:38  
+Updated at: 2026-08-25 13:36:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-25)  
 **portabella**  
 In name:   
@@ -81,7 +81,7 @@ In name:
 In name:   
  - Diced Chicken @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
- - Grilled Chicken Sandwich @ *Fired Up*  
+ - Crispy Chicken Sandwich @ *Fired Up*  
  - Italian Chicken @ *Global Kitchen*  
   
 In description:   
