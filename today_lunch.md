@@ -1,6 +1,6 @@
 # 2026-08-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-26 09:41:59  
+Updated at: 2026-08-26 11:16:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-26)  
 **FiIipino Pork Spring Roll**  
 In name:   
@@ -82,8 +82,11 @@ In name:
 In name:   
   
 In description:   
- - California Roll  (FujiSan) @ *Global Kitchen*  
  - Tempura Roll (FujiSan) @ *Global Kitchen*  
+  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad @ *Delicious*  
   
 **curry**  
 In name:   
@@ -112,7 +115,6 @@ In name:
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Diced Chicken Breast @ *Buona Cucina*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
