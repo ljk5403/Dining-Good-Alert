@@ -1,6 +1,6 @@
 # 2026-08-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-26 09:42:04  
+Updated at: 2026-08-26 11:16:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-26)  
 **clam**  
 In name:   
@@ -109,6 +109,10 @@ In description:
  - California Roll  (FujiSan) @ *Global Kitchen*  
  - Tempura Roll (FujiSan) @ *Global Kitchen*  
   
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad @ *Delicious*  
+  
 **beef**  
 In name:   
  - Beef Taco Meat @ *Gordon Que Rico*  
@@ -131,7 +135,6 @@ In name:
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Diced Chicken Breast @ *Buona Cucina*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
