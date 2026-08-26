@@ -1,6 +1,6 @@
 # 2026-08-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-26 14:00:20  
+Updated at: 2026-08-26 17:44:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-26)  
 **clam**  
 In name:   
@@ -15,10 +15,6 @@ In description:
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
-  
-**curry**  
-In name:   
- - VEGAN Thai Chick'n w/ Green Curry (VN) @ *Global Kitchen*  
   
 **beef**  
 In name:   
@@ -102,13 +98,6 @@ In name:
 In name:   
  - Basque Style Cod @ *1849*  
   
-**fish**  
-In name:   
-  
-In description:   
- - California Roll  (FujiSan) @ *Global Kitchen*  
- - Tempura Roll (FujiSan) @ *Global Kitchen*  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
@@ -125,9 +114,6 @@ In description:
 **pork**  
 In name:   
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
-  
-In description:   
- - King's Hawaiian Ham and Swiss Slider @ *King's Hawaiian*  
   
 **chicken**  
 In name:   

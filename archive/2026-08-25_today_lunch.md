@@ -1,6 +1,6 @@
 # 2026-08-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-26 11:16:12  
+Updated at: 2026-08-26 14:00:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-26)  
 **FiIipino Pork Spring Roll**  
 In name:   
@@ -59,13 +59,13 @@ In name:
 **beef**  
 In name:   
  - Beef Chili @ *Great Greens*  
+ - Beef Harissa @ *Global Kitchen*  
   
 **chicken**  
 In name:   
  - Popcorn Chicken @ *Create-A-Bowl*  
  - Diced Chicken @ *Great Greens*  
  - Huli Huli Chicken @ *1849*  
- - Chicken Stir-Fry Coconut Lime @ *Global Kitchen*  
  - Chicken Wings Boneless Plain @ *Que Rico*  
  - Plant-Based Chicken Nuggets @ *Que Rico*  
   
@@ -77,12 +77,6 @@ In description:
 **mahi mahi**  
 In name:   
  - Baked Mahi Mahi w/ Butter & Lemon @ *1849*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Tempura Roll (FujiSan) @ *Global Kitchen*  
   
 **Tuna**  
 In name:   
@@ -105,6 +99,7 @@ In description:
 **pork**  
 In name:   
  - Chicken & Pork Sausage Gumbo @ *1849*  
+ - Roasted Pork Loin @ *1849*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
   
 **chicken**  
