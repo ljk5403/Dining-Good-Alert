@@ -1,6 +1,6 @@
 # 2026-08-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-26 01:45:57  
+Updated at: 2026-08-26 09:41:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-26)  
 **FiIipino Pork Spring Roll**  
 In name:   
@@ -52,6 +52,10 @@ In name:
 In name:   
  - Tilapia Chipotle Lime Crusted @ *1849*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **beef**  
 In name:   
  - Beef Chili @ *Great Greens*  
@@ -61,7 +65,6 @@ In name:
  - Popcorn Chicken @ *Create-A-Bowl*  
  - Diced Chicken @ *Great Greens*  
  - Huli Huli Chicken @ *1849*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Stir-Fry Coconut Lime @ *Global Kitchen*  
  - Chicken Wings Boneless Plain @ *Que Rico*  
  - Plant-Based Chicken Nuggets @ *Que Rico*  
