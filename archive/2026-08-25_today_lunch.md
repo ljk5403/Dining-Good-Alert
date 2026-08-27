@@ -1,6 +1,6 @@
 # 2026-08-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-26 14:00:14  
+Updated at: 2026-08-26 17:44:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-26)  
 **FiIipino Pork Spring Roll**  
 In name:   
@@ -74,6 +74,10 @@ In description:
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-08-26)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-08-26)  
+**steak**  
+In name:   
+ - Island Spiced Beef Steak @ *Great Greens*  
+  
 **mahi mahi**  
 In name:   
  - Baked Mahi Mahi w/ Butter & Lemon @ *1849*  
@@ -82,14 +86,11 @@ In name:
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
   
-**curry**  
-In name:   
- - VEGAN Thai Chick'n w/ Green Curry (VN) @ *1849*  
-  
 **beef**  
 In name:   
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef Chili @ *Great Greens*  
+ - Island Spiced Beef Steak @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
@@ -99,7 +100,6 @@ In description:
 **pork**  
 In name:   
  - Chicken & Pork Sausage Gumbo @ *1849*  
- - Roasted Pork Loin @ *1849*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
   
 **chicken**  

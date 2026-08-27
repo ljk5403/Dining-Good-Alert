@@ -1,6 +1,6 @@
 # 2026-08-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-26 17:44:20  
+Updated at: 2026-08-26 23:15:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-28)  
 **Poke Bar**  
 In name:   
@@ -43,6 +43,8 @@ In name:
   
 **beef**  
 In name:   
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -52,10 +54,12 @@ In description:
 In name:   
  - Pork Sausage Patty @ *Buona Cucina*  
  - Hawaiian (Pork) Pizza Slice @ *Capital City Pizza*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Pizza Slice Sausage @ *Capital City Pizza*  
- - Build Your Own Breakfast Sandwich @ *Delicious*  
+ - Bacon @ *Delicious*  
+ - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -96,6 +100,8 @@ In name:
   
 **beef**  
 In name:   
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
  - Beef @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
@@ -105,6 +111,11 @@ In description:
 **pork**  
 In name:   
  - Denver Scramble (Pork) @ *1849*  
+ - Pork & Beef Hard Salami @ *Delicious*  
+  
+In description:   
+ - Bacon @ *Delicious*  
+ - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -132,13 +143,14 @@ In name:
   
 **curry**  
 In name:   
- - Beef Thai Meatballs w/ Green Curry @ *1849*  
+ - Thai Veggie Meatballs w/ Green Curry @ *1849*  
   
 **beef**  
 In name:   
- - Beef Thai Meatballs w/ Green Curry @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Burnt Ends @ *1849*  
@@ -147,6 +159,11 @@ In description:
 **pork**  
 In name:   
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
+ - Pork & Beef Hard Salami @ *Delicious*  
+  
+In description:   
+ - Bacon @ *Delicious*  
+ - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   

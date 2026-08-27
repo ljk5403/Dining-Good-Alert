@@ -1,7 +1,11 @@
 # 2026-08-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-26 17:44:16  
+Updated at: 2026-08-26 23:15:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-26)  
+**Chicken Drummies**  
+In name:   
+ - Chicken Drummies @ *1849*  
+  
 **clam**  
 In name:   
  - Clam Strip Po-Boy Sandwich @ *Fired Up*  
@@ -22,7 +26,6 @@ In name:
   
 **pork**  
 In name:   
- - BBQ Pork Chop @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
  - Thai BBQ Pork Ribs @ *Global Kitchen*  
   
@@ -33,20 +36,20 @@ In description:
 **chicken**  
 In name:   
  - Chicken Pot Pie w/Biscuit @ *1849*  
+ - Chicken Drummies @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
  - Chicken Fajita @ *Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-08-26)  
-**Cod**  
+**Salmon**  
 In name:   
- - Miso Cod @ *1849*  
+ - Baked Salmon Fillet @ *1849*  
   
 **fish**  
 In name:   
   
 In description:   
- - Miso Cod @ *1849*  
  - Vietnamese Pork @ *1849*  
   
 **Tuna**  

@@ -1,6 +1,6 @@
 # 2026-08-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-26 17:44:17  
+Updated at: 2026-08-26 23:15:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-27)  
 **fish**  
 In name:   
@@ -20,6 +20,8 @@ In description:
 In name:   
  - Cowboy Bean w/ Beef & Pork @ *1849*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
  - Beef Mediterranean @ *Que Rico*  
   
 In description:   
@@ -28,9 +30,11 @@ In description:
 **pork**  
 In name:   
  - Cowboy Bean w/ Beef & Pork @ *1849*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
- - Build Your Own Breakfast Sandwich @ *Delicious*  
+ - Bacon @ *Delicious*  
+ - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -75,14 +79,19 @@ In description:
 In name:   
  - Bulgogi Beef @ *Create-A-Bowl*  
  - Beef Tri Tip Carved w/ Chimichurri @ *1849*  
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
  - Roast Beef & Cheddar Panini on Rye @ *Fired Up*  
  - Beef Taco Meat @ *Que Rico*  
   
 **pork**  
 In name:   
  - Apple Cider Braised Pork @ *1849*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
+ - Bacon @ *Delicious*  
+ - Smoked Ham @ *Delicious*  
  - Andouille Sausage @ *Global Kitchen*  
   
 **chicken**  
@@ -126,6 +135,8 @@ In description:
 In name:   
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - King's Hawaiian Sand Garibaldi @ *King's Hawaiian*  
@@ -137,9 +148,12 @@ In name:
  - FiIipino Pork Spring Roll @ *Global Kitchen*  
  - Filipino Pork Sausage @ *Global Kitchen*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
+ - Bacon @ *Delicious*  
  - King's Hawaiian Sand Garibaldi @ *King's Hawaiian*  
+ - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   

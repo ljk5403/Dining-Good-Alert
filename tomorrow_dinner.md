@@ -1,6 +1,6 @@
 # 2026-08-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-26 17:44:19  
+Updated at: 2026-08-26 23:15:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-27)  
 **Chicken Drummies**  
 In name:   
@@ -26,6 +26,8 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
  - Beef Mediterranean @ *Que Rico*  
   
 In description:   
@@ -33,9 +35,11 @@ In description:
   
 **pork**  
 In name:   
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
- - Build Your Own Breakfast Sandwich @ *Delicious*  
+ - Bacon @ *Delicious*  
+ - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -89,6 +93,8 @@ In description:
 In name:   
  - Bulgogi Beef @ *Create-A-Bowl*  
  - Italian Beef Sandwich @ *1849*  
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
  - Shredded Beef Flauta @ *Que Rico*  
   
 In description:   
@@ -96,8 +102,11 @@ In description:
   
 **pork**  
 In name:   
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
+ - Bacon @ *Delicious*  
+ - Smoked Ham @ *Delicious*  
  - Andouille Sausage @ *Global Kitchen*  
   
 **chicken**  
@@ -133,6 +142,8 @@ In name:
  - Beef Taco Meat @ *Gordon Que Rico*  
  - King's Hawaiian Corned Beef Reuben @ *King's Hawaiian*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
@@ -140,6 +151,11 @@ In description:
 **pork**  
 In name:   
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
+ - Pork & Beef Hard Salami @ *Delicious*  
+  
+In description:   
+ - Bacon @ *Delicious*  
+ - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   
