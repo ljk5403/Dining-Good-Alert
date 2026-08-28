@@ -1,6 +1,6 @@
 # 2026-08-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-27 12:21:14  
+Updated at: 2026-08-27 21:02:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-27)  
 **Chicken Drummies**  
 In name:   
@@ -15,7 +15,6 @@ In name:
   
 In description:   
  - Curried Pumpkin Soup @ *Great Greens*  
- - Tempura Roll (FujiSan) @ *Global Kitchen*  
   
 **curry**  
 In name:   
@@ -52,6 +51,7 @@ In name:
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Drummies @ *Fired Up*  
  - Plant-Based Chicken Nuggets @ *Fired Up*  
+ - Spicy Lo Mein w/Chicken @ *Global Kitchen*  
  - Mediterranean Chicken @ *Que Rico*  
   
 In description:   
@@ -135,7 +135,6 @@ In name:
   
 **curry**  
 In name:   
- - Vegan Currywurst @ *King's Hawaiian*  
   
 In description:   
  - Coconut Vegetable Stew @ *1849*  

@@ -1,6 +1,6 @@
 # 2026-08-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-27 12:21:08  
+Updated at: 2026-08-27 21:02:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-27)  
 **fish**  
 In name:   
@@ -95,6 +95,7 @@ In name:
 In name:   
  - Apple Cider Braised Pork @ *1849*  
  - Pork & Beef Hard Salami @ *Delicious*  
+ - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Bacon @ *Delicious*  
