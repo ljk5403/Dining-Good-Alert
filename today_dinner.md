@@ -1,6 +1,6 @@
 # 2026-08-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-28 13:14:00  
+Updated at: 2026-08-28 21:42:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-28)  
 **Poke Bar**  
 In name:   
@@ -25,6 +25,7 @@ In name:
   
 **fish**  
 In name:   
+ - Vegan Fish Sandwich @ *Fired Up*  
  - Fish Tacos @ *Fired Up*  
   
 **Tuna**  
@@ -83,18 +84,22 @@ In name:
 In name:   
  - Vegan Curry Stew @ *1849*  
   
-In description:   
- - Tikka Masala Chicken @ *1849*  
-  
 **beef**  
 In name:   
- - Beef @ *Global Kitchen*  
+ - Beef Stroganoff Creamy @ *Global Kitchen*  
+ - Empanada Beef Picadillo @ *Que Rico*  
+  
+**pork**  
+In name:   
+ - Apple Cider Braised Pork @ *1849*  
   
 **chicken**  
 In name:   
  - Diced Chicken @ *Great Greens*  
- - Tikka Masala Chicken @ *1849*  
- - Chicken Empanada with Green Chili @ *Que Rico*  
+  
+In description:   
+ - Apple Cider Braised Pork @ *1849*  
+ - Empanada Beef Picadillo @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-08-28)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-08-28)  
@@ -105,6 +110,10 @@ In name:
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
+  
+**Filipino Pork Sausage**  
+In name:   
+ - Filipino Pork Sausage @ *Global Kitchen*  
   
 **curry**  
 In name:   
@@ -121,6 +130,7 @@ In description:
 **pork**  
 In name:   
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
+ - Filipino Pork Sausage @ *Global Kitchen*  
   
 **chicken**  
 In name:   
@@ -128,7 +138,6 @@ In name:
  - King's Hawaiian Sand Chicken Paradise @ *King's Hawaiian*  
  - VN Sand Chicken Paradise @ *King's Hawaiian*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
- - Butter Chicken @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Diced Chicken Breast @ *Buona Cucina*  
   
