@@ -1,6 +1,6 @@
 # 2026-08-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-29 15:27:24  
+Updated at: 2026-08-29 17:59:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-29)  
 **Bibimbap Bowl**  
 In name:   
@@ -78,7 +78,7 @@ In name:
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Spicy Crispy Chicken Sandwich @ *Fired Up*  
  - Plant-Based Chicken Nuggets @ *Fired Up*  
- - Italian Chicken @ *Global Kitchen*  
+ - Mediterranean Chicken @ *Global Kitchen*  
   
 In description:   
  - Kale, Sausage & Potato Soup @ *Great Greens*  
@@ -107,9 +107,11 @@ In name:
   
 In description:   
  - Country Fried Steak @ *1849*  
+ - Baked Corn Dog (Pork) @ *1849*  
   
 **pork**  
 In name:   
+ - Baked Corn Dog (Pork) @ *1849*  
   
 In description:   
  - Kale, Sausage & Potato Soup @ *Great Greens*  
@@ -121,6 +123,7 @@ In name:
  - Kung Pao Chicken @ *Global Kitchen*  
   
 In description:   
+ - Baked Corn Dog (Pork) @ *1849*  
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-08-29)  
