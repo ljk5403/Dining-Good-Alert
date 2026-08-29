@@ -1,6 +1,6 @@
 # 2026-08-31 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-29 07:20:51  
+Updated at: 2026-08-29 12:30:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-31)  
 **Tuna**  
 In name:   
@@ -164,6 +164,9 @@ In name:
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
+In description:   
+ - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
+  
 **pork**  
 In name:   
  - Pork & Beef Hard Salami @ *Delicious*  
@@ -178,6 +181,10 @@ In name:
  - Plant-Based Chicken & Gravy (VN) @ *Carson's 1849:  Available Between 11am-2pm*  
  - Chicken Pot Pie w/Biscuit @ *Carson's 1849:  Available Between 11am-2pm*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
+ - Chicken, Bacon, Jalapeno Pizza @ *Capital City Pizza*  
+  
+In description:   
+ - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-08-31)  
   

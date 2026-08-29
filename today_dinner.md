@@ -1,6 +1,6 @@
 # 2026-08-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-29 07:20:36  
+Updated at: 2026-08-29 12:30:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-29)  
 **Bibimbap Bowl**  
 In name:   
@@ -61,7 +61,6 @@ In description:
   
 **chicken**  
 In name:   
- - Diced Chicken @ *Great Greens*  
  - Spicy Lo Mein w/Chicken @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Spicy Crispy Chicken Sandwich @ *Fired Up*  
@@ -151,17 +150,21 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Global*  
+ - Beef Chili @ *Great Greens*  
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
+  
+In description:   
+ - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
   
 **pork**  
 In name:   
  - Green Beans w/ Pork Bacon @ *Fired Up*  
  - Pork & Beef Hard Salami @ *Delicious*  
+ - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
   
 In description:   
  - Andouille Sausage @ *Global*  
- - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Bacon @ *Delicious*  
  - Smoked Ham @ *Delicious*  
   
@@ -173,7 +176,7 @@ In name:
  - Chicken Tenders Breaded @ *1849*  
   
 In description:   
- - Kale, Sausage & Potato Soup @ *Great Greens*  
+ - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-08-29)  
   

@@ -1,6 +1,6 @@
 # 2026-08-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-29 07:20:30  
+Updated at: 2026-08-29 12:30:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-29)  
 **Shrimp**  
 In name:   
@@ -19,11 +19,11 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Pork Bratwurst Sandwich @ *Fired Up*  
   
 **pork**  
 In name:   
- - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
  - Pork Bratwurst Sandwich @ *Fired Up*  
  - Pork Miso w/Yakisoba Noodles @ *Global Kitchen*  
   
@@ -36,10 +36,11 @@ In name:
  - Diced Chicken @ *Great Greens*  
  - Diced Chicken Breast @ *Buona Cucina*  
  - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
- - Fajita Chicken @ *Que Rico*  
+ - Chicken Tinga @ *Que Rico*  
   
 In description:   
  - Kale, Sausage & Potato Soup @ *Great Greens*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Pork Miso w/Yakisoba Noodles @ *Global Kitchen*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-08-29)  
@@ -64,7 +65,6 @@ In description:
   
 **chicken**  
 In name:   
- - Diced Chicken @ *Great Greens*  
  - Sausage Links Chicken (halal) (AYCTE) @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Italian Chicken @ *Global Kitchen*  
@@ -125,7 +125,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Carne Guisada @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
@@ -138,22 +137,18 @@ In name:
  - BBQ Pork Sandwich @ *1849*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
   
-In description:   
- - Kale, Sausage & Potato Soup @ *Great Greens*  
-  
 **chicken**  
 In name:   
- - Chicken Enchilada Bake @ *1849*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera*  
  - King's Hawaiian Sand Chicken Parmesan @ *King's Hawaiian*  
  - Diced Chicken @ *Great Greens*  
+ - Chicken Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Diced Chicken Breast @ *Buona Cucina*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
- - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-08-29)  
@@ -174,17 +169,21 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Chili @ *Great Greens*  
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
+  
+In description:   
+ - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
   
 **pork**  
 In name:   
  - Herb Crusted Pork Loin @ *Global Kitchen:  Available Between 11am-2pm*  
  - Pork & Beef Hard Salami @ *Delicious*  
+ - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
   
 In description:   
  - Bacon @ *Delicious*  
- - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Smoked Ham @ *Delicious*  
   
 **chicken**  
@@ -194,7 +193,7 @@ In name:
  - Diced Chicken @ *Great Greens*  
   
 In description:   
- - Kale, Sausage & Potato Soup @ *Great Greens*  
+ - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-08-29)  
   

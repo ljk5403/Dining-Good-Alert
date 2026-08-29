@@ -1,6 +1,6 @@
 # 2026-08-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-29 07:20:46  
+Updated at: 2026-08-29 12:30:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-30)  
 **lamb**  
 In name:   
@@ -174,6 +174,9 @@ In name:
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
+In description:   
+ - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza*  
+  
 **pork**  
 In name:   
  - Pork & Beef Hard Salami @ *Delicious*  
@@ -181,12 +184,16 @@ In name:
 In description:   
  - Bacon @ *Delicious*  
  - Smoked Ham @ *Delicious*  
+ - Pizza Slice Sausage & Mushroom @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
  - Chicken Tinga @ *Global*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
+  
+In description:   
+ - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-08-30)  
   

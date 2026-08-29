@@ -1,6 +1,6 @@
 # 2026-08-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-29 07:20:40  
+Updated at: 2026-08-29 12:30:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-30)  
 **steak**  
 In name:   
@@ -157,6 +157,7 @@ In name:
   
 In description:   
  - Blended Hamburger @ *Fired Up:  Available Between 11am-2pm*  
+ - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza*  
   
 **pork**  
 In name:   
@@ -166,6 +167,7 @@ In name:
 In description:   
  - Bacon @ *Delicious*  
  - Smoked Ham @ *Delicious*  
+ - Pizza Slice Sausage & Mushroom @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
@@ -173,6 +175,9 @@ In name:
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera:  Available Between 11am-2pm*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
+  
+In description:   
+ - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-08-30)  
   
