@@ -1,6 +1,6 @@
 # 2026-08-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-29 12:30:40  
+Updated at: 2026-08-29 15:27:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-30)  
 **steak**  
 In name:   
@@ -152,8 +152,6 @@ In name:
   
 **beef**  
 In name:   
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Blended Hamburger @ *Fired Up:  Available Between 11am-2pm*  
@@ -162,11 +160,8 @@ In description:
 **pork**  
 In name:   
  - Island Spiced Pork w/ Pineapple Salsa @ *Carson's 1849:  Available Between 11am-2pm*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
- - Bacon @ *Delicious*  
- - Smoked Ham @ *Delicious*  
  - Pizza Slice Sausage & Mushroom @ *Capital City Pizza*  
   
 **chicken**  

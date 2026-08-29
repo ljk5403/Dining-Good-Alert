@@ -1,6 +1,6 @@
 # 2026-08-31 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-29 12:30:44  
+Updated at: 2026-08-29 15:27:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-31)  
 **drumstick**  
 In name:   
@@ -183,8 +183,6 @@ In name:
   
 **beef**  
 In name:   
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Pepper Steak Stir Fry @ *Fired Up*  
@@ -193,11 +191,6 @@ In description:
 **pork**  
 In name:   
  - BBQ Pork Chop @ *1849*  
- - Pork & Beef Hard Salami @ *Delicious*  
-  
-In description:   
- - Bacon @ *Delicious*  
- - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   

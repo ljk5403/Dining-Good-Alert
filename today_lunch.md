@@ -1,6 +1,6 @@
 # 2026-08-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-29 12:30:37  
+Updated at: 2026-08-29 15:27:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-29)  
 **Shrimp**  
 In name:   
@@ -135,6 +135,7 @@ In description:
 **pork**  
 In name:   
  - BBQ Pork Sandwich @ *1849*  
+ - Pork Carnita @ *Gordon Que Rico*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
   
 **chicken**  
@@ -169,9 +170,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Chili @ *Great Greens*  
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
@@ -179,18 +177,14 @@ In description:
 **pork**  
 In name:   
  - Herb Crusted Pork Loin @ *Global Kitchen:  Available Between 11am-2pm*  
- - Pork & Beef Hard Salami @ *Delicious*  
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
-  
-In description:   
- - Bacon @ *Delicious*  
- - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   
  - Chicken Vindaloo @ *Carson's 1849:  Available Between 11am-2pm*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera:  Available Between 11am-2pm*  
  - Diced Chicken @ *Great Greens*  
+ - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
