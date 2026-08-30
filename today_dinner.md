@@ -1,6 +1,6 @@
 # 2026-08-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-29 17:59:17  
+Updated at: 2026-08-29 20:11:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-29)  
 **Bibimbap Bowl**  
 In name:   
@@ -19,12 +19,6 @@ In name:
 In name:   
  - Shrimp Po-Boy Sandwich @ *Fired Up*  
   
-**fish**  
-In name:   
-  
-In description:   
- - Thai BBQ Pork Ribs @ *1849*  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
@@ -39,11 +33,12 @@ In name:
  - Bibimbap Beef @ *Global Kitchen*  
   
 In description:   
+ - Sliced Kielbasa (Pork) @ *1849*  
  - Bibimbap Bowl @ *Global Kitchen*  
   
 **pork**  
 In name:   
- - Thai BBQ Pork Ribs @ *1849*  
+ - Sliced Kielbasa (Pork) @ *1849*  
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
   
 In description:   
@@ -63,12 +58,20 @@ In description:
 In name:   
  - Five Treasure Shrimp Lo Mein @ *1849*  
   
+**fish**  
+In name:   
+  
+In description:   
+ - Crab Rangoon @ *1849*  
+  
 **beef**  
 In name:   
+ - Beef Mediterranean @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 **pork**  
 In name:   
+ - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Kale, Sausage & Potato Soup @ *Great Greens*  
@@ -78,7 +81,6 @@ In name:
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Spicy Crispy Chicken Sandwich @ *Fired Up*  
  - Plant-Based Chicken Nuggets @ *Fired Up*  
- - Mediterranean Chicken @ *Global Kitchen*  
   
 In description:   
  - Kale, Sausage & Potato Soup @ *Great Greens*  
@@ -142,7 +144,6 @@ In description:
   
 **pork**  
 In name:   
- - Coffee Crusted Pork Loin @ *1849*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
   
 In description:   
@@ -150,6 +151,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Breast Con Pollo @ *1849*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Diced Chicken Breast @ *Buona Cucina*  
