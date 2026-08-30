@@ -1,6 +1,6 @@
 # 2026-08-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-30 06:19:22  
+Updated at: 2026-08-30 12:55:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-30)  
 **steak**  
 In name:   
@@ -39,6 +39,7 @@ In description:
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-08-30)  
 **beef**  
 In name:   
+ - Roast Beef & Cheddar Panini on Rye @ *Fired Up*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
@@ -48,23 +49,14 @@ In description:
 **pork**  
 In name:   
  - Pork Sausage Patties @ *1849*  
- - Chicken Supreme Sandwich w/ Bacon (Pork) @ *Fired Up*  
  - Pork Carnita @ *Que Rico*  
-  
-In description:   
- - Pizza Breakfast Meat w/Bacon @ *1849*  
   
 **chicken**  
 In name:   
- - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Chicken Supreme Sandwich w/ Bacon (Pork) @ *Fired Up*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Plant Based Chicken Strips @ *Global Kitchen*  
-  
-In description:   
- - Pizza Breakfast Meat w/Bacon @ *1849*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-08-30)  
 **Samosas**  
@@ -99,8 +91,6 @@ In description:
   
 **chicken**  
 In name:   
- - Popcorn Chicken @ *1849*  
- - Plant-Based Chicken Nuggets @ *1849*  
  - Butter Chicken @ *Global Kitchen*  
   
 In description:   
@@ -129,20 +119,20 @@ In description:
 **pork**  
 In name:   
  - Chicken Grilled Cordon Bleu (Pork) @ *1849*  
- - Biscuits & Pork Gravy @ *Eggcetera*  
+ - Biscuits & Pork Gravy @ *Global Kitchen*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
  - Chicken Grilled Cordon Bleu (Pork) @ *1849*  
+ - Chicken Tinga @ *Gordon Que Rico*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Diced Chicken Breast @ *Buona Cucina*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
   
 In description:   
- - Biscuits & Pork Gravy @ *Eggcetera*  
+ - Biscuits & Pork Gravy @ *Global Kitchen*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-08-30)  
@@ -154,7 +144,6 @@ In name:
 In name:   
   
 In description:   
- - Blended Hamburger @ *Fired Up:  Available Between 11am-2pm*  
  - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza*  
   
 **pork**  
@@ -166,10 +155,10 @@ In description:
   
 **chicken**  
 In name:   
- - Dan Dan w/ Chicken @ *Global Kitchen:  Available Between 11am-2pm*  
+ - Brown Stew w/ Chicken @ *Global Kitchen:  Available Between 11am-2pm*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera:  Available Between 11am-2pm*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Chili @ *Great Greens*  
+ - Lemon Chicken Rice Soup @ *Great Greens*  
   
 In description:   
  - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza*  
