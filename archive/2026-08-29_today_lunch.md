@@ -1,14 +1,10 @@
 # 2026-08-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-30 12:55:25  
+Updated at: 2026-08-30 15:38:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-30)  
 **steak**  
 In name:   
  - Philly Cheesesteak Sandwich @ *Fired Up*  
-  
-**curry**  
-In name:   
- - Squash Curry @ *1849*  
   
 **beef**  
 In name:   
@@ -31,12 +27,15 @@ In name:
  - Chicken Chili @ *Great Greens*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Fajita Chicken @ *Que Rico*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-08-30)  
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **beef**  
 In name:   
  - Roast Beef & Cheddar Panini on Rye @ *Fired Up*  
@@ -54,7 +53,6 @@ In name:
 **chicken**  
 In name:   
  - Chicken Chili @ *Great Greens*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Plant Based Chicken Strips @ *Global Kitchen*  
   
@@ -105,7 +103,7 @@ In description:
   
 **Shrimp**  
 In name:   
- - King's Hawaiian Sand PoBoy Shrimp @ *King's Hawaiian*  
+ - Fried Popcorn Shrimp @ *King's Hawaiian*  
   
 **beef**  
 In name:   
@@ -120,16 +118,17 @@ In description:
 In name:   
  - Chicken Grilled Cordon Bleu (Pork) @ *1849*  
  - Biscuits & Pork Gravy @ *Global Kitchen*  
- - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
+  
+In description:   
+ - Pizza Slice Sausage @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
  - Chicken Grilled Cordon Bleu (Pork) @ *1849*  
- - Chicken Tinga @ *Gordon Que Rico*  
+ - Taco Chicken @ *Gordon Que Rico*  
  - Diced Chicken @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Diced Chicken Breast @ *Buona Cucina*  
- - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
   
 In description:   
  - Biscuits & Pork Gravy @ *Global Kitchen*  

@@ -1,6 +1,6 @@
 # 2026-08-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-30 15:38:28  
+Updated at: 2026-08-30 18:12:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-30)  
 **lamb**  
 In name:   
@@ -55,9 +55,6 @@ In name:
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
-In description:   
- - Italian Meat Sauce @ *Global Kitchen*  
-  
 **pork**  
 In name:   
  - Pork Carnita @ *Que Rico*  
@@ -106,6 +103,7 @@ In description:
 **beef**  
 In name:   
  - Beef Pepper Steak Stir Fry w/Teriyaki @ *1849*  
+ - Beef Stew w/ Buttermilk Biscuit @ *1849*  
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
@@ -123,30 +121,37 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Pot Pie w/Biscuit @ *1849*  
  - Tikka Masala Chicken @ *Global Kitchen*  
+ - Butter Chicken @ *Global Kitchen*  
   
 In description:   
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-08-30)  
+**portabella**  
+In name:   
+  
+In description:   
+ - Portobello Mushroom Stroganoff @ *Global Kitchen*  
+  
 **drumstick**  
 In name:   
  - Chicken Drumstick Mango Habanero @ *1849*  
   
-**Tilapia**  
-In name:   
- - Island Spiced Tilapia @ *1849*  
-  
 **beef**  
 In name:   
  - Beef Taco Meat @ *Gordon Que Rico*  
+ - Beef Goulash w/Egg Noodles @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
 **pork**  
 In name:   
+ - BBQ Pork Chop @ *1849*  
+ - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
 In description:   
  - Pizza Slice Sausage @ *Capital City Pizza*  
@@ -154,11 +159,12 @@ In description:
 **chicken**  
 In name:   
  - Chicken Drumstick Mango Habanero @ *1849*  
+ - Chicken Tinga @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Diced Chicken Breast @ *Buona Cucina*  
   
 In description:   
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-08-30)  
 **Shrimp**  
