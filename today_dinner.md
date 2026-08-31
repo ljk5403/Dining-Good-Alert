@@ -1,11 +1,7 @@
 # 2026-08-31 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-31 14:50:13  
+Updated at: 2026-08-31 18:37:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-31)  
-**drumstick**  
-In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
-  
 **fish**  
 In name:   
   
@@ -37,7 +33,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
+ - Buffalo Chicken Wings Bone-In @ *1849*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
   
@@ -76,6 +72,7 @@ In name:
   
 In description:   
  - Appetizer -  Pakoras Vegetable (Veg) @ *Que Rico*  
+ - Tofu & Vegetable Tikka Masala @ *Que Rico*  
   
 **beef**  
 In name:   
@@ -114,6 +111,7 @@ In name:
   
 **pork**  
 In name:   
+ - Chicken Grilled Cordon Bleu (Pork) @ *1849*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
@@ -123,6 +121,7 @@ In description:
 **chicken**  
 In name:   
  - Chicken Shawarma Sandwich @ *1849*  
+ - Chicken Grilled Cordon Bleu (Pork) @ *1849*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-08-31)  
@@ -130,19 +129,14 @@ In name:
 In name:   
  - Blackened Shrimp @ *1849*  
   
-**fish**  
-In name:   
-  
-In description:   
- - Stir Fry Beef with Oyster Sauce @ *Global Kitchen*  
-  
 **beef**  
 In name:   
  - Beef Taco Meat @ *Gordon Que Rico*  
- - Stir Fry Beef with Oyster Sauce @ *Global Kitchen*  
+ - Beef Hot Dog @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
+ - Burnt Ends @ *1849*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  
@@ -154,9 +148,9 @@ In description:
   
 **chicken**  
 In name:   
- - Mediterranean Chicken @ *1849*  
+ - Butter Chicken @ *1849*  
  - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
- - King's Hawaiian Sand Chicken Spicy Crisp @ *King's Hawaiian*  
+ - Crispy Chicken Sandwich @ *King's Hawaiian*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   

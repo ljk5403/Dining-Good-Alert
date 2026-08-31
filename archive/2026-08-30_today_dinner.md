@@ -1,6 +1,6 @@
 # 2026-08-31 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-31 07:47:51  
+Updated at: 2026-08-31 14:50:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-31)  
 **drumstick**  
 In name:   
@@ -22,12 +22,13 @@ In name:
   
 **beef**  
 In name:   
+ - Traditional Beef Shepard's Pie @ *1849*  
  - Beef Ravioli Plain @ *Buona Cucina*  
  - Beef Carne Guisada @ *Que Rico*  
   
 **pork**  
 In name:   
- - Cajun Rice w/ Pork & Black Eyed Peas @ *1849*  
+ - Italian Pork Sausage @ *Buona Cucina*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
  - BBQ Pork Sandwich @ *Fired Up*  
   
@@ -38,7 +39,6 @@ In description:
 In name:   
  - Chicken Drumstick BBQ Glazed @ *1849*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
- - Diced Chicken Breast @ *Buona Cucina*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
   
 In description:   
@@ -106,12 +106,6 @@ In name:
 In name:   
  - Tuna Salad @ *Delicious*  
   
-**curry**  
-In name:   
-  
-In description:   
- - Build Your Own Green Dragon Bowl @ *Great Greens*  
-  
 **beef**  
 In name:   
  - Roast Beef @ *Delicious*  
@@ -141,10 +135,6 @@ In name:
   
 In description:   
  - Stir Fry Beef with Oyster Sauce @ *Global Kitchen*  
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
   
 **beef**  
 In name:   
@@ -194,7 +184,6 @@ In name:
   
 **chicken**  
 In name:   
- - Lemon Chicken Rice Soup @ *Great Greens*  
  - Chicken, Bacon, Jalapeno Pizza @ *Capital City Pizza*  
   
 In description:   

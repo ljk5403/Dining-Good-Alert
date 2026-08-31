@@ -1,6 +1,6 @@
 # 2026-08-31 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-31 07:47:45  
+Updated at: 2026-08-31 14:50:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-08-31)  
 **Tuna**  
 In name:   
@@ -11,6 +11,9 @@ In name:
  - Beef Goulash @ *1849*  
  - Beef Ravioli Plain @ *Buona Cucina*  
  - Beef Taco Meat @ *Que Rico*  
+  
+In description:   
+ - Halal Blended Burger @ *Fired Up*  
   
 **pork**  
 In name:   
@@ -80,12 +83,6 @@ In name:
 In name:   
  - Tuna Salad @ *Delicious*  
   
-**curry**  
-In name:   
-  
-In description:   
- - Build Your Own Green Dragon Bowl @ *Great Greens*  
-  
 **beef**  
 In name:   
  - Texas BBQ Sliced Beef Brisket @ *1849*  
@@ -115,18 +112,12 @@ In name:
 In name:   
  - Cod Nuggets @ *1849*  
   
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
-  
 **beef**  
 In name:   
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
- - King's Hawaiian Sand Sloppy Joe @ *King's Hawaiian*  
- - Vegan Sloppy Joe @ *King's Hawaiian*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  
@@ -141,6 +132,8 @@ In description:
 In name:   
  - Plant-Based Chicken & Gravy (VN) @ *1849*  
  - Chicken Sausage Patties @ *Gordon Eggcetera*  
+ - King's Hawaiian Sand Chicken Spicy Crisp @ *King's Hawaiian*  
+ - Plant-Based Chicken Nuggets @ *King's Hawaiian*  
  - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - General Tso's Chicken @ *Global Kitchen*  
@@ -175,7 +168,6 @@ In description:
 In name:   
  - Plant-Based Chicken & Gravy (VN) @ *Carson's 1849:  Available Between 11am-2pm*  
  - Chicken Pot Pie w/Biscuit @ *Carson's 1849:  Available Between 11am-2pm*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
  - Chicken, Bacon, Jalapeno Pizza @ *Capital City Pizza*  
   
 In description:   
