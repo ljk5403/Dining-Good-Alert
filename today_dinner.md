@@ -1,14 +1,9 @@
 # 2026-08-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-30 18:12:03  
+Updated at: 2026-08-30 22:52:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-08-30)  
-**lamb**  
-In name:   
- - Lamb & Beef Gyro Sandwich @ *Fired Up*  
-  
 **beef**  
 In name:   
- - Lamb & Beef Gyro Sandwich @ *Fired Up*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -27,6 +22,7 @@ In name:
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Crispy Chicken Sandwich @ *Fired Up*  
  - Plant Based Sweet & Sour Chicken @ *Global Kitchen*  
  - Sweet & Sour Chicken @ *Global Kitchen*  
  - Fajita Chicken @ *Que Rico*  
@@ -55,15 +51,12 @@ In name:
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
-**pork**  
-In name:   
- - Pork Carnita @ *Que Rico*  
-  
 **chicken**  
 In name:   
  - Chicken Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Plant Based Chicken Strips @ *Global Kitchen*  
+ - Taco Chicken @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-08-30)  
 **steak**  
@@ -135,9 +128,9 @@ In name:
 In description:   
  - Portobello Mushroom Stroganoff @ *Global Kitchen*  
   
-**drumstick**  
+**Filipino Pork Sausage**  
 In name:   
- - Chicken Drumstick Mango Habanero @ *1849*  
+ - Filipino Pork Sausage @ *1849*  
   
 **beef**  
 In name:   
@@ -151,6 +144,7 @@ In description:
 **pork**  
 In name:   
  - BBQ Pork Chop @ *1849*  
+ - Filipino Pork Sausage @ *1849*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
 In description:   
@@ -158,8 +152,9 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Drumstick Mango Habanero @ *1849*  
+ - Baked BBQ Chicken @ *1849*  
  - Chicken Tinga @ *Gordon Que Rico*  
+ - Chicken Tenders Breaded @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Diced Chicken Breast @ *Buona Cucina*  
   
