@@ -1,6 +1,6 @@
 # 2026-09-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-31 07:48:08  
+Updated at: 2026-08-31 14:50:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-02)  
 **fish**  
 In name:   
@@ -94,7 +94,6 @@ In name:
   
 In description:   
  - Lamb Vindaloo @ *Global Kitchen*  
- - Build Your Own Green Dragon Bowl @ *Great Greens*  
   
 **beef**  
 In name:   

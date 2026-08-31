@@ -1,6 +1,6 @@
 # 2026-09-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-31 07:48:14  
+Updated at: 2026-08-31 14:50:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-02)  
 **steak**  
 In name:   
@@ -81,7 +81,6 @@ In name:
 In description:   
  - Appetizer -  Pakoras Vegetable (Veg) @ *Global Kitchen*  
  - Tofu & Vegetable Tikka Masala @ *Global Kitchen*  
- - Build Your Own Green Dragon Bowl @ *Great Greens*  
   
 **beef**  
 In name:   
