@@ -1,6 +1,6 @@
 # 2026-09-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-08-31 18:37:57  
+Updated at: 2026-08-31 22:44:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-01)  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-09-01)  
 **Flauta**  
@@ -63,8 +63,6 @@ In description:
 In name:   
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - King's Hawaiian Sand Blended Burger SW @ *King's Hawaiian*  
@@ -73,11 +71,6 @@ In description:
 In name:   
  - BBQ Pork Chop @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
- - Pork & Beef Hard Salami @ *Delicious*  
-  
-In description:   
- - Bacon @ *Delicious*  
- - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   
