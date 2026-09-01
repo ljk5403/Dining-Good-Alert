@@ -1,6 +1,6 @@
 # 2026-09-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-01 06:09:40  
+Updated at: 2026-09-01 12:37:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-03)  
 **drumstick**  
 In name:   
@@ -10,15 +10,8 @@ In name:
 In name:   
   
 In description:   
- - Curried Pumpkin Soup @ *Great Greens*  
  - Chocolate Pumpkin Seed Bar - gcp @ *Buckingham Bakery*  
  - Tempura Roll (FujiSan) @ *Global Kitchen*  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Curried Pumpkin Soup @ *Great Greens*  
   
 **beef**  
 In name:   
@@ -37,7 +30,6 @@ In name:
 **chicken**  
 In name:   
  - Chicken Drumstick Szechuan Glazed @ *1849*  
- - Chicken Noodle Soup @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
@@ -78,9 +70,9 @@ In name:
  - Fish Tacos @ *Que Rico*  
   
 In description:   
+ - Chocolate Pumpkin Seed Bar - gcp @ *Buckingham Bakery*  
  - Curried Pumpkin Soup @ *Great Greens*  
  - Thai BBQ Pork Ribs @ *1849*  
- - Chocolate Pumpkin Seed Bar - gcp @ *Buckingham Bakery*  
   
 **Tuna**  
 In name:   
@@ -154,9 +146,21 @@ In name:
 In name:   
  - Shrimp Teriyaki Stir Fry @ *Global Kitchen*  
   
+**fish**  
+In name:   
+  
+In description:   
+ - Curried Pumpkin Soup @ *Great Greens*  
+  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
+  
+**curry**  
+In name:   
+  
+In description:   
+ - Curried Pumpkin Soup @ *Great Greens*  
   
 **beef**  
 In name:   
@@ -179,6 +183,7 @@ In description:
 In name:   
  - Blackened Chicken @ *1849*  
  - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
+ - Chicken Noodle Soup @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   

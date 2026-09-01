@@ -1,6 +1,6 @@
 # 2026-09-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-01 06:09:33  
+Updated at: 2026-09-01 12:37:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-02)  
 **steak**  
 In name:   
@@ -12,7 +12,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Chili @ *Great Greens*  
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
  - Lomo Saltado w/ Beef @ *Global Kitchen*  
@@ -122,6 +121,7 @@ In name:
  - Beef Alicha @ *1849*  
  - Plant-Based Beef Bean & Carrot Stir Fry @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
+ - Beef Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
