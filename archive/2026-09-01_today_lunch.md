@@ -1,6 +1,6 @@
 # 2026-09-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-02 12:36:33  
+Updated at: 2026-09-02 15:32:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-02)  
 **fish**  
 In name:   
@@ -33,6 +33,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Basque Style @ *1849*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Spicy Lo Mein w/Chicken @ *Global Kitchen*  
  - Chicken Tinga @ *Que Rico*  
@@ -112,6 +113,7 @@ In name:
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
+ - King's Hawaiian Sand Blended Burger @ *King's Hawaiian*  
  - Italian Meat Sauce @ *Buona Cucina*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
@@ -124,7 +126,6 @@ In description:
   
 **chicken**  
 In name:   
- - Plant-Based Chicken Lo Mein @ *1849*  
  - Chicken Gravy @ *1849*  
  - Chicken Sausage Patties @ *Gordon Eggcetera*  
  - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
