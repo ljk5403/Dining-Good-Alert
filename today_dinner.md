@@ -1,6 +1,6 @@
 # 2026-09-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-01 18:02:07  
+Updated at: 2026-09-01 22:03:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-01)  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-09-01)  
 **Flauta**  
@@ -76,13 +76,18 @@ In name:
  - BBQ Pork Chop @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
   
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
+  
 **chicken**  
 In name:   
  - Baked BBQ Chicken @ *1849*  
  - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
- - Chicken Dumpling Soup @ *Great Greens*  
  - Greek Chicken @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
+  
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-09-01)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-09-01)  
