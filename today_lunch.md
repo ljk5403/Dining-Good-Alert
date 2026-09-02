@@ -1,6 +1,6 @@
 # 2026-09-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-02 05:42:04  
+Updated at: 2026-09-02 12:36:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-02)  
 **fish**  
 In name:   
@@ -16,6 +16,7 @@ In name:
 In name:   
  - Beef Harissa w/Couscous @ *1849*  
  - Beef Chili @ *Great Greens*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
  - Beef Fajita Meat @ *Que Rico*  
@@ -23,7 +24,6 @@ In name:
   
 **pork**  
 In name:   
- - Italian Pork Sausage @ *Buona Cucina*  
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
@@ -33,6 +33,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Spicy Lo Mein w/Chicken @ *Global Kitchen*  
  - Chicken Tinga @ *Que Rico*  
   
@@ -52,18 +53,11 @@ In name:
 In name:   
  - Beef Chili @ *Great Greens*  
  - Beef Sirloin Tips @ *1849*  
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
  - Beef Bean & Carrot Stir Fry @ *Global Kitchen*  
   
 **pork**  
 In name:   
  - BBQ Pork Chop @ *1849*  
- - Pork & Beef Hard Salami @ *Delicious*  
-  
-In description:   
- - Bacon @ *Delicious*  
- - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -98,17 +92,7 @@ In description:
 **beef**  
 In name:   
  - Beef Harissa @ *1849*  
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
  - Beef Chili @ *Great Greens*  
-  
-**pork**  
-In name:   
- - Pork & Beef Hard Salami @ *Delicious*  
-  
-In description:   
- - Bacon @ *Delicious*  
- - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -120,21 +104,12 @@ In name:
 In name:   
  - Baked Tilapia w/Dill Wine Sauce @ *1849*  
   
-**fish**  
-In name:   
-  
-In description:   
- - California Roll  (FujiSan) @ *Global Kitchen*  
- - Tempura Roll (FujiSan) @ *Global Kitchen*  
-  
 **beef**  
 In name:   
  - Beef Harissa w/Couscous @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Italian Meat Sauce @ *Buona Cucina*  
@@ -143,12 +118,9 @@ In description:
 **pork**  
 In name:   
  - Italian Pork Sausage @ *Buona Cucina*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
- - Bacon @ *Delicious*  
  - Pizza Slice Sausage @ *Capital City Pizza*  
- - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -158,7 +130,7 @@ In name:
  - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
  - Orange Sweet & Spicy Chicken @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Naan Pizza - BBQ Chicken @ *Capital City Pizza*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  

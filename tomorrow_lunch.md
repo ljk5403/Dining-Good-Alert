@@ -1,6 +1,6 @@
 # 2026-09-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-02 05:42:11  
+Updated at: 2026-09-02 12:36:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-03)  
 **fish**  
 In name:   
@@ -123,8 +123,6 @@ In description:
   
 **beef**  
 In name:   
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Philly Cheesesteak Sandwich @ *Global Kitchen*  
@@ -132,11 +130,6 @@ In description:
 **pork**  
 In name:   
  - Biscuits & Pork Gravy @ *1849*  
- - Pork & Beef Hard Salami @ *Delicious*  
-  
-In description:   
- - Bacon @ *Delicious*  
- - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   

@@ -1,6 +1,6 @@
 # 2026-09-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-02 05:42:21  
+Updated at: 2026-09-02 12:36:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-04)  
 **Bibimbap Bowl**  
 In name:   
@@ -105,15 +105,6 @@ In name:
 **beef**  
 In name:   
  - Beef Masaman Thai Curry @ *1849*  
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
-  
-**pork**  
-In name:   
- - Pork & Beef Hard Salami @ *Delicious*  
-  
-In description:   
- - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   

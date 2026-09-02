@@ -1,6 +1,6 @@
 # 2026-09-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-02 05:42:18  
+Updated at: 2026-09-02 12:36:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-04)  
 **Shrimp**  
 In name:   
@@ -103,18 +103,11 @@ In name:
   
 **beef**  
 In name:   
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
  - Beef Taco Meat @ *Global Kitchen*  
   
 **pork**  
 In name:   
- - Pork & Beef Hard Salami @ *Delicious*  
  - Pork Carnita @ *Global Kitchen*  
-  
-In description:   
- - Bacon @ *Delicious*  
- - Smoked Ham @ *Delicious*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-09-04)  
 **Tandoori Chicken**  
