@@ -1,6 +1,6 @@
 # 2026-09-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-02 05:42:08  
+Updated at: 2026-09-02 12:36:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-02)  
 **steak**  
 In name:   
@@ -43,17 +43,10 @@ In name:
 **beef**  
 In name:   
  - Beef Chili @ *Great Greens*  
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 **pork**  
 In name:   
- - Pork & Beef Hard Salami @ *Delicious*  
  - Pork & Broccoli Stir Fry @ *Global Kitchen*  
-  
-In description:   
- - Bacon @ *Delicious*  
- - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -83,17 +76,7 @@ In description:
   
 **beef**  
 In name:   
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
  - Beef Chili @ *Great Greens*  
-  
-**pork**  
-In name:   
- - Pork & Beef Hard Salami @ *Delicious*  
-  
-In description:   
- - Bacon @ *Delicious*  
- - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -123,8 +106,6 @@ In name:
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Roast Beef @ *Delicious*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
@@ -133,20 +114,16 @@ In description:
 **pork**  
 In name:   
  - Italian Pork Sausage @ *Buona Cucina*  
- - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - King's Hawaiian Ham and Swiss Slider @ *King's Hawaiian*  
  - Pizza Slice Sausage @ *Capital City Pizza*  
- - Bacon @ *Delicious*  
- - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   
  - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
  - General Tso's Chicken @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  

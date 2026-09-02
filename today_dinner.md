@@ -1,6 +1,6 @@
 # 2026-09-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-02 12:36:36  
+Updated at: 2026-09-02 15:32:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-02)  
 **steak**  
 In name:   
@@ -12,6 +12,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
  - Lomo Saltado w/ Beef @ *Global Kitchen*  
@@ -21,7 +22,6 @@ In description:
   
 **pork**  
 In name:   
- - Italian Pork Sausage @ *Buona Cucina*  
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
  - Pork & Beef Hard Salami @ *Delicious*  
   
@@ -31,6 +31,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
  - BYO Bar - Mac & Cheese @ *1849*  
@@ -46,6 +47,7 @@ In name:
   
 **pork**  
 In name:   
+ - BBQ Pork Chop @ *1849*  
  - Pork & Broccoli Stir Fry @ *Global Kitchen*  
   
 **chicken**  
