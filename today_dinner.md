@@ -1,6 +1,6 @@
 # 2026-09-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-03 12:32:07  
+Updated at: 2026-09-03 15:32:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-03)  
 **drumstick**  
 In name:   
@@ -129,10 +129,6 @@ In name:
  - Chicken Noodle Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-09-03)  
-**Shrimp**  
-In name:   
- - Shrimp Teriyaki Stir Fry @ *Global Kitchen*  
-  
 **fish**  
 In name:   
   
@@ -148,6 +144,7 @@ In name:
   
 In description:   
  - Curried Pumpkin Soup @ *Great Greens*  
+ - Chicken Madras w/naan @ *Global Kitchen*  
   
 **beef**  
 In name:   
@@ -171,6 +168,7 @@ In name:
  - Blackened Chicken @ *1849*  
  - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
  - Chicken Noodle Soup @ *Great Greens*  
+ - Chicken Madras w/naan @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   

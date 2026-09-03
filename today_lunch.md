@@ -1,6 +1,6 @@
 # 2026-09-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-03 12:31:46  
+Updated at: 2026-09-03 15:32:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-03)  
 **fish**  
 In name:   
@@ -22,13 +22,14 @@ In name:
  - Mediterranean Beef @ *Que Rico*  
   
 In description:   
+ - Pork Jaeger Schnitzel Plate @ *1849*  
  - Italian Meat Sauce @ *Buona Cucina*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - BBQ Brisket Sandwich @ *Fired Up*  
   
 **pork**  
 In name:   
- - Apple Cider Braised Pork @ *1849*  
+ - Pork Jaeger Schnitzel Plate @ *1849*  
   
 **chicken**  
 In name:   
@@ -39,7 +40,6 @@ In name:
  - Mediterranean Chicken @ *Que Rico*  
   
 In description:   
- - Apple Cider Braised Pork @ *1849*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-09-03)  
@@ -144,10 +144,6 @@ In description:
 In name:   
  - Fried Popcorn Shrimp @ *1849*  
   
-**lamb**  
-In name:   
- - Lamb & Beef Gyro Sandwich @ *Global Kitchen*  
-  
 **fish**  
 In name:   
   
@@ -170,11 +166,10 @@ In description:
 **beef**  
 In name:   
  - King's Hawaiian Sand Beef w/ Peach BBQ @ *King's Hawaiian*  
- - Lamb & Beef Gyro Sandwich @ *Global Kitchen*  
+ - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
- - Burnt Ends @ *Gordon Que Rico*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  
@@ -191,7 +186,9 @@ In name:
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
  - Chicken Noodle Soup @ *Great Greens*  
+ - Chicken Shawarma Sandwich @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Naan Pizza - BBQ Chicken @ *Capital City Pizza*  
   
 In description:   
  - Pork Sausage Country Gravy w/ Biscuit @ *Gordon Eggcetera*  
@@ -218,7 +215,6 @@ In name:
   
 In description:   
  - Chana Saag w/ Tofu @ *Carson's 1849:  Available Between 11am-2pm*  
- - Tikka Masala Chicken @ *Carson's 1849:  Available Between 11am-2pm*  
  - Curried Pumpkin Soup @ *Great Greens*  
   
 **beef**  
@@ -229,16 +225,17 @@ In description:
   
 **pork**  
 In name:   
+ - Ancho Braised Pork @ *Carson's 1849:  Available Between 11am-2pm*  
  - Jerk Pork Chop @ *Global Kitchen:  Available Between 11am-2pm*  
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
- - Tikka Masala Chicken @ *Carson's 1849:  Available Between 11am-2pm*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera:  Available Between 11am-2pm*  
  - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
+ - Ancho Braised Pork @ *Carson's 1849:  Available Between 11am-2pm*  
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-09-03)  
