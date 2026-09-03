@@ -1,24 +1,20 @@
 # 2026-09-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-02 17:59:06  
+Updated at: 2026-09-02 20:03:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-02)  
-**steak**  
-In name:   
- - Smothered Steak Burrito @ *Que Rico*  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
   
+**Chicken Tamale with Oaxaca**  
+In name:   
+ - Chicken Tamale with Oaxaca @ *Que Rico*  
+  
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Roast Beef @ *Delicious*  
  - Pork & Beef Hard Salami @ *Delicious*  
  - Lomo Saltado w/ Beef @ *Global Kitchen*  
-  
-In description:   
- - Smothered Steak Burrito @ *Que Rico*  
   
 **pork**  
 In name:   
@@ -31,7 +27,9 @@ In description:
   
 **chicken**  
 In name:   
- - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Plant Based Chicken Strips @ *Buona Cucina*  
+ - Diced Chicken Breast @ *Buona Cucina*  
+ - Chicken Tamale with Oaxaca @ *Que Rico*  
   
 In description:   
  - BYO Bar - Mac & Cheese @ *1849*  
@@ -43,12 +41,11 @@ In name:
   
 **beef**  
 In name:   
- - Beef Chili @ *Great Greens*  
+ - Beef Bean & Carrot Stir Fry @ *Global Kitchen*  
   
 **pork**  
 In name:   
  - BBQ Pork Chop @ *1849*  
- - Pork & Broccoli Stir Fry @ *Global Kitchen*  
   
 **chicken**  
 In name:   
@@ -86,17 +83,13 @@ In name:
  - Butter Chicken @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-09-02)  
-**Beef Alicha**  
-In name:   
- - Beef Alicha @ *1849*  
-  
 **Cod**  
 In name:   
- - Caribbean Cod @ *1849*  
+ - Cod Nuggets @ *1849*  
   
 **beef**  
 In name:   
- - Beef Alicha @ *1849*  
+ - Beef Harissa @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  

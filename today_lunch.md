@@ -1,6 +1,6 @@
 # 2026-09-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-02 17:59:03  
+Updated at: 2026-09-02 20:03:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-02)  
 **fish**  
 In name:   
@@ -52,7 +52,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Chili @ *Great Greens*  
  - Beef Sirloin Tips @ *1849*  
  - Beef Bean & Carrot Stir Fry @ *Global Kitchen*  
   
