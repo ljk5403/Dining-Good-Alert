@@ -1,6 +1,6 @@
 # 2026-09-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-03 15:32:36  
+Updated at: 2026-09-03 17:59:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-03)  
 **drumstick**  
 In name:   
@@ -149,7 +149,6 @@ In description:
 **beef**  
 In name:   
  - Beef Taco Meat @ *Gordon Que Rico*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
  - King's Hawaiian Sand Italian Meatball @ *King's Hawaiian*  
@@ -169,7 +168,7 @@ In name:
  - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
  - Chicken Noodle Soup @ *Great Greens*  
  - Chicken Madras w/naan @ *Global Kitchen*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Italian Chicken @ *Buona Cucina*  
   
 In description:   
  - King's Hawaiian Sand Italian Meatball @ *King's Hawaiian*  

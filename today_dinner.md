@@ -1,6 +1,6 @@
 # 2026-09-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-03 17:59:11  
+Updated at: 2026-09-03 19:54:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-03)  
 **drumstick**  
 In name:   
@@ -129,8 +129,17 @@ In name:
  - Chicken Noodle Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-09-03)  
+**drumstick**  
+In name:   
+ - Chicken Drumstick BBQ Glazed @ *Global Kitchen*  
+  
+**catfish**  
+In name:   
+ - Blackened Catfish @ *1849*  
+  
 **fish**  
 In name:   
+ - Blackened Catfish @ *1849*  
   
 In description:   
  - Curried Pumpkin Soup @ *Great Greens*  
@@ -144,11 +153,11 @@ In name:
   
 In description:   
  - Curried Pumpkin Soup @ *Great Greens*  
- - Chicken Madras w/naan @ *Global Kitchen*  
   
 **beef**  
 In name:   
  - Beef Taco Meat @ *Gordon Que Rico*  
+ - Beef Harissa @ *Global Kitchen*  
   
 In description:   
  - King's Hawaiian Sand Italian Meatball @ *King's Hawaiian*  
@@ -164,10 +173,9 @@ In description:
   
 **chicken**  
 In name:   
- - Blackened Chicken @ *1849*  
  - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
  - Chicken Noodle Soup @ *Great Greens*  
- - Chicken Madras w/naan @ *Global Kitchen*  
+ - Chicken Drumstick BBQ Glazed @ *Global Kitchen*  
  - Italian Chicken @ *Buona Cucina*  
   
 In description:   
