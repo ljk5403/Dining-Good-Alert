@@ -1,6 +1,6 @@
 # 2026-09-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-04 12:22:22  
+Updated at: 2026-09-04 15:19:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-04)  
 **Bibimbap Bowl**  
 In name:   
@@ -24,7 +24,7 @@ In name:
  - Bibimbap Beef @ *Global Kitchen*  
   
 In description:   
- - Burnt Ends @ *1849*  
+ - AUSTIN BLUES Chopped Brisket @ *1849*  
  - Bibimbap Bowl @ *Global Kitchen*  
   
 **pork**  
@@ -61,21 +61,23 @@ In name:
   
 **beef**  
 In name:   
- - Beef @ *Global Kitchen*  
+ - Empanada Beef Picadillo @ *Que Rico*  
   
 In description:   
- - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Que Rico*  
+ - Knockwurst @ *Global Kitchen*  
   
 **pork**  
 In name:   
  - New Orleans Turkey Melt w/ Pork @ *Fired Up*  
- - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Que Rico*  
+  
+In description:   
+ - Knockwurst @ *Global Kitchen*  
   
 **chicken**  
 In name:   
   
 In description:   
- - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Que Rico*  
+ - Empanada Beef Picadillo @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-09-04)  
 **mahi mahi**  
