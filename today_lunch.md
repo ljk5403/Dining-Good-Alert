@@ -1,6 +1,6 @@
 # 2026-09-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-04 12:22:20  
+Updated at: 2026-09-04 15:19:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-04)  
 **Shrimp**  
 In name:   
@@ -34,7 +34,6 @@ In name:
   
 **chicken**  
 In name:   
- - Baked BBQ Chicken @ *1849*  
  - Diced Chicken Breast @ *Buona Cucina*  
  - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
  - Fajita Chicken @ *Que Rico*  
