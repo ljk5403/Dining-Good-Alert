@@ -1,15 +1,11 @@
 # 2026-09-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-04 17:47:10  
+Updated at: 2026-09-04 19:37:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-04)  
 **Bibimbap Bowl**  
 In name:   
  - Bibimbap Bowl @ *Global Kitchen*  
  - Bibimbap Bowl  Veggies @ *Global Kitchen*  
-  
-**Flauta**  
-In name:   
- - Chicken and Cheese Flauta @ *Que Rico*  
   
 **Shrimp**  
 In name:   
@@ -21,14 +17,15 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Tortellini @ *Buona Cucina*  
  - Bibimbap Beef @ *Global Kitchen*  
   
 In description:   
- - AUSTIN BLUES Chopped Brisket @ *1849*  
  - Bibimbap Bowl @ *Global Kitchen*  
   
 **pork**  
 In name:   
+ - Pork Belly Char Sui @ *1849*  
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
   
 **chicken**  
@@ -36,20 +33,34 @@ In name:
  - BBQ Chicken Wings Bone-In @ *1849*  
  - Popcorn Chicken @ *1849*  
  - Diced Chicken Breast @ *Buona Cucina*  
- - Chicken and Cheese Flauta @ *Que Rico*  
+ - Chicken Tinga @ *Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-09-04)  
+**Vanilla Coconut Milk Yogurt**  
+In name:   
+ - Vanilla Coconut Milk Yogurt @ *Great Greens*  
+  
+**Flauta**  
+In name:   
+ - Shredded Beef Flauta @ *Que Rico*  
+  
 **Poke Bar**  
 In name:   
  - Build Your Own Poke Bar @ *Create-A-Bowl*  
   
-**Salmon**  
+**lamb**  
 In name:   
- - Blackened Salmon @ *1849*  
+ - Lamb Vindaloo @ *1849*  
   
 **clam**  
 In name:   
  - Clam Chowder @ *Great Greens*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Chocolate Pumpkin Seed Bar - gcp @ *Buckingham Bakery*  
   
 **Tuna**  
 In name:   
@@ -59,24 +70,27 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**beef**  
+**curry**  
 In name:   
- - Empanada Beef Picadillo @ *Que Rico*  
   
 In description:   
- - Knockwurst @ *Global Kitchen*  
+ - Lamb Vindaloo @ *1849*  
+  
+**beef**  
+In name:   
+ - Beef Hot Dog @ *Fired Up*  
+ - Beef Goulash @ *Global Kitchen*  
+ - Shredded Beef Flauta @ *Que Rico*  
   
 **pork**  
 In name:   
-  
-In description:   
- - Knockwurst @ *Global Kitchen*  
+ - Italian Pork Sausage @ *Global Kitchen*  
   
 **chicken**  
 In name:   
   
 In description:   
- - Empanada Beef Picadillo @ *Que Rico*  
+ - Shredded Beef Flauta @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-09-04)  
 **mahi mahi**  
@@ -114,14 +128,10 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken Wings Bone-In Plain @ *1849*  
+ - Butter Chicken @ *1849*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-09-04)  
-**steak**  
-In name:   
- - Tempeh Philly Cheesesteak Sandwich @ *King's Hawaiian*  
-  
 **Tilapia**  
 In name:   
  - Lemon Grass Tilapia @ *1849*  
@@ -139,13 +149,11 @@ In name:
 In name:   
  - Lentil Chickpea Red Curry @ *Global Kitchen*  
   
-In description:   
- - Tikka Masala Chicken @ *Global Kitchen*  
-  
 **beef**  
 In name:   
  - Texas BBQ Sliced Beef Brisket @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
+ - Beef Stroganoff Creamy - UM (AYCTE) w/o @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
@@ -161,7 +169,6 @@ In description:
 **chicken**  
 In name:   
  - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
- - Tikka Masala Chicken @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   

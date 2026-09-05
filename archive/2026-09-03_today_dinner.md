@@ -1,6 +1,6 @@
 # 2026-09-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-04 15:19:13  
+Updated at: 2026-09-04 17:47:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-04)  
 **Bibimbap Bowl**  
 In name:   
@@ -68,7 +68,6 @@ In description:
   
 **pork**  
 In name:   
- - New Orleans Turkey Melt w/ Pork @ *Fired Up*  
   
 In description:   
  - Knockwurst @ *Global Kitchen*  
@@ -83,6 +82,10 @@ In description:
 **mahi mahi**  
 In name:   
  - Coconut Thai Curry Mahi Mahi @ *1849*  
+  
+**Cod**  
+In name:   
+ - Lemon Pepper Cod Fillet @ *1849*  
   
 **clam**  
 In name:   
@@ -111,6 +114,7 @@ In name:
   
 **chicken**  
 In name:   
+ - Chicken Wings Bone-In Plain @ *1849*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-09-04)  
@@ -133,10 +137,10 @@ In name:
   
 **curry**  
 In name:   
+ - Lentil Chickpea Red Curry @ *Global Kitchen*  
   
 In description:   
  - Tikka Masala Chicken @ *Global Kitchen*  
- - Tofu & Vegetable Tikka Masala @ *Global Kitchen*  
   
 **beef**  
 In name:   
