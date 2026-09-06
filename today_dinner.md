@@ -1,16 +1,11 @@
 # 2026-09-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-05 18:35:04  
+Updated at: 2026-09-05 22:06:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-05)  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-09-05)  
 **portabella**  
 In name:   
  - Portabella Mushroom Ravioli Plain @ *Global Kitchen*  
-  
-**Bulgogi**  
-In name:   
- - Bulgogi Beef @ *1849*  
- - Bulgogi Chicken @ *1849*  
   
 **Tuna**  
 In name:   
@@ -19,7 +14,6 @@ In name:
   
 **beef**  
 In name:   
- - Bulgogi Beef @ *1849*  
  - Beef Taco Meat @ *Que Rico*  
   
 **pork**  
@@ -31,10 +25,8 @@ In description:
 **chicken**  
 In name:   
  - General Tso's Chicken @ *1849*  
- - Bulgogi Chicken @ *1849*  
  - Chicken Tenders Breaded @ *Fired Up*  
  - Plant-Based Chicken Nuggets @ *Fired Up*  
- - Naan Pizza - BBQ Chicken @ *Global Kitchen*  
  - Giardiniera Chicken @ *Global Kitchen*  
  - Taco Chicken @ *Que Rico*  
   
