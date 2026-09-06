@@ -1,6 +1,6 @@
 # 2026-09-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-06 05:19:15  
+Updated at: 2026-09-06 11:42:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-06)  
 **beef**  
 In name:   
@@ -83,7 +83,7 @@ In description:
 In name:   
  - Plant-Based Chicken Etouffee @ *1849*  
  - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
- - Chicken Sausage Patties @ *Eggcetera*  
+ - Halal Chicken Sausage Link @ *Eggcetera*  
  - Chicken Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
@@ -102,6 +102,7 @@ In description:
 **pork**  
 In name:   
  - Pork Miso w/Yakisoba Noodles @ *Global Kitchen:  Available Between 11am-2pm*  
+ - Pork Sausage Links @ *Eggcetera:  Available Between 11am-2pm*  
   
 In description:   
  - Pizza Slice Sausage & Mushroom @ *Capital City Pizza*  
