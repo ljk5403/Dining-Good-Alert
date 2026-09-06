@@ -1,19 +1,17 @@
 # 2026-09-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-06 13:51:06  
+Updated at: 2026-09-06 16:57:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-06)  
-**lamb**  
-In name:   
-  
-In description:   
- - Rogan Josh @ *Global Kitchen*  
-  
 **curry**  
 In name:   
  - Curry Cauliflower & Butternut Squash @ *Global Kitchen*  
   
+In description:   
+ - Chicken Tikka Masala @ *Global Kitchen*  
+  
 **beef**  
 In name:   
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -22,20 +20,20 @@ In description:
   
 **pork**  
 In name:   
- - Boneless Baked Pork Ham @ *1849*  
- - Italian Pork Sausage @ *Buona Cucina*  
  - Pork Carnita @ *Que Rico*  
   
 **chicken**  
 In name:   
  - Chicken & Vegetables w/Dijon Vinaigrette @ *1849*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Plant Based Chicken Strips @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
+ - Chicken Tikka Masala @ *Global Kitchen*  
  - Fajita Chicken @ *Que Rico*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
- - Rogan Josh @ *Global Kitchen*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-09-06)  
 **steak**  
@@ -64,10 +62,12 @@ In name:
 In description:   
  - Brazilian Flank Steak @ *1849*  
  - Polish Combo Blended Cheeseburger (Pork) @ *Fired Up*  
+ - Corn Dog (Pork) @ *Fired Up*  
   
 **pork**  
 In name:   
  - Polish Combo Blended Cheeseburger (Pork) @ *Fired Up*  
+ - Corn Dog (Pork) @ *Fired Up*  
  - Pork Carnita @ *Que Rico*  
   
 **chicken**  
@@ -75,6 +75,9 @@ In name:
  - Chicken Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Plant Based Chicken Strips @ *Global Kitchen*  
+  
+In description:   
+ - Corn Dog (Pork) @ *Fired Up*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-09-06)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-09-06)  

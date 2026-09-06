@@ -1,6 +1,6 @@
 # 2026-09-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-06 13:51:02  
+Updated at: 2026-09-06 16:57:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-06)  
 **beef**  
 In name:   
@@ -36,17 +36,23 @@ In name:
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
+In description:   
+ - Corn Dog (Pork) @ *Fired Up*  
+  
 **pork**  
 In name:   
  - Pork Sausage Links @ *1849*  
+ - Corn Dog (Pork) @ *Fired Up*  
  - Pork Carnita @ *Que Rico*  
   
 **chicken**  
 In name:   
  - Chicken Chili @ *Great Greens*  
  - Sausage Links Chicken (halal) (AYCTE) @ *1849*  
- - Grilled Chicken Sandwich @ *Fired Up*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
+  
+In description:   
+ - Corn Dog (Pork) @ *Fired Up*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-09-06)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-09-06)  
