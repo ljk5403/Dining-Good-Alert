@@ -1,88 +1,168 @@
-# 2026-09-07 lunch  
+# 2026-09-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-05 22:06:49  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-07)  
-**Tuna**  
+Updated at: 2026-09-06 05:19:20  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-08)  
+**portabella**  
 In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
+ - Portabella Mushroom Ravioli Plain @ *Buona Cucina*  
+  
+**Shrimp**  
+In name:   
+ - Shrimp Curry - Mango @ *Global Kitchen*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
+  
+**curry**  
+In name:   
+ - Shrimp Curry - Mango @ *Global Kitchen*  
+ - Curry Mango - Tofu @ *Global Kitchen*  
   
 **beef**  
 In name:   
- - Beef Hot Dog @ *Fired Up*  
- - Beef Taco Meat @ *Que Rico*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Beef Mediterranean @ *Que Rico*  
   
 In description:   
- - Kielbasa with Pierogis @ *1849*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Grilled Blended Burger w/ Cheese @ *Fired Up*  
   
 **pork**  
 In name:   
- - Italian Pork Sausage @ *Buona Cucina*  
- - Pizza Slice BBQ Pulled Pork @ *Capital City Pizza*  
+ - Pork Spicy Citrus w/Bl Beans & Rice @ *1849*  
   
 In description:   
- - Kielbasa with Pierogis @ *1849*  
- - Pizza Slice Sausage @ *Capital City Pizza*  
+ - Italian Sausage w/ Pepper & Onions @ *Fired Up*  
   
 **chicken**  
 In name:   
+ - Honey Mustard Chicken & Vegetables @ *1849*  
  - Diced Chicken @ *Great Greens*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
- - Crispy Chicken Sandwich @ *Fired Up*  
- - Chicken Teriyaki Stir Fry @ *Global Kitchen*  
- - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
- - Chicken Tinga @ *Que Rico*  
-  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-09-07)  
-**portabella**  
-In name:   
- - Portabella Mushroom Ravioli Plain @ *Global Kitchen*  
-  
-**drumstick**  
-In name:   
+ - Chicken Dumpling Soup @ *Great Greens*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Plant Based Chicken Strips @ *Buona Cucina*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Mediterranean Chicken @ *Que Rico*  
   
 In description:   
- - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
+ - Pork Spicy Citrus w/Bl Beans & Rice @ *1849*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-09-08)  
+**broccoli rabe**  
+In name:   
+ - Broccoli Rabe @ *1849*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
+  
+**beef**  
+In name:   
+ - Mediterranean Beef @ *Create-A-Bowl*  
+ - Beef Harissa @ *1849*  
+ - Beef Taco Meat @ *Que Rico*  
+  
+In description:   
+ - Grilled Blended Burger w/ Cheese @ *Fired Up*  
+  
+**pork**  
+In name:   
+ - Ancho Braised Pork @ *Que Rico*  
+  
+**chicken**  
+In name:   
+ - Mediterranean Chicken @ *Create-A-Bowl*  
+ - Diced Chicken @ *Great Greens*  
+ - Chicken Dumpling Soup @ *Great Greens*  
+ - Chicken Piece Seasoned Baked @ *1849*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Italian Chicken @ *Global Kitchen*  
+  
+In description:   
+ - Ancho Braised Pork @ *Que Rico*  
+  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-09-08)  
 **Salmon**  
 In name:   
- - Smoked Salmon @ *1849*  
+ - Salmon Philly Roll (FujiSan) @ *Global Kitchen*  
+ - Salmon Spicy Roll (FujiSan) @ *Global Kitchen*  
+  
+**Tilapia**  
+In name:   
+ - Tilapia Chipotle Lime Crusted @ *Global Kitchen*  
   
 **fish**  
 In name:   
   
 In description:   
- - California Roll  (FujiSan) @ *Create-A-Bowl*  
- - Tempura Roll (FujiSan) @ *Create-A-Bowl*  
-  
-**Pakoras**  
-In name:   
- - Appetizer -  Pakoras Vegetable (Veg) @ *Que Rico*  
+ - Salmon Spicy Roll (FujiSan) @ *Global Kitchen*  
   
 **curry**  
 In name:   
- - Seitan & Coconut Thai Curry @ *1849*  
- - Curry Potatoes @ *Que Rico*  
- - Vegetable Coconut Curry w/Rice @ *Que Rico*  
   
 In description:   
- - Appetizer -  Pakoras Vegetable (Veg) @ *Que Rico*  
+ - Cauliflower Masala Taco @ *1849*  
+ - Chana Saag w/ Tofu @ *Global Kitchen*  
   
-**pork**  
+**beef**  
 In name:   
- - Italian Pork Sausage @ *Global Kitchen*  
-  
-In description:   
- - Grilled Turkey Bacon Club Sandwich @ *Fired Up*  
+ - Beef Chimichurri Taco @ *1849*  
   
 **chicken**  
 In name:   
- - Diced Chicken @ *Great Greens*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
- - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Butter Chicken @ *Que Rico*  
+ - Diced Chicken @ *Great Greens*  
+ - Chicken Dumpling Soup @ *Great Greens*  
   
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-09-07)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-09-08)  
+**steak**  
+In name:   
+ - Grilled Flank Steak @ *1849*  
+  
+**haddock**  
+In name:   
+ - Baked Haddock w/Butter & Lemon @ *1849*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
+  
+**beef**  
+In name:   
+ - Beef Taco Meat @ *Gordon Que Rico*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+  
+In description:   
+ - Grilled Flank Steak @ *1849*  
+ - King's Hawaiian Sand Blended Burger @ *King's Hawaiian*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
+  
+**pork**  
+In name:   
+ - Pork Carnita @ *Gordon Que Rico*  
+  
+In description:   
+ - Ham and Veg Spicy Hawaiian Stiry Fry @ *Global Kitchen*  
+  
+**chicken**  
+In name:   
+ - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
+ - Diced Chicken @ *Great Greens*  
+ - Chicken Dumpling Soup @ *Great Greens*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Italian Chicken @ *Buona Cucina*  
+ - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
+  
+In description:   
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
+  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-09-08)  
+**Shrimp**  
+In name:   
+ - Brazillian Shrimp in Coconut Sauce @ *Global Kitchen:  Available Between 11am-2pm*  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -91,104 +171,33 @@ In name:
 In name:   
   
 In description:   
- - Coconut Vegetable Stew @ *1849*  
+ - Coconut Vegetable Stew @ *Global Kitchen:  Available Between 11am-2pm*  
   
 **beef**  
 In name:   
- - Beef Stew w/ Buttermilk Biscuit @ *1849*  
+ - Beef Quesadilla @ *Fired Up:  Available Between 11am-2pm*  
   
 In description:   
- - Baked Corn Dog (Pork) @ *1849*  
-  
-**pork**  
-In name:   
- - Baked Corn Dog (Pork) @ *1849*  
-  
-**chicken**  
-In name:   
- - Lemon Pepper Chicken Salad @ *Delicious*  
- - Chicken Parmesan Sandwich @ *Global Kitchen*  
- - Diced Chicken @ *Great Greens*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
-  
-In description:   
- - Baked Corn Dog (Pork) @ *1849*  
-  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-09-07)  
-**Salmon**  
-In name:   
- - Baked Salmon with Mustard Sauce @ *1849*  
-  
-**beef**  
-In name:   
- - Beef Sirloin Tips @ *1849*  
- - Beef Taco Meat @ *Gordon Que Rico*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
-  
-In description:   
- - Italian Meatball Sandwich @ *King's Hawaiian*  
+ - Nacho Sheet Tray @ *Fired Up:  Available Between 11am-2pm*  
+ - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  
 In name:   
- - Pork Carnita @ *Gordon Que Rico*  
+ - Pork Sausage Links @ *Eggcetera:  Available Between 11am-2pm*  
+ - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
- - Chicken Sausage Patties @ *Gordon Eggcetera*  
+ - Chicken Wings Boneless Plain @ *Carson's 1849:  Available Between 11am-2pm*  
+ - Plant-Based Chicken Nuggets @ *Carson's 1849:  Available Between 11am-2pm*  
+ - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera:  Available Between 11am-2pm*  
  - Diced Chicken @ *Great Greens*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
- - Sesame Chicken @ *Global Kitchen*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Italian Chicken @ *Buona Cucina*  
- - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
+ - Chicken Dumpling Soup @ *Great Greens*  
   
 In description:   
- - Italian Meatball Sandwich @ *King's Hawaiian*  
+ - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-09-07)  
-**steak**  
-In name:   
- - Ham Steak @ *Eggcetera:  Available Between 11am-2pm*  
-  
-**Tilapia**  
-In name:   
- - Baked Tilapia w/Dill Wine Sauce @ *Global Kitchen:  Available Between 11am-2pm*  
-  
-**BBQ Pork Sandwich**  
-In name:   
- - BBQ Pork Sandwich @ *Fired Up:  Available Between 11am-2pm*  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Chicken Ala King over Biscuit @ *Carson's 1849:  Available Between 11am-2pm*  
-  
-**beef**  
-In name:   
-  
-In description:   
- - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
-  
-**pork**  
-In name:   
- - Green Beans w/ Pork Bacon @ *Carson's 1849:  Available Between 11am-2pm*  
- - BBQ Pork Sandwich @ *Fired Up:  Available Between 11am-2pm*  
-  
-In description:   
- - Ham Steak @ *Eggcetera:  Available Between 11am-2pm*  
-  
-**chicken**  
-In name:   
- - Chicken Ala King over Biscuit @ *Carson's 1849:  Available Between 11am-2pm*  
- - Diced Chicken @ *Great Greens*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
- - Chicken, Bacon, Jalapeno Pizza @ *Capital City Pizza*  
-  
-In description:   
- - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
-  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-09-07)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-09-08)  
   
