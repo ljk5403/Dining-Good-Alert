@@ -1,6 +1,6 @@
 # 2026-09-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-06 18:39:16  
+Updated at: 2026-09-06 22:04:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-06)  
 **Shrimp**  
 In name:   
@@ -13,6 +13,7 @@ In name:
 **beef**  
 In name:   
  - Corned Beef @ *1849*  
+ - Beef Tortellini @ *Buona Cucina*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Beef Taco Meat @ *Que Rico*  
   
@@ -37,10 +38,6 @@ In description:
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-09-06)  
-**steak**  
-In name:   
- - Brazilian Flank Steak @ *1849*  
-  
 **Cod**  
 In name:   
  - Caribbean Cod @ *1849*  
@@ -61,23 +58,16 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Brazilian Flank Steak @ *1849*  
- - Polish Combo Blended Cheeseburger (Pork) @ *Fired Up*  
- - Corn Dog (Pork) @ *Fired Up*  
+ - Cheeseburger @ *Fired Up*  
   
 **pork**  
 In name:   
- - Polish Combo Blended Cheeseburger (Pork) @ *Fired Up*  
- - Corn Dog (Pork) @ *Fired Up*  
+ - BBQ Pork Chop @ *1849*  
  - Pork Carnita @ *Que Rico*  
   
 **chicken**  
 In name:   
- - Chicken Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
-  
-In description:   
- - Corn Dog (Pork) @ *Fired Up*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-09-06)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-09-06)  
@@ -87,6 +77,7 @@ In name:
   
 **beef**  
 In name:   
+ - Carving Station - Beef Strip Loin @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   

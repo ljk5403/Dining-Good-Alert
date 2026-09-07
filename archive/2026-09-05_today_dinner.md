@@ -1,16 +1,18 @@
 # 2026-09-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-06 16:57:31  
+Updated at: 2026-09-06 18:39:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-06)  
+**Shrimp**  
+In name:   
+ - Sweet & Sour Shrimp @ *Global Kitchen*  
+  
 **curry**  
 In name:   
  - Curry Cauliflower & Butternut Squash @ *Global Kitchen*  
   
-In description:   
- - Chicken Tikka Masala @ *Global Kitchen*  
-  
 **beef**  
 In name:   
+ - Corned Beef @ *1849*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Beef Taco Meat @ *Que Rico*  
   
@@ -29,7 +31,6 @@ In name:
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
- - Chicken Tikka Masala @ *Global Kitchen*  
  - Fajita Chicken @ *Que Rico*  
   
 In description:   
@@ -74,7 +75,6 @@ In name:
 In name:   
  - Chicken Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
- - Plant Based Chicken Strips @ *Global Kitchen*  
   
 In description:   
  - Corn Dog (Pork) @ *Fired Up*  

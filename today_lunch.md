@@ -1,6 +1,6 @@
 # 2026-09-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-06 18:39:11  
+Updated at: 2026-09-06 22:04:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-06)  
 **beef**  
 In name:   
@@ -47,7 +47,6 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken Chili @ *Great Greens*  
  - Sausage Links Chicken (halal) (AYCTE) @ *1849*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
   
