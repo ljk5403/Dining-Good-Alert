@@ -1,6 +1,6 @@
 # 2026-09-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-07 06:39:48  
+Updated at: 2026-09-07 13:35:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-07)  
 **Tuna**  
 In name:   
@@ -8,6 +8,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Beef Hot Dog @ *Fired Up*  
  - Beef Taco Meat @ *Que Rico*  
   
@@ -16,7 +17,6 @@ In description:
   
 **pork**  
 In name:   
- - Italian Pork Sausage @ *Buona Cucina*  
  - Pizza Slice BBQ Pulled Pork @ *Capital City Pizza*  
   
 In description:   
@@ -27,6 +27,8 @@ In description:
 In name:   
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
+ - Plant Based Chicken Strips @ *Buona Cucina*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Crispy Chicken Sandwich @ *Fired Up*  
  - Chicken Teriyaki Stir Fry @ *Global Kitchen*  
  - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
@@ -54,6 +56,10 @@ In description:
  - California Roll  (FujiSan) @ *Create-A-Bowl*  
  - Tempura Roll (FujiSan) @ *Create-A-Bowl*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **Pakoras**  
 In name:   
  - Appetizer -  Pakoras Vegetable (Veg) @ *Que Rico*  
@@ -79,7 +85,6 @@ In name:
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Butter Chicken @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-09-07)  
@@ -118,6 +123,7 @@ In description:
 **Salmon**  
 In name:   
  - Baked Salmon with Mustard Sauce @ *1849*  
+ - Baked Salmon Fillet @ *Great Greens*  
   
 **beef**  
 In name:   
@@ -133,8 +139,12 @@ In description:
 In name:   
  - Pork Carnita @ *Gordon Que Rico*  
   
+In description:   
+ - Chicken Sausage Gumbo @ *1849*  
+  
 **chicken**  
 In name:   
+ - Chicken Sausage Gumbo @ *1849*  
  - Chicken Sausage Patties @ *Gordon Eggcetera*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
@@ -148,10 +158,6 @@ In description:
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-09-07)  
-**steak**  
-In name:   
- - Ham Steak @ *Eggcetera:  Available Between 11am-2pm*  
-  
 **Tilapia**  
 In name:   
  - Baked Tilapia w/Dill Wine Sauce @ *Global Kitchen:  Available Between 11am-2pm*  
@@ -177,13 +183,9 @@ In name:
  - Green Beans w/ Pork Bacon @ *Carson's 1849:  Available Between 11am-2pm*  
  - BBQ Pork Sandwich @ *Fired Up:  Available Between 11am-2pm*  
   
-In description:   
- - Ham Steak @ *Eggcetera:  Available Between 11am-2pm*  
-  
 **chicken**  
 In name:   
  - Chicken Ala King over Biscuit @ *Carson's 1849:  Available Between 11am-2pm*  
- - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Chicken, Bacon, Jalapeno Pizza @ *Capital City Pizza*  
   
