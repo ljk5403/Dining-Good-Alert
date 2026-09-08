@@ -1,6 +1,6 @@
 # 2026-09-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-08 05:39:01  
+Updated at: 2026-09-08 12:45:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-08)  
 **portabella**  
 In name:   
@@ -54,6 +54,10 @@ In description:
 In name:   
  - Broccoli Rabe @ *1849*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -74,10 +78,8 @@ In name:
 **chicken**  
 In name:   
  - Mediterranean Chicken @ *Create-A-Bowl*  
- - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
  - Chicken Piece Seasoned Baked @ *1849*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Italian Chicken @ *Global Kitchen*  
   
 In description:   
@@ -117,6 +119,12 @@ In name:
  - Chicken Dumpling Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-09-08)  
+**portabella**  
+In name:   
+  
+In description:   
+ - Portobello Mushroom Stroganoff @ *Global Kitchen*  
+  
 **steak**  
 In name:   
  - Grilled Flank Steak @ *1849*  
@@ -132,31 +140,31 @@ In name:
 **beef**  
 In name:   
  - Beef Taco Meat @ *Gordon Que Rico*  
+ - Beef Goulash @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
  - Grilled Flank Steak @ *1849*  
  - King's Hawaiian Sand Blended Burger @ *King's Hawaiian*  
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  
 In name:   
  - Pork Carnita @ *Gordon Que Rico*  
+ - Pork Loin Spicy Greenbush @ *Global Kitchen*  
+ - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
   
 In description:   
- - Ham and Veg Spicy Hawaiian Stiry Fry @ *Global Kitchen*  
+ - Pizza Slice Sausage @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
+ - Chicken Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Italian Chicken @ *Buona Cucina*  
  - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
-  
-In description:   
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-09-08)  
 **Shrimp**  

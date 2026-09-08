@@ -1,6 +1,6 @@
 # 2026-09-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-08 05:39:07  
+Updated at: 2026-09-08 12:45:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-08)  
 **portabella**  
 In name:   
@@ -41,6 +41,10 @@ In description:
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-09-08)  
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -61,10 +65,8 @@ In name:
 **chicken**  
 In name:   
  - Mediterranean Chicken @ *Create-A-Bowl*  
- - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
  - Brazilian Chicken w/ Salsa Vinaigrette @ *1849*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Italian Chicken @ *Global Kitchen*  
   
 In description:   
@@ -131,6 +133,7 @@ In name:
  - Chicken Drumstick BBQ Glazed @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
+ - Chicken Chili @ *Great Greens*  
  - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Italian Chicken @ *Buona Cucina*  
