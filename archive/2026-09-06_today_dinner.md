@@ -1,6 +1,6 @@
 # 2026-09-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-07 13:35:55  
+Updated at: 2026-09-07 17:31:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-07)  
 **Shrimp**  
 In name:   
@@ -17,6 +17,7 @@ In name:
 **beef**  
 In name:   
  - Southwestern Corned Beef Hash @ *1849*  
+ - Beef Meatballs @ *Buona Cucina*  
  - Beef Hot Dog @ *Fired Up*  
   
 **pork**  
@@ -32,11 +33,10 @@ In name:
  - Crispy Chicken Sandwich @ *Fired Up*  
  - Chicken Tamale with Oaxaca @ *Que Rico*  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-09-07)  
-**portabella**  
-In name:   
- - Portabella Mushroom Ravioli Plain @ *Global Kitchen*  
+In description:   
+ - Beef Meatballs @ *Buona Cucina*  
   
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-09-07)  
 **Samosas**  
 In name:   
  - Samosas @ *Que Rico*  
@@ -56,6 +56,13 @@ In name:
 In name:   
  - Chicken Curry @ *Que Rico*  
  - Curry Potatoes @ *Que Rico*  
+  
+In description:   
+ - Vegetable Korma @ *Que Rico*  
+  
+**beef**  
+In name:   
+ - Beef Ravioli Plain @ *Global Kitchen*  
   
 **pork**  
 In name:   
@@ -107,9 +114,16 @@ In name:
 In name:   
  - Baked Salmon Fillet @ *Great Greens*  
   
+**curry**  
+In name:   
+  
+In description:   
+ - Chicken Tikka Masala @ *Global Kitchen*  
+ - Tofu & Vegetable Tikka Masala @ *Global Kitchen*  
+  
 **beef**  
 In name:   
- - Beef Goulash w/Egg Noodles @ *1849*  
+ - Beef Goulash @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
@@ -127,7 +141,8 @@ In name:
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
- - Spicy Lo Mein w/Chicken @ *Global Kitchen*  
+ - Chicken Tikka Masala @ *Global Kitchen*  
+ - Sesame Chicken @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Italian Chicken @ *Buona Cucina*  
   

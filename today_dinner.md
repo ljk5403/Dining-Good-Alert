@@ -1,6 +1,6 @@
 # 2026-09-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-07 17:31:00  
+Updated at: 2026-09-07 19:54:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-07)  
 **Shrimp**  
 In name:   
@@ -74,7 +74,9 @@ In name:
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Orange Sweet & Spicy Chicken @ *1849*  
+ - General Tso's Chicken @ *1849*  
  - Crispy Chicken Sandwich @ *Fired Up*  
+ - Spicy Crispy Chicken Sandwich @ *Fired Up*  
  - Chicken Curry @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-09-07)  
@@ -116,15 +118,16 @@ In name:
   
 **curry**  
 In name:   
+ - Beef Curry Stew @ *Global Kitchen*  
   
 In description:   
- - Chicken Tikka Masala @ *Global Kitchen*  
  - Tofu & Vegetable Tikka Masala @ *Global Kitchen*  
   
 **beef**  
 In name:   
  - Beef Goulash @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
+ - Beef Curry Stew @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
@@ -141,8 +144,6 @@ In name:
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
- - Chicken Tikka Masala @ *Global Kitchen*  
- - Sesame Chicken @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Italian Chicken @ *Buona Cucina*  
   
