@@ -1,17 +1,19 @@
 # 2026-09-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-08 12:45:22  
+Updated at: 2026-09-08 15:45:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-08)  
 **portabella**  
 In name:   
  - Portabella Mushroom Ravioli Plain @ *Buona Cucina*  
   
+**Shrimp**  
+In name:   
+ - Shrimp Curry @ *Global Kitchen*  
+  
 **curry**  
 In name:   
+ - Shrimp Curry @ *Global Kitchen*  
  - Squash Curry @ *Global Kitchen*  
-  
-In description:   
- - Chicken Korma @ *Global Kitchen*  
   
 **beef**  
 In name:   
@@ -34,7 +36,6 @@ In name:
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Chicken Korma @ *Global Kitchen*  
  - Mediterranean Chicken @ *Que Rico*  
   
 In description:   
@@ -60,13 +61,13 @@ In description:
   
 **pork**  
 In name:   
+ - Smoked Pork Loin @ *1849*  
  - Pork Bratwurst Sandwich @ *Fired Up*  
   
 **chicken**  
 In name:   
  - Mediterranean Chicken @ *Create-A-Bowl*  
  - Chicken Dumpling Soup @ *Great Greens*  
- - Brazilian Chicken w/ Salsa Vinaigrette @ *1849*  
  - Italian Chicken @ *Global Kitchen*  
   
 In description:   
@@ -143,10 +144,6 @@ In description:
  - Pork Miso w/Yakisoba Noodles @ *Global Kitchen*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-09-08)  
-**steak**  
-In name:   
- - Beef Sirloin Steak @ *1849*  
-  
 **Cod**  
 In name:   
  - Baked Cod Fillet w/Butter & Lemon @ *Fired Up*  
@@ -157,10 +154,8 @@ In name:
   
 **beef**  
 In name:   
- - Beef Sirloin Steak @ *1849*  
   
 In description:   
- - Burgundy Mushroom Sauce @ *1849*  
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
@@ -170,6 +165,7 @@ In name:
   
 **chicken**  
 In name:   
+ - Teriyaki Chicken Fillet @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
   
