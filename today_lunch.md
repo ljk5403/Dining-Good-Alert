@@ -1,6 +1,6 @@
 # 2026-09-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-08 12:45:18  
+Updated at: 2026-09-08 15:45:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-08)  
 **portabella**  
 In name:   
@@ -129,9 +129,19 @@ In description:
 In name:   
  - Grilled Flank Steak @ *1849*  
   
-**haddock**  
+**Shrimp**  
 In name:   
- - Baked Haddock w/Butter & Lemon @ *1849*  
+ - Breaded Fantail Shrimp @ *Global Kitchen*  
+  
+**Cod**  
+In name:   
+ - Battered Cod @ *1849*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Battered Cod @ *1849*  
   
 **watermelon**  
 In name:   
@@ -150,7 +160,6 @@ In description:
 **pork**  
 In name:   
  - Pork Carnita @ *Gordon Que Rico*  
- - Pork Loin Spicy Greenbush @ *Global Kitchen*  
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
   
 In description:   
