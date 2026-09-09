@@ -1,6 +1,6 @@
 # 2026-09-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-09 12:34:44  
+Updated at: 2026-09-09 15:28:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-09)  
 **portabella**  
 In name:   
@@ -134,7 +134,6 @@ In name:
   
 In description:   
  - King's Hawaiian Sand Brat w/Pine Pico @ *King's Hawaiian*  
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Italian Meat Sauce @ *Buona Cucina*  
   
 **pork**  
@@ -143,6 +142,7 @@ In name:
   
 In description:   
  - King's Hawaiian Sand Brat w/Pine Pico @ *King's Hawaiian*  
+ - Pizza Slice Sausage @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
@@ -153,9 +153,6 @@ In name:
  - Plant Based Sesame Chicken (AYCTE) (VN) @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Italian Chicken @ *Buona Cucina*  
-  
-In description:   
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-09-09)  
 **steak**  

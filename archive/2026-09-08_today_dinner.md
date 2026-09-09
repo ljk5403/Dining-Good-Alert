@@ -1,6 +1,6 @@
 # 2026-09-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-09 05:48:26  
+Updated at: 2026-09-09 12:34:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-09)  
 **portabella**  
 In name:   
@@ -54,6 +54,10 @@ In name:
 In name:   
  - Fried Catfish @ *1849*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **beef**  
 In name:   
  - Beef Chili @ *Great Greens*  
@@ -64,8 +68,6 @@ In name:
   
 **chicken**  
 In name:   
- - Diced Chicken @ *Great Greens*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Stir-Fry Coconut Lime @ *Global Kitchen*  
  - Chicken Wings Boneless Plain @ *Que Rico*  
  - Plant-Based Chicken Nuggets @ *Que Rico*  
@@ -115,13 +117,12 @@ In name:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-09-09)  
 **Cod**  
 In name:   
- - Miso Cod @ *1849*  
+ - Baked Cod Fillet w/Butter & Lemon @ *1849*  
   
 **fish**  
 In name:   
   
 In description:   
- - Miso Cod @ *1849*  
  - California Roll  (FujiSan) @ *Global Kitchen*  
  - Tempura Roll (FujiSan) @ *Global Kitchen*  
   
