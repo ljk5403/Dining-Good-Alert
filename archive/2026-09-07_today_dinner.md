@@ -1,6 +1,6 @@
 # 2026-09-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-08 15:45:33  
+Updated at: 2026-09-08 18:12:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-08)  
 **portabella**  
 In name:   
@@ -74,6 +74,17 @@ In description:
  - Empanada Beef Picadillo @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-09-08)  
+**Salmon**  
+In name:   
+ - Salmon Philly Roll (FujiSan) @ *Global Kitchen*  
+ - Salmon Spicy Roll (FujiSan) @ *Global Kitchen*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Salmon Spicy Roll (FujiSan) @ *Global Kitchen*  
+  
 **beef**  
 In name:   
   
@@ -121,7 +132,6 @@ In name:
   
 In description:   
  - King's Hawaiian Sand Blended Burger @ *King's Hawaiian*  
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  
 In name:   
@@ -129,18 +139,19 @@ In name:
  - Pork Carnita @ *Gordon Que Rico*  
  - Pork Miso w/Yakisoba Noodles @ *Global Kitchen*  
   
+In description:   
+ - Pizza Slice Sausage @ *Capital City Pizza*  
+  
 **chicken**  
 In name:   
  - Chicken Drumstick BBQ Glazed @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
- - Chicken Chili @ *Great Greens*  
  - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Italian Chicken @ *Buona Cucina*  
   
 In description:   
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Pork Miso w/Yakisoba Noodles @ *Global Kitchen*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-09-08)  

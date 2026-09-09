@@ -1,6 +1,6 @@
 # 2026-09-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-08 18:12:14  
+Updated at: 2026-09-08 22:16:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-08)  
 **portabella**  
 In name:   
@@ -87,6 +87,7 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Chili @ *Great Greens*  
   
 In description:   
  - Reuben @ *1849*  
@@ -98,28 +99,17 @@ In name:
   
 **chicken**  
 In name:   
- - Jerk Chicken Sandwich @ *1849*  
+ - Grilled Chicken Pesto Artichoke Sandwich @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Dumpling Soup @ *Great Greens*  
   
 In description:   
  - Sausage (Pork) & Pepperoni Pizza Slice @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-09-08)  
-**drumstick**  
+**Cod**  
 In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
-  
-**Salmon**  
-In name:   
- - Hoisin BBQ Glazed Salmon @ *1849*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Hoisin BBQ Glazed Salmon @ *1849*  
+ - Beer Battered Cod @ *1849*  
   
 **watermelon**  
 In name:   
@@ -144,8 +134,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
- - Diced Chicken @ *Great Greens*  
+ - Breaded Chicken Tenders @ *1849*  
  - Chicken Dumpling Soup @ *Great Greens*  
  - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
