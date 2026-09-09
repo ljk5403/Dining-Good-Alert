@@ -1,6 +1,6 @@
 # 2026-09-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-09 12:34:42  
+Updated at: 2026-09-09 15:28:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-09)  
 **Tuna**  
 In name:   
@@ -86,6 +86,7 @@ In name:
  - Curry Potatoes @ *Global Kitchen*  
   
 In description:   
+ - Chana Saag w/ Tofu @ *1849*  
  - Appetizer -  Pakoras Vegetable (Veg) @ *Global Kitchen*  
   
 **beef**  
