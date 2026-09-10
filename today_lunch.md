@@ -1,6 +1,6 @@
 # 2026-09-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-10 12:29:26  
+Updated at: 2026-09-10 15:27:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-10)  
 **fish**  
 In name:   
@@ -87,6 +87,10 @@ In name:
  - Beef Mediterranean @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
+**pork**  
+In name:   
+ - Pork Carnita @ *Que Rico*  
+  
 **chicken**  
 In name:   
  - Bulgogi Chicken @ *Create-A-Bowl*  
@@ -160,7 +164,6 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken Wings Bone-In Plain @ *1849*  
  - Chicken Wings Boneless Plain @ *1849*  
  - Plant-Based Chicken Nuggets @ *1849*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  

@@ -1,6 +1,6 @@
 # 2026-09-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-10 05:41:31  
+Updated at: 2026-09-10 12:29:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-10)  
 **fish**  
 In name:   
@@ -59,7 +59,7 @@ In name:
   
 **drumstick**  
 In name:   
- - Chicken Drumstick Teriyaki Glazed @ *1849*  
+ - Chicken Drumstick BBQ Glazed @ *1849*  
   
 **haddock**  
 In name:   
@@ -71,6 +71,10 @@ In name:
 In description:   
  - Curried Pumpkin Soup @ *Great Greens*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **curry**  
 In name:   
   
@@ -80,7 +84,7 @@ In description:
 **beef**  
 In name:   
  - Bulgogi Beef @ *Create-A-Bowl*  
- - Beef @ *Global Kitchen*  
+ - Beef Mediterranean @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 **chicken**  
@@ -88,8 +92,7 @@ In name:
  - Bulgogi Chicken @ *Create-A-Bowl*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
- - Chicken Drumstick Teriyaki Glazed @ *1849*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Chicken Drumstick BBQ Glazed @ *1849*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-09-10)  
 **Cod**  
@@ -181,8 +184,16 @@ In name:
 In name:   
  - Brazilian Flank Steak @ *Global Kitchen:  Available Between 11am-2pm*  
   
+**Cod**  
+In name:   
+  
+In description:   
+ - Petite Fish Sandwich @ *Fired Up:  Available Between 11am-2pm*  
+  
 **fish**  
 In name:   
+ - Petite Fish Sandwich @ *Fired Up:  Available Between 11am-2pm*  
+ - Vegan Fish Sandwich @ *Fired Up:  Available Between 11am-2pm*  
   
 In description:   
  - Curried Pumpkin Soup @ *Great Greens*  
@@ -200,7 +211,6 @@ In name:
   
 In description:   
  - Brazilian Flank Steak @ *Global Kitchen:  Available Between 11am-2pm*  
- - Mini Pastrami Reuben on Pretzel Bun @ *Fired Up:  Available Between 11am-2pm*  
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
   
 **pork**  
