@@ -1,6 +1,6 @@
 # 2026-09-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-09 17:57:03  
+Updated at: 2026-09-09 19:54:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-11)  
 **duck**  
 In name:   

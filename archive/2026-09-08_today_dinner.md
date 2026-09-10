@@ -1,6 +1,6 @@
 # 2026-09-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-09 15:28:31  
+Updated at: 2026-09-09 17:56:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-09)  
 **portabella**  
 In name:   
@@ -20,9 +20,9 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Italian Meat Sauce @ *Buona Cucina*  
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
  - Pork Bratwurst Sandwich @ *Fired Up*  
   
@@ -34,16 +34,16 @@ In name:
  - Pork Bratwurst Sandwich @ *Fired Up*  
  - FiIipino Pork Spring Roll @ *Global Kitchen*  
  - Filipino Pork Sausage @ *Global Kitchen*  
- - Ancho Pork Rice Bowl @ *Que Rico*  
+ - Pork Carnita @ *Que Rico*  
   
 **chicken**  
 In name:   
  - Teriyaki Chicken Fillet @ *1849*  
  - Spicy Crispy Chicken Sandwich @ *Fired Up*  
+ - Fajita Chicken @ *Que Rico*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
- - Ancho Pork Rice Bowl @ *Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-09-09)  
 **catfish**  
@@ -133,7 +133,6 @@ In name:
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
- - King's Hawaiian Sand Brat w/Pine Pico @ *King's Hawaiian*  
  - Italian Meat Sauce @ *Buona Cucina*  
   
 **pork**  
@@ -141,7 +140,7 @@ In name:
  - Pork Carnita @ *Gordon Que Rico*  
   
 In description:   
- - King's Hawaiian Sand Brat w/Pine Pico @ *King's Hawaiian*  
+ - King's Hawaiian Spam Dog @ *King's Hawaiian*  
  - Pizza Slice Sausage @ *Capital City Pizza*  
   
 **chicken**  

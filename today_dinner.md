@@ -1,6 +1,6 @@
 # 2026-09-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-09 17:56:54  
+Updated at: 2026-09-09 19:54:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-09)  
 **portabella**  
 In name:   
@@ -61,10 +61,7 @@ In name:
 **beef**  
 In name:   
  - Beef Chili @ *Great Greens*  
-  
-**pork**  
-In name:   
- - Baked Pork Ham @ *1849*  
+ - Smoked Beef Round Plate @ *1849*  
   
 **chicken**  
 In name:   
@@ -119,29 +116,22 @@ In name:
 In name:   
  - Baked Cod Fillet w/Butter & Lemon @ *1849*  
   
-**fish**  
-In name:   
-  
-In description:   
- - California Roll  (FujiSan) @ *Global Kitchen*  
- - Tempura Roll (FujiSan) @ *Global Kitchen*  
-  
 **beef**  
 In name:   
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef Chili @ *Great Greens*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Italian Meat Sauce @ *Buona Cucina*  
   
 **pork**  
 In name:   
  - Pork Carnita @ *Gordon Que Rico*  
+ - Italian Pork Sausage @ *Buona Cucina*  
   
 In description:   
  - King's Hawaiian Spam Dog @ *King's Hawaiian*  
- - Pizza Slice Sausage @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
@@ -150,8 +140,10 @@ In name:
  - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
  - Sesame Chicken @ *Global Kitchen*  
  - Plant Based Sesame Chicken (AYCTE) (VN) @ *Global Kitchen*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Italian Chicken @ *Buona Cucina*  
+  
+In description:   
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-09-09)  
 **steak**  
