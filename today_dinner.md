@@ -1,6 +1,6 @@
 # 2026-09-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-10 05:41:37  
+Updated at: 2026-09-10 12:29:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-10)  
 **Tilapia**  
 In name:   
@@ -65,6 +65,10 @@ In name:
 In description:   
  - Curried Pumpkin Soup @ *Great Greens*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **Filipino Pork Sausage**  
 In name:   
  - Filipino Pork Sausage @ *Que Rico*  
@@ -96,7 +100,6 @@ In name:
  - Bulgogi Chicken @ *Create-A-Bowl*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-09-10)  
 **fish**  
