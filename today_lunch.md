@@ -1,18 +1,10 @@
 # 2026-09-11 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-11 12:32:00  
+Updated at: 2026-09-11 15:30:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-11)  
-**Chicken Drumstick Gochujang Glazed**  
-In name:   
- - Chicken Drumstick Gochujang Glazed @ *1849*  
-  
 **drumstick**  
 In name:   
- - Chicken Drumstick Gochujang Glazed @ *1849*  
-  
-**Salmon**  
-In name:   
- - Grilled Sesame Ginger Salmon @ *1849*  
+ - Chicken Drumstick BBQ Glazed @ *1849*  
   
 **clam**  
 In name:   
@@ -44,6 +36,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Adobo @ *1849*  
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
   
 In description:   
@@ -52,7 +45,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Drumstick Gochujang Glazed @ *1849*  
+ - Chicken Drumstick BBQ Glazed @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Diced Chicken Breast @ *Buona Cucina*  
  - Crispy Chicken Sandwich @ *Fired Up*  
@@ -104,7 +97,6 @@ In name:
 **chicken**  
 In name:   
  - Diced Chicken @ *Great Greens*  
- - Plant-Based Chicken Tenders @ *Fired Up*  
  - Italian Chicken @ *Global Kitchen*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-09-11)  
@@ -115,10 +107,6 @@ In name:
 **mahi mahi**  
 In name:   
  - Blackened Mahi Mahi @ *1849*  
-  
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
   
 **beef**  
 In name:   
@@ -140,11 +128,9 @@ In name:
 In description:   
  - Pesto Mushroom Sandwich @ *King's Hawaiian*  
   
-**steak**  
+**Shrimp**  
 In name:   
-  
-In description:   
- - Montreal Chicken @ *1849*  
+ - Coconut Shrimp @ *1849*  
   
 **Cod**  
 In name:   
@@ -169,15 +155,16 @@ In name:
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
+In description:   
+ - King's Hawaiian Sand Blended Burger @ *King's Hawaiian*  
+  
 **pork**  
 In name:   
  - Pork Carnita @ *Gordon Que Rico*  
   
 **chicken**  
 In name:   
- - Montreal Chicken @ *1849*  
  - Chicken Sausage Patties @ *Gordon Eggcetera*  
- - King's Hawaiian Sand Chicken Crispy @ *King's Hawaiian*  
  - Diced Chicken @ *Great Greens*  
  - Jamaican Jerk Chicken @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
