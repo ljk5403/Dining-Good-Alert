@@ -1,6 +1,6 @@
 # 2026-09-11 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-11 05:40:03  
+Updated at: 2026-09-11 12:32:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-11)  
 **Chicken Drumstick Gochujang Glazed**  
 In name:   
@@ -75,6 +75,10 @@ In name:
 In name:   
  - Clam Chowder @ *Great Greens*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -100,7 +104,7 @@ In name:
 **chicken**  
 In name:   
  - Diced Chicken @ *Great Greens*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Plant-Based Chicken Tenders @ *Fired Up*  
  - Italian Chicken @ *Global Kitchen*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-09-11)  
@@ -165,9 +169,6 @@ In name:
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
-In description:   
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
-  
 **pork**  
 In name:   
  - Pork Carnita @ *Gordon Que Rico*  
@@ -176,15 +177,12 @@ In name:
 In name:   
  - Montreal Chicken @ *1849*  
  - Chicken Sausage Patties @ *Gordon Eggcetera*  
- - King's Hawaiian Spicy Chicken Sandwich @ *King's Hawaiian*  
+ - King's Hawaiian Sand Chicken Crispy @ *King's Hawaiian*  
  - Diced Chicken @ *Great Greens*  
  - Jamaican Jerk Chicken @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Italian Chicken @ *Buona Cucina*  
  - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
-  
-In description:   
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-09-11)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-09-11)  

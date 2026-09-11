@@ -1,6 +1,6 @@
 # 2026-09-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-11 05:40:09  
+Updated at: 2026-09-11 12:32:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-11)  
 **duck**  
 In name:   
@@ -76,6 +76,10 @@ In name:
 In name:   
  - Clam Chowder @ *Great Greens*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -84,7 +88,6 @@ In name:
 In name:   
  - Diced Chicken @ *Great Greens*  
  - Blackened Chicken @ *1849*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Grilled Chicken Sandwich @ *Fired Up*  
  - Italian Chicken @ *Global Kitchen*  
  - Chicken and Cheese Flauta @ *Que Rico*  
