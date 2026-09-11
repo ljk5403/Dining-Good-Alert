@@ -1,11 +1,7 @@
 # 2026-09-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-10 17:56:14  
+Updated at: 2026-09-10 19:51:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-10)  
-**Tilapia**  
-In name:   
- - Baked Tilapia w/Dill Wine Sauce @ *1849*  
-  
 **fish**  
 In name:   
   
@@ -23,6 +19,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Adobo @ *1849*  
  - Loaded Potato Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
   
 In description:   
@@ -46,7 +43,6 @@ In name:
   
 **Bulgogi**  
 In name:   
- - Bulgogi Beef @ *Create-A-Bowl*  
  - Bulgogi Chicken @ *Create-A-Bowl*  
  - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
  - Build Your Own Bulgogi Bar - Four Lakes @ *Create-A-Bowl*  
@@ -54,6 +50,10 @@ In name:
 **FiIipino Pork Spring Roll**  
 In name:   
  - FiIipino Pork Spring Roll @ *Que Rico*  
+  
+**drumstick**  
+In name:   
+ - Chicken Drumstick BBQ Glazed @ *1849*  
   
 **steak**  
 In name:   
@@ -81,8 +81,6 @@ In description:
   
 **beef**  
 In name:   
- - Bulgogi Beef @ *Create-A-Bowl*  
- - Beef @ *Global Kitchen*  
   
 In description:   
  - Country Fried Steak @ *1849*  
@@ -91,15 +89,18 @@ In description:
   
 **pork**  
 In name:   
- - Herb Crusted Pork Loin @ *1849*  
  - FiIipino Pork Spring Roll @ *Que Rico*  
  - Filipino Pork Sausage @ *Que Rico*  
+  
+In description:   
+ - Andouille Sausage @ *Global Kitchen*  
   
 **chicken**  
 In name:   
  - Bulgogi Chicken @ *Create-A-Bowl*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
+ - Chicken Drumstick BBQ Glazed @ *1849*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-09-10)  
 **fish**  
@@ -127,7 +128,6 @@ In name:
   
 **chicken**  
 In name:   
- - Teriyaki Chicken Sandwich @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Giardiniera Chicken @ *Global Kitchen*  
  - Diced Chicken @ *Great Greens*  
@@ -152,7 +152,6 @@ In description:
   
 **beef**  
 In name:   
- - Garlic Herb Roast Beef @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
@@ -162,12 +161,13 @@ In name:
   
 **chicken**  
 In name:   
+ - Chicken Tenders Breaded @ *1849*  
  - Chicken Gravy @ *1849*  
- - King's Hawaiian Sand Chicken Spicy Crisp @ *King's Hawaiian*  
+ - Crispy Chicken Sandwich @ *King's Hawaiian*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
  - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
- - Mediterranean Chicken @ *Global Kitchen*  
+ - Chicken Pot Pie Filling @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Italian Chicken @ *Buona Cucina*  
   

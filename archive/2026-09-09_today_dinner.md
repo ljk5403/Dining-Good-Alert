@@ -1,6 +1,6 @@
 # 2026-09-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-10 15:27:14  
+Updated at: 2026-09-10 17:56:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-10)  
 **Tilapia**  
 In name:   
@@ -152,12 +152,9 @@ In description:
   
 **beef**  
 In name:   
- - Beef Meatloaf @ *1849*  
+ - Garlic Herb Roast Beef @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
-  
-In description:   
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  
 In name:   
@@ -166,16 +163,13 @@ In name:
 **chicken**  
 In name:   
  - Chicken Gravy @ *1849*  
- - King's Hawaiian Sand Chicken Parmesan @ *King's Hawaiian*  
+ - King's Hawaiian Sand Chicken Spicy Crisp @ *King's Hawaiian*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
  - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
  - Mediterranean Chicken @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Italian Chicken @ *Buona Cucina*  
-  
-In description:   
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-09-10)  
 **fish**  
