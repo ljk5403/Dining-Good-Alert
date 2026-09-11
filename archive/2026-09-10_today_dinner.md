@@ -1,6 +1,6 @@
 # 2026-09-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-11 12:32:04  
+Updated at: 2026-09-11 15:30:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-11)  
 **duck**  
 In name:   
@@ -89,17 +89,13 @@ In name:
  - Diced Chicken @ *Great Greens*  
  - Blackened Chicken @ *1849*  
  - Grilled Chicken Sandwich @ *Fired Up*  
- - Italian Chicken @ *Global Kitchen*  
+ - Mediterranean Chicken @ *Global Kitchen*  
  - Chicken and Cheese Flauta @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-09-11)  
 **Cod**  
 In name:   
  - Cracker Crusted Cod w/ Lemon Sauce @ *1849*  
-  
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
   
 **fish**  
 In name:   
@@ -163,9 +159,6 @@ In name:
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
-In description:   
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
-  
 **pork**  
 In name:   
  - French Market Pork Jambalaya @ *1849*  
@@ -173,6 +166,7 @@ In name:
   
 In description:   
  - King's Hawaiian Spam Dog @ *King's Hawaiian*  
+ - Pizza Slice Sausage @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
@@ -183,7 +177,6 @@ In name:
   
 In description:   
  - French Market Pork Jambalaya @ *1849*  
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-09-11)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-09-11)  
