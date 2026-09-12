@@ -1,6 +1,6 @@
 # 2026-09-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-12 16:56:31  
+Updated at: 2026-09-12 18:50:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-12)  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-09-12)  
 **Tuna**  
@@ -11,8 +11,12 @@ In name:
 In name:   
  - Beef Taco Meat @ *Que Rico*  
   
+In description:   
+ - Sliced Kielbasa (Pork) @ *Global Kitchen*  
+  
 **pork**  
 In name:   
+ - Sliced Kielbasa (Pork) @ *Global Kitchen*  
   
 In description:   
  - Kale, Sausage & Potato Soup @ *Great Greens*  
@@ -22,7 +26,6 @@ In name:
  - Diced Chicken @ *Great Greens*  
  - Sesame Chicken @ *1849*  
  - Spicy Crispy Chicken Sandwich @ *Fired Up*  
- - Giardiniera Chicken @ *Global Kitchen*  
  - Chicken Tinga @ *Que Rico*  
   
 In description:   
@@ -62,6 +65,10 @@ In description:
 **steak**  
 In name:   
  - Country Fried Steak @ *1849*  
+  
+**Salmon**  
+In name:   
+ - Salmon @ *Great Greens*  
   
 **beef**  
 In name:   
