@@ -1,8 +1,12 @@
 # 2026-09-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-12 13:57:47  
+Updated at: 2026-09-12 16:56:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-12)  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-09-12)  
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **beef**  
 In name:   
  - Beef Taco Meat @ *Que Rico*  
@@ -17,10 +21,9 @@ In description:
 In name:   
  - Diced Chicken @ *Great Greens*  
  - Sesame Chicken @ *1849*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Spicy Crispy Chicken Sandwich @ *Fired Up*  
  - Giardiniera Chicken @ *Global Kitchen*  
- - Taco Chicken @ *Que Rico*  
+ - Chicken Tinga @ *Que Rico*  
   
 In description:   
  - Kale, Sausage & Potato Soup @ *Great Greens*  
@@ -67,6 +70,7 @@ In name:
   
 In description:   
  - Country Fried Steak @ *1849*  
+ - Country Gravy @ *1849*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  

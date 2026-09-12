@@ -1,6 +1,6 @@
 # 2026-09-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-12 11:46:10  
+Updated at: 2026-09-12 13:57:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-12)  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-09-12)  
 **beef**  
@@ -22,7 +22,7 @@ In name:
  - Diced Chicken @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Giardiniera Chicken @ *Global Kitchen*  
- - Taco Chicken @ *Que Rico*  
+ - Chicken Tinga @ *Que Rico*  
   
 In description:   
  - Kale, Sausage & Potato Soup @ *Great Greens*  
@@ -64,6 +64,7 @@ In description:
   
 **pork**  
 In name:   
+ - French Market Pork Jambalaya @ *1849*  
  - Pork Carnita @ *Gordon Que Rico*  
  - Pork Chorizo Patty @ *Eggcetera*  
   
@@ -72,7 +73,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Breast w/Balsamic BBQ Sauce @ *1849*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera*  
  - Diced Chicken @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
@@ -80,6 +80,7 @@ In name:
  - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
   
 In description:   
+ - French Market Pork Jambalaya @ *1849*  
  - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
