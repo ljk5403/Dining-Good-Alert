@@ -1,6 +1,6 @@
 # 2026-09-11 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-11 17:59:03  
+Updated at: 2026-09-11 20:01:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-11)  
 **drumstick**  
 In name:   
@@ -64,10 +64,6 @@ In name:
 In name:   
  - Sauteed Shrimp @ *Que Rico*  
   
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
-  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
@@ -94,10 +90,16 @@ In name:
  - Sausage (Pork), Potatoes, & Peppers @ *1849*  
  - Pork Bratwurst Sandwich @ *Fired Up*  
   
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
+  
 **chicken**  
 In name:   
  - Diced Chicken @ *Great Greens*  
  - Italian Chicken @ *Global Kitchen*  
+  
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-09-11)  
 **steak**  

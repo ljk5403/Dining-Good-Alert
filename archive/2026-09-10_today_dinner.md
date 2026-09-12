@@ -1,6 +1,6 @@
 # 2026-09-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-11 15:30:04  
+Updated at: 2026-09-11 17:59:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-11)  
 **duck**  
 In name:   
@@ -29,6 +29,7 @@ In name:
 **beef**  
 In name:   
  - Beef Hot Dog @ *Fired Up*  
+ - Beef Taco Meat @ *Que Rico*  
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
@@ -36,6 +37,7 @@ In description:
 **pork**  
 In name:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
+ - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Andouille Sausage @ *1849*  
@@ -47,7 +49,7 @@ In name:
  - Plant-Based Chicken Etouffee @ *1849*  
  - Diced Chicken Breast @ *Buona Cucina*  
  - Crispy Chicken Sandwich @ *Fired Up*  
- - Chicken Mole w/ Rice @ *Que Rico*  
+ - Chicken Tinga @ *Que Rico*  
   
 In description:   
  - Chorizo Sauce @ *Buona Cucina*  
@@ -89,7 +91,7 @@ In name:
  - Diced Chicken @ *Great Greens*  
  - Blackened Chicken @ *1849*  
  - Grilled Chicken Sandwich @ *Fired Up*  
- - Mediterranean Chicken @ *Global Kitchen*  
+ - Italian Chicken @ *Global Kitchen*  
  - Chicken and Cheese Flauta @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-09-11)  
