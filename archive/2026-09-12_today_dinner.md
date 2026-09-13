@@ -1,6 +1,6 @@
 # 2026-09-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-13 06:08:40  
+Updated at: 2026-09-13 12:16:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-13)  
 **beef**  
 In name:   
@@ -59,6 +59,10 @@ In description:
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-09-13)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-09-13)  
+**Salmon**  
+In name:   
+ - Oven Roasted Salmon @ *Great Greens*  
+  
 **curry**  
 In name:   
  - Mango Beef Curry @ *1849*  

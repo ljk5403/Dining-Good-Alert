@@ -1,6 +1,6 @@
 # 2026-09-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-13 06:08:35  
+Updated at: 2026-09-13 12:16:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-13)  
 **steak**  
 In name:   
@@ -67,7 +67,6 @@ In name:
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Crispy Chicken Sandwich @ *Fired Up*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
- - Plant Based Chicken Strips @ *Global Kitchen*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-09-13)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-09-13)  
@@ -75,9 +74,9 @@ In name:
 In name:   
  - Chicken Drumstick Mango Habanero @ *1849*  
   
-**Shrimp**  
+**Salmon**  
 In name:   
- - King's Hawaiian Sand PoBoy Shrimp @ *King's Hawaiian*  
+ - Oven Roasted Salmon @ *Great Greens*  
   
 **beef**  
 In name:   
@@ -92,6 +91,9 @@ In name:
  - Jerk Pork Chop @ *1849*  
  - Pork Carnita @ *Gordon Que Rico*  
  - Biscuits & Pork Gravy @ *Eggcetera*  
+  
+In description:   
+ - King's Hawaiian Spam Dog @ *King's Hawaiian*  
   
 **chicken**  
 In name:   
