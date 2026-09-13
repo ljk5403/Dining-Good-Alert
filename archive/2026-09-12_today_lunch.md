@@ -1,6 +1,6 @@
 # 2026-09-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-13 12:16:46  
+Updated at: 2026-09-13 15:22:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-13)  
 **steak**  
 In name:   
@@ -70,10 +70,6 @@ In name:
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-09-13)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-09-13)  
-**drumstick**  
-In name:   
- - Chicken Drumstick Mango Habanero @ *1849*  
-  
 **Salmon**  
 In name:   
  - Oven Roasted Salmon @ *Great Greens*  
@@ -91,14 +87,14 @@ In name:
  - Jerk Pork Chop @ *1849*  
  - Pork Carnita @ *Gordon Que Rico*  
  - Biscuits & Pork Gravy @ *Eggcetera*  
+ - Pork Chorizo Patty @ *Eggcetera*  
   
 In description:   
  - King's Hawaiian Spam Dog @ *King's Hawaiian*  
   
 **chicken**  
 In name:   
- - Chicken Drumstick Mango Habanero @ *1849*  
- - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera*  
+ - Huli Huli Chicken @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  

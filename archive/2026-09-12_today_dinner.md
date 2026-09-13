@@ -1,6 +1,6 @@
 # 2026-09-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-13 12:16:51  
+Updated at: 2026-09-13 15:22:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-13)  
 **beef**  
 In name:   
@@ -63,14 +63,22 @@ In description:
 In name:   
  - Oven Roasted Salmon @ *Great Greens*  
   
+**catfish**  
+In name:   
+ - Blackened Catfish Po-Boy Sandwich @ *King's Hawaiian*  
+  
+**fish**  
+In name:   
+ - Blackened Catfish Po-Boy Sandwich @ *King's Hawaiian*  
+  
 **curry**  
 In name:   
  - Mango Beef Curry @ *1849*  
- - Thai Veggie Meatballs w/ Green Curry @ *1849*  
   
 **beef**  
 In name:   
  - Mango Beef Curry @ *1849*  
+ - Beef Pot Roast @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
@@ -79,7 +87,6 @@ In description:
   
 **pork**  
 In name:   
- - Apricot Glazed Pork @ *1849*  
  - Pork Carnita @ *Gordon Que Rico*  
   
 **chicken**  
