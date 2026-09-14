@@ -1,6 +1,6 @@
 # 2026-09-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-14 14:01:57  
+Updated at: 2026-09-14 17:57:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-14)  
 **Tuna**  
 In name:   
@@ -152,7 +152,7 @@ In name:
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Crispy Chicken Sandwich @ *King's Hawaiian*  
  - Chicken Tinga @ *Gordon Que Rico*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
+ - Chicken Chili @ *Great Greens*  
  - Marrakech Chicken Breast @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  

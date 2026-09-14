@@ -1,6 +1,6 @@
 # 2026-09-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-14 06:54:08  
+Updated at: 2026-09-14 14:02:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-14)  
 **Samosas**  
 In name:   
@@ -56,7 +56,6 @@ In description:
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
- - Tuna Salad @ *Delicious*  
   
 **Pakoras**  
 In name:   
@@ -82,6 +81,7 @@ In name:
 **chicken**  
 In name:   
  - Lemon Chicken Rice Soup @ *Great Greens*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
  - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-09-14)  

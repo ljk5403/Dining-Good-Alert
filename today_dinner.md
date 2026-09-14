@@ -1,23 +1,18 @@
 # 2026-09-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-14 14:02:04  
+Updated at: 2026-09-14 17:57:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-14)  
-**Samosas**  
+**Shrimp**  
 In name:   
- - Samosas @ *Global Kitchen*  
+ - Sweet & Sour Shrimp @ *Global Kitchen*  
   
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
   
-**curry**  
-In name:   
- - Beef Bombay Curry @ *Global Kitchen*  
- - Curry Cauliflower & Butternut Squash @ *Global Kitchen*  
-  
 **beef**  
 In name:   
- - Beef Bombay Curry @ *Global Kitchen*  
+ - Beef Taco Meat @ *Que Rico*  
   
 In description:   
  - Burnt Ends @ *1849*  
@@ -36,7 +31,8 @@ In description:
 In name:   
  - BBQ Chicken Wings Bone-In @ *1849*  
  - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
- - Chicken Empanada with Green Chili @ *Que Rico*  
+ - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
+ - Chicken Fajita @ *Que Rico*  
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
@@ -69,6 +65,8 @@ In name:
   
 In description:   
  - Appetizer -  Pakoras Vegetable (Veg) @ *Que Rico*  
+ - Vegetable Korma @ *Que Rico*  
+ - Tikka Masala Chicken @ *Que Rico*  
   
 **beef**  
 In name:   
@@ -83,6 +81,7 @@ In name:
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
+ - Tikka Masala Chicken @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-09-14)  
 **Tuna**  
@@ -103,7 +102,6 @@ In description:
 **chicken**  
 In name:   
  - Popcorn Chicken @ *1849*  
- - Plant-Based Chicken Nuggets @ *1849*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-09-14)  
@@ -122,7 +120,7 @@ In name:
   
 **beef**  
 In name:   
- - Beef Stew @ *1849*  
+ - Beef Stew w/ Buttermilk Biscuit @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
@@ -142,7 +140,7 @@ In description:
 In name:   
  - Chicken Tinga @ *Gordon Que Rico*  
  - King's Hawaiian Sand Chicken Spicy Crisp @ *King's Hawaiian*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
+ - Chicken Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
