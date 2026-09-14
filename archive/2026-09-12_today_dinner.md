@@ -1,6 +1,6 @@
 # 2026-09-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-13 15:22:26  
+Updated at: 2026-09-13 17:53:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-13)  
 **beef**  
 In name:   
@@ -38,9 +38,6 @@ In name:
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
-In description:   
- - Italian Meat Sauce @ *Global Kitchen*  
-  
 **pork**  
 In name:   
  - Pork Carnita @ *Que Rico*  
@@ -52,7 +49,6 @@ In name:
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Tenders Breaded @ *Fired Up*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
- - Plant Based Chicken Strips @ *Global Kitchen*  
   
 In description:   
  - Cracker Crusted Cod w/ Lemon Sauce @ *1849*  
@@ -85,12 +81,9 @@ In name:
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
-**pork**  
-In name:   
- - Pork Carnita @ *Gordon Que Rico*  
-  
 **chicken**  
 In name:   
+ - Chicken Tinga @ *Gordon Que Rico*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
  - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
