@@ -1,10 +1,20 @@
 # 2026-09-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-14 17:57:14  
+Updated at: 2026-09-14 20:16:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-14)  
 **Shrimp**  
 In name:   
  - Sweet & Sour Shrimp @ *Global Kitchen*  
+  
+**Cod**  
+In name:   
+ - Battered Cod @ *1849*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Battered Cod @ *1849*  
   
 **Tuna**  
 In name:   
@@ -29,7 +39,6 @@ In description:
   
 **chicken**  
 In name:   
- - BBQ Chicken Wings Bone-In @ *1849*  
  - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
  - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
  - Chicken Fajita @ *Que Rico*  
@@ -60,28 +69,31 @@ In name:
 **curry**  
 In name:   
  - Black Eyed Pea Curry (AYCTE) @ *Que Rico*  
+ - Indian Curry Garbanzo Beans @ *Que Rico*  
  - Curry Potatoes @ *Que Rico*  
  - Coconut Thai Curry Mahi Mahi @ *Que Rico*  
   
 In description:   
  - Appetizer -  Pakoras Vegetable (Veg) @ *Que Rico*  
- - Vegetable Korma @ *Que Rico*  
- - Tikka Masala Chicken @ *Que Rico*  
   
 **beef**  
 In name:   
- - BBQ Beef Brisket Sliders @ *1849*  
+  
+In description:   
+ - Sliced Kielbasa (Pork) @ *1849*  
   
 **pork**  
 In name:   
- - Italian Pork Sausage @ *Global Kitchen*  
+ - Sliced Kielbasa (Pork) @ *1849*  
+  
+In description:   
+ - Andouille Sausage @ *Global Kitchen*  
   
 **chicken**  
 In name:   
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
- - Tikka Masala Chicken @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-09-14)  
 **Tuna**  
@@ -107,7 +119,7 @@ In name:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-09-14)  
 **Shrimp**  
 In name:   
- - Shrimp Curry @ *Global Kitchen*  
+ - Coconut Shrimp @ *Global Kitchen*  
   
 **Tuna**  
 In name:   
@@ -116,12 +128,11 @@ In name:
 **curry**  
 In name:   
  - Coconut Tofu w/Red Curry Sauce @ *Global Kitchen*  
- - Shrimp Curry @ *Global Kitchen*  
   
 **beef**  
 In name:   
  - Beef Stew w/ Buttermilk Biscuit @ *1849*  
- - Beef Taco Meat @ *Gordon Que Rico*  
+ - Beef Barbacoa @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
@@ -138,6 +149,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Huli Huli Chicken @ *1849*  
  - Chicken Tinga @ *Gordon Que Rico*  
  - King's Hawaiian Sand Chicken Spicy Crisp @ *King's Hawaiian*  
  - Chicken Chili @ *Great Greens*  
