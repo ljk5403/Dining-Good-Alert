@@ -1,0 +1,196 @@
+# 2026-09-14 dinner  
+*THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
+Updated at: 2026-09-14 20:16:32  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-14)  
+**Shrimp**  
+In name:   
+ - Sweet & Sour Shrimp @ *Global Kitchen*  
+  
+**Cod**  
+In name:   
+ - Battered Cod @ *1849*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Battered Cod @ *1849*  
+  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad @ *Delicious*  
+  
+**beef**  
+In name:   
+ - Beef Taco Meat @ *Que Rico*  
+  
+In description:   
+ - Burnt Ends @ *1849*  
+ - Italian Meat Sauce @ *Buona Cucina*  
+ - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
+  
+**pork**  
+In name:   
+ - Italian Pork Sausage @ *Buona Cucina*  
+ - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
+  
+In description:   
+ - Pizza Slice Sausage @ *Capital City Pizza*  
+  
+**chicken**  
+In name:   
+ - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
+ - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
+ - Chicken Fajita @ *Que Rico*  
+  
+In description:   
+ - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-09-14)  
+**mahi mahi**  
+In name:   
+ - Coconut Thai Curry Mahi Mahi @ *Que Rico*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Tempura Roll (FujiSan) @ *Create-A-Bowl*  
+ - Coconut Thai Curry Mahi Mahi @ *Que Rico*  
+  
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
+  
+**Pakoras**  
+In name:   
+ - Appetizer -  Pakoras Vegetable (Veg) @ *Que Rico*  
+  
+**curry**  
+In name:   
+ - Black Eyed Pea Curry (AYCTE) @ *Que Rico*  
+ - Indian Curry Garbanzo Beans @ *Que Rico*  
+ - Curry Potatoes @ *Que Rico*  
+ - Coconut Thai Curry Mahi Mahi @ *Que Rico*  
+  
+In description:   
+ - Appetizer -  Pakoras Vegetable (Veg) @ *Que Rico*  
+  
+**beef**  
+In name:   
+  
+In description:   
+ - Sliced Kielbasa (Pork) @ *1849*  
+  
+**pork**  
+In name:   
+ - Sliced Kielbasa (Pork) @ *1849*  
+  
+In description:   
+ - Andouille Sausage @ *Global Kitchen*  
+  
+**chicken**  
+In name:   
+ - Lemon Chicken Rice Soup @ *Great Greens*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
+  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-09-14)  
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+ - Tuna @ *Great Greens*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
+  
+**pork**  
+In name:   
+  
+In description:   
+ - Andouille Sausage @ *1849*  
+  
+**chicken**  
+In name:   
+ - Popcorn Chicken @ *1849*  
+ - Lemon Chicken Rice Soup @ *Great Greens*  
+  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-09-14)  
+**Shrimp**  
+In name:   
+ - Coconut Shrimp @ *Global Kitchen*  
+  
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
+  
+**curry**  
+In name:   
+ - Coconut Tofu w/Red Curry Sauce @ *Global Kitchen*  
+  
+**beef**  
+In name:   
+ - Beef Stew w/ Buttermilk Biscuit @ *1849*  
+ - Beef Barbacoa @ *Gordon Que Rico*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+  
+In description:   
+ - Vegan Taco Filling @ *Gordon Que Rico*  
+ - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
+  
+**pork**  
+In name:   
+ - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
+  
+In description:   
+ - Andouille Sausage @ *Buona Cucina*  
+  
+**chicken**  
+In name:   
+ - Huli Huli Chicken @ *1849*  
+ - Chicken Tinga @ *Gordon Que Rico*  
+ - King's Hawaiian Sand Chicken Spicy Crisp @ *King's Hawaiian*  
+ - Chicken Chili @ *Great Greens*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
+  
+In description:   
+ - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
+  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-09-14)  
+**Poke Bar**  
+In name:   
+ - Build Your Own Poke Bar @ *Global*  
+  
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
+  
+**curry**  
+In name:   
+ - Seitan & Coconut Thai Curry @ *Fired Up*  
+  
+**beef**  
+In name:   
+ - Traditional Beef Shepard's Pie @ *1849*  
+  
+In description:   
+ - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
+  
+**pork**  
+In name:   
+ - Imperial Pork Stir Fry @ *Fired Up*  
+  
+**chicken**  
+In name:   
+ - Lemon Chicken Rice Soup @ *Great Greens*  
+ - Chicken, Bacon, Jalapeno Pizza @ *Capital City Pizza*  
+  
+In description:   
+ - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
+  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-09-14)  
+  
