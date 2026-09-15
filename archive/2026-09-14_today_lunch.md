@@ -1,6 +1,6 @@
 # 2026-09-15 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-15 06:09:20  
+Updated at: 2026-09-15 12:56:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-15)  
 **Tandoori Chicken**  
 In name:   
@@ -44,7 +44,7 @@ In name:
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Chicken Parmesan Sandwich @ *Fired Up*  
+ - Crispy Chicken Sandwich @ *Fired Up*  
  - Tandoori Chicken @ *Global Kitchen*  
  - Mediterranean Chicken @ *Que Rico*  
   
@@ -55,7 +55,6 @@ In description:
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
- - Tuna Salad @ *Delicious*  
   
 **watermelon**  
 In name:   
@@ -64,20 +63,16 @@ In name:
 **beef**  
 In name:   
  - Mediterranean Beef @ *Create-A-Bowl*  
+ - Beef Stew w/ Buttermilk Biscuit @ *1849*  
  - Beef Taco Meat @ *Que Rico*  
-  
-In description:   
- - Burnt Ends @ *1849*  
-  
-**pork**  
-In name:   
- - Pork Carnita @ *Que Rico*  
+ - Beef Barbacoa @ *Que Rico*  
   
 **chicken**  
 In name:   
  - Mediterranean Chicken @ *Create-A-Bowl*  
  - Chicken Dumpling Soup @ *Great Greens*  
  - Greek Chicken @ *1849*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Tenders Breaded @ *Fired Up*  
  - Italian Chicken @ *Global Kitchen*  
   
@@ -110,13 +105,10 @@ In name:
 **steak**  
 In name:   
  - Brazilian Flank Steak @ *1849*  
- - Pepper Steak Stir Fry @ *Global Kitchen*  
   
-**squid**  
+**clam**  
 In name:   
-  
-In description:   
- - Fried Calamari @ *1849*  
+ - Clam Strips @ *1849*  
   
 **Tuna**  
 In name:   
@@ -136,9 +128,9 @@ In description:
  - Brazilian Flank Steak @ *1849*  
  - King's Hawaiian Sand Brat w/Pine Pico @ *King's Hawaiian*  
  - Vegan Taco Filling @ *Gordon Que Rico*  
- - Pepper Steak Stir Fry @ *Global Kitchen*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Gluten Free Pepperoni Pizza Quarter @ *Capital City Pizza*  
   
 **pork**  
 In name:   
@@ -154,12 +146,14 @@ In name:
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Chicken Tinga @ *Gordon Que Rico*  
  - Chicken Dumpling Soup @ *Great Greens*  
+ - Chicken Stir-Fry Coconut Lime(AYCTE)(CN) @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Gluten Free Pepperoni Pizza Quarter @ *Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-09-15)  
 **Shrimp**  

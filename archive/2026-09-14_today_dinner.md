@@ -1,6 +1,6 @@
 # 2026-09-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-15 06:09:22  
+Updated at: 2026-09-15 12:56:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-15)  
 **Shrimp**  
 In name:   
@@ -45,7 +45,6 @@ In name:
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
- - Tuna Salad @ *Delicious*  
   
 **watermelon**  
 In name:   
@@ -60,6 +59,7 @@ In name:
  - Mediterranean Chicken @ *Create-A-Bowl*  
  - Chicken Dumpling Soup @ *Great Greens*  
  - Smoked Chicken Drumstick @ *1849*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Tenders Breaded @ *Fired Up*  
  - Italian Chicken @ *Global Kitchen*  
  - Chicken Empanada with Green Chili @ *Que Rico*  
