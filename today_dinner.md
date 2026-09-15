@@ -1,10 +1,28 @@
 # 2026-09-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-15 15:57:40  
+Updated at: 2026-09-15 18:28:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-15)  
-**Shrimp**  
+**duck**  
 In name:   
- - Sweet & Sour Shrimp @ *Global Kitchen*  
+ - Duck Curry @ *Global Kitchen*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Duck Curry @ *Global Kitchen*  
+  
+**Pakoras**  
+In name:   
+ - Appetizer -  Pakoras Vegetable (Veg) @ *Global Kitchen*  
+  
+**curry**  
+In name:   
+ - Duck Curry @ *Global Kitchen*  
+ - Curry Cauliflower & Butternut Squash @ *Global Kitchen*  
+  
+In description:   
+ - Appetizer -  Pakoras Vegetable (Veg) @ *Global Kitchen*  
   
 **beef**  
 In name:   
@@ -26,7 +44,6 @@ In name:
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Plant Based Sweet & Sour Chicken @ *Global Kitchen*  
  - Mediterranean Chicken @ *Que Rico*  
   
 In description:   

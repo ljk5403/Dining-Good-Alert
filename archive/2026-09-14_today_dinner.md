@@ -1,6 +1,6 @@
 # 2026-09-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-15 12:56:10  
+Updated at: 2026-09-15 15:57:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-15)  
 **Shrimp**  
 In name:   
@@ -50,9 +50,16 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**curry**  
+In name:   
+  
+In description:   
+ - Aloo Bodi Tama (VN) @ *1849*  
+  
 **beef**  
 In name:   
  - Mediterranean Beef @ *Create-A-Bowl*  
+ - Empanada Beef Picadillo @ *Que Rico*  
   
 **chicken**  
 In name:   
@@ -62,7 +69,9 @@ In name:
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Tenders Breaded @ *Fired Up*  
  - Italian Chicken @ *Global Kitchen*  
- - Chicken Empanada with Green Chili @ *Que Rico*  
+  
+In description:   
+ - Empanada Beef Picadillo @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-09-15)  
 **Salmon**  
