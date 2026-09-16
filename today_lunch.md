@@ -1,6 +1,6 @@
 # 2026-09-15 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-15 18:28:01  
+Updated at: 2026-09-15 22:30:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-15)  
 **Tandoori Chicken**  
 In name:   
@@ -95,11 +95,19 @@ In name:
 In name:   
  - Beef Taco Meat @ *Global Kitchen*  
   
+**pork**  
+In name:   
+  
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
+  
 **chicken**  
 In name:   
  - Chicken Banh Mi @ *1849*  
  - Chicken Tinga @ *Global Kitchen*  
- - Chicken Dumpling Soup @ *Great Greens*  
+  
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-09-15)  
 **steak**  

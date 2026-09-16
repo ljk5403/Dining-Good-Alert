@@ -1,6 +1,6 @@
 # 2026-09-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-15 18:28:05  
+Updated at: 2026-09-15 22:30:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-15)  
 **duck**  
 In name:   
@@ -31,12 +31,10 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
- - Baked Corn Dog (Pork) @ *Fired Up*  
   
 **pork**  
 In name:   
  - Apricot Glazed Pork @ *1849*  
- - Baked Corn Dog (Pork) @ *Fired Up*  
   
 **chicken**  
 In name:   
@@ -44,20 +42,16 @@ In name:
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Spicy Crispy Chicken Sandwich @ *Fired Up*  
  - Mediterranean Chicken @ *Que Rico*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
- - Baked Corn Dog (Pork) @ *Fired Up*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-09-15)  
-**drumstick**  
+**mahi mahi**  
 In name:   
- - Smoked Chicken Drumstick @ *1849*  
-  
-**Tilapia**  
-In name:   
- - Blackened Tilapia @ *1849*  
+ - Blackened Mahi Mahi @ *1849*  
   
 **Tuna**  
 In name:   
@@ -82,7 +76,7 @@ In name:
 In name:   
  - Mediterranean Chicken @ *Create-A-Bowl*  
  - Chicken Dumpling Soup @ *Great Greens*  
- - Smoked Chicken Drumstick @ *1849*  
+ - Maple Cider Chicken @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Tenders Breaded @ *Fired Up*  
  - Italian Chicken @ *Global Kitchen*  
@@ -102,10 +96,18 @@ In name:
  - Tuna Salad @ *Delicious*  
  - Tuna @ *Great Greens*  
   
+**pork**  
+In name:   
+  
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
+  
 **chicken**  
 In name:   
  - Tempura Chicken w/Sauce @ *1849*  
- - Chicken Dumpling Soup @ *Great Greens*  
+  
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-09-15)  
 **mahi mahi**  
@@ -122,7 +124,7 @@ In name:
   
 **beef**  
 In name:   
- - Beef Taco Meat @ *Gordon Que Rico*  
+ - Beef Barbacoa @ *Gordon Que Rico*  
  - Beef Bean & Carrot Stir Fry @ *Global Kitchen*  
  - Plant-Based Beef Bean & Carrot Stir Fry @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
