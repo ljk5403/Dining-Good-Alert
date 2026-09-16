@@ -1,6 +1,6 @@
 # 2026-09-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-16 05:54:29  
+Updated at: 2026-09-16 12:59:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-18)  
 **drumstick**  
 In name:   
@@ -29,6 +29,8 @@ In name:
   
 **beef**  
 In name:   
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Grilled Flank Steak @ *1849*  
@@ -37,9 +39,12 @@ In description:
   
 **pork**  
 In name:   
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Pizza Slice Sausage @ *Capital City Pizza*  
+ - Bacon @ *Delicious*  
+ - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -85,9 +90,19 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**beef**  
+In name:   
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
+  
 **pork**  
 In name:   
  - Smoked Pulled Pork Sandwich @ *1849*  
+ - Pork & Beef Hard Salami @ *Delicious*  
+  
+In description:   
+ - Bacon @ *Delicious*  
+ - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -155,6 +170,8 @@ In description:
 In name:   
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Vegan Taco Filling @ *Gordon Que Rico*  
@@ -165,9 +182,12 @@ In description:
 In name:   
  - BBQ Pork Back Ribs @ *1849*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Andouille Sausage @ *Buona Cucina*  
+ - Bacon @ *Delicious*  
+ - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   

@@ -1,6 +1,6 @@
 # 2026-09-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-16 05:54:22  
+Updated at: 2026-09-16 12:59:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-18)  
 **steak**  
 In name:   
@@ -40,6 +40,8 @@ In description:
 **beef**  
 In name:   
  - Island Spiced Beef Steak @ *1849*  
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -47,10 +49,13 @@ In description:
   
 **pork**  
 In name:   
+ - Pork & Beef Hard Salami @ *Delicious*  
  - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Pizza Slice Sausage @ *Capital City Pizza*  
+ - Bacon @ *Delicious*  
+ - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -89,6 +94,8 @@ In name:
 **beef**  
 In name:   
  - Beef Ragu Sauce @ *1849*  
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -96,8 +103,13 @@ In description:
   
 **pork**  
 In name:   
+ - Pork & Beef Hard Salami @ *Delicious*  
  - Sliced Kielbasa (Pork) @ *Global Kitchen*  
  - Pork Carnita @ *Que Rico*  
+  
+In description:   
+ - Bacon @ *Delicious*  
+ - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -161,6 +173,8 @@ In name:
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef Bombay Curry @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Vegan Taco Filling @ *Gordon Que Rico*  
@@ -170,9 +184,12 @@ In description:
 **pork**  
 In name:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
+ - Bacon @ *Delicious*  
  - Andouille Sausage @ *Buona Cucina*  
+ - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   

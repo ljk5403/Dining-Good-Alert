@@ -1,6 +1,6 @@
 # 2026-09-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-16 05:54:12  
+Updated at: 2026-09-16 12:58:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-17)  
 **squid**  
 In name:   
@@ -27,6 +27,8 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
  - Beef Mediterranean @ *Que Rico*  
   
 In description:   
@@ -36,9 +38,12 @@ In description:
 **pork**  
 In name:   
  - Spicy ChilI Rice Pork Chops @ *1849*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Chorizo Sauce @ *Buona Cucina*  
+ - Bacon @ *Delicious*  
+ - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -90,6 +95,8 @@ In description:
 **beef**  
 In name:   
  - Bulgogi Beef @ *Create-A-Bowl*  
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
  - Beef Fajita @ *Que Rico*  
   
 In description:   
@@ -98,8 +105,11 @@ In description:
 **pork**  
 In name:   
  - Pork Loin Spicy Greenbush @ *1849*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
+ - Bacon @ *Delicious*  
+ - Smoked Ham @ *Delicious*  
  - Andouille Sausage @ *Global Kitchen*  
   
 **chicken**  
@@ -174,6 +184,8 @@ In description:
 In name:   
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Vegan Taco Filling @ *Gordon Que Rico*  
@@ -185,9 +197,12 @@ In name:
  - Cajun Rice w/ Pork & Black Eyed Peas @ *1849*  
  - Pork Sausage Country Gravy w/ Biscuit @ *Gordon Eggcetera*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
+ - Bacon @ *Delicious*  
  - Andouille Sausage @ *Buona Cucina*  
+ - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   
@@ -233,6 +248,8 @@ In description:
   
 **beef**  
 In name:   
+ - Roast Beef @ *Delicious*  
+ - Pork & Beef Hard Salami @ *Delicious*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
@@ -240,7 +257,12 @@ In description:
 **pork**  
 In name:   
  - Herb Crusted Pork Loin @ *Global Kitchen:  Available Between 11am-2pm*  
+ - Pork & Beef Hard Salami @ *Delicious*  
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
+  
+In description:   
+ - Bacon @ *Delicious*  
+ - Smoked Ham @ *Delicious*  
   
 **chicken**  
 In name:   
