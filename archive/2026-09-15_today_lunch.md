@@ -1,13 +1,7 @@
 # 2026-09-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-16 05:54:00  
+Updated at: 2026-09-16 12:58:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-16)  
-**fish**  
-In name:   
-  
-In description:   
- - Filipino Barbecue Pork @ *1849*  
-  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
@@ -25,7 +19,6 @@ In description:
   
 **pork**  
 In name:   
- - Filipino Barbecue Pork @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
   
 In description:   
@@ -34,6 +27,7 @@ In description:
 **chicken**  
 In name:   
  - Blackened Chicken with Orange Sauce @ *1849*  
+ - Chicken Paprikash @ *1849*  
  - Spicy Lo Mein w/Chicken @ *Global Kitchen*  
  - Fajita Chicken @ *Que Rico*  
   
@@ -148,10 +142,6 @@ In name:
 In name:   
  - Ginger Glazed Salmon @ *Carson's 1849:  Available Between 11am-2pm*  
   
-**Tuna**  
-In name:   
- - Tuna @ *Great Greens*  
-  
 **beef**  
 In name:   
  - Goulash "Beef" Sauce (VN) @ *Global Kitchen:  Available Between 11am-2pm*  
@@ -170,6 +160,7 @@ In name:
   
 **chicken**  
 In name:   
+ - Diced Chicken @ *Great Greens*  
   
 In description:   
  - Italian Meatball Sandwich @ *Fired Up:  Available Between 11am-2pm*  

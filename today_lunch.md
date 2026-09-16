@@ -1,6 +1,6 @@
 # 2026-09-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-16 12:58:44  
+Updated at: 2026-09-16 16:12:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-16)  
 **Tuna**  
 In name:   
@@ -26,7 +26,7 @@ In description:
   
 **chicken**  
 In name:   
- - Blackened Chicken with Orange Sauce @ *1849*  
+ - Buffalo Chicken Wings Bone-In @ *1849*  
  - Chicken Paprikash @ *1849*  
  - Spicy Lo Mein w/Chicken @ *Global Kitchen*  
  - Fajita Chicken @ *Que Rico*  
@@ -138,9 +138,9 @@ In description:
 In name:   
  - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
   
-**Salmon**  
+**Cod**  
 In name:   
- - Ginger Glazed Salmon @ *Carson's 1849:  Available Between 11am-2pm*  
+ - Fried Cod Basket @ *Carson's 1849:  Available Between 11am-2pm*  
   
 **beef**  
 In name:   

@@ -1,6 +1,6 @@
 # 2026-09-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-16 05:54:06  
+Updated at: 2026-09-16 12:58:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-16)  
 **Beef Alicha**  
 In name:   
@@ -180,10 +180,6 @@ In name:
 In name:   
  - Tilapia Chipotle Lime Crusted @ *1849*  
   
-**Tuna**  
-In name:   
- - Tuna @ *Great Greens*  
-  
 **beef**  
 In name:   
  - Beef Gravy @ *Global*  
@@ -205,6 +201,7 @@ In name:
  - Popcorn Chicken @ *Global*  
  - Chicken Gravy @ *Global*  
  - Teriyaki Chicken Fillet @ *Fired Up*  
+ - Diced Chicken @ *Great Greens*  
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  

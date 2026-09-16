@@ -1,6 +1,6 @@
 # 2026-09-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-16 12:58:49  
+Updated at: 2026-09-16 16:12:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-16)  
 **Beef Alicha**  
 In name:   
@@ -125,12 +125,6 @@ In name:
  - Tikka Masala Chicken @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-09-16)  
-**fish**  
-In name:   
-  
-In description:   
- - California Roll  (FujiSan) @ *Global Kitchen*  
-  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
