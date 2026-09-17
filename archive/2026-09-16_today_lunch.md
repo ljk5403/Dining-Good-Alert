@@ -1,12 +1,10 @@
 # 2026-09-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-17 06:01:58  
+Updated at: 2026-09-17 12:55:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-17)  
-**squid**  
+**Shrimp**  
 In name:   
-  
-In description:   
- - Fried Calamari @ *1849*  
+ - Fried Popcorn Shrimp @ *1849*  
   
 **fish**  
 In name:   
@@ -31,6 +29,7 @@ In name:
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
+ - Reuben @ *Fired Up*  
   
 **pork**  
 In name:   
@@ -45,7 +44,6 @@ In name:
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Chicken Tenders Breaded @ *Fired Up*  
  - Mediterranean Chicken @ *Que Rico*  
   
 In description:   
@@ -154,6 +152,10 @@ In name:
 In name:   
  - Shrimp Etouffee @ *1849*  
   
+**Tilapia**  
+In name:   
+ - Island Spiced Tilapia @ *Global Kitchen*  
+  
 **fish**  
 In name:   
   
@@ -179,6 +181,7 @@ In description:
  - Vegan Taco Filling @ *Gordon Que Rico*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Gluten Free Pepperoni Pizza Quarter @ *Capital City Pizza*  
   
 **pork**  
 In name:   
@@ -196,7 +199,6 @@ In name:
  - King's Hawaiian Sand Chicken Crispy @ *King's Hawaiian*  
  - Chicken Tinga @ *Gordon Que Rico*  
  - Chicken Noodle Soup @ *Great Greens*  
- - Chicken Shawarma Sandwich @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
@@ -204,6 +206,7 @@ In description:
  - Pork Sausage Country Gravy w/ Biscuit @ *Gordon Eggcetera*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Gluten Free Pepperoni Pizza Quarter @ *Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-09-17)  
 **Cod**  
