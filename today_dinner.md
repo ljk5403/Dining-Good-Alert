@@ -1,6 +1,6 @@
 # 2026-09-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-17 16:01:23  
+Updated at: 2026-09-17 18:54:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-17)  
 **curry**  
 In name:   
@@ -10,7 +10,7 @@ In name:
 **beef**  
 In name:   
  - Traditional Beef Shepard's Pie @ *1849*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Beef Tortellini @ *Buona Cucina*  
  - Beef Mediterranean @ *Que Rico*  
   
 In description:   
@@ -19,6 +19,7 @@ In description:
   
 **pork**  
 In name:   
+ - Italian Pork Sausage @ *Buona Cucina*  
  - Currywurst (Pork) @ *Fired Up*  
   
 In description:   
@@ -28,7 +29,6 @@ In description:
 In name:   
  - Plant-Based Chicken & Dumplings @ *1849*  
  - Chicken Breast w/Red Pepper Cream @ *1849*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Mediterranean Chicken @ *Que Rico*  
@@ -176,7 +176,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken French @ *1849*  
+ - Baked BBQ Chicken @ *1849*  
  - Chicken Tinga @ *Gordon Que Rico*  
  - King's Hawaiian Sand Chicken Crispy @ *King's Hawaiian*  
  - Chicken Noodle Soup @ *Great Greens*  

@@ -1,6 +1,6 @@
 # 2026-09-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-17 12:55:59  
+Updated at: 2026-09-17 16:01:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-17)  
 **curry**  
 In name:   
@@ -87,6 +87,7 @@ In name:
   
 In description:   
  - Grilled Flank Steak @ *1849*  
+ - Vegan Taco Filling @ *Que Rico*  
   
 **pork**  
 In name:   
@@ -103,6 +104,10 @@ In name:
  - Chicken Tamale with Oaxaca @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-09-17)  
+**Poke Bar**  
+In name:   
+ - Build Your Own Poke Bar (Liz) @ *Global Kitchen*  
+  
 **fish**  
 In name:   
   
@@ -111,7 +116,6 @@ In description:
   
 **Tuna**  
 In name:   
- - Poke Tuna @ *Global Kitchen*  
  - Tuna @ *Great Greens*  
   
 **curry**  
@@ -128,10 +132,13 @@ In name:
 In name:   
  - Chicken Baked  (1 piece) @ *1849*  
  - Chicken Gravy @ *1849*  
- - Poke Chicken (Sauced) @ *Global Kitchen*  
  - Chicken Noodle Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-09-17)  
+**steak**  
+In name:   
+ - Beef Flank Steak @ *1849*  
+  
 **fish**  
 In name:   
   
@@ -150,14 +157,13 @@ In description:
   
 **beef**  
 In name:   
- - Garlic Herb Roast Beef @ *1849*  
+ - Beef Flank Steak @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
  - Vegan Taco Filling @ *Gordon Que Rico*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  
 In name:   
@@ -165,6 +171,7 @@ In name:
  - Jerk Pork Chop @ *Global Kitchen*  
   
 In description:   
+ - Pizza Slice Sausage @ *Capital City Pizza*  
  - Andouille Sausage @ *Buona Cucina*  
   
 **chicken**  
@@ -178,12 +185,11 @@ In name:
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-09-17)  
-**Tilapia**  
+**FiIipino Pork Spring Roll**  
 In name:   
- - Lemon Grass Tilapia @ *Fired Up*  
+ - FiIipino Pork Spring Roll @ *Fired Up*  
   
 **fish**  
 In name:   
@@ -194,6 +200,10 @@ In description:
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
+  
+**Filipino Pork Sausage**  
+In name:   
+ - Filipino Pork Sausage @ *Fired Up*  
   
 **curry**  
 In name:   
@@ -211,6 +221,8 @@ In description:
 **pork**  
 In name:   
  - Green Beans w/ Pork Bacon @ *Fired Up*  
+ - FiIipino Pork Spring Roll @ *Fired Up*  
+ - Filipino Pork Sausage @ *Fired Up*  
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
   
 In description:   
