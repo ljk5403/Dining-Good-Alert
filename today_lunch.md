@@ -1,11 +1,10 @@
 # 2026-09-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-16 16:12:21  
+Updated at: 2026-09-16 19:06:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-16)  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
- - Lemon Pepper Tuna Salad @ *Delicious*  
   
 **beef**  
 In name:   

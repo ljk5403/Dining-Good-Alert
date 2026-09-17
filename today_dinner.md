@@ -1,6 +1,6 @@
 # 2026-09-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-16 16:12:25  
+Updated at: 2026-09-16 19:06:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-16)  
 **Beef Alicha**  
 In name:   
@@ -8,28 +8,17 @@ In name:
   
 **Cod**  
 In name:   
- - Miso Cod @ *1849*  
+ - Lemon Pepper Cod Fillet @ *1849*  
   
-**lamb**  
+**Filipino Pork Sausage**  
 In name:   
- - Lamb Vindaloo @ *Global Kitchen*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Miso Cod @ *1849*  
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
+ - Filipino Pork Sausage @ *Global Kitchen*  
   
 **curry**  
 In name:   
   
 In description:   
  - Chana Saag w/ Tofu @ *1849*  
- - Lamb Vindaloo @ *Global Kitchen*  
   
 **beef**  
 In name:   
@@ -42,6 +31,7 @@ In description:
 **pork**  
 In name:   
  - Italian Pork Sausage @ *Buona Cucina*  
+ - Filipino Pork Sausage @ *Global Kitchen*  
  - Pork Belly for Street Taco - Carson @ *Que Rico*  
   
 In description:   
@@ -63,7 +53,7 @@ In name:
 In name:   
  - Beef Chili @ *Great Greens*  
  - Beef Hot Tamale Pie @ *1849*  
- - Beef Bean & Carrot Stir Fry @ *Global Kitchen*  
+ - Mediterranean Beef @ *Global Kitchen*  
   
 **pork**  
 In name:   
@@ -125,6 +115,12 @@ In name:
  - Tikka Masala Chicken @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-09-16)  
+**fish**  
+In name:   
+  
+In description:   
+ - California Roll  (FujiSan) @ *Gordon Eggcetera*  
+  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
@@ -141,6 +137,7 @@ In name:
   
 In description:   
  - Vegan Taco Filling @ *Gordon Que Rico*  
+ - Pork Bratwurst Sandwich @ *King's Hawaiian*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Italian Meat Sauce @ *Buona Cucina*  
@@ -148,6 +145,7 @@ In description:
 **pork**  
 In name:   
  - Roasted Pork Loin @ *1849*  
+ - Pork Bratwurst Sandwich @ *King's Hawaiian*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
 In description:   
