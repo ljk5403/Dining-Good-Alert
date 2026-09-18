@@ -1,6 +1,6 @@
 # 2026-09-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-18 05:37:52  
+Updated at: 2026-09-18 12:30:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-18)  
 **steak**  
 In name:   
@@ -24,7 +24,6 @@ In name:
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
- - Lemon Pepper Tuna Salad @ *Delicious*  
   
 **watermelon**  
 In name:   
@@ -59,19 +58,13 @@ In name:
  - Fajita Chicken @ *Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-09-18)  
-**portabella**  
-In name:   
-  
-In description:   
- - Grilled Portabello Mushroom Sandwich @ *Fired Up*  
-  
 **Poke Bar**  
 In name:   
  - Build Your Own Poke Bar @ *Create-A-Bowl*  
   
 **Cod**  
 In name:   
- - Baked Cod with Tomato Tapenade @ *1849*  
+ - Lemon Pepper Cod Fillet @ *1849*  
   
 **clam**  
 In name:   
@@ -124,10 +117,6 @@ In name:
  - Chicken Tenders Breaded @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-09-18)  
-**haddock**  
-In name:   
- - Haddock Ginger Glazed (AYCTE) @ *1849*  
-  
 **Cod**  
 In name:   
   
@@ -165,7 +154,7 @@ In name:
 In description:   
  - Vegan Taco Filling @ *Gordon Que Rico*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Gluten Free Pepperoni Pizza Quarter @ *Capital City Pizza*  
   
 **pork**  
 In name:   
@@ -173,10 +162,10 @@ In name:
   
 In description:   
  - Andouille Sausage @ *Buona Cucina*  
+ - Pizza Slice Sausage @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
- - Honey Lime Chicken Breast @ *1849*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Chicken Tinga @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
@@ -184,7 +173,7 @@ In name:
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Gluten Free Pepperoni Pizza Quarter @ *Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-09-18)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-09-18)  
