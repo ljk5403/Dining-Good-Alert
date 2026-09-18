@@ -1,6 +1,6 @@
 # 2026-09-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-18 12:30:09  
+Updated at: 2026-09-18 15:26:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-18)  
 **drumstick**  
 In name:   
@@ -53,12 +53,9 @@ In name:
 In name:   
  - Grilled Chipotle Salmon @ *1849*  
   
-**Shrimp**  
-In name:   
- - Sauteed Shrimp @ *Global Kitchen*  
-  
 **Cod**  
 In name:   
+ - Lemon Pepper Cod Fillet @ *1849*  
   
 In description:   
  - Fish Tacos @ *Que Rico*  
@@ -69,7 +66,6 @@ In name:
   
 **fish**  
 In name:   
- - Vegan Fish Sandwich @ *Fired Up*  
  - Vegetarian "Fish" Tacos @ *Que Rico*  
  - Fish Tacos @ *Que Rico*  
   
@@ -81,6 +77,11 @@ In name:
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
+  
+**beef**  
+In name:   
+ - Beef Hot Tamale Pie @ *1849*  
+ - Beef Fajita Meat @ *Global Kitchen*  
   
 **pork**  
 In name:   
@@ -94,10 +95,6 @@ In name:
 **Salmon**  
 In name:   
  - Salmon Tandoori Roasted @ *1849*  
-  
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
   
 **Tuna**  
 In name:   

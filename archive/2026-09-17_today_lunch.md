@@ -1,6 +1,6 @@
 # 2026-09-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-18 12:30:04  
+Updated at: 2026-09-18 15:26:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-18)  
 **steak**  
 In name:   
@@ -85,6 +85,7 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
+ - Blended Hamburger @ *Fired Up*  
  - Sliced Kielbasa (Pork) @ *Global Kitchen*  
   
 **pork**  
@@ -92,15 +93,7 @@ In name:
  - Sliced Kielbasa (Pork) @ *Global Kitchen*  
  - Pork Carnita @ *Que Rico*  
   
-**chicken**  
-In name:   
- - Grilled Chicken Sandwich @ *Fired Up*  
-  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-09-18)  
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
-  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  

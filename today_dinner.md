@@ -1,6 +1,6 @@
 # 2026-09-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-18 15:26:44  
+Updated at: 2026-09-18 18:01:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-18)  
 **drumstick**  
 In name:   
@@ -24,6 +24,7 @@ In description:
   
 **beef**  
 In name:   
+ - Southwest Beef Stuffed Potato @ *Buona Cucina*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -141,6 +142,7 @@ In name:
   
 **curry**  
 In name:   
+ - Beef Bombay Curry @ *Global Kitchen*  
   
 In description:   
  - Chana Saag w/ Tofu @ *Global Kitchen*  
@@ -148,31 +150,30 @@ In description:
 **beef**  
 In name:   
  - Beef Taco Meat @ *Gordon Que Rico*  
+ - Beef Bombay Curry @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
  - Vegan Taco Filling @ *Gordon Que Rico*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  
 In name:   
  - BBQ Pork Back Ribs @ *1849*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
+ - Gluten Free Pork Sausage Pizza @ *Capital City Pizza*  
   
 In description:   
+ - Pizza Slice Sausage @ *Capital City Pizza*  
  - Andouille Sausage @ *Buona Cucina*  
   
 **chicken**  
 In name:   
- - Chicken Tinga @ *Gordon Que Rico*  
- - Sumac Chicken @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-09-18)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-09-18)  
