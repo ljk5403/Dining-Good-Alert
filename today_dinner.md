@@ -1,6 +1,6 @@
 # 2026-09-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-17 18:54:55  
+Updated at: 2026-09-17 22:21:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-17)  
 **curry**  
 In name:   
@@ -42,9 +42,6 @@ In description:
 In name:   
  - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
   
-In description:   
- - Portobello Mushroom Stroganoff @ *1849*  
-  
 **Bulgogi**  
 In name:   
  - Bulgogi Beef @ *Create-A-Bowl*  
@@ -56,9 +53,9 @@ In name:
 In name:   
  - Chicken Drummies @ *Fired Up*  
   
-**steak**  
+**Tilapia**  
 In name:   
- - Grilled Flank Steak @ *1849*  
+ - Blackened Tilapia @ *1849*  
   
 **fish**  
 In name:   
@@ -86,7 +83,7 @@ In name:
  - Bulgogi Beef @ *Create-A-Bowl*  
   
 In description:   
- - Grilled Flank Steak @ *1849*  
+ - Vegan Sloppy Joe @ *1849*  
  - Vegan Taco Filling @ *Que Rico*  
   
 **pork**  
@@ -137,7 +134,7 @@ In name:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-09-17)  
 **steak**  
 In name:   
- - Beef Flank Steak @ *1849*  
+ - Country Fried Steak @ *1849*  
   
 **fish**  
 In name:   
@@ -157,11 +154,12 @@ In description:
   
 **beef**  
 In name:   
- - Beef Flank Steak @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
+ - Country Fried Steak @ *1849*  
+ - Country Gravy @ *1849*  
  - Vegan Taco Filling @ *Gordon Que Rico*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
@@ -176,7 +174,7 @@ In description:
   
 **chicken**  
 In name:   
- - Baked BBQ Chicken @ *1849*  
+ - Breaded Chicken Tenders @ *1849*  
  - Chicken Tinga @ *Gordon Que Rico*  
  - King's Hawaiian Sand Chicken Crispy @ *King's Hawaiian*  
  - Chicken Noodle Soup @ *Great Greens*  
