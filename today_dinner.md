@@ -1,6 +1,6 @@
 # 2026-09-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-18 18:01:29  
+Updated at: 2026-09-18 22:18:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-18)  
 **drumstick**  
 In name:   
@@ -50,20 +50,12 @@ In name:
 In name:   
  - Build Your Own Poke Bar @ *Create-A-Bowl*  
   
-**Salmon**  
-In name:   
- - Grilled Chipotle Salmon @ *1849*  
-  
 **Cod**  
 In name:   
  - Lemon Pepper Cod Fillet @ *1849*  
   
 In description:   
  - Fish Tacos @ *Que Rico*  
-  
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
   
 **fish**  
 In name:   
@@ -82,15 +74,18 @@ In name:
 **beef**  
 In name:   
  - Beef Hot Tamale Pie @ *1849*  
- - Beef Fajita Meat @ *Global Kitchen*  
   
 **pork**  
 In name:   
  - Smoked Pulled Pork Sandwich @ *1849*  
   
+In description:   
+ - Andouille Sausage @ *Global Kitchen*  
+  
 **chicken**  
 In name:   
- - Spicy Crispy Chicken Sandwich @ *Fired Up*  
+ - Chicken Chili @ *Great Greens*  
+ - Crispy Chicken Sandwich @ *Fired Up*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-09-18)  
 **Salmon**  
@@ -113,10 +108,6 @@ In name:
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-09-18)  
-**Salmon**  
-In name:   
- - Oven Roasted Salmon @ *1849*  
-  
 **Cod**  
 In name:   
   
@@ -142,7 +133,6 @@ In name:
   
 **curry**  
 In name:   
- - Beef Bombay Curry @ *Global Kitchen*  
   
 In description:   
  - Chana Saag w/ Tofu @ *Global Kitchen*  
@@ -150,7 +140,6 @@ In description:
 **beef**  
 In name:   
  - Beef Taco Meat @ *Gordon Que Rico*  
- - Beef Bombay Curry @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
@@ -162,6 +151,7 @@ In name:
  - BBQ Pork Back Ribs @ *1849*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
  - Gluten Free Pork Sausage Pizza @ *Capital City Pizza*  
+ - Jerk Pork Chop @ *Global Kitchen*  
   
 In description:   
  - Pizza Slice Sausage @ *Capital City Pizza*  
@@ -169,6 +159,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Breaded Chicken Tenders @ *1849*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   

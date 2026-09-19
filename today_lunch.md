@@ -1,6 +1,6 @@
 # 2026-09-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-18 18:01:23  
+Updated at: 2026-09-18 22:17:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-18)  
 **steak**  
 In name:   
@@ -66,10 +66,6 @@ In name:
 In name:   
  - Lemon Pepper Cod Fillet @ *1849*  
   
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
-  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
@@ -92,6 +88,10 @@ In description:
 In name:   
  - Sliced Kielbasa (Pork) @ *Global Kitchen*  
  - Pork Carnita @ *Que Rico*  
+  
+**chicken**  
+In name:   
+ - Chicken Chili @ *Great Greens*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-09-18)  
 **Tuna**  
