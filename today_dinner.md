@@ -1,6 +1,6 @@
 # 2026-09-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-20 12:18:00  
+Updated at: 2026-09-20 15:22:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-20)  
 **BBQ Pork Sandwich**  
 In name:   
@@ -122,9 +122,6 @@ In name:
  - Beef Taco Meat @ *Global*  
  - Beef Stroganoff Creamy @ *Fired Up*  
   
-In description:   
- - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza*  
-  
 **pork**  
 In name:   
   
@@ -135,9 +132,6 @@ In description:
 In name:   
  - Chicken Tinga @ *Global*  
  - Chicken Chili @ *Great Greens*  
-  
-In description:   
- - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-09-20)  
   

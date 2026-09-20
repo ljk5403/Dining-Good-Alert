@@ -1,6 +1,6 @@
 # 2026-09-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-20 12:17:58  
+Updated at: 2026-09-20 15:22:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-20)  
 **drumstick**  
 In name:   
@@ -76,6 +76,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Tri Tip Carved w/ Chimichurri @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
@@ -87,7 +88,6 @@ In description:
   
 **pork**  
 In name:   
- - Jerk Pork Chop @ *1849*  
  - Biscuits & Pork Gravy @ *Eggcetera*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
@@ -109,11 +109,9 @@ In description:
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-09-20)  
-**fish**  
+**Shrimp**  
 In name:   
-  
-In description:   
- - Vietnamese Pork @ *Global Kitchen:  Available Between 11am-2pm*  
+ - Coconut Shrimp @ *Global Kitchen:  Available Between 11am-2pm*  
   
 **Tuna**  
 In name:   
@@ -124,11 +122,9 @@ In name:
   
 In description:   
  - Blended Hamburger @ *Fired Up:  Available Between 11am-2pm*  
- - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza*  
   
 **pork**  
 In name:   
- - Vietnamese Pork @ *Global Kitchen:  Available Between 11am-2pm*  
   
 In description:   
  - Pizza Slice Sausage & Mushroom @ *Capital City Pizza*  
@@ -138,9 +134,7 @@ In name:
  - Maple Cider Chicken @ *Carson's 1849:  Available Between 11am-2pm*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera:  Available Between 11am-2pm*  
  - Chicken Chili @ *Great Greens*  
-  
-In description:   
- - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza*  
+ - Chicken, Bacon, Jalapeno Pizza @ *Capital City Pizza*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-09-20)  
   
