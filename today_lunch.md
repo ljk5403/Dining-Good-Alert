@@ -1,11 +1,15 @@
 # 2026-09-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-19 17:41:00  
+Updated at: 2026-09-19 19:40:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-19)  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-09-19)  
 **steak**  
 In name:   
  - Philly Cheesesteak Sandwich @ *Fired Up*  
+  
+**clam**  
+In name:   
+ - Clam Chowder @ *Great Greens*  
   
 **Tuna**  
 In name:   
@@ -23,7 +27,6 @@ In description:
 In name:   
   
 In description:   
- - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Andouille Sausage @ *1849*  
   
 **chicken**  
@@ -31,9 +34,6 @@ In name:
  - Plant-Based Chicken Nuggets @ *Fired Up*  
  - Giardiniera Chicken @ *Global Kitchen*  
  - Taco Chicken @ *Que Rico*  
-  
-In description:   
- - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-09-19)  
 **Tuna**  

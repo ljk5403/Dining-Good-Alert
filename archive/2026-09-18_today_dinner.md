@@ -1,6 +1,6 @@
 # 2026-09-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-19 15:06:08  
+Updated at: 2026-09-19 17:41:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-19)  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-09-19)  
 **Tuna**  
@@ -11,6 +11,7 @@ In name:
 **beef**  
 In name:   
  - Beef Broccoli Stir Fry @ *1849*  
+ - Beef Ragu Sauce @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -19,6 +20,7 @@ In description:
 **pork**  
 In name:   
  - Pork Bratwurst Sandwich @ *Fired Up*  
+ - Andouille Pork Sausage @ *Global Kitchen*  
   
 In description:   
  - Kale, Sausage & Potato Soup @ *Great Greens*  
@@ -27,7 +29,6 @@ In description:
 In name:   
  - Plant Based Sweet & Sour Chicken @ *1849*  
  - Plant-Based Chicken Tenders @ *Fired Up*  
- - Giardiniera Chicken @ *Global Kitchen*  
  - Taco Chicken @ *Que Rico*  
   
 In description:   
@@ -86,7 +87,6 @@ In description:
 In name:   
  - Chicken Gravy @ *1849*  
  - Cajun Chicken Pasta @ *1849*  
- - Chicken Tinga @ *Gordon Que Rico*  
  - Chicken Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  

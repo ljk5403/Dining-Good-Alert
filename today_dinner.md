@@ -1,8 +1,16 @@
 # 2026-09-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-19 17:41:06  
+Updated at: 2026-09-19 19:40:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-19)  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-09-19)  
+**clam**  
+In name:   
+ - Clam Chowder @ *Great Greens*  
+  
+**fish**  
+In name:   
+ - Vegan Fish Sandwich @ *Fired Up*  
+  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
@@ -10,8 +18,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Broccoli Stir Fry @ *1849*  
- - Beef Ragu Sauce @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -20,19 +26,13 @@ In description:
 **pork**  
 In name:   
  - Pork Bratwurst Sandwich @ *Fired Up*  
- - Andouille Pork Sausage @ *Global Kitchen*  
-  
-In description:   
- - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 **chicken**  
 In name:   
+ - Sweet & Spicy Orange Chicken @ *1849*  
  - Plant Based Sweet & Sour Chicken @ *1849*  
- - Plant-Based Chicken Tenders @ *Fired Up*  
+ - Giardiniera Chicken @ *Global Kitchen*  
  - Taco Chicken @ *Que Rico*  
-  
-In description:   
- - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-09-19)  
 **Tuna**  
@@ -78,7 +78,6 @@ In description:
   
 **pork**  
 In name:   
- - Herb Crusted Pork Loin @ *1849*  
   
 In description:   
  - Andouille Sausage @ *Buona Cucina*  
@@ -87,6 +86,8 @@ In description:
 In name:   
  - Chicken Gravy @ *1849*  
  - Cajun Chicken Pasta @ *1849*  
+ - Breaded Chicken Tenders @ *1849*  
+ - Taco Chicken @ *Gordon Que Rico*  
  - Chicken Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
