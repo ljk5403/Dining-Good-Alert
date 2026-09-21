@@ -1,6 +1,6 @@
 # 2026-09-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-21 07:05:09  
+Updated at: 2026-09-21 14:04:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-21)  
 **steak**  
 In name:   
@@ -25,7 +25,6 @@ In name:
 In description:   
  - Sausage (Pork), Potatoes, & Peppers @ *1849*  
  - Italian Meat Sauce @ *Buona Cucina*  
- - Chicago-Style Hot Dog @ *Fired Up*  
   
 **pork**  
 In name:   
@@ -66,10 +65,6 @@ In name:
 In description:   
  - Coconut Thai Curry Mahi Mahi @ *Que Rico*  
   
-**Tuna**  
-In name:   
- - Tuna Salad @ *Delicious*  
-  
 **Pakoras**  
 In name:   
  - Appetizer -  Pakoras Vegetable (Veg) @ *Que Rico*  
@@ -100,6 +95,7 @@ In name:
 In name:   
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
+ - Chicken Salad @ *Delicious*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-09-21)  
 **Tuna**  
