@@ -1,0 +1,123 @@
+# 2026-09-20 dinner  
+*THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
+Updated at: 2026-09-20 20:00:05  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-20)  
+**beef**  
+In name:   
+ - Beef Taco Meat @ *Que Rico*  
+  
+In description:   
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - BBQ Brisket Sandwich @ *Fired Up*  
+ - Vegan Taco Filling @ *Que Rico*  
+  
+**pork**  
+In name:   
+ - Italian Pork Sausage @ *Buona Cucina*  
+ - Pork Carnita @ *Que Rico*  
+  
+**chicken**  
+In name:   
+ - Plant-Based Chicken Tenders @ *1849*  
+ - Chicken Tenders Breaded @ *1849*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Chicken Teriyaki Stir Fry @ *Global Kitchen*  
+ - Fajita Chicken @ *Que Rico*  
+  
+In description:   
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-09-20)  
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
+ - Tuna Salad @ *Delicious*  
+  
+**beef**  
+In name:   
+ - Beef Harissa w/Couscous @ *1849*  
+ - Beef Taco Meat @ *Que Rico*  
+  
+In description:   
+ - Grilled Blended Burger w/ Cheese @ *Fired Up*  
+  
+**chicken**  
+In name:   
+ - Chicken Chili @ *Great Greens*  
+ - Chicken Paprikash @ *1849*  
+ - Giardiniera Chicken @ *Global Kitchen*  
+ - Taco Chicken @ *Que Rico*  
+  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-09-20)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-09-20)  
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
+  
+**beef**  
+In name:   
+ - Roast Beef @ *1849*  
+ - Beef Hot Dog @ *1849*  
+ - Beef Taco Meat @ *Gordon Que Rico*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+  
+In description:   
+ - Vegan Taco Filling @ *Gordon Que Rico*  
+ - King's Hawaiian Sand Blended Burger @ *King's Hawaiian*  
+ - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
+  
+**pork**  
+In name:   
+ - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
+  
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
+ - Pizza Slice Sausage @ *Capital City Pizza*  
+ - Andouille Sausage @ *Buona Cucina*  
+  
+**chicken**  
+In name:   
+ - Taco Chicken @ *Gordon Que Rico*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
+  
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
+ - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
+  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-09-20)  
+**catfish**  
+In name:   
+ - Island Spiced Catfish @ *1849*  
+  
+**fish**  
+In name:   
+ - Island Spiced Catfish @ *1849*  
+  
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
+  
+**curry**  
+In name:   
+ - Curry Potatoes @ *Fired Up*  
+  
+**beef**  
+In name:   
+ - Beef Taco Meat @ *Global*  
+ - Beef Stroganoff Creamy @ *Fired Up*  
+  
+**pork**  
+In name:   
+  
+In description:   
+ - Pizza Slice Sausage & Mushroom @ *Capital City Pizza*  
+  
+**chicken**  
+In name:   
+ - Chicken Tinga @ *Global*  
+ - Chicken Chili @ *Great Greens*  
+ - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
+  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-09-20)  
+  
