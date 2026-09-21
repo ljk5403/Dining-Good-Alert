@@ -1,23 +1,19 @@
 # 2026-09-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-20 15:22:17  
+Updated at: 2026-09-20 17:59:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-20)  
-**BBQ Pork Sandwich**  
-In name:   
- - BBQ Pork Sandwich @ *Fired Up*  
-  
 **beef**  
 In name:   
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - BBQ Brisket Sandwich @ *Fired Up*  
  - Vegan Taco Filling @ *Que Rico*  
   
 **pork**  
 In name:   
  - Italian Pork Sausage @ *Buona Cucina*  
- - BBQ Pork Sandwich @ *Fired Up*  
  - Pork Carnita @ *Que Rico*  
   
 In description:   
@@ -53,14 +49,11 @@ In name:
 In description:   
  - Grilled Blended Burger w/ Cheese @ *Fired Up*  
   
-**pork**  
-In name:   
- - Pork Carnita @ *Que Rico*  
-  
 **chicken**  
 In name:   
  - Chicken Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
+ - Taco Chicken @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-09-20)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-09-20)  
@@ -77,7 +70,6 @@ In description:
  - Vegan Taco Filling @ *Gordon Que Rico*  
  - King's Hawaiian Sand Blended Burger @ *King's Hawaiian*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  
 In name:   
@@ -86,6 +78,7 @@ In name:
   
 In description:   
  - Kale, Sausage & Potato Soup @ *Great Greens*  
+ - Pizza Slice Sausage @ *Capital City Pizza*  
  - Andouille Sausage @ *Buona Cucina*  
   
 **chicken**  
@@ -98,7 +91,6 @@ In name:
 In description:   
  - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-09-20)  
 **catfish**  
@@ -132,6 +124,7 @@ In description:
 In name:   
  - Chicken Tinga @ *Global*  
  - Chicken Chili @ *Great Greens*  
+ - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-09-20)  
   

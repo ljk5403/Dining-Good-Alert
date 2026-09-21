@@ -1,6 +1,6 @@
 # 2026-09-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-20 15:22:13  
+Updated at: 2026-09-20 17:59:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-20)  
 **drumstick**  
 In name:   
@@ -135,6 +135,7 @@ In name:
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera:  Available Between 11am-2pm*  
  - Chicken Chili @ *Great Greens*  
  - Chicken, Bacon, Jalapeno Pizza @ *Capital City Pizza*  
+ - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-09-20)  
   
