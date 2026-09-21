@@ -1,6 +1,6 @@
 # 2026-09-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-21 07:05:05  
+Updated at: 2026-09-21 14:04:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-21)  
 **Tuna**  
 In name:   
@@ -8,7 +8,6 @@ In name:
   
 **beef**  
 In name:   
- - Texas BBQ Sliced Beef Brisket @ *1849*  
  - Beef Ravioli Plain @ *Buona Cucina*  
  - Beef Fajita Meat @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
@@ -19,6 +18,7 @@ In description:
   
 **pork**  
 In name:   
+ - Porkloin Fritter @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
   
 In description:   
@@ -40,26 +40,17 @@ In name:
 In name:   
  - Chicken Drumstick BBQ Glazed @ *1849*  
   
-**lamb**  
-In name:   
- - Lamb Vindaloo @ *Que Rico*  
-  
 **fish**  
 In name:   
   
 In description:   
  - California Roll  (FujiSan) @ *Create-A-Bowl*  
   
-**Tuna**  
-In name:   
- - Tuna Salad @ *Delicious*  
-  
 **curry**  
 In name:   
  - Curry Potatoes @ *Que Rico*  
   
 In description:   
- - Lamb Vindaloo @ *Que Rico*  
  - Vegetable Korma @ *Que Rico*  
   
 **beef**  
@@ -80,7 +71,7 @@ In name:
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Chicken Drumstick BBQ Glazed @ *1849*  
- - Butter Chicken @ *Que Rico*  
+ - Chicken Salad @ *Delicious*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-09-21)  
 **steak**  
@@ -107,6 +98,10 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**curry**  
+In name:   
+ - Indian Curry Garbanzo Beans @ *1849*  
+  
 **beef**  
 In name:   
  - Lamb & Beef Gyro Sandwich @ *Global Kitchen*  
@@ -122,7 +117,6 @@ In description:
   
 **chicken**  
 In name:   
- - Plant-Based Chicken Etouffee @ *1849*  
  - Chicken Sausage Gumbo @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
@@ -148,36 +142,32 @@ In name:
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
-In description:   
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
-  
 **pork**  
 In name:   
  - Pork Loin Spicy Greenbush @ *1849*  
  - Vietnamese Pork with Rice @ *Global Kitchen*  
- - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
+ - Gluten Free Pork Sausage Pizza Quarter @ *Capital City Pizza*  
+  
+In description:   
+ - Pizza Slice Sausage @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
- - King's Hawaiian Sand Chicken Spicy Crisp @ *King's Hawaiian*  
+ - King's Hawaiian Sand Chicken Crispy @ *King's Hawaiian*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Diced Chicken Breast @ *Buona Cucina*  
- - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
-  
-In description:   
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-09-21)  
 **steak**  
 In name:   
  - Ham Steak @ *Eggcetera:  Available Between 11am-2pm*  
   
-**Salmon**  
+**mahi mahi**  
 In name:   
- - Blackened Salmon @ *Carson's 1849:  Available Between 11am-2pm*  
+ - Island Spiced Mahi Mahi @ *Carson's 1849:  Available Between 11am-2pm*  
   
 **BBQ Pork Sandwich**  
 In name:   
@@ -185,13 +175,13 @@ In name:
   
 **beef**  
 In name:   
- - Beef Tri Tip Carved w/ Chimichurri @ *Global Kitchen:  Available Between 11am-2pm*  
   
 In description:   
- - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  
 In name:   
+ - Herb Crusted Pork Loin @ *Global Kitchen:  Available Between 11am-2pm*  
  - BBQ Pork Sandwich @ *Fired Up:  Available Between 11am-2pm*  
   
 In description:   
@@ -204,7 +194,7 @@ In name:
  - Chicken, Bacon, Jalapeno Pizza @ *Capital City Pizza*  
   
 In description:   
- - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-09-21)  
   
