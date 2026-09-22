@@ -1,6 +1,6 @@
 # 2026-09-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-22 12:57:27  
+Updated at: 2026-09-22 16:05:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-22)  
 **portabella**  
 In name:   
@@ -9,6 +9,10 @@ In name:
 **Salmon**  
 In name:   
  - Ginger Glazed Salmon @ *1849*  
+  
+**Tuna**  
+In name:   
+ - Tuna @ *Delicious*  
   
 **curry**  
 In name:   
@@ -30,7 +34,6 @@ In name:
 In name:   
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Spicy Crispy Chicken Sandwich @ *Fired Up*  
  - Brown Stew w/ Chicken @ *Global Kitchen*  
  - Mediterranean Chicken @ *Que Rico*  
@@ -74,6 +77,7 @@ In name:
  - Chicken Dumpling Soup @ *Great Greens*  
  - Smoked Chicken Quarters - 2 pc @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Grilled Chicken Sandwich @ *Fired Up*  
  - Italian Chicken @ *Global Kitchen*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-09-22)  

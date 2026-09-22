@@ -1,6 +1,6 @@
 # 2026-09-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-22 12:57:45  
+Updated at: 2026-09-22 16:05:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-24)  
 **fish**  
 In name:   
@@ -36,7 +36,6 @@ In name:
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Pizza Slice Chicken Broccoli Alfredo @ *Capital City Pizza*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Breakfast Biscuit @ *Fired Up*  
  - Mediterranean Chicken @ *Que Rico*  
   

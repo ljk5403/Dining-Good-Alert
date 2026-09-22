@@ -1,6 +1,6 @@
 # 2026-09-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-22 12:57:50  
+Updated at: 2026-09-22 16:05:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-24)  
 **Chicken Drummies**  
 In name:   
@@ -24,7 +24,6 @@ In name:
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Pizza Slice Chicken Broccoli Alfredo @ *Capital City Pizza*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Drummies @ *Fired Up*  
  - Plant-Based Chicken Nuggets @ *Fired Up*  
  - Mediterranean Chicken @ *Que Rico*  

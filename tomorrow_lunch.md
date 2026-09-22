@@ -1,6 +1,6 @@
 # 2026-09-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-22 12:57:33  
+Updated at: 2026-09-22 16:05:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-23)  
 **FiIipino Pork Spring Roll**  
 In name:   
@@ -9,10 +9,6 @@ In name:
 **broccoli rabe**  
 In name:   
  - Broccoli Rabe @ *1849*  
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
   
 **Filipino Pork Sausage**  
 In name:   

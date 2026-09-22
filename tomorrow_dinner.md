@@ -1,6 +1,6 @@
 # 2026-09-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-22 12:57:39  
+Updated at: 2026-09-22 16:05:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-23)  
 **clam**  
 In name:   
@@ -11,10 +11,6 @@ In name:
   
 In description:   
  - Thai BBQ Pork Ribs @ *Global Kitchen*  
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
   
 **curry**  
 In name:   
