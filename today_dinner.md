@@ -1,26 +1,21 @@
 # 2026-09-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-21 18:01:21  
+Updated at: 2026-09-21 22:28:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-21)  
-**steak**  
-In name:   
-  
-In description:   
- - Montreal Chicken @ *1849*  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
   
 **beef**  
 In name:   
- - Beef Ravioli Plain @ *Buona Cucina*  
  - Beef Fajita Meat @ *Que Rico*  
+ - Beef Ravioli Plain @ *Buona Cucina*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
  - Sausage (Pork), Potatoes, & Peppers @ *1849*  
  - Italian Meat Sauce @ *Buona Cucina*  
+ - Chicago-Style Hot Dog @ *Fired Up*  
   
 **pork**  
 In name:   
@@ -33,7 +28,6 @@ In description:
   
 **chicken**  
 In name:   
- - Montreal Chicken @ *1849*  
  - Chicken Tinga @ *Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-09-21)  
@@ -79,6 +73,7 @@ In description:
   
 **pork**  
 In name:   
+ - Baked Pork Ham @ *1849*  
  - Italian Pork Sausage @ *Global Kitchen*  
   
 **chicken**  
@@ -126,12 +121,15 @@ In name:
 **beef**  
 In name:   
  - Beef Taco Meat @ *Gordon Que Rico*  
- - Beef Broccoli Stir Fry w/Teriyaki Sauce @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
  - Swedish Meatballs (AYCTE) @ *1849*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
+  
+**pork**  
+In name:   
+ - Pork & Broccoli Stir Fry @ *Global Kitchen*  
   
 **chicken**  
 In name:   

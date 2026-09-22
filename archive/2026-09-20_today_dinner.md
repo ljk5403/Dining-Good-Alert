@@ -1,6 +1,6 @@
 # 2026-09-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-21 14:04:47  
+Updated at: 2026-09-21 18:01:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-21)  
 **steak**  
 In name:   
@@ -11,10 +11,6 @@ In description:
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
-  
-**curry**  
-In name:   
- - Thai Veggie Meatballs w/ Green Curry @ *1849*  
   
 **beef**  
 In name:   
@@ -55,10 +51,6 @@ In name:
 In name:   
  - Coconut Thai Curry Mahi Mahi @ *Que Rico*  
   
-**Shrimp**  
-In name:   
- - Shrimp Curry @ *Que Rico*  
-  
 **fish**  
 In name:   
   
@@ -74,14 +66,12 @@ In name:
  - Black Eyed Pea Curry (AYCTE) @ *Que Rico*  
  - Curry Potatoes @ *Que Rico*  
  - Coconut Thai Curry Mahi Mahi @ *Que Rico*  
- - Shrimp Curry @ *Que Rico*  
   
 In description:   
  - Appetizer -  Pakoras Vegetable (Veg) @ *Que Rico*  
   
 **beef**  
 In name:   
- - Beef Stroganoff Creamy @ *1849*  
  - Barbacoa Beef w/Mango Habanero Sandwich @ *Fired Up*  
   
 In description:   
@@ -143,17 +133,12 @@ In description:
  - Swedish Meatballs (AYCTE) @ *1849*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
-**pork**  
-In name:   
- - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
-  
 **chicken**  
 In name:   
  - Chicken Drumstick BBQ Glazed @ *1849*  
- - King's Hawaiian Sand Chicken Spicy Crisp @ *King's Hawaiian*  
+ - Crispy Chicken Sandwich @ *King's Hawaiian*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
- - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Diced Chicken Breast @ *Buona Cucina*  
   

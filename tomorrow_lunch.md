@@ -1,6 +1,6 @@
 # 2026-09-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-21 18:01:24  
+Updated at: 2026-09-21 22:28:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-22)  
 **portabella**  
 In name:   
@@ -37,7 +37,6 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken Creole @ *1849*  
  - Buffalo Chicken Wings Bone-In @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
