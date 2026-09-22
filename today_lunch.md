@@ -1,6 +1,6 @@
 # 2026-09-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-22 06:00:58  
+Updated at: 2026-09-22 12:57:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-22)  
 **portabella**  
 In name:   
@@ -149,7 +149,6 @@ In description:
   
 **pork**  
 In name:   
- - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
   
 In description:   
  - King's Hawaiian Sand Brat w/Pine Pico @ *King's Hawaiian*  
@@ -163,7 +162,6 @@ In name:
  - Tandoori Chicken @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Diced Chicken Breast @ *Buona Cucina*  
- - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
