@@ -1,6 +1,6 @@
 # 2026-09-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-23 13:15:23  
+Updated at: 2026-09-23 17:41:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-23)  
 **FiIipino Pork Spring Roll**  
 In name:   
@@ -76,22 +76,27 @@ In name:
 **curry**  
 In name:   
  - Curry Potatoes @ *Global Kitchen*  
+ - Indian Curry Garbanzo Beans @ *Global Kitchen*  
   
 In description:   
  - Appetizer -  Pakoras Vegetable (Veg) @ *Global Kitchen*  
- - Chicken Tikka Masala @ *Global Kitchen*  
- - Tofu & Vegetable Tikka Masala @ *Global Kitchen*  
   
 **beef**  
 In name:   
  - Beef Chili @ *Great Greens*  
   
+**pork**  
+In name:   
+ - French Market Pork Jambalaya @ *Global Kitchen*  
+  
 **chicken**  
 In name:   
  - General Tso's Chicken @ *1849*  
  - Plant-Based Chicken Nuggets @ *1849*  
- - Chicken Tikka Masala @ *Global Kitchen*  
  - Diced Chicken @ *Great Greens*  
+  
+In description:   
+ - French Market Pork Jambalaya @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-09-23)  
 **Salmon**  
@@ -162,7 +167,6 @@ In description:
   
 **pork**  
 In name:   
- - Spicy Greenbush Pork Loin @ *Carson's 1849:  Available Between 11am-2pm*  
  - Pork Sausage Patties @ *Eggcetera:  Available Between 11am-2pm*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
