@@ -1,6 +1,6 @@
 # 2026-09-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-22 16:05:09  
+Updated at: 2026-09-22 19:00:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-22)  
 **portabella**  
 In name:   
@@ -61,6 +61,10 @@ In name:
 In name:   
  - Shrimp Po-Boy Sandwich @ *Fired Up*  
   
+**lamb**  
+In name:   
+ - Smoked Leg of Lamb @ *1849*  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -75,9 +79,7 @@ In name:
  - Mediterranean Chicken @ *Create-A-Bowl*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
- - Smoked Chicken Quarters - 2 pc @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Grilled Chicken Sandwich @ *Fired Up*  
  - Italian Chicken @ *Global Kitchen*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-09-22)  
@@ -109,6 +111,10 @@ In name:
 In description:   
  - Tempeh w/Red Peppers & Broc Rabe @ *1849*  
   
+**Cod**  
+In name:   
+ - Fried Cod Basket @ *1849*  
+  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
@@ -119,7 +125,6 @@ In name:
   
 **beef**  
 In name:   
- - Texas BBQ Sliced Beef Brisket @ *1849*  
  - Beef Gravy @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef Harissa w/Couscous @ *Global Kitchen*  
@@ -138,7 +143,7 @@ In description:
   
 **chicken**  
 In name:   
- - Baked BBQ Chicken @ *1849*  
+ - Breaded Chicken Tenders @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
