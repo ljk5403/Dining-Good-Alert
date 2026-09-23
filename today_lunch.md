@@ -1,6 +1,6 @@
 # 2026-09-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-23 05:49:47  
+Updated at: 2026-09-23 13:15:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-23)  
 **FiIipino Pork Spring Roll**  
 In name:   
@@ -94,6 +94,10 @@ In name:
  - Diced Chicken @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-09-23)  
+**Salmon**  
+In name:   
+ - Oven Roasted Salmon @ *Great Greens*  
+  
 **mahi mahi**  
 In name:   
  - Baked Mahi Mahi w/ Butter & Lemon @ *1849*  
@@ -125,7 +129,6 @@ In description:
 **pork**  
 In name:   
  - Chicken & Pork Sausage Gumbo @ *1849*  
- - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
@@ -135,7 +138,6 @@ In name:
  - General Tso's Chicken @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Diced Chicken Breast @ *Buona Cucina*  
- - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  

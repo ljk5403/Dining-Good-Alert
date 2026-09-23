@@ -1,6 +1,6 @@
 # 2026-09-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-23 05:49:50  
+Updated at: 2026-09-23 13:15:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-23)  
 **clam**  
 In name:   
@@ -109,6 +109,10 @@ In name:
 In name:   
  - Chicken Drummies @ *1849*  
   
+**Salmon**  
+In name:   
+ - Oven Roasted Salmon @ *Great Greens*  
+  
 **Shrimp**  
 In name:   
  - Sweet & Sour Shrimp @ *Global Kitchen*  
@@ -161,12 +165,6 @@ In name:
 In name:   
  - Island Spiced Salmon @ *Fired Up*  
   
-**curry**  
-In name:   
-  
-In description:   
- - Chicken Ala King over Biscuit @ *1849*  
-  
 **beef**  
 In name:   
  - Beef Gravy @ *Global*  
@@ -187,7 +185,6 @@ In description:
 In name:   
  - Popcorn Chicken @ *Global*  
  - Chicken Gravy @ *Global*  
- - Chicken Ala King over Biscuit @ *1849*  
  - Diced Chicken @ *Great Greens*  
   
 In description:   
