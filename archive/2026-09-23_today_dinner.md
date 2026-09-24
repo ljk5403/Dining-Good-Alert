@@ -1,6 +1,6 @@
 # 2026-09-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-24 06:10:07  
+Updated at: 2026-09-24 13:12:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-24)  
 **Chicken Drummies**  
 In name:   
@@ -51,18 +51,6 @@ In name:
 **drumstick**  
 In name:   
  - Jamaican Jerk Chicken Drumstick @ *1849*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Curried Pumpkin Soup @ *Great Greens*  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Curried Pumpkin Soup @ *Great Greens*  
   
 **beef**  
 In name:   

@@ -1,6 +1,6 @@
 # 2026-09-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-24 13:12:49  
+Updated at: 2026-09-24 18:01:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-24)  
 **Chicken Drummies**  
 In name:   
@@ -12,16 +12,18 @@ In name:
   
 **beef**  
 In name:   
- - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Beef Mediterranean @ *Que Rico*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
+**pork**  
+In name:   
+ - Pork Italian Sausage @ *Buona Cucina*  
+  
 **chicken**  
 In name:   
  - Chicken Spaghetti @ *1849*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Pizza Slice Chicken Broccoli Alfredo @ *Capital City Pizza*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
@@ -150,11 +152,10 @@ In name:
 **chicken**  
 In name:   
  - Huli Huli Chicken @ *1849*  
- - King's Hawaiian Sand Chicken Crispy @ *King's Hawaiian*  
+ - King's Hawaiian Sand Chicken Spicy Crisp @ *King's Hawaiian*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
- - Plant-Based Chicken Lo Mein @ *Global Kitchen*  
  - Spicy Lo Mein w/Chicken @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Diced Chicken Breast @ *Buona Cucina*  

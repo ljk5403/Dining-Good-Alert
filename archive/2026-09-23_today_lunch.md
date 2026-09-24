@@ -1,6 +1,6 @@
 # 2026-09-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-24 06:10:03  
+Updated at: 2026-09-24 13:12:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-24)  
 **fish**  
 In name:   
@@ -54,18 +54,6 @@ In name:
  - Bulgogi Chicken @ *Create-A-Bowl*  
  - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
  - Build Your Own Bulgogi Bar - Four Lakes @ *Create-A-Bowl*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Curried Pumpkin Soup @ *Great Greens*  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Curried Pumpkin Soup @ *Great Greens*  
   
 **beef**  
 In name:   
@@ -148,6 +136,7 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Harissa @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
@@ -163,9 +152,8 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken Baked  (1 piece) @ *1849*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
- - King's Hawaiian Sand Chicken Crispy @ *King's Hawaiian*  
+ - King's Hawaiian Spicy Chicken Sandwich @ *King's Hawaiian*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
@@ -184,8 +172,13 @@ In name:
 In name:   
  - Greek Cod @ *Global Kitchen:  Available Between 11am-2pm*  
   
+In description:   
+ - Petite Fish Sandwich @ *Fired Up:  Available Between 11am-2pm*  
+  
 **fish**  
 In name:   
+ - Petite Fish Sandwich @ *Fired Up:  Available Between 11am-2pm*  
+ - Vegan Fish Sandwich @ *Fired Up:  Available Between 11am-2pm*  
   
 In description:   
  - Curried Pumpkin Soup @ *Great Greens*  
@@ -200,7 +193,6 @@ In description:
 In name:   
   
 In description:   
- - Mini Pastrami Reuben on Pretzel Bun @ *Fired Up:  Available Between 11am-2pm*  
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
   
 **pork**  
