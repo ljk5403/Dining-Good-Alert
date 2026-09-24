@@ -1,6 +1,6 @@
 # 2026-09-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-23 17:41:36  
+Updated at: 2026-09-23 20:06:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-23)  
 **FiIipino Pork Spring Roll**  
 In name:   
@@ -51,13 +51,22 @@ In name:
 In name:   
  - Tilapia Chipotle Lime Crusted @ *1849*  
   
-**beef**  
+**fish**  
 In name:   
- - Beef Chili @ *Great Greens*  
+  
+In description:   
+ - Curried Pumpkin Soup @ *Great Greens*  
+  
+**curry**  
+In name:   
+  
+In description:   
+ - Curried Pumpkin Soup @ *Great Greens*  
   
 **chicken**  
 In name:   
  - Diced Chicken @ *Great Greens*  
+ - Chicken Chili - Recipe Contest 2025 @ *Great Greens*  
  - Huli Huli Chicken @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Stir-Fry Coconut Lime @ *Global Kitchen*  

@@ -1,6 +1,6 @@
 # 2026-09-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-23 13:15:24  
+Updated at: 2026-09-23 17:41:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-23)  
 **clam**  
 In name:   
@@ -125,7 +125,7 @@ In name:
 In name:   
   
 In description:   
- - California Roll  (FujiSan) @ *Global Kitchen*  
+ - California Roll  (FujiSan) @ *Gordon Eggcetera*  
   
 **Tuna**  
 In name:   
@@ -141,15 +141,10 @@ In description:
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Italian Meat Sauce @ *Buona Cucina*  
   
-**pork**  
-In name:   
- - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
-  
 **chicken**  
 In name:   
  - Chicken Drummies @ *1849*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Diced Chicken Breast @ *Buona Cucina*  
   

@@ -1,6 +1,6 @@
 # 2026-09-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-23 17:41:42  
+Updated at: 2026-09-23 20:06:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-23)  
 **clam**  
 In name:   
@@ -15,10 +15,6 @@ In description:
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
-  
-**curry**  
-In name:   
- - VEGAN Thai Chick'n w/ Green Curry (VN) @ *Global Kitchen*  
   
 **beef**  
 In name:   
@@ -49,6 +45,7 @@ In name:
 In name:   
   
 In description:   
+ - Curried Pumpkin Soup @ *Great Greens*  
  - Miso Cod @ *1849*  
  - Vietnamese Pork @ *1849*  
   
@@ -56,12 +53,8 @@ In description:
 In name:   
   
 In description:   
+ - Curried Pumpkin Soup @ *Great Greens*  
  - Vegetable & Tofu Madras w/Basmati Rice @ *1849*  
-  
-**beef**  
-In name:   
- - Beef Chili @ *Great Greens*  
- - Beef Broccoli Stir Fry @ *Global Kitchen*  
   
 **pork**  
 In name:   
@@ -69,10 +62,13 @@ In name:
   
 **chicken**  
 In name:   
- - Diced Chicken @ *Great Greens*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
- - Chicken Wings Boneless Plain @ *Que Rico*  
+ - Popcorn Chicken @ *Create-A-Bowl*  
  - Plant-Based Chicken Nuggets @ *Que Rico*  
+ - Diced Chicken @ *Great Greens*  
+ - Chicken Chili - Recipe Contest 2025 @ *Great Greens*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Coconut Lime Chicken Stir-Fry @ *Global Kitchen*  
+ - Chicken Wings Boneless Plain @ *Que Rico*  
   
 In description:   
  - BYO Bar - Mac & Cheese @ *Create-A-Bowl*  
