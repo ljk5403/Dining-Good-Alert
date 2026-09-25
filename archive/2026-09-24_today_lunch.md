@@ -1,6 +1,6 @@
 # 2026-09-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-25 06:14:03  
+Updated at: 2026-09-25 13:13:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-25)  
 **Poke Bar**  
 In name:   
@@ -88,7 +88,7 @@ In name:
   
 **beef**  
 In name:   
- - Beef @ *Global Kitchen*  
+ - Beef Mediterranean @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -109,10 +109,6 @@ In name:
 In name:   
  - Portabella Vegetable Mixture @ *1849*  
   
-**Salmon**  
-In name:   
- - Blackened Salmon @ *1849*  
-  
 **clam**  
 In name:   
  - Clam Chowder @ *Great Greens*  
@@ -120,10 +116,6 @@ In name:
 **beef**  
 In name:   
  - Mediterranean Beef @ *Global Kitchen*  
-  
-**pork**  
-In name:   
- - Herb Crusted Pork Loin @ *1849*  
   
 **chicken**  
 In name:   
@@ -146,7 +138,6 @@ In name:
 **fish**  
 In name:   
  - King's Hawaiian Petite Fish Sandwich @ *King's Hawaiian*  
- - Vegan Fish Sandwich @ *King's Hawaiian*  
   
 **Tuna**  
 In name:   
@@ -169,10 +160,6 @@ In description:
  - Burnt Ends @ *1849*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
-**pork**  
-In name:   
- - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
-  
 **chicken**  
 In name:   
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
@@ -180,7 +167,6 @@ In name:
  - Greek Chicken @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Diced Chicken Breast @ *Buona Cucina*  
- - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
