@@ -1,6 +1,6 @@
 # 2026-09-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-24 18:01:13  
+Updated at: 2026-09-24 22:37:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-24)  
 **Chicken Drummies**  
 In name:   
@@ -28,7 +28,6 @@ In name:
  - Pizza Slice Chicken Broccoli Alfredo @ *Capital City Pizza*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Drummies @ *Fired Up*  
- - Plant-Based Chicken Nuggets @ *Fired Up*  
  - Mediterranean Chicken @ *Que Rico*  
   
 In description:   
@@ -46,21 +45,32 @@ In name:
  - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
  - Build Your Own Bulgogi Bar - Four Lakes @ *Create-A-Bowl*  
   
-**Flauta**  
-In name:   
- - Shredded Beef Flauta @ *Que Rico*  
-  
 **drumstick**  
 In name:   
  - Jamaican Jerk Chicken Drumstick @ *1849*  
   
+**steak**  
+In name:   
+ - Grilled Flank Steak @ *1849*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Curried Pumpkin Soup @ *Great Greens*  
+  
+**curry**  
+In name:   
+  
+In description:   
+ - Curried Pumpkin Soup @ *Great Greens*  
+  
 **beef**  
 In name:   
  - Bulgogi Beef @ *Create-A-Bowl*  
- - Italian Beef Sandwich @ *1849*  
- - Shredded Beef Flauta @ *Que Rico*  
   
 In description:   
+ - Grilled Flank Steak @ *1849*  
  - Grilled Blended Burger w/ Cheese @ *Fired Up*  
   
 **pork**  
@@ -76,9 +86,6 @@ In name:
  - Chicken Noodle Soup @ *Great Greens*  
  - Jamaican Jerk Chicken Drumstick @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
-  
-In description:   
- - Shredded Beef Flauta @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-09-24)  
 **steak**  
@@ -107,18 +114,24 @@ In name:
 In description:   
  - Country Fried Steak @ *1849*  
   
+**pork**  
+In name:   
+ - French Market Pork Jambalaya @ *Global Kitchen*  
+  
 **chicken**  
 In name:   
  - Plant-Based Chicken & Gravy (VN) @ *1849*  
  - Chicken Pot Pie w/Biscuit @ *1849*  
- - Kung Pao Chicken @ *Global Kitchen*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Noodle Soup @ *Great Greens*  
+ - Chicken Dumpling Soup @ *Great Greens*  
+  
+In description:   
+ - French Market Pork Jambalaya @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-09-24)  
 **Shrimp**  
 In name:   
- - Coconut Shrimp @ *1849*  
+ - Fried Popcorn Shrimp @ *1849*  
   
 **fish**  
 In name:   
@@ -139,6 +152,7 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Harissa @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
@@ -149,18 +163,20 @@ In description:
 In name:   
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
   
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
+  
 **chicken**  
 In name:   
- - Huli Huli Chicken @ *1849*  
  - King's Hawaiian Sand Chicken Spicy Crisp @ *King's Hawaiian*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Noodle Soup @ *Great Greens*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
  - Spicy Lo Mein w/Chicken @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Diced Chicken Breast @ *Buona Cucina*  
   
 In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-09-24)  

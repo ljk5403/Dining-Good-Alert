@@ -1,6 +1,6 @@
 # 2026-09-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-24 18:01:23  
+Updated at: 2026-09-24 22:37:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-25)  
 **Flauta**  
 In name:   
@@ -53,18 +53,11 @@ In name:
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-09-25)  
 **Poke Bar**  
 In name:   
- - Poke Bar @ *Create-A-Bowl*  
  - Build Your Own Poke Bar @ *Create-A-Bowl*  
   
 **Salmon**  
 In name:   
  - Masala Spiced Salmon @ *1849*  
-  
-**Shrimp**  
-In name:   
-  
-In description:   
- - Poke Bar @ *Create-A-Bowl*  
   
 **clam**  
 In name:   
@@ -73,9 +66,6 @@ In name:
 **Tuna**  
 In name:   
  - Grilled Tuna & Swiss Melt @ *Fired Up*  
-  
-In description:   
- - Poke Bar @ *Create-A-Bowl*  
   
 **watermelon**  
 In name:   

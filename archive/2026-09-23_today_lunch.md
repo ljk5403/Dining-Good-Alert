@@ -1,6 +1,6 @@
 # 2026-09-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-24 13:12:43  
+Updated at: 2026-09-24 18:01:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-24)  
 **fish**  
 In name:   
@@ -10,6 +10,7 @@ In description:
   
 **curry**  
 In name:   
+ - Curry Mango - Pork @ *1849*  
  - Garbanzo Bean Curry @ *1849*  
   
 In description:   
@@ -17,8 +18,6 @@ In description:
   
 **beef**  
 In name:   
- - Cowboy Bean w/ Beef & Pork @ *1849*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Beef Mediterranean @ *Que Rico*  
   
 In description:   
@@ -26,14 +25,14 @@ In description:
   
 **pork**  
 In name:   
- - Cowboy Bean w/ Beef & Pork @ *1849*  
+ - Curry Mango - Pork @ *1849*  
+ - Pork Italian Sausage @ *Buona Cucina*  
   
 **chicken**  
 In name:   
  - Huli Huli Chicken @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Pizza Slice Chicken Broccoli Alfredo @ *Capital City Pizza*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
@@ -145,13 +144,13 @@ In description:
   
 **pork**  
 In name:   
- - Pork Chop (1) @ *1849*  
  - FiIipino Pork Spring Roll @ *Global Kitchen*  
  - Filipino Pork Sausage @ *Global Kitchen*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
+ - Sweet & Sour Chicken @ *1849*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - King's Hawaiian Spicy Chicken Sandwich @ *King's Hawaiian*  
  - Diced Chicken @ *Great Greens*  
@@ -201,7 +200,7 @@ In name:
   
 **chicken**  
 In name:   
- - Butter Chicken @ *Carson's 1849:  Available Between 11am-2pm*  
+ - Sweet & Spicy Orange Chicken @ *Carson's 1849:  Available Between 11am-2pm*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera:  Available Between 11am-2pm*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
