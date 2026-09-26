@@ -1,6 +1,6 @@
 # 2026-09-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-25 18:05:53  
+Updated at: 2026-09-25 22:42:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-25)  
 **Poke Bar**  
 In name:   
@@ -78,10 +78,6 @@ In name:
 In name:   
  - Sauteed Shrimp @ *Que Rico*  
   
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
-  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -101,6 +97,7 @@ In name:
 **chicken**  
 In name:   
  - Diced Chicken @ *Great Greens*  
+ - Chicken Chili @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chipotle BBQ Chicken Sandwich @ *Fired Up*  
   

@@ -1,6 +1,6 @@
 # 2026-09-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-25 18:05:54  
+Updated at: 2026-09-25 22:42:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-25)  
 **Flauta**  
 In name:   
@@ -56,14 +56,6 @@ In name:
 In name:   
  - Build Your Own Poke Bar @ *Create-A-Bowl*  
   
-**Salmon**  
-In name:   
- - Masala Spiced Salmon @ *1849*  
-  
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
-  
 **Tuna**  
 In name:   
  - Grilled Tuna & Swiss Melt @ *Fired Up*  
@@ -76,11 +68,9 @@ In name:
 In name:   
  - Vegan Curry Stew @ *1849*  
   
-In description:   
- - Tikka Masala Chicken @ *1849*  
-  
 **pork**  
 In name:   
+ - Apple Cider Braised Pork @ *1849*  
   
 In description:   
  - Andouille Sausage @ *Global Kitchen*  
@@ -88,9 +78,12 @@ In description:
 **chicken**  
 In name:   
  - Diced Chicken @ *Great Greens*  
- - Tikka Masala Chicken @ *1849*  
+ - Chicken Chili @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Empanada with Green Chili @ *Que Rico*  
+  
+In description:   
+ - Apple Cider Braised Pork @ *1849*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-09-25)  
 **Cod**  
@@ -113,7 +106,7 @@ In name:
   
 **chicken**  
 In name:   
- - Grilled Chicken Monterey Sandwich @ *1849*  
+ - Crispy Chicken Sandwich @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Basque Style @ *Global Kitchen*  
  - Diced Chicken @ *Great Greens*  
@@ -122,9 +115,9 @@ In description:
  - Baked Corn Dog (Pork) @ *1849*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-09-25)  
-**haddock**  
+**catfish**  
 In name:   
- - Haddock Ginger Glazed (AYCTE) @ *1849*  
+ - Blackened Catfish @ *1849*  
   
 **Cod**  
 In name:   
@@ -138,6 +131,7 @@ In name:
   
 **fish**  
 In name:   
+ - Blackened Catfish @ *1849*  
  - King's Hawaiian Petite Fish Sandwich @ *King's Hawaiian*  
   
 **Tuna**  
@@ -165,7 +159,8 @@ In name:
  - Chicken Breast Con Pollo @ *1849*  
  - Chicken Tinga @ *Gordon Que Rico*  
  - Diced Chicken @ *Great Greens*  
- - Butter Chicken @ *Global Kitchen*  
+ - Pizza Slice Chicken Alfredo @ *Capital City Pizza*  
+ - Popcorn Chicken @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Diced Chicken Breast @ *Buona Cucina*  
   
