@@ -1,31 +1,27 @@
 # 2026-09-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-26 15:40:36  
+Updated at: 2026-09-26 18:22:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-26)  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-09-26)  
 **beef**  
 In name:   
  - Beef Taco Meat @ *Que Rico*  
   
-**pork**  
-In name:   
-  
-In description:   
- - Kale, Sausage & Potato Soup @ *Great Greens*  
-  
 **chicken**  
 In name:   
  - Diced Chicken @ *Great Greens*  
+ - Lemon Chicken Rice Soup @ *Great Greens*  
  - Spicy Lo Mein w/Chicken @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Spicy Crispy Chicken Sandwich @ *Fired Up*  
- - Plant-Based Chicken Nuggets @ *Fired Up*  
+ - Protein Plant Based Chicken Tender @ *Fired Up*  
  - Italian Chicken @ *Global Kitchen*  
   
-In description:   
- - Kale, Sausage & Potato Soup @ *Great Greens*  
-  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-09-26)  
+**Cod**  
+In name:   
+ - Basque Style Cod @ *Global Kitchen*  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -70,7 +66,6 @@ In description:
 **pork**  
 In name:   
  - Coffee Crusted Pork Loin @ *1849*  
- - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
   
 In description:   
  - Kale, Sausage & Potato Soup @ *Great Greens*  
@@ -78,7 +73,6 @@ In description:
 **chicken**  
 In name:   
  - Diced Chicken @ *Great Greens*  
- - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Diced Chicken Breast @ *Buona Cucina*  
   

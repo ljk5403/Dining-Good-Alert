@@ -1,6 +1,6 @@
 # 2026-09-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-26 12:36:49  
+Updated at: 2026-09-26 15:40:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-26)  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-09-26)  
 **steak**  
@@ -41,6 +41,10 @@ In name:
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
+  
+**beef**  
+In name:   
+ - Beef Chili @ *Great Greens*  
   
 **pork**  
 In name:   
