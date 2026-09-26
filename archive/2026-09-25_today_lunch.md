@@ -1,6 +1,6 @@
 # 2026-09-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-26 05:51:57  
+Updated at: 2026-09-26 12:36:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-26)  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-09-26)  
 **steak**  
@@ -86,7 +86,6 @@ In description:
 **pork**  
 In name:   
  - BBQ Pork Sandwich @ *1849*  
- - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
   
 In description:   
  - Kale, Sausage & Potato Soup @ *Great Greens*  
@@ -94,10 +93,10 @@ In description:
 **chicken**  
 In name:   
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera*  
+ - Chicken Tinga @ *Gordon Que Rico*  
  - Diced Chicken @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Diced Chicken Breast @ *Buona Cucina*  
- - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
   
 In description:   
  - Kale, Sausage & Potato Soup @ *Great Greens*  
