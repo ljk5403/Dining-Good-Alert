@@ -1,6 +1,6 @@
 # 2026-09-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-26 15:40:35  
+Updated at: 2026-09-26 18:22:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-26)  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-09-26)  
 **steak**  
@@ -18,20 +18,17 @@ In description:
 In name:   
   
 In description:   
- - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Lumberjack Bowl w/Bacon @ *1849*  
  - Ham Steak @ *1849*  
   
 **chicken**  
 In name:   
  - Diced Chicken @ *Great Greens*  
+ - Lemon Chicken Rice Soup @ *Great Greens*  
  - Sausage Links Chicken (halal) (AYCTE) @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Italian Chicken @ *Global Kitchen*  
  - Taco Chicken @ *Que Rico*  
-  
-In description:   
- - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-09-26)  
 **Chicken Drummies**  

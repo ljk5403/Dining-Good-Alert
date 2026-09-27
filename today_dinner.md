@@ -1,27 +1,35 @@
 # 2026-09-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-26 18:22:32  
+Updated at: 2026-09-26 22:51:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-26)  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-09-26)  
+**steak**  
+In name:   
+ - Beef Sirloin Steak @ *1849*  
+  
 **beef**  
 In name:   
- - Beef Taco Meat @ *Que Rico*  
+ - Beef Sirloin Steak @ *1849*  
+  
+**pork**  
+In name:   
+ - Apple Cider Braised Pork @ *1849*  
+ - Ancho Braised Pork @ *Que Rico*  
   
 **chicken**  
 In name:   
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
- - Spicy Lo Mein w/Chicken @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Spicy Crispy Chicken Sandwich @ *Fired Up*  
- - Protein Plant Based Chicken Tender @ *Fired Up*  
+ - Plant-Based Chicken Nuggets @ *Fired Up*  
  - Italian Chicken @ *Global Kitchen*  
   
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-09-26)  
-**Cod**  
-In name:   
- - Basque Style Cod @ *Global Kitchen*  
+In description:   
+ - Apple Cider Braised Pork @ *1849*  
+ - Ancho Braised Pork @ *Que Rico*  
   
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-09-26)  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -29,7 +37,6 @@ In name:
 **beef**  
 In name:   
  - Beef Enchilada Bake @ *Global Kitchen*  
- - Beef Chili @ *Great Greens*  
   
 **pork**  
 In name:   
@@ -40,15 +47,16 @@ In description:
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Chicken Taco Soft Shell (1) @ *Global Kitchen*  
  - Diced Chicken @ *Great Greens*  
   
 In description:   
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-09-26)  
-**Shrimp**  
+**Cod**  
 In name:   
- - Popcorn Shrimp Basket @ *1849*  
+ - Fried Cod Basket @ *1849*  
   
 **Tuna**  
 In name:   
@@ -72,6 +80,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Tinga @ *Gordon Que Rico*  
  - Diced Chicken @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Diced Chicken Breast @ *Buona Cucina*  
