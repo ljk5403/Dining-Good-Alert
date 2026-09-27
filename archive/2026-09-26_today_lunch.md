@@ -1,6 +1,6 @@
 # 2026-09-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-27 06:27:59  
+Updated at: 2026-09-27 13:02:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-27)  
 **steak**  
 In name:   
@@ -96,7 +96,6 @@ In description:
 In name:   
  - Chicken Fried Cordon Bleu (Pork) @ *1849*  
  - Biscuits & Pork Gravy @ *Eggcetera*  
- - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
@@ -106,7 +105,6 @@ In name:
  - Chicken Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Diced Chicken Breast @ *Buona Cucina*  
- - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
   
 In description:   
  - Biscuits & Pork Gravy @ *Eggcetera*  
