@@ -1,7 +1,15 @@
 # 2026-09-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-27 17:49:36  
+Updated at: 2026-09-27 20:24:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-27)  
+**Flauta**  
+In name:   
+ - Chicken and Cheese Flauta @ *1849*  
+  
+**drumstick**  
+In name:   
+ - Chicken Drumstick @ *1849*  
+  
 **lamb**  
 In name:   
  - Lamb & Beef Gyro Sandwich @ *Fired Up*  
@@ -17,19 +25,18 @@ In description:
   
 **pork**  
 In name:   
- - Biscuits & Pork Gravy @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
  - Pork Carnita @ *Que Rico*  
   
 **chicken**  
 In name:   
- - Blackened Chicken @ *1849*  
+ - Chicken and Cheese Flauta @ *1849*  
+ - Chicken Drumstick @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Sweet & Sour Chicken @ *Global Kitchen*  
+ - General Tso's Chicken @ *Global Kitchen*  
  - Fajita Chicken @ *Que Rico*  
   
 In description:   
- - Biscuits & Pork Gravy @ *1849*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-09-27)  
@@ -39,27 +46,29 @@ In name:
   
 **Tilapia**  
 In name:   
- - Blackened Tilapia @ *1849*  
+ - Lemon Bake Tilapia @ *1849*  
+  
+**curry**  
+In name:   
+  
+In description:   
+ - Vegetable & Tofu Madras w/Basmati Rice @ *1849*  
   
 **beef**  
 In name:   
  - Island Spiced Beef Steak @ *1849*  
- - Beef Hot Dog @ *Fired Up*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
  - Italian Meat Sauce @ *Global Kitchen*  
   
-**pork**  
-In name:   
- - Pork Carnita @ *Que Rico*  
-  
 **chicken**  
 In name:   
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Crispy Chicken Sandwich @ *Fired Up*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Plant Based Chicken Strips @ *Global Kitchen*  
   
@@ -69,10 +78,6 @@ In name:
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-09-27)  
-**drumstick**  
-In name:   
- - Chicken Drumstick Mango Habanero @ *1849*  
-  
 **Tilapia**  
 In name:   
  - Island Spiced Tilapia @ *1849*  
@@ -90,9 +95,13 @@ In description:
  - King's Hawaiian Sand Blended Burger @ *King's Hawaiian*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
+**pork**  
+In name:   
+ - Chicken Grilled Cordon Bleu (Pork) @ *1849*  
+  
 **chicken**  
 In name:   
- - Chicken Drumstick Mango Habanero @ *1849*  
+ - Chicken Grilled Cordon Bleu (Pork) @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  

@@ -1,6 +1,6 @@
 # 2026-09-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-27 13:03:00  
+Updated at: 2026-09-27 17:49:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-27)  
 **lamb**  
 In name:   
@@ -90,16 +90,11 @@ In description:
  - King's Hawaiian Sand Blended Burger @ *King's Hawaiian*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
-**pork**  
-In name:   
- - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
-  
 **chicken**  
 In name:   
  - Chicken Drumstick Mango Habanero @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
- - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Diced Chicken Breast @ *Buona Cucina*  
   
@@ -120,6 +115,7 @@ In name:
  - Beef Taco Meat @ *Global*  
  - Beef Meatloaf @ *1849*  
  - Beef Gravy @ *1849*  
+ - Beef Chili @ *Great Greens*  
   
 In description:   
  - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza*  
@@ -134,7 +130,6 @@ In description:
 In name:   
  - Chicken Tinga @ *Global*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Chili @ *Great Greens*  
   
 In description:   
  - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza*  
