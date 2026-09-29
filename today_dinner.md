@@ -1,6 +1,6 @@
 # 2026-09-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-29 07:11:42  
+Updated at: 2026-09-29 14:06:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-29)  
 **Samosas**  
 In name:   
@@ -83,7 +83,7 @@ In name:
 **chicken**  
 In name:   
  - Mediterranean Chicken @ *Create-A-Bowl*  
- - Chicken Dumpling Soup @ *Great Greens*  
+ - Chicken Noodle Soup @ *Great Greens*  
  - Chicken Breast w/Red Pepper Cream @ *1849*  
  - Italian Chicken @ *Global Kitchen*  
  - Chicken and Cheese Flauta @ *Que Rico*  
@@ -188,7 +188,6 @@ In name:
 In name:   
  - Mediterranean Chicken @ *Global*  
  - Chicken Lo Mein Spicy @ *Fired Up*  
- - Chicken Dumpling Soup @ *Great Greens*  
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
