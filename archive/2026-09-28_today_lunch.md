@@ -1,6 +1,6 @@
 # 2026-09-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-29 07:11:39  
+Updated at: 2026-09-29 14:06:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-29)  
 **portabella**  
 In name:   
@@ -23,6 +23,10 @@ In description:
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
+  
+**Chicken Tamale with Oaxaca**  
+In name:   
+ - Chicken Tamale with Oaxaca @ *Global Kitchen*  
   
 **curry**  
 In name:   
@@ -48,7 +52,7 @@ In name:
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Butter Chicken @ *Global Kitchen*  
+ - Chicken Tamale with Oaxaca @ *Global Kitchen*  
  - Mediterranean Chicken @ *Que Rico*  
   
 In description:   
@@ -72,19 +76,14 @@ In name:
  - Mediterranean Beef @ *Create-A-Bowl*  
  - Beef Taco Meat @ *Que Rico*  
   
-In description:   
- - Grilled Blended Burger w/ Cheese @ *Fired Up*  
-  
-**pork**  
-In name:   
- - Pork Carnita @ *Que Rico*  
-  
 **chicken**  
 In name:   
  - Mediterranean Chicken @ *Create-A-Bowl*  
- - Chicken Dumpling Soup @ *Great Greens*  
+ - Chicken Noodle Soup @ *Great Greens*  
  - Chicken Creole @ *1849*  
+ - Breaded Chicken Tenders @ *Fired Up*  
  - Italian Chicken @ *Global Kitchen*  
+ - Chicken Tinga @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-09-29)  
 **Salmon**  
@@ -147,6 +146,7 @@ In description:
 **chicken**  
 In name:   
  - Chicken Breast w/Red Pepper Cream @ *1849*  
+ - Breaded Chicken Parmigiana @ *1849*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
  - Chicken Dumpling Soup @ *Great Greens*  
@@ -180,7 +180,6 @@ In name:
  - Plant-Based Chicken Nuggets @ *Carson's 1849:  Available Between 11am-2pm*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera:  Available Between 11am-2pm*  
  - Chicken Tinga & Scallion Quesadilla @ *Fired Up:  Available Between 11am-2pm*  
- - Chicken Dumpling Soup @ *Great Greens*  
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
