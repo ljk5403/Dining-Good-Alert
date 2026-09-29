@@ -1,6 +1,6 @@
 # 2026-09-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-28 08:00:00  
+Updated at: 2026-09-28 15:23:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-28)  
 **drumstick**  
 In name:   
@@ -11,10 +11,6 @@ In name:
   
 In description:   
  - Tom Kha Gai Soup @ *Global Kitchen*  
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
   
 **BBQ Pork Sandwich**  
 In name:   
@@ -51,14 +47,6 @@ In name:
  - Redhook Ale Breaded Shrimp @ *1849*  
  - Shrimp Curry @ *Que Rico*  
   
-**Cod**  
-In name:   
- - Cod Nuggets @ *Fired Up*  
-  
-**fish**  
-In name:   
- - Vegan Fish Sandwich @ *Fired Up*  
-  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
@@ -79,8 +67,12 @@ In description:
 In name:   
  - Beef Goulash w/Egg Noodles @ *1849*  
   
+In description:   
+ - Pork Bratwurst Sandwich @ *Fired Up*  
+  
 **pork**  
 In name:   
+ - Pork Bratwurst Sandwich @ *Fired Up*  
  - Italian Pork Sausage @ *Global Kitchen*  
   
 **chicken**  
@@ -123,12 +115,6 @@ In name:
 In name:   
  - Blackened Shrimp @ *1849*  
   
-**fish**  
-In name:   
-  
-In description:   
- - Stir Fry Beef with Oyster Sauce @ *Global Kitchen*  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
@@ -136,8 +122,6 @@ In name:
 **beef**  
 In name:   
  - Beef Taco Meat @ *Gordon Que Rico*  
- - Stir Fry Beef with Oyster Sauce @ *Global Kitchen*  
- - Beef @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
@@ -154,9 +138,9 @@ In description:
 In name:   
  - Mediterranean Chicken @ *1849*  
  - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
- - King's Hawaiian Sand Chicken Spicy Crisp @ *King's Hawaiian*  
+ - Crispy Chicken Sandwich @ *King's Hawaiian*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
- - Chicken @ *Global Kitchen*  
+ - Chicken Lo Mein Spicy @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   

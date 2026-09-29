@@ -1,20 +1,19 @@
 # 2026-09-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-28 07:59:56  
+Updated at: 2026-09-28 15:22:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-28)  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
-  
 **beef**  
 In name:   
  - Beef Goulash @ *1849*  
  - Beef Ravioli Plain @ *Buona Cucina*  
  - Beef Taco Meat @ *Que Rico*  
   
+In description:   
+ - Pepperoni & Mushrooms Pizza @ *Capital City Pizza*  
+ - Grilled Blended Burger w/ Cheese @ *Fired Up*  
+  
 **pork**  
 In name:   
- - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
  - Pork Carnita @ *Que Rico*  
   
 In description:   
@@ -22,12 +21,14 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Basque Style @ *1849*  
+ - BBQ Chicken Wings Bone-In @ *1849*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Diced Chicken Breast @ *Buona Cucina*  
- - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
  - Orange Sweet & Spicy Chicken @ *Global Kitchen*  
  - Chicken Tinga @ *Que Rico*  
+  
+In description:   
+ - Pepperoni & Mushrooms Pizza @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-09-28)  
 **Samosas**  
@@ -38,6 +39,10 @@ In name:
 In name:   
  - Country Fried Steak @ *1849*  
   
+**lamb**  
+In name:   
+ - Lamb Vindaloo @ *Que Rico*  
+  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
@@ -47,8 +52,8 @@ In name:
  - Curry Potatoes @ *Que Rico*  
   
 In description:   
- - Tikka Masala Chicken @ *Que Rico*  
- - Tofu & Vegetable Tikka Masala @ *Que Rico*  
+ - Lamb Vindaloo @ *Que Rico*  
+ - Sub - Vegetable & Tofu Madras @ *Que Rico*  
   
 **beef**  
 In name:   
@@ -56,6 +61,7 @@ In name:
 In description:   
  - German Plate (Pork) @ *1849*  
  - Country Fried Steak @ *1849*  
+ - Grilled Blended Burger w/ Cheese @ *Fired Up*  
   
 **pork**  
 In name:   
@@ -65,9 +71,6 @@ In name:
 **chicken**  
 In name:   
  - Lemon Chicken Rice Soup @ *Great Greens*  
- - Plant-Based Chicken Tenders @ *Fired Up*  
- - Chicken Tenders Breaded @ *Fired Up*  
- - Tikka Masala Chicken @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-09-28)  
 **Tuna**  
@@ -80,7 +83,6 @@ In name:
   
 **beef**  
 In name:   
- - Texas BBQ Sliced Beef Brisket @ *1849*  
   
 In description:   
  - Chicago-Style Hot Dog @ *Global Kitchen*  
@@ -92,6 +94,7 @@ In name:
   
 **chicken**  
 In name:   
+ - Mediterranean Chicken @ *1849*  
  - Chicken Cordon Bleu Sandwich (Pork) @ *Global Kitchen*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
@@ -106,8 +109,8 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Goulash @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
- - Beef @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
@@ -115,7 +118,6 @@ In description:
   
 **pork**  
 In name:   
- - Apricot Glazed Pork @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
   
 In description:   
@@ -129,7 +131,6 @@ In name:
  - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - General Tso's Chicken @ *Global Kitchen*  
- - Chicken @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   

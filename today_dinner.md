@@ -1,10 +1,10 @@
 # 2026-09-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-28 15:23:03  
+Updated at: 2026-09-28 19:49:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-28)  
-**drumstick**  
+**Shrimp**  
 In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
+ - Fried Popcorn Shrimp @ *1849*  
   
 **fish**  
 In name:   
@@ -23,7 +23,7 @@ In name:
   
 **pork**  
 In name:   
- - Cajun Rice w/ Pork & Black Eyed Peas @ *1849*  
+ - BBQ Pork Chops (2) @ *1849*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
  - BBQ Pork Sandwich @ *Fired Up*  
  - Pork Carnita @ *Que Rico*  
@@ -33,7 +33,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
  - Diced Chicken Breast @ *Buona Cucina*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
  - Chicken Tinga @ *Que Rico*  
@@ -66,13 +65,10 @@ In description:
 **beef**  
 In name:   
  - Beef Goulash w/Egg Noodles @ *1849*  
-  
-In description:   
- - Pork Bratwurst Sandwich @ *Fired Up*  
+ - Italian Beef Sandwich @ *Fired Up*  
   
 **pork**  
 In name:   
- - Pork Bratwurst Sandwich @ *Fired Up*  
  - Italian Pork Sausage @ *Global Kitchen*  
   
 **chicken**  
@@ -80,9 +76,9 @@ In name:
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-09-28)  
-**Salmon**  
+**catfish**  
 In name:   
- - Masala Spiced Salmon @ *1849*  
+ - Fried Catfish @ *1849*  
   
 **Tilapia**  
 In name:   
@@ -90,6 +86,7 @@ In name:
   
 **fish**  
 In name:   
+ - Fried Catfish @ *1849*  
  - Fish Sauce @ *Global Kitchen*  
  - Vegetarian "Fish" Tacos @ *Global Kitchen*  
   
@@ -107,7 +104,8 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken Shawarma Sandwich @ *1849*  
+ - Plant-Based Chicken Nuggets @ *1849*  
+ - Chicken Wings Boneless Plain @ *1849*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-09-28)  
@@ -125,6 +123,7 @@ In name:
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
+ - Burnt Ends @ *1849*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  
@@ -139,8 +138,9 @@ In name:
  - Mediterranean Chicken @ *1849*  
  - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
  - Crispy Chicken Sandwich @ *King's Hawaiian*  
+ - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
- - Chicken Lo Mein Spicy @ *Global Kitchen*  
+ - General Tso's Chicken @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   

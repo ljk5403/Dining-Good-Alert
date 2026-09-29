@@ -1,6 +1,6 @@
 # 2026-09-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-28 15:22:57  
+Updated at: 2026-09-28 19:49:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-28)  
 **beef**  
 In name:   
@@ -129,6 +129,7 @@ In name:
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - King's Hawaiian Sand Chicken Spicy Crisp @ *King's Hawaiian*  
  - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
+ - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - General Tso's Chicken @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
