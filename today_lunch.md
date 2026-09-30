@@ -1,6 +1,6 @@
 # 2026-09-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-30 06:58:14  
+Updated at: 2026-09-30 13:49:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-30)  
 **fish**  
 In name:   
@@ -162,15 +162,14 @@ In description:
   
 **pork**  
 In name:   
- - Ancho Braised Pork @ *Carson's 1849:  Available Between 11am-2pm*  
  - Pork Sausage Patties @ *Eggcetera:  Available Between 11am-2pm*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
+ - Sweet & Spicy Orange Chicken @ *Carson's 1849:  Available Between 11am-2pm*  
   
 In description:   
- - Ancho Braised Pork @ *Carson's 1849:  Available Between 11am-2pm*  
  - Italian Meatball Sandwich @ *Fired Up:  Available Between 11am-2pm*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
