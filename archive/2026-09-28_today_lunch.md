@@ -1,6 +1,6 @@
 # 2026-09-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-29 14:06:37  
+Updated at: 2026-09-29 18:26:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-29)  
 **portabella**  
 In name:   
@@ -76,14 +76,22 @@ In name:
  - Mediterranean Beef @ *Create-A-Bowl*  
  - Beef Taco Meat @ *Que Rico*  
   
+**pork**  
+In name:   
+  
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
+  
 **chicken**  
 In name:   
  - Mediterranean Chicken @ *Create-A-Bowl*  
- - Chicken Noodle Soup @ *Great Greens*  
  - Chicken Creole @ *1849*  
  - Breaded Chicken Tenders @ *Fired Up*  
  - Italian Chicken @ *Global Kitchen*  
  - Chicken Tinga @ *Que Rico*  
+  
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-09-29)  
 **Salmon**  
@@ -145,11 +153,10 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Breast w/Red Pepper Cream @ *1849*  
  - Breaded Chicken Parmigiana @ *1849*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
- - Chicken Dumpling Soup @ *Great Greens*  
+ - Lemon Chicken Rice Soup @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   

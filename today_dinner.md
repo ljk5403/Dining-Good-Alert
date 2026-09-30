@@ -1,6 +1,6 @@
 # 2026-09-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-29 18:26:45  
+Updated at: 2026-09-29 23:09:34  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-29)  
 **Salmon**  
 In name:   
@@ -54,6 +54,10 @@ In name:
  - Shredded Beef Flauta @ *Que Rico*  
  - Chicken and Cheese Flauta @ *Que Rico*  
   
+**Salmon**  
+In name:   
+ - Smoked Salmon @ *1849*  
+  
 **fish**  
 In name:   
  - Vegan Fish Sandwich @ *Fired Up*  
@@ -76,25 +80,21 @@ In name:
 **beef**  
 In name:   
  - Mediterranean Beef @ *Create-A-Bowl*  
+ - Beef Chili @ *Great Greens*  
  - Beef Masaman Thai Curry @ *1849*  
  - Roast Beef & Cheddar Panini on Rye @ *Fired Up*  
  - Shredded Beef Flauta @ *Que Rico*  
   
-**pork**  
-In name:   
-  
 In description:   
- - Kale, Sausage & Potato Soup @ *Great Greens*  
+ - Soup Garden Vegetable @ *Great Greens*  
   
 **chicken**  
 In name:   
  - Mediterranean Chicken @ *Create-A-Bowl*  
- - Chicken Breast w/Red Pepper Cream @ *1849*  
  - Italian Chicken @ *Global Kitchen*  
  - Chicken and Cheese Flauta @ *Que Rico*  
   
 In description:   
- - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Shredded Beef Flauta @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-09-29)  
@@ -124,6 +124,10 @@ In name:
  - Chicken Dumpling Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-09-29)  
+**steak**  
+In name:   
+ - Grilled Flank Steak @ *1849*  
+  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
@@ -138,12 +142,12 @@ In name:
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
+ - Grilled Flank Steak @ *1849*  
  - King's Hawaiian Sand Brat w/Pine Pico @ *King's Hawaiian*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  
 In name:   
- - BBQ Pork Chop @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
   
 In description:   
@@ -152,10 +156,9 @@ In description:
   
 **chicken**  
 In name:   
- - Baked BBQ Chicken @ *1849*  
+ - Greek Chicken @ *Global Kitchen*  
  - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
- - Greek Chicken @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   

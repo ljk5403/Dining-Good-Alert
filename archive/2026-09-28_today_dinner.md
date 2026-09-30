@@ -1,11 +1,7 @@
 # 2026-09-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-29 14:06:42  
+Updated at: 2026-09-29 18:26:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-29)  
-**Samosas**  
-In name:   
- - Samosas @ *Global Kitchen*  
-  
 **Salmon**  
 In name:   
  - Oven Roasted Salmon @ *1849*  
@@ -16,15 +12,23 @@ In name:
 In description:   
  - Pizza Slice Gyro @ *Capital City Pizza*  
   
+**Pakoras**  
+In name:   
+ - Appetizer -  Pakoras Vegetable (Veg) @ *Global Kitchen*  
+  
 **curry**  
 In name:   
+ - Beef Bombay Curry @ *Global Kitchen*  
  - Plant-Based Beef Curry Squash @ *Global Kitchen*  
+  
+In description:   
+ - Appetizer -  Pakoras Vegetable (Veg) @ *Global Kitchen*  
   
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Beef Street Taco @ *Fired Up*  
- - Beef Vindaloo @ *Global Kitchen*  
+ - Empanada Beef Picadillo @ *Fired Up*  
+ - Beef Bombay Curry @ *Global Kitchen*  
  - Plant-Based Beef Curry Squash @ *Global Kitchen*  
  - Mediterranean Beef @ *Que Rico*  
   
@@ -42,6 +46,7 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Empanada Beef Picadillo @ *Fired Up*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-09-29)  
 **Flauta**  
@@ -51,6 +56,7 @@ In name:
   
 **fish**  
 In name:   
+ - Vegan Fish Sandwich @ *Fired Up*  
   
 In description:   
  - Beef Masaman Thai Curry @ *1849*  
@@ -71,24 +77,24 @@ In name:
 In name:   
  - Mediterranean Beef @ *Create-A-Bowl*  
  - Beef Masaman Thai Curry @ *1849*  
+ - Roast Beef & Cheddar Panini on Rye @ *Fired Up*  
  - Shredded Beef Flauta @ *Que Rico*  
-  
-In description:   
- - Pork Bratwurst Sandwich @ *Fired Up*  
   
 **pork**  
 In name:   
- - Pork Bratwurst Sandwich @ *Fired Up*  
+  
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 **chicken**  
 In name:   
  - Mediterranean Chicken @ *Create-A-Bowl*  
- - Chicken Noodle Soup @ *Great Greens*  
  - Chicken Breast w/Red Pepper Cream @ *1849*  
  - Italian Chicken @ *Global Kitchen*  
  - Chicken and Cheese Flauta @ *Que Rico*  
   
 In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Shredded Beef Flauta @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-09-29)  
@@ -148,7 +154,7 @@ In description:
 In name:   
  - Baked BBQ Chicken @ *1849*  
  - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
- - Chicken Dumpling Soup @ *Great Greens*  
+ - Lemon Chicken Rice Soup @ *Great Greens*  
  - Greek Chicken @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
