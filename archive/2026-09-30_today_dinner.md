@@ -1,6 +1,6 @@
 # 2026-10-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-01 07:30:19  
+Updated at: 2026-10-01 14:16:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-01)  
 **drumstick**  
 In name:   
@@ -15,7 +15,7 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Mediterranean Beef @ *Que Rico*  
+ - Mediterranean Beef @ *Global Kitchen*  
   
 In description:   
  - Italian Meat Sauce @ *Buona Cucina*  
@@ -32,7 +32,7 @@ In name:
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Mediterranean Chicken @ *Que Rico*  
+ - Mediterranean Chicken @ *Global Kitchen*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  

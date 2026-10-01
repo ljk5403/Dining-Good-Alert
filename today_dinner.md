@@ -1,6 +1,6 @@
 # 2026-10-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-01 14:16:50  
+Updated at: 2026-10-01 18:41:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-01)  
 **drumstick**  
 In name:   
@@ -11,6 +11,10 @@ In name:
   
 In description:   
  - Chocolate Pumpkin Seed Bar - gcp @ *Buckingham Bakery*  
+  
+**BBQ Pork Sandwich**  
+In name:   
+ - BBQ Pork Sandwich @ *Fired Up*  
   
 **beef**  
 In name:   
@@ -24,14 +28,13 @@ In description:
 **pork**  
 In name:   
  - Pork Belly Char Sui @ *1849*  
- - Pulled Pork Torta (Half) @ *Fired Up*  
+ - BBQ Pork Sandwich @ *Fired Up*  
   
 **chicken**  
 In name:   
  - Chicken Drumstick Szechuan Glazed @ *1849*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Mediterranean Chicken @ *Global Kitchen*  
   
 In description:   
@@ -128,10 +131,6 @@ In name:
  - Chicken Noodle Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-10-01)  
-**Shrimp**  
-In name:   
- - Shrimp Teriyaki Stir Fry @ *Global Kitchen*  
-  
 **fish**  
 In name:   
   
@@ -144,13 +143,16 @@ In name:
   
 **curry**  
 In name:   
+ - Thai Veggie Meatballs w/ Green Curry @ *1849*  
   
 In description:   
+ - Chicken Madras @ *1849*  
  - Curried Pumpkin Soup @ *Great Greens*  
   
 **beef**  
 In name:   
  - Beef Taco Meat @ *Gordon Que Rico*  
+ - Beef Broccoli Stir Fry @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
@@ -167,6 +169,7 @@ In description:
 **chicken**  
 In name:   
  - Blackened Chicken @ *1849*  
+ - Chicken Madras @ *1849*  
  - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
  - King's Hawaiian Sand Chicken Crispy @ *King's Hawaiian*  
  - Chicken Noodle Soup @ *Great Greens*  

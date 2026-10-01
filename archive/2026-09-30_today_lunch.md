@@ -1,6 +1,6 @@
 # 2026-10-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-01 07:30:15  
+Updated at: 2026-10-01 14:16:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-01)  
 **fish**  
 In name:   
@@ -19,7 +19,7 @@ In description:
 In name:   
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Barbacoa Beef w/Mango Habanero Sandwich @ *Fired Up*  
- - Mediterranean Beef @ *Que Rico*  
+ - Mediterranean Beef @ *Global Kitchen*  
   
 In description:   
  - Italian Meat Sauce @ *Buona Cucina*  
@@ -35,7 +35,7 @@ In name:
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Mediterranean Chicken @ *Que Rico*  
+ - Mediterranean Chicken @ *Global Kitchen*  
   
 In description:   
  - Apple Cider Braised Pork @ *1849*  
@@ -52,6 +52,10 @@ In name:
  - Bulgogi Chicken @ *Create-A-Bowl*  
  - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
  - Build Your Own Bulgogi Bar - Four Lakes @ *Create-A-Bowl*  
+  
+**Shrimp**  
+In name:   
+ - Redhook Ale Breaded Shrimp @ *1849*  
   
 **fish**  
 In name:   
@@ -91,7 +95,6 @@ In description:
 In name:   
  - Bulgogi Chicken @ *Create-A-Bowl*  
  - Chicken Noodle Soup @ *Great Greens*  
- - Baked BBQ Chicken @ *1849*  
  - Chicken Tinga @ *Que Rico*  
   
 In description:   
@@ -139,9 +142,9 @@ In description:
  - Biscuits & Pork Gravy @ *1849*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-10-01)  
-**Shrimp**  
+**Cod**  
 In name:   
- - Fried Popcorn Shrimp @ *1849*  
+ - Breaded Cod @ *1849*  
   
 **lamb**  
 In name:   
@@ -151,6 +154,7 @@ In name:
 In name:   
   
 In description:   
+ - Breaded Cod @ *1849*  
  - Curried Pumpkin Soup @ *Great Greens*  
  - Chocolate Pumpkin Seed Bar - gcp @ *Buckingham Bakery*  
   
@@ -177,7 +181,6 @@ In description:
   
 **pork**  
 In name:   
- - Pork Sausage Country Gravy w/ Biscuit @ *Gordon Eggcetera*  
  - Italian Pork Sausage @ *Buona Cucina*  
   
 In description:   
@@ -193,7 +196,6 @@ In name:
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
- - Pork Sausage Country Gravy w/ Biscuit @ *Gordon Eggcetera*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-10-01)  
@@ -229,12 +231,12 @@ In description:
 **pork**  
 In name:   
  - Jerk Pork Chop @ *Global Kitchen:  Available Between 11am-2pm*  
+ - Pork Sausage Patties @ *Eggcetera:  Available Between 11am-2pm*  
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
  - Tikka Masala Chicken @ *Carson's 1849:  Available Between 11am-2pm*  
- - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera:  Available Between 11am-2pm*  
  - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
