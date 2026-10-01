@@ -1,6 +1,6 @@
 # 2026-09-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-30 18:29:51  
+Updated at: 2026-09-30 23:21:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-30)  
 **beef**  
 In name:   
@@ -19,17 +19,27 @@ In name:
  - Chicken Tinga @ *Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-09-30)  
+**fish**  
+In name:   
+  
+In description:   
+ - Beef Masaman Thai Curry @ *Global Kitchen*  
+  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
   
+**curry**  
+In name:   
+ - Beef Masaman Thai Curry @ *Global Kitchen*  
+  
 **beef**  
 In name:   
  - Beef Chili @ *Great Greens*  
+ - Beef Masaman Thai Curry @ *Global Kitchen*  
   
-**pork**  
-In name:   
- - Pork & Broccoli Stir Fry @ *Global Kitchen*  
+In description:   
+ - Grilled Blended Burger w/ Cheese @ *Fired Up*  
   
 **chicken**  
 In name:   
@@ -71,6 +81,10 @@ In name:
 In name:   
  - Beef Alicha @ *1849*  
   
+**Shrimp**  
+In name:   
+ - Blackened Shrimp @ *Global Kitchen*  
+  
 **Cod**  
 In name:   
  - Caribbean Cod @ *1849*  
@@ -91,26 +105,24 @@ In name:
  - Plant-Based Beef Bean & Carrot Stir Fry @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef Chili @ *Great Greens*  
+ - Beef Harissa @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
- - Bratwurst @ *King's Hawaiian*  
+ - King's Hawaiian Sand Hot Dog @ *King's Hawaiian*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
- - Italian Meat Sauce @ *Buona Cucina*  
   
 **pork**  
 In name:   
  - Italian Pork Sausage @ *Buona Cucina*  
   
 In description:   
- - Bratwurst @ *King's Hawaiian*  
  - Pizza Slice Sausage @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
  - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
  - Chicken Gravy @ *Gordon Eggcetera*  
- - Sweet & Sour Chicken @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   

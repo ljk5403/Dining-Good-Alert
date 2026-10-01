@@ -1,16 +1,12 @@
 # 2026-09-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-30 13:49:42  
+Updated at: 2026-09-30 18:29:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-09-30)  
 **fish**  
 In name:   
   
 In description:   
  - Poulet Braise @ *1849*  
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
   
 **beef**  
 In name:   

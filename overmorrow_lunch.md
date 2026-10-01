@@ -1,6 +1,6 @@
 # 2026-10-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-30 18:30:01  
+Updated at: 2026-09-30 23:21:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-02)  
 **Shrimp**  
 In name:   
@@ -86,14 +86,14 @@ In name:
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-10-02)  
 **Cod**  
 In name:   
- - Battered Cod @ *1849*  
+ - Breaded Cod @ *1849*  
  - Lemon Pepper Cod Fillet @ *1849*  
   
 **fish**  
 In name:   
   
 In description:   
- - Battered Cod @ *1849*  
+ - Breaded Cod @ *1849*  
   
 **Tuna**  
 In name:   
@@ -114,7 +114,7 @@ In name:
   
 **Cod**  
 In name:   
- - Battered Cod @ *1849*  
+ - Breaded Cod @ *1849*  
  - Vegan Cod Battered (2 pc) @ *1849*  
   
 In description:   
@@ -130,7 +130,7 @@ In name:
  - Vegan Fish Sandwich @ *King's Hawaiian*  
   
 In description:   
- - Battered Cod @ *1849*  
+ - Breaded Cod @ *1849*  
  - Vegan Cod Battered (2 pc) @ *1849*  
   
 **Tuna**  

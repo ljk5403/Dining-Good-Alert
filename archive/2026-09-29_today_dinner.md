@@ -1,13 +1,10 @@
 # 2026-09-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-09-30 13:49:47  
+Updated at: 2026-09-30 18:29:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-09-30)  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
-  
 **beef**  
 In name:   
+ - Barbacoa Beef w/Mango Habanero Sandwich @ *Fired Up*  
  - Lomo Saltado w/ Beef @ *Global Kitchen*  
  - Beef Fajita Meat @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
@@ -97,6 +94,7 @@ In name:
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
+ - Bratwurst @ *King's Hawaiian*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Italian Meat Sauce @ *Buona Cucina*  
   
@@ -105,12 +103,14 @@ In name:
  - Italian Pork Sausage @ *Buona Cucina*  
   
 In description:   
+ - Bratwurst @ *King's Hawaiian*  
  - Pizza Slice Sausage @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
  - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
- - General Tso's Chicken @ *Global Kitchen*  
+ - Chicken Gravy @ *Gordon Eggcetera*  
+ - Sweet & Sour Chicken @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
