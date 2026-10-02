@@ -1,14 +1,10 @@
 # 2026-10-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-02 13:58:50  
+Updated at: 2026-10-02 18:33:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-02)  
 **Shrimp**  
 In name:   
  - Fried Popcorn Shrimp @ *1849*  
-  
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
   
 **Tuna**  
 In name:   
@@ -20,6 +16,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Chili @ *Great Greens*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -59,6 +56,12 @@ In name:
 **clam**  
 In name:   
  - Clam Chowder @ *Great Greens*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Chocolate Pumpkin Seed Bar - gcp @ *Buckingham Bakery*  
   
 **Tuna**  
 In name:   

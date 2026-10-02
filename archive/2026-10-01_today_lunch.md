@@ -1,6 +1,6 @@
 # 2026-10-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-02 06:56:22  
+Updated at: 2026-10-02 13:58:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-02)  
 **Shrimp**  
 In name:   
@@ -27,9 +27,11 @@ In description:
   
 **pork**  
 In name:   
- - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
  - Pork Bratwurst Sandwich @ *Fired Up*  
  - Pork Miso w/Yakisoba Noodles @ *Global Kitchen*  
+  
+In description:   
+ - Pizza Slice Sausage @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
@@ -81,7 +83,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Fajita @ *Que Rico*  
+ - Chicken Tinga @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-10-02)  
 **Cod**  
@@ -112,9 +114,12 @@ In name:
 In name:   
  - Tandoori Chicken @ *Global Kitchen*  
   
+**Shrimp**  
+In name:   
+ - Fried Popcorn Shrimp @ *1849*  
+  
 **Cod**  
 In name:   
- - Breaded Cod @ *1849*  
  - Vegan Cod Battered (2 pc) @ *1849*  
   
 In description:   
@@ -130,7 +135,6 @@ In name:
  - Vegan Fish Sandwich @ *King's Hawaiian*  
   
 In description:   
- - Breaded Cod @ *1849*  
  - Vegan Cod Battered (2 pc) @ *1849*  
   
 **Tuna**  
@@ -163,7 +167,6 @@ In description:
 **chicken**  
 In name:   
  - Chicken Piece Seasoned Baked @ *1849*  
- - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
  - Tandoori Chicken @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
