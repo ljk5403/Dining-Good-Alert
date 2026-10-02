@@ -1,10 +1,14 @@
 # 2026-10-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-01 18:41:24  
+Updated at: 2026-10-01 23:14:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-01)  
 **drumstick**  
 In name:   
  - Chicken Drumstick Szechuan Glazed @ *1849*  
+  
+**Shrimp**  
+In name:   
+ - Blackened Shrimp @ *1849*  
   
 **fish**  
 In name:   
@@ -27,7 +31,6 @@ In description:
   
 **pork**  
 In name:   
- - Pork Belly Char Sui @ *1849*  
  - BBQ Pork Sandwich @ *Fired Up*  
   
 **chicken**  
@@ -101,7 +104,7 @@ In description:
 **chicken**  
 In name:   
  - Bulgogi Chicken @ *Create-A-Bowl*  
- - Chicken Noodle Soup @ *Great Greens*  
+ - Chicken Chili @ *Great Greens*  
  - Chicken Drummies @ *1849*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-10-01)  
@@ -124,17 +127,26 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Enchilada Bake @ *1849*  
+ - Butter Chicken @ *1849*  
  - Chicken Wings Bone-In Plain @ *Global Kitchen*  
  - Chicken Wings Boneless Plain @ *Global Kitchen*  
  - Plant-Based Chicken Nuggets @ *Global Kitchen*  
  - Chicken Noodle Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-10-01)  
+**Cod**  
+In name:   
+ - Breaded Cod @ *King's Hawaiian*  
+  
+**Tilapia**  
+In name:   
+ - Blackened Tilapia @ *1849*  
+  
 **fish**  
 In name:   
   
 In description:   
+ - Breaded Cod @ *King's Hawaiian*  
  - Curried Pumpkin Soup @ *Great Greens*  
   
 **Tuna**  
@@ -168,10 +180,8 @@ In description:
   
 **chicken**  
 In name:   
- - Blackened Chicken @ *1849*  
  - Chicken Madras @ *1849*  
  - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
- - King's Hawaiian Sand Chicken Crispy @ *King's Hawaiian*  
  - Chicken Noodle Soup @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   

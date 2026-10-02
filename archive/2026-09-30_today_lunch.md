@@ -1,6 +1,6 @@
 # 2026-10-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-01 14:16:45  
+Updated at: 2026-10-01 18:41:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-01)  
 **fish**  
 In name:   
@@ -34,7 +34,6 @@ In name:
  - Chicken Noodle Soup @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Mediterranean Chicken @ *Global Kitchen*  
   
 In description:   
