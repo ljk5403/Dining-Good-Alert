@@ -1,15 +1,11 @@
 # 2026-10-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-02 13:58:51  
+Updated at: 2026-10-02 18:33:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-02)  
 **Bibimbap Bowl**  
 In name:   
  - Bibimbap Bowl @ *Global Kitchen*  
  - Bibimbap Bowl  Veggies @ *Global Kitchen*  
-  
-**Shrimp**  
-In name:   
- - Shrimp Po-Boy Sandwich @ *Fired Up*  
   
 **Tuna**  
 In name:   
@@ -32,6 +28,7 @@ In name:
 In name:   
  - BBQ Chicken Wings Bone-In @ *1849*  
  - Diced Chicken Breast @ *Buona Cucina*  
+ - Breaded Chicken Tenders @ *Fired Up*  
  - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
  - Fajita Chicken @ *Que Rico*  
   
@@ -47,6 +44,12 @@ In name:
 **clam**  
 In name:   
  - Clam Chowder @ *Great Greens*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Chocolate Pumpkin Seed Bar - gcp @ *Buckingham Bakery*  
   
 **Tuna**  
 In name:   
@@ -101,11 +104,9 @@ In name:
  - Sausage Links Chicken (halal) (AYCTE) @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-10-02)  
-**Cod**  
+**Shrimp**  
 In name:   
-  
-In description:   
- - King's Hawaiian Petite Fish Sandwich @ *King's Hawaiian*  
+ - Fried Popcorn Shrimp @ *King's Hawaiian*  
   
 **Tilapia**  
 In name:   
@@ -117,7 +118,6 @@ In name:
   
 **fish**  
 In name:   
- - King's Hawaiian Petite Fish Sandwich @ *King's Hawaiian*  
  - Vegan Fish Sandwich @ *King's Hawaiian*  
   
 **Tuna**  
@@ -153,6 +153,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Blackened Chicken @ *1849*  
  - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
  - Tikka Masala Chicken @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  

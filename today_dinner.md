@@ -1,11 +1,15 @@
 # 2026-10-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-02 18:33:24  
+Updated at: 2026-10-02 22:56:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-02)  
 **Bibimbap Bowl**  
 In name:   
  - Bibimbap Bowl @ *Global Kitchen*  
  - Bibimbap Bowl  Veggies @ *Global Kitchen*  
+  
+**Chicken Drummies**  
+In name:   
+ - Chicken Drummies @ *Fired Up*  
   
 **Tuna**  
 In name:   
@@ -23,12 +27,14 @@ In description:
 **pork**  
 In name:   
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
+ - Pork Carnita @ *Que Rico*  
   
 **chicken**  
 In name:   
  - BBQ Chicken Wings Bone-In @ *1849*  
+ - BBQ Chicken Breast @ *1849*  
  - Diced Chicken Breast @ *Buona Cucina*  
- - Breaded Chicken Tenders @ *Fired Up*  
+ - Chicken Drummies @ *Fired Up*  
  - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
  - Fajita Chicken @ *Que Rico*  
   
@@ -40,10 +46,6 @@ In name:
 **Salmon**  
 In name:   
  - Blackened Salmon @ *1849*  
-  
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
   
 **fish**  
 In name:   
@@ -61,11 +63,14 @@ In name:
   
 **beef**  
 In name:   
- - Beef @ *Global Kitchen*  
+ - Beef Chili @ *Great Greens*  
   
 **pork**  
 In name:   
  - Pork Tamale with Oaxaca @ *Que Rico*  
+  
+In description:   
+ - Andouille Sausage @ *Global Kitchen*  
   
 **chicken**  
 In name:   
@@ -99,9 +104,9 @@ In name:
 In name:   
  - Beef Masaman Thai Curry @ *1849*  
   
-**chicken**  
+**pork**  
 In name:   
- - Sausage Links Chicken (halal) (AYCTE) @ *Global Kitchen*  
+ - Pork Sausage Links @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-10-02)  
 **Shrimp**  
@@ -132,7 +137,6 @@ In name:
 In name:   
   
 In description:   
- - Tikka Masala Chicken @ *Global Kitchen*  
  - Tofu & Vegetable Tikka Masala @ *Global Kitchen*  
   
 **beef**  
@@ -153,9 +157,8 @@ In description:
   
 **chicken**  
 In name:   
- - Blackened Chicken @ *1849*  
  - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
- - Tikka Masala Chicken @ *Global Kitchen*  
+ - Blackened Chicken @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   

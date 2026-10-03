@@ -1,6 +1,6 @@
 # 2026-10-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-02 18:33:21  
+Updated at: 2026-10-02 22:56:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-02)  
 **Shrimp**  
 In name:   
@@ -53,10 +53,6 @@ In name:
 In name:   
  - Lamb Vindaloo @ *1849*  
   
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
-  
 **fish**  
 In name:   
   
@@ -79,6 +75,7 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Chili @ *Great Greens*  
  - Beef @ *Global Kitchen*  
   
 In description:   
@@ -170,6 +167,7 @@ In description:
 **chicken**  
 In name:   
  - Chicken Piece Seasoned Baked @ *1849*  
+ - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
  - Tandoori Chicken @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
