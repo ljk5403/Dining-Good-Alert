@@ -1,6 +1,6 @@
 # 2026-10-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-03 12:47:30  
+Updated at: 2026-10-03 15:37:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-03)  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-10-03)  
 **Tuna**  
@@ -65,6 +65,7 @@ In name:
   
 In description:   
  - King's Hawaiian Sand Hot Dog @ *King's Hawaiian*  
+ - Italian Meat Sauce @ *Buona Cucina*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  
