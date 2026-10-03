@@ -1,57 +1,37 @@
-# 2026-10-02 dinner  
+# 2026-10-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-02 22:56:48  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-02)  
-**Bibimbap Bowl**  
-In name:   
- - Bibimbap Bowl @ *Global Kitchen*  
- - Bibimbap Bowl  Veggies @ *Global Kitchen*  
-  
-**Chicken Drummies**  
-In name:   
- - Chicken Drummies @ *Fired Up*  
-  
+Updated at: 2026-10-03 06:09:37  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-03)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-10-03)  
 **Tuna**  
 In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
+ - Tuna Salad @ *Delicious*  
   
 **beef**  
 In name:   
- - Bibimbap Beef @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
-In description:   
- - Burnt Ends @ *1849*  
- - Bibimbap Bowl @ *Global Kitchen*  
-  
 **pork**  
 In name:   
- - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
- - Pork Carnita @ *Que Rico*  
+  
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 **chicken**  
 In name:   
- - BBQ Chicken Wings Bone-In @ *1849*  
- - BBQ Chicken Breast @ *1849*  
- - Diced Chicken Breast @ *Buona Cucina*  
- - Chicken Drummies @ *Fired Up*  
- - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
- - Fajita Chicken @ *Que Rico*  
-  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-10-02)  
-**Poke Bar**  
-In name:   
- - Build Your Own Poke Bar @ *Create-A-Bowl*  
-  
-**Salmon**  
-In name:   
- - Blackened Salmon @ *1849*  
-  
-**fish**  
-In name:   
+ - General Tso's Chicken @ *1849*  
+ - Chicken Tenders Breaded @ *Fired Up*  
+ - Plant-Based Chicken Nuggets @ *Fired Up*  
+ - Giardiniera Chicken @ *Global Kitchen*  
+ - Taco Chicken @ *Que Rico*  
   
 In description:   
- - Chocolate Pumpkin Seed Bar - gcp @ *Buckingham Bakery*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
+  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-10-03)  
+**steak**  
+In name:   
+ - Pepper Steak Stir Fry @ *Global Kitchen*  
   
 **Tuna**  
 In name:   
@@ -63,89 +43,38 @@ In name:
   
 **beef**  
 In name:   
- - Beef Chili @ *Great Greens*  
+  
+In description:   
+ - Pepper Steak Stir Fry @ *Global Kitchen*  
   
 **pork**  
 In name:   
- - Pork Tamale with Oaxaca @ *Que Rico*  
   
 In description:   
- - Andouille Sausage @ *Global Kitchen*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 **chicken**  
 In name:   
   
 In description:   
- - Pork Tamale with Oaxaca @ *Que Rico*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-10-02)  
-**mahi mahi**  
-In name:   
- - Coconut Thai Curry Mahi Mahi @ *1849*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Beef Masaman Thai Curry @ *1849*  
- - Coconut Thai Curry Mahi Mahi @ *1849*  
-  
-**Tuna**  
-In name:   
- - Tuna Salad @ *Delicious*  
-  
-**curry**  
-In name:   
- - Beef Masaman Thai Curry @ *1849*  
- - Coconut Tofu w/Red Curry Sauce @ *1849*  
- - Coconut Thai Curry Mahi Mahi @ *1849*  
-  
-**beef**  
-In name:   
- - Beef Masaman Thai Curry @ *1849*  
-  
-**pork**  
-In name:   
- - Pork Sausage Links @ *Global Kitchen*  
-  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-10-02)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-10-03)  
 **Shrimp**  
 In name:   
- - Fried Popcorn Shrimp @ *King's Hawaiian*  
-  
-**Tilapia**  
-In name:   
- - Lemon Grass Tilapia @ *1849*  
-  
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
-  
-**fish**  
-In name:   
- - Vegan Fish Sandwich @ *King's Hawaiian*  
+ - Shrimp Creole @ *1849*  
   
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
   
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Tofu & Vegetable Tikka Masala @ *Global Kitchen*  
-  
 **beef**  
 In name:   
- - Texas BBQ Sliced Beef Brisket @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
+ - King's Hawaiian Sand Hot Dog @ *King's Hawaiian*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  
@@ -153,17 +82,20 @@ In name:
  - Italian Pork Sausage @ *Buona Cucina*  
   
 In description:   
+ - Chicken Sausage Gumbo @ *1849*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Pizza Slice Sausage @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
+ - Chicken Sausage Gumbo @ *1849*  
  - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
- - Blackened Chicken @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-10-02)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-10-02)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-10-03)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-10-03)  
   
