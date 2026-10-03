@@ -1,6 +1,6 @@
 # 2026-10-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-03 06:09:35  
+Updated at: 2026-10-03 12:47:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-03)  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-10-03)  
 **Tuna**  
@@ -44,27 +44,22 @@ In description:
   
 **chicken**  
 In name:   
- - Sausage Links Chicken (halal) (AYCTE) @ *Global Kitchen*  
   
 In description:   
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-10-03)  
-**Shrimp**  
+**Tilapia**  
 In name:   
- - Coconut Shrimp @ *1849*  
+ - Lemon Grass Tilapia @ *1849*  
   
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
   
-**curry**  
-In name:   
- - Beef Curry Stew @ *1849*  
-  
 **beef**  
 In name:   
- - Beef Curry Stew @ *1849*  
+ - Texas BBQ Sliced Beef Brisket @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
