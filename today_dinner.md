@@ -1,6 +1,6 @@
 # 2026-10-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-03 18:31:22  
+Updated at: 2026-10-03 23:29:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-03)  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-10-03)  
 **Tuna**  
@@ -9,6 +9,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Hot Dog @ *Fired Up*  
  - Beef Taco Meat @ *Que Rico*  
   
 **pork**  
@@ -20,7 +21,6 @@ In description:
 **chicken**  
 In name:   
  - General Tso's Chicken @ *1849*  
- - Chicken Tenders Breaded @ *Fired Up*  
  - Giardiniera Chicken @ *Global Kitchen*  
  - Taco Chicken @ *Que Rico*  
   

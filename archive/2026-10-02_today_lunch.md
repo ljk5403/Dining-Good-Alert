@@ -1,6 +1,6 @@
 # 2026-10-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-03 15:37:49  
+Updated at: 2026-10-03 18:31:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-03)  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-10-03)  
 **Tuna**  
@@ -61,6 +61,7 @@ In name:
 In name:   
  - Texas BBQ Sliced Beef Brisket @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
+ - Beef Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   

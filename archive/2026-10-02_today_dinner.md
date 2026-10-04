@@ -1,6 +1,6 @@
 # 2026-10-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-03 15:37:53  
+Updated at: 2026-10-03 18:31:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-03)  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-10-03)  
 **Tuna**  
@@ -21,7 +21,6 @@ In description:
 In name:   
  - General Tso's Chicken @ *1849*  
  - Chicken Tenders Breaded @ *Fired Up*  
- - Plant-Based Chicken Nuggets @ *Fired Up*  
  - Giardiniera Chicken @ *Global Kitchen*  
  - Taco Chicken @ *Que Rico*  
   
@@ -71,12 +70,12 @@ In name:
 **beef**  
 In name:   
  - Beef Taco Meat @ *Gordon Que Rico*  
+ - Beef Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
  - King's Hawaiian Sand Hot Dog @ *King's Hawaiian*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
- - Italian Meat Sauce @ *Buona Cucina*  
   
 **pork**  
 In name:   
