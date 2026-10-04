@@ -1,6 +1,6 @@
 # 2026-10-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-04 06:50:58  
+Updated at: 2026-10-04 12:58:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-04)  
 **curry**  
 In name:   
@@ -45,6 +45,7 @@ In name:
   
 **Tuna**  
 In name:   
+ - Poke Tuna (*Raw) @ *Great Greens*  
  - Tuna Salad @ *Delicious*  
   
 **curry**  

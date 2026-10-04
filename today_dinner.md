@@ -1,10 +1,9 @@
 # 2026-10-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-04 12:58:46  
+Updated at: 2026-10-04 16:13:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-04)  
 **curry**  
 In name:   
- - Curry Cauliflower & Butternut Squash @ *Global Kitchen*  
   
 In description:   
  - Tikka Masala Chicken @ *Global Kitchen*  
@@ -19,13 +18,13 @@ In description:
   
 **pork**  
 In name:   
- - Boneless Baked Pork Ham @ *1849*  
+ - Baked Rigatoni w/ Pork Italian Sausage @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
  - Pork Carnita @ *Que Rico*  
   
 **chicken**  
 In name:   
- - Chicken & Vegetables w/Dijon Vinaigrette @ *1849*  
+ - Blackened Chicken @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
  - Tikka Masala Chicken @ *Global Kitchen*  
@@ -77,10 +76,12 @@ In name:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-10-04)  
 **Tuna**  
 In name:   
+ - Tuna @ *Great Greens*  
  - Lemon Pepper Tuna Salad @ *Delicious*  
   
 **beef**  
 In name:   
+ - Texas BBQ Sliced Beef Brisket @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
