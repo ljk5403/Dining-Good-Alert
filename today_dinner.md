@@ -1,13 +1,7 @@
 # 2026-10-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-04 16:13:25  
+Updated at: 2026-10-04 19:26:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-04)  
-**curry**  
-In name:   
-  
-In description:   
- - Tikka Masala Chicken @ *Global Kitchen*  
-  
 **beef**  
 In name:   
  - Beef Taco Meat @ *Que Rico*  
@@ -18,8 +12,8 @@ In description:
   
 **pork**  
 In name:   
- - Baked Rigatoni w/ Pork Italian Sausage @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
+ - Pork Miso w/Yakisoba Noodles @ *Global Kitchen*  
  - Pork Carnita @ *Que Rico*  
   
 **chicken**  
@@ -27,11 +21,11 @@ In name:
  - Blackened Chicken @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
- - Tikka Masala Chicken @ *Global Kitchen*  
  - Fajita Chicken @ *Que Rico*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Pork Miso w/Yakisoba Noodles @ *Global Kitchen*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-10-04)  
 **steak**  
@@ -62,18 +56,19 @@ In description:
  - Brazilian Flank Steak @ *1849*  
  - Fired Up Blended Burger @ *Fired Up*  
   
-**pork**  
-In name:   
- - Pork Carnita @ *Que Rico*  
-  
 **chicken**  
 In name:   
  - Chicken Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Plant Based Chicken Strips @ *Global Kitchen*  
+ - Chicken Tinga @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-10-04)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-10-04)  
+**Shrimp**  
+In name:   
+ - Coconut Shrimp @ *1849*  
+  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
@@ -81,7 +76,6 @@ In name:
   
 **beef**  
 In name:   
- - Texas BBQ Sliced Beef Brisket @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
@@ -95,15 +89,16 @@ In name:
  - Italian Pork Sausage @ *Buona Cucina*  
   
 In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Pizza Slice Sausage @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
  - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
- - Chicken Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-10-04)  

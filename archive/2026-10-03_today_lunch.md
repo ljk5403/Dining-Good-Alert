@@ -1,6 +1,6 @@
 # 2026-10-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-04 12:58:45  
+Updated at: 2026-10-04 16:13:20  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-04)  
 **beef**  
 In name:   
@@ -46,7 +46,7 @@ In name:
 In name:   
  - Chicken Chili @ *Great Greens*  
  - Sausage Links Chicken (halal) (AYCTE) @ *1849*  
- - Grilled Chicken Sandwich @ *Fired Up*  
+ - Spicy Crispy Chicken Sandwich @ *Fired Up*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Plant Based Chicken Strips @ *Global Kitchen*  
   
@@ -58,6 +58,7 @@ In name:
   
 **Tuna**  
 In name:   
+ - Tuna @ *Great Greens*  
  - Lemon Pepper Tuna Salad @ *Delicious*  
   
 **beef**  
@@ -109,7 +110,7 @@ In description:
   
 **chicken**  
 In name:   
- - Baked BBQ Chicken @ *Carson's 1849:  Available Between 11am-2pm*  
+ - Chicken Tenders Breaded @ *Carson's 1849:  Available Between 11am-2pm*  
  - Chicken Chili @ *Great Greens*  
   
 In description:   

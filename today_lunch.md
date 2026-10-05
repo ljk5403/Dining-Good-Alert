@@ -1,6 +1,6 @@
 # 2026-10-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-04 16:13:20  
+Updated at: 2026-10-04 19:26:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-04)  
 **beef**  
 In name:   
@@ -79,6 +79,7 @@ In name:
  - Italian Pork Sausage @ *Buona Cucina*  
   
 In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Pizza Slice Sausage @ *Capital City Pizza*  
   
 **chicken**  
@@ -86,11 +87,11 @@ In name:
  - Plant-Based Chicken Etouffee @ *1849*  
  - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera*  
- - Chicken Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
  - Biscuits & Pork Gravy @ *Eggcetera*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-10-04)  
