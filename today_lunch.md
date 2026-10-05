@@ -1,7 +1,11 @@
 # 2026-10-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-05 08:42:06  
+Updated at: 2026-10-05 16:22:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-05)  
+**drumstick**  
+In name:   
+ - Chicken Drumstick Teriyaki Glazed @ *Global Kitchen*  
+  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
@@ -18,6 +22,7 @@ In description:
 In name:   
  - Italian Pork Sausage @ *Buona Cucina*  
  - Pizza Slice BBQ Pulled Pork @ *Capital City Pizza*  
+ - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Kielbasa with Pierogis @ *1849*  
@@ -28,7 +33,7 @@ In name:
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Crispy Chicken Sandwich @ *Fired Up*  
- - Chicken Teriyaki Stir Fry @ *Global Kitchen*  
+ - Chicken Drumstick Teriyaki Glazed @ *Global Kitchen*  
  - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
  - Chicken Tinga @ *Que Rico*  
   
@@ -53,6 +58,10 @@ In name:
 In description:   
  - California Roll  (FujiSan) @ *Create-A-Bowl*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **Pakoras**  
 In name:   
  - Appetizer -  Pakoras Vegetable (Veg) @ *Que Rico*  
@@ -65,6 +74,7 @@ In name:
   
 In description:   
  - Appetizer -  Pakoras Vegetable (Veg) @ *Que Rico*  
+ - Pakora Sauce @ *Que Rico*  
   
 **pork**  
 In name:   
@@ -78,7 +88,6 @@ In name:
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Butter Chicken @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-10-05)  
@@ -106,7 +115,7 @@ In name:
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Chicken Parmesan Sandwich @ *Global Kitchen*  
+ - Butter Chicken @ *Global Kitchen*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
@@ -122,7 +131,6 @@ In name:
 In name:   
  - Beef Sirloin Tips @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
- - Beef @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
@@ -137,9 +145,8 @@ In name:
  - Chicken Sausage Patties @ *Gordon Eggcetera*  
  - King's Hawaiian Sand Chicken Spicy Crisp @ *King's Hawaiian*  
  - Diced Chicken @ *Great Greens*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
+ - Chicken Noodle Soup @ *Great Greens*  
  - Sesame Chicken @ *Global Kitchen*  
- - Chicken @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Italian Chicken @ *Buona Cucina*  
  - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
