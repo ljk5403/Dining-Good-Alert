@@ -1,6 +1,6 @@
 # 2026-10-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-05 16:22:16  
+Updated at: 2026-10-05 21:04:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-05)  
 **Shrimp**  
 In name:   
@@ -43,10 +43,6 @@ In name:
 In name:   
  - Samosas @ *Que Rico*  
   
-**Salmon**  
-In name:   
- - Smoked Salmon @ *1849*  
-  
 **fish**  
 In name:   
   
@@ -64,7 +60,6 @@ In name:
   
 **pork**  
 In name:   
- - Appetizer -  Fried Pork Potstickers @ *1849*  
  - Italian Pork Sausage @ *Global Kitchen*  
   
 **chicken**  
@@ -106,7 +101,6 @@ In description:
 **beef**  
 In name:   
  - Beef Goulash w/Egg Noodles @ *1849*  
- - Beef Sirloin Tips @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
