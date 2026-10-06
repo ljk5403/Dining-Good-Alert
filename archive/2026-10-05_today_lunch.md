@@ -1,6 +1,6 @@
 # 2026-10-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-06 07:48:22  
+Updated at: 2026-10-06 14:18:25  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-06)  
 **portabella**  
 In name:   
@@ -50,9 +50,9 @@ In description:
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-10-06)  
-**broccoli rabe**  
+**Tuna**  
 In name:   
- - Broccoli Rabe @ *1849*  
+ - Tuna Salad @ *Delicious*  
   
 **watermelon**  
 In name:   
@@ -61,7 +61,7 @@ In name:
 **beef**  
 In name:   
  - Mediterranean Beef @ *Create-A-Bowl*  
- - Beef Harissa @ *1849*  
+ - Beef Meatloaf @ *1849*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -77,7 +77,6 @@ In name:
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
  - Chicken Piece Seasoned Baked @ *1849*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Italian Chicken @ *Global Kitchen*  
   
 In description:   
@@ -145,7 +144,7 @@ In description:
 In name:   
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Dumpling Soup @ *Great Greens*  
+ - Soup Lemony Chicken with Rice @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Italian Chicken @ *Buona Cucina*  
  - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
@@ -186,7 +185,6 @@ In name:
 In name:   
  - Chicken Wings Boneless Plain @ *Carson's 1849:  Available Between 11am-2pm*  
  - Plant-Based Chicken Nuggets @ *Carson's 1849:  Available Between 11am-2pm*  
- - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera:  Available Between 11am-2pm*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
   

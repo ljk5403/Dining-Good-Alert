@@ -1,6 +1,6 @@
 # 2026-10-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-06 07:48:23  
+Updated at: 2026-10-06 14:18:26  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-06)  
 **portabella**  
 In name:   
@@ -45,6 +45,10 @@ In description:
 In name:   
  - Blackened Tilapia @ *1849*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -68,7 +72,6 @@ In name:
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
  - Brazilian Chicken w/ Salsa Vinaigrette @ *1849*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Italian Chicken @ *Global Kitchen*  
   
 In description:   
@@ -102,51 +105,14 @@ In description:
  - Sausage (Pork) & Pepperoni Pizza Slice @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-10-06)  
-**drumstick**  
-In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
-  
-**Salmon**  
-In name:   
- - Hoisin BBQ Glazed Salmon @ *1849*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Hoisin BBQ Glazed Salmon @ *1849*  
-  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**beef**  
-In name:   
- - Beef Taco Meat @ *Gordon Que Rico*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
-  
-In description:   
- - King's Hawaiian Sand Brat w/Pine Pico @ *King's Hawaiian*  
-  
-**pork**  
-In name:   
- - Green Beans w/ Pork Bacon @ *1849*  
- - Pork Carnita @ *Gordon Que Rico*  
- - Pork Miso w/Yakisoba Noodles @ *Global Kitchen*  
-  
-In description:   
- - King's Hawaiian Sand Brat w/Pine Pico @ *King's Hawaiian*  
-  
 **chicken**  
 In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Dumpling Soup @ *Great Greens*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Italian Chicken @ *Buona Cucina*  
-  
-In description:   
- - Pork Miso w/Yakisoba Noodles @ *Global Kitchen*  
+ - Soup Lemony Chicken with Rice @ *Great Greens*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-10-06)  
 **portabella**  

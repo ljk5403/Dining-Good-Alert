@@ -1,6 +1,6 @@
 # 2026-10-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-06 14:18:26  
+Updated at: 2026-10-06 18:34:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-06)  
 **portabella**  
 In name:   
@@ -56,7 +56,6 @@ In name:
 **beef**  
 In name:   
  - Mediterranean Beef @ *Create-A-Bowl*  
- - Beef French Dip Sandwich @ *1849*  
  - Empanada Beef Picadillo @ *Que Rico*  
   
 In description:   
@@ -66,15 +65,18 @@ In description:
 In name:   
  - Pork Bratwurst Sandwich @ *Fired Up*  
   
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
+  
 **chicken**  
 In name:   
  - Mediterranean Chicken @ *Create-A-Bowl*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Dumpling Soup @ *Great Greens*  
  - Brazilian Chicken w/ Salsa Vinaigrette @ *1849*  
  - Italian Chicken @ *Global Kitchen*  
   
 In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Empanada Beef Picadillo @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-10-06)  
@@ -105,12 +107,31 @@ In description:
  - Sausage (Pork) & Pepperoni Pizza Slice @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-10-06)  
+**drumstick**  
+In name:   
+ - Chicken Drumstick BBQ Glazed @ *1849*  
+  
+**Salmon**  
+In name:   
+ - Hoisin BBQ Glazed Salmon @ *1849*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Hoisin BBQ Glazed Salmon @ *1849*  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**pork**  
+In name:   
+ - Green Beans w/ Pork Bacon @ *1849*  
+  
 **chicken**  
 In name:   
+ - Chicken Drumstick BBQ Glazed @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Soup Lemony Chicken with Rice @ *Great Greens*  
   
