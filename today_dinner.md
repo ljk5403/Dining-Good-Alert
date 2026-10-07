@@ -1,6 +1,6 @@
 # 2026-10-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-06 18:34:42  
+Updated at: 2026-10-06 23:30:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-06)  
 **portabella**  
 In name:   
@@ -59,11 +59,10 @@ In name:
  - Empanada Beef Picadillo @ *Que Rico*  
   
 In description:   
- - Pork Bratwurst Sandwich @ *Fired Up*  
+ - Grilled Blended Hamburger @ *Fired Up*  
   
 **pork**  
 In name:   
- - Pork Bratwurst Sandwich @ *Fired Up*  
   
 In description:   
  - Kale, Sausage & Potato Soup @ *Great Greens*  
@@ -73,7 +72,6 @@ In name:
  - Mediterranean Chicken @ *Create-A-Bowl*  
  - Diced Chicken @ *Great Greens*  
  - Brazilian Chicken w/ Salsa Vinaigrette @ *1849*  
- - Italian Chicken @ *Global Kitchen*  
   
 In description:   
  - Kale, Sausage & Potato Soup @ *Great Greens*  
@@ -125,15 +123,33 @@ In description:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**beef**  
+In name:   
+ - Beef Taco Meat @ *Gordon Que Rico*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+  
+In description:   
+ - King's Hawaiian Sand Brat w/Pine Pico @ *King's Hawaiian*  
+  
 **pork**  
 In name:   
  - Green Beans w/ Pork Bacon @ *1849*  
+ - Pork Carnita @ *Gordon Que Rico*  
+ - Pork Miso w/Yakisoba Noodles @ *Global Kitchen*  
+  
+In description:   
+ - King's Hawaiian Sand Brat w/Pine Pico @ *King's Hawaiian*  
   
 **chicken**  
 In name:   
  - Chicken Drumstick BBQ Glazed @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Soup Lemony Chicken with Rice @ *Great Greens*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Italian Chicken @ *Buona Cucina*  
+  
+In description:   
+ - Pork Miso w/Yakisoba Noodles @ *Global Kitchen*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-10-06)  
 **portabella**  

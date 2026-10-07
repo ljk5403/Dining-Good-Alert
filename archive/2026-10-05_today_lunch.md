@@ -1,6 +1,6 @@
 # 2026-10-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-06 14:18:25  
+Updated at: 2026-10-06 18:34:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-06)  
 **portabella**  
 In name:   
@@ -71,15 +71,18 @@ In description:
 In name:   
  - Ancho Braised Pork @ *Que Rico*  
   
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
+  
 **chicken**  
 In name:   
  - Mediterranean Chicken @ *Create-A-Bowl*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Dumpling Soup @ *Great Greens*  
  - Chicken Piece Seasoned Baked @ *1849*  
  - Italian Chicken @ *Global Kitchen*  
   
 In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Ancho Braised Pork @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-10-06)  
