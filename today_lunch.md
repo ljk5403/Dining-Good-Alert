@@ -1,6 +1,6 @@
 # 2026-10-07 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-07 07:42:41  
+Updated at: 2026-10-07 14:44:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-07)  
 **Tuna**  
 In name:   
@@ -9,7 +9,7 @@ In name:
 **beef**  
 In name:   
  - Beef Chili @ *Great Greens*  
- - Beef Broccoli Stir Fry w/Teriyaki Sauce @ *Global Kitchen*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant-Based Beef & Broccoli Stir Fry @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
@@ -20,20 +20,23 @@ In description:
   
 **pork**  
 In name:   
- - Italian Pork Sausage @ *Buona Cucina*  
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
  - Pork Bratwurst Sandwich @ *Fired Up*  
+ - Spicy Citrus Pork w/Black Beans & Rice @ *Global Kitchen*  
  - Pork Carnita @ *Que Rico*  
   
 **chicken**  
 In name:   
  - Chicken Breast w/Balsamic BBQ Sauce @ *1849*  
  - Diced Chicken @ *Great Greens*  
+ - Plant Based Chicken Strips @ *Buona Cucina*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Spicy Crispy Chicken Sandwich @ *Fired Up*  
  - Fajita Chicken @ *Que Rico*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
+ - Spicy Citrus Pork w/Black Beans & Rice @ *Global Kitchen*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-10-07)  
 **portabella**  
@@ -47,7 +50,6 @@ In name:
 **beef**  
 In name:   
  - Beef Chili @ *Great Greens*  
- - Smoked Beef Round Plate @ *1849*  
  - Beef Broccoli Stir Fry @ *Global Kitchen*  
   
 In description:   
@@ -55,7 +57,7 @@ In description:
   
 **pork**  
 In name:   
- - Jerk Pork Chop @ *1849*  
+ - Pork Chop (1) @ *1849*  
   
 **chicken**  
 In name:   
@@ -182,7 +184,6 @@ In name:
 In name:   
  - Bulgogi Chicken Thighs @ *Global Kitchen:  Available Between 11am-2pm*  
  - Buffalo Chicken Sliders @ *Fired Up:  Available Between 11am-2pm*  
- - Diced Chicken @ *Great Greens*  
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  

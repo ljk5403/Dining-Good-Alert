@@ -1,6 +1,6 @@
 # 2026-10-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-07 07:42:46  
+Updated at: 2026-10-07 14:44:40  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-07)  
 **portabella**  
 In name:   
@@ -192,7 +192,6 @@ In name:
  - Chicken Gravy @ *Global*  
  - Plant-Based Chicken & Gravy (VN) @ *1849*  
  - Chicken Pot Pie w/Biscuit @ *1849*  
- - Diced Chicken @ *Great Greens*  
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
