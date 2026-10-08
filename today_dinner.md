@@ -1,6 +1,6 @@
 # 2026-10-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-07 14:44:40  
+Updated at: 2026-10-07 19:01:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-07)  
 **portabella**  
 In name:   
@@ -20,6 +20,8 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Tortellini @ *Buona Cucina*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -30,7 +32,6 @@ In description:
 **pork**  
 In name:   
  - Pork Adobo @ *1849*  
- - Italian Pork Sausage @ *Buona Cucina*  
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
  - Pork Bratwurst Sandwich @ *Fired Up*  
  - FiIipino Pork Spring Roll @ *Global Kitchen*  
@@ -39,6 +40,8 @@ In name:
   
 **chicken**  
 In name:   
+ - Plant Based Chicken Strips @ *Buona Cucina*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Spicy Crispy Chicken Sandwich @ *Fired Up*  
  - Fajita Chicken @ *Que Rico*  
   
@@ -181,6 +184,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Carnita @ *Global*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
 In description:   
