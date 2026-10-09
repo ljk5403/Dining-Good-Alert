@@ -1,6 +1,6 @@
 # 2026-10-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-09 07:37:48  
+Updated at: 2026-10-09 14:15:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-09)  
 **duck**  
 In name:   
@@ -119,7 +119,6 @@ In name:
 In name:   
  - Honey Lime Chicken Breast @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Diced Chicken @ *Great Greens*  
   
 In description:   
  - Cracker Crusted Cod w/ Lemon Sauce @ *1849*  

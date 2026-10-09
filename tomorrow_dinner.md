@@ -1,6 +1,6 @@
 # 2026-10-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-09 07:37:50  
+Updated at: 2026-10-09 14:16:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-10)  
 **beef**  
 In name:   
@@ -54,30 +54,16 @@ In description:
 In name:   
  - Philly Cheesesteak Sandwich @ *Global Kitchen*  
   
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
-  
 **beef**  
 In name:   
   
 In description:   
  - Philly Cheesesteak Sandwich @ *Global Kitchen*  
   
-**pork**  
-In name:   
-  
-In description:   
- - Kale, Sausage & Potato Soup @ *Great Greens*  
-  
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Crispy Buffalo Chicken Sandwich @ *Global Kitchen*  
- - Diced Chicken @ *Great Greens*  
-  
-In description:   
- - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-10-10)  
 **steak**  
