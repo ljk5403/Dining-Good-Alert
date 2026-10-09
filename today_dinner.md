@@ -1,14 +1,15 @@
 # 2026-10-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-08 14:39:59  
+Updated at: 2026-10-08 19:08:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-08)  
 **Tilapia**  
 In name:   
- - Baked Tilapia w/Dill Wine Sauce @ *1849*  
+ - Blackened Tilapia @ *1849*  
   
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Beef Tortellini @ *Buona Cucina*  
  - Beef Mediterranean @ *Que Rico*  
   
 In description:   
@@ -155,6 +156,7 @@ In name:
  - Chicken Wings Boneless Plain @ *1849*  
  - Chicken Gravy @ *1849*  
  - Plant-Based Chicken Nuggets @ *1849*  
+ - Chicken Pot Pie Filling @ *1849*  
  - King's Hawaiian Sand Chicken Crispy @ *King's Hawaiian*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  

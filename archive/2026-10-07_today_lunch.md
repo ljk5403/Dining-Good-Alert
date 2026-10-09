@@ -1,6 +1,6 @@
 # 2026-10-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-08 07:52:09  
+Updated at: 2026-10-08 14:39:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-08)  
 **fish**  
 In name:   
@@ -61,12 +61,13 @@ In name:
 In name:   
  - Chicken Drumstick Teriyaki Glazed @ *1849*  
   
-**haddock**  
+**catfish**  
 In name:   
- - Haddock Ginger Glazed (AYCTE) @ *1849*  
+ - Blackened Catfish @ *1849*  
   
 **fish**  
 In name:   
+ - Blackened Catfish @ *1849*  
   
 In description:   
  - Curried Pumpkin Soup @ *Great Greens*  
@@ -80,8 +81,13 @@ In description:
 **beef**  
 In name:   
  - Bulgogi Beef @ *Create-A-Bowl*  
- - Beef @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
+  
+**pork**  
+In name:   
+  
+In description:   
+ - Andouille Sausage @ *Global Kitchen*  
   
 **chicken**  
 In name:   
@@ -201,7 +207,7 @@ In name:
   
 In description:   
  - Brazilian Flank Steak @ *Global Kitchen:  Available Between 11am-2pm*  
- - Mini Pastrami Reuben on Pretzel Bun @ *Fired Up:  Available Between 11am-2pm*  
+ - Reuben @ *Fired Up:  Available Between 11am-2pm*  
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
   
 **pork**  
