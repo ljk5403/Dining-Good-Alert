@@ -1,6 +1,6 @@
 # 2026-10-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-10 13:13:21  
+Updated at: 2026-10-10 18:15:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-10)  
 **beef**  
 In name:   
@@ -54,11 +54,30 @@ In description:
 In name:   
  - Philly Cheesesteak Sandwich @ *Global Kitchen*  
   
+**mahi mahi**  
+In name:   
+ - Blackened Mahi Mahi @ *Global Kitchen*  
+  
+**curry**  
+In name:   
+ - Thai Chick'n w/ Green Curry Sauce (CN) @ *Global Kitchen*  
+  
+In description:   
+ - Chana Saag w/ Tofu @ *Global Kitchen*  
+  
 **beef**  
 In name:   
   
 In description:   
  - Philly Cheesesteak Sandwich @ *Global Kitchen*  
+ - Bratwurst @ *Global Kitchen*  
+  
+**pork**  
+In name:   
+ - Pork Italian Sausage @ *Global Kitchen*  
+  
+In description:   
+ - Bratwurst @ *Global Kitchen*  
   
 **chicken**  
 In name:   
@@ -66,9 +85,13 @@ In name:
  - Crispy Buffalo Chicken Sandwich @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-10-10)  
-**steak**  
+**catfish**  
 In name:   
- - Country Fried Steak @ *1849*  
+ - Blackened Catfish @ *1849*  
+  
+**fish**  
+In name:   
+ - Blackened Catfish @ *1849*  
   
 **beef**  
 In name:   
@@ -76,7 +99,6 @@ In name:
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
- - Country Fried Steak @ *1849*  
  - King's Hawaiian Sand Hot Dog @ *King's Hawaiian*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   

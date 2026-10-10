@@ -1,6 +1,6 @@
 # 2026-10-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-10 13:13:19  
+Updated at: 2026-10-10 18:15:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-10)  
 **steak**  
 In name:   
@@ -108,6 +108,7 @@ In description:
   
 **pork**  
 In name:   
+ - French Market Pork Jambalaya @ *1849*  
  - Pork Carnita @ *Gordon Que Rico*  
  - Chorizo Sausage Patties (Pork) @ *Eggcetera*  
   
@@ -116,7 +117,6 @@ In description:
   
 **chicken**  
 In name:   
- - Mediterranean Chicken @ *1849*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera*  
  - Diced Chicken @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
@@ -124,6 +124,7 @@ In name:
  - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
   
 In description:   
+ - French Market Pork Jambalaya @ *1849*  
  - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   

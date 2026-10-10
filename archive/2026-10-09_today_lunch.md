@@ -1,6 +1,6 @@
 # 2026-10-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-10 06:57:55  
+Updated at: 2026-10-10 13:13:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-10)  
 **steak**  
 In name:   
@@ -89,9 +89,13 @@ In description:
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-10-10)  
-**Tilapia**  
+**catfish**  
 In name:   
- - Tilapia Veracruz @ *1849*  
+ - Blackened Catfish @ *1849*  
+  
+**fish**  
+In name:   
+ - Blackened Catfish @ *1849*  
   
 **beef**  
 In name:   
@@ -112,7 +116,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Breast w/Balsamic BBQ Sauce @ *1849*  
+ - Mediterranean Chicken @ *1849*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera*  
  - Diced Chicken @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
