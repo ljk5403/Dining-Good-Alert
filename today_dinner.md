@@ -1,6 +1,6 @@
 # 2026-10-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-09 18:49:07  
+Updated at: 2026-10-09 23:29:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-09)  
 **Chicken Drumstick Gochujang Glazed**  
 In name:   
@@ -79,9 +79,17 @@ In name:
 In name:   
  - Island Spiced Mahi Mahi @ *1849*  
   
+**catfish**  
+In name:   
+ - Fried Catfish @ *Fired Up*  
+  
 **clam**  
 In name:   
  - Clam Chowder @ *Great Greens*  
+  
+**fish**  
+In name:   
+ - Fried Catfish @ *Fired Up*  
   
 **watermelon**  
 In name:   
@@ -91,19 +99,14 @@ In name:
 In name:   
  - Beef Taco Meat @ *Que Rico*  
   
-In description:   
- - Pork Bratwurst Sandwich @ *Fired Up*  
-  
 **pork**  
 In name:   
- - Pork Bratwurst Sandwich @ *Fired Up*  
+ - Herb Crusted Pork Loin @ *1849*  
   
 **chicken**  
 In name:   
  - Diced Chicken @ *Great Greens*  
- - Blackened Chicken @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Grilled Chicken Sandwich @ *Fired Up*  
  - Italian Chicken @ *Global Kitchen*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-10-09)  

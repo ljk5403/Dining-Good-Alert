@@ -1,7 +1,15 @@
 # 2026-10-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-09 14:15:54  
+Updated at: 2026-10-09 18:49:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-09)  
+**Chicken Drumstick Gochujang Glazed**  
+In name:   
+ - Chicken Drumstick Gochujang Glazed @ *1849*  
+  
+**drumstick**  
+In name:   
+ - Chicken Drumstick Gochujang Glazed @ *1849*  
+  
 **duck**  
 In name:   
  - Duck Curry @ *Global Kitchen*  
@@ -28,25 +36,26 @@ In name:
   
 **beef**  
 In name:   
- - Beef Hot Dog @ *Fired Up*  
  - Beef Fajita Meat @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
+ - Bratwurst @ *Fired Up*  
   
 **pork**  
 In name:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
   
 In description:   
- - Andouille Sausage @ *1849*  
  - Chorizo Sauce @ *Buona Cucina*  
  - Pizza Slice Sausage @ *Capital City Pizza*  
+ - Bratwurst @ *Fired Up*  
   
 **chicken**  
 In name:   
  - Plant-Based Chicken Etouffee @ *1849*  
+ - Chicken Drumstick Gochujang Glazed @ *1849*  
  - Diced Chicken Breast @ *Buona Cucina*  
  - Crispy Chicken Sandwich @ *Fired Up*  
  - Chicken Tinga @ *Que Rico*  
@@ -61,10 +70,6 @@ In name:
   
 In description:   
  - Portobello Mushroom Stroganoff @ *1849*  
-  
-**Flauta**  
-In name:   
- - Chicken and Cheese Flauta @ *Que Rico*  
   
 **Poke Bar**  
 In name:   
@@ -82,6 +87,17 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**beef**  
+In name:   
+ - Beef Taco Meat @ *Que Rico*  
+  
+In description:   
+ - Pork Bratwurst Sandwich @ *Fired Up*  
+  
+**pork**  
+In name:   
+ - Pork Bratwurst Sandwich @ *Fired Up*  
+  
 **chicken**  
 In name:   
  - Diced Chicken @ *Great Greens*  
@@ -89,7 +105,6 @@ In name:
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Grilled Chicken Sandwich @ *Fired Up*  
  - Italian Chicken @ *Global Kitchen*  
- - Chicken and Cheese Flauta @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-10-09)  
 **Cod**  
@@ -157,7 +172,6 @@ In name:
   
 **curry**  
 In name:   
- - Lentil Chickpea Red Curry @ *Global Kitchen*  
  - Coconut Thai Curry Mahi Mahi @ *Global Kitchen*  
   
 **beef**  
