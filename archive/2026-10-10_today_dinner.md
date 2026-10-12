@@ -1,6 +1,6 @@
 # 2026-10-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-11 13:36:47  
+Updated at: 2026-10-11 18:27:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-11)  
 **beef**  
 In name:   
@@ -14,12 +14,12 @@ In description:
   
 **pork**  
 In name:   
- - Italian Pork Sausage @ *Buona Cucina*  
  - Pork Carnita @ *Que Rico*  
   
 **chicken**  
 In name:   
  - Chicken Honey Lime w/ rice @ *1849*  
+ - Diced Chicken Breast @ *Buona Cucina*  
  - Chicken Salad @ *Delicious*  
  - General Tso's Chicken @ *Global Kitchen*  
  - Fajita Chicken @ *Que Rico*  
@@ -28,13 +28,18 @@ In description:
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-10-11)  
+**portabella**  
+In name:   
+  
+In description:   
+ - Portobello Mushroom Stroganoff @ *1849*  
+  
 **Cod**  
 In name:   
  - Cracker Crusted Cod w/ Lemon Sauce @ *1849*  
   
 **beef**  
 In name:   
- - Beef & Tater Tot Bake @ *1849*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
@@ -43,6 +48,7 @@ In description:
   
 **pork**  
 In name:   
+ - Herb Crusted Pork Loin @ *1849*  
  - Pork Carnita @ *Que Rico*  
   
 **chicken**  

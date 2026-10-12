@@ -1,6 +1,6 @@
 # 2026-10-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-11 18:27:11  
+Updated at: 2026-10-11 23:30:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-11)  
 **beef**  
 In name:   
@@ -68,7 +68,6 @@ In description:
 **curry**  
 In name:   
  - Mango Beef Curry @ *1849*  
- - Thai Veggie Meatballs w/ Green Curry @ *1849*  
   
 **beef**  
 In name:   
