@@ -1,15 +1,7 @@
 # 2026-10-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-12 09:31:07  
+Updated at: 2026-10-12 17:23:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-12)  
-**Samosas**  
-In name:   
- - Samosas @ *Global Kitchen*  
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
-  
 **curry**  
 In name:   
  - Beef Bombay Curry @ *Global Kitchen*  
@@ -29,6 +21,7 @@ In description:
 In name:   
  - Italian Pork Sausage @ *Buona Cucina*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
+ - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Pizza Slice Sausage @ *Capital City Pizza*  
@@ -38,7 +31,6 @@ In name:
  - BBQ Chicken Wings Bone-In @ *1849*  
  - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
  - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
- - Chicken Tinga @ *Que Rico*  
   
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
@@ -48,8 +40,17 @@ In description:
 In name:   
  - Coconut Thai Curry Mahi Mahi @ *Que Rico*  
   
+**catfish**  
+In name:   
+ - Blackened Catfish @ *1849*  
+  
+**lamb**  
+In name:   
+ - Lamb Vindaloo @ *Que Rico*  
+  
 **fish**  
 In name:   
+ - Blackened Catfish @ *1849*  
   
 In description:   
  - Coconut Thai Curry Mahi Mahi @ *Que Rico*  
@@ -65,12 +66,14 @@ In name:
   
 **curry**  
 In name:   
- - Black Eyed Pea Curry (AYCTE) @ *Que Rico*  
  - Curry Potatoes @ *Que Rico*  
  - Coconut Thai Curry Mahi Mahi @ *Que Rico*  
   
 In description:   
  - Appetizer -  Pakoras Vegetable (Veg) @ *Que Rico*  
+ - Pakora Sauce @ *Que Rico*  
+ - Vegetable Korma @ *Que Rico*  
+ - Lamb Vindaloo @ *Que Rico*  
   
 **beef**  
 In name:   
@@ -89,22 +92,37 @@ In name:
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
+ - Tuna @ *Great Greens*  
   
-**pork**  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
+  
+**beef**  
 In name:   
   
 In description:   
- - Andouille Sausage @ *1849*  
+ - Sliced Kielbasa (Pork) @ *1849*  
+  
+**pork**  
+In name:   
+ - Sliced Kielbasa (Pork) @ *1849*  
   
 **chicken**  
 In name:   
  - Popcorn Chicken @ *1849*  
  - Plant-Based Chicken Nuggets @ *1849*  
+ - Lemon Chicken Rice Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-10-12)  
 **Shrimp**  
 In name:   
+ - Coconut Shrimp @ *1849*  
  - Shrimp Curry @ *Global Kitchen*  
+  
+**Cod**  
+In name:   
+ - Cod Nuggets @ *1849*  
   
 **Tuna**  
 In name:   
@@ -112,14 +130,12 @@ In name:
   
 **curry**  
 In name:   
- - Coconut Tofu w/Red Curry Sauce @ *Global Kitchen*  
  - Shrimp Curry @ *Global Kitchen*  
   
 **beef**  
 In name:   
- - Beef Stew @ *1849*  
+ - Beef Stew w/ Buttermilk Biscuit @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
- - Beef @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
@@ -139,7 +155,6 @@ In name:
  - Chicken Tinga @ *Gordon Que Rico*  
  - King's Hawaiian Sand Chicken Spicy Crisp @ *King's Hawaiian*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
- - Chicken @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
@@ -168,7 +183,6 @@ In name:
   
 **beef**  
 In name:   
- - Traditional Beef Shepard's Pie @ *1849*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
@@ -179,6 +193,7 @@ In name:
   
 **chicken**  
 In name:   
+ - Chipotle Chicken Baked Pasta @ *1849*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Chicken, Bacon, Jalapeno Pizza @ *Capital City Pizza*  
   

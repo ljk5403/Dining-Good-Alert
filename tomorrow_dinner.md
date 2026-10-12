@@ -1,6 +1,6 @@
 # 2026-10-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-12 09:31:18  
+Updated at: 2026-10-12 17:23:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-13)  
 **Shrimp**  
 In name:   
@@ -74,10 +74,12 @@ In name:
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
+ - Tuna @ *Great Greens*  
   
 **chicken**  
 In name:   
  - Tempura Chicken w/Sauce @ *1849*  
+ - Chicken Dumpling Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-10-13)  
 **mahi mahi**  

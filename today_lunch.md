@@ -1,15 +1,15 @@
 # 2026-10-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-12 09:31:00  
+Updated at: 2026-10-12 17:23:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-12)  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
- - Lemon Pepper Tuna Salad @ *Delicious*  
   
 **beef**  
 In name:   
  - Beef Sirloin Tips @ *1849*  
+ - Beef Hot Dog @ *Fired Up*  
  - Beef Bean & Carrot Stir Fry @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
@@ -24,7 +24,6 @@ In name:
   
 In description:   
  - Pizza Slice Sausage @ *Capital City Pizza*  
- - Italian Sausage w/ Pepper & Onions @ *Fired Up*  
   
 **chicken**  
 In name:   
@@ -37,10 +36,6 @@ In description:
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-10-12)  
-**broccoli rabe**  
-In name:   
- - Broccoli Rabe @ *1849*  
-  
 **Samosas**  
 In name:   
  - Samosas @ *Que Rico*  
@@ -49,12 +44,6 @@ In name:
 In name:   
  - Lamb & Beef Gyro Sandwich @ *Fired Up*  
  - Lamb Vindaloo @ *Que Rico*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - California Roll  (FujiSan) @ *Create-A-Bowl*  
   
 **Tuna**  
 In name:   
@@ -123,22 +112,27 @@ In name:
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-10-12)  
+**Shrimp**  
+In name:   
+ - Coconut Shrimp @ *1849*  
+  
+**Cod**  
+In name:   
+ - Cod Nuggets @ *1849*  
+  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
   
 **curry**  
 In name:   
+ - Beef Bombay Curry w/Basmati Rice @ *1849*  
  - Mixed Vegetable Curry @ *1849*  
-  
-In description:   
- - Tikka Masala Chicken @ *1849*  
   
 **beef**  
 In name:   
- - Beef Vindaloo @ *1849*  
+ - Beef Bombay Curry w/Basmati Rice @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
- - Beef @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
@@ -155,13 +149,12 @@ In description:
   
 **chicken**  
 In name:   
- - Tikka Masala Chicken @ *1849*  
+ - Tempura Fried Chicken @ *1849*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - King's Hawaiian Sand Chicken Spicy Crisp @ *King's Hawaiian*  
  - Chicken Tinga @ *Gordon Que Rico*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Marrakech Chicken Breast @ *Global Kitchen*  
- - Chicken @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
@@ -173,6 +166,10 @@ In description:
 **steak**  
 In name:   
  - Ham Steak @ *Eggcetera:  Available Between 11am-2pm*  
+  
+**Tilapia**  
+In name:   
+ - Lemon Bake Tilapia @ *Carson's 1849:  Available Between 11am-2pm*  
   
 **fish**  
 In name:   
@@ -186,7 +183,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Meatloaf @ *Carson's 1849:  Available Between 11am-2pm*  
  - BBQ Beef Brisket Sandwich @ *Fired Up:  Available Between 11am-2pm*  
   
 In description:   
@@ -201,6 +197,7 @@ In description:
 **chicken**  
 In name:   
  - Spicy Lo Mein w/Chicken @ *Global Kitchen:  Available Between 11am-2pm*  
+ - Halal Chicken Sausage Link @ *Eggcetera:  Available Between 11am-2pm*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Chicken, Bacon, Jalapeno Pizza @ *Capital City Pizza*  
   

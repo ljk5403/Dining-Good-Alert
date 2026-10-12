@@ -1,6 +1,6 @@
 # 2026-10-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-12 09:31:30  
+Updated at: 2026-10-12 17:23:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-14)  
 **Beef Alicha**  
 In name:   
@@ -98,9 +98,17 @@ In description:
 In name:   
  - Indian Fish Curry @ *Global Kitchen*  
   
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
+  
 **Pakoras**  
 In name:   
  - Appetizer -  Pakoras Vegetable (Veg) @ *Global Kitchen*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
   
 **curry**  
 In name:   
@@ -114,6 +122,7 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Chili @ *Great Greens*  
   
 In description:   
  - Pepper Steak Stir Fry @ *1849*  
