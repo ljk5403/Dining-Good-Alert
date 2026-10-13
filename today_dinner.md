@@ -1,7 +1,15 @@
 # 2026-10-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-12 17:23:32  
+Updated at: 2026-10-12 22:21:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-12)  
+**catfish**  
+In name:   
+ - Blackened Catfish @ *1849*  
+  
+**fish**  
+In name:   
+ - Blackened Catfish @ *1849*  
+  
 **curry**  
 In name:   
  - Beef Bombay Curry @ *Global Kitchen*  
@@ -9,11 +17,12 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Ravioli Plain @ *Buona Cucina*  
  - Beef Bombay Curry @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
+ - Beef Barbacoa @ *Que Rico*  
   
 In description:   
- - Burnt Ends @ *1849*  
  - Italian Meat Sauce @ *Buona Cucina*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
@@ -79,6 +88,9 @@ In description:
 In name:   
  - BBQ Beef Brisket Sliders @ *1849*  
   
+In description:   
+ - Vegan Sloppy Joe @ *1849*  
+  
 **pork**  
 In name:   
  - Italian Pork Sausage @ *Global Kitchen*  
@@ -111,18 +123,23 @@ In name:
 **chicken**  
 In name:   
  - Popcorn Chicken @ *1849*  
- - Plant-Based Chicken Nuggets @ *1849*  
+ - Protein Plant Based Chicken Tender @ *1849*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-10-12)  
 **Shrimp**  
 In name:   
- - Coconut Shrimp @ *1849*  
  - Shrimp Curry @ *Global Kitchen*  
   
-**Cod**  
+**clam**  
 In name:   
- - Cod Nuggets @ *1849*  
+ - Clam Strips @ *1849*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Crab Rangoon @ *King's Hawaiian*  
   
 **Tuna**  
 In name:   
@@ -134,7 +151,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Stew w/ Buttermilk Biscuit @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
@@ -152,9 +168,10 @@ In description:
   
 **chicken**  
 In name:   
+ - Tempura Fried Chicken @ *1849*  
  - Chicken Tinga @ *Gordon Que Rico*  
  - King's Hawaiian Sand Chicken Spicy Crisp @ *King's Hawaiian*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
+ - Chicken Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
@@ -193,7 +210,6 @@ In name:
   
 **chicken**  
 In name:   
- - Chipotle Chicken Baked Pasta @ *1849*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Chicken, Bacon, Jalapeno Pizza @ *Capital City Pizza*  
   

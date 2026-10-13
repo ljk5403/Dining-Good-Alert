@@ -1,6 +1,6 @@
 # 2026-10-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-12 17:23:42  
+Updated at: 2026-10-12 22:21:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-14)  
 **fish**  
 In name:   
@@ -83,9 +83,15 @@ In description:
 In name:   
  - Beef Chili @ *Great Greens*  
   
+In description:   
+ - BYO Bar - Liz - Potato Bar @ *1849*  
+  
 **chicken**  
 In name:   
  - Butter Chicken @ *Global Kitchen*  
+  
+In description:   
+ - BYO Bar - Liz - Potato Bar @ *1849*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-10-14)  
 **Chicken Drummies**  
