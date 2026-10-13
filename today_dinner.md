@@ -1,6 +1,6 @@
 # 2026-10-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-13 08:37:43  
+Updated at: 2026-10-13 15:05:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-13)  
 **Shrimp**  
 In name:   
@@ -25,7 +25,6 @@ In name:
  - Chicken Paprikash @ *1849*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Plant Based Sweet & Sour Chicken @ *Global Kitchen*  
  - Mediterranean Chicken @ *Que Rico*  
   
@@ -157,7 +156,7 @@ In name:
 In name:   
  - Mediterranean Chicken @ *Global*  
  - Cajun Chicken Pasta @ *1849*  
- - Chicken Dumpling Soup @ *Great Greens*  
+ - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
  - Pork Louisiana Creole @ *Fired Up*  

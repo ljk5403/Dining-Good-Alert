@@ -1,6 +1,6 @@
 # 2026-10-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-13 08:37:38  
+Updated at: 2026-10-13 15:05:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-13)  
 **Tandoori Chicken**  
 In name:   
@@ -43,7 +43,6 @@ In name:
  - Chicken Dumpling Soup @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Parmesan Sandwich @ *Fired Up*  
  - Tandoori Chicken @ *Global Kitchen*  
  - Mediterranean Chicken @ *Que Rico*  
@@ -64,10 +63,8 @@ In name:
 **beef**  
 In name:   
  - Mediterranean Beef @ *Create-A-Bowl*  
+ - (Deli) BBQ Brisket Beef Sliced @ *1849*  
  - Beef Taco Meat @ *Que Rico*  
-  
-In description:   
- - Burnt Ends @ *1849*  
   
 **pork**  
 In name:   
@@ -110,7 +107,7 @@ In name:
 **steak**  
 In name:   
  - Brazilian Flank Steak @ *1849*  
- - Pepper Steak Stir Fry @ *Global Kitchen*  
+ - Beef Pepper Steak Stir Fry w/Teryiaki @ *Global Kitchen*  
   
 **Tuna**  
 In name:   
@@ -130,13 +127,13 @@ In description:
 In name:   
  - Beef Gravy @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
+ - Beef Pepper Steak Stir Fry w/Teryiaki @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
  - Brazilian Flank Steak @ *1849*  
  - King's Hawaiian Sand Brat w/Pine Pico @ *King's Hawaiian*  
  - Vegan Taco Filling @ *Gordon Que Rico*  
- - Pepper Steak Stir Fry @ *Global Kitchen*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
@@ -199,7 +196,7 @@ In name:
  - Plant-Based Chicken Nuggets @ *Carson's 1849:  Available Between 11am-2pm*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera:  Available Between 11am-2pm*  
  - Chicken Tinga & Scallion Quesadilla @ *Fired Up:  Available Between 11am-2pm*  
- - Chicken Dumpling Soup @ *Great Greens*  
+ - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
