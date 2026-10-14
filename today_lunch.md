@@ -1,31 +1,29 @@
 # 2026-10-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-14 06:15:24  
+Updated at: 2026-10-14 13:17:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-14)  
-**fish**  
-In name:   
-  
-In description:   
- - Filipino Barbecue Pork @ *1849*  
-  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
  - Lemon Pepper Tuna Salad @ *Delicious*  
   
+**curry**  
+In name:   
+ - Beef Bombay Curry @ *1849*  
+  
 **beef**  
 In name:   
+ - Beef Bombay Curry @ *1849*  
  - Beef Chili @ *Great Greens*  
- - Beef Pasta Tortellini @ *Buona Cucina*  
  - Beef Fajita Meat @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
  - Pepperoni & Mushrooms Pizza @ *Capital City Pizza*  
+ - Reuben @ *Fired Up*  
   
 **pork**  
 In name:   
- - Filipino Barbecue Pork @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
   
 In description:   
@@ -33,7 +31,7 @@ In description:
   
 **chicken**  
 In name:   
- - Blackened Chicken with Orange Sauce @ *1849*  
+ - Brazilian Chicken w/ Salsa Vinaigrette @ *1849*  
  - Spicy Lo Mein w/Chicken @ *Global Kitchen*  
  - Fajita Chicken @ *Que Rico*  
   
@@ -94,10 +92,6 @@ In description:
  - BYO Bar - Liz - Potato Bar @ *1849*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-10-14)  
-**Chicken Drummies**  
-In name:   
- - Chicken Drummies @ *1849*  
-  
 **Tilapia**  
 In name:   
  - Tilapia Veracruz @ *1849*  
@@ -127,7 +121,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Drummies @ *1849*  
+ - Baked Chicken (2 piece) @ *1849*  
  - Chicken Gravy @ *1849*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Chicken Tinga @ *Gordon Que Rico*  
@@ -144,9 +138,15 @@ In description:
 In name:   
  - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
   
-**Salmon**  
+**Cod**  
 In name:   
- - Ginger Glazed Salmon @ *Carson's 1849:  Available Between 11am-2pm*  
+ - Breaded Cod @ *Carson's 1849:  Available Between 11am-2pm*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Breaded Cod @ *Carson's 1849:  Available Between 11am-2pm*  
   
 **Tuna**  
 In name:   
