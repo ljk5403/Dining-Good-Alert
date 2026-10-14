@@ -1,6 +1,6 @@
 # 2026-10-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-14 13:17:41  
+Updated at: 2026-10-14 17:58:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-14)  
 **Tuna**  
 In name:   
@@ -137,16 +137,6 @@ In description:
 **steak**  
 In name:   
  - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
-  
-**Cod**  
-In name:   
- - Breaded Cod @ *Carson's 1849:  Available Between 11am-2pm*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Breaded Cod @ *Carson's 1849:  Available Between 11am-2pm*  
   
 **Tuna**  
 In name:   

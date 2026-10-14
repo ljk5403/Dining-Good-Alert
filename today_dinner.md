@@ -1,6 +1,6 @@
 # 2026-10-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-14 13:17:45  
+Updated at: 2026-10-14 17:58:52  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-14)  
 **Beef Alicha**  
 In name:   
@@ -34,7 +34,6 @@ In description:
 **beef**  
 In name:   
  - Beef Alicha @ *1849*  
- - Beef Pasta Tortellini @ *Buona Cucina*  
  - Beef Fajita Meat @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
   
@@ -69,6 +68,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Hot Dog  (no bun) @ *Create-A-Bowl*  
  - Beef Chili @ *Great Greens*  
  - Beef Bean & Carrot Stir Fry @ *Global Kitchen*  
   
@@ -78,9 +78,10 @@ In name:
   
 **chicken**  
 In name:   
+ - Popcorn Chicken @ *Create-A-Bowl*  
+ - Plant-Based Chicken Nuggets @ *Que Rico*  
  - Montreal Chicken @ *1849*  
  - Chicken Wings Boneless Plain @ *Que Rico*  
- - Plant-Based Chicken Nuggets @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-10-14)  
 **steak**  
@@ -127,12 +128,25 @@ In name:
 In description:   
  - Pepper Steak Stir Fry @ *1849*  
  - Plant-Based Pepper Steak Stir Fry @ *1849*  
+ - Bratwurst @ *1849*  
+ - Sliced Kielbasa (Pork) @ *1849*  
+  
+**pork**  
+In name:   
+ - Sliced Kielbasa (Pork) @ *1849*  
+  
+In description:   
+ - Bratwurst @ *1849*  
   
 **chicken**  
 In name:   
  - Tikka Masala Chicken @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-10-14)  
+**Tilapia**  
+In name:   
+ - Tilapia Veracruz @ *1849*  
+  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
@@ -164,6 +178,7 @@ In description:
 **chicken**  
 In name:   
  - Popcorn Chicken Basket @ *1849*  
+ - Marrakech Chicken Breast @ *1849*  
  - Chicken Tinga @ *Gordon Que Rico*  
  - Sweet & Sour Chicken @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
