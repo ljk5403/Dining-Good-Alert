@@ -1,6 +1,6 @@
 # 2026-10-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-13 15:05:21  
+Updated at: 2026-10-13 19:08:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-13)  
 **Shrimp**  
 In name:   
@@ -8,6 +8,7 @@ In name:
   
 **beef**  
 In name:   
+ - Corned Beef @ *1849*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Beef Mediterranean @ *Que Rico*  
   
@@ -17,7 +18,6 @@ In description:
   
 **pork**  
 In name:   
- - Apricot Glazed Pork @ *1849*  
  - Baked Corn Dog (Pork) @ *Fired Up*  
   
 **chicken**  
@@ -33,10 +33,6 @@ In description:
  - Baked Corn Dog (Pork) @ *Fired Up*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-10-13)  
-**drumstick**  
-In name:   
- - Smoked Chicken Drumstick @ *1849*  
-  
 **Tilapia**  
 In name:   
  - Blackened Tilapia @ *1849*  
@@ -53,12 +49,12 @@ In name:
 **beef**  
 In name:   
  - Mediterranean Beef @ *Create-A-Bowl*  
+ - (Deli) BBQ Brisket Beef Sliced @ *1849*  
   
 **chicken**  
 In name:   
  - Mediterranean Chicken @ *Create-A-Bowl*  
  - Chicken Dumpling Soup @ *Great Greens*  
- - Smoked Chicken Drumstick @ *1849*  
  - Chicken Tenders Breaded @ *Fired Up*  
  - Italian Chicken @ *Global Kitchen*  
  - Chicken Empanada with Green Chili @ *Que Rico*  
@@ -85,6 +81,12 @@ In name:
 In name:   
  - Island Spiced Mahi Mahi @ *1849*  
   
+**fish**  
+In name:   
+  
+In description:   
+ - Crab Cakes @ *1849*  
+  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
@@ -92,6 +94,10 @@ In name:
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
+  
+**Filipino Pork Sausage**  
+In name:   
+ - Filipino Pork Sausage @ *1849*  
   
 **beef**  
 In name:   
@@ -108,6 +114,7 @@ In description:
   
 **pork**  
 In name:   
+ - Filipino Pork Sausage @ *1849*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
 In description:   
@@ -116,7 +123,6 @@ In description:
   
 **chicken**  
 In name:   
- - Jamaican Jerk Chicken @ *1849*  
  - Chicken Tinga @ *Gordon Que Rico*  
  - Chicken Dumpling Soup @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
@@ -142,6 +148,7 @@ In name:
 **beef**  
 In name:   
  - Mediterranean Beef @ *Global*  
+ - Traditional Beef Shepard's Pie @ *1849*  
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
@@ -155,7 +162,6 @@ In name:
 **chicken**  
 In name:   
  - Mediterranean Chicken @ *Global*  
- - Cajun Chicken Pasta @ *1849*  
  - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
