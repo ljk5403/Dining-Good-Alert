@@ -1,6 +1,6 @@
 # 2026-10-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-15 05:54:23  
+Updated at: 2026-10-15 13:00:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-15)  
 **curry**  
 In name:   
@@ -97,7 +97,7 @@ In description:
 **chicken**  
 In name:   
  - Bulgogi Chicken @ *Create-A-Bowl*  
- - Chicken Noodle Soup @ *Great Greens*  
+ - Chicken Dumpling Soup @ *Great Greens*  
  - Chicken Paprikash @ *1849*  
  - Chicken Drummies @ *Fired Up*  
  - Chicken Tamale with Oaxaca @ *Que Rico*  

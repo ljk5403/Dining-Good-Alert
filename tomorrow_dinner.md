@@ -1,6 +1,6 @@
 # 2026-10-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-15 05:54:29  
+Updated at: 2026-10-15 13:00:24  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-16)  
 **drumstick**  
 In name:   
@@ -11,13 +11,8 @@ In name:
  - Grilled Flank Steak @ *1849*  
  - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
   
-**Cod**  
-In name:   
- - Cod Nuggets @ *Fired Up*  
-  
 **fish**  
 In name:   
- - Vegan Fish Sandwich @ *Fired Up*  
   
 In description:   
  - Eggplant Miso-Glazed @ *1849*  
