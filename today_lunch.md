@@ -1,6 +1,6 @@
 # 2026-10-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-14 17:58:49  
+Updated at: 2026-10-14 20:21:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-14)  
 **Tuna**  
 In name:   
@@ -44,16 +44,13 @@ In name:
  - Tuna @ *Great Greens*  
  - Tuna Salad @ *Delicious*  
   
-**beef**  
-In name:   
- - Beef Chili @ *Great Greens*  
-  
 **pork**  
 In name:   
  - Pork & Broccoli Stir Fry @ *Global Kitchen*  
   
 **chicken**  
 In name:   
+ - Chicken Chili @ *Great Greens*  
  - Chicken Wings Boneless Plain @ *Que Rico*  
  - Plant-Based Chicken Nuggets @ *Que Rico*  
   

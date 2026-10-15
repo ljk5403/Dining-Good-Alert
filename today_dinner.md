@@ -1,6 +1,6 @@
 # 2026-10-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-14 17:58:52  
+Updated at: 2026-10-14 20:21:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-14)  
 **Beef Alicha**  
 In name:   
@@ -9,10 +9,6 @@ In name:
 **Cod**  
 In name:   
  - Miso Cod @ *1849*  
-  
-**lamb**  
-In name:   
- - Lamb Vindaloo @ *Global Kitchen*  
   
 **fish**  
 In name:   
@@ -29,7 +25,6 @@ In name:
   
 In description:   
  - Chana Saag w/ Tofu @ *1849*  
- - Lamb Vindaloo @ *Global Kitchen*  
   
 **beef**  
 In name:   
@@ -49,18 +44,13 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Paprikash @ *Global Kitchen*  
  - Fajita Chicken @ *Que Rico*  
   
 In description:   
  - Pepperoni & Mushrooms Pizza @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-10-14)  
-**steak**  
-In name:   
-  
-In description:   
- - Montreal Chicken @ *1849*  
-  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
@@ -69,7 +59,6 @@ In name:
 **beef**  
 In name:   
  - Beef Hot Dog  (no bun) @ *Create-A-Bowl*  
- - Beef Chili @ *Great Greens*  
  - Beef Bean & Carrot Stir Fry @ *Global Kitchen*  
   
 **pork**  
@@ -80,8 +69,9 @@ In name:
 In name:   
  - Popcorn Chicken @ *Create-A-Bowl*  
  - Plant-Based Chicken Nuggets @ *Que Rico*  
- - Montreal Chicken @ *1849*  
- - Chicken Wings Boneless Plain @ *Que Rico*  
+ - Chicken Chili @ *Great Greens*  
+ - Chicken Empanada with Green Chili @ *1849*  
+ - Breaded Chicken Tenders @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-10-14)  
 **steak**  
@@ -169,7 +159,6 @@ In description:
   
 **pork**  
 In name:   
- - Roasted Pork Loin @ *1849*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
 In description:   
@@ -178,9 +167,8 @@ In description:
 **chicken**  
 In name:   
  - Popcorn Chicken Basket @ *1849*  
- - Marrakech Chicken Breast @ *1849*  
  - Chicken Tinga @ *Gordon Que Rico*  
- - Sweet & Sour Chicken @ *Global Kitchen*  
+ - Sweet & Spicy Orange Chicken @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
