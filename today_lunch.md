@@ -1,6 +1,6 @@
 # 2026-10-15 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-15 13:00:13  
+Updated at: 2026-10-15 17:53:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-15)  
 **squid**  
 In name:   
@@ -208,6 +208,10 @@ In description:
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-10-15)  
+**catfish**  
+In name:   
+ - Fried Catfish @ *Global Kitchen:  Available Between 11am-2pm*  
+  
 **Cod**  
 In name:   
   
@@ -216,6 +220,7 @@ In description:
   
 **fish**  
 In name:   
+ - Fried Catfish @ *Global Kitchen:  Available Between 11am-2pm*  
  - Petite Fish Sandwich @ *Fired Up:  Available Between 11am-2pm*  
  - Vegan Fish Sandwich @ *Fired Up:  Available Between 11am-2pm*  
   
@@ -241,14 +246,12 @@ In description:
   
 **pork**  
 In name:   
- - Herb Crusted Pork Loin @ *Global Kitchen:  Available Between 11am-2pm*  
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
  - Chicken Vindaloo @ *Carson's 1849:  Available Between 11am-2pm*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera:  Available Between 11am-2pm*  
- - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  

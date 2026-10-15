@@ -1,6 +1,6 @@
 # 2026-10-15 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-15 05:54:20  
+Updated at: 2026-10-15 13:00:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-15)  
 **squid**  
 In name:   
@@ -30,7 +30,7 @@ In name:
  - Beef Mediterranean @ *Que Rico*  
   
 In description:   
- - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  
 In name:   
@@ -38,6 +38,7 @@ In name:
   
 In description:   
  - Chorizo Sauce @ *Buona Cucina*  
+ - Pizza Slice Sausage @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
@@ -50,7 +51,7 @@ In name:
   
 In description:   
  - Chorizo Sauce @ *Buona Cucina*  
- - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-10-15)  
 **portabella**  
@@ -105,7 +106,7 @@ In description:
 **chicken**  
 In name:   
  - Bulgogi Chicken @ *Create-A-Bowl*  
- - Chicken Noodle Soup @ *Great Greens*  
+ - Chicken Dumpling Soup @ *Great Greens*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-10-15)  
 **Bibimbap Bowl**  
