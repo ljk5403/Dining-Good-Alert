@@ -1,6 +1,6 @@
 # 2026-10-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-16 05:46:11  
+Updated at: 2026-10-16 12:48:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-16)  
 **steak**  
 In name:   
@@ -10,7 +10,6 @@ In name:
 **catfish**  
 In name:   
  - Island Spiced Catfish @ *1849*  
- - Catfish Nuggets w/ Remoulade Sauce @ *Fired Up*  
   
 **clam**  
 In name:   
@@ -19,7 +18,6 @@ In name:
 **fish**  
 In name:   
  - Island Spiced Catfish @ *1849*  
- - Catfish Nuggets w/ Remoulade Sauce @ *Fired Up*  
   
 **Tuna**  
 In name:   
@@ -33,9 +31,6 @@ In name:
 **curry**  
 In name:   
  - Mixed Vegetable Curry @ *Global Kitchen*  
-  
-In description:   
- - Coconut Vegetable Stew @ *1849*  
   
 **beef**  
 In name:   

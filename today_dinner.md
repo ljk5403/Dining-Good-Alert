@@ -1,6 +1,6 @@
 # 2026-10-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-16 12:48:26  
+Updated at: 2026-10-16 15:32:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-16)  
 **drumstick**  
 In name:   
@@ -21,10 +21,6 @@ In name:
   
 In description:   
  - Eggplant Miso-Glazed @ *1849*  
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
   
 **beef**  
 In name:   
@@ -57,10 +53,6 @@ In name:
 In name:   
  - Grilled Chipotle Salmon @ *1849*  
   
-**Shrimp**  
-In name:   
- - Sauteed Shrimp @ *Global Kitchen*  
-  
 **Cod**  
 In name:   
   
@@ -86,9 +78,16 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**beef**  
+In name:   
+  
+In description:   
+ - Sliced Kielbasa (Pork) @ *Global Kitchen*  
+  
 **pork**  
 In name:   
  - Smoked Pulled Pork Sandwich @ *1849*  
+ - Sliced Kielbasa (Pork) @ *Global Kitchen*  
   
 **chicken**  
 In name:   
