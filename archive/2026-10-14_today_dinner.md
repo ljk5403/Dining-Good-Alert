@@ -1,6 +1,6 @@
 # 2026-10-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-15 13:00:18  
+Updated at: 2026-10-15 17:53:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-15)  
 **curry**  
 In name:   
@@ -14,7 +14,7 @@ In name:
  - Beef Mediterranean @ *Que Rico*  
   
 In description:   
- - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Currywurst (Pork) @ *Fired Up*  
   
 **pork**  
@@ -23,6 +23,7 @@ In name:
   
 In description:   
  - Chorizo Sauce @ *Buona Cucina*  
+ - Pizza Slice Sausage @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
@@ -35,7 +36,7 @@ In name:
   
 In description:   
  - Chorizo Sauce @ *Buona Cucina*  
- - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-10-15)  
 **portabella**  
@@ -142,6 +143,10 @@ In name:
 In name:   
  - Chicken Drumstick Gochujang Glazed @ *1849*  
   
+**steak**  
+In name:   
+ - Country Fried Steak @ *1849*  
+  
 **fish**  
 In name:   
   
@@ -160,11 +165,12 @@ In description:
   
 **beef**  
 In name:   
- - Garlic Herb Roast Beef @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
+ - Country Fried Steak @ *1849*  
+ - Country Gravy @ *1849*  
  - Vegan Taco Filling @ *Gordon Que Rico*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
@@ -191,9 +197,9 @@ In description:
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-10-15)  
-**Tilapia**  
+**Shrimp**  
 In name:   
- - Lemon Grass Tilapia @ *Fired Up*  
+ - Chipotle Shrimp @ *Fired Up*  
   
 **fish**  
 In name:   
@@ -231,7 +237,6 @@ In name:
  - Diced Chicken @ *Global*  
  - Plant-Based Chicken Tenders @ *1849*  
  - Chicken Tenders Breaded @ *1849*  
- - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  

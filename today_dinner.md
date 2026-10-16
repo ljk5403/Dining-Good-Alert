@@ -1,6 +1,6 @@
 # 2026-10-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-15 17:53:48  
+Updated at: 2026-10-15 20:00:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-15)  
 **curry**  
 In name:   
@@ -28,7 +28,7 @@ In description:
 **chicken**  
 In name:   
  - Plant-Based Chicken & Dumplings @ *1849*  
- - Chicken Breast w/Red Pepper Cream @ *1849*  
+ - Chicken & Penne w/ Pesto Creme @ *1849*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
@@ -188,7 +188,7 @@ In name:
  - Chicken Drumstick Gochujang Glazed @ *1849*  
  - Chicken Tinga @ *Gordon Que Rico*  
  - King's Hawaiian Sand Chicken Crispy @ *King's Hawaiian*  
- - Chicken Noodle Soup @ *Great Greens*  
+ - Chicken Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
