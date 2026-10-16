@@ -1,7 +1,11 @@
 # 2026-10-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-16 12:48:22  
+Updated at: 2026-10-16 15:32:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-16)  
+**Beef Alicha**  
+In name:   
+ - Beef Alicha @ *Global Kitchen*  
+  
 **steak**  
 In name:   
  - Island Spiced Beef Steak @ *1849*  
@@ -22,7 +26,6 @@ In name:
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
- - Lemon Pepper Tuna Salad @ *Delicious*  
   
 **watermelon**  
 In name:   
@@ -35,6 +38,8 @@ In name:
 **beef**  
 In name:   
  - Island Spiced Beef Steak @ *1849*  
+ - Beef Hot Dog @ *Fired Up*  
+ - Beef Alicha @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -50,7 +55,6 @@ In description:
 **chicken**  
 In name:   
  - Diced Chicken Breast @ *Buona Cucina*  
- - Butter Chicken @ *Global Kitchen*  
  - Fajita Chicken @ *Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-10-16)  
@@ -80,6 +84,10 @@ In name:
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
+  
+**curry**  
+In name:   
+ - Curry Potatoes @ *1849*  
   
 **beef**  
 In name:   
@@ -115,6 +123,14 @@ In name:
  - Chicken Tenders Breaded @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-10-16)  
+**Chicken Drumstick Gochujang Glazed**  
+In name:   
+ - Chicken Drumstick Gochujang Glazed @ *1849*  
+  
+**drumstick**  
+In name:   
+ - Chicken Drumstick Gochujang Glazed @ *1849*  
+  
 **haddock**  
 In name:   
  - Haddock Ginger Glazed (AYCTE) @ *1849*  
@@ -164,7 +180,7 @@ In description:
   
 **chicken**  
 In name:   
- - Honey Lime Chicken Breast @ *1849*  
+ - Chicken Drumstick Gochujang Glazed @ *1849*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Chicken Tinga @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
