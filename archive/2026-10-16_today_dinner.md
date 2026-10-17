@@ -1,6 +1,6 @@
 # 2026-10-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-17 14:01:45  
+Updated at: 2026-10-17 16:58:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-17)  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-10-17)  
 **Tuna**  
@@ -20,18 +20,13 @@ In description:
 In name:   
  - Pork Bratwurst Sandwich @ *Fired Up*  
   
-In description:   
- - Kale, Sausage & Potato Soup @ *Great Greens*  
-  
 **chicken**  
 In name:   
+ - Chicken Dumpling Soup @ *Great Greens*  
  - Plant Based Sweet & Sour Chicken @ *1849*  
  - Plant-Based Chicken Tenders @ *Fired Up*  
  - Giardiniera Chicken @ *Global Kitchen*  
  - Taco Chicken @ *Que Rico*  
-  
-In description:   
- - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-10-17)  
 **Tuna**  
