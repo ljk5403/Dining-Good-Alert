@@ -1,152 +1,73 @@
-# 2026-10-16 dinner  
+# 2026-10-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-16 22:08:12  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-16)  
-**drumstick**  
-In name:   
- - Chicken Drumstick Teriyaki Glazed @ *1849*  
-  
-**steak**  
-In name:   
- - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
-  
-**Shrimp**  
-In name:   
- - Redhook Ale Breaded Shrimp @ *Fired Up*  
-  
-**fish**  
-In name:   
- - Vegan Fish Sandwich @ *Fired Up*  
-  
-In description:   
- - Eggplant Miso-Glazed @ *1849*  
-  
-**beef**  
-In name:   
- - Beef Fajita @ *1849*  
- - Beef Ravioli Plain @ *Buona Cucina*  
- - Beef Taco Meat @ *Que Rico*  
-  
-In description:   
- - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
-  
-**pork**  
-In name:   
- - Pork Carnita @ *Que Rico*  
-  
-In description:   
- - Pizza Slice Sausage @ *Capital City Pizza*  
-  
-**chicken**  
-In name:   
- - Chicken Drumstick Teriyaki Glazed @ *1849*  
- - Diced Chicken Breast @ *Buona Cucina*  
- - Dan Dan w/ Chicken @ *Global Kitchen*  
- - Fajita Chicken @ *Que Rico*  
-  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-10-16)  
-**Poke Bar**  
-In name:   
- - Build Your Own Poke Bar @ *Create-A-Bowl*  
-  
-**Cod**  
-In name:   
- - Lemon Pepper Cod Fillet @ *1849*  
-  
-In description:   
- - Fish Tacos @ *Que Rico*  
-  
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
-  
-**fish**  
-In name:   
- - Vegan Fish Sandwich @ *Fired Up*  
- - Vegetarian "Fish" Tacos @ *Que Rico*  
- - Fish Tacos @ *Que Rico*  
-  
+Updated at: 2026-10-17 05:12:04  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-17)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-10-17)  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
  - Tuna Salad @ *Delicious*  
   
+**beef**  
+In name:   
+ - Beef Broccoli Stir Fry @ *1849*  
+ - Beef Taco Meat @ *Que Rico*  
+  
+In description:   
+ - Pork Bratwurst Sandwich @ *Fired Up*  
+  
+**pork**  
+In name:   
+ - Pork Bratwurst Sandwich @ *Fired Up*  
+  
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
+  
+**chicken**  
+In name:   
+ - Plant Based Sweet & Sour Chicken @ *1849*  
+ - Plant-Based Chicken Tenders @ *Fired Up*  
+ - Giardiniera Chicken @ *Global Kitchen*  
+ - Taco Chicken @ *Que Rico*  
+  
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
+  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-10-17)  
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
-**curry**  
-In name:   
- - Curry Potatoes @ *1849*  
-  
 **beef**  
 In name:   
-  
-In description:   
- - Sliced Kielbasa (Pork) @ *Global Kitchen*  
+ - Beef Chimichurri Taco @ *Global Kitchen*  
   
 **pork**  
 In name:   
- - Smoked Pulled Pork Sandwich @ *1849*  
- - Sliced Kielbasa (Pork) @ *Global Kitchen*  
-  
-**chicken**  
-In name:   
- - Breaded Chicken Tenders @ *Fired Up*  
-  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-10-16)  
-**Salmon**  
-In name:   
- - Salmon Tandoori Roasted @ *1849*  
-  
-**Tuna**  
-In name:   
- - Tuna @ *Great Greens*  
-  
-**beef**  
-In name:   
   
 In description:   
- - Grilled Blended Burger w/ Cheese @ *Global Kitchen*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 **chicken**  
 In name:   
- - Butter Chicken @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
-  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-10-16)  
-**Shrimp**  
-In name:   
- - Blackened Shrimp @ *1849*  
-  
-**Cod**  
-In name:   
+ - Chicken Taco Soft Shell (1) @ *Global Kitchen*  
   
 In description:   
- - King's Hawaiian Petite Fish Sandwich @ *King's Hawaiian*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
-  
-**fish**  
-In name:   
- - King's Hawaiian Petite Fish Sandwich @ *King's Hawaiian*  
- - Vegan Fish Sandwich @ *King's Hawaiian*  
-  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-10-17)  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
   
-**Filipino Pork Sausage**  
+**watermelon**  
 In name:   
- - Filipino Pork Sausage @ *1849*  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Chana Saag w/ Tofu @ *Global Kitchen*  
+ - Watermelon Slices @ *Great Greens*  
   
 **beef**  
 In name:   
@@ -155,29 +76,32 @@ In name:
   
 In description:   
  - Vegan Taco Filling @ *Gordon Que Rico*  
+ - King's Hawaiian Sand Hot Dog @ *King's Hawaiian*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  
 In name:   
- - BBQ Pork Back Ribs @ *1849*  
- - Filipino Pork Sausage @ *1849*  
+ - Herb Crusted Pork Loin @ *1849*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
 In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Andouille Sausage @ *Buona Cucina*  
   
 **chicken**  
 In name:   
+ - Chicken Gravy @ *1849*  
+ - Cajun Chicken Pasta @ *1849*  
  - Chicken Tinga @ *Gordon Que Rico*  
- - Sumac Chicken @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-10-16)  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-10-16)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-10-17)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-10-17)  
   
