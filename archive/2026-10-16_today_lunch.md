@@ -1,11 +1,11 @@
 # 2026-10-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-17 05:11:56  
+Updated at: 2026-10-17 11:50:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-17)  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-10-17)  
-**steak**  
+**Shrimp**  
 In name:   
- - Philly Cheesesteak Sandwich @ *Fired Up*  
+ - Fried Popcorn Shrimp @ *Fired Up*  
   
 **Tuna**  
 In name:   
@@ -15,9 +15,6 @@ In name:
 **beef**  
 In name:   
  - Beef Taco Meat @ *Que Rico*  
-  
-In description:   
- - Philly Cheesesteak Sandwich @ *Fired Up*  
   
 **pork**  
 In name:   
