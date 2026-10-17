@@ -1,6 +1,6 @@
 # 2026-10-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-16 15:32:21  
+Updated at: 2026-10-16 18:15:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-16)  
 **drumstick**  
 In name:   
@@ -8,12 +8,11 @@ In name:
   
 **steak**  
 In name:   
- - Grilled Flank Steak @ *1849*  
  - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
   
-**Cod**  
+**Shrimp**  
 In name:   
- - Cod Nuggets @ *Fired Up*  
+ - Redhook Ale Breaded Shrimp @ *Fired Up*  
   
 **fish**  
 In name:   
@@ -24,10 +23,11 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Sirloin Tips @ *1849*  
+ - Beef Ravioli Plain @ *Buona Cucina*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Grilled Flank Steak @ *1849*  
  - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
   
 **pork**  

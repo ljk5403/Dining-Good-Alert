@@ -1,6 +1,6 @@
 # 2026-10-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-16 18:15:23  
+Updated at: 2026-10-16 22:08:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-16)  
 **drumstick**  
 In name:   
@@ -23,7 +23,7 @@ In description:
   
 **beef**  
 In name:   
- - Beef Sirloin Tips @ *1849*  
+ - Beef Fajita @ *1849*  
  - Beef Ravioli Plain @ *Buona Cucina*  
  - Beef Taco Meat @ *Que Rico*  
   
@@ -49,12 +49,9 @@ In name:
 In name:   
  - Build Your Own Poke Bar @ *Create-A-Bowl*  
   
-**Salmon**  
-In name:   
- - Grilled Chipotle Salmon @ *1849*  
-  
 **Cod**  
 In name:   
+ - Lemon Pepper Cod Fillet @ *1849*  
   
 In description:   
  - Fish Tacos @ *Que Rico*  
@@ -78,6 +75,10 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**curry**  
+In name:   
+ - Curry Potatoes @ *1849*  
+  
 **beef**  
 In name:   
   
@@ -91,7 +92,7 @@ In name:
   
 **chicken**  
 In name:   
- - Spicy Crispy Chicken Sandwich @ *Fired Up*  
+ - Breaded Chicken Tenders @ *Fired Up*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-10-16)  
 **Salmon**  
@@ -114,9 +115,9 @@ In name:
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-10-16)  
-**Salmon**  
+**Shrimp**  
 In name:   
- - Oven Roasted Salmon @ *1849*  
+ - Blackened Shrimp @ *1849*  
   
 **Cod**  
 In name:   
@@ -137,6 +138,10 @@ In name:
 In name:   
  - Tuna @ *Great Greens*  
   
+**Filipino Pork Sausage**  
+In name:   
+ - Filipino Pork Sausage @ *1849*  
+  
 **curry**  
 In name:   
   
@@ -156,6 +161,7 @@ In description:
 **pork**  
 In name:   
  - BBQ Pork Back Ribs @ *1849*  
+ - Filipino Pork Sausage @ *1849*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
 In description:   
