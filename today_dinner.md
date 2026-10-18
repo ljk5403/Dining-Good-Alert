@@ -1,8 +1,24 @@
 # 2026-10-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-17 18:54:17  
+Updated at: 2026-10-17 22:11:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-17)  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-10-17)  
+**portabella**  
+In name:   
+ - Bulgogi Portabella Mushrooms @ *1849*  
+  
+**Bulgogi**  
+In name:   
+ - Bulgogi Portabella Mushrooms @ *1849*  
+  
+**lamb**  
+In name:   
+ - Lamb & Beef Gyro Sandwich @ *Fired Up*  
+  
+**fish**  
+In name:   
+ - Vegan Fish Fillet (VN) @ *Fired Up*  
+  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
@@ -11,22 +27,14 @@ In name:
 **beef**  
 In name:   
  - Beef Broccoli Stir Fry @ *1849*  
+ - Lamb & Beef Gyro Sandwich @ *Fired Up*  
  - Beef Taco Meat @ *Que Rico*  
-  
-In description:   
- - Pork Bratwurst Sandwich @ *Fired Up*  
-  
-**pork**  
-In name:   
- - Pork Bratwurst Sandwich @ *Fired Up*  
- - Pork Carnita @ *Que Rico*  
   
 **chicken**  
 In name:   
  - Chicken Dumpling Soup @ *Great Greens*  
- - Plant Based Sweet & Sour Chicken @ *1849*  
- - Plant-Based Chicken Tenders @ *Fired Up*  
  - Giardiniera Chicken @ *Global Kitchen*  
+ - Taco Chicken @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-10-17)  
 **Tuna**  
@@ -64,6 +72,10 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**Filipino Pork Sausage**  
+In name:   
+ - Filipino Pork Sausage @ *1849*  
+  
 **beef**  
 In name:   
  - Beef Taco Meat @ *Gordon Que Rico*  
@@ -77,7 +89,7 @@ In description:
   
 **pork**  
 In name:   
- - Jerk Pork Chop @ *1849*  
+ - Filipino Pork Sausage @ *1849*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
 In description:   
