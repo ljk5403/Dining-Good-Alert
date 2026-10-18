@@ -1,6 +1,6 @@
 # 2026-10-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-18 05:27:15  
+Updated at: 2026-10-18 12:04:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-18)  
 **Tuna**  
 In name:   
@@ -96,7 +96,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Tinga @ *Gordon Que Rico*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera*  
  - Chicken Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
