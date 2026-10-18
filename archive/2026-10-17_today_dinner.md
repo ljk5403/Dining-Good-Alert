@@ -1,13 +1,10 @@
 # 2026-10-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-18 12:04:39  
+Updated at: 2026-10-18 15:08:30  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-18)  
-**BBQ Pork Sandwich**  
-In name:   
- - BBQ Pork Sandwich @ *Fired Up*  
-  
 **beef**  
 In name:   
+ - Barbacoa Beef w/Mango Habanero Sandwich @ *Fired Up*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -17,7 +14,6 @@ In description:
 **pork**  
 In name:   
  - Italian Pork Sausage @ *Buona Cucina*  
- - BBQ Pork Sandwich @ *Fired Up*  
  - Pork Carnita @ *Que Rico*  
   
 In description:   

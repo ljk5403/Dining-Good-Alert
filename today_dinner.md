@@ -1,6 +1,6 @@
 # 2026-10-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-18 15:08:30  
+Updated at: 2026-10-18 17:47:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-18)  
 **beef**  
 In name:   
@@ -55,11 +55,14 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-10-18)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-10-18)  
+**steak**  
+In name:   
+ - Plant-Based Pepper Steak Stir Fry @ *1849*  
+  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
@@ -70,7 +73,7 @@ In name:
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
- - Vegan Taco Filling @ *Gordon Que Rico*  
+ - Plant-Based Pepper Steak Stir Fry @ *1849*  
  - King's Hawaiian Sand Blended Burger @ *King's Hawaiian*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
@@ -86,7 +89,6 @@ In description:
 **chicken**  
 In name:   
  - Chicken Pot Pie w/Biscuit @ *1849*  
- - Chicken Tinga @ *Gordon Que Rico*  
  - Chicken Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
