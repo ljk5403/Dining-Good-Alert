@@ -1,10 +1,14 @@
 # 2026-10-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-18 17:47:16  
+Updated at: 2026-10-18 19:49:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-18)  
+**Chicken Drummies**  
+In name:   
+ - Chicken Drummies @ *Fired Up*  
+  
 **beef**  
 In name:   
- - Barbacoa Beef w/Mango Habanero Sandwich @ *Fired Up*  
+ - Beef Fajita @ *1849*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -16,15 +20,13 @@ In name:
  - Italian Pork Sausage @ *Buona Cucina*  
  - Pork Carnita @ *Que Rico*  
   
-In description:   
- - Gnocchi w/ Sausage & Roast Veg @ *1849*  
-  
 **chicken**  
 In name:   
  - Plant-Based Chicken Tenders @ *1849*  
  - Chicken Tenders Breaded @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Chicken Teriyaki Stir Fry @ *Global Kitchen*  
+ - Chicken Drummies @ *Fired Up*  
+ - Sweet & Sour Chicken @ *Global Kitchen*  
  - Fajita Chicken @ *Que Rico*  
   
 In description:   
@@ -42,7 +44,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Harissa w/Couscous @ *1849*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
@@ -55,6 +56,7 @@ In name:
   
 **chicken**  
 In name:   
+ - Chicken Paprikash @ *1849*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-10-18)  
@@ -80,7 +82,6 @@ In description:
   
 **pork**  
 In name:   
- - Boneless Baked Pork Ham @ *1849*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
 In description:   
