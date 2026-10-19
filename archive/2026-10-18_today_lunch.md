@@ -1,6 +1,6 @@
 # 2026-10-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-19 07:13:51  
+Updated at: 2026-10-19 14:39:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-19)  
 **Tuna**  
 In name:   
@@ -9,6 +9,7 @@ In name:
 **beef**  
 In name:   
  - Texas BBQ Sliced Beef Brisket @ *1849*  
+ - Empanada Beef Picadillo @ *1849*  
  - Beef Ravioli Plain @ *Buona Cucina*  
  - Beef Fajita Meat @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
@@ -30,6 +31,9 @@ In name:
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Noodles Sesame w/ Chicken @ *Global Kitchen*  
  - Chicken Tinga @ *Que Rico*  
+  
+In description:   
+ - Empanada Beef Picadillo @ *1849*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-10-19)  
 **Tuna**  
@@ -138,14 +142,16 @@ In name:
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
+ - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  
 In name:   
  - Pork Loin Spicy Greenbush @ *1849*  
- - Chorizo Sausage Patties (Pork) @ *Gordon Eggcetera*  
  - Vietnamese Pork with Rice @ *Global Kitchen*  
- - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
+ - Pork Italian Sausage @ *Buona Cucina*  
+ - Chicken Bacon (Pork) Ranch Pizza Slice @ *Capital City Pizza*  
+ - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
@@ -154,10 +160,10 @@ In name:
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Diced Chicken Breast @ *Buona Cucina*  
- - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
+ - Chicken Bacon (Pork) Ranch Pizza Slice @ *Capital City Pizza*  
   
 In description:   
+ - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-10-19)  

@@ -1,17 +1,7 @@
 # 2026-10-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-19 14:39:13  
+Updated at: 2026-10-19 18:19:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-19)  
-**steak**  
-In name:   
-  
-In description:   
- - Montreal Chicken @ *1849*  
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
-  
 **curry**  
 In name:   
  - Thai Veggie Meatballs w/ Green Curry @ *1849*  
@@ -38,8 +28,8 @@ In description:
   
 **chicken**  
 In name:   
- - Montreal Chicken @ *1849*  
- - Chicken Tinga @ *Que Rico*  
+ - Chicken Pot Pie w/Biscuit @ *1849*  
+ - Fajita Chicken @ *Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-10-19)  
 **Tuna**  
@@ -130,18 +120,21 @@ In name:
  - Gluten Free Pork Sausage Pizza Quarter @ *Capital City Pizza*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
   
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
+  
 **chicken**  
 In name:   
  - Chicken Drumstick BBQ Glazed @ *1849*  
  - King's Hawaiian Sand Chicken Spicy Crisp @ *King's Hawaiian*  
  - Diced Chicken @ *Great Greens*  
- - Lemon Chicken Rice Soup @ *Great Greens*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Diced Chicken Breast @ *Buona Cucina*  
   
 In description:   
  - Swedish Meatballs (AYCTE) @ *1849*  
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-10-19)  
