@@ -1,6 +1,6 @@
 # 2026-10-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-19 18:19:11  
+Updated at: 2026-10-19 22:33:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-19)  
 **curry**  
 In name:   
@@ -8,18 +8,17 @@ In name:
   
 **beef**  
 In name:   
+ - Texas BBQ Sliced Beef Brisket @ *1849*  
  - Beef Ravioli Plain @ *Buona Cucina*  
  - Beef Fajita Meat @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Sausage (Pork), Potatoes, & Peppers @ *1849*  
  - Italian Meat Sauce @ *Buona Cucina*  
  - Chicago-Style Hot Dog @ *Fired Up*  
   
 **pork**  
 In name:   
- - Sausage (Pork), Potatoes, & Peppers @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
  - Pork & Broccoli Stir Fry @ *Global Kitchen*  
   
@@ -28,7 +27,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Pot Pie w/Biscuit @ *1849*  
+ - Chicken Pot Pie Filling @ *1849*  
  - Fajita Chicken @ *Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-10-19)  
@@ -50,7 +49,7 @@ In description:
   
 **beef**  
 In name:   
- - Beef Broccoli Stir Fry @ *1849*  
+ - Beef Broccoli Stir Fry w/Teriyaki Sauce @ *1849*  
  - Barbacoa Beef w/Mango Habanero Sandwich @ *Fired Up*  
  - Beef Taco Meat @ *Que Rico*  
   
@@ -61,9 +60,8 @@ In name:
 **chicken**  
 In name:   
  - Chicken Vindaloo @ *Create-A-Bowl*  
- - Diced Chicken @ *Great Greens*  
+ - Diced Chicken @ *Que Rico*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
- - Taco Chicken @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-10-19)  
 **Tuna**  
@@ -108,7 +106,7 @@ In name:
 **beef**  
 In name:   
  - Beef Taco Meat @ *Gordon Que Rico*  
- - Beef Broccoli Stir Fry w/Teriyaki Sauce @ *Global Kitchen*  
+ - Beef Tri Tip Carved w/ Chimichurri @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
