@@ -1,6 +1,6 @@
 # 2026-10-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-20 17:56:14  
+Updated at: 2026-10-20 20:21:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-20)  
 **portabella**  
 In name:   
@@ -48,7 +48,7 @@ In name:
   
 **Shrimp**  
 In name:   
- - Shrimp Po-Boy Sandwich @ *Fired Up*  
+ - Popcorn Shrimp Basket @ *Fired Up*  
   
 **Tuna**  
 In name:   
@@ -79,7 +79,7 @@ In name:
  - Mediterranean Chicken @ *Create-A-Bowl*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
- - Smoked Chicken Quarters - 2 pc @ *1849*  
+ - Breaded Chicken Tenders @ *1849*  
  - Giardiniera Chicken @ *Global Kitchen*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-10-20)  
@@ -93,16 +93,26 @@ In name:
  - Tuna Salad @ *Delicious*  
  - Tuna @ *Great Greens*  
   
+**curry**  
+In name:   
+ - Vegan Curry Stew @ *1849*  
+  
 **beef**  
 In name:   
- - Beef Broccoli Stir Fry @ *1849*  
+ - Beef Chili @ *Great Greens*  
   
 In description:   
  - Smoked Brisket & Tots Pizza Slice @ *Global Kitchen*  
   
+**pork**  
+In name:   
+  
+In description:   
+ - Chicken Sausage Gumbo @ *1849*  
+  
 **chicken**  
 In name:   
- - Chicken Dumpling Soup @ *Great Greens*  
+ - Chicken Sausage Gumbo @ *1849*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-10-20)  
 **broccoli rabe**  
@@ -110,6 +120,10 @@ In name:
   
 In description:   
  - Tempeh w/Red Peppers & Broc Rabe @ *1849*  
+  
+**steak**  
+In name:   
+ - Beef Sirloin Top Butt Steak 4 oz @ *1849*  
   
 **Tuna**  
 In name:   
@@ -121,7 +135,7 @@ In name:
   
 **beef**  
 In name:   
- - Texas BBQ Sliced Beef Brisket @ *1849*  
+ - Beef Sirloin Top Butt Steak 4 oz @ *1849*  
  - Beef Gravy @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef Harissa w/Couscous @ *Global Kitchen*  

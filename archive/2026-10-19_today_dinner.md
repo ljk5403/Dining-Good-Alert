@@ -1,6 +1,6 @@
 # 2026-10-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-20 13:20:44  
+Updated at: 2026-10-20 17:56:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-20)  
 **portabella**  
 In name:   
@@ -9,10 +9,6 @@ In name:
 **Salmon**  
 In name:   
  - Ginger Glazed Salmon @ *1849*  
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
   
 **curry**  
 In name:   
@@ -25,10 +21,14 @@ In name:
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
+ - Bratwurst @ *Fired Up*  
   
 **pork**  
 In name:   
  - Curry Mango - Pork @ *1849*  
+  
+In description:   
+ - Bratwurst @ *Fired Up*  
   
 **chicken**  
 In name:   
@@ -80,7 +80,7 @@ In name:
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
  - Smoked Chicken Quarters - 2 pc @ *1849*  
- - Italian Chicken @ *Global Kitchen*  
+ - Giardiniera Chicken @ *Global Kitchen*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-10-20)  
 **Salmon**  
@@ -114,6 +114,10 @@ In description:
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
+  
+**curry**  
+In name:   
+ - Curry Cauliflower & Butternut Squash @ *Global Kitchen*  
   
 **beef**  
 In name:   

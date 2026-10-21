@@ -1,6 +1,6 @@
 # 2026-10-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-20 17:56:09  
+Updated at: 2026-10-20 20:21:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-20)  
 **Pakoras**  
 In name:   
@@ -119,10 +119,7 @@ In name:
 **beef**  
 In name:   
  - Beef Curry Stew @ *1849*  
-  
-**chicken**  
-In name:   
- - Chicken Dumpling Soup @ *Great Greens*  
+ - Beef Chili @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-10-20)  
 **Tandoori Chicken**  
