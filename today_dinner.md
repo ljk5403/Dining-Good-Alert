@@ -1,6 +1,6 @@
 # 2026-10-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-21 06:13:35  
+Updated at: 2026-10-21 13:23:34  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-21)  
 **fish**  
 In name:   
@@ -44,6 +44,10 @@ In name:
 In description:   
  - Portobello Mushroom Stroganoff @ *1849*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **beef**  
 In name:   
  - Beef Chili @ *Great Greens*  
@@ -54,7 +58,6 @@ In name:
 **chicken**  
 In name:   
  - Diced Chicken @ *Great Greens*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Wings Boneless Plain @ *Global Kitchen*  
  - Plant-Based Chicken Nuggets @ *Global Kitchen*  
   
@@ -62,6 +65,10 @@ In name:
 **Samosas**  
 In name:   
  - Samosas @ *Global Kitchen*  
+  
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
   
 **watermelon**  
 In name:   
@@ -82,7 +89,6 @@ In name:
 **chicken**  
 In name:   
  - Orange Sweet & Spicy Chicken @ *1849*  
- - Diced Chicken @ *Great Greens*  
  - Chicken Madras @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-10-21)  
