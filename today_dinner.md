@@ -1,16 +1,18 @@
 # 2026-10-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-21 13:23:34  
+Updated at: 2026-10-21 18:01:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-21)  
+**steak**  
+In name:   
+  
+In description:   
+ - Montreal Chicken @ *1849*  
+  
 **fish**  
 In name:   
   
 In description:   
  - Thai BBQ Pork Ribs @ *Global Kitchen*  
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
   
 **curry**  
 In name:   
@@ -32,7 +34,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Pot Pie w/Biscuit @ *1849*  
+ - Montreal Chicken @ *1849*  
  - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
  - Spicy Crispy Chicken Sandwich @ *Fired Up*  
  - Fajita Chicken @ *Que Rico*  
@@ -52,7 +54,6 @@ In name:
 In name:   
  - Beef Chili @ *Great Greens*  
  - Beef Stroganoff Creamy @ *1849*  
- - Beef Barbacoa @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
   
 **chicken**  
@@ -60,6 +61,7 @@ In name:
  - Diced Chicken @ *Great Greens*  
  - Chicken Wings Boneless Plain @ *Global Kitchen*  
  - Plant-Based Chicken Nuggets @ *Global Kitchen*  
+ - Chicken Tinga @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-10-21)  
 **Samosas**  
@@ -112,6 +114,10 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**curry**  
+In name:   
+ - VEGAN Thai Chick'n w/ Green Curry (VN) @ *1849*  
+  
 **beef**  
 In name:   
  - Beef Taco Meat @ *Gordon Que Rico*  
@@ -124,6 +130,7 @@ In description:
   
 **pork**  
 In name:   
+ - BBQ Pork Chop @ *1849*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
   
 **chicken**  

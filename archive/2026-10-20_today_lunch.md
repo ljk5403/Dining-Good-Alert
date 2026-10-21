@@ -1,6 +1,6 @@
 # 2026-10-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-21 06:13:30  
+Updated at: 2026-10-21 13:23:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-21)  
 **FiIipino Pork Spring Roll**  
 In name:   
@@ -51,11 +51,14 @@ In name:
 In name:   
  - Chicken Drumstick BBQ Glazed @ *1849*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **beef**  
 In name:   
  - Beef Chili @ *Great Greens*  
  - Beef Barbacoa @ *Que Rico*  
- - Beef Taco Meat @ *Que Rico*  
   
 **pork**  
 In name:   
@@ -67,11 +70,15 @@ In description:
 In name:   
  - Diced Chicken @ *Great Greens*  
  - Chicken Drumstick BBQ Glazed @ *1849*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Wings Boneless Plain @ *Global Kitchen*  
  - Plant-Based Chicken Nuggets @ *Global Kitchen*  
+ - Taco Chicken @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-10-21)  
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
+  
 **Pakoras**  
 In name:   
  - Appetizer -  Pakoras Vegetable (Veg) @ *Global Kitchen*  
@@ -86,19 +93,21 @@ In name:
   
 In description:   
  - Appetizer -  Pakoras Vegetable (Veg) @ *Global Kitchen*  
- - Chicken Tikka Masala @ *Global Kitchen*  
  - Tofu & Vegetable Tikka Masala @ *Global Kitchen*  
   
 **beef**  
 In name:   
  - Beef Chili @ *Great Greens*  
   
+**pork**  
+In name:   
+ - Chicken & Pork Sausage Gumbo @ *Global Kitchen*  
+  
 **chicken**  
 In name:   
  - General Tso's Chicken @ *1849*  
  - Plant-Based Chicken Nuggets @ *1849*  
- - Chicken Tikka Masala @ *Global Kitchen*  
- - Diced Chicken @ *Great Greens*  
+ - Chicken & Pork Sausage Gumbo @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-10-21)  
 **mahi mahi**  
@@ -119,7 +128,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
@@ -130,6 +138,7 @@ In description:
 **pork**  
 In name:   
  - Chicken & Pork Sausage Gumbo @ *1849*  
+ - Pork Carnita @ *Gordon Que Rico*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
   
 **chicken**  
