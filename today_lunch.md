@@ -1,6 +1,6 @@
 # 2026-10-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-22 06:12:38  
+Updated at: 2026-10-22 13:18:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-22)  
 **fish**  
 In name:   
@@ -185,8 +185,13 @@ In name:
 In name:   
  - Greek Cod @ *Global Kitchen:  Available Between 11am-2pm*  
   
+In description:   
+ - Petite Fish Sandwich @ *Fired Up:  Available Between 11am-2pm*  
+  
 **fish**  
 In name:   
+ - Petite Fish Sandwich @ *Fired Up:  Available Between 11am-2pm*  
+ - Vegan Fish Sandwich @ *Fired Up:  Available Between 11am-2pm*  
   
 In description:   
  - Curried Pumpkin Soup @ *Great Greens*  
@@ -201,7 +206,6 @@ In description:
 In name:   
   
 In description:   
- - Mini Pastrami Reuben on Pretzel Bun @ *Fired Up:  Available Between 11am-2pm*  
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
   
 **pork**  
@@ -213,7 +217,7 @@ In name:
  - Butter Chicken @ *Carson's 1849:  Available Between 11am-2pm*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera:  Available Between 11am-2pm*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Noodle Soup @ *Great Greens*  
+ - Chicken Dumpling Soup @ *Great Greens*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
