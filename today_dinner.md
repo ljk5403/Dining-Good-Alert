@@ -1,10 +1,14 @@
 # 2026-10-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-22 13:18:18  
+Updated at: 2026-10-22 17:57:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-22)  
 **Chicken Drummies**  
 In name:   
  - Chicken Drummies @ *Fired Up*  
+  
+**broccoli rabe**  
+In name:   
+ - Broccoli Rabe @ *1849*  
   
 **Shrimp**  
 In name:   
@@ -134,6 +138,10 @@ In description:
 In name:   
  - Tuna Salad @ *Delicious*  
   
+**Filipino Pork Sausage**  
+In name:   
+ - Filipino Pork Sausage @ *Global Kitchen*  
+  
 **curry**  
 In name:   
   
@@ -151,7 +159,9 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Chop (1) @ *1849*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
+ - Filipino Pork Sausage @ *Global Kitchen*  
   
 **chicken**  
 In name:   

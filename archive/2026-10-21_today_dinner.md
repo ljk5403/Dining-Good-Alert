@@ -1,6 +1,6 @@
 # 2026-10-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-22 06:12:40  
+Updated at: 2026-10-22 13:18:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-22)  
 **Chicken Drummies**  
 In name:   
@@ -205,7 +205,7 @@ In name:
  - Diced Chicken @ *Great Greens*  
  - Plant-Based Chicken Tenders @ *1849*  
  - Chicken Tenders Breaded @ *1849*  
- - Chicken Noodle Soup @ *Great Greens*  
+ - Chicken Dumpling Soup @ *Great Greens*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
