@@ -1,6 +1,6 @@
 # 2026-10-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-21 18:01:19  
+Updated at: 2026-10-21 22:26:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-21)  
 **steak**  
 In name:   
@@ -8,11 +8,9 @@ In name:
 In description:   
  - Montreal Chicken @ *1849*  
   
-**fish**  
+**Filipino Pork Sausage**  
 In name:   
-  
-In description:   
- - Thai BBQ Pork Ribs @ *Global Kitchen*  
+ - Filipino Pork Sausage @ *Global Kitchen*  
   
 **curry**  
 In name:   
@@ -27,7 +25,7 @@ In name:
 In name:   
  - BBQ Pork Chop @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
- - Thai BBQ Pork Ribs @ *Global Kitchen*  
+ - Filipino Pork Sausage @ *Global Kitchen*  
   
 In description:   
  - Pizza Slice Sausage @ *Capital City Pizza*  
@@ -49,6 +47,10 @@ In description:
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
+  
+**curry**  
+In name:   
+ - Curry Potatoes @ *1849*  
   
 **beef**  
 In name:   
@@ -102,9 +104,11 @@ In name:
 In name:   
  - Sweet & Sour Shrimp @ *Global Kitchen*  
   
-**Cod**  
+**fish**  
 In name:   
- - Basque Style Cod @ *1849*  
+  
+In description:   
+ - Curried Pumpkin Soup @ *Great Greens*  
   
 **Tuna**  
 In name:   
@@ -116,7 +120,9 @@ In name:
   
 **curry**  
 In name:   
- - VEGAN Thai Chick'n w/ Green Curry (VN) @ *1849*  
+  
+In description:   
+ - Curried Pumpkin Soup @ *Great Greens*  
   
 **beef**  
 In name:   
@@ -130,7 +136,7 @@ In description:
   
 **pork**  
 In name:   
- - BBQ Pork Chop @ *1849*  
+ - Pork Carnita @ *Gordon Que Rico*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
   
 **chicken**  

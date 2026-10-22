@@ -1,6 +1,6 @@
 # 2026-10-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-21 13:23:33  
+Updated at: 2026-10-21 18:01:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-21)  
 **FiIipino Pork Spring Roll**  
 In name:   
@@ -9,10 +9,6 @@ In name:
 **broccoli rabe**  
 In name:   
  - Broccoli Rabe @ *1849*  
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
   
 **Filipino Pork Sausage**  
 In name:   
@@ -47,9 +43,9 @@ In name:
  - Fajita Chicken @ *Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-10-21)  
-**drumstick**  
+**Shrimp**  
 In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
+ - Redhook Ale Breaded Shrimp @ *1849*  
   
 **Tuna**  
 In name:   
@@ -69,7 +65,6 @@ In description:
 **chicken**  
 In name:   
  - Diced Chicken @ *Great Greens*  
- - Chicken Drumstick BBQ Glazed @ *1849*  
  - Chicken Wings Boneless Plain @ *Global Kitchen*  
  - Plant-Based Chicken Nuggets @ *Global Kitchen*  
  - Taco Chicken @ *Que Rico*  

@@ -1,6 +1,6 @@
 # 2026-10-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-21 18:01:14  
+Updated at: 2026-10-21 22:26:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-21)  
 **FiIipino Pork Spring Roll**  
 In name:   
@@ -109,6 +109,12 @@ In name:
 In name:   
  - Baked Mahi Mahi w/ Butter & Lemon @ *1849*  
   
+**fish**  
+In name:   
+  
+In description:   
+ - Curried Pumpkin Soup @ *Great Greens*  
+  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
@@ -120,6 +126,9 @@ In name:
 **curry**  
 In name:   
  - VEGAN Thai Chick'n w/ Green Curry (VN) @ *1849*  
+  
+In description:   
+ - Curried Pumpkin Soup @ *Great Greens*  
   
 **beef**  
 In name:   
