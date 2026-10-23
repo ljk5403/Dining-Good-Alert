@@ -1,6 +1,6 @@
 # 2026-10-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-23 06:04:03  
+Updated at: 2026-10-23 13:05:13  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-23)  
 **Flauta**  
 In name:   
@@ -65,7 +65,7 @@ In name:
   
 **Tuna**  
 In name:   
- - Grilled Tuna & Swiss Melt @ *Fired Up*  
+ - Tuna Salad @ *Delicious*  
   
 **watermelon**  
 In name:   
@@ -80,7 +80,6 @@ In description:
   
 **beef**  
 In name:   
- - Beef Chili w/ Beans @ *Create-A-Bowl*  
  - Beef @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
@@ -91,7 +90,6 @@ In description:
 In name:   
  - Diced Chicken @ *Great Greens*  
  - Tikka Masala Chicken @ *1849*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-10-23)  
 **Cod**  

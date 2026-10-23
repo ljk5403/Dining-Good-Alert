@@ -1,6 +1,6 @@
 # 2026-10-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-23 06:03:58  
+Updated at: 2026-10-23 13:05:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-23)  
 **Poke Bar**  
 In name:   
@@ -11,9 +11,12 @@ In name:
 In name:   
  - Country Fried Steak @ *1849*  
   
-**Salmon**  
+In description:   
+ - Montreal Chicken @ *1849*  
+  
+**catfish**  
 In name:   
- - Grilled Chipotle Salmon @ *1849*  
+ - Fried Catfish @ *Fired Up*  
   
 **Shrimp**  
 In name:   
@@ -22,19 +25,13 @@ In name:
 In description:   
  - Poke Bar @ *Global Kitchen*  
   
-**Cod**  
-In name:   
- - Battered Cod Fillet Sandwich w/ Cheese @ *Fired Up*  
-  
 **clam**  
 In name:   
  - Clam Chowder @ *Great Greens*  
   
 **fish**  
 In name:   
-  
-In description:   
- - Battered Cod Fillet Sandwich w/ Cheese @ *Fired Up*  
+ - Fried Catfish @ *Fired Up*  
   
 **Tuna**  
 In name:   
@@ -65,6 +62,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Montreal Chicken @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
  - Fajita Chicken @ *Que Rico*  
@@ -77,6 +75,10 @@ In name:
 **clam**  
 In name:   
  - Clam Chowder @ *Great Greens*  
+  
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
   
 **watermelon**  
 In name:   
@@ -98,7 +100,6 @@ In name:
 **chicken**  
 In name:   
  - Diced Chicken @ *Great Greens*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chipotle BBQ Chicken Sandwich @ *Fired Up*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-10-23)  
@@ -151,7 +152,7 @@ In name:
   
 **beef**  
 In name:   
- - Beef Taco Meat @ *Gordon Que Rico*  
+ - Beef Barbacoa @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
