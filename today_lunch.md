@@ -1,6 +1,6 @@
 # 2026-10-22 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-22 17:57:52  
+Updated at: 2026-10-22 20:21:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-22)  
 **fish**  
 In name:   
@@ -99,18 +99,6 @@ In name:
   
 In description:   
  - Vegan Portobella Mushroom Stroganoff @ *1849*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Curried Pumpkin Soup @ *Great Greens*  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Curried Pumpkin Soup @ *Great Greens*  
   
 **beef**  
 In name:   

@@ -1,6 +1,6 @@
 # 2026-10-22 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-22 17:57:54  
+Updated at: 2026-10-22 20:21:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-22)  
 **Chicken Drummies**  
 In name:   
@@ -48,10 +48,6 @@ In name:
  - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
  - Build Your Own Bulgogi Bar - Four Lakes @ *Create-A-Bowl*  
   
-**drumstick**  
-In name:   
- - Jamaican Jerk Chicken Drumstick @ *1849*  
-  
 **fish**  
 In name:   
   
@@ -67,6 +63,7 @@ In description:
 **beef**  
 In name:   
  - Bulgogi Beef @ *Create-A-Bowl*  
+ - Beef Tri Tip Carved w/ Chimichurri @ *1849*  
  - Italian Beef Sandwich @ *1849*  
  - Beef Taco Meat @ *Que Rico*  
   
@@ -84,7 +81,6 @@ In name:
  - Bulgogi Chicken @ *Create-A-Bowl*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
- - Jamaican Jerk Chicken Drumstick @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Tinga @ *Que Rico*  
   
@@ -93,21 +89,13 @@ In name:
 In name:   
  - Country Fried Steak @ *1849*  
   
-**Salmon**  
+**catfish**  
 In name:   
- - Ginger Glazed Salmon @ *Global Kitchen*  
+ - Fried Catfish @ *Global Kitchen*  
   
 **fish**  
 In name:   
-  
-In description:   
- - Curried Pumpkin Soup @ *Great Greens*  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Curried Pumpkin Soup @ *Great Greens*  
+ - Fried Catfish @ *Global Kitchen*  
   
 **beef**  
 In name:   
@@ -151,7 +139,7 @@ In description:
   
 **beef**  
 In name:   
- - Beef Taco Meat @ *Gordon Que Rico*  
+ - Beef Barbacoa @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
@@ -159,7 +147,6 @@ In description:
   
 **pork**  
 In name:   
- - Pork Chop (1) @ *1849*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
  - Filipino Pork Sausage @ *Global Kitchen*  
   
