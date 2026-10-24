@@ -1,17 +1,25 @@
 # 2026-10-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-24 05:20:29  
+Updated at: 2026-10-24 12:12:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-24)  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-10-24)  
+**Cod**  
+In name:   
+  
+In description:   
+ - Clam Chowder (Pork) @ *Great Greens*  
+  
+**clam**  
+In name:   
+ - Clam Chowder (Pork) @ *Great Greens*  
+  
 **beef**  
 In name:   
  - Beef Taco Meat @ *Que Rico*  
   
 **pork**  
 In name:   
-  
-In description:   
- - Kale, Sausage & Potato Soup @ *Great Greens*  
+ - Clam Chowder (Pork) @ *Great Greens*  
   
 **chicken**  
 In name:   
@@ -21,9 +29,6 @@ In name:
  - Spicy Crispy Chicken Sandwich @ *Fired Up*  
  - Plant-Based Chicken Nuggets @ *Fired Up*  
  - Italian Chicken @ *Global Kitchen*  
-  
-In description:   
- - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-10-24)  
 **watermelon**  
