@@ -1,25 +1,17 @@
 # 2026-10-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-24 15:16:43  
+Updated at: 2026-10-24 17:54:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-24)  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-10-24)  
-**Cod**  
-In name:   
-  
-In description:   
- - Clam Chowder (Pork) @ *Great Greens*  
-  
-**clam**  
-In name:   
- - Clam Chowder (Pork) @ *Great Greens*  
-  
 **beef**  
 In name:   
  - Beef Taco Meat @ *Que Rico*  
   
 **pork**  
 In name:   
- - Clam Chowder (Pork) @ *Great Greens*  
+  
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 **chicken**  
 In name:   
@@ -30,7 +22,14 @@ In name:
  - Plant-Based Chicken Nuggets @ *Fired Up*  
  - Italian Chicken @ *Global Kitchen*  
   
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
+  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-10-24)  
+**Cod**  
+In name:   
+ - Basque Style Cod @ *Global Kitchen*  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -49,6 +48,8 @@ In description:
 In name:   
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
+ - Chicken Basque Style @ *Global Kitchen*  
+ - Chicken Bruschetta Sandwich @ *Global Kitchen*  
   
 In description:   
  - Kale, Sausage & Potato Soup @ *Great Greens*  
@@ -68,6 +69,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Gravy @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   

@@ -1,21 +1,11 @@
 # 2026-10-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-24 15:16:39  
+Updated at: 2026-10-24 17:54:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-24)  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-10-24)  
 **steak**  
 In name:   
  - Ham Steak @ *1849*  
-  
-**Cod**  
-In name:   
-  
-In description:   
- - Clam Chowder (Pork) @ *Great Greens*  
-  
-**clam**  
-In name:   
- - Clam Chowder (Pork) @ *Great Greens*  
   
 **beef**  
 In name:   
@@ -26,9 +16,9 @@ In description:
   
 **pork**  
 In name:   
- - Clam Chowder (Pork) @ *Great Greens*  
   
 In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Lumberjack Bowl w/Bacon @ *1849*  
  - Ham Steak @ *1849*  
   
@@ -39,6 +29,9 @@ In name:
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Italian Chicken @ *Global Kitchen*  
  - Taco Chicken @ *Que Rico*  
+  
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-10-24)  
 **Chicken Drummies**  

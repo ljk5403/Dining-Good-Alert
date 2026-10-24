@@ -1,6 +1,6 @@
 # 2026-10-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-24 12:12:35  
+Updated at: 2026-10-24 15:16:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-24)  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-10-24)  
 **steak**  
@@ -38,6 +38,7 @@ In name:
  - Sausage Links Chicken (halal) (AYCTE) @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Italian Chicken @ *Global Kitchen*  
+ - Taco Chicken @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-10-24)  
 **Chicken Drummies**  
@@ -67,9 +68,9 @@ In description:
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-10-24)  
-**steak**  
+**Chicken Drummies**  
 In name:   
- - Country Fried Steak @ *1849*  
+ - Chicken Drummies @ *1849*  
   
 **Tuna**  
 In name:   
@@ -89,7 +90,6 @@ In name:
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
- - Country Fried Steak @ *1849*  
  - King's Hawaiian Sand Hot Dog @ *King's Hawaiian*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
@@ -104,6 +104,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Drummies @ *1849*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera*  
  - Diced Chicken @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
