@@ -1,6 +1,6 @@
 # 2026-10-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-23 17:54:22  
+Updated at: 2026-10-23 20:22:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-23)  
 **Flauta**  
 In name:   
@@ -56,10 +56,6 @@ In name:
 In name:   
  - Masala Spiced Salmon @ *1849*  
   
-**Shrimp**  
-In name:   
- - Sauteed Shrimp @ *Que Rico*  
-  
 **clam**  
 In name:   
  - Clam Chowder @ *Great Greens*  
@@ -81,6 +77,7 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Chili w/ Beans @ *Create-A-Bowl*  
  - Beef @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
@@ -91,6 +88,7 @@ In description:
 In name:   
  - Diced Chicken @ *Great Greens*  
  - Tikka Masala Chicken @ *1849*  
+ - Taco Chicken @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-10-23)  
 **Cod**  
@@ -106,10 +104,11 @@ In description:
 **pork**  
 In name:   
  - Baked Corn Dog (Pork) @ *1849*  
+ - Chicken Cordon Bleu Sandwich (Pork) @ *1849*  
   
 **chicken**  
 In name:   
- - Grilled Chicken Monterey Sandwich @ *1849*  
+ - Chicken Cordon Bleu Sandwich (Pork) @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Basque Style @ *Global Kitchen*  

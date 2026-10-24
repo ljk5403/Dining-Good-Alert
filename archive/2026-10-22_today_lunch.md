@@ -1,6 +1,6 @@
 # 2026-10-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-23 13:05:12  
+Updated at: 2026-10-23 17:54:18  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-23)  
 **Poke Bar**  
 In name:   
@@ -152,15 +152,16 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Sirloin Tips @ *1849*  
  - Beef Barbacoa @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
- - Burnt Ends @ *1849*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  
 In name:   
+ - Pork Carnita @ *Gordon Que Rico*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
   
 **chicken**  

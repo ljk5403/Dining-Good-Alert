@@ -1,6 +1,6 @@
 # 2026-10-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-23 13:05:13  
+Updated at: 2026-10-23 17:54:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-23)  
 **Flauta**  
 In name:   
@@ -33,6 +33,7 @@ In description:
 **beef**  
 In name:   
  - Beef Taco Meat @ *Que Rico*  
+ - Beef Fajita @ *Que Rico*  
   
 **pork**  
 In name:   
@@ -146,6 +147,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Sirloin Tips @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
