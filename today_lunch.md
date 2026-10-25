@@ -1,6 +1,6 @@
 # 2026-10-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-25 12:24:45  
+Updated at: 2026-10-25 15:24:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-25)  
 **steak**  
 In name:   
@@ -74,7 +74,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Goulash w/Egg Noodles @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
@@ -91,6 +90,7 @@ In name:
   
 **chicken**  
 In name:   
+ - Butter Chicken @ *1849*  
  - Chicken Fried Cordon Bleu (Pork) @ *1849*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera*  
  - Diced Chicken @ *Great Greens*  
