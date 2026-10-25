@@ -1,6 +1,6 @@
 # 2026-10-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-25 05:47:49  
+Updated at: 2026-10-25 12:24:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-25)  
 **steak**  
 In name:   
@@ -42,9 +42,6 @@ In name:
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
-In description:   
- - Italian Meat Sauce @ *Global Kitchen*  
-  
 **pork**  
 In name:   
  - Pork Sausage Patties @ *1849*  
@@ -58,7 +55,6 @@ In name:
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Supreme Sandwich w/ Bacon (Pork) @ *Fired Up*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
- - Plant Based Chicken Strips @ *Global Kitchen*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-10-25)  
 **chicken**  

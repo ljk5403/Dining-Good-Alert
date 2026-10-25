@@ -1,6 +1,6 @@
 # 2026-10-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-25 05:47:51  
+Updated at: 2026-10-25 12:24:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-25)  
 **lamb**  
 In name:   
@@ -46,7 +46,6 @@ In name:
 In name:   
  - Island Spiced Beef Steak @ *1849*  
  - Beef Hot Dog @ *Fired Up*  
- - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -54,6 +53,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Italian Sausage @ *Global Kitchen*  
  - Pork Carnita @ *Que Rico*  
   
 **chicken**  
@@ -61,7 +61,6 @@ In name:
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Plant Based Chicken Strips @ *Global Kitchen*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-10-25)  
