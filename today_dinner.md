@@ -1,6 +1,6 @@
 # 2026-10-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-24 17:54:18  
+Updated at: 2026-10-24 19:50:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-24)  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-10-24)  
 **beef**  
@@ -19,7 +19,7 @@ In name:
  - Spicy Lo Mein w/Chicken @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Spicy Crispy Chicken Sandwich @ *Fired Up*  
- - Plant-Based Chicken Nuggets @ *Fired Up*  
+ - Protein Plant Based Chicken Tender @ *Fired Up*  
  - Italian Chicken @ *Global Kitchen*  
   
 In description:   
@@ -67,6 +67,10 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**Filipino Pork Sausage**  
+In name:   
+ - Filipino Pork Sausage @ *1849*  
+  
 **beef**  
 In name:   
  - Beef Gravy @ *1849*  
@@ -79,7 +83,7 @@ In description:
   
 **pork**  
 In name:   
- - Coffee Crusted Pork Loin @ *1849*  
+ - Filipino Pork Sausage @ *1849*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
   
 In description:   

@@ -1,6 +1,6 @@
 # 2026-10-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-24 17:54:26  
+Updated at: 2026-10-24 19:50:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-25)  
 **lamb**  
 In name:   
@@ -74,13 +74,17 @@ In name:
 In name:   
  - Chicken Drumstick Mango Habanero @ *1849*  
   
-**Tilapia**  
+**Cod**  
 In name:   
- - Island Spiced Tilapia @ *1849*  
+ - Lemon Pepper Cod Fillet @ *1849*  
   
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
+  
+**curry**  
+In name:   
+ - Lentil Chickpea Red Curry @ *1849*  
   
 **beef**  
 In name:   
