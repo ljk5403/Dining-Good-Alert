@@ -1,6 +1,6 @@
 # 2026-10-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-25 18:01:09  
+Updated at: 2026-10-25 22:23:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-25)  
 **lamb**  
 In name:   
@@ -17,50 +17,49 @@ In description:
   
 **pork**  
 In name:   
- - Biscuits & Pork Gravy @ *1849*  
+ - BBQ Pork Chop @ *1849*  
+ - Pork Sausage in Country Gravy @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
  - Pork Carnita @ *Que Rico*  
   
 **chicken**  
 In name:   
- - Blackened Chicken @ *1849*  
+ - Mediterranean Chicken @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Plant Based Sweet & Sour Chicken @ *Global Kitchen*  
  - Sweet & Sour Chicken @ *Global Kitchen*  
  - Fajita Chicken @ *Que Rico*  
   
 In description:   
- - Biscuits & Pork Gravy @ *1849*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-10-25)  
-**steak**  
+**portabella**  
 In name:   
- - Island Spiced Beef Steak @ *1849*  
   
-**Tilapia**  
-In name:   
- - Blackened Tilapia @ *1849*  
+In description:   
+ - Portobello Mushroom Stroganoff @ *Global Kitchen*  
   
 **beef**  
 In name:   
- - Island Spiced Beef Steak @ *1849*  
- - Beef Hot Dog @ *Fired Up*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Italian Meat Sauce @ *Global Kitchen*  
+ - Pork Jaeger Schnitzel Plate @ *1849*  
+ - Shepherds Pie @ *1849*  
+ - Blended Hamburger @ *Fired Up*  
   
 **pork**  
 In name:   
+ - Pork Jaeger Schnitzel Plate @ *1849*  
  - Pork Italian Sausage @ *Global Kitchen*  
- - Pork Carnita @ *Que Rico*  
   
 **chicken**  
 In name:   
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Taco Chicken @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-10-25)  
 **chicken**  
@@ -72,9 +71,9 @@ In name:
 In name:   
  - Chicken Drumstick Mango Habanero @ *1849*  
   
-**Cod**  
+**Shrimp**  
 In name:   
- - Lemon Pepper Cod Fillet @ *1849*  
+ - Fried Popcorn Shrimp @ *1849*  
   
 **Tuna**  
 In name:   
@@ -95,13 +94,11 @@ In description:
   
 **pork**  
 In name:   
- - Chicken Cordon Bleu Sandwich (Pork) @ *1849*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
  - Chicken Drumstick Mango Habanero @ *1849*  
- - Chicken Cordon Bleu Sandwich (Pork) @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  

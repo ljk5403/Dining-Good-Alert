@@ -1,6 +1,6 @@
 # 2026-10-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-25 15:24:56  
+Updated at: 2026-10-25 18:01:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-25)  
 **lamb**  
 In name:   
@@ -61,7 +61,6 @@ In name:
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Plant Based Chicken Strips @ *Global Kitchen*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-10-25)  
 **chicken**  
@@ -96,11 +95,13 @@ In description:
   
 **pork**  
 In name:   
+ - Chicken Cordon Bleu Sandwich (Pork) @ *1849*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
  - Chicken Drumstick Mango Habanero @ *1849*  
+ - Chicken Cordon Bleu Sandwich (Pork) @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
