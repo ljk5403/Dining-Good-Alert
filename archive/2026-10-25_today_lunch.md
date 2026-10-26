@@ -1,19 +1,23 @@
 # 2026-10-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-26 07:18:51  
+Updated at: 2026-10-26 14:44:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-26)  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
   
+**curry**  
+In name:   
+ - Curry Mango - Pork @ *1849*  
+  
 **beef**  
 In name:   
- - Beef Goulash @ *1849*  
  - Beef Ravioli Plain @ *Buona Cucina*  
  - Beef Taco Meat @ *Que Rico*  
   
 **pork**  
 In name:   
+ - Curry Mango - Pork @ *1849*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
  - Pork Carnita @ *Que Rico*  
   
@@ -26,6 +30,7 @@ In name:
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Diced Chicken Breast @ *Buona Cucina*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
+ - Spicy Crispy Chicken Sandwich @ *Fired Up*  
  - Orange Sweet & Spicy Chicken @ *Global Kitchen*  
  - Chicken Tinga @ *Que Rico*  
   
@@ -99,6 +104,7 @@ In name:
   
 **Tuna**  
 In name:   
+ - Tuna @ *Great Greens*  
  - Lemon Pepper Tuna Salad @ *Delicious*  
   
 **watermelon**  
@@ -126,10 +132,8 @@ In name:
  - Plant-Based Chicken & Gravy (VN) @ *1849*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - King's Hawaiian Sand Chicken Spicy Crisp @ *King's Hawaiian*  
- - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - General Tso's Chicken @ *Global Kitchen*  
- - Battered Chicken Thighs @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
@@ -140,9 +144,13 @@ In description:
 In name:   
  - Ham Steak @ *Eggcetera:  Available Between 11am-2pm*  
   
-**mahi mahi**  
+**catfish**  
 In name:   
- - Blackened Mahi Mahi @ *Global Kitchen:  Available Between 11am-2pm*  
+ - Fried Catfish @ *Global Kitchen:  Available Between 11am-2pm*  
+  
+**fish**  
+In name:   
+ - Fried Catfish @ *Global Kitchen:  Available Between 11am-2pm*  
   
 **beef**  
 In name:   
