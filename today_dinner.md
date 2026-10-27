@@ -1,6 +1,6 @@
 # 2026-10-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-27 06:38:48  
+Updated at: 2026-10-27 14:13:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-27)  
 **Samosas**  
 In name:   
@@ -110,6 +110,10 @@ In name:
  - Crispy Chicken Sandwich @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-10-27)  
+**Vanilla Coconut Milk Yogurt**  
+In name:   
+ - Vanilla Coconut Milk Yogurt @ *Great Greens*  
+  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
@@ -136,7 +140,7 @@ In description:
 In name:   
  - Baked BBQ Chicken @ *1849*  
  - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
- - Chicken Dumpling Soup @ *Great Greens*  
+ - Chicken Noodle Soup @ *Great Greens*  
  - Greek Chicken @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
