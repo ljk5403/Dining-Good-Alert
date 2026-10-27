@@ -1,6 +1,6 @@
 # 2026-10-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-27 06:38:44  
+Updated at: 2026-10-27 14:13:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-27)  
 **portabella**  
 In name:   
@@ -12,7 +12,7 @@ In name:
   
 **Shrimp**  
 In name:   
- - Fried Popcorn Shrimp @ *1849*  
+ - Redhook Ale Breaded Shrimp @ *1849*  
   
 **lamb**  
 In name:   
@@ -23,6 +23,10 @@ In description:
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
+  
+**Filipino Pork Sausage**  
+In name:   
+ - Filipino Pork Sausage @ *Global Kitchen*  
   
 **curry**  
 In name:   
@@ -40,6 +44,7 @@ In description:
 **pork**  
 In name:   
  - Pork Banh Mi @ *Fired Up*  
+ - Filipino Pork Sausage @ *Global Kitchen*  
   
 **chicken**  
 In name:   
@@ -48,17 +53,12 @@ In name:
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Butter Chicken @ *Global Kitchen*  
  - Mediterranean Chicken @ *Que Rico*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-10-27)  
-**Salmon**  
-In name:   
- - Smoked Salmon @ *1849*  
-  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
@@ -70,6 +70,7 @@ In name:
 **beef**  
 In name:   
  - Mediterranean Beef @ *Create-A-Bowl*  
+ - Beef Stir Fry @ *1849*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -117,11 +118,13 @@ In name:
  - Chicken Dumpling Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-10-27)  
-**fish**  
+**Vanilla Coconut Milk Yogurt**  
 In name:   
+ - Vanilla Coconut Milk Yogurt @ *Great Greens*  
   
-In description:   
- - Filipino Barbecue Pork @ *Global Kitchen*  
+**Chicken Drummies**  
+In name:   
+ - Chicken Drummies @ *Global Kitchen*  
   
 **Tuna**  
 In name:   
@@ -139,7 +142,7 @@ In description:
   
 **pork**  
 In name:   
- - Filipino Barbecue Pork @ *Global Kitchen*  
+ - Pork Carnita @ *Gordon Que Rico*  
  - Italian Pork Sausage @ *Buona Cucina*  
   
 In description:   
@@ -150,8 +153,8 @@ In description:
 In name:   
  - Chicken Breast w/Red Pepper Cream @ *1849*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
- - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
- - Chicken Dumpling Soup @ *Great Greens*  
+ - Chicken Noodle Soup @ *Great Greens*  
+ - Chicken Drummies @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
@@ -166,13 +169,13 @@ In name:
 In name:   
   
 In description:   
- - Burnt Ends @ *Global Kitchen:  Available Between 11am-2pm*  
  - Nacho Sheet Tray @ *Fired Up:  Available Between 11am-2pm*  
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  
 In name:   
+ - Pork Loin Spicy Greenbush @ *Global Kitchen:  Available Between 11am-2pm*  
  - Pork Sausage Links @ *Eggcetera:  Available Between 11am-2pm*  
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
   

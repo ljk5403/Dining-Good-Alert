@@ -1,6 +1,6 @@
 # 2026-10-27 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-27 14:13:27  
+Updated at: 2026-10-27 18:29:54  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-27)  
 **portabella**  
 In name:   
@@ -153,7 +153,7 @@ In description:
 In name:   
  - Chicken Breast w/Red Pepper Cream @ *1849*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
- - Chicken Noodle Soup @ *Great Greens*  
+ - Chicken Dumpling Soup @ *Great Greens*  
  - Chicken Drummies @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
