@@ -1,6 +1,6 @@
 # 2026-10-26 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-26 18:34:43  
+Updated at: 2026-10-26 22:50:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-26)  
 **Tuna**  
 In name:   
@@ -102,6 +102,13 @@ In name:
 In name:   
  - Cod Nuggets @ *1849*  
   
+In description:   
+ - Clam Chowder (Pork) @ *Great Greens*  
+  
+**clam**  
+In name:   
+ - Clam Chowder (Pork) @ *Great Greens*  
+  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
@@ -121,6 +128,7 @@ In description:
 **pork**  
 In name:   
  - Apricot Glazed Pork @ *1849*  
+ - Clam Chowder (Pork) @ *Great Greens*  
  - Italian Pork Sausage @ *Buona Cucina*  
   
 In description:   

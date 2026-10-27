@@ -1,6 +1,6 @@
 # 2026-10-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-26 18:34:44  
+Updated at: 2026-10-26 22:51:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-26)  
 **Flauta**  
 In name:   
@@ -71,15 +71,15 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Vindaloo @ *Create-A-Bowl*  
  - Beef Taco Meat @ *Que Rico*  
   
 **pork**  
 In name:   
- - Italian Pork Sausage @ *Global Kitchen*  
+ - Andouille Pork Sausage @ *Global Kitchen*  
   
 **chicken**  
 In name:   
- - Butter Chicken @ *Create-A-Bowl*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Sweet & Sour Chicken @ *1849*  
  - Taco Chicken @ *Que Rico*  
@@ -115,9 +115,24 @@ In name:
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-10-26)  
+**FiIipino Pork Spring Roll**  
+In name:   
+ - FiIipino Pork Spring Roll @ *1849*  
+  
 **Shrimp**  
 In name:   
  - Blackened Shrimp @ *1849*  
+ - Fried Popcorn Shrimp @ *King's Hawaiian*  
+  
+**Cod**  
+In name:   
+  
+In description:   
+ - Clam Chowder (Pork) @ *Great Greens*  
+  
+**clam**  
+In name:   
+ - Clam Chowder (Pork) @ *Great Greens*  
   
 **Tuna**  
 In name:   
@@ -129,7 +144,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Broccoli Stir Fry w/Teriyaki Sauce @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
@@ -137,7 +151,9 @@ In description:
   
 **pork**  
 In name:   
+ - FiIipino Pork Spring Roll @ *1849*  
  - Pork Carnita @ *Gordon Que Rico*  
+ - Clam Chowder (Pork) @ *Great Greens*  
  - Italian Pork Sausage @ *Buona Cucina*  
   
 In description:   
@@ -145,10 +161,9 @@ In description:
   
 **chicken**  
 In name:   
- - Mediterranean Chicken @ *1849*  
  - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
- - King's Hawaiian Sand Chicken Spicy Crisp @ *King's Hawaiian*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
+ - Chicken Breast Con Pollo @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   

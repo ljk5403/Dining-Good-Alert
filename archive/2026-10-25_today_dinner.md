@@ -1,10 +1,10 @@
 # 2026-10-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-26 14:44:37  
+Updated at: 2026-10-26 18:34:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-26)  
-**drumstick**  
+**Flauta**  
 In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
+ - Chicken and Cheese Flauta @ *1849*  
   
 **fish**  
 In name:   
@@ -37,7 +37,7 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
+ - Chicken and Cheese Flauta @ *1849*  
  - Diced Chicken Breast @ *Buona Cucina*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
  - Chicken Tinga @ *Que Rico*  
@@ -67,7 +67,6 @@ In name:
  - Curry Potatoes @ *Create-A-Bowl*  
   
 In description:   
- - Tikka Masala Chicken @ *Create-A-Bowl*  
  - Tofu & Vegetable Tikka Masala @ *Create-A-Bowl*  
   
 **beef**  
@@ -80,7 +79,7 @@ In name:
   
 **chicken**  
 In name:   
- - Tikka Masala Chicken @ *Create-A-Bowl*  
+ - Butter Chicken @ *Create-A-Bowl*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Sweet & Sour Chicken @ *1849*  
  - Taco Chicken @ *Que Rico*  
@@ -122,7 +121,6 @@ In name:
   
 **Tuna**  
 In name:   
- - Tuna @ *Great Greens*  
  - Lemon Pepper Tuna Salad @ *Delicious*  
   
 **watermelon**  
@@ -131,7 +129,6 @@ In name:
   
 **beef**  
 In name:   
- - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef Broccoli Stir Fry w/Teriyaki Sauce @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
@@ -140,6 +137,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Carnita @ *Gordon Que Rico*  
  - Italian Pork Sausage @ *Buona Cucina*  
   
 In description:   
