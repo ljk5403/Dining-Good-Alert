@@ -1,6 +1,6 @@
 # 2026-10-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-27 18:29:57  
+Updated at: 2026-10-27 23:10:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-27)  
 **Salmon**  
 In name:   
@@ -65,12 +65,14 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Pork Bratwurst Sandwich @ *Fired Up*  
+ - Polish Sausage @ *Fired Up*  
   
 **pork**  
 In name:   
- - Pork Bratwurst Sandwich @ *Fired Up*  
  - Pork Carnita @ *Que Rico*  
+  
+In description:   
+ - Polish Sausage @ *Fired Up*  
   
 **chicken**  
 In name:   
@@ -101,7 +103,7 @@ In description:
   
 **chicken**  
 In name:   
- - Huli Huli Chicken @ *1849*  
+ - Chicken Shawarma Sandwich @ *1849*  
  - Chicken Dumpling Soup @ *Great Greens*  
  - Crispy Chicken Sandwich @ *Global Kitchen*  
   
@@ -120,12 +122,13 @@ In name:
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
+ - Baked Corn Dog (Pork) @ *1849*  
  - King's Hawaiian Sand Brat w/Pine Pico @ *King's Hawaiian*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  
 In name:   
- - BBQ Pork Chop @ *1849*  
+ - Baked Corn Dog (Pork) @ *1849*  
  - Pork Carnita @ *Gordon Que Rico*  
  - Italian Pork Sausage @ *Buona Cucina*  
   
@@ -135,12 +138,13 @@ In description:
   
 **chicken**  
 In name:   
- - Baked BBQ Chicken @ *1849*  
+ - Mediterranean Chicken @ *1849*  
  - Chicken Dumpling Soup @ *Great Greens*  
  - Greek Chicken @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
+ - Baked Corn Dog (Pork) @ *1849*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-10-27)  

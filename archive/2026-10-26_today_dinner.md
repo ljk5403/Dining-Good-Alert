@@ -1,11 +1,7 @@
 # 2026-10-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-27 14:13:31  
+Updated at: 2026-10-27 18:29:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-27)  
-**Samosas**  
-In name:   
- - Samosas @ *Global Kitchen*  
-  
 **Salmon**  
 In name:   
  - Oven Roasted Salmon @ *1849*  
@@ -130,6 +126,7 @@ In description:
 **pork**  
 In name:   
  - BBQ Pork Chop @ *1849*  
+ - Pork Carnita @ *Gordon Que Rico*  
  - Italian Pork Sausage @ *Buona Cucina*  
   
 In description:   
@@ -139,8 +136,7 @@ In description:
 **chicken**  
 In name:   
  - Baked BBQ Chicken @ *1849*  
- - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
- - Chicken Noodle Soup @ *Great Greens*  
+ - Chicken Dumpling Soup @ *Great Greens*  
  - Greek Chicken @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
