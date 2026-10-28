@@ -1,6 +1,6 @@
 # 2026-10-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-28 14:19:45  
+Updated at: 2026-10-28 18:52:59  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-28)  
 **beef**  
 In name:   
@@ -96,6 +96,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork & Broccoli Stir Fry @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
   
 In description:   
@@ -103,6 +104,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Baked BBQ Chicken @ *1849*  
  - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
  - General Tso's Chicken @ *Global Kitchen*  
  - Battered Chicken Thighs @ *Global Kitchen*  
