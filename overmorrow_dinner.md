@@ -1,6 +1,6 @@
 # 2026-10-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-28 07:10:17  
+Updated at: 2026-10-28 14:19:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-30)  
 **Bibimbap Bowl**  
 In name:   
@@ -11,9 +11,17 @@ In name:
 In name:   
  - Shrimp Po-Boy Sandwich @ *Fired Up*  
   
+**clam**  
+In name:   
+ - Clam Chowder @ *Great Greens*  
+  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
   
 **beef**  
 In name:   
@@ -48,10 +56,6 @@ In name:
 In name:   
  - Clam Chowder @ *Great Greens*  
   
-**Tuna**  
-In name:   
- - Tuna Salad @ *Delicious*  
-  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -63,6 +67,10 @@ In name:
   
 In description:   
  - Vegan Taco Filling @ *Que Rico*  
+  
+**chicken**  
+In name:   
+ - Chicken Salad @ *Delicious*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-10-30)  
 **mahi mahi**  

@@ -1,6 +1,6 @@
 # 2026-10-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-28 07:10:08  
+Updated at: 2026-10-28 14:19:48  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-29)  
 **fish**  
 In name:   
@@ -60,10 +60,6 @@ In description:
  - Curried Pumpkin Soup @ *Great Greens*  
  - Chocolate Pumpkin Seed Bar - gcp @ *Buckingham Bakery*  
   
-**Tuna**  
-In name:   
- - Tuna Salad @ *Delicious*  
-  
 **curry**  
 In name:   
  - Curry Cauliflower & Butternut Squash @ *1849*  
@@ -92,6 +88,7 @@ In name:
  - Bulgogi Chicken @ *Create-A-Bowl*  
  - Chicken Noodle Soup @ *Great Greens*  
  - Baked BBQ Chicken @ *1849*  
+ - Chicken Salad @ *Delicious*  
  - Chicken Tinga @ *Que Rico*  
   
 In description:   

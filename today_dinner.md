@@ -1,34 +1,26 @@
 # 2026-10-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-28 07:10:06  
+Updated at: 2026-10-28 14:19:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-28)  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
-  
 **beef**  
 In name:   
- - Lomo Saltado w/ Beef @ *Global Kitchen*  
+ - Beef Chili @ *Great Greens*  
  - Beef Fajita Meat @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
   
 **pork**  
 In name:   
- - Italian Pork Sausage @ *Buona Cucina*  
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Tinga @ *Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-10-28)  
 **Shrimp**  
 In name:   
  - Redhook Ale Breaded Shrimp @ *1849*  
-  
-**Tuna**  
-In name:   
- - Tuna Salad @ *Delicious*  
   
 **beef**  
 In name:   
@@ -39,6 +31,7 @@ In name:
   
 **chicken**  
 In name:   
+ - Chicken Salad @ *Delicious*  
  - Chicken Wings Boneless Plain @ *Global Kitchen*  
  - Plant-Based Chicken Nuggets @ *Global Kitchen*  
   

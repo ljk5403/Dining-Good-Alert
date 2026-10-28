@@ -1,16 +1,12 @@
 # 2026-10-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-28 07:10:02  
+Updated at: 2026-10-28 14:19:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-28)  
 **fish**  
 In name:   
   
 In description:   
  - Poulet Braise @ *1849*  
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
   
 **beef**  
 In name:   
@@ -19,6 +15,9 @@ In name:
  - Beef Fajita Meat @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
   
+In description:   
+ - Italian Meat Sauce @ *Buona Cucina*  
+  
 **pork**  
 In name:   
  - Italian Pork Sausage @ *Buona Cucina*  
@@ -26,6 +25,7 @@ In name:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad @ *Delicious*  
  - Spicy Lo Mein w/Chicken @ *Global Kitchen*  
  - Chicken Tinga @ *Que Rico*  
   
@@ -36,10 +36,6 @@ In description:
 **steak**  
 In name:   
  - Country Fried Steak @ *1849*  
-  
-**Tuna**  
-In name:   
- - Tuna Salad @ *Delicious*  
   
 **beef**  
 In name:   
@@ -57,6 +53,7 @@ In name:
   
 **chicken**  
 In name:   
+ - Chicken Salad @ *Delicious*  
  - Chicken Wings Boneless Plain @ *Global Kitchen*  
  - Plant-Based Chicken Nuggets @ *Global Kitchen*  
   
@@ -165,15 +162,14 @@ In description:
   
 **pork**  
 In name:   
- - Ancho Braised Pork @ *Carson's 1849:  Available Between 11am-2pm*  
  - Pork Sausage Patties @ *Eggcetera:  Available Between 11am-2pm*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
+ - Sesame Chicken @ *Carson's 1849:  Available Between 11am-2pm*  
   
 In description:   
- - Ancho Braised Pork @ *Carson's 1849:  Available Between 11am-2pm*  
  - Italian Meatball Sandwich @ *Fired Up:  Available Between 11am-2pm*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   

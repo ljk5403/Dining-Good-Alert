@@ -1,6 +1,6 @@
 # 2026-10-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-28 07:10:14  
+Updated at: 2026-10-28 14:19:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-30)  
 **Shrimp**  
 In name:   
@@ -55,10 +55,6 @@ In name:
 In name:   
  - Clam Chowder @ *Great Greens*  
   
-**Tuna**  
-In name:   
- - Tuna Salad @ *Delicious*  
-  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -77,6 +73,10 @@ In name:
 In description:   
  - Reuben @ *Fired Up*  
  - Vegan Taco Filling @ *Que Rico*  
+  
+**chicken**  
+In name:   
+ - Chicken Salad @ *Delicious*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-10-30)  
 **Cod**  
