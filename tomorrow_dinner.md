@@ -1,6 +1,6 @@
 # 2026-10-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-29 07:20:56  
+Updated at: 2026-10-29 14:25:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-30)  
 **Bibimbap Bowl**  
 In name:   
@@ -14,10 +14,6 @@ In name:
 **clam**  
 In name:   
  - Clam Chowder @ *Great Greens*  
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
   
 **watermelon**  
 In name:   
@@ -40,6 +36,7 @@ In name:
 In name:   
  - BBQ Chicken Wings Bone-In @ *1849*  
  - Diced Chicken Breast @ *Buona Cucina*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
  - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
  - Fajita Chicken @ *Que Rico*  
   

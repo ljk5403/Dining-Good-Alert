@@ -1,6 +1,6 @@
 # 2026-10-29 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-29 07:20:52  
+Updated at: 2026-10-29 14:24:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-29)  
 **fish**  
 In name:   
@@ -60,10 +60,6 @@ In description:
  - Curried Pumpkin Soup @ *Great Greens*  
  - Chocolate Pumpkin Seed Bar - gcp @ *Buckingham Bakery*  
   
-**Tuna**  
-In name:   
- - Tuna Salad @ *Delicious*  
-  
 **curry**  
 In name:   
  - Curry Cauliflower & Butternut Squash @ *1849*  
@@ -92,7 +88,8 @@ In name:
  - Bulgogi Chicken @ *Create-A-Bowl*  
  - Chicken Noodle Soup @ *Great Greens*  
  - Baked BBQ Chicken @ *1849*  
- - Chicken Tinga @ *Que Rico*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Taco Chicken @ *Que Rico*  
   
 In description:   
  - Collard Greens w/Bacon @ *1849*  
@@ -174,6 +171,7 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Gluten Free Pepperoni Pizza Quarter @ *Capital City Pizza*  
   
 **pork**  
 In name:   
@@ -195,18 +193,11 @@ In name:
 In description:   
  - Pork Sausage Country Gravy w/ Biscuit @ *Gordon Eggcetera*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Gluten Free Pepperoni Pizza Quarter @ *Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-10-29)  
-**Cod**  
-In name:   
-  
-In description:   
- - Petite Fish Sandwich @ *Fired Up:  Available Between 11am-2pm*  
-  
 **fish**  
 In name:   
- - Petite Fish Sandwich @ *Fired Up:  Available Between 11am-2pm*  
- - Vegan Fish Sandwich @ *Fired Up:  Available Between 11am-2pm*  
   
 In description:   
  - Curried Pumpkin Soup @ *Great Greens*  
@@ -216,24 +207,28 @@ In description:
 In name:   
   
 In description:   
- - Chana Saag w/ Tofu @ *Carson's 1849:  Available Between 11am-2pm*  
- - Tikka Masala Chicken @ *Carson's 1849:  Available Between 11am-2pm*  
+ - Chicken Tikka Masala @ *Global Kitchen:  Available Between 11am-2pm*  
+ - Chana Saag w/ Tofu @ *Global Kitchen:  Available Between 11am-2pm*  
  - Curried Pumpkin Soup @ *Great Greens*  
   
 **beef**  
 In name:   
+ - Beef Goulash @ *Carson's 1849:  Available Between 11am-2pm*  
+ - "Beef" Goulash (VN) @ *Carson's 1849:  Available Between 11am-2pm*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
   
 **pork**  
 In name:   
- - Jerk Pork Chop @ *Global Kitchen:  Available Between 11am-2pm*  
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
+  
+In description:   
+ - Italian Sausage w/ Pepper & Onions @ *Fired Up:  Available Between 11am-2pm*  
   
 **chicken**  
 In name:   
- - Tikka Masala Chicken @ *Carson's 1849:  Available Between 11am-2pm*  
+ - Chicken Tikka Masala @ *Global Kitchen:  Available Between 11am-2pm*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera:  Available Between 11am-2pm*  
  - Chicken Noodle Soup @ *Great Greens*  
   

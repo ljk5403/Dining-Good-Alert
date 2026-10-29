@@ -1,6 +1,6 @@
 # 2026-10-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-29 07:20:54  
+Updated at: 2026-10-29 14:24:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-29)  
 **drumstick**  
 In name:   
@@ -73,10 +73,6 @@ In description:
  - Curried Pumpkin Soup @ *Great Greens*  
  - Thai BBQ Pork Ribs @ *1849*  
   
-**Tuna**  
-In name:   
- - Tuna Salad @ *Delicious*  
-  
 **curry**  
 In name:   
   
@@ -101,6 +97,7 @@ In name:
  - Bulgogi Chicken @ *Create-A-Bowl*  
  - Chicken Noodle Soup @ *Great Greens*  
  - Chicken Drummies @ *1849*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Tinga @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-10-29)  
