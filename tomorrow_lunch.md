@@ -1,158 +1,130 @@
-# 2026-10-29 lunch  
+# 2026-10-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-28 23:32:32  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-29)  
-**fish**  
-In name:   
-  
-In description:   
- - Curried Pumpkin Soup @ *Great Greens*  
- - Chocolate Pumpkin Seed Bar - gcp @ *Buckingham Bakery*  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Curried Pumpkin Soup @ *Great Greens*  
-  
-**beef**  
-In name:   
- - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Barbacoa Beef w/Mango Habanero Sandwich @ *Fired Up*  
- - Mediterranean Beef @ *Que Rico*  
-  
-In description:   
- - Italian Meat Sauce @ *Buona Cucina*  
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
-  
-**pork**  
-In name:   
- - Apple Cider Braised Pork @ *1849*  
-  
-**chicken**  
-In name:   
- - Chicken Noodle Soup @ *Great Greens*  
- - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Plant Based Chicken Strips @ *Buona Cucina*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
- - Mediterranean Chicken @ *Que Rico*  
-  
-In description:   
- - Apple Cider Braised Pork @ *1849*  
- - Pepperoni Pizza Slice @ *Capital City Pizza*  
-  
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-10-29)  
-**portabella**  
-In name:   
- - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
-  
-**Bulgogi**  
-In name:   
- - Bulgogi Beef @ *Create-A-Bowl*  
- - Bulgogi Chicken @ *Create-A-Bowl*  
- - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
- - Build Your Own Bulgogi Bar - Four Lakes @ *Create-A-Bowl*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Curried Pumpkin Soup @ *Great Greens*  
- - Chocolate Pumpkin Seed Bar - gcp @ *Buckingham Bakery*  
-  
-**Tuna**  
-In name:   
- - Tuna Salad @ *Delicious*  
-  
-**curry**  
-In name:   
- - Curry Cauliflower & Butternut Squash @ *1849*  
-  
-In description:   
- - Curried Pumpkin Soup @ *Great Greens*  
-  
-**beef**  
-In name:   
- - Bulgogi Beef @ *Create-A-Bowl*  
- - Beef Meatloaf @ *1849*  
- - Beef Gravy @ *1849*  
- - Beef Taco Meat @ *Que Rico*  
-  
-In description:   
- - Chicago-Style Hot Dog @ *Fired Up*  
-  
-**pork**  
-In name:   
-  
-In description:   
- - Andouille Sausage @ *Global Kitchen*  
-  
-**chicken**  
-In name:   
- - Bulgogi Chicken @ *Create-A-Bowl*  
- - Chicken Noodle Soup @ *Great Greens*  
- - Baked BBQ Chicken @ *1849*  
- - Chicken Tinga @ *Que Rico*  
-  
-In description:   
- - Collard Greens w/Bacon @ *1849*  
-  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-10-29)  
-**steak**  
-In name:   
- - Philly Cheesesteak Sandwich @ *Global Kitchen*  
- - Tempeh Philly Cheesesteak Sandwich @ *Global Kitchen*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Chocolate Pumpkin Seed Bar - gcp @ *Buckingham Bakery*  
- - Curried Pumpkin Soup @ *Great Greens*  
-  
-**Tuna**  
-In name:   
- - Tuna Salad @ *Delicious*  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Curried Pumpkin Soup @ *Great Greens*  
-  
-**beef**  
-In name:   
-  
-In description:   
- - Philly Cheesesteak Sandwich @ *Global Kitchen*  
-  
-**pork**  
-In name:   
- - Biscuits & Pork Gravy @ *1849*  
-  
-**chicken**  
-In name:   
- - Plant-Based Chicken Tenders @ *Global Kitchen*  
- - Chicken Noodle Soup @ *Great Greens*  
-  
-In description:   
- - Biscuits & Pork Gravy @ *1849*  
-  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-10-29)  
+Updated at: 2026-10-29 07:20:55  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-30)  
 **Shrimp**  
 In name:   
  - Fried Popcorn Shrimp @ *1849*  
   
+**clam**  
+In name:   
+ - Clam Chowder @ *Great Greens*  
+  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad @ *Delicious*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
+  
+**beef**  
+In name:   
+ - Beef Taco Meat @ *Que Rico*  
+  
+In description:   
+ - Pork Bratwurst Sandwich @ *Fired Up*  
+  
+**pork**  
+In name:   
+ - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
+ - Pork Bratwurst Sandwich @ *Fired Up*  
+ - Pork Miso w/Yakisoba Noodles @ *Global Kitchen*  
+  
+**chicken**  
+In name:   
+ - Baked BBQ Chicken @ *1849*  
+ - Diced Chicken Breast @ *Buona Cucina*  
+ - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
+ - Fajita Chicken @ *Que Rico*  
+  
+In description:   
+ - Pork Miso w/Yakisoba Noodles @ *Global Kitchen*  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-10-30)  
+**Shrimp**  
+In name:   
+ - Blackened Shrimp @ *1849*  
+ - Sauteed Shrimp @ *Que Rico*  
+  
 **lamb**  
 In name:   
- - Lamb & Beef Gyro Sandwich @ *Global Kitchen*  
+ - Lamb Vindaloo @ *1849*  
+  
+**clam**  
+In name:   
+ - Clam Chowder @ *Great Greens*  
+  
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
+  
+**curry**  
+In name:   
+  
+In description:   
+ - Lamb Vindaloo @ *1849*  
+  
+**beef**  
+In name:   
+ - Beef @ *Global Kitchen*  
+ - Beef Taco Meat @ *Que Rico*  
+  
+In description:   
+ - Reuben @ *Fired Up*  
+ - Vegan Taco Filling @ *Que Rico*  
+  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-10-30)  
+**Cod**  
+In name:   
+ - Breaded Cod @ *1849*  
+ - Lemon Pepper Cod Fillet @ *1849*  
   
 **fish**  
 In name:   
   
 In description:   
- - Curried Pumpkin Soup @ *Great Greens*  
- - Chocolate Pumpkin Seed Bar - gcp @ *Buckingham Bakery*  
+ - Breaded Cod @ *1849*  
+  
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
+**beef**  
+In name:   
+ - Beef Taco Meat @ *Global Kitchen*  
+  
+**pork**  
+In name:   
+ - Pork Carnita @ *Global Kitchen*  
+  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-10-30)  
+**Flauta**  
+In name:   
+ - Shredded Beef Flauta @ *1849*  
+  
+**Tandoori Chicken**  
+In name:   
+ - Tandoori Chicken @ *Global Kitchen*  
+  
+**Cod**  
+In name:   
+  
+In description:   
+ - King's Hawaiian Petite Fish Sandwich @ *King's Hawaiian*  
+  
+**clam**  
+In name:   
+ - Clam Chowder @ *Great Greens*  
+  
+**fish**  
+In name:   
+ - King's Hawaiian Petite Fish Sandwich @ *King's Hawaiian*  
+ - Vegan Fish Sandwich @ *King's Hawaiian*  
   
 **Tuna**  
 In name:   
@@ -160,24 +132,20 @@ In name:
   
 **curry**  
 In name:   
- - Thai Veggie Meatballs w/ Green Curry @ *1849*  
-  
-In description:   
- - Madras Chicken w/Basmati Rice @ *1849*  
- - Curried Pumpkin Soup @ *Great Greens*  
+ - Lentil Chickpea Red Curry @ *Global Kitchen*  
   
 **beef**  
 In name:   
+ - Shredded Beef Flauta @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
- - Lamb & Beef Gyro Sandwich @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
+ - Vegan Sloppy Joe @ *1849*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  
 In name:   
- - Pork Sausage Country Gravy w/ Biscuit @ *Gordon Eggcetera*  
  - Italian Pork Sausage @ *Buona Cucina*  
   
 In description:   
@@ -185,60 +153,16 @@ In description:
   
 **chicken**  
 In name:   
- - Madras Chicken w/Basmati Rice @ *1849*  
+ - Chicken Piece Seasoned Baked @ *1849*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
- - King's Hawaiian Sand Chicken Crispy @ *King's Hawaiian*  
  - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
- - Chicken Noodle Soup @ *Great Greens*  
+ - Tandoori Chicken @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
- - Pork Sausage Country Gravy w/ Biscuit @ *Gordon Eggcetera*  
+ - Shredded Beef Flauta @ *1849*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-10-29)  
-**Cod**  
-In name:   
-  
-In description:   
- - Petite Fish Sandwich @ *Fired Up:  Available Between 11am-2pm*  
-  
-**fish**  
-In name:   
- - Petite Fish Sandwich @ *Fired Up:  Available Between 11am-2pm*  
- - Vegan Fish Sandwich @ *Fired Up:  Available Between 11am-2pm*  
-  
-In description:   
- - Curried Pumpkin Soup @ *Great Greens*  
- - Chocolate Pumpkin Seed Bar - gcp @ *Buckingham Bakery*  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Chana Saag w/ Tofu @ *Carson's 1849:  Available Between 11am-2pm*  
- - Tikka Masala Chicken @ *Carson's 1849:  Available Between 11am-2pm*  
- - Curried Pumpkin Soup @ *Great Greens*  
-  
-**beef**  
-In name:   
-  
-In description:   
- - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
-  
-**pork**  
-In name:   
- - Jerk Pork Chop @ *Global Kitchen:  Available Between 11am-2pm*  
- - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
-  
-**chicken**  
-In name:   
- - Tikka Masala Chicken @ *Carson's 1849:  Available Between 11am-2pm*  
- - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera:  Available Between 11am-2pm*  
- - Chicken Noodle Soup @ *Great Greens*  
-  
-In description:   
- - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
-  
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-10-29)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-10-30)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-10-30)  
   
