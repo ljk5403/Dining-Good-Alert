@@ -1,15 +1,17 @@
 # 2026-10-28 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-28 18:52:59  
+Updated at: 2026-10-28 23:32:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-28)  
 **beef**  
 In name:   
  - Beef Chili @ *Great Greens*  
+ - Lomo Saltado w/ Beef @ *Global Kitchen*  
  - Beef Fajita Meat @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
   
 **pork**  
 In name:   
+ - Italian Pork Sausage @ *Buona Cucina*  
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
   
 **chicken**  
@@ -26,7 +28,6 @@ In name:
 In name:   
  - Beef Chili @ *Great Greens*  
  - Beef Goulash w/Egg Noodles @ *1849*  
- - Beef Barbacoa @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
   
 **chicken**  
@@ -34,6 +35,7 @@ In name:
  - Chicken Salad @ *Delicious*  
  - Chicken Wings Boneless Plain @ *Global Kitchen*  
  - Plant-Based Chicken Nuggets @ *Global Kitchen*  
+ - Taco Chicken @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-10-28)  
 **Tuna**  
