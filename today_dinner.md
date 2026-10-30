@@ -1,6 +1,6 @@
 # 2026-10-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-29 18:47:46  
+Updated at: 2026-10-29 23:32:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-29)  
 **fish**  
 In name:   
@@ -86,15 +86,13 @@ In name:
 In name:   
  - Thai BBQ Pork Ribs @ *1849*  
   
-In description:   
- - Chorizo Sausage @ *Global Kitchen*  
-  
 **chicken**  
 In name:   
  - Bulgogi Chicken @ *Create-A-Bowl*  
  - Chicken Noodle Soup @ *Great Greens*  
  - Chicken Drummies @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Italian Chicken @ *Global Kitchen*  
  - Chicken Tinga @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-10-29)  
@@ -127,10 +125,6 @@ In name:
 **Shrimp**  
 In name:   
  - Shrimp Teriyaki Stir Fry @ *Global Kitchen*  
-  
-**Cod**  
-In name:   
- - Baked Cod Fillet w/Butter & Lemon @ *1849*  
   
 **fish**  
 In name:   

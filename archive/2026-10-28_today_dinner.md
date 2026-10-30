@@ -1,11 +1,7 @@
 # 2026-10-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-29 14:24:55  
+Updated at: 2026-10-29 18:47:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-29)  
-**drumstick**  
-In name:   
- - Chicken Drumstick Szechuan Glazed @ *1849*  
-  
 **fish**  
 In name:   
   
@@ -22,6 +18,7 @@ In description:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Beef Ravioli Plain @ *Buona Cucina*  
  - Mediterranean Beef @ *Que Rico*  
   
 In description:   
@@ -35,7 +32,7 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken Drumstick Szechuan Glazed @ *1849*  
+ - Greek Chicken @ *1849*  
  - Chicken Noodle Soup @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
@@ -90,7 +87,7 @@ In name:
  - Thai BBQ Pork Ribs @ *1849*  
   
 In description:   
- - Andouille Sausage @ *Global Kitchen*  
+ - Chorizo Sausage @ *Global Kitchen*  
   
 **chicken**  
 In name:   
@@ -131,6 +128,10 @@ In name:
 In name:   
  - Shrimp Teriyaki Stir Fry @ *Global Kitchen*  
   
+**Cod**  
+In name:   
+ - Baked Cod Fillet w/Butter & Lemon @ *1849*  
+  
 **fish**  
 In name:   
   
@@ -167,7 +168,7 @@ In description:
 In name:   
  - Blackened Chicken @ *1849*  
  - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
- - King's Hawaiian Sand Chicken Crispy @ *King's Hawaiian*  
+ - Crispy Chicken Sandwich @ *King's Hawaiian*  
  - Chicken Noodle Soup @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
