@@ -1,6 +1,6 @@
 # 2026-10-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-30 07:11:09  
+Updated at: 2026-10-30 13:59:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-30)  
 **Shrimp**  
 In name:   
@@ -9,10 +9,6 @@ In name:
 **clam**  
 In name:   
  - Clam Chowder @ *Great Greens*  
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
   
 **watermelon**  
 In name:   
@@ -33,8 +29,8 @@ In name:
   
 **chicken**  
 In name:   
- - Baked BBQ Chicken @ *1849*  
  - Diced Chicken Breast @ *Buona Cucina*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
  - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
  - Fajita Chicken @ *Que Rico*  
   
@@ -44,7 +40,6 @@ In description:
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-10-30)  
 **Shrimp**  
 In name:   
- - Blackened Shrimp @ *1849*  
  - Sauteed Shrimp @ *Que Rico*  
   
 **lamb**  
@@ -55,9 +50,11 @@ In name:
 In name:   
  - Clam Chowder @ *Great Greens*  
   
-**Tuna**  
+**fish**  
 In name:   
- - Tuna Salad @ *Delicious*  
+  
+In description:   
+ - Thai BBQ Pork Ribs @ *1849*  
   
 **watermelon**  
 In name:   
@@ -71,12 +68,20 @@ In description:
   
 **beef**  
 In name:   
- - Beef @ *Global Kitchen*  
+ - Beef Mediterranean @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
  - Reuben @ *Fired Up*  
  - Vegan Taco Filling @ *Que Rico*  
+  
+**pork**  
+In name:   
+ - Thai BBQ Pork Ribs @ *1849*  
+  
+**chicken**  
+In name:   
+ - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-10-30)  
 **Cod**  
@@ -126,6 +131,9 @@ In name:
  - King's Hawaiian Petite Fish Sandwich @ *King's Hawaiian*  
  - Vegan Fish Sandwich @ *King's Hawaiian*  
   
+In description:   
+ - Chocolate Pumpkin Seed Bar - gcp @ *Buckingham Bakery*  
+  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
@@ -143,6 +151,7 @@ In name:
 In description:   
  - Vegan Sloppy Joe @ *1849*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Gluten Free Pepperoni Pizza Quarter @ *Capital City Pizza*  
   
 **pork**  
 In name:   
@@ -162,6 +171,7 @@ In name:
 In description:   
  - Shredded Beef Flauta @ *1849*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Gluten Free Pepperoni Pizza Quarter @ *Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-10-30)  
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-10-30)  
