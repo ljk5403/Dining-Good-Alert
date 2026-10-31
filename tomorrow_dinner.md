@@ -1,6 +1,6 @@
 # 2026-11-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-31 06:44:12  
+Updated at: 2026-10-31 13:11:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-01)  
 **curry**  
 In name:   
@@ -99,6 +99,7 @@ In description:
 **chicken**  
 In name:   
  - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
+ - Chicken Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
