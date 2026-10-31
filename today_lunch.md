@@ -1,6 +1,6 @@
 # 2026-10-30 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-30 18:27:59  
+Updated at: 2026-10-30 23:15:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-30)  
 **Shrimp**  
 In name:   
@@ -46,10 +46,6 @@ In name:
 In name:   
  - Lamb Vindaloo @ *1849*  
   
-**clam**  
-In name:   
- - Clam Chowder @ *Great Greens*  
-  
 **fish**  
 In name:   
   
@@ -79,9 +75,15 @@ In description:
 In name:   
  - Thai BBQ Pork Ribs @ *1849*  
   
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
+  
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad @ *Delicious*  
+  
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-10-30)  
 **Cod**  

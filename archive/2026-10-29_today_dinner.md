@@ -1,6 +1,6 @@
 # 2026-10-30 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-30 13:59:15  
+Updated at: 2026-10-30 18:28:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-30)  
 **Bibimbap Bowl**  
 In name:   
@@ -9,7 +9,7 @@ In name:
   
 **Shrimp**  
 In name:   
- - Shrimp Po-Boy Sandwich @ *Fired Up*  
+ - Fried Popcorn Shrimp @ *Fired Up*  
   
 **clam**  
 In name:   
@@ -45,10 +45,6 @@ In name:
 In name:   
  - Blackened Salmon @ *1849*  
   
-**Shrimp**  
-In name:   
- - Sauteed Shrimp @ *Que Rico*  
-  
 **clam**  
 In name:   
  - Clam Chowder @ *Great Greens*  
@@ -59,7 +55,7 @@ In name:
   
 **beef**  
 In name:   
- - Beef @ *Global Kitchen*  
+ - Beef Mediterranean @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -68,6 +64,7 @@ In description:
 **chicken**  
 In name:   
  - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Taco Chicken @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-10-30)  
 **mahi mahi**  
@@ -94,10 +91,6 @@ In name:
 **beef**  
 In name:   
  - Beef Masaman Thai Curry @ *1849*  
-  
-**chicken**  
-In name:   
- - Sausage Links Chicken (halal) (AYCTE) @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-10-30)  
 **Tuna**  
