@@ -1,8 +1,12 @@
 # 2026-10-31 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-31 06:43:58  
+Updated at: 2026-10-31 13:11:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-10-31)  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-10-31)  
+**fish**  
+In name:   
+ - Fishless Filet @ *Fired Up*  
+  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
@@ -73,7 +77,7 @@ In name:
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
- - King's Hawaiian Sand Hot Dog @ *King's Hawaiian*  
+ - Bacon & Cheese Hot Dog @ *King's Hawaiian*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  

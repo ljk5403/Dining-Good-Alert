@@ -1,6 +1,6 @@
 # 2026-10-31 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-31 13:11:18  
+Updated at: 2026-10-31 18:05:16  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-31)  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-10-31)  
 **Flauta**  
@@ -79,15 +79,17 @@ In name:
   
 **beef**  
 In name:   
- - Beef Taco Meat @ *Gordon Que Rico*  
+ - Beef Stew @ *1849*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
- - King's Hawaiian Sand Hot Dog @ *King's Hawaiian*  
+ - Pork Bratwurst Sandwich @ *King's Hawaiian*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  
 In name:   
+ - Pork Carnita @ *Gordon Que Rico*  
+ - Pork Bratwurst Sandwich @ *King's Hawaiian*  
  - Italian Pork Sausage @ *Buona Cucina*  
   
 In description:   
