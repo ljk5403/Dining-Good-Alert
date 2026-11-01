@@ -1,6 +1,6 @@
 # 2026-11-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-01 06:43:10  
+Updated at: 2026-11-01 12:44:43  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-01)  
 **curry**  
 In name:   
@@ -46,6 +46,7 @@ In name:
   
 **Tuna**  
 In name:   
+ - Tuna @ *Great Greens*  
  - Tuna Salad @ *Delicious*  
   
 **curry**  
@@ -69,7 +70,6 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Plant Based Chicken Strips @ *Global Kitchen*  
   
@@ -77,6 +77,7 @@ In name:
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-11-01)  
 **Tuna**  
 In name:   
+ - Tuna @ *Great Greens*  
  - Lemon Pepper Tuna Salad @ *Delicious*  
   
 **beef**  

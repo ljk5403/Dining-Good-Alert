@@ -1,6 +1,6 @@
 # 2026-11-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-01 12:44:41  
+Updated at: 2026-11-01 17:22:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-01)  
 **beef**  
 In name:   
@@ -48,6 +48,7 @@ In name:
   
 **chicken**  
 In name:   
+ - Chicken Chili @ *Great Greens*  
  - Sausage Links Chicken (halal) (AYCTE) @ *1849*  
  - Grilled Chicken Sandwich @ *Fired Up*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
@@ -55,6 +56,10 @@ In name:
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-11-01)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-11-01)  
+**Tandoori Chicken**  
+In name:   
+ - Tandoori Chicken @ *1849*  
+  
 **steak**  
 In name:   
  - Grilled Flank Steak @ *1849*  
@@ -88,6 +93,7 @@ In description:
 **chicken**  
 In name:   
  - Plant-Based Chicken Etouffee @ *1849*  
+ - Tandoori Chicken @ *1849*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera*  
  - Chicken Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
@@ -113,7 +119,7 @@ In description:
   
 **chicken**  
 In name:   
- - Baked BBQ Chicken @ *Carson's 1849:  Available Between 11am-2pm*  
+ - Boneless Plain Chicken Wings @ *Carson's 1849:  Available Between 11am-2pm*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera:  Available Between 11am-2pm*  
  - Chicken Chili @ *Great Greens*  
   
