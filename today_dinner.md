@@ -1,6 +1,6 @@
 # 2026-10-31 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-10-31 18:05:16  
+Updated at: 2026-10-31 23:35:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-10-31)  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-10-31)  
 **Flauta**  
@@ -28,6 +28,7 @@ In name:
  - Chicken Tenders Breaded @ *Fired Up*  
  - Plant-Based Chicken Nuggets @ *Fired Up*  
  - Giardiniera Chicken @ *Global Kitchen*  
+ - Taco Chicken @ *Que Rico*  
   
 In description:   
  - Kale, Sausage & Potato Soup @ *Great Greens*  
@@ -77,6 +78,12 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**curry**  
+In name:   
+  
+In description:   
+ - Chicken Madras @ *1849*  
+  
 **beef**  
 In name:   
  - Beef Stew @ *1849*  
@@ -100,7 +107,9 @@ In description:
 **chicken**  
 In name:   
  - Chicken Sausage Gumbo @ *1849*  
+ - Chicken Madras @ *1849*  
  - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
+ - Diced Chicken @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
