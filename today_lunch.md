@@ -1,6 +1,6 @@
 # 2026-11-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-01 06:43:08  
+Updated at: 2026-11-01 12:44:41  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-01)  
 **beef**  
 In name:   
@@ -19,6 +19,7 @@ In name:
 **chicken**  
 In name:   
  - Chicken Chili @ *Great Greens*  
+ - Halal Chicken Sausage Link @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Spicy Crispy Chicken Sandwich @ *Fired Up*  
  - Fajita Chicken @ *Que Rico*  
@@ -29,12 +30,16 @@ In description:
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-11-01)  
 **Tuna**  
 In name:   
+ - Tuna @ *Great Greens*  
  - Tuna Salad @ *Delicious*  
   
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
+  
+In description:   
+ - Italian Meat Sauce @ *Global Kitchen*  
   
 **pork**  
 In name:   
@@ -43,7 +48,6 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken Chili @ *Great Greens*  
  - Sausage Links Chicken (halal) (AYCTE) @ *1849*  
  - Grilled Chicken Sandwich @ *Fired Up*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
@@ -57,6 +61,7 @@ In name:
   
 **Tuna**  
 In name:   
+ - Tuna @ *Great Greens*  
  - Lemon Pepper Tuna Salad @ *Delicious*  
   
 **beef**  
@@ -72,6 +77,7 @@ In description:
 **pork**  
 In name:   
  - Baked Pork Ham @ *1849*  
+ - Pork Carnita @ *Gordon Que Rico*  
  - Biscuits & Pork Gravy @ *Eggcetera*  
  - Pork Chorizo Patty @ *Eggcetera*  
  - Italian Pork Sausage @ *Buona Cucina*  
@@ -82,7 +88,6 @@ In description:
 **chicken**  
 In name:   
  - Plant-Based Chicken Etouffee @ *1849*  
- - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera*  
  - Chicken Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
