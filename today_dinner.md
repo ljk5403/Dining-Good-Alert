@@ -1,20 +1,10 @@
 # 2026-11-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-01 17:22:44  
+Updated at: 2026-11-01 22:37:50  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-01)  
-**Pakoras**  
-In name:   
- - Appetizer -  Pakoras Vegetable (Veg) @ *Global Kitchen*  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Tikka Masala Chicken @ *Global Kitchen*  
- - Appetizer -  Pakoras Vegetable (Veg) @ *Global Kitchen*  
-  
 **beef**  
 In name:   
+ - Mediterranean Beef @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -32,17 +22,13 @@ In name:
  - Chicken Chili @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
- - Tikka Masala Chicken @ *Global Kitchen*  
+ - Mediterranean Chicken @ *Global Kitchen*  
  - Fajita Chicken @ *Que Rico*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-11-01)  
-**steak**  
-In name:   
- - Brazilian Flank Steak @ *1849*  
-  
 **Cod**  
 In name:   
  - Caribbean Cod @ *1849*  
@@ -64,7 +50,6 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Brazilian Flank Steak @ *1849*  
  - Fired Up Blended Burger @ *Fired Up*  
  - Italian Meat Sauce @ *Global Kitchen*  
   
@@ -80,10 +65,6 @@ In name:
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-11-01)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-11-01)  
-**Tandoori Chicken**  
-In name:   
- - Tandoori Chicken @ *1849*  
-  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
@@ -91,7 +72,7 @@ In name:
   
 **beef**  
 In name:   
- - Beef Taco Meat @ *Gordon Que Rico*  
+ - Beef Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
@@ -100,17 +81,17 @@ In description:
   
 **pork**  
 In name:   
- - Pork Chop (1) @ *1849*  
+ - Pork Carnita @ *Gordon Que Rico*  
  - Italian Pork Sausage @ *Buona Cucina*  
   
 In description:   
+ - Chicken Sausage Gumbo @ *1849*  
  - Pizza Slice Sausage @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
- - Tandoori Chicken @ *1849*  
+ - Chicken Sausage Gumbo @ *1849*  
  - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
- - Chicken Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   

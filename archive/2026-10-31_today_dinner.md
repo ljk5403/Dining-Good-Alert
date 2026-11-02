@@ -1,13 +1,17 @@
 # 2026-11-01 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-01 12:44:43  
+Updated at: 2026-11-01 17:22:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-01)  
+**Pakoras**  
+In name:   
+ - Appetizer -  Pakoras Vegetable (Veg) @ *Global Kitchen*  
+  
 **curry**  
 In name:   
- - Curry Cauliflower & Butternut Squash @ *Global Kitchen*  
   
 In description:   
  - Tikka Masala Chicken @ *Global Kitchen*  
+ - Appetizer -  Pakoras Vegetable (Veg) @ *Global Kitchen*  
   
 **beef**  
 In name:   
@@ -15,7 +19,6 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
- - Vegan Taco Filling @ *Que Rico*  
   
 **pork**  
 In name:   
@@ -25,7 +28,7 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken & Vegetables w/Dijon Vinaigrette @ *1849*  
+ - Blackened Chicken @ *1849*  
  - Chicken Chili @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
@@ -63,6 +66,7 @@ In name:
 In description:   
  - Brazilian Flank Steak @ *1849*  
  - Fired Up Blended Burger @ *Fired Up*  
+ - Italian Meat Sauce @ *Global Kitchen*  
   
 **pork**  
 In name:   
@@ -70,11 +74,16 @@ In name:
   
 **chicken**  
 In name:   
+ - Chicken Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Plant Based Chicken Strips @ *Global Kitchen*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-11-01)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-11-01)  
+**Tandoori Chicken**  
+In name:   
+ - Tandoori Chicken @ *1849*  
+  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
@@ -99,6 +108,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Tandoori Chicken @ *1849*  
  - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
  - Chicken Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  

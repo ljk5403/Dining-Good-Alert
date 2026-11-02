@@ -1,6 +1,6 @@
 # 2026-11-01 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-01 17:22:41  
+Updated at: 2026-11-01 22:37:47  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-01)  
 **beef**  
 In name:   
@@ -72,6 +72,7 @@ In name:
 **beef**  
 In name:   
  - Beef Taco Meat @ *Gordon Que Rico*  
+ - Beef Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
@@ -95,7 +96,6 @@ In name:
  - Plant-Based Chicken Etouffee @ *1849*  
  - Tandoori Chicken @ *1849*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera*  
- - Chicken Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
