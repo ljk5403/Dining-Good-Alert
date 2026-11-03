@@ -1,6 +1,6 @@
 # 2026-11-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-02 16:59:15  
+Updated at: 2026-11-02 21:54:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-04)  
 **portabella**  
 In name:   
@@ -55,6 +55,10 @@ In name:
 **fish**  
 In name:   
  - Fried Catfish @ *1849*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
   
 **beef**  
 In name:   

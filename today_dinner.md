@@ -1,6 +1,6 @@
 # 2026-11-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-02 16:59:11  
+Updated at: 2026-11-02 21:53:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-02)  
 **Shrimp**  
 In name:   
@@ -15,13 +15,13 @@ In name:
  - Southwestern Corned Beef Hash @ *1849*  
  - Beef Hot Dog @ *Fired Up*  
  - Beef Taco Meat @ *Que Rico*  
- - Beef Barbacoa @ *Que Rico*  
   
 **pork**  
 In name:   
  - Cat - Biscuits and Pork Gravy @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
  - Pizza Slice BBQ Pulled Pork @ *Capital City Pizza*  
+ - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Pizza Slice Sausage @ *Capital City Pizza*  
@@ -40,7 +40,12 @@ In description:
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-11-02)  
 **portabella**  
 In name:   
+ - Bulgogi Portabella Mushrooms @ *1849*  
  - Portabella Mushroom Ravioli Plain @ *Global Kitchen*  
+  
+**Bulgogi**  
+In name:   
+ - Bulgogi Portabella Mushrooms @ *1849*  
   
 **Pakoras**  
 In name:   
@@ -52,7 +57,6 @@ In name:
   
 In description:   
  - Appetizer -  Pakoras Vegetable (Veg) @ *Create-A-Bowl*  
- - Vegetable Korma @ *Create-A-Bowl*  
   
 **beef**  
 In name:   
@@ -67,7 +71,6 @@ In name:
  - Butter Chicken @ *Create-A-Bowl*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
- - Orange Sweet & Spicy Chicken @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Crispy Chicken Sandwich @ *Fired Up*  
  - Giardiniera Chicken @ *Global Kitchen*  
@@ -86,6 +89,10 @@ In name:
 In name:   
  - Protein - Beef Thinly Sliced @ *Global Kitchen*  
   
+**pork**  
+In name:   
+ - Appetizer -  Fried Pork Potstickers @ *Global Kitchen*  
+  
 **chicken**  
 In name:   
  - Grilled Chicken Pesto Artichoke Sandwich @ *1849*  
@@ -101,14 +108,24 @@ In name:
 In description:   
  - Portobello Mushroom Stroganoff @ *1849*  
   
+**Shrimp**  
+In name:   
+ - Shrimp Creole @ *1849*  
+  
+**Cod**  
+In name:   
+ - Fried Cod Basket @ *1849*  
+  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
   
+**curry**  
+In name:   
+ - Lentil Chickpea Red Curry @ *1849*  
+  
 **beef**  
 In name:   
- - Beef Goulash w/Egg Noodles @ *1849*  
- - Beef Sirloin Tips @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
@@ -117,7 +134,6 @@ In description:
   
 **pork**  
 In name:   
- - Pork Loin Spicy Greenbush @ *1849*  
  - Pork Carnita @ *Gordon Que Rico*  
   
 **chicken**  

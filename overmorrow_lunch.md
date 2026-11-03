@@ -1,6 +1,6 @@
 # 2026-11-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-02 16:59:14  
+Updated at: 2026-11-02 21:54:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-04)  
 **Tuna**  
 In name:   
@@ -45,6 +45,10 @@ In description:
 **Salmon**  
 In name:   
  - Smoked Salmon @ *1849*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
   
 **curry**  
 In name:   

@@ -1,6 +1,6 @@
 # 2026-11-02 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-02 08:50:54  
+Updated at: 2026-11-02 16:59:11  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-02)  
 **Shrimp**  
 In name:   
@@ -15,6 +15,7 @@ In name:
  - Southwestern Corned Beef Hash @ *1849*  
  - Beef Hot Dog @ *Fired Up*  
  - Beef Taco Meat @ *Que Rico*  
+ - Beef Barbacoa @ *Que Rico*  
   
 **pork**  
 In name:   
@@ -41,15 +42,16 @@ In description:
 In name:   
  - Portabella Mushroom Ravioli Plain @ *Global Kitchen*  
   
-**Samosas**  
+**Pakoras**  
 In name:   
- - Samosas @ *Create-A-Bowl*  
+ - Appetizer -  Pakoras Vegetable (Veg) @ *Create-A-Bowl*  
   
 **curry**  
 In name:   
  - Curry Potatoes @ *Create-A-Bowl*  
   
 In description:   
+ - Appetizer -  Pakoras Vegetable (Veg) @ *Create-A-Bowl*  
  - Vegetable Korma @ *Create-A-Bowl*  
   
 **beef**  
@@ -59,7 +61,6 @@ In name:
 **pork**  
 In name:   
  - Appetizer -  Fried Pork Potstickers @ *1849*  
- - Italian Pork Sausage @ *Global Kitchen*  
   
 **chicken**  
 In name:   
@@ -69,6 +70,7 @@ In name:
  - Orange Sweet & Spicy Chicken @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Crispy Chicken Sandwich @ *Fired Up*  
+ - Giardiniera Chicken @ *Global Kitchen*  
  - Taco Chicken @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-11-02)  
@@ -99,9 +101,14 @@ In name:
 In description:   
  - Portobello Mushroom Stroganoff @ *1849*  
   
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
+  
 **beef**  
 In name:   
  - Beef Goulash w/Egg Noodles @ *1849*  
+ - Beef Sirloin Tips @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
@@ -116,7 +123,6 @@ In name:
 **chicken**  
 In name:   
  - King's Hawaiian Sand Chicken Spicy Crisp @ *King's Hawaiian*  
- - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
  - Spicy Lo Mein w/Chicken @ *Global Kitchen*  

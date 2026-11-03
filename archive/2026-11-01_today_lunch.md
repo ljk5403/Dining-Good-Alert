@@ -1,6 +1,6 @@
 # 2026-11-02 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-02 08:50:49  
+Updated at: 2026-11-02 16:59:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-02)  
 **Tuna**  
 In name:   
@@ -11,24 +11,20 @@ In name:
  - Beef Hot Dog @ *Fired Up*  
  - Beef Taco Meat @ *Que Rico*  
   
-In description:   
- - Kielbasa with Pierogis @ *1849*  
-  
 **pork**  
 In name:   
  - Italian Pork Sausage @ *Buona Cucina*  
  - Pizza Slice BBQ Pulled Pork @ *Capital City Pizza*  
+ - Pork Carnita @ *Que Rico*  
   
 In description:   
- - Kielbasa with Pierogis @ *1849*  
  - Pizza Slice Sausage @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
- - Crispy Chicken Sandwich @ *Fired Up*  
- - Chicken Teriyaki Stir Fry @ *Global Kitchen*  
+ - Teriyaki Chicken Fillet @ *Global Kitchen*  
  - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
  - Chicken Tinga @ *Que Rico*  
   
@@ -37,9 +33,9 @@ In name:
 In name:   
  - Portabella Mushroom Ravioli Plain @ *Global Kitchen*  
   
-**Samosas**  
+**Pakoras**  
 In name:   
- - Samosas @ *Create-A-Bowl*  
+ - Appetizer -  Pakoras Vegetable (Veg) @ *Create-A-Bowl*  
   
 **curry**  
 In name:   
@@ -47,6 +43,7 @@ In name:
   
 In description:   
  - Vegetable Korma @ *Create-A-Bowl*  
+ - Appetizer -  Pakoras Vegetable (Veg) @ *Create-A-Bowl*  
   
 **beef**  
 In name:   
@@ -55,7 +52,6 @@ In name:
   
 **pork**  
 In name:   
- - Italian Pork Sausage @ *Global Kitchen*  
   
 In description:   
  - Italian Sausage w/ Pepper & Onions @ *Fired Up*  
@@ -66,6 +62,7 @@ In name:
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Giardiniera Chicken @ *Global Kitchen*  
  - Taco Chicken @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-11-02)  
@@ -105,6 +102,10 @@ In description:
 In name:   
  - Baked Salmon with Mustard Sauce @ *1849*  
   
+**Tuna**  
+In name:   
+ - Tuna @ *Great Greens*  
+  
 **beef**  
 In name:   
  - Beef Sirloin Tips @ *1849*  
@@ -122,9 +123,9 @@ In name:
 In name:   
  - Chicken Sausage Patties @ *Gordon Eggcetera*  
  - King's Hawaiian Sand Chicken Spicy Crisp @ *King's Hawaiian*  
- - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Sesame Chicken @ *Global Kitchen*  
+ - Plant Based Sesame Chicken (AYCTE) (VN) @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Italian Chicken @ *Buona Cucina*  
  - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
