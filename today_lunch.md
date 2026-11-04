@@ -1,6 +1,6 @@
 # 2026-11-04 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-04 07:49:25  
+Updated at: 2026-11-04 14:39:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-04)  
 **Tuna**  
 In name:   
@@ -46,6 +46,10 @@ In description:
 In name:   
  - Smoked Salmon @ *1849*  
   
+**Cod**  
+In name:   
+ - Cod Nuggets @ *Que Rico*  
+  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -58,7 +62,6 @@ In name:
 In name:   
  - Beef Chili @ *Great Greens*  
  - Beef Barbacoa @ *Que Rico*  
- - Beef Taco Meat @ *Que Rico*  
   
 **chicken**  
 In name:   
@@ -72,12 +75,6 @@ In name:
 **lamb**  
 In name:   
  - Rogan Josh (Lamb) @ *Global Kitchen*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Thai BBQ Pork Ribs @ *1849*  
   
 **Pakoras**  
 In name:   
@@ -94,6 +91,7 @@ In name:
   
 In description:   
  - Appetizer -  Pakoras Vegetable (Veg) @ *Global Kitchen*  
+ - Aloo Bodi Tama (VN) @ *Global Kitchen*  
   
 **beef**  
 In name:   
@@ -102,7 +100,6 @@ In name:
 **pork**  
 In name:   
  - Roasted Pork Loin @ *1849*  
- - Thai BBQ Pork Ribs @ *1849*  
   
 **chicken**  
 In name:   

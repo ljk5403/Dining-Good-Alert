@@ -1,6 +1,6 @@
 # 2026-11-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-04 07:49:26  
+Updated at: 2026-11-04 14:39:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-04)  
 **portabella**  
 In name:   
@@ -113,7 +113,7 @@ In description:
   
 **chicken**  
 In name:   
- - Plant-Based Chicken Tenders @ *1849*  
+ - Plant-Based Chicken Nuggets @ *1849*  
  - Chicken Drumstick BBQ Glazed @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Diced Chicken @ *Great Greens*  

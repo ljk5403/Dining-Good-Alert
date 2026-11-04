@@ -1,12 +1,16 @@
 # 2026-11-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-04 07:49:28  
+Updated at: 2026-11-04 14:39:51  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-05)  
 **fish**  
 In name:   
   
 In description:   
  - Curried Pumpkin Soup @ *Great Greens*  
+  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad @ *Delicious*  
   
 **curry**  
 In name:   
@@ -38,7 +42,6 @@ In name:
  - Chicken Noodle Soup @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Mediterranean Chicken @ *Que Rico*  
   
 In description:   
