@@ -1,6 +1,6 @@
 # 2026-11-03 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-03 14:24:31  
+Updated at: 2026-11-03 19:02:42  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-03)  
 **portabella**  
 In name:   
@@ -47,17 +47,21 @@ In description:
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-11-03)  
+**Salmon**  
+In name:   
+ - Salmon @ *Great Greens*  
+  
 **beef**  
 In name:   
  - Mediterranean Beef @ *Create-A-Bowl*  
- - Beef French Dip Sandwich @ *1849*  
- - Beef Taco Meat @ *Que Rico*  
+ - Beef Barbacoa @ *Que Rico*  
   
 In description:   
  - Pork Bratwurst Sandwich @ *Fired Up*  
   
 **pork**  
 In name:   
+ - Baked Pork Ham @ *1849*  
  - Pork Bratwurst Sandwich @ *Fired Up*  
  - Pork Carnita @ *Que Rico*  
   
@@ -68,7 +72,7 @@ In name:
  - Chicken Dumpling Soup @ *Great Greens*  
  - Brazilian Chicken w/ Salsa Vinaigrette @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Italian Chicken @ *Global Kitchen*  
+ - Giardiniera Chicken @ *Global Kitchen*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-11-03)  
 **Salmon**  
@@ -178,7 +182,6 @@ In name:
 In name:   
  - Mediterranean Chicken @ *Global*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Dumpling Soup @ *Great Greens*  
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  

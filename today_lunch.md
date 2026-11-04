@@ -1,6 +1,6 @@
 # 2026-11-03 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-03 14:24:28  
+Updated at: 2026-11-03 19:02:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-03)  
 **portabella**  
 In name:   
@@ -53,6 +53,10 @@ In description:
 **broccoli rabe**  
 In name:   
  - Broccoli Rabe @ *1849*  
+  
+**Salmon**  
+In name:   
+ - Salmon @ *Great Greens*  
   
 **beef**  
 In name:   
@@ -180,7 +184,6 @@ In name:
  - Plant-Based Chicken Tenders @ *Carson's 1849:  Available Between 11am-2pm*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera:  Available Between 11am-2pm*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Dumpling Soup @ *Great Greens*  
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
