@@ -1,6 +1,6 @@
 # 2026-11-04 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-04 14:39:49  
+Updated at: 2026-11-04 19:18:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-04)  
 **portabella**  
 In name:   
@@ -50,11 +50,11 @@ In description:
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-11-04)  
 **catfish**  
 In name:   
- - Fried Catfish @ *1849*  
+ - Blackened Catfish @ *1849*  
   
 **fish**  
 In name:   
- - Fried Catfish @ *1849*  
+ - Blackened Catfish @ *1849*  
   
 **watermelon**  
 In name:   
@@ -63,12 +63,12 @@ In name:
 **beef**  
 In name:   
  - Beef Chili @ *Great Greens*  
+ - Italian Beef Sandwich @ *1849*  
  - Beef Barbacoa @ *Que Rico*  
- - Beef Taco Meat @ *Que Rico*  
   
 **pork**  
 In name:   
- - Baked Pork Ham @ *1849*  
+ - Pork Carnita @ *Que Rico*  
   
 **chicken**  
 In name:   
@@ -136,8 +136,8 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Stir Fry @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
- - Beef Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
@@ -147,6 +147,10 @@ In description:
 **pork**  
 In name:   
  - Pork Carnita @ *Gordon Que Rico*  
+ - Italian Pork Sausage @ *Buona Cucina*  
+  
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 **chicken**  
 In name:   
@@ -156,9 +160,9 @@ In name:
  - Sesame Chicken @ *Global Kitchen*  
  - Plant Based Sesame Chicken (AYCTE) (VN) @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Italian Chicken @ *Buona Cucina*  
   
 In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-11-04)  
@@ -183,6 +187,7 @@ In name:
 **beef**  
 In name:   
  - Beef Gravy @ *Global*  
+ - Beef Barbacoa @ *Global*  
  - Beef Chili @ *Great Greens*  
   
 In description:   
