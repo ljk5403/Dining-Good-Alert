@@ -1,6 +1,6 @@
 # 2026-11-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-05 08:01:36  
+Updated at: 2026-11-05 15:20:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-06)  
 **Chicken Drumstick Gochujang Glazed**  
 In name:   
