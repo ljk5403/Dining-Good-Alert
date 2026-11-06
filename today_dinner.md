@@ -1,6 +1,6 @@
 # 2026-11-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-06 07:46:53  
+Updated at: 2026-11-06 14:15:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-06)  
 **duck**  
 In name:   
@@ -132,6 +132,10 @@ In description:
  - Cracker Crusted Cod w/ Lemon Sauce @ *1849*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-11-06)  
+**Chicken Drummies**  
+In name:   
+ - Chicken Drummies @ *King's Hawaiian*  
+  
 **mahi mahi**  
 In name:   
  - Coconut Thai Curry Mahi Mahi @ *Global Kitchen*  
@@ -140,12 +144,6 @@ In name:
 In name:   
  - Blackened Catfish @ *1849*  
   
-**Cod**  
-In name:   
-  
-In description:   
- - King's Hawaiian Petite Fish Sandwich @ *King's Hawaiian*  
-  
 **clam**  
 In name:   
  - Clam Chowder @ *Great Greens*  
@@ -153,8 +151,6 @@ In name:
 **fish**  
 In name:   
  - Blackened Catfish @ *1849*  
- - King's Hawaiian Petite Fish Sandwich @ *King's Hawaiian*  
- - Vegan Fish Sandwich @ *King's Hawaiian*  
   
 In description:   
  - Coconut Thai Curry Mahi Mahi @ *Global Kitchen*  
@@ -179,6 +175,7 @@ In name:
   
 **chicken**  
 In name:   
+ - Chicken Drummies @ *King's Hawaiian*  
  - Diced Chicken @ *Great Greens*  
  - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
