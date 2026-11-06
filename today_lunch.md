@@ -1,6 +1,6 @@
 # 2026-11-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-05 15:19:56  
+Updated at: 2026-11-05 19:59:08  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-05)  
 **fish**  
 In name:   
@@ -164,7 +164,6 @@ In name:
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - King's Hawaiian Sand Chicken Crispy @ *King's Hawaiian*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Chili - Recipe Contest 2025 @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Italian Chicken @ *Buona Cucina*  
  - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
@@ -216,7 +215,6 @@ In name:
  - Chicken Korma @ *Carson's 1849:  Available Between 11am-2pm*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera:  Available Between 11am-2pm*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
  - Baked Corn Dog @ *Fired Up:  Available Between 11am-2pm*  

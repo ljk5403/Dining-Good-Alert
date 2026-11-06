@@ -1,6 +1,6 @@
 # 2026-11-05 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-05 15:20:04  
+Updated at: 2026-11-05 19:59:12  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-05)  
 **Tilapia**  
 In name:   
@@ -30,13 +30,14 @@ In name:
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
  - Grilled Blended Burger w/ Cheese @ *Fired Up*  
+ - Bratwurst @ *Fired Up*  
   
 **pork**  
 In name:   
  - Loaded Potato Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
   
 In description:   
- - Italian Sausage w/ Pepper & Onions @ *Fired Up*  
+ - Bratwurst @ *Fired Up*  
   
 **chicken**  
 In name:   
@@ -65,6 +66,10 @@ In name:
 **steak**  
 In name:   
  - Country Fried Steak @ *1849*  
+  
+**haddock**  
+In name:   
+ - Haddock Ginger Glazed (AYCTE) @ *1849*  
   
 **fish**  
 In name:   
@@ -134,10 +139,15 @@ In name:
  - Pulled Chicken Thigh @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-11-05)  
+**Cod**  
+In name:   
+ - Miso Cod @ *1849*  
+  
 **fish**  
 In name:   
   
 In description:   
+ - Miso Cod @ *1849*  
  - Curried Pumpkin Soup @ *Great Greens*  
   
 **curry**  
@@ -166,9 +176,8 @@ In name:
  - Plant-Based Chicken Nuggets @ *1849*  
  - King's Hawaiian Sand Chicken Crispy @ *King's Hawaiian*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Chili - Recipe Contest 2025 @ *Great Greens*  
  - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
- - Mediterranean Chicken @ *Global Kitchen*  
+ - Butter Chicken @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Italian Chicken @ *Buona Cucina*  
   
@@ -198,6 +207,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Italian Sausage @ *Global*  
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
   
 In description:   
@@ -209,7 +219,6 @@ In name:
  - Diced Chicken @ *Great Greens*  
  - Plant-Based Chicken Tenders @ *1849*  
  - Chicken Tenders Breaded @ *1849*  
- - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  

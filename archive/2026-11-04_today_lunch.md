@@ -1,6 +1,6 @@
 # 2026-11-05 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-05 08:01:30  
+Updated at: 2026-11-05 15:19:56  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-05)  
 **fish**  
 In name:   
@@ -60,10 +60,6 @@ In name:
  - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
  - Build Your Own Bulgogi Bar - Four Lakes @ *Create-A-Bowl*  
   
-**drumstick**  
-In name:   
- - Chicken Drumstick Teriyaki Glazed @ *1849*  
-  
 **haddock**  
 In name:   
  - Haddock Ginger Glazed (AYCTE) @ *1849*  
@@ -83,6 +79,7 @@ In description:
 **beef**  
 In name:   
  - Bulgogi Beef @ *Create-A-Bowl*  
+ - Beef French Dip Sandwich @ *1849*  
  - Beef @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
@@ -91,7 +88,6 @@ In name:
  - Bulgogi Chicken @ *Create-A-Bowl*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
- - Chicken Drumstick Teriyaki Glazed @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Tinga @ *Que Rico*  
   
@@ -168,7 +164,7 @@ In name:
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - King's Hawaiian Sand Chicken Crispy @ *King's Hawaiian*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Noodle Soup @ *Great Greens*  
+ - Chicken Chili - Recipe Contest 2025 @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Italian Chicken @ *Buona Cucina*  
  - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
@@ -205,12 +201,15 @@ In name:
   
 In description:   
  - Brazilian Flank Steak @ *Global Kitchen:  Available Between 11am-2pm*  
- - Mini Pastrami Reuben on Pretzel Bun @ *Fired Up:  Available Between 11am-2pm*  
+ - Baked Corn Dog @ *Fired Up:  Available Between 11am-2pm*  
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
   
 **pork**  
 In name:   
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
+  
+In description:   
+ - Baked Corn Dog @ *Fired Up:  Available Between 11am-2pm*  
   
 **chicken**  
 In name:   
@@ -220,6 +219,7 @@ In name:
  - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
+ - Baked Corn Dog @ *Fired Up:  Available Between 11am-2pm*  
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-11-05)  
