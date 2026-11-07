@@ -1,6 +1,6 @@
 # 2026-11-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-06 07:46:50  
+Updated at: 2026-11-06 14:15:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-06)  
 **Chicken Drumstick Gochujang Glazed**  
 In name:   
@@ -81,13 +81,12 @@ In name:
   
 In description:   
  - Sausage (Pork), Potatoes, & Peppers @ *1849*  
- - Pork Bratwurst Sandwich @ *Fired Up*  
+ - Cheeseburger @ *Fired Up*  
  - Vegan Taco Filling @ *Que Rico*  
   
 **pork**  
 In name:   
  - Sausage (Pork), Potatoes, & Peppers @ *1849*  
- - Pork Bratwurst Sandwich @ *Fired Up*  
   
 **chicken**  
 In name:   

@@ -1,6 +1,6 @@
 # 2026-11-06 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-06 14:15:07  
+Updated at: 2026-11-06 18:37:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-06)  
 **duck**  
 In name:   
@@ -42,6 +42,7 @@ In name:
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
+ - Grilled Blended Burger w/ Cheese @ *Fired Up*  
   
 **pork**  
 In name:   
@@ -57,7 +58,6 @@ In name:
  - Plant-Based Chicken Etouffee @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Diced Chicken Breast @ *Buona Cucina*  
- - Crispy Chicken Sandwich @ *Fired Up*  
  - Chicken Tinga @ *Que Rico*  
   
 In description:   
@@ -113,6 +113,7 @@ In name:
   
 **beef**  
 In name:   
+ - Beef Chili @ *Great Greens*  
  - Beef Gravy @ *Global Kitchen*  
   
 In description:   
@@ -132,10 +133,6 @@ In description:
  - Cracker Crusted Cod w/ Lemon Sauce @ *1849*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-11-06)  
-**Chicken Drummies**  
-In name:   
- - Chicken Drummies @ *King's Hawaiian*  
-  
 **mahi mahi**  
 In name:   
  - Coconut Thai Curry Mahi Mahi @ *Global Kitchen*  
@@ -144,6 +141,13 @@ In name:
 In name:   
  - Blackened Catfish @ *1849*  
   
+**Cod**  
+In name:   
+ - Basket Vegan Cod Battered @ *King's Hawaiian*  
+  
+In description:   
+ - King's Hawaiian Petite Fish Sandwich @ *King's Hawaiian*  
+  
 **clam**  
 In name:   
  - Clam Chowder @ *Great Greens*  
@@ -151,8 +155,10 @@ In name:
 **fish**  
 In name:   
  - Blackened Catfish @ *1849*  
+ - King's Hawaiian Petite Fish Sandwich @ *King's Hawaiian*  
   
 In description:   
+ - Basket Vegan Cod Battered @ *King's Hawaiian*  
  - Coconut Thai Curry Mahi Mahi @ *Global Kitchen*  
   
 **curry**  
@@ -175,9 +181,9 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken Drummies @ *King's Hawaiian*  
  - Diced Chicken @ *Great Greens*  
  - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
+ - Jamaican Jerk Chicken @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Italian Chicken @ *Buona Cucina*  
   

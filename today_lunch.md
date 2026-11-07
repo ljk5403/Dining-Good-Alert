@@ -1,6 +1,6 @@
 # 2026-11-06 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-06 14:15:03  
+Updated at: 2026-11-06 18:37:33  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-06)  
 **Chicken Drumstick Gochujang Glazed**  
 In name:   
@@ -106,6 +106,7 @@ In name:
 **beef**  
 In name:   
  - Beef Barbacoa @ *Global Kitchen*  
+ - Beef Chili @ *Great Greens*  
   
 In description:   
  - Grilled Flank Steak @ *1849*  
