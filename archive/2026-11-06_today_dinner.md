@@ -1,0 +1,196 @@
+# 2026-11-06 dinner  
+*THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
+Updated at: 2026-11-06 18:37:37  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-06)  
+**duck**  
+In name:   
+ - Duck Curry @ *Global Kitchen*  
+  
+**catfish**  
+In name:   
+ - Blackened Catfish @ *1849*  
+  
+**clam**  
+In name:   
+ - Clam Chowder @ *Great Greens*  
+  
+**fish**  
+In name:   
+ - Blackened Catfish @ *1849*  
+  
+In description:   
+ - Duck Curry @ *Global Kitchen*  
+  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad @ *Delicious*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
+  
+**curry**  
+In name:   
+ - Coconut Tofu w/Red Curry Sauce @ *Global Kitchen*  
+ - Duck Curry @ *Global Kitchen*  
+  
+**beef**  
+In name:   
+ - Beef Hot Dog @ *Fired Up*  
+ - Beef Fajita Meat @ *Que Rico*  
+ - Beef Taco Meat @ *Que Rico*  
+  
+In description:   
+ - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
+ - Grilled Blended Burger w/ Cheese @ *Fired Up*  
+  
+**pork**  
+In name:   
+ - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
+  
+In description:   
+ - Andouille Sausage @ *1849*  
+ - Chorizo Sauce @ *Buona Cucina*  
+ - Pizza Slice Sausage @ *Capital City Pizza*  
+  
+**chicken**  
+In name:   
+ - Plant-Based Chicken Etouffee @ *1849*  
+ - Diced Chicken @ *Great Greens*  
+ - Diced Chicken Breast @ *Buona Cucina*  
+ - Chicken Tinga @ *Que Rico*  
+  
+In description:   
+ - Chorizo Sauce @ *Buona Cucina*  
+ - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-11-06)  
+**portabella**  
+In name:   
+  
+In description:   
+ - Portobello Mushroom Stroganoff @ *1849*  
+  
+**mahi mahi**  
+In name:   
+ - Island Spiced Mahi Mahi @ *1849*  
+  
+**Shrimp**  
+In name:   
+ - Sauteed Shrimp @ *Que Rico*  
+  
+**clam**  
+In name:   
+ - Clam Chowder @ *Great Greens*  
+  
+**beef**  
+In name:   
+ - Beef Taco Meat @ *Que Rico*  
+  
+In description:   
+ - Vegan Taco Filling @ *Que Rico*  
+  
+**chicken**  
+In name:   
+ - Diced Chicken @ *Great Greens*  
+ - Blackened Chicken @ *1849*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Grilled Chicken Sandwich @ *Fired Up*  
+ - Italian Chicken @ *Global Kitchen*  
+  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-11-06)  
+**Cod**  
+In name:   
+ - Cracker Crusted Cod w/ Lemon Sauce @ *1849*  
+  
+**fish**  
+In name:   
+ - Vegan Fish Sandwich @ *1849*  
+  
+**BBQ Pork Sandwich**  
+In name:   
+ - Carolina BBQ Pork Sandwich @ *Global Kitchen*  
+  
+**beef**  
+In name:   
+ - Beef Chili @ *Great Greens*  
+ - Beef Gravy @ *Global Kitchen*  
+  
+In description:   
+ - Burnt Ends @ *Global Kitchen*  
+  
+**pork**  
+In name:   
+ - Carolina BBQ Pork Sandwich @ *Global Kitchen*  
+  
+**chicken**  
+In name:   
+ - Honey Lime Chicken Breast @ *1849*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Diced Chicken @ *Great Greens*  
+  
+In description:   
+ - Cracker Crusted Cod w/ Lemon Sauce @ *1849*  
+  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-11-06)  
+**mahi mahi**  
+In name:   
+ - Coconut Thai Curry Mahi Mahi @ *Global Kitchen*  
+  
+**catfish**  
+In name:   
+ - Blackened Catfish @ *1849*  
+  
+**Cod**  
+In name:   
+ - Basket Vegan Cod Battered @ *King's Hawaiian*  
+  
+In description:   
+ - King's Hawaiian Petite Fish Sandwich @ *King's Hawaiian*  
+  
+**clam**  
+In name:   
+ - Clam Chowder @ *Great Greens*  
+  
+**fish**  
+In name:   
+ - Blackened Catfish @ *1849*  
+ - King's Hawaiian Petite Fish Sandwich @ *King's Hawaiian*  
+  
+In description:   
+ - Basket Vegan Cod Battered @ *King's Hawaiian*  
+ - Coconut Thai Curry Mahi Mahi @ *Global Kitchen*  
+  
+**curry**  
+In name:   
+ - Lentil Chickpea Red Curry @ *Global Kitchen*  
+ - Coconut Thai Curry Mahi Mahi @ *Global Kitchen*  
+  
+**beef**  
+In name:   
+ - Beef Taco Meat @ *Gordon Que Rico*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+  
+In description:   
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
+  
+**pork**  
+In name:   
+ - French Market Pork Jambalaya @ *1849*  
+ - Pork Carnita @ *Gordon Que Rico*  
+  
+**chicken**  
+In name:   
+ - Diced Chicken @ *Great Greens*  
+ - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
+ - Jamaican Jerk Chicken @ *Global Kitchen*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Italian Chicken @ *Buona Cucina*  
+  
+In description:   
+ - French Market Pork Jambalaya @ *1849*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
+  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-11-06)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-11-06)  
+  
