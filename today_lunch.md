@@ -1,6 +1,6 @@
 # 2026-11-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-08 06:48:34  
+Updated at: 2026-11-08 12:39:44  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-08)  
 **steak**  
 In name:   
@@ -39,7 +39,6 @@ In name:
  - Chicken Ala King over Biscuit @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
- - Sausage Links Chicken (halal) (AYCTE) @ *Buona Cucina*  
  - Chicken Salad @ *Delicious*  
  - Fajita Chicken @ *Que Rico*  
   
@@ -91,6 +90,7 @@ In name:
  - Pork Carnita @ *Gordon Que Rico*  
  - Biscuits & Pork Gravy @ *Eggcetera*  
  - Chorizo Sausage Patties (Pork) @ *Eggcetera*  
+ - Pork Italian Sausage @ *Buona Cucina*  
   
 **chicken**  
 In name:   
@@ -99,7 +99,6 @@ In name:
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Italian Chicken @ *Buona Cucina*  
  - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
   
 In description:   
