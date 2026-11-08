@@ -1,6 +1,6 @@
 # 2026-11-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-07 17:26:19  
+Updated at: 2026-11-07 22:38:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-07)  
 **beef**  
 In name:   
@@ -98,13 +98,13 @@ In description:
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-11-07)  
-**steak**  
+**catfish**  
 In name:   
- - Country Fried Steak @ *1849*  
+ - Blackened Catfish @ *1849*  
   
-**Tilapia**  
+**fish**  
 In name:   
- - Tilapia Veracruz @ *1849*  
+ - Blackened Catfish @ *1849*  
   
 **watermelon**  
 In name:   
@@ -116,7 +116,6 @@ In name:
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
- - Country Fried Steak @ *1849*  
  - King's Hawaiian Sand Hot Dog @ *King's Hawaiian*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
@@ -129,6 +128,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Huli Huli Chicken @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  

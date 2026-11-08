@@ -1,6 +1,6 @@
 # 2026-11-07 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-07 12:28:22  
+Updated at: 2026-11-07 17:26:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-07)  
 **beef**  
 In name:   
@@ -27,6 +27,10 @@ In description:
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-11-07)  
+**Bulgogi**  
+In name:   
+ - Bulgogi Chicken @ *1849*  
+  
 **FiIipino Pork Spring Roll**  
 In name:   
  - FiIipino Pork Spring Roll @ *1849*  
@@ -47,6 +51,7 @@ In name:
 In name:   
  - FiIipino Pork Spring Roll @ *1849*  
  - Filipino Pork Sausage @ *1849*  
+ - Herb Crusted Pork Loin @ *1849*  
   
 In description:   
  - Kale, Sausage & Potato Soup @ *Great Greens*  
@@ -54,6 +59,7 @@ In description:
 **chicken**  
 In name:   
  - Diced Chicken @ *Great Greens*  
+ - Bulgogi Chicken @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Spicy Crispy Chicken Sandwich @ *Fired Up*  
  - Giardiniera Chicken @ *Global Kitchen*  
@@ -84,8 +90,8 @@ In description:
   
 **chicken**  
 In name:   
- - Diced Chicken @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Diced Chicken @ *Great Greens*  
  - Crispy Buffalo Chicken Sandwich @ *Global Kitchen*  
   
 In description:   
@@ -95,6 +101,10 @@ In description:
 **steak**  
 In name:   
  - Country Fried Steak @ *1849*  
+  
+**Tilapia**  
+In name:   
+ - Tilapia Veracruz @ *1849*  
   
 **watermelon**  
 In name:   
@@ -119,7 +129,6 @@ In description:
   
 **chicken**  
 In name:   
- - Huli Huli Chicken @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
