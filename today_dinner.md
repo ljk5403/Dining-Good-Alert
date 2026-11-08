@@ -1,6 +1,6 @@
 # 2026-11-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-08 12:39:47  
+Updated at: 2026-11-08 17:25:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-08)  
 **beef**  
 In name:   
@@ -51,6 +51,7 @@ In name:
 In name:   
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
+ - Baked BBQ Chicken Quarters @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Tenders Breaded @ *Fired Up*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
@@ -61,10 +62,13 @@ In description:
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-11-08)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-11-08)  
+**drumstick**  
+In name:   
+ - Chicken Drumstick Mango Habanero @ *1849*  
+  
 **curry**  
 In name:   
  - Mango Beef Curry @ *1849*  
- - Thai Veggie Meatballs w/ Green Curry @ *1849*  
   
 **beef**  
 In name:   
@@ -78,16 +82,16 @@ In description:
   
 **pork**  
 In name:   
- - Apricot Glazed Pork @ *1849*  
  - Pork Carnita @ *Gordon Que Rico*  
+ - Italian Pork Sausage @ *Buona Cucina*  
   
 **chicken**  
 In name:   
+ - Chicken Drumstick Mango Habanero @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
  - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Italian Chicken @ *Buona Cucina*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  

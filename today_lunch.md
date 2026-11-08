@@ -1,6 +1,6 @@
 # 2026-11-08 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-08 12:39:44  
+Updated at: 2026-11-08 17:25:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-08)  
 **steak**  
 In name:   
@@ -106,6 +106,10 @@ In description:
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-11-08)  
+**Tilapia**  
+In name:   
+ - Island Spiced Tilapia @ *Carson's 1849:  Available Between 11am-2pm*  
+  
 **beef**  
 In name:   
   
@@ -122,7 +126,6 @@ In description:
   
 **chicken**  
 In name:   
- - Jamaican Jerk Chicken @ *Carson's 1849:  Available Between 11am-2pm*  
  - Chicken Gravy @ *Carson's 1849:  Available Between 11am-2pm*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera:  Available Between 11am-2pm*  
  - Diced Chicken @ *Great Greens*  
