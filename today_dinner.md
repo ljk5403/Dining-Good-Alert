@@ -1,10 +1,9 @@
 # 2026-11-08 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-08 17:25:49  
+Updated at: 2026-11-08 22:48:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-08)  
 **beef**  
 In name:   
- - Corned Beef @ *1849*  
  - Chili & Cheese Beef Hot Dog @ *Fired Up*  
  - Beef Taco Meat @ *Que Rico*  
   
@@ -14,6 +13,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Adobo @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
  - Pork Carnita @ *Que Rico*  
   
@@ -43,28 +43,24 @@ In name:
 In description:   
  - Italian Meat Sauce @ *Global Kitchen*  
   
-**pork**  
-In name:   
- - Pork Carnita @ *Que Rico*  
-  
 **chicken**  
 In name:   
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
- - Baked BBQ Chicken Quarters @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Chicken Tenders Breaded @ *Fired Up*  
+ - Crispy Chicken Sandwich @ *Fired Up*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Plant Based Chicken Strips @ *Global Kitchen*  
+ - Chicken Tinga @ *Que Rico*  
   
 In description:   
  - Cracker Crusted Cod w/ Lemon Sauce @ *1849*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-11-08)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-11-08)  
-**drumstick**  
+**Tilapia**  
 In name:   
- - Chicken Drumstick Mango Habanero @ *1849*  
+ - Blackened Tilapia @ *1849*  
   
 **curry**  
 In name:   
@@ -87,7 +83,6 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken Drumstick Mango Habanero @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Chili @ *Great Greens*  
  - Pizza Slice BBQ Chicken & Bacon @ *Capital City Pizza*  
