@@ -1,6 +1,6 @@
 # 2026-11-09 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-09 09:17:32  
+Updated at: 2026-11-09 17:57:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-09)  
 **Tuna**  
 In name:   
@@ -120,9 +120,17 @@ In name:
  - Lemon Chicken Rice Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-11-09)  
-**Tuna**  
+**Shrimp**  
 In name:   
- - Tuna @ *Great Greens*  
+  
+In description:   
+ - Jambalaya Casserole @ *1849*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Beef Masaman Thai Curry @ *1849*  
   
 **watermelon**  
 In name:   
@@ -130,14 +138,12 @@ In name:
   
 **curry**  
 In name:   
+ - Beef Masaman Thai Curry @ *1849*  
  - Mixed Vegetable Curry @ *1849*  
-  
-In description:   
- - Tikka Masala Chicken @ *1849*  
   
 **beef**  
 In name:   
- - Beef Vindaloo @ *1849*  
+ - Beef Masaman Thai Curry @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
@@ -151,20 +157,22 @@ In name:
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
 In description:   
+ - Jambalaya Casserole @ *1849*  
  - Andouille Sausage @ *Buona Cucina*  
   
 **chicken**  
 In name:   
- - Tikka Masala Chicken @ *1849*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
- - King's Hawaiian Sand Chicken Spicy Crisp @ *King's Hawaiian*  
+ - King's Hawaiian Sand Chicken Crispy @ *King's Hawaiian*  
  - Chicken Tinga @ *Gordon Que Rico*  
+ - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Marrakech Chicken Breast @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
+ - Jambalaya Casserole @ *1849*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   

@@ -1,6 +1,6 @@
 # 2026-11-09 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-09 09:17:35  
+Updated at: 2026-11-09 17:57:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-09)  
 **Samosas**  
 In name:   
@@ -14,7 +14,7 @@ In name:
 **curry**  
 In name:   
  - Beef Bombay Curry @ *Global Kitchen*  
- - Curry Cauliflower & Butternut Squash @ *Global Kitchen*  
+ - Curry Squash @ *Global Kitchen*  
   
 **beef**  
 In name:   
@@ -25,11 +25,13 @@ In description:
  - Burnt Ends @ *1849*  
  - Italian Meat Sauce @ *Buona Cucina*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
+ - Blended Hamburger @ *Fired Up*  
   
 **pork**  
 In name:   
  - Italian Pork Sausage @ *Buona Cucina*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
+ - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Pizza Slice Sausage @ *Capital City Pizza*  
@@ -38,7 +40,6 @@ In description:
 In name:   
  - BBQ Chicken Wings Bone-In @ *1849*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
- - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
  - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
  - Chicken Tinga @ *Que Rico*  
   
@@ -46,6 +47,12 @@ In description:
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-11-09)  
+**fish**  
+In name:   
+  
+In description:   
+ - Beef Masaman Thai Curry @ *Create-A-Bowl*  
+  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
@@ -59,9 +66,13 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**Filipino Pork Sausage**  
+In name:   
+ - Filipino Pork Sausage @ *1849*  
+  
 **curry**  
 In name:   
- - Ground Chicken Curry @ *Create-A-Bowl*  
+ - Beef Masaman Thai Curry @ *Create-A-Bowl*  
  - Curry Potatoes @ *Create-A-Bowl*  
   
 In description:   
@@ -69,10 +80,12 @@ In description:
   
 **beef**  
 In name:   
+ - Beef Masaman Thai Curry @ *Create-A-Bowl*  
  - Beef Taco Meat @ *Que Rico*  
   
 **pork**  
 In name:   
+ - Filipino Pork Sausage @ *1849*  
  - Italian Pork Sausage @ *Global Kitchen*  
   
 In description:   
@@ -80,7 +93,6 @@ In description:
   
 **chicken**  
 In name:   
- - Ground Chicken Curry @ *Create-A-Bowl*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - General Tso's Chicken @ *1849*  
  - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
@@ -113,10 +125,6 @@ In name:
 In name:   
  - Shrimp Curry @ *Global Kitchen*  
   
-**Tuna**  
-In name:   
- - Tuna @ *Great Greens*  
-  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -139,6 +147,7 @@ In description:
   
 **pork**  
 In name:   
+ - French Market Pork Jambalaya @ *1849*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
 In description:   
@@ -147,12 +156,14 @@ In description:
 **chicken**  
 In name:   
  - Chicken Tinga @ *Gordon Que Rico*  
- - King's Hawaiian Sand Chicken Spicy Crisp @ *King's Hawaiian*  
+ - Crispy Chicken Sandwich @ *King's Hawaiian*  
+ - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
+ - French Market Pork Jambalaya @ *1849*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
