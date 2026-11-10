@@ -1,6 +1,6 @@
 # 2026-11-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-10 00:50:14  
+Updated at: 2026-11-10 14:42:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-10)  
 **Shrimp**  
 In name:   
@@ -166,7 +166,6 @@ In name:
 In name:   
  - Mediterranean Chicken @ *Global*  
  - Cajun Chicken Pasta @ *1849*  
- - Chicken Dumpling Soup @ *Great Greens*  
   
 In description:   
  - Pork Louisiana Creole @ *Fired Up*  
