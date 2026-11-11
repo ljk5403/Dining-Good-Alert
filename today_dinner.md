@@ -1,9 +1,10 @@
 # 2026-11-10 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-10 14:42:17  
+Updated at: 2026-11-10 19:00:31  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-10)  
 **Shrimp**  
 In name:   
+ - Blackened Shrimp @ *1849*  
  - Sweet & Sour Shrimp @ *Global Kitchen*  
   
 **Tuna**  
@@ -25,7 +26,6 @@ In description:
   
 **pork**  
 In name:   
- - Apricot Glazed Pork @ *1849*  
  - Baked Corn Dog (Pork) @ *Fired Up*  
   
 **chicken**  
@@ -45,7 +45,7 @@ In description:
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-11-10)  
 **drumstick**  
 In name:   
- - Smoked Chicken Drumstick @ *1849*  
+ - Chicken Drumstick BBQ Glazed @ *1849*  
   
 **Tilapia**  
 In name:   
@@ -69,9 +69,9 @@ In name:
 In name:   
  - Mediterranean Chicken @ *Create-A-Bowl*  
  - Chicken Dumpling Soup @ *Great Greens*  
- - Smoked Chicken Drumstick @ *1849*  
+ - Chicken Drumstick BBQ Glazed @ *1849*  
  - Chicken Tenders Breaded @ *Fired Up*  
- - Italian Chicken @ *Global Kitchen*  
+ - Giardiniera Chicken @ *Global Kitchen*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-11-10)  
 **Salmon**  
@@ -91,6 +91,10 @@ In name:
  - Chicken Dumpling Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-11-10)  
+**corn bake**  
+In name:   
+ - Sweet Corn Bake @ *1849*  
+  
 **mahi mahi**  
 In name:   
  - Island Spiced Mahi Mahi @ *1849*  
@@ -118,6 +122,7 @@ In description:
   
 **pork**  
 In name:   
+ - BBQ Pork Chop @ *1849*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
 In description:   

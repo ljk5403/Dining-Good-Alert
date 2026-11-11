@@ -1,6 +1,6 @@
 # 2026-11-10 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-10 00:50:09  
+Updated at: 2026-11-10 14:42:14  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-10)  
 **Tandoori Chicken**  
 In name:   
@@ -60,14 +60,9 @@ In name:
 **beef**  
 In name:   
  - Mediterranean Beef @ *Create-A-Bowl*  
+ - BBQ Beef Brisket Platter @ *1849*  
  - Beef Taco Meat @ *Que Rico*  
-  
-In description:   
- - Burnt Ends @ *1849*  
-  
-**pork**  
-In name:   
- - Pork Carnita @ *Que Rico*  
+ - Beef Barbacoa @ *Que Rico*  
   
 **chicken**  
 In name:   
@@ -195,7 +190,6 @@ In name:
  - Plant-Based Chicken Nuggets @ *Carson's 1849:  Available Between 11am-2pm*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera:  Available Between 11am-2pm*  
  - Chicken Tinga & Scallion Quesadilla @ *Fired Up:  Available Between 11am-2pm*  
- - Chicken Dumpling Soup @ *Great Greens*  
   
 In description:   
  - Meat Lovers w/ Bacon (Pork) Pizza Slice @ *Capital City Pizza*  
