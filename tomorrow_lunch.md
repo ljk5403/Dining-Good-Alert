@@ -1,6 +1,6 @@
 # 2026-11-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-11 07:37:32  
+Updated at: 2026-11-11 15:03:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-12)  
 **squid**  
 In name:   
@@ -111,7 +111,7 @@ In name:
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-11-12)  
 **Bibimbap Bowl**  
 In name:   
- - Bibimbap Bowl @ *Global Kitchen*  
+ - Bibimbap Bowl @ *Global Kitchen - Monsoon Kitchen Takeover*  
   
 **Salmon**  
 In name:   
@@ -121,7 +121,7 @@ In name:
 In name:   
   
 In description:   
- - Bibimbap Bowl @ *Global Kitchen*  
+ - Bibimbap Bowl @ *Global Kitchen - Monsoon Kitchen Takeover*  
  - Curried Pumpkin Soup @ *Great Greens*  
   
 **Tuna**  
@@ -139,12 +139,12 @@ In name:
   
 In description:   
  - Brazilian Pork Feijoada @ *1849*  
- - Bibimbap Bowl @ *Global Kitchen*  
+ - Bibimbap Bowl @ *Global Kitchen - Monsoon Kitchen Takeover*  
   
 **pork**  
 In name:   
  - Brazilian Pork Feijoada @ *1849*  
- - Appetizer -  Fried Pork Potstickers @ *Global Kitchen*  
+ - Appetizer -  Fried Pork Potstickers @ *Global Kitchen - Monsoon Kitchen Takeover*  
   
 **chicken**  
 In name:   

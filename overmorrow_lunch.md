@@ -1,6 +1,6 @@
 # 2026-11-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-11 07:37:36  
+Updated at: 2026-11-11 15:03:09  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-13)  
 **steak**  
 In name:   
@@ -112,8 +112,8 @@ In name:
 In name:   
  - Dan Dan w/ Chicken @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Plant-Based Chicken Tenders @ *Global Kitchen*  
- - Chicken Tenders Breaded @ *Global Kitchen*  
+ - Plant-Based Chicken Tenders @ *Global Kitchen - Monsoon Kitchen Takeover*  
+ - Chicken Tenders Breaded @ *Global Kitchen - Monsoon Kitchen Takeover*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-11-13)  
 **haddock**  

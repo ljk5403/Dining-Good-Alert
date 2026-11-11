@@ -1,17 +1,14 @@
 # 2026-11-11 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-11 07:37:28  
+Updated at: 2026-11-11 15:03:04  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-11)  
-**fish**  
-In name:   
-  
-In description:   
- - Filipino Barbecue Pork @ *1849*  
-  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
- - Lemon Pepper Tuna Salad @ *Delicious*  
+  
+**Filipino Pork Sausage**  
+In name:   
+ - Filipino Pork Sausage @ *1849*  
   
 **beef**  
 In name:   
@@ -21,11 +18,11 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Pepperoni & Mushrooms Pizza @ *Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  
 In name:   
- - Filipino Barbecue Pork @ *1849*  
+ - Filipino Pork Sausage @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
   
 In description:   
@@ -38,7 +35,7 @@ In name:
  - Fajita Chicken @ *Que Rico*  
   
 In description:   
- - Pepperoni & Mushrooms Pizza @ *Capital City Pizza*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-11-11)  
 **broccoli rabe**  
@@ -48,7 +45,6 @@ In name:
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
- - Tuna Salad @ *Delicious*  
   
 **watermelon**  
 In name:   
@@ -64,6 +60,7 @@ In name:
 **chicken**  
 In name:   
  - Maple Cider Chicken @ *1849*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Wings Boneless Plain @ *Global Kitchen*  
  - Plant-Based Chicken Nuggets @ *Global Kitchen*  
   
@@ -78,7 +75,7 @@ In name:
   
 **curry**  
 In name:   
- - Curry Potatoes @ *Global Kitchen*  
+ - Curry Potatoes @ *Global Kitchen - Monsoon Kitchen Takeover*  
   
 **beef**  
 In name:   
@@ -86,7 +83,7 @@ In name:
   
 **chicken**  
 In name:   
- - Butter Chicken @ *Global Kitchen*  
+ - Butter Chicken @ *Global Kitchen - Monsoon Kitchen Takeover*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-11-11)  
 **Chicken Drummies**  
