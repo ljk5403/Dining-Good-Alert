@@ -1,6 +1,6 @@
 # 2026-11-11 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-11 07:37:30  
+Updated at: 2026-11-11 15:03:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-11)  
 **Beef Alicha**  
 In name:   
@@ -17,7 +17,6 @@ In name:
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
- - Lemon Pepper Tuna Salad @ *Delicious*  
   
 **curry**  
 In name:   
@@ -55,7 +54,6 @@ In description:
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
- - Tuna Salad @ *Delicious*  
   
 **watermelon**  
 In name:   
@@ -70,6 +68,7 @@ In name:
   
 **chicken**  
 In name:   
+ - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Wings Boneless Plain @ *Global Kitchen*  
  - Plant-Based Chicken Nuggets @ *Global Kitchen*  
   
