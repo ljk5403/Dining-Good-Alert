@@ -1,6 +1,6 @@
 # 2026-11-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-12 08:40:48  
+Updated at: 2026-11-12 15:43:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-12)  
 **squid**  
 In name:   
@@ -78,7 +78,6 @@ In description:
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
- - Tuna Salad @ *Delicious*  
   
 **curry**  
 In name:   
@@ -105,7 +104,8 @@ In description:
 **chicken**  
 In name:   
  - Bulgogi Chicken @ *Create-A-Bowl*  
- - Chicken Noodle Soup @ *Great Greens*  
+ - Chicken Dumpling Soup @ *Great Greens*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Tinga @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-11-12)  
@@ -200,7 +200,6 @@ In name:
  - Chicken Tinga @ *Gordon Que Rico*  
  - Chicken Noodle Soup @ *Great Greens*  
  - Tikka Masala Chicken @ *Global Kitchen*  
- - Chicken Shawarma Sandwich @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
   

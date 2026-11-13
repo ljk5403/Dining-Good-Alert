@@ -1,6 +1,6 @@
 # 2026-11-12 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-12 15:43:49  
+Updated at: 2026-11-12 20:23:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-12)  
 **squid**  
 In name:   
@@ -99,14 +99,17 @@ In name:
  - Pork Loin Spicy Greenbush @ *1849*  
   
 In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Andouille Sausage @ *Global Kitchen*  
   
 **chicken**  
 In name:   
  - Bulgogi Chicken @ *Create-A-Bowl*  
- - Chicken Dumpling Soup @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Tinga @ *Que Rico*  
+  
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-11-12)  
 **Bibimbap Bowl**  
@@ -148,7 +151,7 @@ In name:
   
 **chicken**  
 In name:   
- - Chicken Noodle Soup @ *Great Greens*  
+ - Chicken Dumpling Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-11-12)  
 **Shrimp**  
@@ -249,7 +252,6 @@ In name:
 In name:   
  - Chicken Vindaloo @ *Carson's 1849:  Available Between 11am-2pm*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera:  Available Between 11am-2pm*  
- - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  

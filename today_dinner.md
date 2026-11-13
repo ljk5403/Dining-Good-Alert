@@ -1,6 +1,6 @@
 # 2026-11-12 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-12 15:43:52  
+Updated at: 2026-11-12 20:24:02  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-12)  
 **fish**  
 In name:   
@@ -14,29 +14,20 @@ In name:
   
 **curry**  
 In name:   
- - Currywurst (Pork) @ *Fired Up*  
- - Vegan Currywurst @ *Fired Up*  
   
 In description:   
  - Curried Pumpkin Soup @ *Great Greens*  
   
 **beef**  
 In name:   
- - Beef Mediterranean @ *Que Rico*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
- - Currywurst (Pork) @ *Fired Up*  
-  
-**pork**  
-In name:   
- - Currywurst (Pork) @ *Fired Up*  
   
 **chicken**  
 In name:   
  - Chicken Noodle Soup @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Mediterranean Chicken @ *Que Rico*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
@@ -55,14 +46,6 @@ In name:
  - Bulgogi Chicken @ *Create-A-Bowl*  
  - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
  - Build Your Own Bulgogi Bar - Four Lakes @ *Create-A-Bowl*  
-  
-**Chicken Drummies**  
-In name:   
- - Chicken Drummies @ *Fired Up*  
-  
-**steak**  
-In name:   
- - Grilled Flank Steak @ *1849*  
   
 **fish**  
 In name:   
@@ -85,29 +68,26 @@ In name:
  - Bulgogi Beef @ *Create-A-Bowl*  
  - Beef Taco Meat @ *Que Rico*  
   
-In description:   
- - Grilled Flank Steak @ *1849*  
-  
 **pork**  
 In name:   
+ - Spicy Greenbush Pork Loin @ *1849*  
   
 In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Andouille Sausage @ *Global Kitchen*  
   
 **chicken**  
 In name:   
  - Bulgogi Chicken @ *Create-A-Bowl*  
- - Chicken Dumpling Soup @ *Great Greens*  
  - Chicken Paprikash @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Chicken Drummies @ *Fired Up*  
+ - Boneless Plain Chicken Wings @ *Fired Up*  
  - Chicken Tinga @ *Que Rico*  
   
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-11-12)  
-**Poke Bar**  
-In name:   
- - Build Your Own Poke Bar (Liz) @ *Global Kitchen*  
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-11-12)  
 **fish**  
 In name:   
   
@@ -117,6 +97,7 @@ In description:
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
+ - Poke Tuna @ *Global Kitchen*  
   
 **curry**  
 In name:   
@@ -132,7 +113,8 @@ In name:
 In name:   
  - Chicken Baked  (1 piece) @ *1849*  
  - Chicken Gravy @ *1849*  
- - Chicken Noodle Soup @ *Great Greens*  
+ - Chicken Dumpling Soup @ *Great Greens*  
+ - Poke Chicken (Sauced) @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-11-12)  
 **Chicken Drumstick Gochujang Glazed**  
@@ -157,21 +139,22 @@ In name:
 In name:   
   
 In description:   
+ - Chicken Ala King over Biscuit @ *1849*  
  - Curried Pumpkin Soup @ *Great Greens*  
   
 **beef**  
 In name:   
- - Garlic Herb Roast Beef @ *1849*  
- - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
  - Vegan Taco Filling @ *Gordon Que Rico*  
+ - King's Hawaiian Sand Hot Dog @ *King's Hawaiian*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  
 In name:   
+ - Pork Carnita @ *Gordon Que Rico*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
  - Jerk Pork Chop @ *Global Kitchen*  
   
@@ -181,8 +164,8 @@ In description:
 **chicken**  
 In name:   
  - Chicken Drumstick Gochujang Glazed @ *1849*  
+ - Chicken Ala King over Biscuit @ *1849*  
  - Chicken Tinga @ *Gordon Que Rico*  
- - King's Hawaiian Sand Chicken Crispy @ *King's Hawaiian*  
  - Chicken Noodle Soup @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
@@ -232,7 +215,6 @@ In name:
  - Diced Chicken @ *Global*  
  - Plant-Based Chicken Tenders @ *1849*  
  - Chicken Tenders Breaded @ *1849*  
- - Chicken Noodle Soup @ *Great Greens*  
   
 In description:   
  - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
