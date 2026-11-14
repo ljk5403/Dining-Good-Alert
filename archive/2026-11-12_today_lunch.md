@@ -1,6 +1,6 @@
 # 2026-11-13 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-13 07:58:12  
+Updated at: 2026-11-13 14:49:05  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-13)  
 **steak**  
 In name:   
@@ -43,6 +43,7 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
+ - Italian Meat Sauce @ *Buona Cucina*  
  - Pizza Slice Philly Cheesesteak @ *Capital City Pizza*  
   
 **pork**  
@@ -88,16 +89,13 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
+ - Cheeseburger @ *Fired Up*  
  - Sliced Kielbasa (Pork) @ *Global Kitchen*  
  - Vegan Taco Filling @ *Que Rico*  
   
 **pork**  
 In name:   
  - Sliced Kielbasa (Pork) @ *Global Kitchen*  
-  
-**chicken**  
-In name:   
- - Grilled Chicken Sandwich @ *Fired Up*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-11-13)  
 **Tuna**  

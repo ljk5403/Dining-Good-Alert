@@ -1,10 +1,10 @@
 # 2026-11-13 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-13 14:49:09  
+Updated at: 2026-11-13 19:17:07  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-13)  
 **drumstick**  
 In name:   
- - Chicken Drumstick Teriyaki Glazed @ *1849*  
+ - Chicken Drumstick Szechuan Glazed @ *1849*  
   
 **steak**  
 In name:   
@@ -21,7 +21,6 @@ In name:
   
 **fish**  
 In name:   
- - Vegan Fish Sandwich @ *Fired Up*  
   
 In description:   
  - Eggplant Miso-Glazed @ *1849*  
@@ -35,8 +34,13 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**curry**  
+In name:   
+ - Beef Bombay Curry @ *Global Kitchen*  
+  
 **beef**  
 In name:   
+ - Beef Bombay Curry @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
@@ -52,19 +56,14 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Drumstick Teriyaki Glazed @ *1849*  
+ - Chicken Drumstick Szechuan Glazed @ *1849*  
  - Diced Chicken Breast @ *Buona Cucina*  
- - Dan Dan w/ Chicken @ *Global Kitchen*  
  - Fajita Chicken @ *Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-11-13)  
 **Salmon**  
 In name:   
  - Grilled Chipotle Salmon @ *1849*  
-  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp @ *Que Rico*  
   
 **clam**  
 In name:   
@@ -84,15 +83,18 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
+ - Sliced Kielbasa (Pork) @ *Global Kitchen*  
  - Vegan Taco Filling @ *Que Rico*  
   
 **pork**  
 In name:   
  - Smoked Pulled Pork Sandwich @ *1849*  
+ - Sliced Kielbasa (Pork) @ *Global Kitchen*  
   
 **chicken**  
 In name:   
  - Spicy Crispy Chicken Sandwich @ *Fired Up*  
+ - Chicken Tinga @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-11-13)  
 **Salmon**  
@@ -119,19 +121,12 @@ In name:
 In name:   
  - Oven Roasted Salmon @ *1849*  
   
-**Cod**  
-In name:   
-  
-In description:   
- - King's Hawaiian Petite Fish Sandwich @ *King's Hawaiian*  
-  
 **clam**  
 In name:   
  - Clam Chowder @ *Great Greens*  
   
 **fish**  
 In name:   
- - King's Hawaiian Petite Fish Sandwich @ *King's Hawaiian*  
  - Vegan Fish Sandwich @ *King's Hawaiian*  
   
 **Tuna**  
@@ -151,6 +146,7 @@ In name:
   
 In description:   
  - Vegan Taco Filling @ *Gordon Que Rico*  
+ - King's Hawaiian Sand Brat @ *King's Hawaiian*  
  - Gluten Free Pepperoni Pizza Quarter @ *Capital City Pizza*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
@@ -161,6 +157,7 @@ In name:
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
 In description:   
+ - King's Hawaiian Sand Brat @ *King's Hawaiian*  
  - Andouille Sausage @ *Buona Cucina*  
   
 **chicken**  
