@@ -1,6 +1,6 @@
 # 2026-11-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-14 06:59:48  
+Updated at: 2026-11-14 12:56:46  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-14)  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-11-14)  
 **Shrimp**  
@@ -64,6 +64,12 @@ In description:
 In name:   
  - Chicken Drumstick BBQ Glazed @ *1849*  
   
+**fish**  
+In name:   
+  
+In description:   
+ - Curried Pumpkin Soup @ *Great Greens*  
+  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
@@ -72,10 +78,17 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**curry**  
+In name:   
+  
+In description:   
+ - Curried Pumpkin Soup @ *Great Greens*  
+  
 **beef**  
 In name:   
  - Beef Tri Tip Carved w/ Chimichurri @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
+ - Beef Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
@@ -86,11 +99,9 @@ In description:
   
 **pork**  
 In name:   
- - Chorizo Sausage Patties (Pork) @ *Eggcetera*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
 In description:   
- - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Andouille Sausage @ *Buona Cucina*  
   
 **chicken**  
@@ -102,7 +113,6 @@ In name:
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
- - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
