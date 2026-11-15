@@ -1,11 +1,11 @@
 # 2026-11-14 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-14 17:38:40  
+Updated at: 2026-11-14 22:57:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-14)  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-11-14)  
 **Flauta**  
 In name:   
- - Chicken Flautas @ *1849*  
+ - Shredded Beef Flauta @ *1849*  
   
 **Tuna**  
 In name:   
@@ -18,28 +18,26 @@ In name:
   
 **beef**  
 In name:   
- - Empanada Beef Picadillo @ *1849*  
+ - Shredded Beef Flauta @ *1849*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
- - Pork Bratwurst Sandwich @ *Fired Up*  
+ - BBQ Brisket Sandwich @ *Fired Up*  
   
 **pork**  
 In name:   
- - Pork Bratwurst Sandwich @ *Fired Up*  
   
 In description:   
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 **chicken**  
 In name:   
- - Chicken Flautas @ *1849*  
- - Plant-Based Chicken Tenders @ *Fired Up*  
+ - Chicken Empanada with Green Chili @ *1849*  
  - Giardiniera Chicken @ *Global Kitchen*  
   
 In description:   
  - Kale, Sausage & Potato Soup @ *Great Greens*  
- - Empanada Beef Picadillo @ *1849*  
+ - Shredded Beef Flauta @ *1849*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-11-14)  
 **Tuna**  
@@ -91,8 +89,6 @@ In description:
   
 **beef**  
 In name:   
- - Beef Taco Meat @ *Gordon Que Rico*  
- - Beef Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
@@ -103,7 +99,8 @@ In description:
   
 **pork**  
 In name:   
- - Herb Crusted Pork Loin @ *1849*  
+ - BBQ Pork Spare Ribs @ *1849*  
+ - Pork Carnita @ *Gordon Que Rico*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
 In description:   

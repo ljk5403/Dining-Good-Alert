@@ -1,6 +1,6 @@
 # 2026-11-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-14 17:38:37  
+Updated at: 2026-11-14 22:57:38  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-14)  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-11-14)  
 **Shrimp**  
@@ -88,7 +88,6 @@ In description:
 In name:   
  - Beef Tri Tip Carved w/ Chimichurri @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
- - Beef Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   

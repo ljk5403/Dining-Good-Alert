@@ -1,6 +1,6 @@
 # 2026-11-14 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-14 12:56:46  
+Updated at: 2026-11-14 17:38:37  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-14)  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-11-14)  
 **Shrimp**  
@@ -60,9 +60,9 @@ In description:
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-11-14)  
-**drumstick**  
+**haddock**  
 In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
+ - Haddock Ginger Glazed (AYCTE) @ *1849*  
   
 **fish**  
 In name:   
@@ -106,7 +106,6 @@ In description:
   
 **chicken**  
 In name:   
- - Chicken Drumstick BBQ Glazed @ *1849*  
  - Chicken Tinga @ *Gordon Que Rico*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
