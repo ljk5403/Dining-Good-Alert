@@ -1,6 +1,6 @@
 # 2026-11-15 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-15 07:28:19  
+Updated at: 2026-11-15 13:32:36  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-15)  
 **Tuna**  
 In name:   
@@ -89,10 +89,8 @@ In name:
  - Jerk Pork Chop @ *1849*  
  - Biscuits & Pork Gravy @ *Eggcetera*  
  - Chorizo Sausage Patties (Pork) @ *Eggcetera*  
+ - Italian Pork Sausage @ *Buona Cucina*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
-  
-In description:   
- - Andouille Sausage @ *Buona Cucina*  
   
 **chicken**  
 In name:   
