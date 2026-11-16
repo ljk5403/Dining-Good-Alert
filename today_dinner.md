@@ -1,6 +1,6 @@
 # 2026-11-16 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-16 08:53:12  
+Updated at: 2026-11-16 17:38:39  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-16)  
 **steak**  
 In name:   
@@ -24,7 +24,6 @@ In name:
   
 In description:   
  - Sausage (Pork), Potatoes, & Peppers @ *1849*  
- - Italian Meat Sauce @ *Buona Cucina*  
  - Chicago-Style Hot Dog @ *Fired Up*  
   
 **pork**  
@@ -44,6 +43,10 @@ In name:
  - Chicken Tinga @ *Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-11-16)  
+**Bulgogi**  
+In name:   
+ - Bulgogi Beef @ *1849*  
+  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
@@ -67,6 +70,7 @@ In description:
 **beef**  
 In name:   
  - Beef Broccoli Stir Fry @ *1849*  
+ - Bulgogi Beef @ *1849*  
  - Barbacoa Beef w/Mango Habanero Sandwich @ *Fired Up*  
  - Beef Taco Meat @ *Que Rico*  
   
@@ -129,6 +133,7 @@ In description:
   
 **pork**  
 In name:   
+ - Island Spiced Pork w/ Pineapple Salsa @ *1849*  
  - Gluten Free Pork Sausage Pizza Quarter @ *Capital City Pizza*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
   

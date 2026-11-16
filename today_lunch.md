@@ -1,7 +1,11 @@
 # 2026-11-16 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-16 08:53:11  
+Updated at: 2026-11-16 17:38:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-16)  
+**drumstick**  
+In name:   
+ - Chicken Drumstick Szechuan Glazed @ *1849*  
+  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
@@ -26,12 +30,17 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Drumstick Szechuan Glazed @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Noodles Sesame w/ Chicken @ *Global Kitchen*  
  - Chicken Tinga @ *Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-11-16)  
+**Bulgogi**  
+In name:   
+ - Bulgogi Chicken @ *1849*  
+  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
@@ -68,7 +77,7 @@ In name:
  - Chicken Vindaloo @ *Create-A-Bowl*  
  - Diced Chicken @ *Great Greens*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
- - Chicken Stir-Fry Coconut Lime @ *1849*  
+ - Bulgogi Chicken @ *1849*  
  - Taco Chicken @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-11-16)  
@@ -137,12 +146,14 @@ In name:
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
+ - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  
 In name:   
  - Pork Loin Spicy Greenbush @ *1849*  
  - Vietnamese Pork @ *Global Kitchen*  
+ - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
   
 **chicken**  
@@ -157,6 +168,7 @@ In name:
  - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
+ - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-11-16)  
