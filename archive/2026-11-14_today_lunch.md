@@ -1,6 +1,6 @@
 # 2026-11-15 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-15 13:32:36  
+Updated at: 2026-11-15 17:45:01  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-15)  
 **Tuna**  
 In name:   
@@ -48,14 +48,17 @@ In name:
  - Corn Dog (Pork) @ *Fired Up*  
  - Pork Carnita @ *Que Rico*  
   
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
+  
 **chicken**  
 In name:   
- - Chicken Chili @ *Great Greens*  
  - Sausage Links Chicken (halal) (AYCTE) @ *1849*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
  - Plant Based Chicken Strips @ *Global Kitchen*  
   
 In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Corn Dog (Pork) @ *Fired Up*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-11-15)  
@@ -132,7 +135,7 @@ In description:
   
 **chicken**  
 In name:   
- - Maple Cider Chicken @ *Carson's 1849:  Available Between 11am-2pm*  
+ - Breaded Chicken Tenders @ *Carson's 1849:  Available Between 11am-2pm*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera:  Available Between 11am-2pm*  
  - Chicken Chili @ *Great Greens*  
   

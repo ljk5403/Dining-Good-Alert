@@ -1,14 +1,10 @@
 # 2026-11-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-15 13:32:38  
+Updated at: 2026-11-15 17:45:06  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-15)  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
-  
-**BBQ Pork Sandwich**  
-In name:   
- - BBQ Pork Sandwich @ *Fired Up*  
   
 **beef**  
 In name:   
@@ -16,12 +12,13 @@ In name:
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Pork Bratwurst Sandwich @ *Fired Up*  
  - Vegan Taco Filling @ *Que Rico*  
   
 **pork**  
 In name:   
  - Italian Pork Sausage @ *Buona Cucina*  
- - BBQ Pork Sandwich @ *Fired Up*  
+ - Pork Bratwurst Sandwich @ *Fired Up*  
  - Pork Carnita @ *Que Rico*  
   
 In description:   
@@ -62,13 +59,22 @@ In description:
 In name:   
  - Pork Carnita @ *Que Rico*  
   
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
+  
 **chicken**  
 In name:   
- - Chicken Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
+  
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-11-15)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-11-15)  
+**haddock**  
+In name:   
+ - Haddock Ginger Glazed (AYCTE) @ *1849*  
+  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
@@ -79,14 +85,13 @@ In name:
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
- - Vegan Taco Filling @ *Gordon Que Rico*  
  - King's Hawaiian Sand Blended Burger @ *King's Hawaiian*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  
 In name:   
- - Boneless Baked Pork Ham @ *1849*  
+ - Jerk Pork Chop @ *1849*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
 In description:   

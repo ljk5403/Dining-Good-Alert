@@ -1,7 +1,11 @@
 # 2026-11-15 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-15 17:45:06  
+Updated at: 2026-11-15 22:55:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-15)  
+**Shrimp**  
+In name:   
+ - Fried Popcorn Shrimp @ *1849*  
+  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
@@ -21,9 +25,6 @@ In name:
  - Pork Bratwurst Sandwich @ *Fired Up*  
  - Pork Carnita @ *Que Rico*  
   
-In description:   
- - Gnocchi w/ Sausage & Roast Veg @ *1849*  
-  
 **chicken**  
 In name:   
  - Plant-Based Chicken Tenders @ *1849*  
@@ -31,20 +32,20 @@ In name:
  - Chicken Chili @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Teriyaki Stir Fry @ *Global Kitchen*  
- - Fajita Chicken @ *Que Rico*  
+ - Chicken Tinga @ *Que Rico*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-11-15)  
-**Salmon**  
-In name:   
- - Tuscan Butter Salmon @ *1849*  
-  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
  - Tuna Salad @ *Delicious*  
+  
+**curry**  
+In name:   
+ - Thai Chick'n w/ Green Curry Sauce (CN) @ *1849*  
   
 **beef**  
 In name:   
@@ -64,6 +65,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Chicken Paprikash @ *1849*  
  - Beef & Chicken Meatballs @ *Global Kitchen*  
   
 In description:   
@@ -71,10 +73,6 @@ In description:
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-11-15)  
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-11-15)  
-**haddock**  
-In name:   
- - Haddock Ginger Glazed (AYCTE) @ *1849*  
-  
 **Tuna**  
 In name:   
  - Tuna @ *Great Greens*  
@@ -82,6 +80,7 @@ In name:
 **beef**  
 In name:   
  - Beef Taco Meat @ *Gordon Que Rico*  
+ - Beef Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
@@ -91,6 +90,7 @@ In description:
   
 **pork**  
 In name:   
+ - Baked Pork Ham @ *1849*  
  - Jerk Pork Chop @ *1849*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
