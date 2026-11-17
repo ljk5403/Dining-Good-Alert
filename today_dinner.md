@@ -1,6 +1,6 @@
 # 2026-11-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-17 00:43:05  
+Updated at: 2026-11-17 16:01:15  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-17)  
 **portabella**  
 In name:   
@@ -53,6 +53,10 @@ In name:
 In name:   
  - Shrimp Po-Boy Sandwich @ *Fired Up*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **beef**  
 In name:   
  - Mediterranean Beef @ *Create-A-Bowl*  
@@ -68,7 +72,6 @@ In name:
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
  - Smoked Chicken Quarters - 2 pc @ *1849*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Italian Chicken @ *Global Kitchen*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-11-17)  
@@ -100,14 +103,17 @@ In name:
 In description:   
  - Tempeh w/Red Peppers & Broc Rabe @ *1849*  
   
-**Tuna**  
+**drumstick**  
 In name:   
- - Tuna Salad @ *Delicious*  
+  
+In description:   
+ - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
   
 **beef**  
 In name:   
  - Texas BBQ Sliced Beef Brisket @ *1849*  
  - Beef Gravy @ *1849*  
+ - Beef Sirloin Tips @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef Harissa w/Couscous @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
@@ -126,11 +132,13 @@ In description:
 **chicken**  
 In name:   
  - Baked BBQ Chicken @ *1849*  
+ - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Dumpling Soup @ *Great Greens*  
+ - Chicken Noodle Soup @ *Great Greens*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Diced Chicken Breast @ *Buona Cucina*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  

@@ -1,6 +1,6 @@
 # 2026-11-17 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-17 00:43:01  
+Updated at: 2026-11-17 16:01:10  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-17)  
 **portabella**  
 In name:   
@@ -54,6 +54,10 @@ In description:
 In name:   
  - Smoked Leg of Lamb @ *1849*  
   
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
 **beef**  
 In name:   
  - Mediterranean Beef @ *Create-A-Bowl*  
@@ -69,7 +73,6 @@ In name:
  - Mediterranean Chicken @ *Create-A-Bowl*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
  - Grilled Chicken Sandwich @ *Fired Up*  
  - Italian Chicken @ *Global Kitchen*  
   
@@ -118,10 +121,6 @@ In name:
 In description:   
  - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
   
-**Tuna**  
-In name:   
- - Tuna Salad @ *Delicious*  
-  
 **curry**  
 In name:   
  - Curry Cauliflower & Butternut Squash @ *Global Kitchen*  
@@ -149,11 +148,12 @@ In name:
  - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Diced Chicken @ *Great Greens*  
- - Chicken Dumpling Soup @ *Great Greens*  
+ - Chicken Noodle Soup @ *Great Greens*  
  - Tandoori Chicken @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Diced Chicken Breast @ *Buona Cucina*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
   
 In description:   
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
