@@ -1,11 +1,7 @@
 # 2026-11-17 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-17 16:01:15  
+Updated at: 2026-11-17 22:00:53  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-17)  
-**portabella**  
-In name:   
- - Portabella Mushroom Ravioli Plain @ *Buona Cucina*  
-  
 **Salmon**  
 In name:   
  - Ginger Glazed Salmon @ *1849*  
@@ -62,10 +58,6 @@ In name:
  - Mediterranean Beef @ *Create-A-Bowl*  
  - Beef Taco Meat @ *Que Rico*  
   
-**pork**  
-In name:   
- - Pork Carnita @ *Que Rico*  
-  
 **chicken**  
 In name:   
  - Mediterranean Chicken @ *Create-A-Bowl*  
@@ -73,6 +65,7 @@ In name:
  - Chicken Dumpling Soup @ *Great Greens*  
  - Smoked Chicken Quarters - 2 pc @ *1849*  
  - Italian Chicken @ *Global Kitchen*  
+ - Taco Chicken @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-11-17)  
 **Salmon**  
@@ -89,12 +82,15 @@ In name:
  - Beef Broccoli Stir Fry @ *1849*  
   
 In description:   
- - Smoked Brisket & Tots Pizza Slice @ *Global Kitchen*  
+ - Thin Crust Tavern Style Pepperoni Pizza @ *Global Kitchen*  
   
 **chicken**  
 In name:   
  - Diced Chicken @ *Great Greens*  
  - Chicken Dumpling Soup @ *Great Greens*  
+  
+In description:   
+ - Thin Crust Tavern Style Pepperoni Pizza @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-11-17)  
 **broccoli rabe**  
@@ -102,6 +98,10 @@ In name:
   
 In description:   
  - Tempeh w/Red Peppers & Broc Rabe @ *1849*  
+  
+**Tandoori Chicken**  
+In name:   
+ - Tandoori Chicken @ *1849*  
   
 **drumstick**  
 In name:   
@@ -112,9 +112,8 @@ In description:
 **beef**  
 In name:   
  - Texas BBQ Sliced Beef Brisket @ *1849*  
+ - Beef Harissa @ *1849*  
  - Beef Gravy @ *1849*  
- - Beef Sirloin Tips @ *1849*  
- - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef Harissa w/Couscous @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
@@ -124,6 +123,7 @@ In description:
   
 **pork**  
 In name:   
+ - Pork Carnita @ *Gordon Que Rico*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
   
 In description:   
@@ -131,7 +131,7 @@ In description:
   
 **chicken**  
 In name:   
- - Baked BBQ Chicken @ *1849*  
+ - Tandoori Chicken @ *1849*  
  - Irish Roast Chicken w/Leeks and Bacon @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
