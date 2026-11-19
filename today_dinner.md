@@ -1,6 +1,6 @@
 # 2026-11-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-19 09:17:43  
+Updated at: 2026-11-19 16:54:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-19)  
 **Chicken Drummies**  
 In name:   
@@ -61,18 +61,6 @@ In name:
 In name:   
  - Jamaican Jerk Chicken Drumstick @ *1849*  
   
-**fish**  
-In name:   
-  
-In description:   
- - Curried Pumpkin Soup @ *Great Greens*  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Curried Pumpkin Soup @ *Great Greens*  
-  
 **beef**  
 In name:   
  - Bulgogi Beef @ *Create-A-Bowl*  
@@ -81,6 +69,7 @@ In name:
   
 In description:   
  - Grilled Blended Burger w/ Cheese @ *Fired Up*  
+ - Italian Meat Sauce @ *Global Kitchen*  
   
 **pork**  
 In name:   
@@ -126,6 +115,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Plant-Based Chicken & Gravy @ *1849*  
  - Chicken Pot Pie w/Biscuit @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
@@ -180,32 +170,12 @@ In description:
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-11-19)  
-**Shrimp**  
-In name:   
- - Shrimp Etouffee @ *Fired Up*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Curried Pumpkin Soup @ *Great Greens*  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Curried Pumpkin Soup @ *Great Greens*  
-  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Global*  
   
-In description:   
- - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
-  
 **pork**  
 In name:   
- - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
   
 In description:   
  - Andouille Sausage @ *Global*  
@@ -214,12 +184,7 @@ In description:
 In name:   
  - Beef & Chicken Meatballs @ *Global*  
  - Diced Chicken @ *Great Greens*  
- - Plant-Based Chicken Tenders @ *1849*  
- - Chicken Tenders Breaded @ *1849*  
  - Chicken Noodle Soup @ *Great Greens*  
-  
-In description:   
- - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-11-19)  
   
