@@ -1,16 +1,12 @@
 # 2026-11-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-18 16:50:45  
+Updated at: 2026-11-18 21:58:23  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-18)  
 **fish**  
 In name:   
   
 In description:   
  - Thai BBQ Pork Ribs @ *Global Kitchen*  
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
   
 **curry**  
 In name:   
@@ -19,6 +15,7 @@ In name:
 **beef**  
 In name:   
  - Beef Chili @ *Great Greens*  
+ - Beef Tortellini @ *Buona Cucina*  
  - Beef Fajita Meat @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
   
@@ -54,7 +51,6 @@ In name:
 In name:   
  - Beef Chili @ *Great Greens*  
  - Beef Stroganoff Creamy @ *1849*  
- - Beef Barbacoa @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
   
 **chicken**  
@@ -62,6 +58,7 @@ In name:
  - Diced Chicken @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Wings Boneless Plain @ *Global Kitchen*  
+ - Taco Chicken @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-11-18)  
 **watermelon**  
@@ -114,7 +111,6 @@ In name:
 **beef**  
 In name:   
  - Beef Taco Meat @ *Gordon Que Rico*  
- - Beef Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
@@ -130,6 +126,7 @@ In name:
  - Chicken Drummies @ *1849*  
  - Chicken Tinga @ *Gordon Que Rico*  
  - Diced Chicken @ *Great Greens*  
+ - Chicken Chili @ *Great Greens*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Diced Chicken Breast @ *Buona Cucina*  

@@ -1,6 +1,6 @@
 # 2026-11-18 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-18 16:50:42  
+Updated at: 2026-11-18 21:58:21  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-18)  
 **FiIipino Pork Spring Roll**  
 In name:   
@@ -9,10 +9,6 @@ In name:
 **broccoli rabe**  
 In name:   
  - Broccoli Rabe @ *1849*  
-  
-**Tuna**  
-In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
   
 **Filipino Pork Sausage**  
 In name:   
@@ -126,7 +122,6 @@ In name:
 **beef**  
 In name:   
  - Beef Taco Meat @ *Gordon Que Rico*  
- - Beef Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
@@ -145,6 +140,7 @@ In name:
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Chicken Tinga @ *Gordon Que Rico*  
  - Diced Chicken @ *Great Greens*  
+ - Chicken Chili @ *Great Greens*  
  - General Tso's Chicken @ *Global Kitchen*  
  - Battered Chicken Thighs @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  

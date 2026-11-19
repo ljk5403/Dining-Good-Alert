@@ -1,6 +1,6 @@
 # 2026-11-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-18 16:50:54  
+Updated at: 2026-11-18 21:58:28  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-20)  
 **Flauta**  
 In name:   
@@ -60,6 +60,10 @@ In name:
  - Fajita Chicken @ *Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-11-20)  
+**steak**  
+In name:   
+ - Philly Cheesesteak Sandwich @ *Fired Up*  
+  
 **Salmon**  
 In name:   
  - Masala Spiced Salmon @ *1849*  
@@ -89,6 +93,7 @@ In name:
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
+ - Philly Cheesesteak Sandwich @ *Fired Up*  
  - Vegan Taco Filling @ *Que Rico*  
   
 **chicken**  

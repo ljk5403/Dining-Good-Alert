@@ -1,6 +1,6 @@
 # 2026-11-18 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-18 09:09:18  
+Updated at: 2026-11-18 16:50:45  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-18)  
 **fish**  
 In name:   
@@ -64,10 +64,6 @@ In name:
  - Chicken Wings Boneless Plain @ *Global Kitchen*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-11-18)  
-**Samosas**  
-In name:   
- - Samosas @ *Global Kitchen*  
-  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -91,6 +87,10 @@ In name:
  - Chicken Madras @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-11-18)  
+**Vanilla Coconut Milk Yogurt**  
+In name:   
+ - Vanilla Coconut Milk Yogurt @ *Great Greens*  
+  
 **Chicken Drummies**  
 In name:   
  - Chicken Drummies @ *1849*  
@@ -128,6 +128,7 @@ In name:
 **chicken**  
 In name:   
  - Chicken Drummies @ *1849*  
+ - Chicken Tinga @ *Gordon Que Rico*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
