@@ -1,6 +1,6 @@
 # 2026-11-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-19 16:54:32  
+Updated at: 2026-11-19 21:52:03  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-20)  
 **Flauta**  
 In name:   
@@ -56,7 +56,6 @@ In name:
  - Diced Chicken @ *Great Greens*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Buona Cucina*  
  - Chicken and Cheese Flauta @ *Fired Up*  
- - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
  - Fajita Chicken @ *Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-11-20)  

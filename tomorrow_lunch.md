@@ -1,6 +1,6 @@
 # 2026-11-20 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-19 16:54:28  
+Updated at: 2026-11-19 21:52:00  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-20)  
 **Poke Bar**  
 In name:   
@@ -66,7 +66,6 @@ In description:
 **chicken**  
 In name:   
  - Diced Chicken @ *Great Greens*  
- - Plant Based Protein Chicken Taco Filling @ *Que Rico*  
  - Fajita Chicken @ *Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-11-20)  

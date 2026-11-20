@@ -1,6 +1,6 @@
 # 2026-11-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-19 16:54:19  
+Updated at: 2026-11-19 21:51:55  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-19)  
 **fish**  
 In name:   
@@ -76,7 +76,6 @@ In name:
  - Diced Chicken @ *Great Greens*  
  - Chicken Noodle Soup @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Plant-Based Chicken Tenders @ *Fired Up*  
  - Chicken Tinga @ *Que Rico*  
   
 In description:   

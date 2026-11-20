@@ -1,6 +1,6 @@
 # 2026-11-19 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-19 16:54:23  
+Updated at: 2026-11-19 21:51:58  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-19)  
 **Chicken Drummies**  
 In name:   
@@ -91,9 +91,9 @@ In name:
 In name:   
  - Country Fried Steak @ *1849*  
   
-**Salmon**  
+**Tilapia**  
 In name:   
- - Ginger Glazed Salmon @ *Global Kitchen*  
+ - Tilapia Chipotle Lime Crusted @ *Global Kitchen*  
   
 **fish**  
 In name:   
@@ -170,12 +170,20 @@ In description:
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-11-19)  
+**Shrimp**  
+In name:   
+ - Shrimp Etouffee @ *Fired Up*  
+  
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Global*  
   
+In description:   
+ - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
+  
 **pork**  
 In name:   
+ - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
   
 In description:   
  - Andouille Sausage @ *Global*  
@@ -184,7 +192,11 @@ In description:
 In name:   
  - Beef & Chicken Meatballs @ *Global*  
  - Diced Chicken @ *Great Greens*  
+ - Chicken Tenders Breaded @ *1849*  
  - Chicken Noodle Soup @ *Great Greens*  
+  
+In description:   
+ - Thin Crust Tavern Style Pepperoni Pizza @ *Capital City Pizza*  
   
 ## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-11-19)  
   

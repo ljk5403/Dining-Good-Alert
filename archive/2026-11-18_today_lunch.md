@@ -1,6 +1,6 @@
 # 2026-11-19 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-19 09:17:41  
+Updated at: 2026-11-19 16:54:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-19)  
 **fish**  
 In name:   
@@ -55,23 +55,12 @@ In name:
  - Bulgogi Portabella Mushrooms @ *Create-A-Bowl*  
  - Build Your Own Bulgogi Bar - Four Lakes @ *Create-A-Bowl*  
   
-**fish**  
-In name:   
-  
-In description:   
- - Curried Pumpkin Soup @ *Great Greens*  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Curried Pumpkin Soup @ *Great Greens*  
-  
 **beef**  
 In name:   
  - Bulgogi Beef @ *Create-A-Bowl*  
  - Beef Tri Tip Carved w/ Chimichurri @ *1849*  
  - Roast Beef & Cheddar Panini on Rye @ *Fired Up*  
+ - Beef Ragu Sauce @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 **pork**  
@@ -153,6 +142,7 @@ In name:
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
+ - Gluten Free Pepperoni Pizza Quarter @ *Capital City Pizza*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  
@@ -174,6 +164,7 @@ In name:
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
   
 In description:   
+ - Gluten Free Pepperoni Pizza Quarter @ *Capital City Pizza*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-11-19)  
@@ -184,18 +175,6 @@ In name:
 **Cod**  
 In name:   
  - Greek Cod @ *Global Kitchen:  Available Between 11am-2pm*  
-  
-**fish**  
-In name:   
-  
-In description:   
- - Curried Pumpkin Soup @ *Great Greens*  
-  
-**curry**  
-In name:   
-  
-In description:   
- - Curried Pumpkin Soup @ *Great Greens*  
   
 **beef**  
 In name:   
