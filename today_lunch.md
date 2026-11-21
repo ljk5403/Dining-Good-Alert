@@ -1,12 +1,8 @@
 # 2026-11-21 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-21 08:16:01  
+Updated at: 2026-11-21 14:45:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-21)  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-11-21)  
-**steak**  
-In name:   
- - Ham Steak @ *1849*  
-  
 **Tuna**  
 In name:   
  - Grilled Tuna & Swiss Melt @ *Fired Up*  
@@ -19,16 +15,13 @@ In name:
 In name:   
  - Beef Taco Meat @ *Que Rico*  
   
-In description:   
- - Grilled Blended Burger w/ Cheese @ *Fired Up*  
-  
 **pork**  
 In name:   
   
 In description:   
  - Kale, Sausage & Potato Soup @ *Great Greens*  
  - Lumberjack Bowl w/Bacon @ *1849*  
- - Ham Steak @ *1849*  
+ - Canadian Bacon @ *1849*  
   
 **chicken**  
 In name:   
@@ -81,6 +74,10 @@ In description:
 **steak**  
 In name:   
  - Country Fried Steak @ *1849*  
+  
+**Cod**  
+In name:   
+ - Lemon Pepper Cod Fillet @ *1849*  
   
 **Tuna**  
 In name:   
