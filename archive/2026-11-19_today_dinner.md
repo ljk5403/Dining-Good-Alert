@@ -1,11 +1,7 @@
 # 2026-11-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-20 08:56:05  
+Updated at: 2026-11-20 16:07:57  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-20)  
-**Flauta**  
-In name:   
- - Chicken and Cheese Flauta @ *Fired Up*  
-  
 **Poke Bar**  
 In name:   
  - Poke Bar @ *Global Kitchen*  
@@ -14,6 +10,10 @@ In name:
 **drumstick**  
 In name:   
  - Chicken Drumstick Mango Habanero @ *1849*  
+  
+**steak**  
+In name:   
+ - Philly Cheesesteak Sandwich @ *Fired Up*  
   
 **Shrimp**  
 In name:   
@@ -28,7 +28,6 @@ In name:
   
 **Tuna**  
 In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
  - Poke Tuna (*Raw) @ *Global Kitchen*  
   
 In description:   
@@ -41,6 +40,9 @@ In name:
 **beef**  
 In name:   
  - Beef Taco Meat @ *Que Rico*  
+  
+In description:   
+ - Philly Cheesesteak Sandwich @ *Fired Up*  
   
 **pork**  
 In name:   
@@ -55,7 +57,6 @@ In name:
  - Chicken Drumstick Mango Habanero @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Buona Cucina*  
- - Chicken and Cheese Flauta @ *Fired Up*  
  - Fajita Chicken @ *Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-11-20)  
@@ -75,10 +76,6 @@ In name:
 In name:   
  - Clam Chowder @ *Great Greens*  
   
-**Tuna**  
-In name:   
- - Grilled Tuna & Swiss Melt @ *Fired Up*  
-  
 **curry**  
 In name:   
  - Vegan Curry Stew @ *1849*  
@@ -88,12 +85,15 @@ In description:
   
 **beef**  
 In name:   
- - Beef @ *Global Kitchen*  
  - Beef Taco Meat @ *Que Rico*  
   
 In description:   
  - Philly Cheesesteak Sandwich @ *Fired Up*  
  - Vegan Taco Filling @ *Que Rico*  
+  
+**pork**  
+In name:   
+ - Pork Italian Sausage @ *Global Kitchen*  
   
 **chicken**  
 In name:   

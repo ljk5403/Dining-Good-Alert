@@ -1,6 +1,6 @@
 # 2026-11-20 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-20 16:07:57  
+Updated at: 2026-11-20 21:45:17  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-20)  
 **Poke Bar**  
 In name:   
@@ -48,6 +48,7 @@ In description:
 In name:   
  - Pork Sausage Patty @ *Buona Cucina*  
  - Hawaiian (Pork) Pizza Slice @ *Capital City Pizza*  
+ - Pork Carnita @ *Que Rico*  
   
 In description:   
  - Pizza Slice Sausage @ *Capital City Pizza*  
@@ -67,10 +68,6 @@ In name:
 **Salmon**  
 In name:   
  - Masala Spiced Salmon @ *1849*  
-  
-**Shrimp**  
-In name:   
- - Sauteed Shrimp @ *Que Rico*  
   
 **clam**  
 In name:   
@@ -93,13 +90,14 @@ In description:
   
 **pork**  
 In name:   
- - Pork Italian Sausage @ *Global Kitchen*  
+ - Andouille Pork Sausage @ *Global Kitchen*  
   
 **chicken**  
 In name:   
  - Diced Chicken @ *Great Greens*  
  - Tikka Masala Chicken @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Taco Chicken @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-11-20)  
 **Cod**  
@@ -169,6 +167,7 @@ In name:
 **chicken**  
 In name:   
  - Chicken Breast Con Pollo @ *1849*  
+ - Chicken Baked  (1 piece) @ *1849*  
  - Diced Chicken @ *Great Greens*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
  - Butter Chicken @ *Global Kitchen*  
