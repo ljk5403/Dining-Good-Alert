@@ -1,0 +1,127 @@
+# 2026-11-21 lunch  
+*THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
+Updated at: 2026-11-21 18:57:45  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-21)  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-11-21)  
+**Tuna**  
+In name:   
+ - Grilled Tuna & Swiss Melt @ *Fired Up*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
+  
+**beef**  
+In name:   
+ - Beef Taco Meat @ *Que Rico*  
+  
+**pork**  
+In name:   
+  
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
+ - Lumberjack Bowl w/Bacon @ *1849*  
+ - Canadian Bacon @ *1849*  
+  
+**chicken**  
+In name:   
+ - Diced Chicken @ *Great Greens*  
+ - Sausage Links Chicken (halal) (AYCTE) @ *1849*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Italian Chicken @ *Global Kitchen*  
+  
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
+  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-11-21)  
+**Chicken Drummies**  
+In name:   
+ - Chicken Drummies @ *Global Kitchen - Monsoon Kitchen Takeover*  
+  
+**steak**  
+In name:   
+ - Philly Cheesesteak Sandwich @ *Global Kitchen - Monsoon Kitchen Takeover*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
+  
+**beef**  
+In name:   
+  
+In description:   
+ - Philly Cheesesteak Sandwich @ *Global Kitchen - Monsoon Kitchen Takeover*  
+  
+**pork**  
+In name:   
+ - Pork Sausage Links @ *Global Kitchen - Monsoon Kitchen Takeover*  
+  
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
+  
+**chicken**  
+In name:   
+ - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Chicken Drummies @ *Global Kitchen - Monsoon Kitchen Takeover*  
+ - Chicken Gravy @ *Global Kitchen - Monsoon Kitchen Takeover*  
+ - Sausage Links Chicken (halal) (AYCTE) @ *Global Kitchen - Monsoon Kitchen Takeover*  
+ - Diced Chicken @ *Great Greens*  
+  
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
+  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-11-21)  
+**steak**  
+In name:   
+ - Country Fried Steak @ *1849*  
+  
+**Cod**  
+In name:   
+ - Lemon Pepper Cod Fillet @ *1849*  
+  
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
+**watermelon**  
+In name:   
+ - Watermelon Slices @ *Great Greens*  
+  
+**BBQ Pork Sandwich**  
+In name:   
+ - BBQ Pork Sandwich @ *1849*  
+  
+**beef**  
+In name:   
+ - Beef Taco Meat @ *Gordon Que Rico*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+  
+In description:   
+ - Country Fried Steak @ *1849*  
+ - King's Hawaiian Sand Hot Dog @ *King's Hawaiian*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
+  
+**pork**  
+In name:   
+ - BBQ Pork Sandwich @ *1849*  
+ - Chorizo Sausage Patties (Pork) @ *Eggcetera*  
+ - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
+  
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
+  
+**chicken**  
+In name:   
+ - Sausage Links Chicken (halal) (AYCTE) @ *Eggcetera*  
+ - Diced Chicken @ *Great Greens*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Diced Chicken Breast @ *Buona Cucina*  
+ - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
+  
+In description:   
+ - Kale, Sausage & Potato Soup @ *Great Greens*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
+  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-11-21)  
+## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-11-21)  
+  
