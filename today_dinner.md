@@ -1,6 +1,6 @@
 # 2026-11-21 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-21 14:46:00  
+Updated at: 2026-11-21 18:57:49  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-21)  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-11-21)  
 **watermelon**  
@@ -16,6 +16,7 @@ In name:
   
 In description:   
  - Kale, Sausage & Potato Soup @ *Great Greens*  
+ - Andouille Sausage @ *Global Kitchen*  
   
 **chicken**  
 In name:   
@@ -23,7 +24,6 @@ In name:
  - Spicy Lo Mein w/Chicken @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Spicy Crispy Chicken Sandwich @ *Fired Up*  
- - Italian Chicken @ *Global Kitchen*  
   
 In description:   
  - Kale, Sausage & Potato Soup @ *Great Greens*  
@@ -52,9 +52,9 @@ In description:
  - Kale, Sausage & Potato Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-11-21)  
-**Shrimp**  
+**Cod**  
 In name:   
- - Popcorn Shrimp Basket @ *1849*  
+ - Baked Lemon Butter Cod @ *1849*  
   
 **Tuna**  
 In name:   
@@ -77,6 +77,7 @@ In description:
 In name:   
  - Coffee Crusted Pork Loin @ *1849*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
+ - Italian Pork Sausage @ *Buona Cucina*  
   
 In description:   
  - Kale, Sausage & Potato Soup @ *Great Greens*  
@@ -86,7 +87,6 @@ In name:
  - Diced Chicken @ *Great Greens*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
- - Diced Chicken Breast @ *Buona Cucina*  
   
 In description:   
  - Kale, Sausage & Potato Soup @ *Great Greens*  
