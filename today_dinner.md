@@ -1,6 +1,6 @@
 # 2026-11-23 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-23 11:28:18  
+Updated at: 2026-11-23 21:50:22  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-23)  
 **drumstick**  
 In name:   
@@ -16,10 +16,6 @@ In description:
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
   
-**BBQ Pork Sandwich**  
-In name:   
- - BBQ Pork Sandwich @ *Fired Up*  
-  
 **beef**  
 In name:   
  - Beef Ravioli Plain @ *Buona Cucina*  
@@ -29,7 +25,6 @@ In name:
 In name:   
  - Cajun Rice w/ Pork & Black Eyed Peas @ *1849*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
- - BBQ Pork Sandwich @ *Fired Up*  
  - Pork Carnita @ *Que Rico*  
   
 In description:   
@@ -41,6 +36,7 @@ In name:
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Diced Chicken Breast @ *Buona Cucina*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
+ - Spicy Crispy Chicken Sandwich @ *Fired Up*  
  - Chicken Tinga @ *Que Rico*  
   
 In description:   
@@ -73,7 +69,6 @@ In name:
   
 In description:   
  - Tikka Masala Chicken @ *Create-A-Bowl*  
- - Tofu & Vegetable Tikka Masala @ *Create-A-Bowl*  
   
 **beef**  
 In name:   
@@ -82,14 +77,14 @@ In name:
 **pork**  
 In name:   
  - Italian Pork Sausage @ *Global Kitchen*  
+ - Pork Carnita @ *Que Rico*  
   
 **chicken**  
 In name:   
  - Tikka Masala Chicken @ *Create-A-Bowl*  
  - Lemon Chicken Rice Soup @ *Great Greens*  
- - Sweet & Sour Chicken @ *1849*  
+ - Sweet & Spicy Orange Chicken @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
- - Taco Chicken @ *Que Rico*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-11-23)  
 **Salmon**  
@@ -134,6 +129,10 @@ In name:
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
+  
+**curry**  
+In name:   
+ - Thai Veggie Meatballs w/ Green Curry @ *1849*  
   
 **beef**  
 In name:   

@@ -1,6 +1,6 @@
 # 2026-11-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-23 11:28:24  
+Updated at: 2026-11-23 21:50:27  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-25)  
 **fish**  
 In name:   
@@ -90,6 +90,7 @@ In description:
   
 **beef**  
 In name:   
+ - Texas BBQ Sliced Beef Brisket @ *1849*  
  - Beef Harissa @ *1849*  
  - Beef Chili @ *Great Greens*  
   

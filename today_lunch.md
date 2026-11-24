@@ -1,6 +1,6 @@
 # 2026-11-23 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-23 11:28:14  
+Updated at: 2026-11-23 21:50:19  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-23)  
 **Tuna**  
 In name:   
@@ -8,12 +8,12 @@ In name:
   
 **beef**  
 In name:   
- - Beef Goulash @ *1849*  
  - Beef Ravioli Plain @ *Buona Cucina*  
  - Beef Taco Meat @ *Que Rico*  
   
 **pork**  
 In name:   
+ - BBQ Pork Chop @ *1849*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
  - Pork Carnita @ *Que Rico*  
   
@@ -26,7 +26,7 @@ In name:
  - Lemon Chicken Rice Soup @ *Great Greens*  
  - Diced Chicken Breast @ *Buona Cucina*  
  - Chicken Bacon (Pork) Ranch Pizza @ *Capital City Pizza*  
- - Orange Sweet & Spicy Chicken @ *Global Kitchen*  
+ - Sweet & Sour Chicken @ *Global Kitchen*  
  - Chicken Tinga @ *Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-11-23)  
@@ -52,11 +52,11 @@ In description:
   
 **beef**  
 In name:   
- - Beef Bean & Carrot Stir Fry @ *1849*  
  - Beef Taco Meat @ *Que Rico*  
   
 **pork**  
 In name:   
+ - Apple Cider Braised Pork @ *1849*  
  - Italian Pork Sausage @ *Global Kitchen*  
   
 In description:   
@@ -69,6 +69,9 @@ In name:
  - Lemon Pepper Chicken Salad @ *Delicious*  
  - Chicken Tenders Breaded @ *Fired Up*  
  - Taco Chicken @ *Que Rico*  
+  
+In description:   
+ - Apple Cider Braised Pork @ *1849*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-11-23)  
 **Tuna**  
@@ -120,7 +123,6 @@ In description:
   
 **pork**  
 In name:   
- - Apricot Glazed Pork @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
   
 In description:   

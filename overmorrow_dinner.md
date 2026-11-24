@@ -1,6 +1,6 @@
 # 2026-11-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-23 11:28:25  
+Updated at: 2026-11-23 21:50:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-25)  
 **Tuna**  
 In name:   
@@ -47,6 +47,16 @@ In name:
  - Chicken Wings Boneless Plain @ *Global Kitchen*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-11-25)  
+**Chicken Drummies**  
+In name:   
+ - Chicken Drummies @ *1849*  
+  
+**fish**  
+In name:   
+  
+In description:   
+ - Beef Masaman Thai Curry @ *Global Kitchen*  
+  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
@@ -61,6 +71,7 @@ In name:
   
 **curry**  
 In name:   
+ - Beef Masaman Thai Curry @ *Global Kitchen*  
  - Curry Potatoes @ *Global Kitchen*  
   
 In description:   
@@ -70,10 +81,12 @@ In description:
 **beef**  
 In name:   
  - Beef Chili @ *Great Greens*  
+ - Beef Masaman Thai Curry @ *Global Kitchen*  
   
 **chicken**  
 In name:   
  - Greek Chicken @ *1849*  
+ - Chicken Drummies @ *1849*  
  - Butter Chicken @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-11-25)  
