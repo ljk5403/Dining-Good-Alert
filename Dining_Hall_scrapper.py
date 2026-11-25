@@ -12,7 +12,7 @@ import pprint
 
 zone = ZoneInfo("America/Chicago")
 
-dinning_hall_tuple = ('rhetas-market', 'four-lakes-market', 'lizs-market', 'gordon-avenue-market', 'carsons-market', 'lowell-market')
+dinning_hall_tuple = ('rhetas-market', 'four-lakes-market', 'lizs-market', 'gordon-avenue-market', 'carsons-market')
 #meals_tuple = ('breakfast', 'lunch', 'dinner')
 meals_tuple = ('lunch', 'dinner')
 
@@ -60,13 +60,9 @@ def get_menu_url_for_human_read(dinning_hall, meal, date):
 
 
 def get_menu_raw(target_url):
-    try:
-        r=requests.get(target_url)
-    except: #or more precisely: except requests.exceptions.RequestException as e:
-        print("Lost connection!")
-    else:
-        data = r.json()
-        return data
+    response = requests.get(target_url, timeout=(10, 30))
+    response.raise_for_status()
+    return response.json()
 
 def get_menu_dict(data, date : datetime):
     menu_dict = {}
@@ -155,11 +151,13 @@ def summary_generator(date : datetime = None, reldate : str =None):
         reldate="today"
     for meal in meals_tuple:
         filename = reldate + "_" + meal+".md"
+        summary = summary_of_good_meal(date, meal)
+        updated_at = datetime.now(zone)
         with open(filename, 'w') as f:
             print("# "+date.strftime('%Y-%m-%d') + " " + meal, file=f)
             print("*THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*", file=f)
-            print("Updated at: "+datetime.now(zone).strftime('%Y-%m-%d %H:%M:%S'), file=f)
-            summary = summary_of_good_meal(date, meal)
+            print(f'<time class="menu-updated" datetime="{updated_at.isoformat(timespec="seconds")}">'
+                  f'Updated at: {updated_at:%Y-%m-%d %H:%M:%S}</time>', file=f)
             for dhall, dishes in summary.items():
                 menu_link = get_menu_url_for_human_read(dhall, meal, date)
                 print("## ["+dhall+"]"+"("+menu_link+")", file=f)
@@ -186,9 +184,12 @@ def old_menu_archiver():
     for meal in meals_tuple:
         source_file = "today_" + meal + '.md'
         if os.path.exists(source_file):
-            yesterday = datetime.now(zone) - timedelta(days=1)
+            with open(source_file) as menu_file:
+                menu_date = datetime.strptime(menu_file.readline().split()[1], '%Y-%m-%d').date()
+            if menu_date >= datetime.now(zone).date():
+                continue
             destination_directory = 'archive'
-            new_file_name = yesterday.strftime('%Y-%m-%d') + "_" + source_file
+            new_file_name = menu_date.isoformat() + "_" + source_file
             destination_file_path = os.path.join(destination_directory, new_file_name)
             shutil.move(source_file, destination_file_path)
         else:
@@ -197,16 +198,17 @@ def old_menu_archiver():
 
 def github_autoUpdater():
     old_menu_archiver()
-    for _ in range (3):
+    for attempt in range(3):
         try:
-            summary_generator()
             now = datetime.now(zone)
+            summary_generator(now, "today")
             summary_generator(now + timedelta(days=1), "tomorrow")
-            summary_generator(now + timedelta(days=2), "overmorrow")           
-        except:
-            print("Error, will retry in 5 seconds...")
+            summary_generator(now + timedelta(days=2), "overmorrow")
+        except Exception as exc:
+            print(f"Attempt {attempt + 1}/3 failed: {exc!r}", flush=True)
+            if attempt == 2:
+                raise
             time.sleep(5)
-            continue
         else:
             break
 
