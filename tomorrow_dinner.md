@@ -1,6 +1,6 @@
 # 2026-11-26 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-<time class="menu-updated" datetime="2026-11-25T05:17:15-06:00">Updated at: 2026-11-25 05:17:15</time>  
+<time class="menu-updated" datetime="2026-11-25T14:29:41-06:00">Updated at: 2026-11-25 14:29:41</time>  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-26)  
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-11-26)  
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-11-26)  

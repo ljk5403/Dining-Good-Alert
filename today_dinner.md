@@ -1,6 +1,6 @@
 # 2026-11-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-<time class="menu-updated" datetime="2026-11-25T05:17:11-06:00">Updated at: 2026-11-25 05:17:11</time>  
+<time class="menu-updated" datetime="2026-11-25T14:29:39-06:00">Updated at: 2026-11-25 14:29:39</time>  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-25)  
 **Tuna**  
 In name:   
@@ -27,10 +27,6 @@ In name:
 In name:   
  - Redhook Ale Breaded Shrimp @ *1849*  
   
-**Tuna**  
-In name:   
- - Tuna Salad @ *Delicious*  
-  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -43,7 +39,6 @@ In description:
   
 **beef**  
 In name:   
- - Beef Chili @ *Great Greens*  
  - Beef Goulash w/Egg Noodles @ *1849*  
  - Beef Barbacoa @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
@@ -54,8 +49,9 @@ In name:
   
 **chicken**  
 In name:   
+ - Chicken Chili @ *Great Greens*  
  - Chicken Korma @ *1849*  
- - Chicken Wings Boneless Plain @ *Global Kitchen*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-11-25)  
 **Chicken Drummies**  
@@ -87,7 +83,6 @@ In name:
   
 In description:   
  - Appetizer -  Pakoras Vegetable (Veg) @ *Global Kitchen*  
- - Tofu & Vegetable Tikka Masala @ *Global Kitchen*  
   
 **beef**  
 In name:   
@@ -96,9 +91,7 @@ In name:
   
 **chicken**  
 In name:   
- - Greek Chicken @ *1849*  
  - Chicken Drummies @ *1849*  
- - Butter Chicken @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-11-25)  
 **Beef Alicha**  
