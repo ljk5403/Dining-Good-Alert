@@ -1,6 +1,6 @@
 # 2026-11-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-24 19:19:34  
+<time class="menu-updated" datetime="2026-11-24T19:21:29-06:00">Updated at: 2026-11-24 19:21:29</time>  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-25)  
 **fish**  
 In name:   
@@ -177,5 +177,4 @@ In description:
  - Italian Meatball Sandwich @ *Fired Up:  Available Between 11am-2pm*  
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/lunch/2026-11-25)  
   

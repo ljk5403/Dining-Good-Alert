@@ -1,6 +1,6 @@
 # 2026-11-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-24 19:19:35  
+<time class="menu-updated" datetime="2026-11-24T19:21:30-06:00">Updated at: 2026-11-24 19:21:30</time>  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-25)  
 **Tuna**  
 In name:   
@@ -173,5 +173,4 @@ In name:
 In description:   
  - Pizza Slice Deluxe (Pork) @ *Capital City Pizza*  
   
-## [lowell-market](https://wisc-housingdining.nutrislice.com/menu/lowell-market/dinner/2026-11-25)  
   
