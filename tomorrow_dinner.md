@@ -1,6 +1,6 @@
 # 2026-11-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-24 10:59:54  
+Updated at: 2026-11-24 19:19:35  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-25)  
 **Tuna**  
 In name:   
@@ -76,7 +76,6 @@ In name:
   
 In description:   
  - Appetizer -  Pakoras Vegetable (Veg) @ *Global Kitchen*  
- - Tofu & Vegetable Tikka Masala @ *Global Kitchen*  
   
 **beef**  
 In name:   
@@ -85,9 +84,7 @@ In name:
   
 **chicken**  
 In name:   
- - Greek Chicken @ *1849*  
  - Chicken Drummies @ *1849*  
- - Butter Chicken @ *Global Kitchen*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-11-25)  
 **Beef Alicha**  

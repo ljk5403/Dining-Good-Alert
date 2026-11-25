@@ -1,6 +1,6 @@
 # 2026-11-24 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-24 10:59:46  
+Updated at: 2026-11-24 19:19:29  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-24)  
 **portabella**  
 In name:   
@@ -43,7 +43,7 @@ In name:
   
 **chicken**  
 In name:   
- - Jamaican Jerk Chicken @ *1849*  
+ - Blackened Chicken @ *1849*  
  - Chicken Dumpling Soup @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
@@ -58,10 +58,6 @@ In description:
 **Salmon**  
 In name:   
  - Smoked Salmon @ *1849*  
-  
-**Tuna**  
-In name:   
- - Tuna Salad @ *Delicious*  
   
 **beef**  
 In name:   
@@ -80,14 +76,13 @@ In name:
 In name:   
  - Mediterranean Chicken @ *Create-A-Bowl*  
  - Chicken Creole @ *1849*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
  - Italian Chicken @ *Global Kitchen*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-11-24)  
 **Salmon**  
 In name:   
- - Ginger Glazed Salmon @ *1849*  
- - Salmon Philly Roll - FujiSan @ *Global Kitchen - Monsoon Kitchen Takeover*  
- - Salmon Spicy Roll - FujiSan @ *Global Kitchen - Monsoon Kitchen Takeover*  
+ - Masala Spiced Salmon @ *1849*  
   
 **Tuna**  
 In name:   
@@ -105,7 +100,7 @@ In description:
   
 **beef**  
 In name:   
- - Beef Goulash @ *1849*  
+ - Beef Enchilada Bake @ *1849*  
   
 **chicken**  
 In name:   
@@ -113,20 +108,18 @@ In name:
  - Chicken Dumpling Soup @ *Great Greens*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-11-24)  
-**fish**  
-In name:   
-  
-In description:   
- - Filipino Barbecue Pork @ *Global Kitchen*  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
   
+**Filipino Pork Sausage**  
+In name:   
+ - Filipino Pork Sausage @ *Global Kitchen*  
+  
 **beef**  
 In name:   
- - Beef Tri Tip Carved w/ Chimichurri @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
+ - Beef Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
@@ -135,7 +128,7 @@ In description:
   
 **pork**  
 In name:   
- - Filipino Barbecue Pork @ *Global Kitchen*  
+ - Filipino Pork Sausage @ *Global Kitchen*  
  - Italian Pork Sausage @ *Buona Cucina*  
   
 In description:   

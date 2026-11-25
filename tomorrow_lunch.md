@@ -1,6 +1,6 @@
 # 2026-11-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-24 10:59:51  
+Updated at: 2026-11-24 19:19:34  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-25)  
 **fish**  
 In name:   
@@ -82,7 +82,6 @@ In name:
   
 **curry**  
 In name:   
- - Curry Cauliflower & Butternut Squash @ *Global Kitchen - Monsoon Kitchen Takeover*  
  - Curry Potatoes @ *Global Kitchen - Monsoon Kitchen Takeover*  
   
 In description:   
@@ -91,7 +90,6 @@ In description:
 **beef**  
 In name:   
  - Texas BBQ Sliced Beef Brisket @ *1849*  
- - Beef Harissa @ *1849*  
  - Beef Chili @ *Great Greens*  
   
 **chicken**  

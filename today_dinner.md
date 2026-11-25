@@ -1,14 +1,10 @@
 # 2026-11-24 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-Updated at: 2026-11-24 10:59:50  
+Updated at: 2026-11-24 19:19:32  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-24)  
 **Samosas**  
 In name:   
  - Samosas @ *Global Kitchen*  
-  
-**Salmon**  
-In name:   
- - Oven Roasted Salmon @ *1849*  
   
 **lamb**  
 In name:   
@@ -27,6 +23,7 @@ In name:
 **beef**  
 In name:   
  - Beef & Chicken Meatballs @ *Buona Cucina*  
+ - Beef Ravioli Plain @ *Buona Cucina*  
  - Beef Street Taco @ *Fired Up*  
  - Beef Vindaloo @ *Global Kitchen*  
  - Plant-Based Beef Curry Squash @ *Global Kitchen*  
@@ -38,7 +35,8 @@ In description:
   
 **chicken**  
 In name:   
- - Greek Chicken @ *1849*  
+ - BBQ Chicken Wings Bone-In @ *1849*  
+ - Chicken Spaghetti @ *1849*  
  - Chicken Dumpling Soup @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
  - Plant Based Chicken Strips @ *Buona Cucina*  
@@ -49,15 +47,15 @@ In description:
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-11-24)  
+**Shrimp**  
+In name:   
+ - Popcorn Shrimp Basket @ *1849*  
+  
 **fish**  
 In name:   
   
 In description:   
  - Beef Masaman Thai Curry @ *1849*  
-  
-**Tuna**  
-In name:   
- - Tuna Salad @ *Delicious*  
   
 **curry**  
 In name:   
@@ -65,7 +63,6 @@ In name:
   
 **beef**  
 In name:   
- - Mediterranean Beef @ *Create-A-Bowl*  
  - Beef & Bean Chili @ *Great Greens*  
  - Beef Masaman Thai Curry @ *1849*  
  - Beef Taco Meat @ *Que Rico*  
@@ -80,16 +77,10 @@ In name:
   
 **chicken**  
 In name:   
- - Mediterranean Chicken @ *Create-A-Bowl*  
- - Chicken Breast w/Red Pepper Cream @ *1849*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
  - Italian Chicken @ *Global Kitchen*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-11-24)  
-**Salmon**  
-In name:   
- - Salmon Philly Roll - FujiSan @ *Global Kitchen*  
- - Salmon Spicy Roll - FujiSan @ *Global Kitchen*  
-  
 **Tuna**  
 In name:   
  - Tuna Salad @ *Delicious*  
@@ -106,7 +97,7 @@ In description:
   
 **chicken**  
 In name:   
- - Huli Huli Chicken @ *1849*  
+ - Chicken Pot Pie w/Biscuit @ *1849*  
  - Chicken Dumpling Soup @ *Great Greens*  
  - Crispy Chicken Sandwich @ *Global Kitchen*  
   
@@ -115,9 +106,14 @@ In name:
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
   
+**Filipino Pork Sausage**  
+In name:   
+ - Filipino Pork Sausage @ *1849*  
+  
 **beef**  
 In name:   
  - Beef Taco Meat @ *Gordon Que Rico*  
+ - Beef Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
@@ -127,6 +123,7 @@ In description:
 **pork**  
 In name:   
  - BBQ Pork Chop @ *1849*  
+ - Filipino Pork Sausage @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
   
 In description:   
