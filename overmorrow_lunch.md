@@ -1,37 +1,41 @@
-# 2026-11-27 lunch  
+# 2026-11-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-<time class="menu-updated" datetime="2026-11-25T21:34:06-06:00">Updated at: 2026-11-25 21:34:06</time>  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-27)  
-**clam**  
+<time class="menu-updated" datetime="2026-11-26T07:53:51-06:00">Updated at: 2026-11-26 07:53:51</time>  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-28)  
+**steak**  
 In name:   
- - Clam Chowder @ *Great Greens*  
+ - Philly Cheesesteak Sandwich @ *Fired Up*  
   
-**Tuna**  
+**curry**  
 In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
   
-**watermelon**  
-In name:   
- - Watermelon Slices @ *Great Greens*  
+In description:   
+ - Chicken Ala King over Biscuit @ *Buona Cucina*  
   
 **beef**  
 In name:   
   
 In description:   
- - Pork Bratwurst Sandwich @ *Fired Up*  
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Philly Cheesesteak Sandwich @ *Fired Up*  
   
 **pork**  
 In name:   
- - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
- - Pork Bratwurst Sandwich @ *Fired Up*  
+ - Pork Sausage Patty @ *Buona Cucina*  
   
 **chicken**  
 In name:   
- - Chicken Creole @ *Buona Cucina*  
- - Diced Chicken Breast @ *Buona Cucina*  
+ - Diced Chicken @ *Great Greens*  
+ - Chicken Chili @ *Great Greens*  
+ - Chicken Ala King over Biscuit @ *Buona Cucina*  
+ - Sausage Links Chicken (halal) (AYCTE) @ *Buona Cucina*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-11-27)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-11-27)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-11-27)  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-11-27)  
+In description:   
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-11-28)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-11-28)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-11-28)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-11-28)  
   
