@@ -1,6 +1,6 @@
 # 2026-11-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-<time class="menu-updated" datetime="2026-11-26T07:53:51-06:00">Updated at: 2026-11-26 07:53:51</time>  
+<time class="menu-updated" datetime="2026-11-26T16:59:14-06:00">Updated at: 2026-11-26 16:59:14</time>  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-28)  
 **steak**  
 In name:   
