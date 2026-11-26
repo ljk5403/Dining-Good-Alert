@@ -1,6 +1,6 @@
 # 2026-11-25 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-<time class="menu-updated" datetime="2026-11-25T14:29:39-06:00">Updated at: 2026-11-25 14:29:39</time>  
+<time class="menu-updated" datetime="2026-11-25T21:34:00-06:00">Updated at: 2026-11-25 21:34:00</time>  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-25)  
 **Tuna**  
 In name:   
@@ -10,23 +10,19 @@ In name:
 In name:   
  - Beef Chili @ *Great Greens*  
  - Lomo Saltado w/ Beef @ *Global Kitchen*  
- - Beef Fajita Meat @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
   
 **pork**  
 In name:   
  - Italian Pork Sausage @ *Buona Cucina*  
  - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
+ - Pork Carnita @ *Que Rico*  
   
 **chicken**  
 In name:   
  - Chicken Tinga @ *Que Rico*  
   
 ## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-11-25)  
-**Shrimp**  
-In name:   
- - Redhook Ale Breaded Shrimp @ *1849*  
-  
 **watermelon**  
 In name:   
  - Watermelon Slices @ *Great Greens*  
@@ -39,19 +35,16 @@ In description:
   
 **beef**  
 In name:   
- - Beef Goulash w/Egg Noodles @ *1849*  
+ - Beef Goulash @ *1849*  
  - Beef Barbacoa @ *Que Rico*  
  - Beef Taco Meat @ *Que Rico*  
-  
-**pork**  
-In name:   
- - Imperial Pork Stir Fry @ *1849*  
   
 **chicken**  
 In name:   
  - Chicken Chili @ *Great Greens*  
  - Chicken Korma @ *1849*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Chicken Wings Boneless Plain @ *Global Kitchen*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-11-25)  
 **Chicken Drummies**  
@@ -94,14 +87,6 @@ In name:
  - Chicken Drummies @ *1849*  
   
 ## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-11-25)  
-**Beef Alicha**  
-In name:   
- - Beef Alicha @ *1849*  
-  
-**Cod**  
-In name:   
- - Caribbean Cod @ *1849*  
-  
 **Tuna**  
 In name:   
  - Lemon Pepper Tuna Salad @ *Delicious*  
@@ -110,10 +95,12 @@ In name:
 In name:   
  - Watermelon Slices @ *Great Greens*  
   
+**Filipino Pork Sausage**  
+In name:   
+ - Filipino Pork Sausage @ *1849*  
+  
 **beef**  
 In name:   
- - Beef Alicha @ *1849*  
- - Plant-Based Beef Bean & Carrot Stir Fry @ *1849*  
  - Beef Taco Meat @ *Gordon Que Rico*  
  - Beef Chili @ *Great Greens*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
@@ -124,6 +111,7 @@ In description:
   
 **pork**  
 In name:   
+ - Filipino Pork Sausage @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
   
 In description:   
@@ -131,6 +119,7 @@ In description:
   
 **chicken**  
 In name:   
+ - Breaded Chicken Patty 2 oz @ *1849*  
  - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
  - General Tso's Chicken @ *Global Kitchen*  
  - Battered Chicken Thighs @ *Global Kitchen*  

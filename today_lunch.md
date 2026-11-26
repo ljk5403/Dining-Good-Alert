@@ -1,6 +1,6 @@
 # 2026-11-25 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-<time class="menu-updated" datetime="2026-11-25T14:29:37-06:00">Updated at: 2026-11-25 14:29:37</time>  
+<time class="menu-updated" datetime="2026-11-25T21:33:58-06:00">Updated at: 2026-11-25 21:33:58</time>  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-25)  
 **Tuna**  
 In name:   
@@ -43,6 +43,7 @@ In name:
 In name:   
  - Chicken Chili @ *Great Greens*  
  - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Chicken Wings Boneless Plain @ *Global Kitchen*  
   
 ## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-11-25)  
 **Samosas**  
@@ -108,6 +109,8 @@ In name:
  - Crispy Chicken Sandwich @ *1849*  
  - Sausage Links Chicken (halal) (AYCTE) @ *Gordon Eggcetera*  
  - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
+ - Orange Sweet & Spicy Chicken @ *Global Kitchen*  
+ - Battered Chicken Thighs @ *Global Kitchen*  
  - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
