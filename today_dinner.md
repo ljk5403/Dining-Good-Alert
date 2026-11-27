@@ -1,6 +1,6 @@
 # 2026-11-27 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-<time class="menu-updated" datetime="2026-11-27T09:04:16-06:00">Updated at: 2026-11-27 09:04:16</time>  
+<time class="menu-updated" datetime="2026-11-27T17:26:59-06:00">Updated at: 2026-11-27 17:26:59</time>  
 ## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-27)  
 **clam**  
 In name:   
