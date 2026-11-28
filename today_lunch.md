@@ -1,30 +1,41 @@
-# 2026-11-27 lunch  
+# 2026-11-28 lunch  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-<time class="menu-updated" datetime="2026-11-27T17:26:58-06:00">Updated at: 2026-11-27 17:26:58</time>  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-27)  
-**clam**  
+<time class="menu-updated" datetime="2026-11-28T01:46:29-06:00">Updated at: 2026-11-28 01:46:29</time>  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/lunch/2026-11-28)  
+**steak**  
 In name:   
- - Clam Chowder @ *Great Greens*  
+ - Philly Cheesesteak Sandwich @ *Fired Up*  
   
-**Tuna**  
+**curry**  
 In name:   
- - Lemon Pepper Tuna Salad @ *Delicious*  
   
-**watermelon**  
+In description:   
+ - Chicken Ala King over Biscuit @ *Buona Cucina*  
+  
+**beef**  
 In name:   
- - Watermelon Slices @ *Great Greens*  
+  
+In description:   
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Philly Cheesesteak Sandwich @ *Fired Up*  
   
 **pork**  
 In name:   
- - Tavern Style Sausage Pizza (Pork) @ *Capital City Pizza*  
+ - Pork Sausage Patty @ *Buona Cucina*  
   
 **chicken**  
 In name:   
- - Diced Chicken Breast @ *Buona Cucina*  
- - Crispy Chicken Sandwich @ *Fired Up*  
+ - Diced Chicken @ *Great Greens*  
+ - Chicken Chili @ *Great Greens*  
+ - Chicken Ala King over Biscuit @ *Buona Cucina*  
+ - Sausage Links Chicken (halal) (AYCTE) @ *Buona Cucina*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-11-27)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-11-27)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-11-27)  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-11-27)  
+In description:   
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/lunch/2026-11-28)  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/lunch/2026-11-28)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/lunch/2026-11-28)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/lunch/2026-11-28)  
   

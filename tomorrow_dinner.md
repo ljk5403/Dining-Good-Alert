@@ -1,30 +1,143 @@
-# 2026-11-28 dinner  
+# 2026-11-29 dinner  
 *THERE COULD BE MISTAKES AND LAST-MINIUTE CHANGES! CHECK THE MENU BEFORE YOU GO!*  
-<time class="menu-updated" datetime="2026-11-27T17:27:01-06:00">Updated at: 2026-11-27 17:27:01</time>  
-## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-28)  
-**beef**  
+<time class="menu-updated" datetime="2026-11-28T01:46:32-06:00">Updated at: 2026-11-28 01:46:32</time>  
+## [rhetas-market](https://wisc-housingdining.nutrislice.com/menu/rhetas-market/dinner/2026-11-29)  
+**curry**  
 In name:   
- - Beef Hot Dog @ *Fired Up*  
+ - Curry Cauliflower & Butternut Squash @ *Global Kitchen*  
   
 In description:   
+ - Tikka Masala Chicken @ *Global Kitchen*  
+  
+**beef**  
+In name:   
+ - Beef Taco Meat @ *Que Rico*  
+  
+In description:   
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
+ - Vegan Taco Filling @ *Que Rico*  
+  
+**pork**  
+In name:   
+ - Boneless Baked Pork Ham @ *1849*  
+ - Italian Pork Sausage @ *Buona Cucina*  
+ - Pork Carnita @ *Que Rico*  
+  
+**chicken**  
+In name:   
+ - Chicken & Vegetables w/Dijon Vinaigrette @ *1849*  
+ - Chicken Chili @ *Great Greens*  
+ - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Crispy Buffalo Chicken Sandwich @ *Fired Up*  
+ - Tikka Masala Chicken @ *Global Kitchen*  
+ - Fajita Chicken @ *Que Rico*  
+  
+In description:   
+ - Pepperoni Pizza Slice @ *Capital City Pizza*  
+  
+## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-11-29)  
+**steak**  
+In name:   
+ - Brazilian Flank Steak @ *1849*  
+  
+**Cod**  
+In name:   
+ - Caribbean Cod @ *1849*  
+  
+**lamb**  
+In name:   
+ - Lamb Vindaloo @ *1849*  
+  
+**Tuna**  
+In name:   
+ - Tuna Salad @ *Delicious*  
+  
+**curry**  
+In name:   
+  
+In description:   
+ - Chana Saag w/ Tofu @ *1849*  
+ - Lamb Vindaloo @ *1849*  
+  
+**beef**  
+In name:   
+ - Beef & Chicken Meatballs @ *Global Kitchen*  
+ - Beef Taco Meat @ *Que Rico*  
+  
+In description:   
+ - Brazilian Flank Steak @ *1849*  
+ - Fired Up Blended Burger @ *Fired Up*  
+  
+**pork**  
+In name:   
+ - Pork Carnita @ *Que Rico*  
+  
+**chicken**  
+In name:   
+ - Chicken Chili @ *Great Greens*  
+ - Beef & Chicken Meatballs @ *Global Kitchen*  
+ - Plant Based Chicken Strips @ *Global Kitchen*  
+  
+## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-11-29)  
+## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-11-29)  
+**Tuna**  
+In name:   
+ - Lemon Pepper Tuna Salad @ *Delicious*  
+  
+**beef**  
+In name:   
+ - Beef Taco Meat @ *Gordon Que Rico*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
+  
+In description:   
+ - King's Hawaiian Sand Blended Burger @ *King's Hawaiian*  
+ - Gluten Free Pepperoni Pizza Quarter @ *Capital City Pizza*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
 **pork**  
 In name:   
+ - Pork Chop (1) @ *1849*  
  - Italian Pork Sausage @ *Buona Cucina*  
+  
+In description:   
+ - Pizza Slice Sausage @ *Capital City Pizza*  
   
 **chicken**  
 In name:   
- - Diced Chicken @ *Great Greens*  
+ - Breaded Chicken Tenders @ *1849*  
+ - Chicken Taco w/Pulled Meat @ *Gordon Que Rico*  
  - Chicken Chili @ *Great Greens*  
- - Brazilian Chicken w/ Salsa Vinaigrette @ *Buona Cucina*  
- - Lemon Pepper Chicken Salad @ *Delicious*  
+ - Beef & Chicken Meatballs @ *Buona Cucina*  
   
 In description:   
+ - Gluten Free Pepperoni Pizza Quarter @ *Capital City Pizza*  
  - Pepperoni Pizza Slice @ *Capital City Pizza*  
   
-## [four-lakes-market](https://wisc-housingdining.nutrislice.com/menu/four-lakes-market/dinner/2026-11-28)  
-## [lizs-market](https://wisc-housingdining.nutrislice.com/menu/lizs-market/dinner/2026-11-28)  
-## [gordon-avenue-market](https://wisc-housingdining.nutrislice.com/menu/gordon-avenue-market/dinner/2026-11-28)  
-## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-11-28)  
+## [carsons-market](https://wisc-housingdining.nutrislice.com/menu/carsons-market/dinner/2026-11-29)  
+**Salmon**  
+In name:   
+ - Blackened Salmon @ *1849*  
+  
+**beef**  
+In name:   
+ - Beef Taco Meat @ *Global*  
+ - Homemade Beef Lasagna @ *Fired Up*  
+  
+In description:   
+ - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza*  
+  
+**pork**  
+In name:   
+  
+In description:   
+ - Pizza Slice Sausage & Mushroom @ *Capital City Pizza*  
+  
+**chicken**  
+In name:   
+ - Chicken Tinga @ *Global*  
+ - Chicken Chili @ *Great Greens*  
+  
+In description:   
+ - Pizza Pepperoni & Banana Pepper @ *Capital City Pizza*  
+  
   
